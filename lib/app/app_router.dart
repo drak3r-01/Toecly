@@ -3,7 +3,9 @@ import 'package:material_ui/material_ui.dart';
 
 import '../features/dashboard/dashboard_screen.dart';
 import '../features/mock_exam/mock_exam_screen.dart';
+import '../data/quiz/quiz_request.dart';
 import '../features/practice/practice_setup_screen.dart';
+import '../features/quiz/quiz_screen.dart';
 import '../features/review/review_screen.dart';
 import '../features/settings/settings_screen.dart';
 import 'navigation/app_destination.dart';
@@ -19,6 +21,13 @@ GoRouter createAppRouter() {
   return GoRouter(
     initialLocation: AppDestination.dashboard.path,
     routes: [
+      GoRoute(
+        path: '/quiz',
+        pageBuilder: (context, state) => fadeSlidePage(
+          state: state,
+          child: QuizScreen(request: QuizRequest.fromQuery(state.uri.queryParameters)),
+        ),
+      ),
       StatefulShellRoute.indexedStack(
         builder: (context, state, navigationShell) =>
             ResponsiveShell(navigationShell: navigationShell),

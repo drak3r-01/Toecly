@@ -1,0 +1,120 @@
+[
+  {
+    "id": "p7-sample-003",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Team chat",
+        "text": "Priya: Is the projector in room 4 working?\nLuis: No, the bulb burned out this morning.\nPriya: Then let's move the presentation to room 2.\nLuis: Good idea. I'll tell the others now."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What problem do the speakers discuss?",
+        "category": "main_idea",
+        "choices": [
+          "The projector is not working",
+          "The room is too small",
+          "The presentation is canceled",
+          "The schedule is full"
+        ],
+        "answerIndex": 0,
+        "explanation": "Luis says the bulb burned out, so the projector does not work."
+      },
+      {
+        "prompt": "What will the speakers do?",
+        "category": "detail",
+        "choices": [
+          "Buy a new bulb",
+          "Use another room",
+          "Postpone the presentation",
+          "Call a technician"
+        ],
+        "answerIndex": 1,
+        "explanation": "Priya suggests moving the presentation to room 2."
+      }
+    ]
+  },
+  {
+    "id": "p7-sample-004",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Lakeside Hotel",
+        "text": "Book a weekend at the Lakeside Hotel and enjoy 20% off. Offer valid for stays until June 30. Breakfast is included."
+      },
+      {
+        "type": "email",
+        "title": "Booking confirmation",
+        "text": "Dear Mr. Evans,\nYour reservation for June 14-15 is confirmed. The discount has been applied. A parking space is available for an additional $10 per night.\nLakeside Hotel"
+      },
+      {
+        "type": "invoice",
+        "title": "Invoice",
+        "text": "Room, 1 night: $120.00\nDiscount (20%): -$24.00\nParking: $10.00\nTotal: $106.00"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is mentioned about the offer in the advertisement?",
+        "category": "detail",
+        "choices": [
+          "It includes breakfast",
+          "It is valid all year",
+          "It requires a deposit",
+          "It is limited to families"
+        ],
+        "answerIndex": 0,
+        "explanation": "The advertisement says breakfast is included."
+      },
+      {
+        "prompt": "What can be inferred about Mr. Evans?",
+        "category": "inference",
+        "choices": [
+          "Mr. Evans booked a stay for two nights",
+          "Mr. Evans booked a stay before the offer ended",
+          "Mr. Evans canceled his reservation",
+          "Mr. Evans paid for breakfast separately"
+        ],
+        "answerIndex": 1,
+        "explanation": "The stay (June 14-15) falls before the offer's end date of June 30."
+      },
+      {
+        "prompt": "How much did Mr. Evans pay in total?",
+        "category": "detail",
+        "choices": [
+          "$96.00",
+          "$106.00",
+          "$120.00",
+          "$130.00"
+        ],
+        "answerIndex": 1,
+        "explanation": "The invoice total is $106.00."
+      },
+      {
+        "prompt": "What additional service can be added to the reservation?",
+        "category": "detail",
+        "choices": [
+          "Airport transfer",
+          "Parking",
+          "Late checkout",
+          "A spa treatment"
+        ],
+        "answerIndex": 1,
+        "explanation": "The e-mail offers a parking space for $10 per night."
+      },
+      {
+        "prompt": "What is the purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To confirm a reservation",
+          "To advertise a discount",
+          "To request a payment",
+          "To apologize for a delay"
+        ],
+        "answerIndex": 0,
+        "explanation": "The e-mail opens with 'Your reservation ... is confirmed'."
+      }
+    ]
+  }
+]

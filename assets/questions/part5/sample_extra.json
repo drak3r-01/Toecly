@@ -1,0 +1,106 @@
+[
+  {
+    "id": "p5-sample-004",
+    "sentence": "Ms. Tanaka was ___ to the position of regional director last week.",
+    "choices": [
+      "promote",
+      "promoted",
+      "promoting",
+      "promotion"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "Passive voice: 'was' + past participle."
+  },
+  {
+    "id": "p5-sample-005",
+    "sentence": "The new software is ___ easier to use than the previous version.",
+    "choices": [
+      "much",
+      "very",
+      "so",
+      "too"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Much' intensifies a comparative; 'very', 'so' and 'too' do not."
+  },
+  {
+    "id": "p5-sample-006",
+    "sentence": "Please keep your receipt as ___ of purchase.",
+    "choices": [
+      "proof",
+      "prove",
+      "provable",
+      "proving"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Proof of purchase' is a fixed expression (noun needed after 'as')."
+  },
+  {
+    "id": "p5-sample-007",
+    "sentence": "Mr. Garcia asked ___ the conference room had been reserved.",
+    "choices": [
+      "whether",
+      "unless",
+      "although",
+      "despite"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whether' introduces an indirect yes/no question."
+  },
+  {
+    "id": "p5-sample-008",
+    "sentence": "The factory will remain closed ___ the renovation is finished.",
+    "choices": [
+      "until",
+      "during",
+      "while",
+      "since"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Until' is followed by a clause and marks the end of a period."
+  },
+  {
+    "id": "p5-sample-009",
+    "sentence": "All visitors are required to wear a ___ badge at all times.",
+    "choices": [
+      "visible",
+      "visibly",
+      "visibility",
+      "visibles"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'badge'."
+  },
+  {
+    "id": "p5-sample-010",
+    "sentence": "Our supplier delivers orders ___ within three business days.",
+    "choices": [
+      "typically",
+      "typical",
+      "type",
+      "typify"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb is needed to modify the verb 'delivers'."
+  },
+  {
+    "id": "p5-sample-011",
+    "sentence": "The committee will ___ the proposal before making a final decision.",
+    "choices": [
+      "review",
+      "reviewing",
+      "reviewed",
+      "reviews"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After the modal 'will', the base form of the verb is used."
+  }
+]

@@ -97,5 +97,48 @@
   "categoryInference": "Inference",
   "categoryPurpose": "Purpose",
   "categoryNotTrue": "NOT true",
-  "categoryVocabularyInContext": "Vocabulary in context"
+  "categoryVocabularyInContext": "Vocabulary in context",
+  "quickStartTitle": "Quick start",
+  "quickStartHint": "10 random questions with immediate correction.",
+  "quizQuestionCounter": "Question {current} / {total}",
+  "@quizQuestionCounter": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "quizNext": "Next",
+  "quizFinish": "Finish",
+  "quizClose": "Close",
+  "quizCorrect": "Correct!",
+  "quizIncorrect": "Incorrect",
+  "quizExplanation": "Explanation",
+  "quizBlankLabel": "Blank {number}",
+  "@quizBlankLabel": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "quizSummaryTitle": "Session complete",
+  "quizSummaryScore": "{correct} / {total} correct",
+  "@quizSummaryScore": {
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "quizBackToPractice": "Back to practice",
+  "quizEmpty": "No questions available for this selection.",
+  "quizLoadError": "The questions could not be loaded.",
+  "quickStartAllParts": "All parts"
 }

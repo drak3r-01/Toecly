@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p6-sample-002",
+    "documentType": "notice",
+    "text": "NOTICE TO ALL TENANTS\n\nThe water supply will be [1] on Saturday, April 12, from 8 a.m. to noon. This interruption is necessary [2] the pipes in the basement must be repaired. [3] We apologize for any inconvenience this may cause. Residents are advised to store enough water for the morning. If you have any questions, please [4] the building manager.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "interrupt",
+          "interrupted",
+          "interrupting",
+          "interrupts"
+        ],
+        "answerIndex": 1,
+        "explanation": "Passive voice: 'will be' + past participle."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "because",
+          "although",
+          "unless",
+          "whereas"
+        ],
+        "answerIndex": 0,
+        "explanation": "The repair of the pipes is the reason for the interruption."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "The work should be completed by early afternoon.",
+          "The building was constructed in 1985.",
+          "Rent is due on the first of each month.",
+          "Parking is available behind the building."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence continues the announcement about the planned repair work and its timing."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "contact",
+          "contacting",
+          "contacted",
+          "contacts"
+        ],
+        "answerIndex": 0,
+        "explanation": "After 'please', the base form of the verb is used."
+      }
+    ]
+  }
+]
