@@ -1,0 +1,632 @@
+[
+  {
+    "id": "p7-051",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Leadership workshop registration",
+        "text": "To: All Department Heads\nFrom: Sylvia Marsh, Training Coordinator\nDate: March 4\n\nDear department heads,\nRegistration is now open for the two-day Leadership Essentials workshop, which will be held at the Lakeside Conference Center on April 16 and 17. The workshop is led by consultant Dr. Omar Haddad and covers delegation, conflict resolution, and performance feedback. Each department may send up to three participants. The registration fee of $450 per person will be paid by the company, but travel and hotel costs are not covered for staff based outside the city. Please submit names to me by March 22. Because space is limited to 60 people overall, places will be allocated on a first-come, first-served basis."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To announce a new consultant",
+          "To invite departments to register for a workshop",
+          "To change a training date",
+          "To request a travel budget"
+        ],
+        "answerIndex": 1,
+        "explanation": "Registration is open for the Leadership Essentials workshop."
+      },
+      {
+        "prompt": "How many participants can each department send?",
+        "category": "detail",
+        "choices": [
+          "Only one",
+          "Up to six",
+          "Sixty",
+          "Up to three"
+        ],
+        "answerIndex": 3,
+        "explanation": "The e-mail says each department may send up to three participants."
+      },
+      {
+        "prompt": "What is suggested about late registrations?",
+        "category": "inference",
+        "choices": [
+          "They might not receive a place",
+          "They will be free",
+          "They will be accepted automatically",
+          "They will join a repeat workshop"
+        ],
+        "answerIndex": 0,
+        "explanation": "Places are limited to 60 and allocated first come, first served."
+      }
+    ]
+  },
+  {
+    "id": "p7-052",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "For Lease: Modern Office Space",
+        "text": "55 Commerce Drive, Suite 300: 1,800 square feet on the third floor with views of the river. Open-plan layout with four private offices and a conference room. High-speed fiber internet is included. Rent: $38 per square foot per year, plus a $250 monthly parking fee for up to four spaces. Available March 1; lease terms of three to five years. Tenants benefit from an on-site café and a fitness center. A discount of 5 percent is offered to businesses that sign before January 31. To arrange a viewing, contact Parkview Realty at 555-0177."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is included in the lease?",
+        "category": "detail",
+        "choices": [
+          "Parking spaces",
+          "Furniture",
+          "Fast internet access",
+          "Cleaning services"
+        ],
+        "answerIndex": 2,
+        "explanation": "The ad states that high-speed fiber internet is included; parking costs extra."
+      },
+      {
+        "prompt": "What is the annual base rent of the suite?",
+        "category": "inference",
+        "choices": [
+          "$45,600",
+          "$65,000",
+          "$68,400",
+          "$71,400"
+        ],
+        "answerIndex": 2,
+        "explanation": "1,800 square feet at $38 per square foot is $68,400."
+      },
+      {
+        "prompt": "How can a business get a discount?",
+        "category": "detail",
+        "choices": [
+          "By signing before January 31",
+          "By renting parking spaces",
+          "By signing a five-year lease",
+          "By visiting the fitness center"
+        ],
+        "answerIndex": 0,
+        "explanation": "A 5 percent discount applies to leases signed before January 31."
+      }
+    ]
+  },
+  {
+    "id": "p7-053",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Coastal Air Adds Direct Flights to Lisbon",
+        "text": "PORTLAND (May 7) - Coastal Air announced on Tuesday that it will launch direct flights between Portland and Lisbon starting October 1. [A] The service will operate four days a week using a 180-seat aircraft and is expected to cut travel time by about three hours compared with current connecting itineraries. [B] Introductory round-trip fares will start at $549 for tickets booked before July 31. [C] Tourism officials in Portland welcomed the news, saying the route should bring more European visitors to the region, while local businesses hope for increased cargo opportunities. [D] Coastal Air currently serves 24 cities in North America and plans to add two more European destinations next year."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is reported in the article?",
+        "category": "main_idea",
+        "choices": [
+          "A cut in prices on all routes",
+          "The purchase of a new airport",
+          "The retirement of an aircraft",
+          "A new international air route"
+        ],
+        "answerIndex": 3,
+        "explanation": "Coastal Air will start direct Portland to Lisbon flights."
+      },
+      {
+        "prompt": "How often will the flights operate?",
+        "category": "detail",
+        "choices": [
+          "Every day",
+          "Four days a week",
+          "Twice a week",
+          "Every other day"
+        ],
+        "answerIndex": 1,
+        "explanation": "The service will operate four days a week."
+      },
+      {
+        "prompt": "What is suggested about current trips from Portland to Lisbon?",
+        "category": "inference",
+        "choices": [
+          "They are cheaper",
+          "They require a connection",
+          "They take less time",
+          "They are operated by Coastal Air"
+        ],
+        "answerIndex": 1,
+        "explanation": "The new flight will cut time compared with connecting itineraries."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Fares will rise after that date.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "'That date' refers to July 31, mentioned in the sentence about introductory fares just before [C]."
+      }
+    ]
+  },
+  {
+    "id": "p7-054",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Notice to residents",
+        "text": "Willow Court Apartments\nJune 10\n\nDear Residents,\nI am writing to inform you of changes that will take effect on September 1. After five years without an increase, rents will rise by 4 percent to cover higher maintenance and insurance costs. For a typical one-bedroom unit, this means an increase of $52 per month. Leases renewed before July 31 will be exempt from the increase for the first six months. In addition, we will repaint the hallways in August and replace the laundry machines in the basement in October; some inconvenience may occur during this work. If you have questions, please visit the management office, open weekdays from 9 a.m. to 5 p.m.\nSincerely,\nBrenda Hollis\nProperty Manager"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Brenda Hollis write the letter?",
+        "category": "purpose",
+        "choices": [
+          "To invite residents to a meeting",
+          "To announce the sale of the building",
+          "To collect overdue payments",
+          "To inform residents of a rent increase"
+        ],
+        "answerIndex": 3,
+        "explanation": "Rents will rise by 4 percent on September 1."
+      },
+      {
+        "prompt": "What is the current monthly rent of a typical one-bedroom unit?",
+        "category": "inference",
+        "choices": [
+          "$1,300",
+          "$52",
+          "$1,248",
+          "$1,352"
+        ],
+        "answerIndex": 0,
+        "explanation": "$52 is 4 percent of $1,300."
+      },
+      {
+        "prompt": "What can residents do to delay the increase?",
+        "category": "detail",
+        "choices": [
+          "Pay in advance",
+          "Move to a smaller unit",
+          "Renew their leases before July 31",
+          "Sign up for laundry service"
+        ],
+        "answerIndex": 2,
+        "explanation": "Leases renewed before July 31 are exempt for six months."
+      },
+      {
+        "prompt": "What will happen in August?",
+        "category": "detail",
+        "choices": [
+          "The rents will rise",
+          "The laundry machines will be replaced",
+          "The hallways will be repainted",
+          "The management office will close"
+        ],
+        "answerIndex": 2,
+        "explanation": "The hallways will be repainted in August."
+      }
+    ]
+  },
+  {
+    "id": "p7-055",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Message from Rapid Parcel",
+        "text": "Hello, this is Rapid Parcel. We attempted to deliver your package (tracking number RP-48120) at 11:20 a.m. today, but no one was available to sign. Your package is a signature-required item. We will try again tomorrow between 9 a.m. and 1 p.m. Alternatively, you can collect it today before 7 p.m. from our depot at 70 Foundry Road with a photo ID, or reply with the word RESCHEDULE and a preferred date. After three failed attempts, the package will be returned to the sender."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Rapid Parcel send the message?",
+        "category": "purpose",
+        "choices": [
+          "To explain a failed delivery attempt",
+          "To confirm a successful delivery",
+          "To request a payment",
+          "To advertise a new service"
+        ],
+        "answerIndex": 0,
+        "explanation": "No one was available to sign when the courier arrived."
+      },
+      {
+        "prompt": "What must a customer bring to collect the package?",
+        "category": "detail",
+        "choices": [
+          "A copy of the invoice",
+          "A letter from the sender",
+          "A payment for storage",
+          "A photo ID"
+        ],
+        "answerIndex": 3,
+        "explanation": "The depot requires a photo ID."
+      },
+      {
+        "prompt": "What will happen if three delivery attempts fail?",
+        "category": "detail",
+        "choices": [
+          "The package will be destroyed",
+          "The package will go back to the sender",
+          "The customer will be charged",
+          "The package will be held for a month"
+        ],
+        "answerIndex": 1,
+        "explanation": "After three failed attempts, it is returned to the sender."
+      }
+    ]
+  },
+  {
+    "id": "p7-056",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Pageturner Books: Shipping Information",
+        "text": "Standard shipping (5 to 7 business days): $4.99; free on orders over $35. Express shipping (2 business days): $12.99. International orders: shipping costs are calculated at checkout, and delivery takes 10 to 15 business days. Orders placed before 2 p.m. Eastern Time ship the same day (Monday to Friday). Pre-ordered titles ship on the release date. Returns are accepted within 30 days for unopened items in original condition; return shipping is free for defective books. E-books and gift cards are non-refundable."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much does standard shipping cost on a $40 order?",
+        "category": "detail",
+        "choices": [
+          "$4.99",
+          "Nothing",
+          "$12.99",
+          "$35"
+        ],
+        "answerIndex": 1,
+        "explanation": "Standard shipping is free on orders over $35."
+      },
+      {
+        "prompt": "When will an order placed on Wednesday at 3 p.m. Eastern Time ship?",
+        "category": "inference",
+        "choices": [
+          "On Wednesday",
+          "On Friday",
+          "On the release date",
+          "On Thursday"
+        ],
+        "answerIndex": 3,
+        "explanation": "Orders placed after 2 p.m. do not ship the same day."
+      },
+      {
+        "prompt": "Which item can NOT be returned?",
+        "category": "not_true",
+        "choices": [
+          "A gift card",
+          "An unopened paperback",
+          "A defective book",
+          "An unopened hardcover"
+        ],
+        "answerIndex": 0,
+        "explanation": "E-books and gift cards are non-refundable."
+      }
+    ]
+  },
+  {
+    "id": "p7-057",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Ironwood Fitness: Group Class Schedule",
+        "text": "Monday: 6:00 a.m. Cycling; 5:30 p.m. Yoga\nTuesday: 7:00 a.m. Strength Circuit; 6:30 p.m. Boxing Basics\nWednesday: 6:00 a.m. Cycling; 5:30 p.m. Pilates\nThursday: 7:00 a.m. Strength Circuit; 6:30 p.m. Zumba\nSaturday: 9:00 a.m. Yoga; 10:30 a.m. Family Fitness\n\nClasses are included with every membership. Sign up at the front desk or on the app up to 24 hours ahead; classes are limited to 20 participants. Cancel at least 3 hours before class to avoid a $5 no-show fee."
+      },
+      {
+        "type": "email",
+        "title": "Pilates class",
+        "text": "To: info@ironwoodfitness.example\nFrom: Gloria Banks\nDate: November 20\n\nHello,\nI joined in January and would like to attend the Pilates class. Unfortunately, I work until 6 p.m. on Wednesdays and cannot make it. Is there another Pilates option? I would also like to know when the Family Fitness class is held, as I would like to bring my nine-year-old nephew.\nThanks,\nGloria Banks"
+      },
+      {
+        "type": "notice",
+        "title": "Holiday hours",
+        "text": "Ironwood Fitness will be closed on Thursday, November 28. It will be open from 8 a.m. to 2 p.m. on Friday, November 29. The Thursday classes will not take place; the Strength Circuit will be held on Wednesday, November 27, at 7:00 a.m. instead. Saturday classes will run as usual. A new Pilates class on Fridays at 6:30 p.m. will begin on December 6."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Gloria Banks' problem?",
+        "category": "detail",
+        "choices": [
+          "The class is full",
+          "The class costs extra",
+          "The Pilates class conflicts with a work schedule",
+          "A cancellation fee was charged"
+        ],
+        "answerIndex": 2,
+        "explanation": "Gloria Banks works until 6 p.m. on Wednesdays."
+      },
+      {
+        "prompt": "When will a new Pilates option become available?",
+        "category": "inference",
+        "choices": [
+          "On November 27",
+          "On November 29",
+          "On December 6",
+          "On January 1"
+        ],
+        "answerIndex": 2,
+        "explanation": "The notice says a Friday 6:30 p.m. Pilates class begins December 6."
+      },
+      {
+        "prompt": "When is the Family Fitness class held?",
+        "category": "detail",
+        "choices": [
+          "Saturday at 10:30 a.m.",
+          "Friday at 6:30 p.m.",
+          "Sunday at 10:00 a.m.",
+          "Wednesday at 5:30 p.m."
+        ],
+        "answerIndex": 0,
+        "explanation": "The schedule lists it on Saturdays at 10:30 a.m."
+      },
+      {
+        "prompt": "What will happen on November 28?",
+        "category": "detail",
+        "choices": [
+          "A Zumba class will take place",
+          "The gym will open from 8 a.m. to 2 p.m.",
+          "Classes will be free",
+          "The gym will be closed"
+        ],
+        "answerIndex": 3,
+        "explanation": "The notice says the gym will be closed on Thursday, November 28."
+      },
+      {
+        "prompt": "What happens if a member does not attend and fails to cancel at least 3 hours before?",
+        "category": "detail",
+        "choices": [
+          "The membership is suspended",
+          "A $5 fee is charged",
+          "A $20 fee is charged",
+          "Nothing happens"
+        ],
+        "answerIndex": 1,
+        "explanation": "The web page mentions a $5 no-show fee."
+      }
+    ]
+  },
+  {
+    "id": "p7-058",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Helios Solar Opens Factory in Brookfield",
+        "text": "BROOKFIELD (June 12) - Helios Solar, a manufacturer of rooftop solar panels, opened a new factory in Brookfield on Monday, bringing production closer to its customers in the Midwest. The 200,000-square-foot facility will produce 500,000 panels per year and employ 300 people by the end of next year. \"Our previous plant couldn't keep up with orders,\" said operations director Marcus Ellery. The company will hire for production, quality control, and logistics roles, with many positions open to entry-level applicants who will receive on-the-job training. A job fair will be held at the plant on June 29 from 10 a.m. to 3 p.m."
+      },
+      {
+        "type": "job_ad",
+        "title": "Quality Control Technician: Helios Solar",
+        "text": "Helios Solar is looking for Quality Control Technicians for its new Brookfield factory. Responsibilities: inspect panels for defects, record test results, and report problems to production supervisors. Requirements: high school diploma; one year of manufacturing experience preferred; ability to lift 20 kg. Shift: Monday to Friday, 6 a.m. to 2 p.m., with occasional overtime. Pay: $21 to $25 per hour. Benefits include health insurance, a 401(k) plan, and a tuition assistance program. Apply online at heliossolar.example/careers or in person at the job fair on June 29."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Helios Solar open the new factory?",
+        "category": "detail",
+        "choices": [
+          "To reduce its taxes",
+          "To meet demand and serve customers nearby",
+          "To close its older plant",
+          "To start selling batteries"
+        ],
+        "answerIndex": 1,
+        "explanation": "The old plant could not keep up with orders, and the new one is closer to customers."
+      },
+      {
+        "prompt": "Where can applicants apply in person?",
+        "category": "inference",
+        "choices": [
+          "At the Brookfield train station",
+          "At the operations director's office",
+          "At an event on June 12",
+          "At the job fair on June 29"
+        ],
+        "answerIndex": 3,
+        "explanation": "The ad and the article both mention the June 29 job fair at the plant."
+      },
+      {
+        "prompt": "What is suggested about the quality control position?",
+        "category": "inference",
+        "choices": [
+          "Experience is helpful but not essential",
+          "It requires a college degree",
+          "It is a part-time role",
+          "It is based in another city"
+        ],
+        "answerIndex": 0,
+        "explanation": "One year of experience is only preferred, and the article mentions entry-level hiring."
+      },
+      {
+        "prompt": "How many people will the factory employ by the end of next year?",
+        "category": "detail",
+        "choices": [
+          "200",
+          "500",
+          "300",
+          "3,000"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article says it will employ 300 people."
+      },
+      {
+        "prompt": "The word \"occasional\" in the job ad is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "constant",
+          "required",
+          "infrequent",
+          "well paid"
+        ],
+        "answerIndex": 2,
+        "explanation": "Occasional overtime means overtime that happens now and then."
+      }
+    ]
+  },
+  {
+    "id": "p7-059",
+    "documents": [
+      {
+        "type": "form",
+        "title": "Room Rental Request",
+        "text": "EASTSIDE COMMUNITY CENTER: ROOM RENTAL REQUEST\n\nOrganization: Eastside Book Club\nContact: Fiona Grant\nDate requested: Saturday, May 18\nTime: 1:00 p.m. to 5:00 p.m.\nExpected attendance: 35\nRoom: Maple Hall\nEquipment needed: Projector, microphone, 6 tables\nCatering: Outside caterer\nNotes: We will hold a book sale and an author talk."
+      },
+      {
+        "type": "email",
+        "title": "Re: Room rental request",
+        "text": "To: Fiona Grant\nFrom: Community Center Office\nDate: May 2\n\nDear Fiona Grant,\nThank you for your request. Maple Hall seats 30 people and is therefore too small for your event. We recommend Oak Hall, which holds 60 and is available on May 18 from noon until 6 p.m. The rental rate for Oak Hall is $60 per hour, with a minimum of four hours; the projector and microphone are included, while tables are $5 each. Outside caterers are allowed but must provide proof of a food-handling license. A refundable $100 deposit is due within five days to hold the date.\nCommunity Center Office"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does the community center suggest a different room?",
+        "category": "detail",
+        "choices": [
+          "Maple Hall is too small for the expected crowd",
+          "Maple Hall is already reserved",
+          "The projector is broken",
+          "The caterer is unavailable"
+        ],
+        "answerIndex": 0,
+        "explanation": "Maple Hall seats 30 and 35 people are expected."
+      },
+      {
+        "prompt": "How much will the book club pay for the room and tables, not counting the deposit?",
+        "category": "inference",
+        "choices": [
+          "$240",
+          "$300",
+          "$370",
+          "$270"
+        ],
+        "answerIndex": 3,
+        "explanation": "Four hours at $60 is $240, plus six tables at $5 is $30."
+      },
+      {
+        "prompt": "What must the caterer provide?",
+        "category": "detail",
+        "choices": [
+          "A $100 deposit",
+          "Proof of a food-handling license",
+          "A list of menu prices",
+          "A proof of insurance"
+        ],
+        "answerIndex": 1,
+        "explanation": "Outside caterers must provide proof of a food-handling license."
+      },
+      {
+        "prompt": "What is suggested about Oak Hall?",
+        "category": "inference",
+        "choices": [
+          "It is cheaper than Maple Hall",
+          "It is free during the requested time",
+          "It has no projector",
+          "It is in another building"
+        ],
+        "answerIndex": 1,
+        "explanation": "It is available from noon until 6 p.m., which covers 1 to 5 p.m."
+      },
+      {
+        "prompt": "When must the deposit be paid?",
+        "category": "detail",
+        "choices": [
+          "On May 18",
+          "At the event",
+          "After the author talk",
+          "Within five days"
+        ],
+        "answerIndex": 3,
+        "explanation": "The deposit is due within five days to hold the date."
+      }
+    ]
+  },
+  {
+    "id": "p7-060",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Annual company retreat",
+        "text": "TO: All staff\nFROM: Events Committee\nDATE: September 3\nSUBJECT: Annual company retreat\n\nThis year's retreat will take place on Friday, October 18, at Pinecrest Lodge, a 90-minute bus ride from the office. Buses will leave at 8 a.m. from the main parking lot and return by 7 p.m. The day will feature team-building activities, a catered lunch, and a short presentation by CEO Marina Costa on next year's goals. Employees may choose one of three afternoon activities: hiking, kayaking, or a pottery workshop. Please complete the attached preference form by September 13. Places for kayaking are limited to 25."
+      },
+      {
+        "type": "form",
+        "title": "Retreat preference form",
+        "text": "RETREAT PREFERENCE FORM\n\nName: Samuel Obi\nDepartment: Accounting\nAfternoon activity, first choice: Kayaking\nAfternoon activity, second choice: Hiking\nDietary requirements: Gluten-free\nTransportation: [X] Company bus  [ ] Own car\nDo you need accessibility assistance? No\nDate: September 12"
+      },
+      {
+        "type": "email",
+        "title": "Retreat assignments",
+        "text": "To: All staff\nFrom: Events Committee\nDate: September 20\n\nDear colleagues,\nThank you for completing the forms. Kayaking was far more popular than expected: 41 people chose it as their first choice. Participants have therefore been assigned by random draw, and those not selected have been placed in their second choice. Your assignments are in the attached list. Please note that the pottery workshop will end at 4:30 p.m., while hiking and kayaking will end at 5 p.m. Bus departure times remain unchanged. Dietary needs will be accommodated at lunch.\nEvents Committee"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "When will the buses return to the office?",
+        "category": "detail",
+        "choices": [
+          "By 7 p.m.",
+          "At 8 a.m.",
+          "At 4:30 p.m.",
+          "At 5 p.m."
+        ],
+        "answerIndex": 0,
+        "explanation": "The memo says buses will return by 7 p.m."
+      },
+      {
+        "prompt": "Why were participants assigned by random draw?",
+        "category": "inference",
+        "choices": [
+          "The committee ran out of buses",
+          "The CEO requested it",
+          "More people wanted to kayak than there were places",
+          "Hiking was canceled"
+        ],
+        "answerIndex": 2,
+        "explanation": "Kayaking is limited to 25 places and 41 people chose it first."
+      },
+      {
+        "prompt": "What will Samuel Obi most likely do in the afternoon if not selected for kayaking?",
+        "category": "inference",
+        "choices": [
+          "Attend the pottery workshop",
+          "Return to the office",
+          "Go hiking",
+          "Give a presentation"
+        ],
+        "answerIndex": 2,
+        "explanation": "Those not selected are placed in their second choice, which for Samuel Obi is hiking."
+      },
+      {
+        "prompt": "What is suggested about Samuel Obi's lunch?",
+        "category": "inference",
+        "choices": [
+          "It will be gluten-free",
+          "It will be vegetarian",
+          "It is not included",
+          "It must be brought from home"
+        ],
+        "answerIndex": 0,
+        "explanation": "Dietary needs will be accommodated, and the form lists gluten-free."
+      },
+      {
+        "prompt": "Who will speak at the retreat?",
+        "category": "detail",
+        "choices": [
+          "A hiking guide",
+          "The committee chair",
+          "A pottery instructor",
+          "The CEO"
+        ],
+        "answerIndex": 3,
+        "explanation": "CEO Marina Costa will give a short presentation."
+      }
+    ]
+  }
+]
