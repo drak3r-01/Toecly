@@ -206,5 +206,12 @@
         "type": "int"
       }
     }
-  }
+  },
+  "resetProgressLabel": "Progress",
+  "resetProgressHint": "Erase statistics, history and missed questions. Theme and language are kept.",
+  "resetProgressButton": "Reset progress",
+  "resetProgressTitle": "Reset all progress?",
+  "resetProgressMessage": "This cannot be undone.",
+  "resetProgressCancel": "Cancel",
+  "resetProgressConfirm": "Reset"
 }

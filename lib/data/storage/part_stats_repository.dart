@@ -54,4 +54,6 @@ class PartStatsRepository {
     }
     return _store.writeJson(_key, all);
   }
+
+  Future<void> clear() => _store.writeJson(_key, <String, dynamic>{});
 }

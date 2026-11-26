@@ -25,4 +25,6 @@ class MissedQuestionsRepository {
   /// Call when the user finally gets the question right in review.
   Future<void> markMastered(String questionId) =>
       _store.writeJson(_key, loadIds().where((id) => id != questionId).toList());
+
+  Future<void> clear() => _store.writeJson(_key, <String>[]);
 }

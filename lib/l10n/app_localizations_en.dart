@@ -320,4 +320,26 @@ class AppLocalizationsEn extends AppLocalizations {
   String dashboardSessions(int count) {
     return 'Sessions: $count';
   }
+
+  @override
+  String get resetProgressLabel => 'Progress';
+
+  @override
+  String get resetProgressHint =>
+      'Erase statistics, history and missed questions. Theme and language are kept.';
+
+  @override
+  String get resetProgressButton => 'Reset progress';
+
+  @override
+  String get resetProgressTitle => 'Reset all progress?';
+
+  @override
+  String get resetProgressMessage => 'This cannot be undone.';
+
+  @override
+  String get resetProgressCancel => 'Cancel';
+
+  @override
+  String get resetProgressConfirm => 'Reset';
 }
