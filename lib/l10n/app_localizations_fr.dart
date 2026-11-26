@@ -82,7 +82,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get estimatedScoreDisclaimer =>
-      'Approximation par paliers, d\'après ton taux de réussite. Le Listening n\'est pas estimé.';
+      'Approximation par paliers, d\'après ton taux de réussite. Le Listening n\'est pas estimé : le total suppose le même niveau qu\'en Reading (× 2).';
 
   @override
   String get resumePractice => 'Reprendre l\'entraînement';
@@ -342,4 +342,15 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get resetProgressConfirm => 'Réinitialiser';
+
+  @override
+  String get estimatedTotalTitle => 'Total estimé (Reading × 2)';
+
+  @override
+  String estimatedTotalRange(int min, int max) {
+    return '$min–$max / 990';
+  }
+
+  @override
+  String get estimatedTotalEmpty => '— / 990';
 }

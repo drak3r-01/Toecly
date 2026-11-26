@@ -78,6 +78,7 @@ void main() {
   testWidgets('dashboard: no score before any answer', (tester) async {
     await pumpApp(tester);
     expect(find.text('— / 495'), findsOneWidget);
+    expect(find.text('— / 990'), findsOneWidget);
   });
 
   testWidgets('dashboard: shows the score range and category rates once answers exist', (tester) async {
@@ -88,6 +89,7 @@ void main() {
     }
     await pumpApp(tester, store: store);
     expect(find.text('295–345 / 495'), findsOneWidget);
+    expect(find.text('590–690 / 990'), findsOneWidget);
   });
 
   testWidgets('mock exam screen announces 100 questions in 75 minutes', (tester) async {

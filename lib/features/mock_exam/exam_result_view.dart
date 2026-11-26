@@ -60,6 +60,8 @@ class _ExamResultViewState extends State<ExamResultView> {
             const SizedBox(height: 4),
             Text('${l10n.estimatedScoreTitle}: ${l10n.estimatedScoreRange(range.min, range.max)}',
                 style: theme.textTheme.titleMedium),
+            Text('${l10n.estimatedTotalTitle}: ${l10n.estimatedTotalRange(range.doubled.min, range.doubled.max)}',
+                style: theme.textTheme.titleMedium),
             Text(l10n.estimatedScoreDisclaimer, style: theme.textTheme.bodySmall),
             const SizedBox(height: 4),
             Text(l10n.examTimeUsed(widget.used.inMinutes)),

@@ -5,6 +5,9 @@ class ScoreRange {
   final int min;
   final int max;
 
+  /// Total-score equivalent (Reading × 2), assuming the same level in Listening.
+  ScoreRange get doubled => ScoreRange(min * 2, max * 2);
+
   @override
   String toString() => '$min–$max';
 

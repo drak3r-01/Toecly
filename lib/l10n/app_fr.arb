@@ -42,7 +42,7 @@
     }
   },
   "estimatedScoreEmpty": "— / 495",
-  "estimatedScoreDisclaimer": "Approximation par paliers, d'après ton taux de réussite. Le Listening n'est pas estimé.",
+  "estimatedScoreDisclaimer": "Approximation par paliers, d'après ton taux de réussite. Le Listening n'est pas estimé : le total suppose le même niveau qu'en Reading (× 2).",
   "resumePractice": "Reprendre l'entraînement",
   "partLabel": "Partie {number} · {name}",
   "@partLabel": {
@@ -213,5 +213,18 @@
   "resetProgressTitle": "Tout réinitialiser ?",
   "resetProgressMessage": "Cette action est irréversible.",
   "resetProgressCancel": "Annuler",
-  "resetProgressConfirm": "Réinitialiser"
+  "resetProgressConfirm": "Réinitialiser",
+  "estimatedTotalTitle": "Total estimé (Reading × 2)",
+  "estimatedTotalRange": "{min}–{max} / 990",
+  "estimatedTotalEmpty": "— / 990",
+  "@estimatedTotalRange": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  }
 }

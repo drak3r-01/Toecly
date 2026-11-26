@@ -78,7 +78,21 @@ jobs:
         with:
           path: dist
           merge-multiple: true
+      # v0.1.0-alpha.1 gives the release "Alpha 1", flagged as a pre-release. A plain v1.0.0 keeps its tag as name.
+      - name: Name the release
+        id: meta
+        run: |
+          tag="$GITHUB_REF_NAME"
+          if [[ "$tag" == *-* ]]; then
+            echo "prerelease=true" >> "$GITHUB_OUTPUT"
+            echo "name=$(echo "${tag#*-}" | sed -E 's/^([a-z])([a-z]*)\.?([0-9]*)$/\U\1\E\2 \3/')" >> "$GITHUB_OUTPUT"
+          else
+            echo "prerelease=false" >> "$GITHUB_OUTPUT"
+            echo "name=$tag" >> "$GITHUB_OUTPUT"
+          fi
       - uses: softprops/action-gh-release@v3
         with:
+          name: ${{ steps.meta.outputs.name }}
+          prerelease: ${{ steps.meta.outputs.prerelease == 'true' }}
           files: dist/*
           generate_release_notes: true

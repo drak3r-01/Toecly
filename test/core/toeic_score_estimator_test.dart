@@ -29,4 +29,10 @@ void main() {
   test('a range prints as min–max', () {
     expect(const ScoreRange(245, 290).toString(), '245–290');
   });
+
+  test('the total is the Reading range times two, within 10 to 990', () {
+    expect(const ScoreRange(295, 345).doubled, const ScoreRange(590, 690));
+    expect(ToeicScoreEstimator.estimateReadingRange(0).doubled, const ScoreRange(10, 120));
+    expect(ToeicScoreEstimator.estimateReadingRange(1).doubled, const ScoreRange(960, 990));
+  });
 }
