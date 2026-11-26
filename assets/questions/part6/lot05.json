@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-033",
+    "documentType": "notice",
+    "text": "SAFETY NOTICE – WAREHOUSE\n\nAll warehouse personnel must wear protective helmets and safety shoes [1] entering the loading area. [2] Forklifts have the right of way at all times, so pedestrians should [3] aside when a vehicle approaches. Any accident, however minor, must be reported to a supervisor [4]. Failure to follow these rules may result in disciplinary action.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "after",
+          "until",
+          "before"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Before entering' sets the equipment as a prerequisite to entering the area."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The company picnic will be held in July.",
+          "Lunch is served in the cafeteria from noon.",
+          "Please submit vacation requests two weeks in advance.",
+          "Visitors must be accompanied by an employee at all times."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence is a safety rule for the area and precedes another safety rule."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "steps",
+          "stepped",
+          "stepping",
+          "step"
+        ],
+        "answerIndex": 3,
+        "explanation": "After 'should', the base form of the verb is used."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "immediate",
+          "immediacy",
+          "immediately",
+          "immediateness"
+        ],
+        "answerIndex": 2,
+        "explanation": "An adverb is needed to modify the verb 'reported'."
+      }
+    ]
+  },
+  {
+    "id": "p6-034",
+    "documentType": "email",
+    "text": "Dear Students,\n\nThe registration period for the spring semester [1] on December 1. Please log in to the student portal to choose your courses. [2] Courses fill up quickly, so we advise you to register [3]. Students who have unpaid fees will not be able to register [4] they settle their accounts at the bursar's office.\n\nRegistrar's Office",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "opens",
+          "open",
+          "opening",
+          "opened"
+        ],
+        "answerIndex": 0,
+        "explanation": "A scheduled future event uses the present simple, third-person singular."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "You can view the full list of available courses on the same page.",
+          "The football season ends next week.",
+          "New parking rules take effect on Monday.",
+          "Graduation photos can be ordered online."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence explains how to choose courses and precedes the warning about full courses."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "early",
+          "earliness",
+          "earlier",
+          "earliest"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Early' is used as an adverb to modify 'register'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "since",
+          "until",
+          "while",
+          "because"
+        ],
+        "answerIndex": 1,
+        "explanation": "Registration is blocked up to the moment the accounts are settled."
+      }
+    ]
+  },
+  {
+    "id": "p6-035",
+    "documentType": "advertisement",
+    "text": "Luxury Living at Riverside Towers\n\nDiscover a new standard of comfort in the heart of downtown. Each apartment features floor-to-ceiling windows, a fully equipped kitchen, and a private balcony [1] stunning views of the river. [2] Residents also enjoy a fitness center, a rooftop garden, and 24-hour security. Units are [3] for immediate occupancy. Call 555-0193 today to schedule a [4].",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "offering",
+          "offered",
+          "offers",
+          "offer"
+        ],
+        "answerIndex": 0,
+        "explanation": "A present participle introduces what the balcony provides."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our company was founded by two engineers.",
+          "Bus fares will increase next month.",
+          "The building is within walking distance of shops, restaurants, and the central train station.",
+          "Please submit all complaints in writing."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence describes the location; the next one begins with 'Residents also enjoy', adding more advantages."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "available",
+          "valuable",
+          "reliable",
+          "possible"
+        ],
+        "answerIndex": 0,
+        "explanation": "Units that can be occupied immediately are 'available'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "viewing",
+          "view",
+          "viewer",
+          "views"
+        ],
+        "answerIndex": 0,
+        "explanation": "A noun is needed after 'a': to schedule a viewing means to arrange a visit."
+      }
+    ]
+  },
+  {
+    "id": "p6-036",
+    "documentType": "letter",
+    "text": "Dear Mr. Lindgren,\n\nFollowing your recent interviews, we are pleased to offer you the position of Operations Analyst at Delta Logistics. Your annual salary will be $62,000, [1] you will also be eligible for a yearly bonus. [2] Your start date will be Monday, February 2. Please confirm your acceptance by signing and returning the enclosed contract [3] January 20. We are confident that you will be a valuable [4] to our team.\n\nSincerely,\nAnnette Moore",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "although",
+          "unless",
+          "and",
+          "whether"
+        ],
+        "answerIndex": 2,
+        "explanation": "The bonus is an addition to the salary, so the clauses are joined by 'and'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "We have recently opened a new warehouse in Dallas.",
+          "The company picnic takes place every July.",
+          "Benefits include health insurance and twenty days of paid leave.",
+          "Our delivery trucks are inspected every month."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence continues the description of the offer and precedes the start date."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "from",
+          "during",
+          "about",
+          "by"
+        ],
+        "answerIndex": 3,
+        "explanation": "'By' marks the deadline for the reply."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "addition",
+          "additional",
+          "add",
+          "additionally"
+        ],
+        "answerIndex": 0,
+        "explanation": "A noun is needed after 'a valuable': 'a valuable addition to the team'."
+      }
+    ]
+  },
+  {
+    "id": "p6-037",
+    "documentType": "review",
+    "text": "★★★★★ Excellent value\n\nI bought the Atlas 15 laptop two months ago, and I am extremely [1] with it. The battery lasts about ten hours, [2] is more than enough for a full day of meetings. [3] The screen is bright and sharp, and the keyboard is comfortable. The only [4] is that the speakers are a little weak. I would recommend it to anyone looking for a reliable work computer.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "satisfying",
+          "satisfaction",
+          "satisfied",
+          "satisfy"
+        ],
+        "answerIndex": 2,
+        "explanation": "People are 'satisfied with' a product."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "which",
+          "what",
+          "who",
+          "whose"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Which' refers back to the whole preceding clause."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "I returned it to the store the next day.",
+          "It is also lighter than my previous model.",
+          "The store was closed when I arrived.",
+          "I have not had time to open the box."
+        ],
+        "answerIndex": 1,
+        "explanation": "The review is positive; the sentence adds another advantage, like the one that follows."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "drawback",
+          "drawing",
+          "draw",
+          "drawer"
+        ],
+        "answerIndex": 0,
+        "explanation": "A 'drawback' is a disadvantage, which fits the weak speakers."
+      }
+    ]
+  },
+  {
+    "id": "p6-038",
+    "documentType": "notice",
+    "text": "PARKING NOTICE\n\nEffective Monday, June 2, the Central Plaza parking garage will [1] a new payment system. Drivers will no longer be able to pay by cash. [2] Instead, payment will be accepted by card or through the Parkly mobile app. Monthly pass holders should [3] their old passes at the management office before May 30 [4] a replacement.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "implant",
+          "implement",
+          "imply",
+          "impress"
+        ],
+        "answerIndex": 1,
+        "explanation": "A system is 'implemented', meaning put into operation."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Ticket machines will be removed from all exits.",
+          "Visitors may park free for the first thirty minutes.",
+          "The garage is closed on public holidays.",
+          "Parking fines will be reviewed next year."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins with 'Instead', so the previous one must describe the removal of the old way of paying."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "exchange",
+          "expect",
+          "expire",
+          "explore"
+        ],
+        "answerIndex": 0,
+        "explanation": "Pass holders 'exchange' an old pass for a new one."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "receiving",
+          "to receive",
+          "received",
+          "receives"
+        ],
+        "answerIndex": 1,
+        "explanation": "An infinitive of purpose is needed: 'to receive a replacement'."
+      }
+    ]
+  },
+  {
+    "id": "p6-039",
+    "documentType": "email",
+    "text": "Dear Members,\n\nYou are cordially invited to the Chamber of Commerce Annual Gala, which will take place on Saturday, November 15, at the Grand Plaza Hotel. [1] The evening will begin with a reception at 6 p.m., [2] by dinner and an awards ceremony. Business attire is [3]. To reserve your table, please reply [4] November 1.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The hotel's parking garage is closed for repairs.",
+          "Membership fees are due at the end of the year.",
+          "Our office will move to a new address next month.",
+          "This year's event will honor local entrepreneurs who have created new jobs."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence tells what the gala is about, before the program is given."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "following",
+          "follows",
+          "followed",
+          "follow"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Followed by' describes the order of events."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "requesting",
+          "request",
+          "requests",
+          "requested"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive adjective 'requested' fits the dress code."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "since",
+          "among",
+          "by",
+          "beneath"
+        ],
+        "answerIndex": 2,
+        "explanation": "'By' introduces the deadline for replying."
+      }
+    ]
+  },
+  {
+    "id": "p6-040",
+    "documentType": "memo",
+    "text": "MEMO\nTo: Sales team\nFrom: Regional Director\nSubject: Third-quarter results\n\nI am delighted to report that our region exceeded its sales target by 12 percent in the third quarter. [1] This result was [2] largely to the new customer loyalty program. Each of you contributed to this success. To [3] our momentum, we will hold a training session on October 8 [4] the new products.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Revenue from online orders more than doubled compared with last year.",
+          "Please return your company laptops by Friday.",
+          "The cafeteria will serve breakfast starting Monday.",
+          "The office will be painted this weekend."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence gives a detail about the good result, which 'This result' then refers to."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "due",
+          "duly",
+          "dued",
+          "duty"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Due to' means 'caused by'; 'was due largely to' is correct."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "contain",
+          "entertain",
+          "maintain",
+          "pertain"
+        ],
+        "answerIndex": 2,
+        "explanation": "One 'maintains' momentum, meaning keeps it going."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "covered",
+          "covers",
+          "cover",
+          "covering"
+        ],
+        "answerIndex": 3,
+        "explanation": "A present participle introduces the content of the session."
+      }
+    ]
+  }
+]

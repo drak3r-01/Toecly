@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-017",
+    "documentType": "letter",
+    "text": "Dear Mr. Ferrara,\n\nYour lease for Apartment 4B at Maple Court [1] on August 31. We would be pleased to have you stay for another year. [2] The monthly rent for the renewal term will be $1,250, an increase of $50. If you wish to renew, please sign the enclosed agreement and return it [3] July 15. Should you decide not to renew, we ask that you [4] us in writing by the same date.\n\nSincerely,\nCarol Weiss, Property Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "expire",
+          "expiring",
+          "expires",
+          "expired"
+        ],
+        "answerIndex": 2,
+        "explanation": "A third-person singular present verb is needed for a scheduled future event."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The elevator will be inspected next Tuesday.",
+          "You have been an excellent tenant, and we value your presence in our community.",
+          "Pets are not allowed on the upper floors.",
+          "Our office has moved to Elm Street."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence supports the invitation to stay another year."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "for",
+          "from",
+          "by",
+          "about"
+        ],
+        "answerIndex": 2,
+        "explanation": "'By' introduces a deadline."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "reply",
+          "notify",
+          "attend",
+          "forward"
+        ],
+        "answerIndex": 1,
+        "explanation": "One 'notifies' someone of a decision; 'reply us' and 'attend us' are impossible."
+      }
+    ]
+  },
+  {
+    "id": "p6-018",
+    "documentType": "article",
+    "text": "Local Bakery Wins National Award\n\nSweet Crumb Bakery, a family-owned business in Greenville, has been named Best Small Bakery in the national Culinary Excellence Awards. The prize was [1] at a ceremony in Chicago on Saturday. [2] Owner Helen Park said the award is a tribute to her team, many of [3] have worked at the bakery for more than a decade. As a result of the recognition, Sweet Crumb plans to [4] a second location downtown next spring.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "presenting",
+          "presented",
+          "presents",
+          "presentation"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive voice is needed: the prize 'was presented'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The city's annual marathon was held last weekend.",
+          "The Greenville Bridge will reopen on Monday.",
+          "Tickets for the concert cost fifty dollars.",
+          "The bakery was founded in 1998 and now employs fifteen people."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence gives background about the bakery before the owner is quoted."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "whom",
+          "who",
+          "which",
+          "them"
+        ],
+        "answerIndex": 0,
+        "explanation": "After a preposition ('of'), the relative pronoun for people is 'whom'."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "enter",
+          "reach",
+          "open",
+          "raise"
+        ],
+        "answerIndex": 2,
+        "explanation": "A business 'opens' a new location."
+      }
+    ]
+  },
+  {
+    "id": "p6-019",
+    "documentType": "advertisement",
+    "text": "Introducing CloudDesk, the easiest way to manage your team's projects. With CloudDesk, you can assign tasks, track deadlines, and share files in one secure place. [1] Our users report saving an average of five hours per week. CloudDesk works [2] on computers and mobile devices, so your team can stay connected wherever they are. Sign up today for a 30-day free trial. No credit card is [3]. After the trial, plans start [4] $8 per user per month.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The office will be closed on Monday.",
+          "Thousands of companies already rely on it to stay organized.",
+          "Applicants must hold a valid driver's license.",
+          "Please remember to water the plants."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence presents the product's popularity and leads to the users' reported results."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "seamless",
+          "seam",
+          "seamed",
+          "seamlessly"
+        ],
+        "answerIndex": 3,
+        "explanation": "An adverb is needed to modify the verb 'works'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "required",
+          "requiring",
+          "require",
+          "requirement"
+        ],
+        "answerIndex": 0,
+        "explanation": "The passive form 'is required' fits 'No credit card is ...'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "on",
+          "in",
+          "by",
+          "at"
+        ],
+        "answerIndex": 3,
+        "explanation": "Prices 'start at' a given amount."
+      }
+    ]
+  },
+  {
+    "id": "p6-020",
+    "documentType": "email",
+    "text": "Hi team,\n\nI am writing to remind you that the quarterly budget review will be held on Thursday at 2 p.m. in the main conference room. [1] Please bring your department's expense reports, [2] they will be used to compare actual spending with the forecast. Anyone who cannot attend [3] inform Mr. Dube by Wednesday. [4] I would like to thank everyone for the hard work this quarter.\n\nBest,\nSandra",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cafeteria has a new vegetarian menu.",
+          "Attendance is required for all department heads.",
+          "Please remember to update your parking permits.",
+          "The new employees will start next month."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence is about the meeting and leads to the request to bring documents."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "so",
+          "but",
+          "or",
+          "because"
+        ],
+        "answerIndex": 3,
+        "explanation": "The reports are needed for a reason: the comparison with the forecast."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "should",
+          "to",
+          "must to",
+          "is"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Should' is followed by the base form of the verb."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Instead,",
+          "Finally,",
+          "Otherwise,",
+          "Nevertheless,"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Finally' introduces the last point of the e-mail."
+      }
+    ]
+  },
+  {
+    "id": "p6-021",
+    "documentType": "notice",
+    "text": "Flu Vaccination Clinic\n\nWestside Medical Center will hold its annual flu vaccination clinic on Saturday, October 11, from 9 a.m. to 3 p.m. The vaccine is free [1] all residents over the age of 12. [2] No appointment is necessary, but patients who arrive early will have shorter waiting times. Please bring your insurance card, [3] you have one. Individuals who are allergic to eggs should [4] a doctor before receiving the vaccine.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "for",
+          "by",
+          "with"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Free for' someone introduces the people who benefit."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The hospital cafeteria offers a new menu.",
+          "Registration will take place at the main entrance.",
+          "The parking garage is being repainted this year.",
+          "Our staff will attend a conference next week."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence tells where to arrive and links to the remark about not needing an appointment."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "if",
+          "so",
+          "but"
+        ],
+        "answerIndex": 1,
+        "explanation": "The insurance card is requested only on condition that the person has one."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "consult",
+          "consist",
+          "consent",
+          "consume"
+        ],
+        "answerIndex": 0,
+        "explanation": "One 'consults' a doctor."
+      }
+    ]
+  },
+  {
+    "id": "p6-022",
+    "documentType": "letter",
+    "text": "Dear Customer,\n\nWe are pleased to inform you that your application for a Premier Savings Account has been [1]. Your new account number is enclosed. [2] To activate your online banking, please visit www.firstunion.example and follow the instructions. For security reasons, we recommend that you change your password [3] you log in for the first time. Should you need any [4], our representatives are available Monday to Friday from 8 a.m. to 6 p.m.\n\nFirst Union Bank",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "approving",
+          "approval",
+          "approved",
+          "approve"
+        ],
+        "answerIndex": 2,
+        "explanation": "The passive voice 'has been approved' fits the good news."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our branch on Pine Street has relocated.",
+          "You may begin making deposits immediately.",
+          "Mortgage rates will rise next quarter.",
+          "The bank will be closed on Monday."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence follows the opening of the account and precedes the online-banking instructions."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "even though",
+          "rather than",
+          "so that",
+          "as soon as"
+        ],
+        "answerIndex": 3,
+        "explanation": "'As soon as' links two actions in sequence: logging in, then changing the password."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "assist",
+          "assisted",
+          "assistance",
+          "assistant"
+        ],
+        "answerIndex": 2,
+        "explanation": "A noun is needed after 'any'."
+      }
+    ]
+  },
+  {
+    "id": "p6-023",
+    "documentType": "memo",
+    "text": "MEMO\nTo: All staff\nFrom: Human Resources\nSubject: Employee of the Month\n\nWe are pleased to announce that Joseph Rivera from the shipping department has been selected Employee of the Month. Joseph was chosen [1] his outstanding commitment to customer satisfaction. [2] Last month alone, he resolved over forty delayed orders. Please join us in congratulating him at the staff meeting on Friday, [3] a small reception will be held. Nominations for next month [4] submitted to HR by the 25th.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "to",
+          "at",
+          "for",
+          "by"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Chosen for' introduces the reason for the selection."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The shipping department will move to the third floor.",
+          "Safety training is scheduled for next week.",
+          "The company will open a new branch in Denver.",
+          "His dedication has been noticed by both colleagues and clients."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence praises Joseph and leads to the example that follows."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "where",
+          "when",
+          "whose",
+          "what"
+        ],
+        "answerIndex": 1,
+        "explanation": "'When' refers to the time ('Friday') and introduces the event."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "must be",
+          "must",
+          "should being",
+          "will"
+        ],
+        "answerIndex": 0,
+        "explanation": "After a modal, the passive uses the base form of the auxiliary: must be submitted."
+      }
+    ]
+  },
+  {
+    "id": "p6-024",
+    "documentType": "advertisement",
+    "text": "Escape to Lisbon with Horizon Travel! Our seven-day package includes round-trip flights, hotel accommodation, and guided tours of the city's most famous [1]. [2] Prices start at $1,199 per person, and children under 12 travel at half price. Book before April 30 [3] receive a free upgrade to a deluxe room. Spaces are limited, so [4] early to avoid disappointment.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "attractive",
+          "attractions",
+          "attracts",
+          "attract"
+        ],
+        "answerIndex": 1,
+        "explanation": "A plural noun is needed after 'famous'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Each day offers a different adventure, from historic castles to seaside dinners.",
+          "Passports must be renewed every ten years.",
+          "Hotel guests must check out before noon.",
+          "Please return your rental car with a full tank."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence describes the package and leads into the prices."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "but",
+          "nor",
+          "so",
+          "and"
+        ],
+        "answerIndex": 3,
+        "explanation": "Two actions are joined: book early and receive an upgrade."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "booking",
+          "book",
+          "booked",
+          "to book"
+        ],
+        "answerIndex": 1,
+        "explanation": "An imperative is needed after 'so'."
+      }
+    ]
+  }
+]
