@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-073",
+    "documentType": "advertisement",
+    "text": "Drive More, Pay Less with SwiftRent! Rent a compact car for as little as $29 a day, [1] unlimited mileage. [2] All vehicles are cleaned and inspected before each rental. You can pick up your car at any of our 120 airport locations [3] return it in a different city for a small fee. Reserve online before the end of the month and [4] an additional 10 percent off.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "with",
+          "by",
+          "for",
+          "at"
+        ],
+        "answerIndex": 0,
+        "explanation": "'With unlimited mileage' states what is included in the price."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our headquarters moved to Denver last year.",
+          "Every car comes with a free GPS and a child seat on request.",
+          "Airport taxes will rise in January.",
+          "The company was named best employer."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence adds features of the vehicles and precedes the sentence about their condition."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "but",
+          "and",
+          "so",
+          "nor"
+        ],
+        "answerIndex": 1,
+        "explanation": "Two actions are joined: pick up and return."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "enjoyment",
+          "enjoyable",
+          "enjoy",
+          "enjoyed"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'and' following an imperative-like 'Reserve', the base form is used."
+      }
+    ]
+  },
+  {
+    "id": "p6-074",
+    "documentType": "text_message",
+    "text": "Hi Mr. Delgado, this is Carla from Sunrise Dental. We have an [1] on Thursday at 9:30 a.m. for you. [2] Please reply YES to confirm or call us at 555-0124 to reschedule. If we do not hear from you by Wednesday noon, we will give your time slot to [3] patient. A reminder: please arrive ten minutes early to [4] a medical history form.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "appointed",
+          "appointment",
+          "appointing",
+          "appoint"
+        ],
+        "answerIndex": 1,
+        "explanation": "A noun is needed after 'an'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our clinic will close for the summer holiday.",
+          "Toothpaste is sold at the front desk.",
+          "Dr. Chen has joined a new practice.",
+          "This is a reminder of your six-month checkup."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence explains the reason for the message and precedes the request for confirmation."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "other",
+          "others",
+          "the others",
+          "another"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Another' goes with a singular noun to mean 'a different'."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "compete",
+          "complete",
+          "compose",
+          "compare"
+        ],
+        "answerIndex": 1,
+        "explanation": "One 'completes' a form, meaning one fills it out."
+      }
+    ]
+  },
+  {
+    "id": "p6-075",
+    "documentType": "article",
+    "text": "Local Theater Celebrates 50 Years\n\nThe Maple Street Theater will mark its fiftieth anniversary this weekend with a special performance of its first-ever production, The Last Train. [1] Tickets for the event [2] out within two days of going on sale. The theater, which began as a small community group, has since become one of the most [3] cultural venues in the region. Director Paula Greene said she hopes the celebration will inspire [4] generation of young actors.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The city plans to build a new parking garage.",
+          "Many of the original cast members will return to the stage for the occasion.",
+          "Ticket prices for movies have increased.",
+          "The mayor will attend a business conference."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence gives details about the special performance, before the sale of tickets."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "sell",
+          "selling",
+          "sells",
+          "sold"
+        ],
+        "answerIndex": 3,
+        "explanation": "A simple past is needed: 'tickets sold out'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "respected",
+          "respecting",
+          "respect",
+          "respectfully"
+        ],
+        "answerIndex": 0,
+        "explanation": "'The most respected' is a superlative adjective."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "other",
+          "another",
+          "others",
+          "few"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Another generation' is the singular expression meaning 'a new one'."
+      }
+    ]
+  },
+  {
+    "id": "p6-076",
+    "documentType": "web_page",
+    "text": "Shipping FAQ\n\nHow long does delivery take? Standard delivery takes three to five business days. Express delivery, which is [1] for an additional $12, takes one to two days. [2] Do you ship internationally? Yes, we currently ship to over fifty countries. Customs fees [3] by the recipient and are not included in the product price. Can I change my address after ordering? [4] your order has not yet shipped, you can update the address from your account page.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "valuable",
+          "available",
+          "avoidable",
+          "applicable"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Available for an additional fee' means that the option can be chosen."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Orders placed after 3 p.m. are processed the next business day.",
+          "Our customer service team has recently expanded.",
+          "The warehouse is located near a major port.",
+          "Gift cards cannot be exchanged for cash."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence completes the answer about delivery time."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "are paid",
+          "pay",
+          "have paying",
+          "paying"
+        ],
+        "answerIndex": 0,
+        "explanation": "The passive voice is needed: fees are paid by the recipient."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "As long as",
+          "Whether",
+          "Although"
+        ],
+        "answerIndex": 1,
+        "explanation": "The address can be changed on the condition that the order has not shipped."
+      }
+    ]
+  },
+  {
+    "id": "p6-077",
+    "documentType": "letter",
+    "text": "Dear Ms. Alvarez,\n\nYour vehicle is ready for pickup. During the inspection, our technicians [1] that the front brake pads were badly worn, so we replaced them as you authorized. [2] The total cost of the repair is $412, which includes parts and labor. You may collect your car any weekday between 8 a.m. and 5 p.m. Please remember [3] a valid photo ID. We [4] a 12-month warranty on all replaced parts.\n\nCentral Auto Service",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "discharged",
+          "discovered",
+          "disagreed",
+          "discounted"
+        ],
+        "answerIndex": 1,
+        "explanation": "Technicians 'discover' a problem during an inspection."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The garage is closed on Sundays.",
+          "No other problems were found.",
+          "Winter tires are on sale this month.",
+          "Our mechanics wear uniforms."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence concludes the inspection report before the cost is given."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "bringing",
+          "to bring",
+          "brought",
+          "bring"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Remember to + verb' refers to a task to do in the future."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "offers",
+          "offering",
+          "offer",
+          "offered"
+        ],
+        "answerIndex": 2,
+        "explanation": "The plural subject 'We' takes the base form."
+      }
+    ]
+  },
+  {
+    "id": "p6-078",
+    "documentType": "email",
+    "text": "Subject: Launch event for the new Aria speaker\n\nDear partners,\n\nWe are excited to invite you to the launch of the Aria wireless speaker on Thursday, March 20, at our Madison Avenue showroom. [1] Guests will be able to test the product, meet its designers, and [2] exclusive discounts on pre-orders. Seating is limited, so please [3] your attendance by March 14. [4] you are unable to attend in person, a live stream will be available on our Web site.\n\nSincerely,\nThe Aria Team",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The showroom was recently painted.",
+          "The event starts at 6 p.m. and will end with a light dinner.",
+          "Madison Avenue is closed for repairs.",
+          "We will release our annual report in June."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence gives details about the event, followed by what guests can do."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "contain",
+          "retain",
+          "obtain",
+          "detain"
+        ],
+        "answerIndex": 2,
+        "explanation": "One 'obtains' discounts, meaning one gets them."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "conform",
+          "confine",
+          "confuse",
+          "confirm"
+        ],
+        "answerIndex": 3,
+        "explanation": "One 'confirms' attendance, meaning one confirms that one will come."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "If",
+          "Unless",
+          "Because",
+          "Since"
+        ],
+        "answerIndex": 0,
+        "explanation": "The live stream is the alternative if someone cannot attend."
+      }
+    ]
+  },
+  {
+    "id": "p6-079",
+    "documentType": "notice",
+    "text": "Annual Tax Filing Reminder\n\nThe deadline for filing individual tax returns is April 15. Applications for extensions [1] before the deadline. [2] The Revenue Office will offer free filing assistance at the public library every Wednesday from 4 to 7 p.m. beginning in March. Please bring all relevant documents, [3] last year's return, income statements, and receipts for deductible expenses. Late filings are subject to a penalty [4] 5 percent of the unpaid tax per month.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "must submit",
+          "must be submitted",
+          "must submitting",
+          "must to submit"
+        ],
+        "answerIndex": 1,
+        "explanation": "The subject 'Applications' needs a passive verb."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Those who file electronically will receive their refunds sooner.",
+          "The library is open on weekends.",
+          "Tax rates will be reviewed next year.",
+          "Public transport is free for seniors."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence encourages electronic filing and precedes the offer of filing assistance."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "include",
+          "including",
+          "included",
+          "includes"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Including' introduces the examples of documents."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "of",
+          "on",
+          "by",
+          "at"
+        ],
+        "answerIndex": 0,
+        "explanation": "'A penalty of' gives the amount."
+      }
+    ]
+  },
+  {
+    "id": "p6-080",
+    "documentType": "email",
+    "text": "Dear Mr. Kapoor,\n\nThank you for your interest in the Datalink inventory system. We would be delighted to arrange a free demonstration for your team. [1] The session usually takes about an hour and can be held at your office or online. Could you please let us know which date works [2] you? We have openings on March 11, 12, and 14. Once we have [3] a date, I will send you a calendar invitation. If you have any [4] in advance, feel free to e-mail them to me.\n\nKind regards,\nLisa Moreno",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The system is available in three languages.",
+          "A product specialist will present the main features and answer your questions.",
+          "Our office will be closed on Monday.",
+          "Your invoice has been paid in full."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence describes the demonstration and precedes the practical details."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "to",
+          "with",
+          "for",
+          "at"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Works for you' means 'is convenient for you'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "confirming",
+          "confirm",
+          "confirms",
+          "confirmed"
+        ],
+        "answerIndex": 3,
+        "explanation": "The present perfect 'we have confirmed' needs a past participle."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "questioned",
+          "questioning",
+          "questions",
+          "questionable"
+        ],
+        "answerIndex": 2,
+        "explanation": "A plural noun is needed after 'any'."
+      }
+    ]
+  }
+]
