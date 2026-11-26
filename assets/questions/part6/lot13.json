@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-097",
+    "documentType": "notice",
+    "text": "CITY TRANSIT UPDATE\n\nStarting Monday, October 6, the Blue Line subway will [1] every six minutes during rush hour, compared with the current ten-minute interval. [2] The change follows a rise in the number of daily passengers over the past two years. Monthly passes will remain [3] at $75, but a new discounted pass for students will be available. Riders can buy tickets at stations or [4] the Transit City mobile app.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "run",
+          "ride",
+          "race",
+          "rule"
+        ],
+        "answerIndex": 0,
+        "explanation": "Trains 'run' at a certain frequency."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Additional trains have been purchased to make this possible.",
+          "The mayor will open a new park.",
+          "Bus fares will be reviewed next spring.",
+          "The airport has a new terminal."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence explains how the higher frequency is possible, before the reason for the change."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "unchanging",
+          "unchanged",
+          "unchangeable",
+          "unchange"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Remain unchanged' means that the price stays the same."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "across",
+          "beyond",
+          "through",
+          "toward"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Through the app' expresses the means of buying."
+      }
+    ]
+  },
+  {
+    "id": "p6-098",
+    "documentType": "email",
+    "text": "Dear Ms. Jordan,\n\nWe received your inquiry about bulk orders of our recycled notebooks. I am happy to tell you that we offer a discount of 15 percent on orders of 500 units or [1]. [2] Production normally takes two weeks, [3] we can deliver sooner if your order is urgent. I have attached our current catalog and price list for your [4]. Please let me know if you would like a sample.\n\nBest regards,\nWilliam Park",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "most",
+          "many",
+          "more",
+          "much"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Or more' is the fixed expression for a minimum quantity."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The factory will close for the holidays.",
+          "Our sales team has moved to the fourth floor.",
+          "All of our notebooks are made from 100 percent recycled paper.",
+          "Shipping rates changed in January."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence supports the product's description before production time is discussed."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "but",
+          "so",
+          "or",
+          "because"
+        ],
+        "answerIndex": 0,
+        "explanation": "The faster delivery contrasts with the usual two weeks."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "referee",
+          "refer",
+          "referral",
+          "reference"
+        ],
+        "answerIndex": 3,
+        "explanation": "'For your reference' is a fixed expression."
+      }
+    ]
+  },
+  {
+    "id": "p6-099",
+    "documentType": "article",
+    "text": "Marathon Draws Record Crowd\n\nMore than 12,000 runners took part in Sunday's City Marathon, the largest turnout in the event's history. [1] The course, which winds through the downtown area and along the river, was lined with cheering spectators. Organizers said they [2] additional water stations this year, which helped runners cope with the warm weather. The winner, Kenyan athlete Peter Mwangi, finished the race in two hours and eight minutes, [3] a new course record. Next year's marathon is scheduled to be held [4] April 20.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The city's population has grown by six percent.",
+          "Participants came from 45 countries.",
+          "Tickets for the concert sold out quickly.",
+          "The weather forecast predicts rain on Monday."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence gives more detail about the participants before the course is described."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "add",
+          "adding",
+          "adds",
+          "added"
+        ],
+        "answerIndex": 3,
+        "explanation": "The simple past is needed to report a past action."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "setting",
+          "set",
+          "sets",
+          "to set"
+        ],
+        "answerIndex": 0,
+        "explanation": "A present participle expresses the result of finishing so fast."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "on",
+          "at",
+          "in",
+          "by"
+        ],
+        "answerIndex": 0,
+        "explanation": "'On' is used with a specific date."
+      }
+    ]
+  },
+  {
+    "id": "p6-100",
+    "documentType": "memo",
+    "text": "MEMO\nTo: All residents\nFrom: Building Management\nSubject: Water heater replacement\n\nThe building's old water heaters will be replaced next week. [1] Residents will have no hot water between 9 a.m. and 4 p.m. on Tuesday and Wednesday. We [2] you to plan accordingly. For those who wish to shower elsewhere, free passes to the nearby fitness center are [3] at the management office. Thank you for your understanding as we work to [4] the building's facilities.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The elevators are inspected every year.",
+          "The work is necessary to improve energy efficiency and reduce monthly costs.",
+          "The lobby will be repainted in blue.",
+          "Rent is due on the first of the month."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence gives the reason for the replacement, before the consequences are explained."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "advise",
+          "advice",
+          "advisor",
+          "advised"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Advise' is the verb used with an object and 'to + verb'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "availably",
+          "available",
+          "avail",
+          "availability"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adjective is needed after 'are'."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "improve",
+          "prove",
+          "approve",
+          "remove"
+        ],
+        "answerIndex": 0,
+        "explanation": "One 'improves' facilities, meaning one makes them better."
+      }
+    ]
+  },
+  {
+    "id": "p6-101",
+    "documentType": "advertisement",
+    "text": "Meet the Nova X2, the smartphone built for busy professionals. Its battery lasts up to two days on a single charge, [1] its fast-charging feature restores 80 percent in just thirty minutes. [2] The 12-megapixel camera captures clear photos even in low light. The Nova X2 is [3] in black, silver, and blue. Buy one before November 30 and [4] a free protective case worth $30.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "until",
+          "and"
+        ],
+        "answerIndex": 3,
+        "explanation": "The two advantages are added to each other."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Its large display makes reading and watching videos a pleasure.",
+          "Smartphones should not be used while driving.",
+          "Our stores are closed on Sundays.",
+          "The company has existed for twenty years."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence presents another feature of the phone, before the camera is described."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "offering",
+          "offers",
+          "offered",
+          "offer"
+        ],
+        "answerIndex": 2,
+        "explanation": "The passive 'is offered in' lists the available colors."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "got",
+          "gets",
+          "get",
+          "getting"
+        ],
+        "answerIndex": 2,
+        "explanation": "The base form is needed after 'and' in an imperative sentence."
+      }
+    ]
+  },
+  {
+    "id": "p6-102",
+    "documentType": "letter",
+    "text": "Dear Parents and Guardians,\n\nThe annual Science Fair at Parkview Elementary will be held on Friday, March 14, in the school gymnasium. [1] Students in grades 3 to 6 have been working on their projects for the past six weeks. Visitors are welcome from 1 p.m. to 3 p.m. [2] there will be a short awards ceremony at 3:15 p.m. We [3] parents to help by bringing refreshments or volunteering to supervise. If you [4] interested, please contact Ms. Reyes at the school office.\n\nSincerely,\nPrincipal Alan Moss",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The school bus will be replaced in June.",
+          "This year's theme is renewable energy.",
+          "Report cards will be sent next week.",
+          "The cafeteria offers a vegetarian menu."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence introduces the event, and the next sentence gives information about the projects."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Meanwhile,",
+          "Instead,",
+          "However,",
+          "Afterward,"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Afterward' places the ceremony after the visiting hours."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "encourages",
+          "encourage",
+          "encouraging",
+          "encouragement"
+        ],
+        "answerIndex": 1,
+        "explanation": "The plural subject 'We' takes the base form."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "is",
+          "be",
+          "being",
+          "are"
+        ],
+        "answerIndex": 3,
+        "explanation": "'You' takes 'are' in the present tense."
+      }
+    ]
+  },
+  {
+    "id": "p6-103",
+    "documentType": "web_page",
+    "text": "Cancellation Policy\n\nRegistrations may be canceled free of charge up to fourteen days before the start of the workshop. [1] Cancellations made within fourteen days will be subject to a fee of 50 percent. No refunds are [2] for no-shows. If you are unable to attend, you may [3] your place to a colleague, [4] you notify us in writing at least two days in advance.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The workshop will take place in Chicago.",
+          "A full refund will be issued within ten business days.",
+          "Lunch is provided for all participants.",
+          "Parking is available next to the building."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence continues the free-cancellation rule, which contrasts with the next one."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "issuing",
+          "issued",
+          "issue",
+          "issues"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive 'are issued' is needed."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "transport",
+          "transmit",
+          "transform",
+          "transfer"
+        ],
+        "answerIndex": 3,
+        "explanation": "One 'transfers' a place to someone else."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "so",
+          "provided"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Provided (that)' introduces a condition."
+      }
+    ]
+  },
+  {
+    "id": "p6-104",
+    "documentType": "email",
+    "text": "Dear team,\n\nI am writing to inform you that our quarterly sales meeting has been [1] from Friday to Monday at 10 a.m. [2] This change is due to the unexpected absence of our regional director, who will be traveling on Friday. Please [3] your calendars accordingly and notify me [4] you have a conflict. Thank you for your flexibility.\n\nBest regards,\nOlivia",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "move",
+          "moving",
+          "moves",
+          "moved"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive 'has been moved' is needed."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The sales figures were released on Friday.",
+          "Our director was recently promoted.",
+          "The conference room will be painted next week.",
+          "The venue and the agenda will remain the same."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence gives information about the meeting after the date change."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "update",
+          "updated",
+          "updating",
+          "updates"
+        ],
+        "answerIndex": 0,
+        "explanation": "After 'Please', the base form is used."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "because",
+          "until",
+          "if"
+        ],
+        "answerIndex": 3,
+        "explanation": "The notice is requested only in the case of a conflict."
+      }
+    ]
+  }
+]

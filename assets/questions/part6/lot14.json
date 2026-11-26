@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-105",
+    "documentType": "letter",
+    "text": "Dear Subscriber,\n\nYour subscription to Business Weekly will [1] on December 31. To continue receiving the magazine without interruption, please renew before that date. [2] Renewing for two years saves you 25 percent compared with the single-year price. You can renew online at www.businessweekly.example [3] by returning the enclosed form. We [4] our readers' loyalty and look forward to serving you in the coming year.\n\nCustomer Service",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "expel",
+          "expand",
+          "expect",
+          "expire"
+        ],
+        "answerIndex": 3,
+        "explanation": "A subscription 'expires' on a given date, meaning it ends."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The magazine is printed on recycled paper.",
+          "We are offering special rates to our loyal readers.",
+          "Our offices are closed on December 25.",
+          "The editor will retire next year."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence introduces the rates discussed in the next sentence."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "or",
+          "and",
+          "but",
+          "nor"
+        ],
+        "answerIndex": 0,
+        "explanation": "Two alternatives are offered: renew online or return the form."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "appreciation",
+          "appreciate",
+          "appreciative",
+          "appreciated"
+        ],
+        "answerIndex": 1,
+        "explanation": "After the subject 'We', a conjugated verb is needed."
+      }
+    ]
+  },
+  {
+    "id": "p6-106",
+    "documentType": "article",
+    "text": "Study Links Sleep to Workplace Performance\n\nA new study by researchers at Hamilton University suggests that employees who sleep at least seven hours a night are [1] more productive than those who sleep less. The study followed 800 workers over a period of two years. [2] Those who reported poor sleep made [3] errors and missed more deadlines. Experts recommend that companies encourage healthy habits [4] flexible schedules and quiet rest areas.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "significant",
+          "signify",
+          "significantly",
+          "significance"
+        ],
+        "answerIndex": 2,
+        "explanation": "An adverb is needed to modify the comparative 'more productive'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The university was founded in 1920.",
+          "Hotels are cheaper in winter.",
+          "The participants came from a wide range of industries.",
+          "Coffee consumption has risen over the past decade."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence gives details about the study sample, before the results are given."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "more",
+          "most",
+          "much",
+          "few"
+        ],
+        "answerIndex": 0,
+        "explanation": "'More errors' completes the comparison with 'missed more deadlines'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "such as",
+          "so as",
+          "as such",
+          "such like"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Such as' introduces examples."
+      }
+    ]
+  },
+  {
+    "id": "p6-107",
+    "documentType": "notice",
+    "text": "MEMBERS' NOTICE\n\nThe Harmon Art Museum will be [1] to the public on Monday, March 3, for the installation of a new exhibition. Members, [2], will be able to enter between 10 a.m. and noon. [3] Please present your membership card at the entrance. The exhibition, titled Light and Color, [4] more than 80 works from private collections.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "closing",
+          "close",
+          "closes",
+          "closed"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive adjective 'closed' is needed after 'will be'."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "besides",
+          "however",
+          "meanwhile"
+        ],
+        "answerIndex": 2,
+        "explanation": "'However' marks the exception for members as opposed to the public."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "The museum shop sells postcards.",
+          "Parking is difficult downtown.",
+          "Entry for members is free of charge.",
+          "The building was renovated in 1998."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence is about members' entry and precedes the instruction to show the card."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "feature",
+          "featured",
+          "features",
+          "featuring"
+        ],
+        "answerIndex": 2,
+        "explanation": "A present-tense verb is needed after 'The exhibition'."
+      }
+    ]
+  },
+  {
+    "id": "p6-108",
+    "documentType": "job_ad",
+    "text": "Head Chef – Harbor View Restaurant\n\nHarbor View Restaurant is [1] a head chef to lead its kitchen team of twelve. The successful candidate will create seasonal menus, [2] food costs, and ensure that hygiene standards are met. [3] Experience in a fine-dining restaurant is essential, and a culinary diploma is preferred. We offer a competitive salary, free meals, and the opportunity to work in a [4] and creative environment.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "seeking",
+          "seeks",
+          "seek",
+          "sought"
+        ],
+        "answerIndex": 0,
+        "explanation": "The present continuous 'is seeking' is needed."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "manner",
+          "managed",
+          "manager",
+          "manage"
+        ],
+        "answerIndex": 3,
+        "explanation": "A base verb parallel to 'create' and 'ensure' is needed."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "The restaurant is located near the harbor.",
+          "Reservations are recommended on weekends.",
+          "The role requires strong leadership and the ability to work under pressure.",
+          "Our menu features local seafood."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence describes the role and precedes the requirements."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "supportive",
+          "supports",
+          "supportively",
+          "supporter"
+        ],
+        "answerIndex": 0,
+        "explanation": "An adjective parallel to 'creative' is needed."
+      }
+    ]
+  },
+  {
+    "id": "p6-109",
+    "documentType": "online_chat",
+    "text": "Customer (6:30 p.m.): My internet has been very slow since yesterday. [1]\nAgent (6:31 p.m.): I'm sorry about that. Let me [2] a test on your line.\nAgent (6:34 p.m.): I can see that there is a service problem in your area. Our engineers are [3] on it, and it should be resolved by tomorrow morning. As compensation, we will [4] your next bill by $10.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "My landlord is selling the apartment.",
+          "I would like to order a new phone.",
+          "Your offices are closed on Sundays.",
+          "I have already tried restarting the router."
+        ],
+        "answerIndex": 3,
+        "explanation": "The customer adds an action already taken, before the agent runs a test."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "run",
+          "rise",
+          "rule",
+          "rush"
+        ],
+        "answerIndex": 0,
+        "explanation": "One 'runs' a test, meaning one performs it."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "worked",
+          "work",
+          "works",
+          "working"
+        ],
+        "answerIndex": 3,
+        "explanation": "The present continuous 'are working on it' is needed."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "reduce",
+          "rescue",
+          "resume",
+          "refuse"
+        ],
+        "answerIndex": 0,
+        "explanation": "A bill can be 'reduced' by a given amount."
+      }
+    ]
+  },
+  {
+    "id": "p6-110",
+    "documentType": "memo",
+    "text": "MEMO\nTo: All staff\nFrom: Human Resources\nSubject: Holiday schedule\n\nThe office will be closed from December 24 to January 1. [1] Employees who need to work during this period must obtain written approval from their department head [2] December 10. Those who do so will receive a compensation day [3] in January. Please remember to [4] all confidential documents before leaving on December 23.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cafeteria will be renovated in February.",
+          "Parking fees will increase next year.",
+          "The holiday party was a great success.",
+          "Normal business hours will resume on Monday, January 2."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence completes the closure information, before the exception for workers."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "until",
+          "since",
+          "during",
+          "by"
+        ],
+        "answerIndex": 3,
+        "explanation": "'By' introduces a deadline."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "latter",
+          "lately",
+          "later",
+          "latest"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Later in January' indicates a time after the closure."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "section",
+          "select",
+          "secure",
+          "search"
+        ],
+        "answerIndex": 2,
+        "explanation": "One 'secures' documents, meaning one stores them safely."
+      }
+    ]
+  },
+  {
+    "id": "p6-111",
+    "documentType": "letter",
+    "text": "Dear Mr. Weston,\n\nWe are writing to invite your company to become a sponsor of the 15th Annual Charity Run, which will be held on May 17 in Lincoln Park. [1] Last year's event raised $85,000 for local children's hospitals. As a sponsor, your company's logo would be [2] displayed on all race materials and on our Web site. Sponsorship packages begin at $1,000, and every package includes [3] entries for your employees. We would be happy to [4] the details with you at your convenience.\n\nSincerely,\nRita Alvarez, Event Coordinator",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Lincoln Park has a new playground.",
+          "The hospital was founded in 1950.",
+          "The run attracts more than 2,000 participants each year.",
+          "Registration for the next course opens in June."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence presents the event and leads to last year's results."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "prominent",
+          "prominently",
+          "prominence",
+          "prominents"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adverb is needed to modify the participle 'displayed'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "freely",
+          "free",
+          "freedom",
+          "freed"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adjective is needed before 'entries'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "discussion",
+          "discuss",
+          "discussed",
+          "discusses"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'would be happy to', the base form is used."
+      }
+    ]
+  },
+  {
+    "id": "p6-112",
+    "documentType": "email",
+    "text": "Dear Mr. Silva,\n\nWe are writing to confirm that your support request #20418 has been [1]. The problem with your accounting software was caused by an outdated version, which we have now updated remotely. [2] You should be able to log in as usual. If the issue [3], please reply to this e-mail and we will reopen your case. We would appreciate it if you could [4] a few minutes to complete our satisfaction survey.\n\nTechAid Support",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "resolving",
+          "resolved",
+          "resolve",
+          "resolves"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive 'has been resolved' is needed."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "No further action is required on your part.",
+          "The software is available in three languages.",
+          "Our technicians work in teams of four.",
+          "The survey results will be published in May."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence follows the solution and precedes the confirmation that login works."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "return",
+          "returns",
+          "returned",
+          "returning"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'If the issue', the third-person singular present is needed."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "ask",
+          "tell",
+          "let",
+          "take"
+        ],
+        "answerIndex": 3,
+        "explanation": "One 'takes' a few minutes to do something."
+      }
+    ]
+  }
+]

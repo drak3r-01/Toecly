@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-089",
+    "documentType": "email",
+    "text": "Dear Supporter,\n\nOn behalf of the Green Valley Food Bank, thank you for your generous donation of $250. Your gift will [1] us provide meals to more than 100 families this winter. [2] Last year, thanks to donors like you, we distributed over 60,000 kilograms of food. We also [3] volunteers for our weekend sorting sessions, and we would be delighted if you could join us. If you are [4], please visit our Web site to sign up for a time slot.\n\nWith gratitude,\nPatricia Nolan",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "helps",
+          "helping",
+          "help",
+          "helped"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Help' is followed by the base form of the verb, here after 'will'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our office is closed on public holidays.",
+          "Every dollar goes directly toward buying and delivering food.",
+          "The new library opens next week.",
+          "Winter coats are sold at the mall."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence explains how donations are used, before last year's figures."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "need",
+          "needs",
+          "needing",
+          "to need"
+        ],
+        "answerIndex": 0,
+        "explanation": "After 'We also', the plural present form is used."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "interested",
+          "interesting",
+          "interest",
+          "interests"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Be interested' describes a person who wants to take part."
+      }
+    ]
+  },
+  {
+    "id": "p6-090",
+    "documentType": "notice",
+    "text": "BOARDING NOTICE\n\nPassengers on Flight 506 to Madrid are requested to proceed to Gate 14. Boarding will begin at 7:40 p.m. [1] Passengers traveling with small children and those needing assistance may board [2], followed by business-class passengers. All hand luggage must [3] under the seat or in the overhead compartments. Electronic devices must remain in airplane mode [4] the aircraft has landed.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Meals will be served in the departure lounge.",
+          "Baggage claim is located on the ground floor.",
+          "The airport's shops are open until midnight.",
+          "Please have your boarding pass and passport ready."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence gives an instruction linked to boarding."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "first",
+          "firstly",
+          "at first",
+          "the first"
+        ],
+        "answerIndex": 0,
+        "explanation": "'First' is used as an adverb to mean before others."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "be stored",
+          "store",
+          "storing",
+          "be storing"
+        ],
+        "answerIndex": 0,
+        "explanation": "The passive infinitive is needed after 'must'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "since",
+          "before",
+          "while",
+          "until"
+        ],
+        "answerIndex": 3,
+        "explanation": "The devices must stay in airplane mode up to the moment of landing."
+      }
+    ]
+  },
+  {
+    "id": "p6-091",
+    "documentType": "article",
+    "text": "University Launches Online Degree Program\n\nWestbrook University announced on Monday that it will offer a fully online master's degree in data science beginning next fall. Classes will be [1] by faculty members who also teach on campus. [2] Students will be able to watch lectures at any time, which is ideal for working professionals. The program takes two years to complete, [3] students may extend it to three years if necessary. Applications will be [4] until July 31.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "teach",
+          "teaching",
+          "teaches",
+          "taught"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive past participle of 'teach' is 'taught'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The university was founded in 1890.",
+          "Student housing fees will rise in the spring.",
+          "The new program is expected to enroll about 200 students in its first year.",
+          "The football team won the national title."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence gives information about the program before the details of how it works."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "although",
+          "because",
+          "unless",
+          "since"
+        ],
+        "answerIndex": 0,
+        "explanation": "The possibility of extending contrasts with the standard length."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "accepting",
+          "accept",
+          "accepted",
+          "acceptance"
+        ],
+        "answerIndex": 2,
+        "explanation": "The passive 'will be accepted' is needed."
+      }
+    ]
+  },
+  {
+    "id": "p6-092",
+    "documentType": "email",
+    "text": "Dear Ms. Anders,\n\nWe are delighted to confirm your reservation at the Riverside Boutique Hotel for two nights, from Friday, October 10, to Sunday, October 12. Your room, [1] overlooks the river, has been upgraded at no extra cost. [2] Check-in begins at 2 p.m., but if you [3] earlier, we will gladly store your luggage. Please note that a credit card is [4] to guarantee the booking.\n\nBest wishes,\nThe Riverside Team",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "where",
+          "which"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Which' introduces a non-restrictive clause about the room."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "We look forward to welcoming you.",
+          "We apologize for the delay in processing your refund.",
+          "The restaurant has changed its menu.",
+          "The conference was a great success."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence closes the confirmation and precedes the practical information."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "arrived",
+          "arrive",
+          "arrives",
+          "arriving"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'if you', the present simple base form is used."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "needing",
+          "needed",
+          "need",
+          "needs"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive adjective 'is needed' fits the sentence."
+      }
+    ]
+  },
+  {
+    "id": "p6-093",
+    "documentType": "job_ad",
+    "text": "Senior Mechanical Engineer\n\nTorque Industries, a leading maker of industrial machinery, is seeking a Senior Mechanical Engineer to [1] our design team in Detroit. The ideal candidate holds a degree in mechanical engineering and has a minimum of seven years of [2] experience. [3] Responsibilities include supervising junior engineers, reviewing designs, and ensuring that all products comply with safety [4]. Salary will depend on qualifications.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "join",
+          "joint",
+          "joins",
+          "joining"
+        ],
+        "answerIndex": 0,
+        "explanation": "After 'to', the base form is used."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "relevance",
+          "relevantly",
+          "relevant",
+          "relevancy"
+        ],
+        "answerIndex": 2,
+        "explanation": "An adjective is needed before 'experience'."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "The company was established in 1948.",
+          "The position reports directly to the Head of Engineering.",
+          "Detroit is known for its music scene.",
+          "Employees receive a discount on company products."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence describes the job and leads to the list of responsibilities."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "standards",
+          "standardize",
+          "standardly",
+          "standing"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Safety standards' is the standard collocation."
+      }
+    ]
+  },
+  {
+    "id": "p6-094",
+    "documentType": "letter",
+    "text": "Dear Mr. Haddad,\n\nWelcome to the Lakeside Tennis Club! Your membership officially [1] on January 1 and runs for twelve months. [2] You will find your membership card and a copy of our rules enclosed. Please note that courts must be [3] at least 24 hours in advance, either online or at the front desk. Members may bring guests, provided that the guest fee [4] paid in advance.\n\nSincerely,\nMembership Office",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "begin",
+          "beginning",
+          "begins",
+          "began"
+        ],
+        "answerIndex": 2,
+        "explanation": "A third-person singular present verb is needed for a scheduled event."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The club's parking lot is being repaved.",
+          "We are confident that you will enjoy the club's excellent facilities.",
+          "Our new coach comes from Spain.",
+          "Membership fees are due every month."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence welcomes the new member and precedes the enclosed items."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "reserving",
+          "reserve",
+          "reserves",
+          "reserved"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive 'must be reserved' is needed."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "has",
+          "been",
+          "being",
+          "is"
+        ],
+        "answerIndex": 3,
+        "explanation": "The present simple passive 'is paid' is used after 'provided that'."
+      }
+    ]
+  },
+  {
+    "id": "p6-095",
+    "documentType": "text_message",
+    "text": "Hi Jessica, it's Omar. I'm at the airport and my flight has been [1]. I'll arrive at the client's office around 1 p.m. instead of 11 a.m. [2] Could you ask Mr. Walsh if we can [3] the meeting until the afternoon? If that is not possible, please start without me and I will [4] by phone.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "delayed",
+          "delaying",
+          "delay",
+          "delays"
+        ],
+        "answerIndex": 0,
+        "explanation": "The passive 'has been delayed' is needed."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Congratulations on your new job.",
+          "The airport has two terminals.",
+          "Thank you for the gift.",
+          "I'm sorry for the inconvenience."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence apologizes for the change before a request is made."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "propose",
+          "prevent",
+          "prepare",
+          "postpone"
+        ],
+        "answerIndex": 3,
+        "explanation": "One 'postpones' a meeting until a later time."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "join",
+          "joint",
+          "joins",
+          "joining"
+        ],
+        "answerIndex": 0,
+        "explanation": "After 'will', the base form 'join' is used."
+      }
+    ]
+  },
+  {
+    "id": "p6-096",
+    "documentType": "review",
+    "text": "★★★★★ Professional and fast\n\nI hired Swift Movers to relocate my office last month, and I could not be happier. The team arrived [1] schedule and handled every piece of furniture with great care. [2] They even reassembled the desks and shelves in the new space. The price was [3] lower than that of two other companies I contacted. I would [4] recommend Swift Movers to any business planning a move.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "in",
+          "at",
+          "on",
+          "by"
+        ],
+        "answerIndex": 2,
+        "explanation": "'On schedule' means at the planned time."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The company was founded by two brothers.",
+          "Office rents have increased this year.",
+          "Parking is difficult downtown.",
+          "Their movers were polite, efficient, and well organized."
+        ],
+        "answerIndex": 3,
+        "explanation": "'They' in the next sentence refers to the movers mentioned in the inserted sentence."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "considerable",
+          "consider",
+          "considering",
+          "considerably"
+        ],
+        "answerIndex": 3,
+        "explanation": "An adverb is needed to modify the comparative 'lower'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "high",
+          "higher",
+          "highly",
+          "highness"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Highly recommend' is the standard combination."
+      }
+    ]
+  }
+]
