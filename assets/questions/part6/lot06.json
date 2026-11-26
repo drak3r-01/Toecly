@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-041",
+    "documentType": "email",
+    "text": "Dear Ms. Grant,\n\nThank you for choosing Bella Catering for your company's anniversary dinner. We have prepared the menu you [1] last week, and the final quote is attached. [2] A deposit of 30 percent is required to confirm the booking. The remaining balance is due [3] the day of the event. Please do not hesitate to call me [4] you wish to change any of the dishes.\n\nWarm regards,\nMarco Bellini",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "requested",
+          "request",
+          "requesting",
+          "requests"
+        ],
+        "answerIndex": 0,
+        "explanation": "A past form is needed in a reduced relative clause: 'the menu you requested last week'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our restaurant is closed on Mondays.",
+          "The quote includes service, tableware, and setup.",
+          "Parking is available behind the theater.",
+          "Our chef will teach a cooking class in June."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence explains the quote, which precedes the information about payment."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "in",
+          "on",
+          "within"
+        ],
+        "answerIndex": 2,
+        "explanation": "'On the day of' is the standard expression."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "because",
+          "until",
+          "if"
+        ],
+        "answerIndex": 3,
+        "explanation": "The call is requested on condition that the customer wants a change."
+      }
+    ]
+  },
+  {
+    "id": "p6-042",
+    "documentType": "notice",
+    "text": "The 12th Annual Logistics Summit will take place at the Metro Convention Center from May 6 to May 8. Registration is [1] through April 15. [2] Participants who register early will receive a discount of 15 percent. Sessions will cover topics such as supply chain automation, sustainable packaging, and international [3]. Hotel rooms are available at a special rate for attendees who [4] the conference code when booking.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "opened",
+          "opening",
+          "open",
+          "opens"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Be open' is the adjective meaning that registration is possible."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Space is limited to 500 attendees.",
+          "The company will relocate next year.",
+          "Employees should wear identification badges.",
+          "The new highway will open in June."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence justifies registering early, as the next sentence encourages."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "shipped",
+          "shipping",
+          "ships",
+          "ship"
+        ],
+        "answerIndex": 1,
+        "explanation": "A noun is needed after 'international' in the list of topics."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "mentions",
+          "mention",
+          "mentioning",
+          "mentioned"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'attendees who', the plural present verb is needed."
+      }
+    ]
+  },
+  {
+    "id": "p6-043",
+    "documentType": "article",
+    "text": "City Council Approves New Bike Lanes\n\nThe Riverton City Council voted 7 to 2 on Tuesday to [1] a plan for 15 kilometers of protected bike lanes. [2] Construction is scheduled to begin in March and will cost an estimated $4 million. Supporters argue that the lanes will reduce traffic and improve air quality, [3] opponents are concerned about the loss of parking spaces. Mayor Elena Ruiz said the city will hold public meetings [4] residents can share their opinions.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "approval",
+          "approved",
+          "approving",
+          "approve"
+        ],
+        "answerIndex": 3,
+        "explanation": "After 'to', the base form is used."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The city's annual marathon takes place in May.",
+          "The lanes will connect the university district to the city center.",
+          "The council has hired a new legal adviser.",
+          "Tourism has increased by ten percent this year."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence describes the plan before the construction details."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "while",
+          "because",
+          "unless",
+          "so"
+        ],
+        "answerIndex": 0,
+        "explanation": "The two groups hold opposite views, so a contrast connector is needed."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "as if",
+          "even if",
+          "so that",
+          "no matter"
+        ],
+        "answerIndex": 2,
+        "explanation": "'So that' introduces the purpose of the meetings."
+      }
+    ]
+  },
+  {
+    "id": "p6-044",
+    "documentType": "web_page",
+    "text": "Version 4.2 Release Notes\n\nWe are pleased to announce the release of PhotoPro 4.2. This update [1] several features requested by our users. [2] Photos now load twice as fast, even on older computers. The new batch editing tool allows you to apply changes to hundreds of images [3] once. We have also fixed a bug that [4] the program to close unexpectedly. To update, open the app and select 'Check for updates.'",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "include",
+          "includes",
+          "including",
+          "included"
+        ],
+        "answerIndex": 1,
+        "explanation": "A third-person singular present verb follows 'This update'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Performance has been greatly improved.",
+          "Our customer service line is closed on weekends.",
+          "The company was founded in Toronto.",
+          "The software is not available in stores."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence introduces improvements, followed by an example of speed gain."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "answerIndex": 0,
+        "explanation": "'At once' means 'at the same time'."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "caused",
+          "caught",
+          "carried",
+          "cared"
+        ],
+        "answerIndex": 0,
+        "explanation": "A bug 'caused' the program to close, meaning it made it close."
+      }
+    ]
+  },
+  {
+    "id": "p6-045",
+    "documentType": "memo",
+    "text": "MEMO\nTo: All staff\nFrom: Finance Department\nSubject: Travel expense reports\n\nEffective immediately, all expense reports for business travel must be submitted [1] ten days of the end of the trip. [2] Receipts are required for every expense over $25. Reports that are incomplete will be returned to the employee [3] correction. Reimbursements will be [4] directly into employees' bank accounts after approval.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "until",
+          "since",
+          "among",
+          "within"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Within ten days' sets a time limit."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cafeteria will close early on Friday.",
+          "Late submissions may delay your reimbursement.",
+          "A new printer has been installed on the second floor.",
+          "The annual picnic has been postponed."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence gives the consequence of the deadline before the receipts rule."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "of",
+          "for",
+          "on"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Returned for correction' means returned so that it can be corrected."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "deposit",
+          "depositing",
+          "depositor",
+          "deposited"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive 'will be deposited' is needed."
+      }
+    ]
+  },
+  {
+    "id": "p6-046",
+    "documentType": "online_chat",
+    "text": "Customer (4:41 p.m.): Hi, I ordered a coffee machine last week, but the box [1] the two cups that were advertised.\nAgent (4:42 p.m.): I apologize for that. [2] Could you send me a photo of the box?\nCustomer (4:44 p.m.): Sure, just a moment. Here it is.\nAgent (4:46 p.m.): Thank you. I will [3] the missing items today. You should receive them [4] three to five days.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "did not include",
+          "not include",
+          "did not included",
+          "is not include"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Did' is followed by 'not' and the base form of the verb."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our store closes at nine on Sundays.",
+          "I will look into this right away.",
+          "Thank you for subscribing to our newsletter.",
+          "The coffee machine comes in four colors."
+        ],
+        "answerIndex": 1,
+        "explanation": "The agent reacts to the problem, then asks for a photo."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "shape",
+          "ship",
+          "shop",
+          "shelf"
+        ],
+        "answerIndex": 1,
+        "explanation": "The missing items will be 'shipped' to the customer."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "within",
+          "since",
+          "between"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Within' gives the maximum delay for delivery."
+      }
+    ]
+  },
+  {
+    "id": "p6-047",
+    "documentType": "advertisement",
+    "text": "Discover the Art of the Renaissance at the Whitmore Museum! Our new exhibition features over 120 paintings and sculptures [1] from museums across Europe. [2] Guided tours are offered every day at 11 a.m. and 3 p.m. Admission is free for children under 12, and students [3] a valid ID receive a 50 percent discount. The exhibition will run [4] September 5 and December 14.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "borrowed",
+          "borrowing",
+          "borrows",
+          "borrow"
+        ],
+        "answerIndex": 0,
+        "explanation": "A past participle is needed: works 'borrowed from museums'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Some of the works are on display in the country for the first time.",
+          "The city will repair the main road next week.",
+          "Our gift shop sells umbrellas and hats.",
+          "Bus number 12 stops near the airport."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence adds an attraction of the exhibition and precedes the tour information."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "with",
+          "from",
+          "for",
+          "in"
+        ],
+        "answerIndex": 0,
+        "explanation": "'With a valid ID' describes the students."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "from",
+          "since",
+          "between",
+          "during"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Between ... and' is used for a period with two dates."
+      }
+    ]
+  },
+  {
+    "id": "p6-048",
+    "documentType": "email",
+    "text": "Dear colleagues,\n\nPlease be informed that the company server will be [1] for maintenance this Saturday from 10 p.m. to 2 a.m. During this period, you will not be able to access your e-mail or shared files. [2] We recommend that you save your work and log out before 9:30 p.m. on Saturday. The system will be back online [3] Sunday morning. We apologize for any inconvenience and thank you for your [4].\n\nIT Support",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "down",
+          "low",
+          "under",
+          "beyond"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Down for maintenance' means temporarily out of service."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "All open files will be closed automatically at 10 p.m.",
+          "The new software costs $200 per license.",
+          "Employees can borrow tablets from the help desk.",
+          "The conference will be held in Seattle."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence supports the advice to save work that follows."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "by",
+          "until",
+          "since"
+        ],
+        "answerIndex": 1,
+        "explanation": "'By Sunday morning' means no later than that time."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "patient",
+          "patiently",
+          "patients",
+          "patience"
+        ],
+        "answerIndex": 3,
+        "explanation": "A noun is needed after 'your'."
+      }
+    ]
+  }
+]
