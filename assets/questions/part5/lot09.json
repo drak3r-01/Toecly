@@ -1,0 +1,509 @@
+[
+  {
+    "id": "p5-319",
+    "sentence": "The new office is ___ than the old one.",
+    "choices": [
+      "largest",
+      "larger",
+      "more large",
+      "large"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Than' calls for the comparative form 'larger'."
+  },
+  {
+    "id": "p5-320",
+    "sentence": "This is the ___ report we have received this year.",
+    "choices": [
+      "most detailed",
+      "detail",
+      "more detailed",
+      "detailedly"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'The' + superlative: 'most detailed' for a long adjective."
+  },
+  {
+    "id": "p5-321",
+    "sentence": "Ms. Kwon is the ___ experienced of all the candidates.",
+    "choices": [
+      "much",
+      "very",
+      "most",
+      "more"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "The superlative 'most experienced' follows 'the' and 'of all'."
+  },
+  {
+    "id": "p5-322",
+    "sentence": "The train was ___ crowded than usual this morning.",
+    "choices": [
+      "most",
+      "much",
+      "more",
+      "mostly"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'More crowded than' is the comparative structure."
+  },
+  {
+    "id": "p5-323",
+    "sentence": "Of the two models, the second is the ___ expensive.",
+    "choices": [
+      "less",
+      "lesser of",
+      "least",
+      "little"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "With two items, the comparative 'less' is used."
+  },
+  {
+    "id": "p5-324",
+    "sentence": "Our new printer is not as ___ as the old one.",
+    "choices": [
+      "fast",
+      "faster",
+      "fastly",
+      "fastest"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'As ... as' takes the base adjective."
+  },
+  {
+    "id": "p5-325",
+    "sentence": "The sooner you submit the form, the ___ you will receive the refund.",
+    "choices": [
+      "soon",
+      "soonest",
+      "more soon",
+      "sooner"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'The sooner ..., the sooner ...' is a double comparative."
+  },
+  {
+    "id": "p5-326",
+    "sentence": "Mr. Chang is ___ interested in transferring to the Paris office.",
+    "choices": [
+      "very",
+      "too many",
+      "most",
+      "much"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Very' modifies the adjective 'interested'."
+  },
+  {
+    "id": "p5-327",
+    "sentence": "The results were ___ better than we had predicted.",
+    "choices": [
+      "more",
+      "very",
+      "most",
+      "much"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Much' strengthens the comparative 'better'."
+  },
+  {
+    "id": "p5-328",
+    "sentence": "The seminar was ___ long to hold everyone's attention.",
+    "choices": [
+      "enough",
+      "so as",
+      "very much",
+      "too"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Too ... to' expresses an excessive degree."
+  },
+  {
+    "id": "p5-329",
+    "sentence": "The room was not large ___ to hold all the guests.",
+    "choices": [
+      "so",
+      "very",
+      "enough",
+      "too"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Adjective + enough to' follows the adjective."
+  },
+  {
+    "id": "p5-330",
+    "sentence": "The presentation was so ___ that everyone asked questions afterward.",
+    "choices": [
+      "interesting",
+      "interestingly",
+      "interest",
+      "interested"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Interesting' describes the presentation; 'interested' describes people."
+  },
+  {
+    "id": "p5-331",
+    "sentence": "The audience was ___ by the speaker's final remarks.",
+    "choices": [
+      "impressive",
+      "impressed",
+      "impressing",
+      "impression"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A participle describing people's feeling is needed: 'impressed'."
+  },
+  {
+    "id": "p5-332",
+    "sentence": "We were ___ to hear that the factory would stay open.",
+    "choices": [
+      "relief",
+      "relieved",
+      "relieve",
+      "relieving"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A participle for the feeling of people: 'relieved'."
+  },
+  {
+    "id": "p5-333",
+    "sentence": "The ___ guests were seated at the main table.",
+    "choices": [
+      "inviting",
+      "invitation",
+      "invited",
+      "invites"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past participle with a passive meaning modifies 'guests'."
+  },
+  {
+    "id": "p5-334",
+    "sentence": "Employees ___ in the program will receive a certificate.",
+    "choices": [
+      "enrolled",
+      "enroll",
+      "enrollment",
+      "enrolling"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A past participle phrase meaning 'who are enrolled'."
+  },
+  {
+    "id": "p5-335",
+    "sentence": "The ___ employees were rewarded with a free lunch.",
+    "choices": [
+      "hardly work",
+      "hardworker",
+      "hardworking",
+      "hardworked"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Hardworking' is a compound adjective before a noun."
+  },
+  {
+    "id": "p5-336",
+    "sentence": "Anyone ___ in the position should contact Human Resources.",
+    "choices": [
+      "interests",
+      "interest",
+      "interested",
+      "interesting"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Anyone interested' means anyone who is interested."
+  },
+  {
+    "id": "p5-337",
+    "sentence": "Passengers ___ for the 9:15 train should go to platform 4.",
+    "choices": [
+      "waited",
+      "waits",
+      "waiting",
+      "wait"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A present participle phrase meaning 'who are waiting'."
+  },
+  {
+    "id": "p5-338",
+    "sentence": "___ the contract carefully, Mr. Ito noticed several errors.",
+    "choices": [
+      "To reading",
+      "Reads",
+      "Read",
+      "Reading"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A participle phrase with the same subject as the main clause."
+  },
+  {
+    "id": "p5-339",
+    "sentence": "The firm hired more workers ___ the production deadline.",
+    "choices": [
+      "to meet",
+      "meeting to",
+      "met",
+      "meets"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An infinitive of purpose."
+  },
+  {
+    "id": "p5-340",
+    "sentence": "It is important ___ all safety rules at all times.",
+    "choices": [
+      "following",
+      "to follow",
+      "followed",
+      "follows"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'It is important to' + base verb."
+  },
+  {
+    "id": "p5-341",
+    "sentence": "Ms. Ortiz is looking forward to ___ the new team.",
+    "choices": [
+      "met",
+      "meet",
+      "meeting",
+      "to meet"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Look forward to' is followed by a gerund."
+  },
+  {
+    "id": "p5-342",
+    "sentence": "The firm is considering ___ a second branch in Dallas.",
+    "choices": [
+      "to open",
+      "open",
+      "opening",
+      "opened"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Consider' is followed by a gerund."
+  },
+  {
+    "id": "p5-343",
+    "sentence": "We decided ___ the meeting until next week.",
+    "choices": [
+      "postponing",
+      "postponed",
+      "postpone",
+      "to postpone"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Decide' is followed by an infinitive."
+  },
+  {
+    "id": "p5-344",
+    "sentence": "Mr. Nash avoided ___ the manager about the delay.",
+    "choices": [
+      "telling",
+      "told",
+      "to tell",
+      "tell"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Avoid' is followed by a gerund."
+  },
+  {
+    "id": "p5-345",
+    "sentence": "The company agreed ___ the damaged goods.",
+    "choices": [
+      "replace",
+      "to replace",
+      "replaced",
+      "replacing"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Agree' is followed by an infinitive."
+  },
+  {
+    "id": "p5-346",
+    "sentence": "Staff are not permitted ___ personal calls during meetings.",
+    "choices": [
+      "making",
+      "made",
+      "to make",
+      "make"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Permit someone to' + base verb."
+  },
+  {
+    "id": "p5-347",
+    "sentence": "She is accustomed ___ long hours at the office.",
+    "choices": [
+      "to work",
+      "work",
+      "working",
+      "to working"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Be accustomed to' is followed by a gerund."
+  },
+  {
+    "id": "p5-348",
+    "sentence": "Thank you for ___ us with such quick service.",
+    "choices": [
+      "provided",
+      "provide",
+      "providing",
+      "to provide"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A gerund follows the preposition 'for'."
+  },
+  {
+    "id": "p5-349",
+    "sentence": "Using the new system is much ___ than using the old one.",
+    "choices": [
+      "easiest",
+      "easy",
+      "easier",
+      "ease"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Than' calls for a comparative adjective."
+  },
+  {
+    "id": "p5-350",
+    "sentence": "The proposal was ___ rejected by the board.",
+    "choices": [
+      "unanimousness",
+      "unanimously",
+      "unanimous",
+      "unanimity"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adverb is needed between 'was' and the participle 'rejected'."
+  },
+  {
+    "id": "p5-351",
+    "sentence": "The assistant worked ___ to finish the report on time.",
+    "choices": [
+      "hardness",
+      "hard",
+      "hardly",
+      "harder of"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Hard' is both adjective and adverb; 'hardly' means 'almost not'."
+  },
+  {
+    "id": "p5-352",
+    "sentence": "The results were ___ different from what we expected.",
+    "choices": [
+      "completes",
+      "complete",
+      "completely",
+      "completion"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adverb is needed to modify the adjective 'different'."
+  },
+  {
+    "id": "p5-353",
+    "sentence": "Mr. Barnes is ___ the most qualified applicant.",
+    "choices": [
+      "by much",
+      "so far as",
+      "far by",
+      "by far"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'By far the most' is a fixed intensifier before a superlative."
+  },
+  {
+    "id": "p5-354",
+    "sentence": "The team has worked ___ on this project for six months.",
+    "choices": [
+      "consistently",
+      "consistent",
+      "consistency",
+      "consist"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb is needed after the verb phrase 'has worked'."
+  },
+  {
+    "id": "p5-355",
+    "sentence": "The restaurant is ___ open until midnight.",
+    "choices": [
+      "use",
+      "usualness",
+      "usual",
+      "usually"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adverb of frequency is needed before the adjective 'open'."
+  },
+  {
+    "id": "p5-356",
+    "sentence": "The new copier is ___ twice as fast as the old one.",
+    "choices": [
+      "most",
+      "almost",
+      "mostly",
+      "almost of"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Almost' means nearly and modifies 'twice as fast'."
+  },
+  {
+    "id": "p5-357",
+    "sentence": "Ms. Sanders arrived ___ for the interview, so she had time to review her notes.",
+    "choices": [
+      "earlier on",
+      "earliest",
+      "earlily",
+      "early"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Early' is an adverb (without -ly) after the verb 'arrived'."
+  }
+]

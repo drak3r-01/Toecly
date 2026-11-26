@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p5-474",
+    "sentence": "The city's new recycling program has been ___ successful.",
+    "choices": [
+      "extremely",
+      "extreme",
+      "extremity",
+      "extremes"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies the adjective 'successful'."
+  },
+  {
+    "id": "p5-475",
+    "sentence": "Please make sure that the doors are ___ locked before you leave.",
+    "choices": [
+      "security",
+      "secured",
+      "secure",
+      "securely"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adverb is needed between 'are' and the participle 'locked'."
+  },
+  {
+    "id": "p5-476",
+    "sentence": "The article was written ___ a well-known journalist.",
+    "choices": [
+      "with",
+      "by",
+      "at",
+      "on"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Written by' introduces the author in a passive sentence."
+  },
+  {
+    "id": "p5-477",
+    "sentence": "The new clinic will open ___ the end of next month.",
+    "choices": [
+      "at",
+      "in",
+      "during",
+      "on"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'At the end of' is a fixed expression for the last part of a period."
+  },
+  {
+    "id": "p5-478",
+    "sentence": "Patients should arrive fifteen minutes ___ their scheduled appointment.",
+    "choices": [
+      "before",
+      "until",
+      "from",
+      "among"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Before' shows what comes earlier in time."
+  },
+  {
+    "id": "p5-479",
+    "sentence": "The doctor recommended that Mr. Silva ___ more rest.",
+    "choices": [
+      "getting",
+      "get",
+      "gets",
+      "got"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'recommended that', the base form is used."
+  },
+  {
+    "id": "p5-480",
+    "sentence": "Ms. Beck's article on city planning was ___ in the Sunday newspaper.",
+    "choices": [
+      "publisher",
+      "published",
+      "publishing",
+      "publish"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Was published' is the passive past."
+  },
+  {
+    "id": "p5-481",
+    "sentence": "The radio station broadcasts the news ___ the hour.",
+    "choices": [
+      "by",
+      "in",
+      "at",
+      "on"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'On the hour' is the fixed expression for times like 9:00, 10:00."
+  },
+  {
+    "id": "p5-482",
+    "sentence": "The gas company ___ customers when it needs to read the meter.",
+    "choices": [
+      "notify of",
+      "notifies",
+      "notification",
+      "notifying"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A present simple verb with a singular subject is needed."
+  },
+  {
+    "id": "p5-483",
+    "sentence": "Your water bill is ___ on the fifteenth of every month.",
+    "choices": [
+      "due",
+      "owing",
+      "debt",
+      "duty"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Is due' means payment is expected."
+  },
+  {
+    "id": "p5-484",
+    "sentence": "The film received very ___ reviews from critics.",
+    "choices": [
+      "positively",
+      "positive",
+      "positivism",
+      "positivity"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'reviews'."
+  },
+  {
+    "id": "p5-485",
+    "sentence": "The newspaper plans to ___ a special edition next week.",
+    "choices": [
+      "publication",
+      "publisher",
+      "publish",
+      "publicly"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'plans to', a base verb is needed."
+  },
+  {
+    "id": "p5-486",
+    "sentence": "The local pharmacy delivers prescriptions ___ to elderly customers.",
+    "choices": [
+      "freely",
+      "frees",
+      "free",
+      "freedom"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Free' as an adverb means without charge; 'freely' means without restriction."
+  },
+  {
+    "id": "p5-487",
+    "sentence": "The ___ of electricity has risen steadily over the last decade.",
+    "choices": [
+      "cost",
+      "costly",
+      "costing",
+      "costed"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'the', a noun is needed; 'the cost of electricity' is the standard phrase."
+  },
+  {
+    "id": "p5-488",
+    "sentence": "The clinic is open every day ___ Sundays.",
+    "choices": [
+      "without",
+      "unless",
+      "besides of",
+      "except"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Except' means not including."
+  },
+  {
+    "id": "p5-489",
+    "sentence": "The city plans to ___ a new bridge across the river.",
+    "choices": [
+      "built",
+      "builder",
+      "builds",
+      "build"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "After 'plans to', a base verb is needed."
+  },
+  {
+    "id": "p5-490",
+    "sentence": "The athletes trained ___ for the national championship.",
+    "choices": [
+      "intensively",
+      "intensity",
+      "intensify",
+      "intensive"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies the verb 'trained'."
+  },
+  {
+    "id": "p5-491",
+    "sentence": "This nutritious snack is ___ in fiber and low in sugar.",
+    "choices": [
+      "rich",
+      "richly",
+      "richness",
+      "riches"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Rich in' is the adjective + preposition expression."
+  },
+  {
+    "id": "p5-492",
+    "sentence": "The city's population has ___ doubled since 1990.",
+    "choices": [
+      "nearness",
+      "near",
+      "nearby",
+      "nearly"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Nearly' is an adverb meaning almost."
+  },
+  {
+    "id": "p5-493",
+    "sentence": "Free parking is provided for ___ who attend the evening lectures.",
+    "choices": [
+      "whom",
+      "they",
+      "them",
+      "those"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Those who' means people who."
+  },
+  {
+    "id": "p5-494",
+    "sentence": "The mayor ___ the new community center last Saturday.",
+    "choices": [
+      "opens",
+      "opened",
+      "has opened",
+      "opening"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Last Saturday' is a finished past time."
+  },
+  {
+    "id": "p5-495",
+    "sentence": "The brochure contains useful ___ about local attractions.",
+    "choices": [
+      "informations",
+      "informed",
+      "informative",
+      "information"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Information' is uncountable and takes no plural."
+  },
+  {
+    "id": "p5-496",
+    "sentence": "Ms. Kramer sent us ___ advice on how to reduce our energy use.",
+    "choices": [
+      "helping",
+      "helpful",
+      "helpfully",
+      "help"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the uncountable noun 'advice'."
+  },
+  {
+    "id": "p5-497",
+    "sentence": "The museum's collection is ___ of seeing more than once.",
+    "choices": [
+      "worth",
+      "worthless",
+      "worthwhile",
+      "worthy"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Worthy of' is a fixed adjective + preposition structure."
+  },
+  {
+    "id": "p5-498",
+    "sentence": "Many residents are concerned ___ the rising cost of housing.",
+    "choices": [
+      "at",
+      "about",
+      "of",
+      "by"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Concerned about' is a fixed expression."
+  },
+  {
+    "id": "p5-499",
+    "sentence": "The new tax is expected to have a significant ___ on small businesses.",
+    "choices": [
+      "impacting",
+      "impact",
+      "impactful",
+      "impacted"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Have an impact on' is a fixed collocation."
+  },
+  {
+    "id": "p5-500",
+    "sentence": "The restaurant has been ___ by the city for its outstanding hygiene.",
+    "choices": [
+      "comment",
+      "commenced",
+      "commanded",
+      "commended"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Has been commended' means praised."
+  },
+  {
+    "id": "p5-501",
+    "sentence": "Every customer should ___ the instruction manual before using the machine.",
+    "choices": [
+      "read",
+      "to read",
+      "reads",
+      "reading"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'should', a base verb is needed."
+  },
+  {
+    "id": "p5-502",
+    "sentence": "The exhibition features paintings ___ the nineteenth century.",
+    "choices": [
+      "since",
+      "during",
+      "from",
+      "at"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'From' indicates the period of origin."
+  },
+  {
+    "id": "p5-503",
+    "sentence": "Mr. Doyle's proposal was ___ the most innovative of all.",
+    "choices": [
+      "easily",
+      "easier",
+      "ease",
+      "easy"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Easily the most' is an adverb used to emphasize a superlative."
+  },
+  {
+    "id": "p5-504",
+    "sentence": "The delivery truck arrived two hours ___ than scheduled.",
+    "choices": [
+      "lately",
+      "later",
+      "latest",
+      "late"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A comparative form is needed before 'than'."
+  },
+  {
+    "id": "p5-505",
+    "sentence": "The bakery is famous ___ its homemade bread.",
+    "choices": [
+      "for",
+      "of",
+      "with",
+      "to"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Famous for' is a fixed expression."
+  },
+  {
+    "id": "p5-506",
+    "sentence": "Public transportation in the city is both ___ and reliable.",
+    "choices": [
+      "afford",
+      "affordability",
+      "affordable",
+      "affordably"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adjective is needed to match 'reliable' in the 'both ... and' structure."
+  },
+  {
+    "id": "p5-507",
+    "sentence": "The weather forecast ___ heavy rain for the weekend.",
+    "choices": [
+      "prediction",
+      "predictable",
+      "predicted",
+      "predicts"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A present simple verb with a singular subject is needed."
+  },
+  {
+    "id": "p5-508",
+    "sentence": "The company's decision to expand was ___ by strong sales figures.",
+    "choices": [
+      "promised",
+      "prompted",
+      "prompts",
+      "protested"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Was prompted by' means was caused by."
+  },
+  {
+    "id": "p5-509",
+    "sentence": "Most of the staff ___ the new schedule more convenient.",
+    "choices": [
+      "found out",
+      "finds",
+      "finding",
+      "find"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Most of the staff' takes a plural verb here: 'find ... more convenient'."
+  },
+  {
+    "id": "p5-510",
+    "sentence": "___ the weather improves, the outdoor concert will be canceled.",
+    "choices": [
+      "Because",
+      "Unless",
+      "Whereas",
+      "Whenever"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Unless' means 'if not'; the concert is canceled if the weather does not improve."
+  },
+  {
+    "id": "p5-511",
+    "sentence": "The ___ speaker at tomorrow's seminar is a famous economist.",
+    "choices": [
+      "guessed",
+      "guest",
+      "guests",
+      "guesting"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Guest speaker' is a compound noun."
+  },
+  {
+    "id": "p5-512",
+    "sentence": "The ferry service has been ___ due to rough seas.",
+    "choices": [
+      "suspended",
+      "suspect",
+      "suspense",
+      "suspicious"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Has been suspended' means temporarily stopped."
+  },
+  {
+    "id": "p5-513",
+    "sentence": "The workshop will teach participants how ___ their time more effectively.",
+    "choices": [
+      "managed",
+      "managing",
+      "to manage",
+      "manage"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'How to' + base verb."
+  }
+]
