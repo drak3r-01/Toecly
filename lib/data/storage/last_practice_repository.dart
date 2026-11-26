@@ -24,4 +24,6 @@ class LastPracticeRepository {
         'parts': [for (final ToeicPart part in request.parts) part.number],
         'count': request.questionCount,
       });
+
+  Future<void> clear() => _store.writeJson(_key, <String, dynamic>{});
 }

@@ -661,6 +661,48 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Sessions: {count}'**
   String dashboardSessions(int count);
+
+  /// No description provided for @resetProgressLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Progress'**
+  String get resetProgressLabel;
+
+  /// No description provided for @resetProgressHint.
+  ///
+  /// In en, this message translates to:
+  /// **'Erase statistics, history and missed questions. Theme and language are kept.'**
+  String get resetProgressHint;
+
+  /// No description provided for @resetProgressButton.
+  ///
+  /// In en, this message translates to:
+  /// **'Reset progress'**
+  String get resetProgressButton;
+
+  /// No description provided for @resetProgressTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Reset all progress?'**
+  String get resetProgressTitle;
+
+  /// No description provided for @resetProgressMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'This cannot be undone.'**
+  String get resetProgressMessage;
+
+  /// No description provided for @resetProgressCancel.
+  ///
+  /// In en, this message translates to:
+  /// **'Cancel'**
+  String get resetProgressCancel;
+
+  /// No description provided for @resetProgressConfirm.
+  ///
+  /// In en, this message translates to:
+  /// **'Reset'**
+  String get resetProgressConfirm;
 }
 
 class _AppLocalizationsDelegate

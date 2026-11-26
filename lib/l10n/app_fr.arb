@@ -206,5 +206,12 @@
         "type": "int"
       }
     }
-  }
+  },
+  "resetProgressLabel": "Progression",
+  "resetProgressHint": "Efface les statistiques, l'historique et les questions manquées. Le thème et la langue sont conservés.",
+  "resetProgressButton": "Réinitialiser la progression",
+  "resetProgressTitle": "Tout réinitialiser ?",
+  "resetProgressMessage": "Cette action est irréversible.",
+  "resetProgressCancel": "Annuler",
+  "resetProgressConfirm": "Réinitialiser"
 }

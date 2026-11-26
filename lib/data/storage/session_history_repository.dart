@@ -20,4 +20,6 @@ class SessionHistoryRepository {
     final updated = [record, ...loadAll()].take(maxSessions);
     return _store.writeJson(_key, [for (final r in updated) r.toJson()]);
   }
+
+  Future<void> clear() => _store.writeJson(_key, <Object>[]);
 }

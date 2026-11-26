@@ -1,6 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:material_ui/material_ui.dart';
 
+import '../../app/providers.dart';
 import '../../app/settings/settings_providers.dart';
 import '../../l10n/app_localizations.dart';
 
@@ -56,9 +57,50 @@ class SettingsScreen extends ConsumerWidget {
                 .set(selection.first == 'system' ? null : Locale(selection.first)),
           ),
         ),
+        const SizedBox(height: 16),
+        _SettingCard(
+          label: l10n.resetProgressLabel,
+          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Text(l10n.resetProgressHint, style: Theme.of(context).textTheme.bodySmall),
+            const SizedBox(height: 12),
+            OutlinedButton.icon(
+              icon: const Icon(Icons.delete_outline),
+              label: Text(l10n.resetProgressButton),
+              onPressed: () => _confirmReset(context, ref),
+            ),
+          ]),
+        ),
       ],
     );
   }
+}
+
+Future<void> _confirmReset(BuildContext context, WidgetRef ref) async {
+  final l10n = AppLocalizations.of(context);
+  final confirmed = await showDialog<bool>(
+        context: context,
+        builder: (context) => AlertDialog(
+          title: Text(l10n.resetProgressTitle),
+          content: Text(l10n.resetProgressMessage),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context, false),
+              child: Text(l10n.resetProgressCancel),
+            ),
+            FilledButton(
+              onPressed: () => Navigator.pop(context, true),
+              child: Text(l10n.resetProgressConfirm),
+            ),
+          ],
+        ),
+      ) ??
+      false;
+  if (!confirmed) return;
+  await ref.read(partStatsProvider).clear();
+  await ref.read(missedQuestionsProvider).clear();
+  await ref.read(sessionHistoryProvider).clear();
+  await ref.read(lastPracticeProvider).clear();
+  ref.read(dataRevisionProvider.notifier).bump(); // theme and language are kept
 }
 
 class _SettingCard extends StatelessWidget {
