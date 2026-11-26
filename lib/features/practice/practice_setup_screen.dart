@@ -5,13 +5,12 @@ import '../../core/toeic_part.dart';
 import '../../data/quiz/quiz_request.dart';
 import '../../l10n/app_localizations.dart';
 import '../../l10n/l10n_labels.dart';
+import 'question_count_picker.dart';
 
 /// Custom practice: pick the parts and the number of questions, then start a
 /// session with immediate correction.
 class PracticeSetupScreen extends StatefulWidget {
   const PracticeSetupScreen({super.key});
-
-  static const questionCounts = [10, 20, 30, 50];
 
   @override
   State<PracticeSetupScreen> createState() => _PracticeSetupScreenState();
@@ -56,14 +55,7 @@ class _PracticeSetupScreenState extends State<PracticeSetupScreen> {
             const SizedBox(height: 24),
             Text(l10n.practiceCountLabel, style: theme.textTheme.titleMedium),
             const SizedBox(height: 8),
-            Wrap(spacing: 8, children: [
-              for (final count in PracticeSetupScreen.questionCounts)
-                ChoiceChip(
-                  label: Text('$count'),
-                  selected: _count == count,
-                  onSelected: (_) => setState(() => _count = count),
-                ),
-            ]),
+            QuestionCountPicker(value: _count, onChanged: (count) => _count = count),
             const SizedBox(height: 32),
             FilledButton.icon(
               icon: const Icon(Icons.play_arrow),

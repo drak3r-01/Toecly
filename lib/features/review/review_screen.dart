@@ -5,7 +5,9 @@ import 'package:material_ui/material_ui.dart';
 import '../../app/navigation/app_destination.dart';
 import '../../app/providers.dart';
 import '../../l10n/app_localizations.dart';
+import '../../data/quiz/quiz_request.dart';
 import '../../data/storage/session_record.dart';
+import '../practice/question_count_picker.dart';
 import '../quiz/quiz_screen.dart';
 
 /// Review: replay the questions previously missed. A question leaves the list
@@ -14,14 +16,13 @@ class ReviewScreen extends ConsumerStatefulWidget {
   const ReviewScreen({super.key});
 
   static const sessionPath = '/review/session';
-  static const questionCounts = [10, 20, 30];
 
   @override
   ConsumerState<ReviewScreen> createState() => _ReviewScreenState();
 }
 
 class _ReviewScreenState extends ConsumerState<ReviewScreen> {
-  int _count = ReviewScreen.questionCounts.first;
+  int _count = QuizRequest.defaultQuestionCount;
 
   @override
   Widget build(BuildContext context) {
@@ -52,14 +53,7 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
                 const SizedBox(height: 24),
                 Text(l10n.practiceCountLabel, style: theme.textTheme.titleSmall),
                 const SizedBox(height: 8),
-                Wrap(spacing: 8, children: [
-                  for (final count in ReviewScreen.questionCounts)
-                    ChoiceChip(
-                      label: Text('$count'),
-                      selected: _count == count,
-                      onSelected: (_) => setState(() => _count = count),
-                    ),
-                ]),
+                QuestionCountPicker(value: _count, onChanged: (count) => _count = count),
                 const SizedBox(height: 24),
                 FilledButton.icon(
                   icon: const Icon(Icons.play_arrow),
@@ -89,5 +83,6 @@ class ReviewSessionScreen extends ConsumerWidget {
         draw: ref.watch(reviewDrawProvider(questionCount)),
         mode: SessionMode.review,
         leaveTo: AppDestination.review,
+        leaveLabel: AppLocalizations.of(context).quizBackToReview,
       );
 }

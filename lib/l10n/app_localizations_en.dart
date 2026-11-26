@@ -299,4 +299,15 @@ class AppLocalizationsEn extends AppLocalizations {
   String reviewMissedCount(int count) {
     return 'Questions to review: $count';
   }
+
+  @override
+  String get practiceCustom => 'Custom';
+
+  @override
+  String practiceCustomLabel(int max) {
+    return 'Number (1–$max)';
+  }
+
+  @override
+  String get quizBackToReview => 'Back to review';
 }

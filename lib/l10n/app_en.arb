@@ -180,5 +180,15 @@
         "type": "int"
       }
     }
+  },
+  "practiceCustom": "Custom",
+  "practiceCustomLabel": "Number (1–{max})",
+  "quizBackToReview": "Back to review",
+  "@practiceCustomLabel": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
   }
 }

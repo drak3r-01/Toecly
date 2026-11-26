@@ -85,6 +85,7 @@ Future<void> pumpQuiz(WidgetTester tester, List<Exercise> exercises, {Size size 
 }
 
 void main() {
+  customCountTests();
   testWidgets('wrong answer: red feedback, right answer in green, explanation unfolds', (tester) async {
     await pumpQuiz(tester, [_p5]);
     expect(find.text('Explanation'), findsNothing);
@@ -217,3 +218,51 @@ void main() {
     expect(find.byWidgetPredicate((w) => w is FilterChip && w.selected), findsOneWidget);
   });
 }
+
+void customCountTests() {
+  testWidgets('custom question count: type a number and start', (tester) async {
+    tester.view.physicalSize = const Size(400, 900);
+    tester.view.devicePixelRatio = 1;
+    addTearDown(tester.view.reset);
+    tester.platformDispatcher.localesTestValue = [const Locale('en')];
+    addTearDown(tester.platformDispatcher.clearLocalesTestValue);
+    final many = [for (var i = 0; i < 40; i++) _p5Numbered(i)];
+    await tester.pumpWidget(ProviderScope(
+      overrides: [
+        localStoreProvider.overrideWithValue(InMemoryStore()),
+        exerciseRepositoryProvider.overrideWithValue(ExerciseRepository(() async => many)),
+      ],
+      child: const ToeclyApp(),
+    ));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Practice').last);
+    await tester.pumpAndSettle();
+
+    expect(find.text('10'), findsOneWidget);
+    expect(find.text('20'), findsOneWidget);
+    expect(find.text('50'), findsOneWidget);
+    expect(find.text('30'), findsNothing);
+
+    await tester.tap(find.text('Custom'));
+    await tester.pumpAndSettle();
+    await tester.enterText(find.byType(TextField), '25');
+    await tester.pump();
+    await tester.tap(find.text('Start'));
+    await tester.pumpAndSettle();
+    expect(find.text('Question 1 / 25'), findsOneWidget);
+  });
+}
+
+Exercise _p5Numbered(int i) => Exercise(
+      id: 'n$i',
+      part: ToeicPart.part5,
+      questions: [
+        Question(
+          id: 'n$i',
+          prompt: 'Sentence $i ___.',
+          choices: const ['a', 'b', 'c', 'd'],
+          answerIndex: 0,
+          explanation: 'x',
+        ),
+      ],
+    );
