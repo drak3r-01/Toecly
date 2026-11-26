@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-009",
+    "documentType": "invoice",
+    "text": "INVOICE No. 2045\nDate: July 9\nBilled to: Hartman Design Studio\n\nThank you for your business. This invoice covers the printing of 500 brochures and 200 posters. Payment is [1] within 30 days of the invoice date. [2] A late fee of 2 percent will be added to any balance that remains unpaid after that period. Payments can be made [3] bank transfer or credit card. If you have questions about any charge, please [4] our accounts department at 555-0178.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "owing",
+          "dues",
+          "due",
+          "duly"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Payment is due' means it must be paid by that time."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Please make sure that payment reaches us before the due date.",
+          "The brochures were designed by a freelance artist.",
+          "Our company holiday party will be held in December.",
+          "The warehouse is located near the airport."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence asks for on-time payment and leads into the late fee mentioned next."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "on",
+          "at",
+          "from",
+          "by"
+        ],
+        "answerIndex": 3,
+        "explanation": "'By bank transfer' expresses the means of payment."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "connect",
+          "contract",
+          "conduct",
+          "contact"
+        ],
+        "answerIndex": 3,
+        "explanation": "One 'contacts' a department to ask questions."
+      }
+    ]
+  },
+  {
+    "id": "p6-010",
+    "documentType": "email",
+    "text": "Dear passengers,\n\nDue to severe weather, Flight 218 to Boston has been [1] from 2:15 p.m. to 6:40 p.m. [2] We apologize for the delay and have arranged meal vouchers, which can be collected at Gate 12. Passengers who wish to change their flight will be rebooked [3] charge on the next available departure. Please check the airport's display screens regularly, [4] gate assignments may change without notice.\n\nSkyline Airways Customer Care",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "reserved",
+          "rescheduled",
+          "received",
+          "resumed"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Rescheduled from one time to another' matches the change of departure time."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cafeteria will be closed for renovations.",
+          "Baggage fees have increased by ten percent.",
+          "Our frequent-flyer program has a new logo.",
+          "Your new boarding time will be 6:05 p.m."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence follows the new departure time and gives the consequence for passengers."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "except",
+          "unless",
+          "without",
+          "besides"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Without charge' means free of charge."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "whereas",
+          "since"
+        ],
+        "answerIndex": 3,
+        "explanation": "Gate changes are the reason for checking the screens, so a cause connector is needed."
+      }
+    ]
+  },
+  {
+    "id": "p6-011",
+    "documentType": "notice",
+    "text": "NOTICE: Library Hours\n\nBeginning Monday, September 1, the Eastside Public Library will [1] new opening hours. The library will open at 9 a.m. and close at 8 p.m. on weekdays. [2] On Saturdays, hours will remain from 10 a.m. to 4 p.m., and the library will be closed on Sundays. Members who wish to borrow books [3] a valid library card. Overdue items are subject to a fine [4] fifty cents per day.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "adopt",
+          "adapt",
+          "adjoin",
+          "adhere"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Adopt new hours' means to start using them; 'adapt' would need 'to'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The children's section has been painted a new color.",
+          "The mayor will give a speech on Friday.",
+          "Parking at City Hall is free for residents.",
+          "These changes are meant to serve residents who work during the day."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence explains the reason for the new weekday hours just announced."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "must present",
+          "must presenting",
+          "must presented",
+          "must to present"
+        ],
+        "answerIndex": 0,
+        "explanation": "A modal verb is followed by the base form."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "of",
+          "on",
+          "by",
+          "as"
+        ],
+        "answerIndex": 0,
+        "explanation": "'A fine of fifty cents' states the amount of the fine."
+      }
+    ]
+  },
+  {
+    "id": "p6-012",
+    "documentType": "review",
+    "text": "★★★★☆ Great food, slow service\n\nMy colleagues and I had lunch at Casa Verde last Friday, and the food was [1] delicious. The grilled salmon was cooked perfectly, and the vegetables were fresh. [2] We waited nearly forty minutes for our main courses, [3] the restaurant was not especially crowded. The waiter was polite and apologized several times. I would [4] return for the food, but I hope the service improves.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "absolute",
+          "absolutes",
+          "absoluteness",
+          "absolutely"
+        ],
+        "answerIndex": 3,
+        "explanation": "An adverb is needed to modify the adjective 'delicious'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "As a result, we ordered dessert twice.",
+          "Therefore, the prices were very reasonable.",
+          "In addition, the flight arrived on time.",
+          "However, the service was disappointing."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence describes a long wait, which contrasts with the praise for the food."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "because",
+          "although",
+          "unless",
+          "so"
+        ],
+        "answerIndex": 1,
+        "explanation": "The long wait is surprising given the restaurant was not crowded: a contrast."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "certain",
+          "certainty",
+          "certainly",
+          "certify"
+        ],
+        "answerIndex": 2,
+        "explanation": "An adverb is needed between the modal 'would' and the verb."
+      }
+    ]
+  },
+  {
+    "id": "p6-013",
+    "documentType": "online_chat",
+    "text": "Support Agent (10:02): Thank you for contacting TechAid. How can I help you today?\nCustomer (10:03): My printer [1] connect to the office network since this morning.\nSupport Agent (10:04): I'm sorry to hear that. [2]\nCustomer (10:06): It says 'offline'. I have already restarted it twice.\nSupport Agent (10:07): Thanks. Please [3] the printer's network cable and plug it back in. If the problem [4], I will send a technician this afternoon.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "was unable to",
+          "would be unable to",
+          "has been unable to",
+          "had been unable to"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Since this morning' requires the present perfect."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Can you tell me what message appears on its display?",
+          "We will send you a replacement next week.",
+          "Our office is open until 6 p.m.",
+          "Thank you for your recent purchase."
+        ],
+        "answerIndex": 0,
+        "explanation": "The customer answers with the message shown on the printer, so the agent must have asked about it."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "unplug",
+          "unwrap",
+          "unlock",
+          "unload"
+        ],
+        "answerIndex": 0,
+        "explanation": "The cable is removed, then 'plugged back in'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "persist",
+          "persisting",
+          "persists",
+          "persisted"
+        ],
+        "answerIndex": 2,
+        "explanation": "A third-person singular present verb is needed after 'If the problem'."
+      }
+    ]
+  },
+  {
+    "id": "p6-014",
+    "documentType": "form",
+    "text": "Employee Training Registration – Confirmation\n\nThank you for registering for the Workplace Safety course. This course is [1] for all new employees and must be completed within their first month. [2] The session will take place in Conference Room B on Wednesday, April 16, from 9 a.m. to noon. Participants are asked to arrive fifteen minutes early [3] they can sign in. Certificates will be issued [4] completion of the course.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "optional",
+          "mandatory",
+          "temporary",
+          "rare"
+        ],
+        "answerIndex": 1,
+        "explanation": "The course 'must be completed', so it is mandatory."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your vacation request has been denied.",
+          "The new parking lot opens next month.",
+          "Please submit your tax forms by April 1.",
+          "Your place in the next available session has been reserved."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence confirms the registration and introduces the session details that follow."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as soon as",
+          "as long as",
+          "in case of",
+          "so that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'So that' introduces the purpose of arriving early."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "onto",
+          "within",
+          "beside",
+          "upon"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Upon completion' means 'as soon as the course is completed'."
+      }
+    ]
+  },
+  {
+    "id": "p6-015",
+    "documentType": "memo",
+    "text": "MEMO\nTo: All employees\nFrom: IT Department\nSubject: Password policy\n\nStarting next month, all employees will be required to [1] their passwords every 90 days. New passwords must contain at least ten characters, including one number and one symbol. [2] Passwords should never be shared with colleagues or written on paper. The IT Department will send an e-mail reminder [3] days before each password expires. Employees who need assistance [4] visit the help desk on the second floor.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "transfer",
+          "protest",
+          "change",
+          "invite"
+        ],
+        "answerIndex": 2,
+        "explanation": "Passwords are 'changed' regularly."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cafeteria will serve lunch from noon.",
+          "The next staff meeting will be held on Monday.",
+          "Parking passes are available at the front desk.",
+          "These rules are designed to protect confidential company data."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence gives the purpose of the policy and leads into the security advice that follows."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "much",
+          "every",
+          "each",
+          "several"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Days' is plural countable, so 'several' is the only possible quantifier."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "are welcomed to",
+          "welcome to",
+          "are welcome to",
+          "are welcoming to"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Be welcome to + verb' is the fixed expression for an invitation."
+      }
+    ]
+  },
+  {
+    "id": "p6-016",
+    "documentType": "schedule",
+    "text": "Airport Shuttle Schedule\n\nShuttles depart from Terminal 2 every thirty minutes from 6:00 a.m. to 10:00 p.m. [1] the hotel is close to the airport, the ride takes only about twenty minutes. [2] Guests may reserve a seat at the front desk or [3] calling extension 0. Please note that the schedule is [4] to change during public holidays.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Although",
+          "Because",
+          "Whether"
+        ],
+        "answerIndex": 2,
+        "explanation": "The short ride is the result of the hotel being close to the airport."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Seats are limited, so we recommend reserving in advance.",
+          "Breakfast is served between 6 and 10 a.m.",
+          "The elevator is out of service today.",
+          "Room rates include all taxes."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence explains how to reserve a seat, which follows the advice to reserve."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "in",
+          "at",
+          "on",
+          "by"
+        ],
+        "answerIndex": 3,
+        "explanation": "'By calling' expresses the means of reserving."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "subjected",
+          "subject",
+          "subjecting",
+          "subjection"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Subject to change' is a fixed expression."
+      }
+    ]
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-001",
+    "documentType": "email",
+    "text": "Dear Mr. Alvarez,\n\nThank you for applying [1] the marketing coordinator position. We would like to invite you for an interview on Tuesday, March 4, at 10:00 a.m. at our headquarters. [2] Please bring a copy of your résumé and two professional references. If you are unable to attend at the scheduled time, please [3] us as soon as possible so that we can arrange another date. We look forward to [4] you.\n\nBest regards,\nLinda Chao\nHuman Resources",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "of",
+          "for",
+          "by",
+          "on"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Apply for a position' is the fixed collocation."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The interview will last approximately forty-five minutes.",
+          "Our office will be closed for the holidays.",
+          "Your salary will be paid on the last day of the month.",
+          "The cafeteria offers a variety of hot dishes."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence gives details about the interview just announced and leads into what to bring."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "contacting",
+          "contacted",
+          "contact",
+          "to contact"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'please', the base form of the verb is used (polite imperative)."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "meet",
+          "met",
+          "to meet",
+          "meeting"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Look forward to' is followed by a gerund, because 'to' is a preposition here."
+      }
+    ]
+  },
+  {
+    "id": "p6-002",
+    "documentType": "memo",
+    "text": "MEMO\nTo: All staff\nFrom: Facilities Department\nDate: October 12\n\nOur department will relocate to the third floor on November 3. All employees are asked to pack their personal belongings [1] Friday, October 31. [2] Boxes and labels will be available in the mailroom starting Monday. Please note that the elevator will be [3] for use by movers on the day of the move, so use the stairs [4] possible. Thank you for your cooperation.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "by",
+          "during",
+          "since",
+          "between"
+        ],
+        "answerIndex": 0,
+        "explanation": "'By' introduces a deadline: the packing must be finished before or on that date."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The annual report is due at the end of next month.",
+          "Customers may return items within thirty days.",
+          "Please label each box with your name and your new desk number.",
+          "The cafeteria menu has changed this week."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence is about packing boxes; the next sentence says where boxes and labels are available."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "unavailing",
+          "unavailable",
+          "unable",
+          "unwilling"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Unavailable for use' means that the elevator cannot be used by staff; 'unable' and 'unwilling' describe people."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "whenever",
+          "whoever",
+          "whichever",
+          "however"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whenever possible' is a fixed expression meaning 'each time it can be done'."
+      }
+    ]
+  },
+  {
+    "id": "p6-003",
+    "documentType": "advertisement",
+    "text": "Fitness First is celebrating its tenth anniversary! For a limited time, new members pay a [1] registration fee of only $10. [2] Our certified trainers will design a personalized program that suits your goals. Members also enjoy unlimited access to the pool, the sauna, and over fifty weekly classes. [3] you sign up before June 30, your first month is free. Visit any of our locations [4] call 555-0142 to get started.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "reduced",
+          "reducing",
+          "reduce",
+          "reduction"
+        ],
+        "answerIndex": 0,
+        "explanation": "A past participle used as an adjective is needed before the noun: 'a reduced fee'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The gym will be closed on public holidays.",
+          "Membership cards must be returned upon cancellation.",
+          "Every new member receives a free consultation with a personal trainer.",
+          "Please remember to renew your driver's license."
+        ],
+        "answerIndex": 2,
+        "explanation": "The next sentence mentions trainers designing a program, which follows a consultation."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "If",
+          "Unless",
+          "Although",
+          "Whether"
+        ],
+        "answerIndex": 0,
+        "explanation": "The free month is a condition for signing up early, so 'If' is required; 'unless' would reverse the meaning."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "but",
+          "so",
+          "nor",
+          "or"
+        ],
+        "answerIndex": 3,
+        "explanation": "The two actions are alternatives: visit a location or call."
+      }
+    ]
+  },
+  {
+    "id": "p6-004",
+    "documentType": "article",
+    "text": "Harbor Foods Expands to Three New Cities\n\nHarbor Foods, a regional grocery chain, announced yesterday that it will open stores in Dayton, Salem, and Fairfield next year. The company's CEO, Maria Torres, said the expansion is a response to [1] demand for fresh local produce. [2] The new stores will create approximately 300 jobs, and hiring will begin in January. Ms. Torres added that the company will [3] partnerships with nearby farms to guarantee quality. Shoppers can expect lower prices, [4] the chain buys directly from growers.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "grew",
+          "grows",
+          "grown",
+          "growing"
+        ],
+        "answerIndex": 3,
+        "explanation": "An adjective is needed before 'demand'; 'growing demand' is the standard collocation."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Harbor Foods currently operates 42 stores across the state.",
+          "The city council meets on the first Monday of each month.",
+          "Residents should renew their parking permits online.",
+          "The local football team won its third straight game."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence gives background on the company, which is the subject of the article."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "decline",
+          "postpone",
+          "establish",
+          "expire"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Establish partnerships' means to create them; the other verbs do not fit the context."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "although",
+          "unless",
+          "whereas",
+          "because"
+        ],
+        "answerIndex": 3,
+        "explanation": "The lower prices are explained by the chain buying directly from growers: a cause."
+      }
+    ]
+  },
+  {
+    "id": "p6-005",
+    "documentType": "letter",
+    "text": "Dear Ms. Patel,\n\nI am writing in response to your letter dated May 8 concerning the damaged laptop you received. First, please accept our sincere apologies [1] the inconvenience. We have reviewed your case, and we will send a replacement free of charge. [2] You should receive it within five business days. Please keep the original packaging, [3] a courier will collect the damaged unit on Monday. If you [4] any further problems, do not hesitate to contact our customer service team.\n\nSincerely,\nDaniel Brooks",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "for",
+          "of",
+          "at",
+          "by"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Apologies for the inconvenience' is the standard expression."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The new unit will be shipped from our central warehouse tomorrow.",
+          "Your account has been closed at your request.",
+          "We are no longer selling laptops in this region.",
+          "Thank you for your recent donation to our foundation."
+        ],
+        "answerIndex": 0,
+        "explanation": "'It' in the next sentence refers to the replacement, which the inserted sentence must introduce."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "because",
+          "although",
+          "whereas"
+        ],
+        "answerIndex": 1,
+        "explanation": "The packaging must be kept for a reason: the courier will collect the damaged unit."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "experienced",
+          "experiencing",
+          "experience",
+          "experiences"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'If you' in a present-tense condition, the base form is used."
+      }
+    ]
+  },
+  {
+    "id": "p6-006",
+    "documentType": "job_ad",
+    "text": "Position: Customer Service Representative\nLocation: Chicago, IL\n\nBrightline Telecom is seeking a [1] customer service representative to join our growing team. The successful candidate will respond to customer inquiries by phone and e-mail and [2] billing issues quickly. [3] Candidates must have at least two years of experience in a similar role and excellent communication skills. We offer a competitive salary, health insurance, and opportunities for advancement. Applications must be received [4] March 15.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "motivating",
+          "motivated",
+          "motivation",
+          "motivate"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Motivated' is the participle adjective describing a person who is eager to work."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "survive",
+          "resolve",
+          "oppose",
+          "invent"
+        ],
+        "answerIndex": 1,
+        "explanation": "Representatives 'resolve billing issues'; the other verbs have no logical link with billing."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "The ideal candidate is friendly, patient, and well organized.",
+          "Brightline Telecom was ranked first in a survey of airlines.",
+          "Our offices will be closed during the holiday week.",
+          "The company picnic is scheduled for August."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence lists requirements for candidates, so the inserted sentence must describe the candidate."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "since",
+          "among",
+          "by",
+          "over"
+        ],
+        "answerIndex": 2,
+        "explanation": "'By' marks a deadline: applications must arrive no later than that date."
+      }
+    ]
+  },
+  {
+    "id": "p6-007",
+    "documentType": "web_page",
+    "text": "Lakeview Inn – Welcome\n\nNestled on the shore of Lake Marian, Lakeview Inn offers comfortable rooms and warm hospitality. All rooms feature free Wi-Fi, a private bathroom, and a [1] view of the lake. [2] Guests may enjoy a complimentary breakfast served daily from 6:30 to 10:00 a.m. Reservations can be made online or [3] phone. Please note that cancellations made less than 48 hours before arrival [4] a one-night charge.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "breathtakingly",
+          "breathtaken",
+          "breathtaking",
+          "breathtake"
+        ],
+        "answerIndex": 2,
+        "explanation": "An adjective is needed before the noun 'view'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Tickets for the concert can be purchased at the box office.",
+          "The bridge on Route 9 will be repaired next spring.",
+          "Applicants should send a résumé to the manager.",
+          "Our dining room offers a variety of local specialties."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence introduces food and leads naturally to the mention of breakfast."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "on",
+          "in",
+          "by",
+          "at"
+        ],
+        "answerIndex": 2,
+        "explanation": "'By phone' is the fixed expression for a means of communication."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "will pay",
+          "will spend",
+          "will incur",
+          "will bill"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Incur a charge' means to become liable for it; the hotel is the one billing, not paying."
+      }
+    ]
+  },
+  {
+    "id": "p6-008",
+    "documentType": "text_message",
+    "text": "Hello Mr. Osei, this is Greenway Appliances. Your new refrigerator is scheduled for delivery [1] Thursday between 1 and 3 p.m. [2] Please make sure that someone over 18 is home to sign for it. If the time does not [3] you, reply to this message and we will [4] a different slot. Thank you for choosing Greenway!",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "in",
+          "to",
+          "on"
+        ],
+        "answerIndex": 3,
+        "explanation": "'On' is used before a day of the week."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our showroom is moving to a new location in May.",
+          "The delivery team will call you 30 minutes before arrival.",
+          "Employees must wear their badges at all times.",
+          "Please submit your expense report by Friday."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence adds a detail about the delivery, which is the topic of the message."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "match",
+          "suit",
+          "agree",
+          "accept"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Suit' means to be convenient for someone; 'agree' needs 'with' and the others do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "install",
+          "borrow",
+          "arrange",
+          "attend"
+        ],
+        "answerIndex": 2,
+        "explanation": "One 'arranges' a delivery slot, meaning to organize it."
+      }
+    ]
+  }
+]
