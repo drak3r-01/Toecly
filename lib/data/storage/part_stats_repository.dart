@@ -1,27 +1,57 @@
-import 'package:shared_preferences/shared_preferences.dart';
-
 import '../../core/toeic_part.dart';
+import '../exercises/models.dart';
+import 'local_store.dart';
 
-/// Compteurs cumulés par partie (jamais purgés, contrairement à l'historique).
+/// Answered / correct counters.
+class AnswerCount {
+  const AnswerCount(this.answered, this.correct);
+
+  static const zero = AnswerCount(0, 0);
+
+  final int answered;
+  final int correct;
+
+  /// Success rate from 0.0 to 1.0, or 0 when nothing was answered.
+  double get rate => answered == 0 ? 0 : correct / answered;
+}
+
+/// Cumulative counters per part and per question category (never purged).
 class PartStatsRepository {
-  PartStatsRepository(this._prefs);
+  PartStatsRepository(this._store);
 
-  final SharedPreferences _prefs;
+  final LocalStore _store;
 
-  String _answeredKey(ToeicPart part) => 'stats_part${part.number}_answered';
-  String _correctKey(ToeicPart part) => 'stats_part${part.number}_correct';
+  static const _key = 'answer_stats';
 
-  int answered(ToeicPart part) => _prefs.getInt(_answeredKey(part)) ?? 0;
-  int correct(ToeicPart part) => _prefs.getInt(_correctKey(part)) ?? 0;
+  static String _partKey(ToeicPart part) => 'part${part.number}';
+  static String _categoryKey(ToeicPart part, QuestionCategory category) =>
+      'part${part.number}.${category.jsonName}';
 
-  /// Taux de réussite (0.0 à 1.0), ou 0 si aucune réponse enregistrée.
-  double successRate(ToeicPart part) {
-    final total = answered(part);
-    return total == 0 ? 0 : correct(part) / total;
+  Map<String, dynamic> _load() {
+    final data = _store.readJson(_key);
+    return data is Map<String, dynamic> ? data : {};
   }
 
-  Future<void> recordAnswer(ToeicPart part, {required bool isCorrect}) async {
-    await _prefs.setInt(_answeredKey(part), answered(part) + 1);
-    if (isCorrect) await _prefs.setInt(_correctKey(part), correct(part) + 1);
+  AnswerCount _count(Map<String, dynamic> all, String key) {
+    final entry = all[key];
+    return entry is List ? AnswerCount(entry[0] as int, entry[1] as int) : AnswerCount.zero;
+  }
+
+  AnswerCount forPart(ToeicPart part) => _count(_load(), _partKey(part));
+
+  AnswerCount forCategory(ToeicPart part, QuestionCategory category) =>
+      _count(_load(), _categoryKey(part, category));
+
+  Future<void> recordAnswer(
+    ToeicPart part, {
+    required bool isCorrect,
+    QuestionCategory? category,
+  }) {
+    final all = _load();
+    for (final key in [_partKey(part), if (category != null) _categoryKey(part, category)]) {
+      final previous = _count(all, key);
+      all[key] = [previous.answered + 1, previous.correct + (isCorrect ? 1 : 0)];
+    }
+    return _store.writeJson(_key, all);
   }
 }

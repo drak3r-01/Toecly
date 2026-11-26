@@ -1,17 +1,26 @@
 import 'package:material_ui/material_ui.dart';
 
-/// Les 5 écrans principaux, dans l'ordre d'affichage de la navigation.
-enum AppDestination {
-  dashboard('/', 'Accueil', Icons.dashboard_outlined, Icons.dashboard),
-  practice('/entrainement', 'Entraînement', Icons.fitness_center_outlined, Icons.fitness_center),
-  mockExam('/examen-blanc', 'Examen blanc', Icons.timer_outlined, Icons.timer),
-  review('/revision', 'Révision', Icons.replay_outlined, Icons.replay),
-  settings('/reglages', 'Réglages', Icons.settings_outlined, Icons.settings);
+import '../../l10n/app_localizations.dart';
 
-  const AppDestination(this.path, this.label, this.icon, this.selectedIcon);
+/// The 5 main screens, in navigation order.
+enum AppDestination {
+  dashboard('/', Icons.dashboard_outlined, Icons.dashboard),
+  practice('/practice', Icons.fitness_center_outlined, Icons.fitness_center),
+  mockExam('/mock-exam', Icons.timer_outlined, Icons.timer),
+  review('/review', Icons.replay_outlined, Icons.replay),
+  settings('/settings', Icons.settings_outlined, Icons.settings);
+
+  const AppDestination(this.path, this.icon, this.selectedIcon);
 
   final String path;
-  final String label;
   final IconData icon;
   final IconData selectedIcon;
+
+  String label(AppLocalizations l10n) => switch (this) {
+        dashboard => l10n.navHome,
+        practice => l10n.navPractice,
+        mockExam => l10n.navMockExam,
+        review => l10n.navReview,
+        settings => l10n.navSettings,
+      };
 }

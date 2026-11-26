@@ -1,0 +1,115 @@
+[
+  {
+    "id": "p7-sample-001",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Message from Dan",
+        "text": "Hi Sara, the 3 p.m. client call is moved to 4 p.m. Can you bring the updated contract? Thanks!"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Dan send the message?",
+        "category": "purpose",
+        "choices": [
+          "To cancel a meeting",
+          "To announce a schedule change",
+          "To ask for a refund",
+          "To offer a job"
+        ],
+        "answerIndex": 1,
+        "explanation": "The call is moved from 3 p.m. to 4 p.m."
+      },
+      {
+        "prompt": "What is Sara asked to do?",
+        "category": "detail",
+        "choices": [
+          "Call the client",
+          "Reserve a room",
+          "Bring a contract",
+          "Send an invoice"
+        ],
+        "answerIndex": 2,
+        "explanation": "Dan asks: 'Can you bring the updated contract?'"
+      }
+    ]
+  },
+  {
+    "id": "p7-sample-002",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Sales Manager wanted",
+        "text": "Harbor Foods seeks a Sales Manager. Requirements: five years of sales experience and fluent English. Send your résumé to jobs@harborfoods.example before March 1."
+      },
+      {
+        "type": "email",
+        "title": "Application",
+        "text": "Dear Hiring Team,\nI am applying for the Sales Manager position. I have worked in sales for six years and speak English and Spanish fluently. My résumé is attached.\nBest regards,\nMark Ruiz"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the deadline to apply?",
+        "category": "detail",
+        "choices": [
+          "February 1",
+          "March 1",
+          "April 1",
+          "May 1"
+        ],
+        "answerIndex": 1,
+        "explanation": "The ad says to apply before March 1."
+      },
+      {
+        "prompt": "How many years of experience does the ad require?",
+        "category": "detail",
+        "choices": [
+          "Two",
+          "Three",
+          "Five",
+          "Six"
+        ],
+        "answerIndex": 2,
+        "explanation": "The ad requires five years."
+      },
+      {
+        "prompt": "What can be inferred about Mark Ruiz?",
+        "category": "inference",
+        "choices": [
+          "He meets the experience requirement",
+          "He works at Harbor Foods",
+          "He lacks English skills",
+          "He applied too late"
+        ],
+        "answerIndex": 0,
+        "explanation": "He has six years of experience, more than the five required."
+      },
+      {
+        "prompt": "Which language does Mark speak besides English?",
+        "category": "detail",
+        "choices": [
+          "French",
+          "Spanish",
+          "German",
+          "Italian"
+        ],
+        "answerIndex": 1,
+        "explanation": "His e-mail says English and Spanish."
+      },
+      {
+        "prompt": "In the e-mail, the word 'attached' in line 3 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "enclosed",
+          "fond",
+          "tied",
+          "loyal"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Attached' here means enclosed with the message."
+      }
+    ]
+  }
+]

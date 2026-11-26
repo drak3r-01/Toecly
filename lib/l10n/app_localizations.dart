@@ -1,0 +1,458 @@
+import 'dart:async';
+
+import 'package:flutter/foundation.dart';
+import 'package:flutter/widgets.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:intl/intl.dart' as intl;
+
+import 'app_localizations_en.dart';
+import 'app_localizations_fr.dart';
+
+// ignore_for_file: type=lint
+
+/// Callers can lookup localized strings with an instance of AppLocalizations
+/// returned by `AppLocalizations.of(context)`.
+///
+/// Applications need to include `AppLocalizations.delegate()` in their app's
+/// `localizationDelegates` list, and the locales they support in the app's
+/// `supportedLocales` list. For example:
+///
+/// ```dart
+/// import 'l10n/app_localizations.dart';
+///
+/// return MaterialApp(
+///   localizationsDelegates: AppLocalizations.localizationsDelegates,
+///   supportedLocales: AppLocalizations.supportedLocales,
+///   home: MyApplicationHome(),
+/// );
+/// ```
+///
+/// ## Update pubspec.yaml
+///
+/// Please make sure to update your pubspec.yaml to include the following
+/// packages:
+///
+/// ```yaml
+/// dependencies:
+///   # Internationalization support.
+///   flutter_localizations:
+///     sdk: flutter
+///   intl: any # Use the pinned version from flutter_localizations
+///
+///   # Rest of dependencies
+/// ```
+///
+/// ## iOS Applications
+///
+/// iOS applications define key application metadata, including supported
+/// locales, in an Info.plist file that is built into the application bundle.
+/// To configure the locales supported by your app, you’ll need to edit this
+/// file.
+///
+/// First, open your project’s ios/Runner.xcworkspace Xcode workspace file.
+/// Then, in the Project Navigator, open the Info.plist file under the Runner
+/// project’s Runner folder.
+///
+/// Next, select the Information Property List item, select Add Item from the
+/// Editor menu, then select Localizations from the pop-up menu.
+///
+/// Select and expand the newly-created Localizations item then, for each
+/// locale your application supports, add a new item and select the locale
+/// you wish to add from the pop-up menu in the Value field. This list should
+/// be consistent with the languages listed in the AppLocalizations.supportedLocales
+/// property.
+abstract class AppLocalizations {
+  AppLocalizations(String locale)
+    : localeName = intl.Intl.canonicalizedLocale(locale.toString());
+
+  final String localeName;
+
+  static AppLocalizations of(BuildContext context) {
+    return Localizations.of<AppLocalizations>(context, AppLocalizations)!;
+  }
+
+  static const LocalizationsDelegate<AppLocalizations> delegate =
+      _AppLocalizationsDelegate();
+
+  /// A list of this localizations delegate along with the default localizations
+  /// delegates.
+  ///
+  /// Returns a list of localizations delegates containing this delegate along with
+  /// GlobalMaterialLocalizations.delegate, GlobalCupertinoLocalizations.delegate,
+  /// and GlobalWidgetsLocalizations.delegate.
+  ///
+  /// Additional delegates can be added by appending to this list in
+  /// MaterialApp. This list does not have to be used at all if a custom list
+  /// of delegates is preferred or required.
+  static const List<LocalizationsDelegate<dynamic>> localizationsDelegates =
+      <LocalizationsDelegate<dynamic>>[
+        delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+      ];
+
+  /// A list of this localizations delegate's supported locales.
+  static const List<Locale> supportedLocales = <Locale>[
+    Locale('en'),
+    Locale('fr'),
+  ];
+
+  /// No description provided for @appTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Toecly'**
+  String get appTitle;
+
+  /// No description provided for @navHome.
+  ///
+  /// In en, this message translates to:
+  /// **'Home'**
+  String get navHome;
+
+  /// No description provided for @navPractice.
+  ///
+  /// In en, this message translates to:
+  /// **'Practice'**
+  String get navPractice;
+
+  /// No description provided for @navMockExam.
+  ///
+  /// In en, this message translates to:
+  /// **'Mock exam'**
+  String get navMockExam;
+
+  /// No description provided for @navReview.
+  ///
+  /// In en, this message translates to:
+  /// **'Review'**
+  String get navReview;
+
+  /// No description provided for @navSettings.
+  ///
+  /// In en, this message translates to:
+  /// **'Settings'**
+  String get navSettings;
+
+  /// No description provided for @comingSoon.
+  ///
+  /// In en, this message translates to:
+  /// **'Coming soon'**
+  String get comingSoon;
+
+  /// No description provided for @practiceDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Choose your parts and the number of questions.'**
+  String get practiceDescription;
+
+  /// No description provided for @mockExamDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Full Reading simulation: {questions} questions in {minutes} minutes, with the correction at the end.'**
+  String mockExamDescription(int questions, int minutes);
+
+  /// No description provided for @reviewDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Replay the questions you missed.'**
+  String get reviewDescription;
+
+  /// No description provided for @settingsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Settings'**
+  String get settingsTitle;
+
+  /// No description provided for @themeLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Theme'**
+  String get themeLabel;
+
+  /// No description provided for @themeAuto.
+  ///
+  /// In en, this message translates to:
+  /// **'Auto'**
+  String get themeAuto;
+
+  /// No description provided for @themeLight.
+  ///
+  /// In en, this message translates to:
+  /// **'Light'**
+  String get themeLight;
+
+  /// No description provided for @themeDark.
+  ///
+  /// In en, this message translates to:
+  /// **'Dark'**
+  String get themeDark;
+
+  /// No description provided for @languageLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Language'**
+  String get languageLabel;
+
+  /// No description provided for @languageAuto.
+  ///
+  /// In en, this message translates to:
+  /// **'System'**
+  String get languageAuto;
+
+  /// No description provided for @languageEnglish.
+  ///
+  /// In en, this message translates to:
+  /// **'English'**
+  String get languageEnglish;
+
+  /// No description provided for @languageFrench.
+  ///
+  /// In en, this message translates to:
+  /// **'Français'**
+  String get languageFrench;
+
+  /// No description provided for @estimatedScoreTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Estimated Reading score'**
+  String get estimatedScoreTitle;
+
+  /// No description provided for @estimatedScoreRange.
+  ///
+  /// In en, this message translates to:
+  /// **'{min}–{max} / 495'**
+  String estimatedScoreRange(int min, int max);
+
+  /// No description provided for @estimatedScoreEmpty.
+  ///
+  /// In en, this message translates to:
+  /// **'— / 495'**
+  String get estimatedScoreEmpty;
+
+  /// No description provided for @estimatedScoreDisclaimer.
+  ///
+  /// In en, this message translates to:
+  /// **'Approximation by tiers, based on your success rate. Listening is not estimated.'**
+  String get estimatedScoreDisclaimer;
+
+  /// No description provided for @resumePractice.
+  ///
+  /// In en, this message translates to:
+  /// **'Resume practice'**
+  String get resumePractice;
+
+  /// No description provided for @partLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Part {number} · {name}'**
+  String partLabel(int number, String name);
+
+  /// No description provided for @part5Name.
+  ///
+  /// In en, this message translates to:
+  /// **'Incomplete sentences'**
+  String get part5Name;
+
+  /// No description provided for @part6Name.
+  ///
+  /// In en, this message translates to:
+  /// **'Text completion'**
+  String get part6Name;
+
+  /// No description provided for @part7Name.
+  ///
+  /// In en, this message translates to:
+  /// **'Reading comprehension'**
+  String get part7Name;
+
+  /// No description provided for @successRatePercent.
+  ///
+  /// In en, this message translates to:
+  /// **'{percent}%'**
+  String successRatePercent(int percent);
+
+  /// No description provided for @documentTab.
+  ///
+  /// In en, this message translates to:
+  /// **'Document {number}'**
+  String documentTab(int number);
+
+  /// No description provided for @docEmail.
+  ///
+  /// In en, this message translates to:
+  /// **'Email'**
+  String get docEmail;
+
+  /// No description provided for @docLetter.
+  ///
+  /// In en, this message translates to:
+  /// **'Letter'**
+  String get docLetter;
+
+  /// No description provided for @docMemo.
+  ///
+  /// In en, this message translates to:
+  /// **'Memo'**
+  String get docMemo;
+
+  /// No description provided for @docNotice.
+  ///
+  /// In en, this message translates to:
+  /// **'Notice'**
+  String get docNotice;
+
+  /// No description provided for @docAdvertisement.
+  ///
+  /// In en, this message translates to:
+  /// **'Advertisement'**
+  String get docAdvertisement;
+
+  /// No description provided for @docArticle.
+  ///
+  /// In en, this message translates to:
+  /// **'Article'**
+  String get docArticle;
+
+  /// No description provided for @docTextMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'Text message'**
+  String get docTextMessage;
+
+  /// No description provided for @docOnlineChat.
+  ///
+  /// In en, this message translates to:
+  /// **'Online chat'**
+  String get docOnlineChat;
+
+  /// No description provided for @docForm.
+  ///
+  /// In en, this message translates to:
+  /// **'Form'**
+  String get docForm;
+
+  /// No description provided for @docInvoice.
+  ///
+  /// In en, this message translates to:
+  /// **'Invoice'**
+  String get docInvoice;
+
+  /// No description provided for @docSchedule.
+  ///
+  /// In en, this message translates to:
+  /// **'Schedule'**
+  String get docSchedule;
+
+  /// No description provided for @docJobAd.
+  ///
+  /// In en, this message translates to:
+  /// **'Job ad'**
+  String get docJobAd;
+
+  /// No description provided for @docWebPage.
+  ///
+  /// In en, this message translates to:
+  /// **'Web page'**
+  String get docWebPage;
+
+  /// No description provided for @docReview.
+  ///
+  /// In en, this message translates to:
+  /// **'Review'**
+  String get docReview;
+
+  /// No description provided for @categoryGrammar.
+  ///
+  /// In en, this message translates to:
+  /// **'Grammar'**
+  String get categoryGrammar;
+
+  /// No description provided for @categoryVocabulary.
+  ///
+  /// In en, this message translates to:
+  /// **'Vocabulary'**
+  String get categoryVocabulary;
+
+  /// No description provided for @categoryConnector.
+  ///
+  /// In en, this message translates to:
+  /// **'Connectors'**
+  String get categoryConnector;
+
+  /// No description provided for @categorySentenceInsertion.
+  ///
+  /// In en, this message translates to:
+  /// **'Sentence insertion'**
+  String get categorySentenceInsertion;
+
+  /// No description provided for @categoryMainIdea.
+  ///
+  /// In en, this message translates to:
+  /// **'Main idea'**
+  String get categoryMainIdea;
+
+  /// No description provided for @categoryDetail.
+  ///
+  /// In en, this message translates to:
+  /// **'Detail'**
+  String get categoryDetail;
+
+  /// No description provided for @categoryInference.
+  ///
+  /// In en, this message translates to:
+  /// **'Inference'**
+  String get categoryInference;
+
+  /// No description provided for @categoryPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Purpose'**
+  String get categoryPurpose;
+
+  /// No description provided for @categoryNotTrue.
+  ///
+  /// In en, this message translates to:
+  /// **'NOT true'**
+  String get categoryNotTrue;
+
+  /// No description provided for @categoryVocabularyInContext.
+  ///
+  /// In en, this message translates to:
+  /// **'Vocabulary in context'**
+  String get categoryVocabularyInContext;
+}
+
+class _AppLocalizationsDelegate
+    extends LocalizationsDelegate<AppLocalizations> {
+  const _AppLocalizationsDelegate();
+
+  @override
+  Future<AppLocalizations> load(Locale locale) {
+    return SynchronousFuture<AppLocalizations>(lookupAppLocalizations(locale));
+  }
+
+  @override
+  bool isSupported(Locale locale) =>
+      <String>['en', 'fr'].contains(locale.languageCode);
+
+  @override
+  bool shouldReload(_AppLocalizationsDelegate old) => false;
+}
+
+AppLocalizations lookupAppLocalizations(Locale locale) {
+  // Lookup logic when only language code is specified.
+  switch (locale.languageCode) {
+    case 'en':
+      return AppLocalizationsEn();
+    case 'fr':
+      return AppLocalizationsFr();
+  }
+
+  throw FlutterError(
+    'AppLocalizations.delegate failed to load unsupported locale "$locale". This is likely '
+    'an issue with the localizations generation tool. Please file an issue '
+    'on GitHub with a reproducible sample app and the gen-l10n configuration '
+    'that was used.',
+  );
+}

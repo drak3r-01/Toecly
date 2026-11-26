@@ -1,6 +1,6 @@
 import 'package:material_ui/material_ui.dart';
 
-/// Barre de progression qui s'anime vers sa valeur (0.0 à 1.0).
+/// Progress bar animating to its value (0.0 to 1.0).
 class AnimatedProgressBar extends StatelessWidget {
   const AnimatedProgressBar({super.key, required this.value, this.height = 12});
 

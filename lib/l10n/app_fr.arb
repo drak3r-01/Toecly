@@ -1,0 +1,101 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Toecly",
+  "navHome": "Accueil",
+  "navPractice": "Entraînement",
+  "navMockExam": "Examen blanc",
+  "navReview": "Révision",
+  "navSettings": "Réglages",
+  "comingSoon": "Bientôt disponible",
+  "practiceDescription": "Choisis tes parties et le nombre de questions.",
+  "mockExamDescription": "Simulation complète du Reading : {questions} questions en {minutes} minutes, correction à la fin.",
+  "@mockExamDescription": {
+    "placeholders": {
+      "questions": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "reviewDescription": "Rejoue les questions que tu as ratées.",
+  "settingsTitle": "Réglages",
+  "themeLabel": "Thème",
+  "themeAuto": "Auto",
+  "themeLight": "Clair",
+  "themeDark": "Sombre",
+  "languageLabel": "Langue",
+  "languageAuto": "Système",
+  "languageEnglish": "English",
+  "languageFrench": "Français",
+  "estimatedScoreTitle": "Score Reading estimé",
+  "estimatedScoreRange": "{min}–{max} / 495",
+  "@estimatedScoreRange": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "estimatedScoreEmpty": "— / 495",
+  "estimatedScoreDisclaimer": "Approximation par paliers, d'après ton taux de réussite. Le Listening n'est pas estimé.",
+  "resumePractice": "Reprendre l'entraînement",
+  "partLabel": "Partie {number} · {name}",
+  "@partLabel": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "part5Name": "Phrases à compléter",
+  "part6Name": "Textes à compléter",
+  "part7Name": "Compréhension de textes",
+  "successRatePercent": "{percent} %",
+  "@successRatePercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "documentTab": "Document {number}",
+  "@documentTab": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "docEmail": "E-mail",
+  "docLetter": "Lettre",
+  "docMemo": "Note de service",
+  "docNotice": "Avis",
+  "docAdvertisement": "Publicité",
+  "docArticle": "Article",
+  "docTextMessage": "SMS",
+  "docOnlineChat": "Discussion en ligne",
+  "docForm": "Formulaire",
+  "docInvoice": "Facture",
+  "docSchedule": "Planning",
+  "docJobAd": "Offre d'emploi",
+  "docWebPage": "Page web",
+  "docReview": "Avis client",
+  "categoryGrammar": "Grammaire",
+  "categoryVocabulary": "Vocabulaire",
+  "categoryConnector": "Mots de liaison",
+  "categorySentenceInsertion": "Insertion de phrase",
+  "categoryMainIdea": "Idée principale",
+  "categoryDetail": "Détail",
+  "categoryInference": "Inférence",
+  "categoryPurpose": "Objectif",
+  "categoryNotTrue": "Faux (NOT)",
+  "categoryVocabularyInContext": "Vocabulaire en contexte"
+}

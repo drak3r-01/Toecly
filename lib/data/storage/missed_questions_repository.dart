@@ -1,25 +1,28 @@
-import 'package:shared_preferences/shared_preferences.dart';
+import 'local_store.dart';
 
-/// Identifiants des questions ratées à réviser (la plus récente en premier).
-/// Au-delà de [maxMissedQuestions], les plus anciennes sont purgées.
+/// Ids of the questions to review, most recent first. Beyond
+/// [maxMissedQuestions], the oldest are dropped.
 class MissedQuestionsRepository {
-  MissedQuestionsRepository(this._prefs);
+  MissedQuestionsRepository(this._store);
 
-  final SharedPreferences _prefs;
+  final LocalStore _store;
 
   static const _key = 'missed_question_ids';
   static const maxMissedQuestions = 500;
 
-  List<String> loadIds() => _prefs.getStringList(_key) ?? const [];
+  List<String> loadIds() {
+    final data = _store.readJson(_key);
+    return data is List ? data.cast<String>() : const [];
+  }
 
   Future<void> markMissed(String questionId) {
     final updated = [questionId, ...loadIds().where((id) => id != questionId)]
         .take(maxMissedQuestions)
         .toList();
-    return _prefs.setStringList(_key, updated);
+    return _store.writeJson(_key, updated);
   }
 
-  /// À appeler quand l'utilisateur réussit enfin la question en révision.
+  /// Call when the user finally gets the question right in review.
   Future<void> markMastered(String questionId) =>
-      _prefs.setStringList(_key, loadIds().where((id) => id != questionId).toList());
+      _store.writeJson(_key, loadIds().where((id) => id != questionId).toList());
 }
