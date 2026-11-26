@@ -58,6 +58,14 @@ class DashboardScreen extends ConsumerWidget {
                         style: theme.textTheme.displaySmall,
                       ),
                     ),
+                    const SizedBox(height: 8),
+                    Text(l10n.estimatedTotalTitle, style: theme.textTheme.labelLarge),
+                    Text(
+                      range == null
+                          ? l10n.estimatedTotalEmpty
+                          : l10n.estimatedTotalRange(range.doubled.min, range.doubled.max),
+                      style: theme.textTheme.headlineSmall,
+                    ),
                     const SizedBox(height: 4),
                     Text(l10n.estimatedScoreDisclaimer, style: theme.textTheme.bodySmall),
                     const SizedBox(height: 16),

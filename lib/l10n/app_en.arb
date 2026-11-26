@@ -42,7 +42,7 @@
     }
   },
   "estimatedScoreEmpty": "— / 495",
-  "estimatedScoreDisclaimer": "Approximation by tiers, based on your success rate. Listening is not estimated.",
+  "estimatedScoreDisclaimer": "Approximation by tiers, based on your success rate. Listening is not estimated: the total assumes the same level as in Reading (× 2).",
   "resumePractice": "Resume practice",
   "partLabel": "Part {number} · {name}",
   "@partLabel": {
@@ -213,5 +213,18 @@
   "resetProgressTitle": "Reset all progress?",
   "resetProgressMessage": "This cannot be undone.",
   "resetProgressCancel": "Cancel",
-  "resetProgressConfirm": "Reset"
+  "resetProgressConfirm": "Reset",
+  "estimatedTotalTitle": "Estimated total (Reading × 2)",
+  "estimatedTotalRange": "{min}–{max} / 990",
+  "estimatedTotalEmpty": "— / 990",
+  "@estimatedTotalRange": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  }
 }

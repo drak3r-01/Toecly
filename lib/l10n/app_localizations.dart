@@ -233,7 +233,7 @@ abstract class AppLocalizations {
   /// No description provided for @estimatedScoreDisclaimer.
   ///
   /// In en, this message translates to:
-  /// **'Approximation by tiers, based on your success rate. Listening is not estimated.'**
+  /// **'Approximation by tiers, based on your success rate. Listening is not estimated: the total assumes the same level as in Reading (× 2).'**
   String get estimatedScoreDisclaimer;
 
   /// No description provided for @resumePractice.
@@ -703,6 +703,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Reset'**
   String get resetProgressConfirm;
+
+  /// No description provided for @estimatedTotalTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Estimated total (Reading × 2)'**
+  String get estimatedTotalTitle;
+
+  /// No description provided for @estimatedTotalRange.
+  ///
+  /// In en, this message translates to:
+  /// **'{min}–{max} / 990'**
+  String estimatedTotalRange(int min, int max);
+
+  /// No description provided for @estimatedTotalEmpty.
+  ///
+  /// In en, this message translates to:
+  /// **'— / 990'**
+  String get estimatedTotalEmpty;
 }
 
 class _AppLocalizationsDelegate
