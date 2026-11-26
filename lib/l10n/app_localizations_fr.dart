@@ -182,4 +182,59 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get categoryVocabularyInContext => 'Vocabulaire en contexte';
+
+  @override
+  String get quickStartTitle => 'Démarrage rapide';
+
+  @override
+  String get quickStartHint =>
+      '10 questions au hasard, avec correction immédiate.';
+
+  @override
+  String quizQuestionCounter(int current, int total) {
+    return 'Question $current / $total';
+  }
+
+  @override
+  String get quizNext => 'Suivant';
+
+  @override
+  String get quizFinish => 'Terminer';
+
+  @override
+  String get quizClose => 'Fermer';
+
+  @override
+  String get quizCorrect => 'Bonne réponse !';
+
+  @override
+  String get quizIncorrect => 'Mauvaise réponse';
+
+  @override
+  String get quizExplanation => 'Explication';
+
+  @override
+  String quizBlankLabel(int number) {
+    return 'Blanc $number';
+  }
+
+  @override
+  String get quizSummaryTitle => 'Session terminée';
+
+  @override
+  String quizSummaryScore(int correct, int total) {
+    return '$correct / $total bonnes réponses';
+  }
+
+  @override
+  String get quizBackToPractice => 'Retour à l\'entraînement';
+
+  @override
+  String get quizEmpty => 'Aucune question disponible pour cette sélection.';
+
+  @override
+  String get quizLoadError => 'Impossible de charger les questions.';
+
+  @override
+  String get quickStartAllParts => 'Toutes les parties';
 }

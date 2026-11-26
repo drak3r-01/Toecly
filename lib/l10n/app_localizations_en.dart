@@ -182,4 +182,58 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get categoryVocabularyInContext => 'Vocabulary in context';
+
+  @override
+  String get quickStartTitle => 'Quick start';
+
+  @override
+  String get quickStartHint => '10 random questions with immediate correction.';
+
+  @override
+  String quizQuestionCounter(int current, int total) {
+    return 'Question $current / $total';
+  }
+
+  @override
+  String get quizNext => 'Next';
+
+  @override
+  String get quizFinish => 'Finish';
+
+  @override
+  String get quizClose => 'Close';
+
+  @override
+  String get quizCorrect => 'Correct!';
+
+  @override
+  String get quizIncorrect => 'Incorrect';
+
+  @override
+  String get quizExplanation => 'Explanation';
+
+  @override
+  String quizBlankLabel(int number) {
+    return 'Blank $number';
+  }
+
+  @override
+  String get quizSummaryTitle => 'Session complete';
+
+  @override
+  String quizSummaryScore(int correct, int total) {
+    return '$correct / $total correct';
+  }
+
+  @override
+  String get quizBackToPractice => 'Back to practice';
+
+  @override
+  String get quizEmpty => 'No questions available for this selection.';
+
+  @override
+  String get quizLoadError => 'The questions could not be loaded.';
+
+  @override
+  String get quickStartAllParts => 'All parts';
 }

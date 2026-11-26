@@ -421,6 +421,102 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Vocabulary in context'**
   String get categoryVocabularyInContext;
+
+  /// No description provided for @quickStartTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Quick start'**
+  String get quickStartTitle;
+
+  /// No description provided for @quickStartHint.
+  ///
+  /// In en, this message translates to:
+  /// **'10 random questions with immediate correction.'**
+  String get quickStartHint;
+
+  /// No description provided for @quizQuestionCounter.
+  ///
+  /// In en, this message translates to:
+  /// **'Question {current} / {total}'**
+  String quizQuestionCounter(int current, int total);
+
+  /// No description provided for @quizNext.
+  ///
+  /// In en, this message translates to:
+  /// **'Next'**
+  String get quizNext;
+
+  /// No description provided for @quizFinish.
+  ///
+  /// In en, this message translates to:
+  /// **'Finish'**
+  String get quizFinish;
+
+  /// No description provided for @quizClose.
+  ///
+  /// In en, this message translates to:
+  /// **'Close'**
+  String get quizClose;
+
+  /// No description provided for @quizCorrect.
+  ///
+  /// In en, this message translates to:
+  /// **'Correct!'**
+  String get quizCorrect;
+
+  /// No description provided for @quizIncorrect.
+  ///
+  /// In en, this message translates to:
+  /// **'Incorrect'**
+  String get quizIncorrect;
+
+  /// No description provided for @quizExplanation.
+  ///
+  /// In en, this message translates to:
+  /// **'Explanation'**
+  String get quizExplanation;
+
+  /// No description provided for @quizBlankLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Blank {number}'**
+  String quizBlankLabel(int number);
+
+  /// No description provided for @quizSummaryTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Session complete'**
+  String get quizSummaryTitle;
+
+  /// No description provided for @quizSummaryScore.
+  ///
+  /// In en, this message translates to:
+  /// **'{correct} / {total} correct'**
+  String quizSummaryScore(int correct, int total);
+
+  /// No description provided for @quizBackToPractice.
+  ///
+  /// In en, this message translates to:
+  /// **'Back to practice'**
+  String get quizBackToPractice;
+
+  /// No description provided for @quizEmpty.
+  ///
+  /// In en, this message translates to:
+  /// **'No questions available for this selection.'**
+  String get quizEmpty;
+
+  /// No description provided for @quizLoadError.
+  ///
+  /// In en, this message translates to:
+  /// **'The questions could not be loaded.'**
+  String get quizLoadError;
+
+  /// No description provided for @quickStartAllParts.
+  ///
+  /// In en, this message translates to:
+  /// **'All parts'**
+  String get quickStartAllParts;
 }
 
 class _AppLocalizationsDelegate
