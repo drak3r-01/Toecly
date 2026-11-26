@@ -1,0 +1,535 @@
+[
+  {
+    "id": "p5-161",
+    "sentence": "The meeting was canceled ___ the director was ill.",
+    "choices": [
+      "although",
+      "whether",
+      "because",
+      "unless"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Because' introduces a reason."
+  },
+  {
+    "id": "p5-162",
+    "sentence": "We will begin the presentation ___ everyone has arrived.",
+    "choices": [
+      "so that",
+      "as soon as",
+      "in case of",
+      "even though"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'As soon as' introduces the moment that triggers the action."
+  },
+  {
+    "id": "p5-163",
+    "sentence": "___ the project was difficult, the team finished it on time.",
+    "choices": [
+      "Whereas of",
+      "Although",
+      "Unless",
+      "Because"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Although' introduces a contrast between difficulty and success."
+  },
+  {
+    "id": "p5-164",
+    "sentence": "You will not receive a refund ___ you have the original receipt.",
+    "choices": [
+      "whereas",
+      "as if",
+      "unless",
+      "although"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Unless' means 'if not'."
+  },
+  {
+    "id": "p5-165",
+    "sentence": "Mr. Reyes was late for work ___ his train was delayed.",
+    "choices": [
+      "so",
+      "although",
+      "because",
+      "but"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "The second clause explains why he was late: 'because'."
+  },
+  {
+    "id": "p5-166",
+    "sentence": "The printer is out of paper, ___ please refill it.",
+    "choices": [
+      "because",
+      "whereas",
+      "so",
+      "although"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'So' introduces a consequence or request following a fact."
+  },
+  {
+    "id": "p5-167",
+    "sentence": "Ms. Adams wants to hire two assistants, ___ the budget allows only one.",
+    "choices": [
+      "but",
+      "because of",
+      "so",
+      "or"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'But' links two contrasting ideas."
+  },
+  {
+    "id": "p5-168",
+    "sentence": "You may pay by credit card ___ in cash.",
+    "choices": [
+      "but",
+      "and",
+      "so",
+      "or"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Or' offers two alternatives."
+  },
+  {
+    "id": "p5-169",
+    "sentence": "Both the sales team ___ the design team will attend the meeting.",
+    "choices": [
+      "but",
+      "and",
+      "nor",
+      "or"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Both ... and' is a correlative pair."
+  },
+  {
+    "id": "p5-170",
+    "sentence": "Neither the printer ___ the scanner is working today.",
+    "choices": [
+      "and",
+      "nor",
+      "or",
+      "but"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Neither ... nor' is a correlative pair."
+  },
+  {
+    "id": "p5-171",
+    "sentence": "You can reach us either by phone ___ by e-mail.",
+    "choices": [
+      "but",
+      "nor",
+      "or",
+      "and"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Either ... or' is a correlative pair."
+  },
+  {
+    "id": "p5-172",
+    "sentence": "The new model is not only faster ___ also cheaper.",
+    "choices": [
+      "and",
+      "but",
+      "or",
+      "so"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Not only ... but also' is a correlative pair."
+  },
+  {
+    "id": "p5-173",
+    "sentence": "The manager ___ office is on the third floor will meet you now.",
+    "choices": [
+      "whom",
+      "whose",
+      "which",
+      "who"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Whose' shows possession: 'the manager's office'."
+  },
+  {
+    "id": "p5-174",
+    "sentence": "The employee ___ submitted the report is on vacation.",
+    "choices": [
+      "whom",
+      "whose",
+      "who",
+      "what"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Who' is the subject of 'submitted' and refers to a person."
+  },
+  {
+    "id": "p5-175",
+    "sentence": "The software ___ we installed last week is already out of date.",
+    "choices": [
+      "that",
+      "who",
+      "what",
+      "whose"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'That' refers to a thing and acts as the object of 'installed'."
+  },
+  {
+    "id": "p5-176",
+    "sentence": "Ms. Chen, ___ I met at the conference, has joined our firm.",
+    "choices": [
+      "whom",
+      "which",
+      "whose",
+      "what"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whom' is the object of 'met' and refers to a person."
+  },
+  {
+    "id": "p5-177",
+    "sentence": "The conference room, ___ was recently renovated, can hold fifty people.",
+    "choices": [
+      "whom",
+      "which",
+      "whose",
+      "who"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A non-defining clause for a thing uses 'which'."
+  },
+  {
+    "id": "p5-178",
+    "sentence": "I wonder ___ the delivery will arrive before noon.",
+    "choices": [
+      "if",
+      "that",
+      "what",
+      "whose"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'If' introduces an indirect yes/no question after 'wonder'."
+  },
+  {
+    "id": "p5-179",
+    "sentence": "The director asked ___ the budget had been approved.",
+    "choices": [
+      "whether",
+      "which",
+      "that",
+      "what"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whether' introduces an indirect yes/no question."
+  },
+  {
+    "id": "p5-180",
+    "sentence": "Please call me ___ you have any questions about the contract.",
+    "choices": [
+      "during",
+      "although",
+      "unless",
+      "if"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'If' introduces a condition."
+  },
+  {
+    "id": "p5-181",
+    "sentence": "We upgraded the servers ___ the system could handle more users.",
+    "choices": [
+      "because of",
+      "so that",
+      "in order",
+      "even"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'So that' introduces a purpose clause."
+  },
+  {
+    "id": "p5-182",
+    "sentence": "The firm hired more staff ___ to improve customer service.",
+    "choices": [
+      "so that",
+      "in order",
+      "because",
+      "although"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'In order to' + base verb expresses purpose."
+  },
+  {
+    "id": "p5-183",
+    "sentence": "___ you finish the report, please send it to Mr. Kato.",
+    "choices": [
+      "Among",
+      "Despite",
+      "After",
+      "During"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'After' introduces a clause of time."
+  },
+  {
+    "id": "p5-184",
+    "sentence": "Please stay seated ___ the plane has come to a complete stop.",
+    "choices": [
+      "until",
+      "whereas",
+      "unless",
+      "during"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Until' shows how long the action continues."
+  },
+  {
+    "id": "p5-185",
+    "sentence": "The company has grown quickly, ___ its competitors have struggled.",
+    "choices": [
+      "unless",
+      "whereas",
+      "because",
+      "so that"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Whereas' contrasts two situations."
+  },
+  {
+    "id": "p5-186",
+    "sentence": "___ you are traveling for business or pleasure, we offer the best rates.",
+    "choices": [
+      "Which",
+      "Because",
+      "Whether",
+      "Unless"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Whether ... or' presents two possibilities."
+  },
+  {
+    "id": "p5-187",
+    "sentence": "The store opens at nine; ___, customers often wait outside from eight thirty.",
+    "choices": [
+      "because",
+      "although",
+      "however",
+      "unless"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'However' is a conjunctive adverb used after a semicolon to show contrast."
+  },
+  {
+    "id": "p5-188",
+    "sentence": "The sales figures were low. ___, the company remained optimistic.",
+    "choices": [
+      "Therefore",
+      "Because",
+      "Nevertheless",
+      "In case"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Nevertheless' signals a contrast with the previous sentence."
+  },
+  {
+    "id": "p5-189",
+    "sentence": "The warehouse flooded. ___, all shipments were delayed.",
+    "choices": [
+      "Unless",
+      "As a result",
+      "Even if",
+      "In spite"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'As a result' signals a consequence."
+  },
+  {
+    "id": "p5-190",
+    "sentence": "Ms. Ford is an excellent speaker. ___, she was chosen to give the opening address.",
+    "choices": [
+      "Whether",
+      "Otherwise",
+      "Although",
+      "Therefore"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Therefore' signals a consequence of the previous sentence."
+  },
+  {
+    "id": "p5-191",
+    "sentence": "Please back up your files. ___, you may lose important data.",
+    "choices": [
+      "Besides of",
+      "Therefore",
+      "Otherwise",
+      "Moreover"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Otherwise' means 'if you do not'."
+  },
+  {
+    "id": "p5-192",
+    "sentence": "The software is easy to use. ___, it is very affordable.",
+    "choices": [
+      "Otherwise",
+      "Moreover",
+      "Whereas",
+      "Unless"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Moreover' adds a further point to the previous sentence."
+  },
+  {
+    "id": "p5-193",
+    "sentence": "___ the late hour, the staff continued working on the proposal.",
+    "choices": [
+      "In spite of",
+      "In case of",
+      "Even so of",
+      "As soon as"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'In spite of' is followed by a noun phrase and shows contrast."
+  },
+  {
+    "id": "p5-194",
+    "sentence": "Take an umbrella ___ it rains during the outdoor event.",
+    "choices": [
+      "in case of",
+      "despite",
+      "in case",
+      "unless"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'In case' + clause means as a precaution."
+  },
+  {
+    "id": "p5-195",
+    "sentence": "The seminar was both informative ___ entertaining.",
+    "choices": [
+      "and",
+      "yet",
+      "nor",
+      "or"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Both ... and' links two adjectives."
+  },
+  {
+    "id": "p5-196",
+    "sentence": "It is important to arrive early ___ you can find a good seat.",
+    "choices": [
+      "although",
+      "whereas",
+      "despite",
+      "so that"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'So that' introduces the purpose of arriving early."
+  },
+  {
+    "id": "p5-197",
+    "sentence": "___ the proposal was rejected, the team will submit a revised version.",
+    "choices": [
+      "Despite",
+      "Since",
+      "During",
+      "Besides"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Since' here means 'because'; 'despite' and 'during' need noun phrases."
+  },
+  {
+    "id": "p5-198",
+    "sentence": "The employee handbook explains ___ benefits you are entitled to.",
+    "choices": [
+      "what",
+      "that",
+      "who",
+      "whose"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'What benefits' is an indirect question word modifying the noun 'benefits'."
+  },
+  {
+    "id": "p5-199",
+    "sentence": "The customer wanted to know ___ the package would arrive.",
+    "choices": [
+      "whom",
+      "what",
+      "whose",
+      "when"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'When' introduces an indirect question about time."
+  },
+  {
+    "id": "p5-200",
+    "sentence": "Mr. Haas is the person ___ you should speak about the invoice.",
+    "choices": [
+      "what",
+      "to whom",
+      "whose",
+      "which"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'To whom' is a formal relative construction with a preposition."
+  },
+  {
+    "id": "p5-201",
+    "sentence": "The firm will not hire anyone ___ has no relevant experience.",
+    "choices": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Who' is the subject of 'has' and refers to a person."
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "id": "p5-397",
+    "sentence": "The tenant must give thirty days' written ___ before moving out.",
+    "choices": [
+      "noting",
+      "notion",
+      "notice",
+      "nation"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Give notice' means to inform formally."
+  },
+  {
+    "id": "p5-398",
+    "sentence": "Both parties must ___ the contract before the work can begin.",
+    "choices": [
+      "sing",
+      "sigh",
+      "sink",
+      "sign"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Sign a contract' is the standard collocation."
+  },
+  {
+    "id": "p5-399",
+    "sentence": "The lease will ___ at the end of December unless it is renewed.",
+    "choices": [
+      "expel",
+      "expose",
+      "expire",
+      "expand"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Expire' means to come to an end."
+  },
+  {
+    "id": "p5-400",
+    "sentence": "The landlord is ___ for repairs to the building's roof.",
+    "choices": [
+      "responsible",
+      "responsive",
+      "respective",
+      "respectful"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Responsible for' means in charge of and accountable."
+  },
+  {
+    "id": "p5-401",
+    "sentence": "All visitors must ___ with the building's security procedures.",
+    "choices": [
+      "comply",
+      "complain",
+      "compare",
+      "complete"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Comply with' means to follow rules."
+  },
+  {
+    "id": "p5-402",
+    "sentence": "A ___ deposit is required to reserve the apartment.",
+    "choices": [
+      "refunded",
+      "refund",
+      "refundable",
+      "refunding"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Refundable deposit' means a deposit that can be returned."
+  },
+  {
+    "id": "p5-403",
+    "sentence": "The agreement ___ both companies to share the cost of the project.",
+    "choices": [
+      "requires",
+      "requites",
+      "requests",
+      "rescues"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Requires' means obliges."
+  },
+  {
+    "id": "p5-404",
+    "sentence": "The company's new headquarters is a modern ___ in the financial district.",
+    "choices": [
+      "built up",
+      "builder",
+      "building",
+      "build"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'A modern building' is a noun phrase."
+  },
+  {
+    "id": "p5-405",
+    "sentence": "The rent is nine hundred dollars a month, ___ water and electricity.",
+    "choices": [
+      "included",
+      "including",
+      "include",
+      "inclusion"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Including' introduces what is part of the price."
+  },
+  {
+    "id": "p5-406",
+    "sentence": "The new law will ___ stricter rules on waste disposal.",
+    "choices": [
+      "impress",
+      "improve",
+      "impose",
+      "import"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Impose rules' means to introduce them officially."
+  },
+  {
+    "id": "p5-407",
+    "sentence": "A ___ will inspect the property before the sale is completed.",
+    "choices": [
+      "survival",
+      "surveillance",
+      "surveyor",
+      "survey"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A 'surveyor' is a person who inspects land or buildings."
+  },
+  {
+    "id": "p5-408",
+    "sentence": "The firm's lawyers will ___ the terms of the merger tomorrow.",
+    "choices": [
+      "review",
+      "revive",
+      "revue",
+      "revenge"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Review the terms' means to examine them."
+  },
+  {
+    "id": "p5-409",
+    "sentence": "The warranty is ___ for two years from the date of purchase.",
+    "choices": [
+      "various",
+      "variable",
+      "valid",
+      "valued"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Valid' means legally effective."
+  },
+  {
+    "id": "p5-410",
+    "sentence": "Mr. Peterson was asked to ___ the contract before the deadline.",
+    "choices": [
+      "rename",
+      "remind",
+      "renew",
+      "renounce"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Renew a contract' means to extend it."
+  },
+  {
+    "id": "p5-411",
+    "sentence": "The office space is available for ___ starting next month.",
+    "choices": [
+      "occupation of",
+      "occupied",
+      "occupancy",
+      "occupant of"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Occupancy' is the state of using a space."
+  },
+  {
+    "id": "p5-412",
+    "sentence": "A copy of the signed agreement will be ___ to each party.",
+    "choices": [
+      "proven by",
+      "provided",
+      "proved",
+      "provoked"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Will be provided to' is the passive structure with a recipient."
+  },
+  {
+    "id": "p5-413",
+    "sentence": "Any changes to the contract must be made in ___.",
+    "choices": [
+      "written to",
+      "writing",
+      "writer",
+      "wrote"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'In writing' is a fixed expression meaning in written form."
+  },
+  {
+    "id": "p5-414",
+    "sentence": "The two firms entered into a ___ to develop the software together.",
+    "choices": [
+      "partner",
+      "partition",
+      "partnership",
+      "participation"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Enter into a partnership' is a fixed phrase."
+  },
+  {
+    "id": "p5-415",
+    "sentence": "Property taxes are due ___ the first day of each quarter.",
+    "choices": [
+      "on",
+      "against",
+      "among",
+      "beside"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'On the first day' is the standard preposition with dates and days."
+  },
+  {
+    "id": "p5-416",
+    "sentence": "The city council voted to ___ the old regulations.",
+    "choices": [
+      "repeal",
+      "repair",
+      "replay",
+      "repeat"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Repeal regulations' means to officially cancel them."
+  },
+  {
+    "id": "p5-417",
+    "sentence": "Mr. Dumont acts as a ___ for several international clients.",
+    "choices": [
+      "consulting",
+      "consultant",
+      "consultation",
+      "consultancy of"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A 'consultant' is a person giving expert advice."
+  },
+  {
+    "id": "p5-418",
+    "sentence": "All employees must keep client information ___.",
+    "choices": [
+      "confidentiality",
+      "confidence",
+      "confidential",
+      "confident"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Keep something confidential' means to keep it secret."
+  },
+  {
+    "id": "p5-419",
+    "sentence": "The company has ___ to pay all legal fees related to the case.",
+    "choices": [
+      "agreeable",
+      "agreeing",
+      "agreed",
+      "agreement"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Has agreed to' is the present perfect with an infinitive."
+  },
+  {
+    "id": "p5-420",
+    "sentence": "The building permit was ___ after the inspectors approved the plans.",
+    "choices": [
+      "isolated",
+      "issued",
+      "issuing",
+      "iced"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'A permit is issued' means officially given out."
+  },
+  {
+    "id": "p5-421",
+    "sentence": "The ___ of the contract states that payment is due within thirty days.",
+    "choices": [
+      "clauses",
+      "claw",
+      "clue",
+      "clause"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A 'clause' is a section of a contract."
+  },
+  {
+    "id": "p5-422",
+    "sentence": "Employees who ___ the rules may face disciplinary action.",
+    "choices": [
+      "validate",
+      "volunteer",
+      "violate",
+      "vacate"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Violate rules' means to break them."
+  },
+  {
+    "id": "p5-423",
+    "sentence": "The landlord reserves the right to ___ the rent annually.",
+    "choices": [
+      "adjust",
+      "adjourn",
+      "admit",
+      "adhere"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Adjust the rent' means to change it."
+  },
+  {
+    "id": "p5-424",
+    "sentence": "The team will ___ the proposal to the client on Thursday.",
+    "choices": [
+      "subtract",
+      "submit",
+      "subscribe",
+      "submerge"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Submit a proposal' means to formally present it."
+  },
+  {
+    "id": "p5-425",
+    "sentence": "The ___ of the lease are explained in section four of the document.",
+    "choices": [
+      "terrors",
+      "terms",
+      "terminals",
+      "terrains"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Terms of the lease' means its conditions."
+  },
+  {
+    "id": "p5-426",
+    "sentence": "An ___ copy of the document must be kept in the company's files.",
+    "choices": [
+      "origin",
+      "originate",
+      "originally",
+      "original"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "An adjective is needed before 'copy'; 'original copy' means the first version."
+  },
+  {
+    "id": "p5-427",
+    "sentence": "The two partners have decided to ___ their business and retire.",
+    "choices": [
+      "selling of",
+      "sell",
+      "sold",
+      "sale"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Decided to' needs a base verb: 'sell'."
+  },
+  {
+    "id": "p5-428",
+    "sentence": "The warehouse has ___ space for over ten thousand boxes.",
+    "choices": [
+      "many",
+      "too",
+      "enough",
+      "enough of"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Enough space for' is the correct phrase."
+  },
+  {
+    "id": "p5-429",
+    "sentence": "A ___ is required for any construction work in the historic district.",
+    "choices": [
+      "permitting",
+      "permits are",
+      "permit",
+      "permitted"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A 'permit' is an official authorization."
+  },
+  {
+    "id": "p5-430",
+    "sentence": "We cannot process your application until we receive all the ___ documents.",
+    "choices": [
+      "requiring",
+      "requirement",
+      "required",
+      "require"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Required documents' means necessary documents."
+  },
+  {
+    "id": "p5-431",
+    "sentence": "The two companies have signed a ___ agreement on technology sharing.",
+    "choices": [
+      "binding",
+      "bound",
+      "bind",
+      "binder"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Binding agreement' means legally enforceable."
+  },
+  {
+    "id": "p5-432",
+    "sentence": "Failure to ___ rent on time may result in a late fee.",
+    "choices": [
+      "pay",
+      "paid",
+      "payer",
+      "payment"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "After 'failure to', the base form is needed."
+  },
+  {
+    "id": "p5-433",
+    "sentence": "The apartment is ___ to public transportation and shopping.",
+    "choices": [
+      "close",
+      "closing",
+      "closely",
+      "closure"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Close to' is the adjective + preposition expression."
+  },
+  {
+    "id": "p5-434",
+    "sentence": "The lawyer advised the company to ___ a formal complaint.",
+    "choices": [
+      "fell",
+      "file",
+      "fill",
+      "feel"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'File a complaint' is the standard collocation."
+  }
+]

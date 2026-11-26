@@ -1,0 +1,535 @@
+[
+  {
+    "id": "p5-040",
+    "sentence": "The conference will be held ___ the Grand Hotel in downtown Chicago.",
+    "choices": [
+      "by",
+      "for",
+      "at",
+      "on"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'At' is used with a specific venue."
+  },
+  {
+    "id": "p5-041",
+    "sentence": "Please submit your travel receipts ___ Friday at the latest.",
+    "choices": [
+      "among",
+      "by",
+      "since",
+      "until"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'By' marks a deadline: no later than Friday."
+  },
+  {
+    "id": "p5-042",
+    "sentence": "The warehouse will be closed ___ the holiday weekend.",
+    "choices": [
+      "between",
+      "during",
+      "while",
+      "since"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'During' is a preposition followed by a noun phrase; 'while' needs a clause."
+  },
+  {
+    "id": "p5-043",
+    "sentence": "Flights to Osaka depart ___ the morning and the evening.",
+    "choices": [
+      "at",
+      "to",
+      "in",
+      "on"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "Times of day like 'the morning' and 'the evening' take 'in'."
+  },
+  {
+    "id": "p5-044",
+    "sentence": "The seminar runs ___ 9 A.M. and 4 P.M. every Thursday.",
+    "choices": [
+      "among",
+      "within",
+      "between",
+      "from"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Between ... and' links two points in time."
+  },
+  {
+    "id": "p5-045",
+    "sentence": "Ms. Ito has worked at the bank ___ ten years.",
+    "choices": [
+      "for",
+      "from",
+      "since",
+      "during"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'For' is used with a length of time."
+  },
+  {
+    "id": "p5-046",
+    "sentence": "Mr. Baker has lived in Seoul ___ 2015.",
+    "choices": [
+      "from",
+      "during",
+      "for",
+      "since"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Since' is used with a starting point in time and the present perfect."
+  },
+  {
+    "id": "p5-047",
+    "sentence": "The shipment should arrive ___ three business days.",
+    "choices": [
+      "between",
+      "among",
+      "along",
+      "within"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Within' means before the end of a period."
+  },
+  {
+    "id": "p5-048",
+    "sentence": "Ms. Berg was stuck ___ traffic for two hours this morning.",
+    "choices": [
+      "at",
+      "between",
+      "in",
+      "by"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Stuck in traffic' is the fixed expression."
+  },
+  {
+    "id": "p5-049",
+    "sentence": "Our branch office is located ___ Main Street.",
+    "choices": [
+      "with",
+      "of",
+      "on",
+      "to"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "Street names take 'on' in American usage."
+  },
+  {
+    "id": "p5-050",
+    "sentence": "Employees may park ___ the visitor lot until noon.",
+    "choices": [
+      "in",
+      "among",
+      "toward",
+      "between"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'In' is used for an enclosed or bounded area such as a parking lot."
+  },
+  {
+    "id": "p5-051",
+    "sentence": "The sales team is meeting ___ Monday to discuss the new targets.",
+    "choices": [
+      "at",
+      "by",
+      "in",
+      "on"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Days of the week take 'on'."
+  },
+  {
+    "id": "p5-052",
+    "sentence": "Registration for the course begins ___ April 1.",
+    "choices": [
+      "at",
+      "by",
+      "in",
+      "on"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Specific dates take 'on'."
+  },
+  {
+    "id": "p5-053",
+    "sentence": "The report is due ___ the end of the week.",
+    "choices": [
+      "at",
+      "in",
+      "on",
+      "by"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'By the end of' expresses a deadline."
+  },
+  {
+    "id": "p5-054",
+    "sentence": "The company plans to open a new store ___ the next two years.",
+    "choices": [
+      "among",
+      "within",
+      "against",
+      "beside"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Within the next two years' means before two years have passed."
+  },
+  {
+    "id": "p5-055",
+    "sentence": "We will deliver the furniture ___ your address free of charge.",
+    "choices": [
+      "at",
+      "with",
+      "to",
+      "on"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Deliver to' indicates the destination."
+  },
+  {
+    "id": "p5-056",
+    "sentence": "Passengers must show their passports ___ boarding the plane.",
+    "choices": [
+      "before",
+      "between",
+      "during",
+      "among"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Before' fits a sequence of events: showing passports comes first."
+  },
+  {
+    "id": "p5-057",
+    "sentence": "The meeting was postponed ___ the manager's illness.",
+    "choices": [
+      "because of",
+      "despite of",
+      "although",
+      "because"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Because of' is followed by a noun phrase; 'because' needs a clause."
+  },
+  {
+    "id": "p5-058",
+    "sentence": "___ the heavy rain, the outdoor event went ahead as planned.",
+    "choices": [
+      "Although of",
+      "Despite",
+      "Because",
+      "However"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Despite' is followed by a noun phrase and shows contrast."
+  },
+  {
+    "id": "p5-059",
+    "sentence": "The new office is within walking distance ___ the train station.",
+    "choices": [
+      "on",
+      "of",
+      "at",
+      "by"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Within walking distance of' is the standard expression."
+  },
+  {
+    "id": "p5-060",
+    "sentence": "Mr. Wu is responsible ___ training all new sales representatives.",
+    "choices": [
+      "at",
+      "for",
+      "of",
+      "with"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Responsible for' is a fixed collocation."
+  },
+  {
+    "id": "p5-061",
+    "sentence": "The company is known ___ its excellent customer service.",
+    "choices": [
+      "at",
+      "for",
+      "on",
+      "with"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Known for' means famous because of."
+  },
+  {
+    "id": "p5-062",
+    "sentence": "Ms. Silva was appointed ___ chief financial officer last year.",
+    "choices": [
+      "by",
+      "as",
+      "to be as",
+      "like"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Appointed as' introduces a role."
+  },
+  {
+    "id": "p5-063",
+    "sentence": "All visitors are required to comply ___ the safety regulations.",
+    "choices": [
+      "by",
+      "for",
+      "to",
+      "with"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Comply with' is a fixed collocation."
+  },
+  {
+    "id": "p5-064",
+    "sentence": "Several employees attended the workshop ___ their own initiative.",
+    "choices": [
+      "for",
+      "at",
+      "by",
+      "on"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'On one's own initiative' is a fixed expression."
+  },
+  {
+    "id": "p5-065",
+    "sentence": "The tickets can be purchased ___ our Web site or at the box office.",
+    "choices": [
+      "by",
+      "within",
+      "on",
+      "in"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'On a Web site' is the standard preposition."
+  },
+  {
+    "id": "p5-066",
+    "sentence": "Our new product line differs ___ our competitors' offerings in several ways.",
+    "choices": [
+      "with",
+      "from",
+      "by",
+      "to"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Differ from' is the standard collocation."
+  },
+  {
+    "id": "p5-067",
+    "sentence": "The bridge was closed ___ repairs for most of the summer.",
+    "choices": [
+      "at",
+      "against",
+      "for",
+      "by"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Closed for repairs' indicates the reason."
+  },
+  {
+    "id": "p5-068",
+    "sentence": "Customers can pay ___ credit card or by bank transfer.",
+    "choices": [
+      "by",
+      "on",
+      "in",
+      "at"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Pay by credit card' is the standard expression."
+  },
+  {
+    "id": "p5-069",
+    "sentence": "The hotel is situated ___ a river and a large park.",
+    "choices": [
+      "across of",
+      "between",
+      "during",
+      "among"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Between' is used for two distinct things."
+  },
+  {
+    "id": "p5-070",
+    "sentence": "Tickets are available ___ the information desk.",
+    "choices": [
+      "in",
+      "at",
+      "to",
+      "until"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'At the desk' indicates a point of service."
+  },
+  {
+    "id": "p5-071",
+    "sentence": "The company's profits rose ___ 12 percent last quarter.",
+    "choices": [
+      "with",
+      "by",
+      "from",
+      "of"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Rose by 12 percent' shows the amount of change."
+  },
+  {
+    "id": "p5-072",
+    "sentence": "Sales increased from 2 million dollars ___ 3 million dollars this year.",
+    "choices": [
+      "for",
+      "to",
+      "by",
+      "at"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'From ... to' shows the start and end of a change."
+  },
+  {
+    "id": "p5-073",
+    "sentence": "The new policy will take effect ___ January 1.",
+    "choices": [
+      "for",
+      "in",
+      "at",
+      "on"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A specific date takes 'on'."
+  },
+  {
+    "id": "p5-074",
+    "sentence": "Ms. Ricci is in charge ___ the marketing campaign.",
+    "choices": [
+      "for",
+      "to",
+      "of",
+      "at"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'In charge of' is a fixed expression."
+  },
+  {
+    "id": "p5-075",
+    "sentence": "The product is available ___ three colors.",
+    "choices": [
+      "at",
+      "to",
+      "in",
+      "by"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Available in' is used for colors, sizes and versions."
+  },
+  {
+    "id": "p5-076",
+    "sentence": "Free shipping is offered ___ orders over fifty dollars.",
+    "choices": [
+      "at",
+      "for",
+      "in",
+      "on"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'On orders' is the standard collocation."
+  },
+  {
+    "id": "p5-077",
+    "sentence": "The manager walked ___ the factory floor with the visiting inspectors.",
+    "choices": [
+      "across",
+      "until",
+      "between",
+      "among"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Across' describes movement over a surface or area."
+  },
+  {
+    "id": "p5-078",
+    "sentence": "Please keep your receipt ___ proof of purchase.",
+    "choices": [
+      "by",
+      "with",
+      "as",
+      "on"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'As' introduces the function or role of something."
+  },
+  {
+    "id": "p5-079",
+    "sentence": "The package was sent ___ mistake to the wrong department.",
+    "choices": [
+      "in",
+      "on",
+      "by",
+      "at"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'By mistake' is a fixed expression."
+  },
+  {
+    "id": "p5-080",
+    "sentence": "Dr. Chen will be out of the office ___ next Wednesday.",
+    "choices": [
+      "by",
+      "until",
+      "during",
+      "among"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Until' shows how long a situation continues."
+  }
+]

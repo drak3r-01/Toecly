@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p5-121",
+    "sentence": "The company must ___ all tax documents for at least seven years.",
+    "choices": [
+      "retain",
+      "exceed",
+      "obtain",
+      "recess"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Retain' means to keep; the other verbs do not fit tax documents."
+  },
+  {
+    "id": "p5-122",
+    "sentence": "Please review the ___ invoice and report any errors to the accounting office.",
+    "choices": [
+      "enclosed",
+      "encloses",
+      "enclosing",
+      "enclosure"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Enclosed' means included with a letter or package."
+  },
+  {
+    "id": "p5-123",
+    "sentence": "The finance department will ___ the budget before the end of the quarter.",
+    "choices": [
+      "notice",
+      "proceed",
+      "reply",
+      "finalize"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Finalize' means to complete in its last form."
+  },
+  {
+    "id": "p5-124",
+    "sentence": "Because of rising costs, the firm decided to ___ its prices by five percent.",
+    "choices": [
+      "rise",
+      "rouse",
+      "arise",
+      "raise"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Raise' is a transitive verb that takes the object 'prices'."
+  },
+  {
+    "id": "p5-125",
+    "sentence": "Mr. Gupta submitted a ___ for reimbursement of his travel expenses.",
+    "choices": [
+      "retreat",
+      "request",
+      "recipe",
+      "respect"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Request for reimbursement' is a standard business phrase."
+  },
+  {
+    "id": "p5-126",
+    "sentence": "All expenses over five hundred dollars require written ___ from a manager.",
+    "choices": [
+      "appearance",
+      "approval",
+      "appeal",
+      "approach"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Approval' means official permission."
+  },
+  {
+    "id": "p5-127",
+    "sentence": "The ___ between the two quarterly reports was surprisingly large.",
+    "choices": [
+      "differently",
+      "difference",
+      "differ",
+      "different"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A noun is needed after 'the', and 'difference between' is the collocation."
+  },
+  {
+    "id": "p5-128",
+    "sentence": "The company posted a net ___ of two million dollars last year.",
+    "choices": [
+      "proof",
+      "process",
+      "project",
+      "profit"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Net profit' is the standard finance term."
+  },
+  {
+    "id": "p5-129",
+    "sentence": "Customers who pay their bills early receive a five percent ___.",
+    "choices": [
+      "disease",
+      "discount",
+      "disorder",
+      "district"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A 'discount' is a reduction in price."
+  },
+  {
+    "id": "p5-130",
+    "sentence": "The bank charges a monthly ___ for maintaining the account.",
+    "choices": [
+      "fee",
+      "fair",
+      "fare",
+      "few"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "A 'fee' is a payment for a service."
+  },
+  {
+    "id": "p5-131",
+    "sentence": "Investors are ___ about the company's plan to enter the Asian market.",
+    "choices": [
+      "optimistic",
+      "optional",
+      "optical",
+      "opposite"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Optimistic' describes a hopeful attitude."
+  },
+  {
+    "id": "p5-132",
+    "sentence": "The auditor discovered a ___ in the company's accounts and reported it at once.",
+    "choices": [
+      "distance",
+      "discretion",
+      "discrepancy",
+      "disguise"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A 'discrepancy' is a difference between figures that should match."
+  },
+  {
+    "id": "p5-133",
+    "sentence": "Our accountant helps small businesses ___ their taxes online.",
+    "choices": [
+      "fill",
+      "fall",
+      "feel",
+      "file"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'File taxes' is the standard expression for submitting a tax return."
+  },
+  {
+    "id": "p5-134",
+    "sentence": "The ___ on the loan is calculated every month.",
+    "choices": [
+      "interview",
+      "interest",
+      "interval",
+      "interior"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Interest' is the cost of borrowing money."
+  },
+  {
+    "id": "p5-135",
+    "sentence": "Please ___ the enclosed form and return it by mail.",
+    "choices": [
+      "complain",
+      "compete",
+      "complete",
+      "complicate"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Complete a form' means to fill it out fully."
+  },
+  {
+    "id": "p5-136",
+    "sentence": "The firm's annual ___ shows steady growth in all divisions.",
+    "choices": [
+      "revision",
+      "reviewer",
+      "revenge",
+      "revenue"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Revenue' is the income a company receives."
+  },
+  {
+    "id": "p5-137",
+    "sentence": "The company will ___ the shareholders of the final vote next week.",
+    "choices": [
+      "notice",
+      "nominate",
+      "notify",
+      "notion"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Notify someone of' means to inform officially."
+  },
+  {
+    "id": "p5-138",
+    "sentence": "Mr. Yamada was asked to ___ a detailed budget for the new project.",
+    "choices": [
+      "preside",
+      "prepare",
+      "prefer",
+      "prevent"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Prepare a budget' means to draw it up."
+  },
+  {
+    "id": "p5-139",
+    "sentence": "The store's ___ policy allows exchanges within thirty days.",
+    "choices": [
+      "reform",
+      "retire",
+      "return",
+      "remote"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A 'return policy' covers sending goods back."
+  },
+  {
+    "id": "p5-140",
+    "sentence": "Employees will receive a ___ if the company meets its annual target.",
+    "choices": [
+      "bonus",
+      "bond",
+      "bound",
+      "boost"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "A 'bonus' is an extra payment for good results."
+  },
+  {
+    "id": "p5-141",
+    "sentence": "The cost of materials has ___ sharply since the beginning of the year.",
+    "choices": [
+      "included",
+      "increased",
+      "encouraged",
+      "encountered"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Increased' fits a change in cost over time."
+  },
+  {
+    "id": "p5-142",
+    "sentence": "A ___ amount of money was donated to the local library.",
+    "choices": [
+      "substantially",
+      "substance",
+      "substantial",
+      "substitute"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Substantial' means large; an adjective is needed before 'amount'."
+  },
+  {
+    "id": "p5-143",
+    "sentence": "The company's earnings were ___ the analysts' expectations.",
+    "choices": [
+      "above",
+      "onto",
+      "upon",
+      "along"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Above expectations' means higher than expected."
+  },
+  {
+    "id": "p5-144",
+    "sentence": "Please attach the ___ document to your tax return.",
+    "choices": [
+      "supports",
+      "supported by",
+      "support to",
+      "supporting"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Supporting documents' are papers that back up a claim."
+  },
+  {
+    "id": "p5-145",
+    "sentence": "The business owner applied for a ___ to buy new equipment.",
+    "choices": [
+      "lawn",
+      "loan",
+      "lone",
+      "lane"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A 'loan' is money borrowed from a bank."
+  },
+  {
+    "id": "p5-146",
+    "sentence": "We regret that we cannot ___ your request for a refund.",
+    "choices": [
+      "graze",
+      "grave",
+      "grasp",
+      "grant"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Grant a request' means to approve it."
+  },
+  {
+    "id": "p5-147",
+    "sentence": "The sales tax is included in the ___ price.",
+    "choices": [
+      "totality",
+      "total",
+      "totaled",
+      "totally"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Total price' is a noun phrase; an adjective-like noun is needed before 'price'."
+  },
+  {
+    "id": "p5-148",
+    "sentence": "The new accounting software helps us ___ our expenses more efficiently.",
+    "choices": [
+      "trace",
+      "track",
+      "trail",
+      "trade"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Track expenses' means to monitor them."
+  },
+  {
+    "id": "p5-149",
+    "sentence": "Ms. Wong asked for an ___ of the delivery charges.",
+    "choices": [
+      "itemization",
+      "itemize",
+      "itemized by",
+      "itemizing"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'An itemization of' is a noun phrase meaning a detailed list."
+  },
+  {
+    "id": "p5-150",
+    "sentence": "The balance on your account is ___ and must be paid by the end of the month.",
+    "choices": [
+      "overhead",
+      "overall",
+      "overdue",
+      "overseas"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Overdue' means late for payment."
+  },
+  {
+    "id": "p5-151",
+    "sentence": "The company's debt has been ___ by half over the past two years.",
+    "choices": [
+      "refused",
+      "resumed",
+      "released",
+      "reduced"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Reduced by half' fits a debt that has become smaller."
+  },
+  {
+    "id": "p5-152",
+    "sentence": "Shareholders will ___ on the merger at the annual meeting.",
+    "choices": [
+      "voice",
+      "vote",
+      "volt",
+      "veto"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Vote on' a proposal is the standard expression."
+  },
+  {
+    "id": "p5-153",
+    "sentence": "The firm hired an outside consultant to ___ its financial performance.",
+    "choices": [
+      "evaluate",
+      "elevate",
+      "evolve",
+      "evade"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Evaluate' means to assess."
+  },
+  {
+    "id": "p5-154",
+    "sentence": "Customers are ___ for any damage to rented equipment.",
+    "choices": [
+      "limited",
+      "likely",
+      "liable",
+      "lovely"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Liable for' means legally responsible for."
+  },
+  {
+    "id": "p5-155",
+    "sentence": "The ___ of the new tax law will affect all small businesses.",
+    "choices": [
+      "introduce",
+      "introduction",
+      "introduced",
+      "introductory"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A noun is needed after 'the': 'the introduction of'."
+  },
+  {
+    "id": "p5-156",
+    "sentence": "Please ___ the check to the Finance Department by Friday.",
+    "choices": [
+      "formal",
+      "forward",
+      "forge",
+      "foreword"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Forward' means to send on."
+  },
+  {
+    "id": "p5-157",
+    "sentence": "Cash payments are ___ to a maximum of one thousand dollars.",
+    "choices": [
+      "limiting",
+      "limited",
+      "limitless",
+      "limits"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Limited to' is a passive expression showing a restriction."
+  },
+  {
+    "id": "p5-158",
+    "sentence": "The auditors found that all transactions were ___ recorded.",
+    "choices": [
+      "accurate",
+      "accuse",
+      "accurately",
+      "accuracy"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "An adverb modifies the past participle 'recorded'."
+  },
+  {
+    "id": "p5-159",
+    "sentence": "The monthly ___ lists all purchases made with the company credit card.",
+    "choices": [
+      "stature",
+      "statement",
+      "statue",
+      "statistic"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A 'statement' summarizes account activity."
+  },
+  {
+    "id": "p5-160",
+    "sentence": "Employees can ___ for tuition reimbursement after one year of service.",
+    "choices": [
+      "apart",
+      "appeal",
+      "apple",
+      "apply"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Apply for' is the standard collocation."
+  }
+]

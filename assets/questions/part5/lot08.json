@@ -1,0 +1,509 @@
+[
+  {
+    "id": "p5-280",
+    "sentence": "Ms. Lin finished the report by ___ before the deadline.",
+    "choices": [
+      "herself",
+      "she",
+      "hers",
+      "her"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A reflexive pronoun is needed after 'by' when the subject did the action alone."
+  },
+  {
+    "id": "p5-281",
+    "sentence": "The manager asked the staff to complete the forms ___.",
+    "choices": [
+      "themselves",
+      "their",
+      "them",
+      "theirs"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A reflexive pronoun emphasizes that the staff did it on their own."
+  },
+  {
+    "id": "p5-282",
+    "sentence": "All employees must bring ___ identification badges to the meeting.",
+    "choices": [
+      "theirs",
+      "them",
+      "they",
+      "their"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A possessive adjective is needed before the noun 'badges'."
+  },
+  {
+    "id": "p5-283",
+    "sentence": "Mr. Cole forgot his umbrella, so I lent him ___.",
+    "choices": [
+      "me",
+      "my",
+      "mine",
+      "myself"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A possessive pronoun replaces 'my umbrella'."
+  },
+  {
+    "id": "p5-284",
+    "sentence": "The two offices share ___ printer.",
+    "choices": [
+      "a",
+      "any",
+      "an",
+      "many"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Printer' is a singular countable noun beginning with a consonant sound, so 'a' is correct."
+  },
+  {
+    "id": "p5-285",
+    "sentence": "We received ___ applications for the receptionist position than we expected.",
+    "choices": [
+      "much",
+      "many",
+      "most",
+      "more"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'More ... than' is the comparative structure for countable plurals."
+  },
+  {
+    "id": "p5-286",
+    "sentence": "There is ___ information available on the company's Web site.",
+    "choices": [
+      "several",
+      "few",
+      "many",
+      "little"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Information' is uncountable, so 'little' is correct."
+  },
+  {
+    "id": "p5-287",
+    "sentence": "___ of the employees were present at the training session.",
+    "choices": [
+      "Mostly",
+      "Almost",
+      "Most",
+      "Much"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Most of the' + plural noun is correct."
+  },
+  {
+    "id": "p5-288",
+    "sentence": "___ the two proposals is acceptable to the committee.",
+    "choices": [
+      "None",
+      "Either",
+      "Both of",
+      "Neither of"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Neither of' + plural noun takes a singular verb here and shows both are rejected."
+  },
+  {
+    "id": "p5-289",
+    "sentence": "Every department has ___ own budget.",
+    "choices": [
+      "itself",
+      "its",
+      "it",
+      "it's"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Every department' is singular, so the possessive adjective 'its' is needed."
+  },
+  {
+    "id": "p5-290",
+    "sentence": "Please let us know if you have ___ questions about the schedule.",
+    "choices": [
+      "a few of",
+      "much",
+      "some of",
+      "any"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Any' is used in conditional clauses with plural nouns."
+  },
+  {
+    "id": "p5-291",
+    "sentence": "The shop sells ___ coffee and tea.",
+    "choices": [
+      "each",
+      "neither",
+      "every",
+      "both"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Both ... and' links the two items."
+  },
+  {
+    "id": "p5-292",
+    "sentence": "___ employee must wear a badge while in the building.",
+    "choices": [
+      "Most of",
+      "Every",
+      "Several",
+      "All"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Every' is followed by a singular noun."
+  },
+  {
+    "id": "p5-293",
+    "sentence": "We have ___ time left before the presentation starts.",
+    "choices": [
+      "few",
+      "little",
+      "many",
+      "several"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Time' is uncountable, so 'little' is correct."
+  },
+  {
+    "id": "p5-294",
+    "sentence": "Only a ___ seats remain for tonight's concert.",
+    "choices": [
+      "any",
+      "much",
+      "few",
+      "little"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Few' is used with plural countable nouns like 'seats'."
+  },
+  {
+    "id": "p5-295",
+    "sentence": "___ of the three candidates has the necessary experience.",
+    "choices": [
+      "Neither",
+      "None",
+      "Nobody",
+      "Nothing"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'None of' is used for three or more people; 'neither' is only for two."
+  },
+  {
+    "id": "p5-296",
+    "sentence": "The conference has attracted ___ people from over thirty countries.",
+    "choices": [
+      "a great deal",
+      "much",
+      "most of",
+      "many"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Many' is used with plural countable nouns."
+  },
+  {
+    "id": "p5-297",
+    "sentence": "Ms. Park invited ___ to her retirement party.",
+    "choices": [
+      "ourselves",
+      "we",
+      "us",
+      "our"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An object pronoun is needed after the verb 'invited'."
+  },
+  {
+    "id": "p5-298",
+    "sentence": "Mr. Gomez asked ___ to take over the project.",
+    "choices": [
+      "me",
+      "I",
+      "mine",
+      "my"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An object pronoun is needed after 'asked'."
+  },
+  {
+    "id": "p5-299",
+    "sentence": "___ is responsible for the new filing system?",
+    "choices": [
+      "Who",
+      "Whose",
+      "Which of",
+      "Whom"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Who' asks about the subject, a person."
+  },
+  {
+    "id": "p5-300",
+    "sentence": "The package was addressed to ___ and not to the department.",
+    "choices": [
+      "his",
+      "he",
+      "him",
+      "himself"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An object pronoun is needed after the preposition 'to'."
+  },
+  {
+    "id": "p5-301",
+    "sentence": "The new employees introduced ___ to the team.",
+    "choices": [
+      "theirs",
+      "their",
+      "themselves",
+      "them"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A reflexive pronoun is needed when subject and object are the same people."
+  },
+  {
+    "id": "p5-302",
+    "sentence": "Mr. Brown has two sisters, and ___ of them works at the bank.",
+    "choices": [
+      "few",
+      "any",
+      "one",
+      "many"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'One of them' is singular and agrees with 'works'."
+  },
+  {
+    "id": "p5-303",
+    "sentence": "The sales figures for April were higher than ___ for March.",
+    "choices": [
+      "that",
+      "these",
+      "those",
+      "them"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Those' replaces the plural 'sales figures'."
+  },
+  {
+    "id": "p5-304",
+    "sentence": "The price of this model is lower than ___ of the previous one.",
+    "choices": [
+      "those",
+      "it",
+      "that",
+      "what"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'That' replaces the singular noun 'the price'."
+  },
+  {
+    "id": "p5-305",
+    "sentence": "___ who wish to register should arrive before 9 A.M.",
+    "choices": [
+      "Them",
+      "Whose",
+      "Those",
+      "These of"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Those who' means people who."
+  },
+  {
+    "id": "p5-306",
+    "sentence": "Ms. Sato has two assistants, and ___ of them speaks Spanish.",
+    "choices": [
+      "all",
+      "every",
+      "both",
+      "each"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Each of them' takes a singular verb ('speaks')."
+  },
+  {
+    "id": "p5-307",
+    "sentence": "We have two candidates; ___ is from London, and the other is from Paris.",
+    "choices": [
+      "some",
+      "another",
+      "each other",
+      "one"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'One ... the other' contrasts two items."
+  },
+  {
+    "id": "p5-308",
+    "sentence": "Some employees prefer to work at home; ___ prefer the office.",
+    "choices": [
+      "other",
+      "the others of",
+      "others",
+      "another"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Others' is a pronoun for the rest of an indefinite group."
+  },
+  {
+    "id": "p5-309",
+    "sentence": "Mr. Wang has been with the firm longer than ___ else.",
+    "choices": [
+      "anyone",
+      "someone",
+      "every one",
+      "no one"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Anyone else' is used in a comparison after 'than'."
+  },
+  {
+    "id": "p5-310",
+    "sentence": "The tickets are ___ available online or at the door.",
+    "choices": [
+      "both",
+      "each",
+      "either",
+      "neither"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Either ... or' presents two alternatives; 'either' is needed here."
+  },
+  {
+    "id": "p5-311",
+    "sentence": "The company offers ___ health insurance and paid vacation.",
+    "choices": [
+      "either",
+      "both",
+      "neither of",
+      "each"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Both ... and' joins two benefits offered together."
+  },
+  {
+    "id": "p5-312",
+    "sentence": "Please return the form to ___ is in charge of your department.",
+    "choices": [
+      "whenever",
+      "whoever",
+      "whomever",
+      "whichever"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Whoever' is the subject of 'is in charge'."
+  },
+  {
+    "id": "p5-313",
+    "sentence": "The manager gave ___ employee a certificate of appreciation.",
+    "choices": [
+      "each",
+      "each of",
+      "every of",
+      "all"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Each' + singular noun is correct."
+  },
+  {
+    "id": "p5-314",
+    "sentence": "___ the supervisors attended the safety workshop.",
+    "choices": [
+      "Much",
+      "Every",
+      "All",
+      "Each"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'All' is followed directly by the plural noun phrase 'the supervisors'."
+  },
+  {
+    "id": "p5-315",
+    "sentence": "Employees can choose ___ of the three health plans.",
+    "choices": [
+      "much",
+      "most",
+      "any",
+      "every"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Any of the three' means whichever one they like."
+  },
+  {
+    "id": "p5-316",
+    "sentence": "The customer was unhappy because ___ of the items matched her order.",
+    "choices": [
+      "none",
+      "no",
+      "nothing",
+      "not"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'None of the items' is correct before 'of the'."
+  },
+  {
+    "id": "p5-317",
+    "sentence": "It was ___ who found the error in the contract.",
+    "choices": [
+      "she",
+      "herself",
+      "her",
+      "hers"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After the cleft 'It was', the subject pronoun 'she' is used in formal English."
+  },
+  {
+    "id": "p5-318",
+    "sentence": "The directors ___ approved the plan made no changes to it.",
+    "choices": [
+      "what",
+      "whose",
+      "who",
+      "whom"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Who' is the subject of 'approved' and refers to people."
+  }
+]

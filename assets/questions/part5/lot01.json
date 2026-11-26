@@ -1,0 +1,509 @@
+[
+  {
+    "id": "p5-001",
+    "sentence": "The company is looking for a ___ candidate to lead the marketing department.",
+    "choices": [
+      "qualified",
+      "qualifying",
+      "qualification",
+      "qualify"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'candidate'; 'qualified' means having the right skills."
+  },
+  {
+    "id": "p5-002",
+    "sentence": "Ms. Tanaka was ___ promoted to regional director after the merger.",
+    "choices": [
+      "recently",
+      "recency",
+      "recenter",
+      "recent"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies the verb 'was promoted'."
+  },
+  {
+    "id": "p5-003",
+    "sentence": "The new software has greatly improved the ___ of our payroll process.",
+    "choices": [
+      "accuracies",
+      "accurate",
+      "accuracy",
+      "accurately"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'the', a noun is needed, and the singular noun fits 'improved the ___ of'."
+  },
+  {
+    "id": "p5-004",
+    "sentence": "All applicants must ___ a résumé and two reference letters.",
+    "choices": [
+      "submitting",
+      "submitted",
+      "submission",
+      "submit"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "After 'must', the base form of the verb is needed."
+  },
+  {
+    "id": "p5-005",
+    "sentence": "Mr. Lopez is an ___ manager who always meets his deadlines.",
+    "choices": [
+      "efficiency",
+      "efficiently",
+      "efficiencies",
+      "efficient"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adjective is needed to describe the noun 'manager'."
+  },
+  {
+    "id": "p5-006",
+    "sentence": "The ___ of the new training program will begin next Tuesday.",
+    "choices": [
+      "implementing",
+      "implemented",
+      "implementation",
+      "implement"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'the', a noun is needed, and 'of the new training program' follows it."
+  },
+  {
+    "id": "p5-007",
+    "sentence": "Our customer service team responds to complaints ___.",
+    "choices": [
+      "promptness",
+      "promptly",
+      "prompt",
+      "prompted"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adverb is needed to modify the verb 'responds'."
+  },
+  {
+    "id": "p5-008",
+    "sentence": "Staff members are ___ to attend the safety briefing on Friday.",
+    "choices": [
+      "require",
+      "requiring",
+      "requirement",
+      "required"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Are required to' is a passive structure followed by an infinitive."
+  },
+  {
+    "id": "p5-009",
+    "sentence": "The committee will make a ___ decision about the budget next week.",
+    "choices": [
+      "finality",
+      "final",
+      "finally",
+      "finalize"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'decision'."
+  },
+  {
+    "id": "p5-010",
+    "sentence": "Interns are expected to work ___ with the senior engineers.",
+    "choices": [
+      "close",
+      "closely",
+      "closeness",
+      "closing"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adverb is needed after the verb 'work'."
+  },
+  {
+    "id": "p5-011",
+    "sentence": "The ___ period for the sales position closes at the end of the month.",
+    "choices": [
+      "applying",
+      "application",
+      "applied",
+      "applicant"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'The application period/process' idea: 'application' (a noun for a process) fits; an 'applicant' is a person and cannot close."
+  },
+  {
+    "id": "p5-012",
+    "sentence": "Mr. Evans was praised for his ___ to the project.",
+    "choices": [
+      "dedication",
+      "dedicate",
+      "dedicating",
+      "dedicated"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After the possessive 'his', a noun is needed."
+  },
+  {
+    "id": "p5-013",
+    "sentence": "The firm offers ___ salaries to attract skilled engineers.",
+    "choices": [
+      "competitive",
+      "competitively",
+      "compete",
+      "competition"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the plural noun 'salaries'."
+  },
+  {
+    "id": "p5-014",
+    "sentence": "We are pleased to announce that the factory will ___ production next month.",
+    "choices": [
+      "resumed",
+      "resuming",
+      "resumption",
+      "resume"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "After 'will', the base form of the verb is needed."
+  },
+  {
+    "id": "p5-015",
+    "sentence": "Ms. Cho gave a very ___ presentation to the board of directors.",
+    "choices": [
+      "convincing",
+      "convincingly",
+      "convinced",
+      "convince"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adjective is needed after 'very' and before 'presentation'; 'convincing' describes the presentation."
+  },
+  {
+    "id": "p5-016",
+    "sentence": "Employees who are ___ with the new schedule can speak to their supervisor.",
+    "choices": [
+      "dissatisfying",
+      "dissatisfaction",
+      "dissatisfy",
+      "dissatisfied"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "After 'are', a participial adjective describing people is needed: 'dissatisfied'."
+  },
+  {
+    "id": "p5-017",
+    "sentence": "The manager asked for a detailed ___ of the quarterly expenses.",
+    "choices": [
+      "analytical",
+      "analysis",
+      "analytically",
+      "analyze"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After the adjective 'detailed', a noun is needed."
+  },
+  {
+    "id": "p5-018",
+    "sentence": "Please read the instructions ___ before you assemble the cabinet.",
+    "choices": [
+      "cared",
+      "careful",
+      "care",
+      "carefully"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adverb is needed after the verb phrase 'read the instructions'."
+  },
+  {
+    "id": "p5-019",
+    "sentence": "The company's ___ growth has attracted many new investors.",
+    "choices": [
+      "rapidly",
+      "rapid",
+      "rapidity",
+      "rapids"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'growth'."
+  },
+  {
+    "id": "p5-020",
+    "sentence": "Mr. Kim is ___ for approving all travel requests.",
+    "choices": [
+      "responsibility",
+      "responsible",
+      "responsibilities",
+      "responsibly"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'is', an adjective is needed: 'responsible for'."
+  },
+  {
+    "id": "p5-021",
+    "sentence": "The ___ of the old computer system took three weeks.",
+    "choices": [
+      "replaceable",
+      "replacement",
+      "replaced",
+      "replace"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'the', a noun is needed; 'replacement of' names the action."
+  },
+  {
+    "id": "p5-022",
+    "sentence": "The seminar will be ___ useful to new managers.",
+    "choices": [
+      "especially",
+      "specialty",
+      "especial",
+      "special"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb is needed before the adjective 'useful'."
+  },
+  {
+    "id": "p5-023",
+    "sentence": "Ms. Dubois is widely ___ as an expert in international trade law.",
+    "choices": [
+      "regarded",
+      "regards",
+      "regarding",
+      "regard"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Is regarded as' is a passive construction that needs a past participle."
+  },
+  {
+    "id": "p5-024",
+    "sentence": "Our ___ goal this year is to reduce shipping costs.",
+    "choices": [
+      "prime",
+      "primarily",
+      "primary",
+      "primacy"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'goal'; 'primary' means main."
+  },
+  {
+    "id": "p5-025",
+    "sentence": "The training session was ___ attended by staff from every branch.",
+    "choices": [
+      "best",
+      "well",
+      "good",
+      "goodly"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Well attended' uses the adverb 'well' with a past participle."
+  },
+  {
+    "id": "p5-026",
+    "sentence": "To ensure ___, all visitors must sign in at the front desk.",
+    "choices": [
+      "securely",
+      "secure",
+      "securing",
+      "security"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "After 'ensure', a noun is needed as the object: 'security'."
+  },
+  {
+    "id": "p5-027",
+    "sentence": "The supplier delivered the order ___ than expected.",
+    "choices": [
+      "soonest",
+      "soonness",
+      "sooner",
+      "soon"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A comparative form is needed because of 'than expected'."
+  },
+  {
+    "id": "p5-028",
+    "sentence": "Mr. Rossi's ___ in the field made him the obvious choice for the job.",
+    "choices": [
+      "experiencing",
+      "experience",
+      "experiential",
+      "experienced"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After the possessive 'Mr. Rossi's', a noun is needed, and 'experience' is uncountable here."
+  },
+  {
+    "id": "p5-029",
+    "sentence": "Ms. Garcia is considered the most ___ designer on our team.",
+    "choices": [
+      "creatively",
+      "creation",
+      "create",
+      "creative"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adjective is needed after 'the most' to describe the noun 'designer'."
+  },
+  {
+    "id": "p5-030",
+    "sentence": "The two companies reached an ___ after months of negotiation.",
+    "choices": [
+      "agreeable",
+      "agree",
+      "agreement",
+      "agreeing"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After the article 'an', a noun is needed."
+  },
+  {
+    "id": "p5-031",
+    "sentence": "Delays in shipping were ___ caused by bad weather.",
+    "choices": [
+      "main",
+      "mains",
+      "mainly",
+      "mainstay"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adverb is needed between 'were' and the past participle 'caused'."
+  },
+  {
+    "id": "p5-032",
+    "sentence": "The workshop offers a ___ introduction to project management.",
+    "choices": [
+      "comprehensive",
+      "comprehension",
+      "comprehensively",
+      "comprehend"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'introduction'."
+  },
+  {
+    "id": "p5-033",
+    "sentence": "Because of the ___ in demand, the factory hired fifty more workers.",
+    "choices": [
+      "increasingly",
+      "increased",
+      "increase",
+      "increasing"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'the', a noun is needed; 'the increase in demand' is the standard phrase."
+  },
+  {
+    "id": "p5-034",
+    "sentence": "The store manager was ___ to learn that sales had doubled.",
+    "choices": [
+      "delight",
+      "delighting",
+      "delighted",
+      "delightfully"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A participial adjective describing a person's feeling is needed: 'delighted'."
+  },
+  {
+    "id": "p5-035",
+    "sentence": "Please notify us ___ if your address changes.",
+    "choices": [
+      "immediacy",
+      "immediateness",
+      "immediate",
+      "immediately"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adverb is needed to modify the verb 'notify'."
+  },
+  {
+    "id": "p5-036",
+    "sentence": "The ___ of the building will be completed by the end of June.",
+    "choices": [
+      "renovation",
+      "renovating",
+      "renovate",
+      "renovated"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'the', a noun is needed, and 'of the building' follows it."
+  },
+  {
+    "id": "p5-037",
+    "sentence": "Our company values ___ communication between departments.",
+    "choices": [
+      "openness",
+      "openly",
+      "opening",
+      "open"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'communication'."
+  },
+  {
+    "id": "p5-038",
+    "sentence": "Applicants should have a ___ understanding of financial reporting.",
+    "choices": [
+      "thoroughfare",
+      "thoroughly",
+      "thorough",
+      "thoroughness"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'understanding'."
+  },
+  {
+    "id": "p5-039",
+    "sentence": "The new policy applies ___ to all full-time employees.",
+    "choices": [
+      "equality",
+      "equal",
+      "equals",
+      "equally"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adverb is needed to modify the verb 'applies'."
+  }
+]

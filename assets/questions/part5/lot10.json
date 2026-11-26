@@ -1,0 +1,509 @@
+[
+  {
+    "id": "p5-358",
+    "sentence": "Guests should ___ their rooms by 11 A.M. on the day of departure.",
+    "choices": [
+      "vacation",
+      "validate",
+      "vaccinate",
+      "vacate"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Vacate' means to leave a room or building."
+  },
+  {
+    "id": "p5-359",
+    "sentence": "The hotel offers a ___ breakfast to all guests.",
+    "choices": [
+      "complimentary",
+      "complicated",
+      "compliant",
+      "complementary"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Complimentary' means free of charge."
+  },
+  {
+    "id": "p5-360",
+    "sentence": "We would like to ___ a table for six at eight o'clock.",
+    "choices": [
+      "reveal",
+      "reserve",
+      "reverse",
+      "resume"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Reserve a table' means to book one."
+  },
+  {
+    "id": "p5-361",
+    "sentence": "The flight was ___ due to bad weather.",
+    "choices": [
+      "delayed",
+      "delivered",
+      "declined",
+      "deleted"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Delayed' means happening later than planned."
+  },
+  {
+    "id": "p5-362",
+    "sentence": "Travelers must present a valid ___ at airport security.",
+    "choices": [
+      "passport",
+      "pastime",
+      "passenger",
+      "passage"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "A 'passport' is the official travel document."
+  },
+  {
+    "id": "p5-363",
+    "sentence": "The conference ___ desk will provide you with a name badge and a program.",
+    "choices": [
+      "registered",
+      "registrar",
+      "registration",
+      "registering"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Registration desk' is the standard noun phrase for the sign-in point."
+  },
+  {
+    "id": "p5-364",
+    "sentence": "All ___ must be made at least forty-eight hours in advance.",
+    "choices": [
+      "cancelled",
+      "cancelers",
+      "cancellations",
+      "cancel"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Cancellations' is the plural noun that fits 'All ___ must be made'."
+  },
+  {
+    "id": "p5-365",
+    "sentence": "The hotel is ___ located near the airport and the convention center.",
+    "choices": [
+      "convenience",
+      "convening",
+      "convenient",
+      "conveniently"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "An adverb is needed to modify the participle 'located'."
+  },
+  {
+    "id": "p5-366",
+    "sentence": "Our tour guide will ___ you of any changes to the schedule.",
+    "choices": [
+      "information",
+      "informal",
+      "informer",
+      "inform"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Inform someone of' is a verb structure."
+  },
+  {
+    "id": "p5-367",
+    "sentence": "The ___ for the trip includes meals but not airfare.",
+    "choices": [
+      "price",
+      "prise",
+      "prize",
+      "priest"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Price' is the amount charged."
+  },
+  {
+    "id": "p5-368",
+    "sentence": "Please keep your boarding pass ___ you reach the destination.",
+    "choices": [
+      "during",
+      "while",
+      "since",
+      "until"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Until' shows how long you should keep it."
+  },
+  {
+    "id": "p5-369",
+    "sentence": "The company will ___ all travel expenses incurred during the conference.",
+    "choices": [
+      "reinforce",
+      "reimburse",
+      "release",
+      "rehearse"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Reimburse' means to pay back."
+  },
+  {
+    "id": "p5-370",
+    "sentence": "Business-class passengers may ___ the airline's executive lounge.",
+    "choices": [
+      "access",
+      "assert",
+      "excess",
+      "assess"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Access' as a verb means to enter or use."
+  },
+  {
+    "id": "p5-371",
+    "sentence": "The hotel's ___ includes a pool, a gym and a business center.",
+    "choices": [
+      "facilitators",
+      "faculties",
+      "facilities",
+      "fixtures"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Facilities' are services and equipment available."
+  },
+  {
+    "id": "p5-372",
+    "sentence": "Visitors to the museum are ___ to take photographs without a flash.",
+    "choices": [
+      "permission",
+      "permitting",
+      "permitted",
+      "permit"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Are permitted to' is the passive structure."
+  },
+  {
+    "id": "p5-373",
+    "sentence": "Our shuttle bus runs ___ every thirty minutes between the hotel and the station.",
+    "choices": [
+      "regular",
+      "regularly",
+      "regulate",
+      "regularity"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "An adverb modifies the verb 'runs'."
+  },
+  {
+    "id": "p5-374",
+    "sentence": "The ___ of the event has been moved to the Garden Room.",
+    "choices": [
+      "locate",
+      "locally",
+      "location",
+      "local"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A noun is needed after 'the', and 'location of the event' is standard."
+  },
+  {
+    "id": "p5-375",
+    "sentence": "Participants are ___ to arrive fifteen minutes before the session.",
+    "choices": [
+      "adviser",
+      "advising",
+      "advised",
+      "advice"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Are advised to' is the passive structure meaning recommended."
+  },
+  {
+    "id": "p5-376",
+    "sentence": "We regret that the ___ room is no longer available at that rate.",
+    "choices": [
+      "doubtful",
+      "doubly",
+      "doublet",
+      "double"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Double room' is a standard hotel phrase."
+  },
+  {
+    "id": "p5-377",
+    "sentence": "The itinerary ___ visits to three historic sites.",
+    "choices": [
+      "incurs",
+      "incites",
+      "includes",
+      "inclines"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Includes' means contains as a part."
+  },
+  {
+    "id": "p5-378",
+    "sentence": "The restaurant requires ___ for parties of more than eight.",
+    "choices": [
+      "reservists",
+      "reserves",
+      "reservoirs",
+      "reservations"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Reservations' means bookings."
+  },
+  {
+    "id": "p5-379",
+    "sentence": "After a long delay, the flight finally ___ at midnight.",
+    "choices": [
+      "landed",
+      "lacked",
+      "lauded",
+      "latched"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Landed' means touched down."
+  },
+  {
+    "id": "p5-380",
+    "sentence": "The lodge is surrounded by ___ scenery that attracts many photographers.",
+    "choices": [
+      "spectator",
+      "speculative",
+      "spectacular",
+      "specialty"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Spectacular' means impressive to look at."
+  },
+  {
+    "id": "p5-381",
+    "sentence": "The luggage was ___ at the baggage claim area.",
+    "choices": [
+      "unclaims",
+      "unclaim",
+      "unclaiming",
+      "unclaimed"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Unclaimed' is a participial adjective meaning not taken by its owner."
+  },
+  {
+    "id": "p5-382",
+    "sentence": "Guests may extend their stay ___ prior notice to the front desk.",
+    "choices": [
+      "at",
+      "by",
+      "with",
+      "of"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'With prior notice' is a fixed expression."
+  },
+  {
+    "id": "p5-383",
+    "sentence": "The ticket is ___ and cannot be exchanged for another date.",
+    "choices": [
+      "nonresident",
+      "nonreligious",
+      "nonrefundable",
+      "nonreflective"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Nonrefundable' means money cannot be returned."
+  },
+  {
+    "id": "p5-384",
+    "sentence": "The organizers expect about five hundred ___ at the trade fair.",
+    "choices": [
+      "attendants",
+      "attendees",
+      "attending",
+      "attendance on"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Attendees' are people present at an event."
+  },
+  {
+    "id": "p5-385",
+    "sentence": "The shuttle will ___ passengers at Terminal 2.",
+    "choices": [
+      "drop off",
+      "drop out",
+      "drop in",
+      "drop on"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Drop off' means to let someone out at a destination."
+  },
+  {
+    "id": "p5-386",
+    "sentence": "The company chartered a bus to ___ employees to the retreat.",
+    "choices": [
+      "transit",
+      "transact",
+      "transport",
+      "transfer of"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Transport' means to carry people from place to place."
+  },
+  {
+    "id": "p5-387",
+    "sentence": "The hotel staff did their best to make our stay ___.",
+    "choices": [
+      "pleasant",
+      "pleasantness",
+      "pleasure",
+      "pleasantly"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Make + object + adjective' needs 'pleasant'."
+  },
+  {
+    "id": "p5-388",
+    "sentence": "Please ___ your seat belt until the sign is turned off.",
+    "choices": [
+      "fasting",
+      "fatten",
+      "fasten",
+      "fast"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Fasten a seat belt' is the standard phrase."
+  },
+  {
+    "id": "p5-389",
+    "sentence": "Our agency specializes ___ customized tours for business travelers.",
+    "choices": [
+      "at",
+      "in",
+      "for",
+      "on"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Specialize in' is the standard collocation."
+  },
+  {
+    "id": "p5-390",
+    "sentence": "The ___ will begin at 7 P.M. with a welcome speech from the director.",
+    "choices": [
+      "banker",
+      "banner",
+      "banquet",
+      "bandit"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A 'banquet' is a formal dinner event."
+  },
+  {
+    "id": "p5-391",
+    "sentence": "Visitors may choose between a guided tour and a ___ walk through the gardens.",
+    "choices": [
+      "self-guidance",
+      "self-guide",
+      "self-guiding",
+      "self-guided"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Self-guided' is a compound adjective for a tour without a guide."
+  },
+  {
+    "id": "p5-392",
+    "sentence": "The ___ will be announced at the closing ceremony tomorrow.",
+    "choices": [
+      "wins",
+      "wining",
+      "winners",
+      "wineries"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Winners' fits the announcement of results."
+  },
+  {
+    "id": "p5-393",
+    "sentence": "The resort's popularity peaks ___ the summer months.",
+    "choices": [
+      "beside",
+      "during",
+      "among",
+      "along"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'During' is used with a period of time."
+  },
+  {
+    "id": "p5-394",
+    "sentence": "The agency will ___ you with a full refund if the tour is canceled.",
+    "choices": [
+      "prosper",
+      "provide",
+      "prohibit",
+      "provoke"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Provide someone with' is the standard structure."
+  },
+  {
+    "id": "p5-395",
+    "sentence": "The airline will give priority ___ to families with small children.",
+    "choices": [
+      "boards of",
+      "board",
+      "boarding",
+      "boarded"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Priority boarding' is a standard noun phrase."
+  },
+  {
+    "id": "p5-396",
+    "sentence": "The exhibition ___ many visitors from overseas every year.",
+    "choices": [
+      "draft",
+      "draws",
+      "drags",
+      "drains"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Draws visitors' means attracts them."
+  }
+]

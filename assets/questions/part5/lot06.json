@@ -1,0 +1,509 @@
+[
+  {
+    "id": "p5-202",
+    "sentence": "The ___ campaign will target young professionals in major cities.",
+    "choices": [
+      "advertise",
+      "advertising",
+      "advertisement of",
+      "advertised by"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Advertising campaign' is the standard noun phrase."
+  },
+  {
+    "id": "p5-203",
+    "sentence": "Our sales representatives will ___ the new product at the trade show.",
+    "choices": [
+      "deliberate",
+      "determine",
+      "decorate",
+      "demonstrate"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Demonstrate' means to show how something works."
+  },
+  {
+    "id": "p5-204",
+    "sentence": "The survey results will help us ___ customer preferences.",
+    "choices": [
+      "idle",
+      "identity",
+      "identify",
+      "ideal"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Identify' means to recognize and name."
+  },
+  {
+    "id": "p5-205",
+    "sentence": "Customers may return any item that does not ___ their expectations.",
+    "choices": [
+      "fill",
+      "match to",
+      "meet",
+      "reach to"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Meet expectations' is the standard collocation."
+  },
+  {
+    "id": "p5-206",
+    "sentence": "The store is offering a limited-time ___ on all winter coats.",
+    "choices": [
+      "promotional of",
+      "promoter",
+      "promotion",
+      "promote"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A noun is needed after 'a limited-time'."
+  },
+  {
+    "id": "p5-207",
+    "sentence": "Ms. Torres was ___ for her outstanding customer service.",
+    "choices": [
+      "commended",
+      "committed",
+      "commanded",
+      "commented"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Commended for' means praised for."
+  },
+  {
+    "id": "p5-208",
+    "sentence": "We value your ___, so please complete the online questionnaire.",
+    "choices": [
+      "feedback",
+      "feature",
+      "feeble",
+      "feeding"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Feedback' means opinions about a product or service."
+  },
+  {
+    "id": "p5-209",
+    "sentence": "The company hopes to ___ its market share in Southeast Asia.",
+    "choices": [
+      "explain",
+      "expand",
+      "extend to",
+      "expire"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Expand market share' means to make it larger."
+  },
+  {
+    "id": "p5-210",
+    "sentence": "The new brochure highlights the main ___ of our latest model.",
+    "choices": [
+      "failures",
+      "features",
+      "fortunes",
+      "fixtures"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Features' are notable characteristics of a product."
+  },
+  {
+    "id": "p5-211",
+    "sentence": "To ___ customer loyalty, the store introduced a points program.",
+    "choices": [
+      "enclose",
+      "enable of",
+      "endure",
+      "encourage"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Encourage loyalty' means to promote it."
+  },
+  {
+    "id": "p5-212",
+    "sentence": "Sales of the new smartphone have exceeded all ___.",
+    "choices": [
+      "expectations",
+      "expressions",
+      "expeditions",
+      "exceptions"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Exceeded expectations' is a standard collocation."
+  },
+  {
+    "id": "p5-213",
+    "sentence": "The marketing team is ___ a survey to gather customer opinions.",
+    "choices": [
+      "conducted",
+      "conducting",
+      "conducing",
+      "conductor"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Conduct a survey' means to carry one out; the progressive form needs 'conducting'."
+  },
+  {
+    "id": "p5-214",
+    "sentence": "This offer is ___ to new customers only.",
+    "choices": [
+      "restriction",
+      "restrict",
+      "restricted",
+      "restricting"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Restricted to' means limited to."
+  },
+  {
+    "id": "p5-215",
+    "sentence": "We guarantee ___ delivery within two days of your order.",
+    "choices": [
+      "promptly",
+      "prompt",
+      "promptness",
+      "prompting"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "An adjective is needed before the noun 'delivery'."
+  },
+  {
+    "id": "p5-216",
+    "sentence": "The shop is well known for its wide ___ of imported cheeses.",
+    "choices": [
+      "selective",
+      "selected",
+      "select",
+      "selection"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'A wide selection of' means a large variety."
+  },
+  {
+    "id": "p5-217",
+    "sentence": "Customers who sign up before June 30 will ___ a free gift.",
+    "choices": [
+      "receive",
+      "reflect",
+      "reserve",
+      "resolve"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Receive a gift' is the natural collocation."
+  },
+  {
+    "id": "p5-218",
+    "sentence": "The ___ of our products is checked by a team of inspectors.",
+    "choices": [
+      "quality",
+      "quantify",
+      "qualify",
+      "quarrel"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Quality' is what is inspected; 'quality of products' is standard."
+  },
+  {
+    "id": "p5-219",
+    "sentence": "The cosmetics firm launched an ___ range of organic skin-care products.",
+    "choices": [
+      "extension",
+      "extend",
+      "expensively",
+      "extensive"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Extensive' means wide in scope, and an adjective is needed before 'range'."
+  },
+  {
+    "id": "p5-220",
+    "sentence": "Please allow ten days for the order to ___.",
+    "choices": [
+      "arrive",
+      "array",
+      "arise",
+      "arrange"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Arrive' fits an order reaching the customer."
+  },
+  {
+    "id": "p5-221",
+    "sentence": "The restaurant's popularity ___ after it was reviewed in a national newspaper.",
+    "choices": [
+      "soaked",
+      "soared",
+      "soured",
+      "sorted"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Soared' means rose sharply."
+  },
+  {
+    "id": "p5-222",
+    "sentence": "We apologize for the ___ and will refund the full price.",
+    "choices": [
+      "incidence",
+      "inconsistency",
+      "incompetence",
+      "inconvenience"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'We apologize for the inconvenience' is a standard phrase."
+  },
+  {
+    "id": "p5-223",
+    "sentence": "A satisfied customer is more ___ to recommend our services to friends.",
+    "choices": [
+      "likely",
+      "likeness",
+      "liked",
+      "likable"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Be likely to' + verb means probable."
+  },
+  {
+    "id": "p5-224",
+    "sentence": "The company ___ a loyal customer base over many years.",
+    "choices": [
+      "built",
+      "has build",
+      "built up of",
+      "building"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "The simple past 'built' fits with a direct object; the other options are not grammatical here."
+  },
+  {
+    "id": "p5-225",
+    "sentence": "The coupon is ___ for use until the end of the year.",
+    "choices": [
+      "vacant",
+      "valid",
+      "vital",
+      "vague"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Valid' means legally acceptable or usable."
+  },
+  {
+    "id": "p5-226",
+    "sentence": "Our store provides free ___ for all furniture purchases.",
+    "choices": [
+      "assembled",
+      "assembly",
+      "assembling of",
+      "assemble"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Assembly' is a noun for putting together; 'free assembly' is a standard offer."
+  },
+  {
+    "id": "p5-227",
+    "sentence": "The new ad shows the product in a ___ light.",
+    "choices": [
+      "favorable",
+      "favoritism",
+      "favored",
+      "favoring"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'In a favorable light' is a fixed expression."
+  },
+  {
+    "id": "p5-228",
+    "sentence": "The company launched a ___ to attract more online customers.",
+    "choices": [
+      "campaign",
+      "cancel",
+      "campus",
+      "canvas"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "A 'campaign' is a planned set of marketing activities."
+  },
+  {
+    "id": "p5-229",
+    "sentence": "Representatives are available to ___ any questions about your order.",
+    "choices": [
+      "answer",
+      "reply",
+      "respond",
+      "answer to"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Answer' takes a direct object ('questions') without a preposition."
+  },
+  {
+    "id": "p5-230",
+    "sentence": "Customer complaints are ___ handled by our support department.",
+    "choices": [
+      "prompt",
+      "promptly",
+      "prompted",
+      "prompts"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "An adverb is needed before the past participle 'handled'."
+  },
+  {
+    "id": "p5-231",
+    "sentence": "The mall's new tenants will ___ more shoppers to the area.",
+    "choices": [
+      "attempt",
+      "attract",
+      "attend",
+      "attach"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Attract shoppers' means to draw them in."
+  },
+  {
+    "id": "p5-232",
+    "sentence": "A well-known actor will ___ our new line of sports shoes.",
+    "choices": [
+      "endure",
+      "engage in",
+      "enroll",
+      "endorse"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Endorse a product' means to publicly support it for promotion."
+  },
+  {
+    "id": "p5-233",
+    "sentence": "Sales ___ at the store have increased since the new manager arrived.",
+    "choices": [
+      "figures",
+      "figurines",
+      "figured",
+      "figuring"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Sales figures' is a standard noun phrase."
+  },
+  {
+    "id": "p5-234",
+    "sentence": "Our product is ___ to last for at least ten years.",
+    "choices": [
+      "design",
+      "designed",
+      "designer",
+      "designing"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Is designed to' means intended or built to."
+  },
+  {
+    "id": "p5-235",
+    "sentence": "Orders placed after 5 P.M. will be ___ the next business day.",
+    "choices": [
+      "processed",
+      "produced",
+      "pursued",
+      "proceeded"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Orders are 'processed', meaning handled administratively."
+  },
+  {
+    "id": "p5-236",
+    "sentence": "The brand's ___ image has helped it win a loyal following.",
+    "choices": [
+      "distinguish",
+      "distinction",
+      "distinctive",
+      "distinctively"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "An adjective is needed before 'image'; 'distinctive' means unique and recognizable."
+  },
+  {
+    "id": "p5-237",
+    "sentence": "The retailer plans to ___ an online store next spring.",
+    "choices": [
+      "laugh",
+      "lunch",
+      "lurch",
+      "launch"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Launch a store' means to start it."
+  },
+  {
+    "id": "p5-238",
+    "sentence": "Because of ___ demand, the product is currently out of stock.",
+    "choices": [
+      "heighten",
+      "highly",
+      "height",
+      "high"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "An adjective is needed before the noun 'demand'."
+  },
+  {
+    "id": "p5-239",
+    "sentence": "Those who purchase a laptop will ___ a free carrying case.",
+    "choices": [
+      "be given",
+      "have given",
+      "give",
+      "gift to"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Be given' is the passive form that fits 'will' + a free item."
+  },
+  {
+    "id": "p5-240",
+    "sentence": "The store clerk was ___ to help us find the right size.",
+    "choices": [
+      "happen",
+      "happily",
+      "happy",
+      "happiness"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Was happy to' is a standard adjective + infinitive structure."
+  }
+]

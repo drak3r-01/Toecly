@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p5-081",
+    "sentence": "Ms. Hart ___ the report by the time the meeting starts.",
+    "choices": [
+      "finished",
+      "has finish",
+      "will have finished",
+      "is finishing"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'By the time' with a future event calls for the future perfect."
+  },
+  {
+    "id": "p5-082",
+    "sentence": "The board ___ the proposal yesterday afternoon.",
+    "choices": [
+      "approves",
+      "will approve",
+      "approved",
+      "has approved"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Yesterday afternoon' is a finished past time, so the simple past is needed."
+  },
+  {
+    "id": "p5-083",
+    "sentence": "Our team ___ on this project since last March.",
+    "choices": [
+      "works",
+      "worked",
+      "has been working",
+      "is working"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Since last March' calls for the present perfect (continuous)."
+  },
+  {
+    "id": "p5-084",
+    "sentence": "If the shipment arrives late, we ___ the customer immediately.",
+    "choices": [
+      "would have notified",
+      "notifying",
+      "will notify",
+      "notified"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "First conditional: 'if' + present simple, then 'will' + base form."
+  },
+  {
+    "id": "p5-085",
+    "sentence": "If Mr. Dean had checked the schedule, he ___ the train.",
+    "choices": [
+      "will not miss",
+      "does not miss",
+      "would not miss",
+      "would not have missed"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Third conditional: 'had' + past participle, then 'would have' + past participle."
+  },
+  {
+    "id": "p5-086",
+    "sentence": "The new menu ___ in the restaurant next week.",
+    "choices": [
+      "is introducing",
+      "introduces",
+      "will be introduced",
+      "will introduce"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "The subject 'menu' receives the action, so the passive is needed."
+  },
+  {
+    "id": "p5-087",
+    "sentence": "The accounting department ___ all invoices every Friday.",
+    "choices": [
+      "processes",
+      "processing",
+      "process",
+      "is process"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "Singular subject with a routine action: simple present with -es."
+  },
+  {
+    "id": "p5-088",
+    "sentence": "Each of the employees ___ required to wear an identification badge.",
+    "choices": [
+      "were being",
+      "have been",
+      "is",
+      "are"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Each of' takes a singular verb."
+  },
+  {
+    "id": "p5-089",
+    "sentence": "The results of the survey ___ surprising to the entire team.",
+    "choices": [
+      "is being",
+      "were",
+      "has",
+      "was"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The plural subject 'results' takes a plural verb; the past fits the context."
+  },
+  {
+    "id": "p5-090",
+    "sentence": "Neither the manager nor the assistants ___ aware of the change.",
+    "choices": [
+      "were",
+      "was",
+      "is",
+      "has been"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "With 'neither ... nor', the verb agrees with the nearer subject, 'assistants'."
+  },
+  {
+    "id": "p5-091",
+    "sentence": "Mr. Fox ___ in the Tokyo office when the fire alarm went off.",
+    "choices": [
+      "has worked",
+      "works",
+      "was working",
+      "will work"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "Past continuous describes an action in progress when another event interrupted."
+  },
+  {
+    "id": "p5-092",
+    "sentence": "By next June, the company ___ twenty years in business.",
+    "choices": [
+      "has completed",
+      "is completing",
+      "will have completed",
+      "completes"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'By next June' calls for the future perfect."
+  },
+  {
+    "id": "p5-093",
+    "sentence": "The assistant ___ the documents when the printer stopped working.",
+    "choices": [
+      "will copy",
+      "had copy",
+      "copies",
+      "was copying"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Past continuous for an action interrupted by a past event."
+  },
+  {
+    "id": "p5-094",
+    "sentence": "All applicants ___ contacted by e-mail within two weeks.",
+    "choices": [
+      "are being",
+      "will be",
+      "have",
+      "will"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The passive future 'will be contacted' is needed after the subject 'applicants'."
+  },
+  {
+    "id": "p5-095",
+    "sentence": "We ___ the contract yet, so please do not announce the deal.",
+    "choices": [
+      "did not sign",
+      "have not signed",
+      "do not sign",
+      "were not signing"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Yet' goes with the present perfect."
+  },
+  {
+    "id": "p5-096",
+    "sentence": "Ms. Park ___ the keynote speech at last year's convention.",
+    "choices": [
+      "delivers",
+      "will deliver",
+      "has delivered",
+      "delivered"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Last year's convention' is a finished past time: simple past."
+  },
+  {
+    "id": "p5-097",
+    "sentence": "The printer ___ whenever the paper runs out.",
+    "choices": [
+      "stopping",
+      "to stop",
+      "stop",
+      "stops"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Singular subject with a general truth: simple present with -s."
+  },
+  {
+    "id": "p5-098",
+    "sentence": "I would appreciate it if you ___ me the revised schedule today.",
+    "choices": [
+      "sending",
+      "could send",
+      "have send",
+      "to send"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A polite request after 'would appreciate it if' uses 'could'."
+  },
+  {
+    "id": "p5-099",
+    "sentence": "The factory ___ since the equipment failure on Monday.",
+    "choices": [
+      "was closing",
+      "is closing",
+      "has been closed",
+      "closes"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Since Monday' needs the present perfect passive."
+  },
+  {
+    "id": "p5-100",
+    "sentence": "Customers ___ to fill out the satisfaction survey before leaving.",
+    "choices": [
+      "have ask",
+      "asking",
+      "ask",
+      "are asked"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Customers receive the action, so the passive is needed."
+  },
+  {
+    "id": "p5-101",
+    "sentence": "Having reviewed the budget, the director ___ to approve the project.",
+    "choices": [
+      "is decide",
+      "to decide",
+      "decided",
+      "deciding"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "The main verb of the sentence needs a finite past form."
+  },
+  {
+    "id": "p5-102",
+    "sentence": "Ms. Vega ___ in sales for five years before she became a manager.",
+    "choices": [
+      "is working",
+      "has worked",
+      "had worked",
+      "works"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "Past perfect shows an action completed before another past action."
+  },
+  {
+    "id": "p5-103",
+    "sentence": "We ___ you to attend the training session on Thursday.",
+    "choices": [
+      "to encourage",
+      "encourage",
+      "encouraging",
+      "are encourage"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After the subject 'We', a finite verb is needed."
+  },
+  {
+    "id": "p5-104",
+    "sentence": "The technician told us that the problem ___ easy to fix.",
+    "choices": [
+      "is being",
+      "will be",
+      "has been",
+      "was"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "In reported speech after 'told', the verb moves back to the past."
+  },
+  {
+    "id": "p5-105",
+    "sentence": "Anyone who ___ to join the club should contact Ms. Abbott.",
+    "choices": [
+      "wishes",
+      "to wish",
+      "wishing",
+      "wish"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Anyone' is singular, so the verb takes -es."
+  },
+  {
+    "id": "p5-106",
+    "sentence": "The cost of the repairs ___ higher than we expected.",
+    "choices": [
+      "have been",
+      "were",
+      "was",
+      "are being"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "The singular subject 'cost' takes a singular verb."
+  },
+  {
+    "id": "p5-107",
+    "sentence": "Once the inspection ___, the plant will reopen.",
+    "choices": [
+      "will complete",
+      "completes",
+      "is completed",
+      "has complete"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'once' a present tense is used for the future, and the inspection receives the action."
+  },
+  {
+    "id": "p5-108",
+    "sentence": "The delegates, along with their interpreter, ___ arrived at the airport.",
+    "choices": [
+      "was having",
+      "have",
+      "is",
+      "has"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The plural subject 'delegates' takes 'have' ('along with' does not change the subject)."
+  },
+  {
+    "id": "p5-109",
+    "sentence": "Mr. Singh ___ his own coffee every morning at 8 A.M.",
+    "choices": [
+      "making",
+      "has make",
+      "make",
+      "makes"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Habitual action with a singular subject: simple present with -s."
+  },
+  {
+    "id": "p5-110",
+    "sentence": "The documents ___ to the client by courier yesterday.",
+    "choices": [
+      "have sent",
+      "were sent",
+      "sent",
+      "are sending"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The documents receive the action and the time is finished: simple past passive."
+  },
+  {
+    "id": "p5-111",
+    "sentence": "While the team ___ the problem, the customers waited patiently.",
+    "choices": [
+      "was solving",
+      "will solve",
+      "has solved",
+      "solves"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "Past continuous matches the past 'waited' and an ongoing action."
+  },
+  {
+    "id": "p5-112",
+    "sentence": "Ms. Moreau ___ the company since it was founded in 2008.",
+    "choices": [
+      "has led",
+      "leads",
+      "led",
+      "is leading"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Since' with a past starting point calls for the present perfect."
+  },
+  {
+    "id": "p5-113",
+    "sentence": "The shop ___ more customers if it had extended its opening hours.",
+    "choices": [
+      "would attract",
+      "attracts",
+      "would have attracted",
+      "will attract"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "Third conditional: 'had extended' needs 'would have' + participle."
+  },
+  {
+    "id": "p5-114",
+    "sentence": "The lecture was so long that several guests ___ asleep.",
+    "choices": [
+      "falling",
+      "have fallen",
+      "fall",
+      "fell"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A completed past result after 'so ... that' takes the simple past."
+  },
+  {
+    "id": "p5-115",
+    "sentence": "It is essential that every employee ___ the safety manual.",
+    "choices": [
+      "reads",
+      "read",
+      "has read to",
+      "reading"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'it is essential that', the subjunctive uses the base form."
+  },
+  {
+    "id": "p5-116",
+    "sentence": "Our supervisor suggested that the meeting ___ until Friday.",
+    "choices": [
+      "postpones",
+      "was postponing",
+      "is postponed",
+      "be postponed"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "After 'suggested that', the subjunctive uses 'be' + past participle."
+  },
+  {
+    "id": "p5-117",
+    "sentence": "The employees ___ for the delay in the payroll system by next week.",
+    "choices": [
+      "will compensate",
+      "compensates",
+      "will be compensated",
+      "are compensate"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "The employees receive the compensation: passive future."
+  },
+  {
+    "id": "p5-118",
+    "sentence": "Mr. Oda ___ to the airport right now to pick up the clients.",
+    "choices": [
+      "is driving",
+      "drives",
+      "has driven",
+      "drove"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Right now' calls for the present continuous."
+  },
+  {
+    "id": "p5-119",
+    "sentence": "Please remember ___ the lights before you leave the office.",
+    "choices": [
+      "turn off",
+      "turned off",
+      "to turn off",
+      "turning off"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Remember to' + base verb refers to something that must be done."
+  },
+  {
+    "id": "p5-120",
+    "sentence": "Ms. Lee regrets ___ you that the position has been filled.",
+    "choices": [
+      "informed",
+      "inform",
+      "to have inform",
+      "to inform"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Regret to inform' is a formal fixed expression for announcing bad news."
+  }
+]
