@@ -84,4 +84,21 @@ void main() {
     final found = await repository.findByQuestionIds(['p6-0#1', 'p6-0#3', 'p5-2', 'ghost']);
     expect(found.map((e) => e.id), unorderedEquals(['p6-0', 'p5-2']));
   });
+
+  group('drawForReview', () {
+    test('only brings exercises that hold a missed question, without duplicates', () async {
+      final repository = repositoryOf(fakeFullStock());
+      final drawn = await repository.drawForReview(['p5-1', 'p5-2', 'p6-0#2', 'ghost'], 10);
+      expect(drawn.map((e) => e.id), unorderedEquals(['p5-1', 'p5-2', 'p6-0']));
+    });
+
+    test('stays within the budget but never comes back empty', () async {
+      final repository = repositoryOf(fakeFullStock());
+      final ids = ['p5-1', 'p5-2', 'p5-3', 'p5-4', 'p5-5'];
+      expect(await repository.drawForReview(ids, 3), hasLength(3));
+      // A Part 6 exercise has 4 questions: bigger than the budget, still returned.
+      expect(await repository.drawForReview(['p6-0#1'], 2), hasLength(1));
+      expect(await repository.drawForReview(const [], 5), isEmpty);
+    });
+  });
 }

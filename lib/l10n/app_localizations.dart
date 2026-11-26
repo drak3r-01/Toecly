@@ -619,6 +619,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Done'**
   String get examBackToExam;
+
+  /// No description provided for @reviewNothing.
+  ///
+  /// In en, this message translates to:
+  /// **'No missed question to review. Well done!'**
+  String get reviewNothing;
+
+  /// No description provided for @reviewMissedCount.
+  ///
+  /// In en, this message translates to:
+  /// **'Questions to review: {count}'**
+  String reviewMissedCount(int count);
 }
 
 class _AppLocalizationsDelegate

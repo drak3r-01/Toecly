@@ -30,6 +30,15 @@ GoRouter createAppRouter() {
         ),
       ),
       GoRoute(
+        path: ReviewScreen.sessionPath,
+        pageBuilder: (context, state) => fadeSlidePage(
+          state: state,
+          child: ReviewSessionScreen(
+            questionCount: int.tryParse(state.uri.queryParameters['count'] ?? '') ?? 10,
+          ),
+        ),
+      ),
+      GoRoute(
         path: ExamScreen.path,
         pageBuilder: (context, state) => fadeSlidePage(state: state, child: const ExamScreen()),
       ),

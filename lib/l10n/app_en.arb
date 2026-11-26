@@ -171,5 +171,14 @@
   "examFilterAll": "All",
   "examFilterMistakes": "Mistakes",
   "examNotAnswered": "Not answered",
-  "examBackToExam": "Done"
+  "examBackToExam": "Done",
+  "reviewNothing": "No missed question to review. Well done!",
+  "reviewMissedCount": "Questions to review: {count}",
+  "@reviewMissedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
 }

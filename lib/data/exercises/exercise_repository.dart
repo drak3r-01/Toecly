@@ -67,4 +67,21 @@ class ExerciseRepository {
     final wanted = questionIds.toSet();
     return (await _all()).where((e) => e.questions.any((q) => wanted.contains(q.id))).toList();
   }
+
+  /// Draws exercises holding the given missed questions, in random order, up to
+  /// about [questionCount] questions. An exercise comes whole, so a Part 6/7
+  /// exercise may bring along questions that were not missed. Always returns
+  /// something when there is something to review, even if the first exercise
+  /// alone exceeds [questionCount].
+  Future<List<Exercise>> drawForReview(Iterable<String> questionIds, int questionCount) async {
+    final pool = (await findByQuestionIds(questionIds))..shuffle(_random);
+    final drawn = <Exercise>[];
+    var total = 0;
+    for (final exercise in pool) {
+      if (drawn.isNotEmpty && total + exercise.questions.length > questionCount) continue;
+      drawn.add(exercise);
+      total += exercise.questions.length;
+    }
+    return drawn;
+  }
 }
