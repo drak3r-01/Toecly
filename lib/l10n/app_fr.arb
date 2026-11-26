@@ -98,8 +98,6 @@
   "categoryPurpose": "Objectif",
   "categoryNotTrue": "Faux (NOT)",
   "categoryVocabularyInContext": "Vocabulaire en contexte",
-  "quickStartTitle": "Démarrage rapide",
-  "quickStartHint": "10 questions au hasard, avec correction immédiate.",
   "quizQuestionCounter": "Question {current} / {total}",
   "@quizQuestionCounter": {
     "placeholders": {
@@ -140,5 +138,7 @@
   "quizBackToPractice": "Retour à l'entraînement",
   "quizEmpty": "Aucune question disponible pour cette sélection.",
   "quizLoadError": "Impossible de charger les questions.",
-  "quickStartAllParts": "Toutes les parties"
+  "practicePartsLabel": "Parties",
+  "practiceCountLabel": "Nombre de questions",
+  "practiceStart": "Commencer"
 }

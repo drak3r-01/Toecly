@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../data/exercises/exercise_asset_loader.dart';
 import '../data/exercises/exercise_repository.dart';
 import '../data/exercises/models.dart';
+import '../data/quiz/answer_recorder.dart';
 import '../data/quiz/quiz_request.dart';
 import '../data/storage/local_store.dart';
 import '../data/storage/missed_questions_repository.dart';
@@ -31,4 +32,12 @@ final quizDrawProvider = FutureProvider.autoDispose.family<List<Exercise>, QuizR
         parts: request.parts.toSet(),
         questionCount: request.questionCount,
       ),
+);
+
+final answerRecorderProvider = Provider(
+  (ref) => AnswerRecorder(
+    stats: ref.watch(partStatsProvider),
+    missed: ref.watch(missedQuestionsProvider),
+    history: ref.watch(sessionHistoryProvider),
+  ),
 );

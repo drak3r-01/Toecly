@@ -422,18 +422,6 @@ abstract class AppLocalizations {
   /// **'Vocabulary in context'**
   String get categoryVocabularyInContext;
 
-  /// No description provided for @quickStartTitle.
-  ///
-  /// In en, this message translates to:
-  /// **'Quick start'**
-  String get quickStartTitle;
-
-  /// No description provided for @quickStartHint.
-  ///
-  /// In en, this message translates to:
-  /// **'10 random questions with immediate correction.'**
-  String get quickStartHint;
-
   /// No description provided for @quizQuestionCounter.
   ///
   /// In en, this message translates to:
@@ -512,11 +500,23 @@ abstract class AppLocalizations {
   /// **'The questions could not be loaded.'**
   String get quizLoadError;
 
-  /// No description provided for @quickStartAllParts.
+  /// No description provided for @practicePartsLabel.
   ///
   /// In en, this message translates to:
-  /// **'All parts'**
-  String get quickStartAllParts;
+  /// **'Parts'**
+  String get practicePartsLabel;
+
+  /// No description provided for @practiceCountLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Number of questions'**
+  String get practiceCountLabel;
+
+  /// No description provided for @practiceStart.
+  ///
+  /// In en, this message translates to:
+  /// **'Start'**
+  String get practiceStart;
 }
 
 class _AppLocalizationsDelegate
