@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-121",
+    "documentType": "schedule",
+    "text": "Walking Tour – Old Town Highlights\n\nOur two-hour tour begins at the main square at 10 a.m. and ends at the cathedral. [1] Guides will lead you through narrow streets, historic markets, and the city's oldest library. The tour [2] light walking, so comfortable shoes are recommended. Children under six join for free, [3] older children must pay half price. In case of heavy rain, the tour will be [4] to the following day.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cathedral was damaged in a fire.",
+          "Souvenirs are sold at the airport.",
+          "Taxi fares are regulated by the city.",
+          "No reservation is necessary for groups of fewer than ten people."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence gives practical information about the tour before the route is described."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "invites",
+          "invests",
+          "involves",
+          "invents"
+        ],
+        "answerIndex": 2,
+        "explanation": "A tour 'involves' walking, meaning it includes it."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "whereas",
+          "so"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence contrasts the price for younger and older children."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "postponing",
+          "postpone",
+          "postpones",
+          "postponed"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive 'will be postponed' is needed."
+      }
+    ]
+  },
+  {
+    "id": "p6-122",
+    "documentType": "letter",
+    "text": "Dear Mr. Fraser,\n\nThank you for contacting Brightwave Appliances about your washing machine. We are sorry that the unit stopped working after only eight months. [1] Since the product is still under warranty, we will repair or replace it at no cost to you. A technician will visit your home between 9 a.m. and noon on Wednesday, [2] you must be present to let him in. Please have the proof of purchase [3] when he arrives. Should the problem not be resolved, we will [4] you with a new machine.\n\nSincerely,\nCustomer Care Team",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our factory is located in Ohio.",
+          "Washing machines are available in three sizes.",
+          "Our offices will be closed next Monday.",
+          "We understand how inconvenient this must be for you."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence shows sympathy before the solution is offered."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "because",
+          "although",
+          "so",
+          "unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "The technician's visit has a consequence: someone must be present."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "readily",
+          "ready",
+          "readiness",
+          "readied"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adjective is needed after the object 'proof of purchase'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "provision",
+          "provider",
+          "provided",
+          "provide"
+        ],
+        "answerIndex": 3,
+        "explanation": "After 'will', the base form is needed; 'provide ... with' is the construction."
+      }
+    ]
+  },
+  {
+    "id": "p6-123",
+    "documentType": "article",
+    "text": "Housing Market Cools as Interest Rates Rise\n\nHome sales fell for the third consecutive month in October, [1] to figures released on Monday by the National Realtors Association. Sales of existing homes dropped 4 percent, while the median price rose only 1 percent. [2] Analysts believe that higher borrowing costs have discouraged many first-time buyers. Some economists expect the market to [3] by spring if rates stabilize. Meanwhile, builders [4] fewer new houses than they did a year ago.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "accordingly",
+          "according",
+          "accorded",
+          "accordance"
+        ],
+        "answerIndex": 1,
+        "explanation": "'According to' introduces a source of information."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The slowdown is most noticeable in suburban areas.",
+          "Rental prices have been stable in the city center.",
+          "The association was founded in 1908.",
+          "Many people prefer to live near the coast."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence comments on the decline and precedes the explanation given by analysts."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "reserve",
+          "recover",
+          "remove",
+          "resist"
+        ],
+        "answerIndex": 1,
+        "explanation": "A market 'recovers' when it improves after a decline."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "builds",
+          "are building",
+          "building",
+          "to build"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Meanwhile' with the plural subject 'builders' requires the present continuous."
+      }
+    ]
+  },
+  {
+    "id": "p6-124",
+    "documentType": "email",
+    "text": "Dear all,\n\nWe are pleased to announce a series of customer service workshops, which will [1] on the first Wednesday of each month beginning in February. [2] Each workshop lasts two hours and focuses on a different skill, such as handling complaints or [3] with difficult customers. Participation is voluntary, but staff members who attend all six sessions will [4] a certificate of achievement. To sign up, please reply to this e-mail.\n\nBest regards,\nTraining Department",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "take part",
+          "take over",
+          "take place",
+          "take on"
+        ],
+        "answerIndex": 2,
+        "explanation": "Events 'take place', meaning they happen."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The company cafeteria has a new chef.",
+          "Parking spaces are assigned each year.",
+          "The sessions are open to employees from all departments.",
+          "The annual report will be printed in April."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence introduces who can join, before the details of each workshop."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "deal",
+          "dealt",
+          "dealing",
+          "deals"
+        ],
+        "answerIndex": 2,
+        "explanation": "A gerund parallel to 'handling' is needed."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "learn",
+          "yearn",
+          "earn",
+          "burn"
+        ],
+        "answerIndex": 2,
+        "explanation": "One 'earns' a certificate, meaning one gets it through effort."
+      }
+    ]
+  },
+  {
+    "id": "p6-125",
+    "documentType": "memo",
+    "text": "MEMO\nTo: All employees\nFrom: IT Department\nSubject: New expense system\n\nOn July 1, the company will replace its current expense system with a new online platform called ExpenseEase. [1] The new platform allows employees to photograph receipts with their phones and [2] them directly to the finance team. Reports that used to take hours can now be completed in minutes. Training videos will be [3] on the intranet starting next week. [4] you have any difficulty, the help desk will be happy to assist you.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The finance team works on the fifth floor.",
+          "Business travel has increased this year.",
+          "All past reports will be transferred automatically.",
+          "The help desk is closed on weekends."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence concerns the switch to the new system, before its features are described."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "submission",
+          "submitted",
+          "submits",
+          "submit"
+        ],
+        "answerIndex": 3,
+        "explanation": "A base form parallel to 'photograph' is needed."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "posting",
+          "post",
+          "posts",
+          "posted"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive 'will be posted' is needed."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Should",
+          "Whether",
+          "Unless",
+          "Since"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Should you have' is a formal inversion meaning 'If you have'."
+      }
+    ]
+  },
+  {
+    "id": "p6-126",
+    "documentType": "advertisement",
+    "text": "Grand Opening – The Daily Grind Café\n\nJoin us this Saturday for the grand opening of The Daily Grind Café at 45 Park Avenue! We serve freshly roasted coffee, homemade pastries, and light lunches [1] with locally grown ingredients. [2] The first fifty customers will receive a free drink of their choice. Our spacious seating area is perfect for meetings, studying, or simply [3] with friends. We are open every day from 7 a.m. to 7 p.m., [4] free Wi-Fi throughout.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "made",
+          "making",
+          "make",
+          "makes"
+        ],
+        "answerIndex": 0,
+        "explanation": "The past participle 'made' modifies 'lunches'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The café is located near the bank.",
+          "Coffee prices have risen this year.",
+          "Our staff will attend a training course.",
+          "Live music will be performed from 10 a.m. to noon."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence adds an opening-day attraction, before the offer for the first customers."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "relaxing",
+          "relax",
+          "relaxed",
+          "relaxation"
+        ],
+        "answerIndex": 0,
+        "explanation": "A gerund parallel to 'meetings' and 'studying' is needed."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "by",
+          "of",
+          "from",
+          "with"
+        ],
+        "answerIndex": 3,
+        "explanation": "'With free Wi-Fi' lists an extra feature."
+      }
+    ]
+  },
+  {
+    "id": "p6-127",
+    "documentType": "email",
+    "text": "Dear Dr. Ibrahim,\n\nThank you for agreeing to be a speaker at the Global Health Forum in Vienna on September 9. [1] We would like to confirm that your session, titled Digital Tools in Patient Care, is scheduled for 2 p.m. in Hall B. Your presentation should last thirty minutes, [2] by fifteen minutes of questions. We will [3] your travel and accommodation, as agreed. Could you please send us your slides by August 25 so that we can [4] them in the conference materials?\n\nWarm regards,\nElena Petrova, Forum Organizer",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Vienna is a popular tourist destination.",
+          "The forum was canceled last year.",
+          "We are honored to welcome you to this year's event.",
+          "Our offices are closed in August."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence expresses thanks, followed by the confirmation of the session."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "following",
+          "follows",
+          "follow",
+          "followed"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Followed by' describes the order of the presentation and the questions."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "cover",
+          "discover",
+          "recover",
+          "uncover"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Cover' means to pay for expenses."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "conclude",
+          "include",
+          "exclude",
+          "preclude"
+        ],
+        "answerIndex": 1,
+        "explanation": "Slides are 'included' in the conference materials."
+      }
+    ]
+  },
+  {
+    "id": "p6-128",
+    "documentType": "notice",
+    "text": "Visiting Hours – St. Anne's Hospital\n\nTo help patients rest and recover, visiting hours are from 2 p.m. to 8 p.m. daily. [1] No more than two visitors are [2] in a patient room at the same time. Children under twelve must be accompanied by an adult. Flowers are not permitted in intensive care, [3] some patients are sensitive to strong smells. All visitors are asked to wash their hands both [4] and after their visit.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The hospital cafeteria is open until 7 p.m.",
+          "These hours apply to all wards except the maternity unit.",
+          "Parking fees will increase in January.",
+          "Doctors are available for consultations by appointment."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence qualifies the visiting hours and precedes the limit on visitors."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "allowing",
+          "allow",
+          "allowed",
+          "allows"
+        ],
+        "answerIndex": 2,
+        "explanation": "The passive 'are allowed' is needed."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "although",
+          "unless",
+          "whereas",
+          "because"
+        ],
+        "answerIndex": 3,
+        "explanation": "The ban on flowers is explained by patients' sensitivity."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "since",
+          "toward",
+          "before",
+          "among"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Both before and after' is the fixed correlative."
+      }
+    ]
+  }
+]
