@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-049",
+    "documentType": "letter",
+    "text": "Dear Mr. Cho,\n\nI enjoyed meeting you at the trade fair in Seoul last month. As we discussed, Orion Textiles would like to [1] a long-term supply agreement with your company. [2] We believe that combining your design expertise with our manufacturing capacity would [3] benefit both parties. I would be happy to visit your office [4] is convenient for you.\n\nBest regards,\nAnna Fischer",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "oppose",
+          "compose",
+          "expose",
+          "propose"
+        ],
+        "answerIndex": 3,
+        "explanation": "One 'proposes' an agreement, meaning one suggests it."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The trade fair was held at the new exhibition hall.",
+          "Your office is located on the fifth floor.",
+          "Our fabrics are already used by several leading fashion brands.",
+          "Seoul is a popular tourist destination."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence supports the proposal by presenting the sender's strengths."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "great",
+          "greatly",
+          "greater",
+          "greatness"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adverb is needed to modify the verb 'benefit'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "whoever",
+          "whichever",
+          "however",
+          "whenever"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Whenever is convenient for you' lets the other person choose the time."
+      }
+    ]
+  },
+  {
+    "id": "p6-050",
+    "documentType": "notice",
+    "text": "COMMUNITY NOTICE\n\nThe Oakdale Neighborhood Association invites all residents to join our annual spring cleanup on Saturday, April 19. Volunteers will meet at the community center at 8 a.m. [1] Gloves, trash bags, and refreshments will be [2]. Participants are encouraged to wear comfortable clothes and sturdy shoes. [3] it rains, the event will be moved to the following Saturday. For more information, [4] Rachel Kim at 555-0116.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Teams will be assigned to different areas of the park.",
+          "The community center was built in 1985.",
+          "Property taxes are due at the end of the month.",
+          "The mayor will attend the opening ceremony of the library."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence describes the organization of the cleanup, followed by the supplies available."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "provide",
+          "provided",
+          "providing",
+          "provision"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive 'will be provided' is needed."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "If",
+          "Unless",
+          "Because",
+          "Although"
+        ],
+        "answerIndex": 0,
+        "explanation": "The move to the next Saturday depends on the condition of rain."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "contract",
+          "contact",
+          "contest",
+          "contend"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Contact' is the verb meaning to call or write to someone."
+      }
+    ]
+  },
+  {
+    "id": "p6-051",
+    "documentType": "article",
+    "text": "Rail Travel on the Rise\n\nA recent survey shows that more commuters are choosing trains over cars. The National Rail Association reports that ridership [1] by 8 percent over the past year. [2] Experts attribute the trend to rising fuel prices and the introduction of faster services. Many passengers also appreciate being able to work during the journey, [3] is not possible while driving. To meet the growing demand, the association plans to add 40 new carriages [4] the end of next year.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "will increase",
+          "is increased",
+          "would increased",
+          "has increased"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Over the past year' requires the present perfect."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The association was founded in 1950.",
+          "The growth is the strongest the industry has seen in a decade.",
+          "The new stadium will open in the spring.",
+          "Taxi fares will be reduced next month."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence comments on the increase and precedes the explanation given by experts."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "where",
+          "which"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Which' refers to the whole idea of working during the journey."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "until",
+          "at",
+          "for",
+          "by"
+        ],
+        "answerIndex": 3,
+        "explanation": "'By the end of next year' sets the deadline."
+      }
+    ]
+  },
+  {
+    "id": "p6-052",
+    "documentType": "email",
+    "text": "Dear Ms. Ortega,\n\nI am writing to apply for the Graphic Designer position advertised on your Web site. For the past five years, I have worked at Pixel Studio, [1] I have designed brochures, logos, and packaging for more than forty clients. [2] I am confident that my creative skills would be an asset to your team. I have enclosed my portfolio and résumé for your [3]. I am available for an interview [4] any time that suits you.\n\nSincerely,\nJonas Weber",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "which",
+          "when",
+          "who",
+          "where"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Where' refers to the place (Pixel Studio) in which the work was done."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "I am particularly interested in your recent work for the city's tourism board.",
+          "Pixel Studio is moving to a new building in May.",
+          "Your Web site was last updated in March.",
+          "The weather in Madrid is usually mild."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence expresses interest in the company and leads to the claim about the applicant's skills."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "consider",
+          "consideration",
+          "considerate",
+          "considering"
+        ],
+        "answerIndex": 1,
+        "explanation": "A noun is needed after 'your': 'for your consideration'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "on",
+          "in",
+          "by"
+        ],
+        "answerIndex": 0,
+        "explanation": "'At any time' is the fixed expression."
+      }
+    ]
+  },
+  {
+    "id": "p6-053",
+    "documentType": "form",
+    "text": "Guest Information – Checkout\n\nCheckout time is 11 a.m. Guests who wish to [1] their stay may request a late checkout at the front desk, [2] to availability. [3] Luggage can be stored free of charge in the lobby until 6 p.m. Please return your room key card to the reception desk [4] leaving the hotel. Thank you for staying with us!",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "extent",
+          "extension",
+          "extend",
+          "extending"
+        ],
+        "answerIndex": 2,
+        "explanation": "One 'extends' a stay, meaning one makes it longer."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "subjected",
+          "subjecting",
+          "subjection",
+          "subject"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Subject to availability' is a fixed expression."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "A free shuttle to the airport leaves every thirty minutes.",
+          "Rooms are cleaned between 9 a.m. and 2 p.m.",
+          "Our restaurant has received an award.",
+          "The swimming pool is open all year."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence gives useful information to departing guests, like the luggage storage that follows."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "before",
+          "since",
+          "while"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Before leaving' indicates that the key card must be returned first."
+      }
+    ]
+  },
+  {
+    "id": "p6-054",
+    "documentType": "memo",
+    "text": "MEMO\nTo: New hires\nFrom: Training Coordinator\nSubject: Orientation week\n\nWelcome to Marlowe & Sons! Your orientation will [1] on Monday, March 10, at 8:30 a.m. in the main lobby. [2] During the first week, you will meet your team, [3] your equipment, and complete the required safety training. Please bring two forms of identification [4] your first day.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "began",
+          "beginning",
+          "begins",
+          "begin"
+        ],
+        "answerIndex": 3,
+        "explanation": "After 'will', the base form is used."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cafeteria menu changes every week.",
+          "Please arrive ten minutes early to receive your visitor badge.",
+          "Annual leave requests must be approved by a manager.",
+          "The company's earnings rose last year."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence gives a practical instruction for the first morning."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "receiving",
+          "receive",
+          "received",
+          "receives"
+        ],
+        "answerIndex": 1,
+        "explanation": "A base form parallel to 'meet' and 'complete' is needed."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "on",
+          "in",
+          "to"
+        ],
+        "answerIndex": 1,
+        "explanation": "'On your first day' uses 'on' with a specific day."
+      }
+    ]
+  },
+  {
+    "id": "p6-055",
+    "documentType": "review",
+    "text": "★★★☆☆ Convenient but noisy\n\nI stayed at the Central Inn for three nights while attending a conference. The location is [1]: the hotel is just five minutes from the convention center. The staff were friendly and [2], and the room was clean. [3] The street outside is very busy, and I could hear traffic all night. If you are a light sleeper, I suggest asking for a room on a [4] floor.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "conveniently",
+          "convenience",
+          "convene",
+          "convenient"
+        ],
+        "answerIndex": 3,
+        "explanation": "An adjective is needed after the verb 'is'."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "helpfully",
+          "helpful",
+          "help",
+          "helpless"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adjective parallel to 'friendly' is needed."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "Fortunately, the room was extremely quiet.",
+          "As a result, I slept very well.",
+          "Besides, I plan to visit again next year.",
+          "Unfortunately, the room was not very quiet."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence introduces the complaint developed in the following sentence."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "highly",
+          "higher",
+          "highest",
+          "height"
+        ],
+        "answerIndex": 1,
+        "explanation": "The comparative adjective suits advice to get a room away from street noise."
+      }
+    ]
+  },
+  {
+    "id": "p6-056",
+    "documentType": "letter",
+    "text": "Dear Mr. Santos,\n\nThank you for submitting your claim regarding the water damage to your home. After carefully [1] the documents you provided, we have approved your claim in full. [2] A check for $3,400 will be mailed to your address within ten business days. Please [3] that this amount covers repairs only and does not include the cost of replacing personal belongings. If you [4] to file a separate claim for those items, please call us at 555-0135.\n\nSincerely,\nHelen Park, Claims Department",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "reviewed",
+          "reviewing",
+          "review",
+          "reviews"
+        ],
+        "answerIndex": 1,
+        "explanation": "After a preposition ('After'), a gerund is used."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "We are currently hiring claims adjusters.",
+          "You do not need to take any further action at this time.",
+          "Our office will close for the holidays on December 24.",
+          "Water damage is a common problem in older buildings."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence follows the approval and precedes the details of payment."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "noting",
+          "noted",
+          "note",
+          "notes"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'Please', the base form is used."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "wishes",
+          "wishing",
+          "wished",
+          "wish"
+        ],
+        "answerIndex": 3,
+        "explanation": "After 'If you', the base form 'wish' is used."
+      }
+    ]
+  }
+]
