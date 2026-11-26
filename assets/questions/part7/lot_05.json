@@ -61,10 +61,10 @@
         "prompt": "Why was the e-mail sent to Mr. Walsh?",
         "category": "purpose",
         "choices": [
-          "To request payment of a bill",
-          "To announce a new dentist",
+          "To request payment of an unpaid bill",
+          "To announce the arrival of a new dentist",
           "To remind him of an upcoming appointment",
-          "To offer a discount"
+          "To offer a discount on cleanings"
         ],
         "answerIndex": 2,
         "explanation": "The e-mail reminds him of his October 8 appointment."
@@ -193,10 +193,10 @@
         "prompt": "What problem occurred at breakfast?",
         "category": "detail",
         "choices": [
-          "The prices were too high",
-          "The restaurant was closed",
+          "The prices were higher than expected",
+          "The restaurant was closed in the morning",
           "Dishes were not refilled and some were cold",
-          "The service was too slow"
+          "The service was too slow at the table"
         ],
         "answerIndex": 2,
         "explanation": "The comment says the buffet was not refilled after 9 a.m. and some dishes were cold."
@@ -289,9 +289,9 @@
         "prompt": "Why are attendees advised to register early?",
         "category": "inference",
         "choices": [
-          "Tickets cost more later",
-          "Parking is scarce",
-          "The topics may change",
+          "Tickets will cost more at the door",
+          "Parking near the community room is scarce",
+          "The topics may change before each session",
           "Space at each session is limited"
         ],
         "answerIndex": 3,
@@ -302,9 +302,9 @@
         "category": "detail",
         "choices": [
           "By attending all three sessions",
-          "By registering online",
-          "By opening an account",
-          "By bringing a friend"
+          "By registering online before October 3",
+          "By opening an account at the credit union",
+          "By bringing a friend to a session"
         ],
         "answerIndex": 0,
         "explanation": "Attendees at all three sessions are entered into the drawing."
@@ -335,10 +335,10 @@
         "prompt": "What change does Mr. Mori suggest?",
         "category": "detail",
         "choices": [
-          "Skipping the packaging line",
-          "Starting at 10 a.m.",
+          "Skipping the packaging line tour altogether",
+          "Starting the visit at 10 a.m. instead of 9",
           "Swapping the laboratory visit and the sales meeting",
-          "Moving the visit to another day"
+          "Moving the visit to another day of the week"
         ],
         "answerIndex": 2,
         "explanation": "The laboratory is unavailable before noon, so it is swapped with the 1:30 meeting."
@@ -412,10 +412,10 @@
         "prompt": "Why was the letter written?",
         "category": "purpose",
         "choices": [
-          "To deny a claim",
+          "To deny a claim for water damage",
           "To explain the next steps of an insurance claim",
           "To raise the cost of a policy",
-          "To request payment of a bill"
+          "To request payment of an unpaid bill"
         ],
         "answerIndex": 1,
         "explanation": "It sets an inspection visit and asks for a form."
@@ -501,9 +501,9 @@
         "prompt": "What does the reviewer say about the class size?",
         "category": "detail",
         "choices": [
-          "It was too crowded",
-          "It limited the menu",
-          "It raised the price",
+          "It made the classes too crowded",
+          "It limited the choice of menu",
+          "It raised the price of the course",
           "It allowed personal feedback"
         ],
         "answerIndex": 3,
@@ -525,10 +525,10 @@
         "prompt": "What happens if a student cancels five days before the first class?",
         "category": "inference",
         "choices": [
-          "A full refund is issued",
+          "A full refund is issued to the student",
           "A credit toward a future class is given",
-          "Nothing is returned",
-          "A fee of $290 is charged"
+          "Nothing is returned to the student",
+          "A fee of $290 is charged to the student"
         ],
         "answerIndex": 1,
         "explanation": "Cancellations less than 7 days ahead receive a credit."

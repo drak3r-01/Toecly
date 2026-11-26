@@ -157,9 +157,9 @@
         "prompt": "What is the article mainly about?",
         "category": "main_idea",
         "choices": [
-          "A drop in downtown traffic",
-          "A mayor's resignation",
-          "An increase in parking fees",
+          "A drop in downtown traffic since last year",
+          "The resignation of the city's mayor",
+          "An increase in downtown parking fees",
           "A city's plan to start a bicycle rental service"
         ],
         "answerIndex": 3,
@@ -302,9 +302,9 @@
         "category": "inference",
         "choices": [
           "Ask Mr. Dunn about a later meeting time",
-          "Start the presentation",
-          "Drive out to meet Mr. Hart",
-          "Send the slides to Mr. Hart"
+          "Start the presentation without Mr. Hart",
+          "Drive out on the highway to meet Mr. Hart",
+          "Send the slides to Mr. Hart by e-mail"
         ],
         "answerIndex": 0,
         "explanation": "She agrees to ask whether the meeting can be moved to 10."
@@ -371,9 +371,9 @@
         "prompt": "Why can't Ms. Reed move in on July 25?",
         "category": "detail",
         "choices": [
-          "Her lease starts later",
-          "The apartment needs repairs",
-          "Mr. Ito will be away",
+          "Her current lease begins on a later date",
+          "The apartment needs repairs before anyone moves in",
+          "Mr. Ito will be traveling until the end of July",
           "The current tenant is still living there"
         ],
         "answerIndex": 3,
@@ -383,10 +383,10 @@
         "prompt": "What does Mr. Ito offer Ms. Reed?",
         "category": "detail",
         "choices": [
-          "To lower the rent for a year",
+          "To lower the monthly rent for the first year",
           "To waive a deposit if she signs on Saturday",
-          "To include parking for free",
-          "To allow a larger pet"
+          "To include a parking space for free",
+          "To allow a larger pet in the building"
         ],
         "answerIndex": 1,
         "explanation": "He will waive the $200 pet deposit if she signs the lease on Saturday."
@@ -460,10 +460,10 @@
         "prompt": "What do Mr. Mercer and Ms. Chen agree on?",
         "category": "inference",
         "choices": [
-          "The budget cut is fair",
-          "Weekday hours should be reduced",
+          "The cut in the cultural budget is fair",
+          "Weekday hours should be reduced as well",
           "Children's programs and digital services are valuable",
-          "The council meeting should be canceled"
+          "The council meeting should be canceled soon"
         ],
         "answerIndex": 2,
         "explanation": "Both mention that children's programs and digital services are important."
@@ -583,10 +583,10 @@
         "prompt": "Why was Ms. Ishida charged $178.50?",
         "category": "inference",
         "choices": [
-          "She rented a laptop",
-          "She registered for two courses",
+          "She rented a laptop from the college",
+          "She registered for two courses at once",
           "She lives in Greenfield and received a discount",
-          "The course price increased"
+          "The course price increased after March 12"
         ],
         "answerIndex": 2,
         "explanation": "The $210 course price minus 15 percent for residents is $178.50."

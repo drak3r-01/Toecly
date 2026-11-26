@@ -13,10 +13,10 @@
         "prompt": "Why did Lucia write to Mr. Kim?",
         "category": "purpose",
         "choices": [
-          "To confirm a menu choice",
+          "To confirm his menu choice for Saturday",
           "To tell him that his reservation cannot be kept",
-          "To ask for a payment",
-          "To invite him to an event"
+          "To ask him for a payment in advance",
+          "To invite him to a special event"
         ],
         "answerIndex": 1,
         "explanation": "She explains that the restaurant must move his Saturday reservation."
@@ -182,9 +182,9 @@
         "category": "inference",
         "choices": [
           "It has more than one passenger elevator",
-          "It has no other elevator",
-          "It has fewer than 15 floors",
-          "It is closed on Saturdays"
+          "It has no other elevator in operation",
+          "It has fewer than 15 floors in total",
+          "It is closed to tenants on Saturdays"
         ],
         "answerIndex": 0,
         "explanation": "The west elevator will remain available while the east elevator is inspected."
@@ -230,9 +230,9 @@
         "category": "inference",
         "choices": [
           "They wanted a candidate from outside the company",
-          "The share price fell",
-          "Mr. Hale is retiring too early",
-          "The company is moving abroad"
+          "The share price fell after the news",
+          "Mr. Hale is retiring earlier than planned",
+          "The company is moving its headquarters abroad"
         ],
         "answerIndex": 0,
         "explanation": "They preferred an outsider with international experience."
@@ -277,10 +277,10 @@
         "prompt": "What will the money raised be used for?",
         "category": "detail",
         "choices": [
-          "Paying the local artists",
+          "Paying the local artists for their work",
           "Building a new section for children",
-          "Renovating the hotel",
-          "Hiring musicians"
+          "Renovating the Grand Meridian Hotel",
+          "Hiring musicians for next year's gala"
         ],
         "answerIndex": 1,
         "explanation": "All proceeds will fund a new pediatric wing."
@@ -289,9 +289,9 @@
         "prompt": "Why are the Okoros offered a reduced ticket price?",
         "category": "inference",
         "choices": [
-          "They are local artists",
-          "They are board members",
-          "They work at the hospital",
+          "They are local artists whose work is sold",
+          "They are members of the foundation's board",
+          "They work at the children's hospital",
           "They have supported the foundation for a long time"
         ],
         "answerIndex": 3,
@@ -335,10 +335,10 @@
         "prompt": "Why was Mr. Foss's request accepted?",
         "category": "inference",
         "choices": [
-          "He bought the desk during a sale",
-          "He is a long-time customer",
+          "He bought the desk during a clearance sale",
+          "He is a long-time customer of Homeline",
           "He reported the damage within 14 days of delivery",
-          "He returned the desk unassembled"
+          "He returned the desk before assembling it"
         ],
         "answerIndex": 2,
         "explanation": "The desk arrived April 2 and he wrote on April 10, with photos."
@@ -400,10 +400,10 @@
         "prompt": "What should new hires wear on Thursday?",
         "category": "detail",
         "choices": [
-          "Company uniforms",
+          "Company uniforms provided by Aldrin Logistics",
           "Business casual clothes with closed shoes",
-          "Safety helmets",
-          "Formal suits"
+          "Safety helmets and protective jackets",
+          "Formal suits and ties"
         ],
         "answerIndex": 1,
         "explanation": "Business casual is fine, but closed shoes are needed for the warehouse visit."
@@ -482,10 +482,10 @@
         "prompt": "What does the advertisement say about special diets?",
         "category": "detail",
         "choices": [
-          "They cost $5 more per guest",
+          "They cost $5 more per guest than regular meals",
           "They are offered only with plated dinners",
           "Options are available at no extra cost with advance notice",
-          "They require at least 30 guests"
+          "They require a minimum of 30 guests"
         ],
         "answerIndex": 2,
         "explanation": "Vegetarian and gluten-free options are free with 7 days' notice."

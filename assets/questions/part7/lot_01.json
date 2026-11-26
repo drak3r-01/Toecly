@@ -61,10 +61,10 @@
         "prompt": "What is the purpose of the notice?",
         "category": "purpose",
         "choices": [
-          "To announce a new shuttle company",
-          "To ask employees to cycle to work",
+          "To announce a new shuttle company for employees",
+          "To ask employees to cycle to work every day",
           "To explain parking arrangements during repairs",
-          "To report a change in office hours"
+          "To report a change in the office opening hours"
         ],
         "answerIndex": 2,
         "explanation": "The notice describes alternatives while Lot B is repaved."
@@ -518,10 +518,10 @@
         "prompt": "What should Mr. Cho do about his meal?",
         "category": "detail",
         "choices": [
-          "Send a second e-mail",
+          "Send a second e-mail to the coordinator",
           "Tell the staff at the registration desk",
-          "Order at the Garden Terrace",
-          "Bring his own lunch"
+          "Order a meal at the Garden Terrace",
+          "Bring a packed lunch from home"
         ],
         "answerIndex": 1,
         "explanation": "Ms. Grant asks him to tell the registration desk staff."

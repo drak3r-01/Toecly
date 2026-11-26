@@ -1,0 +1,632 @@
+[
+  {
+    "id": "p7-121",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Sunridge Solar Farm Begins Operation",
+        "text": "DELANO (July 21) - The Sunridge Solar Farm, the largest in the state, began feeding electricity into the grid on Monday. [A] The 120-megawatt facility covers 800 acres of former farmland and contains more than 300,000 panels. [B] According to operator Brightpath Energy, it will generate enough power for about 30,000 homes and cut carbon emissions by an estimated 150,000 tons a year. [C] The $190 million project created 450 jobs during construction, but only 12 permanent positions will remain, a fact that some local officials have criticized. [D] To address those concerns, Brightpath has promised to fund a technical training program at Delano Community College and to give hiring priority to program graduates."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What event does the article report?",
+        "category": "main_idea",
+        "choices": [
+          "A farm has been sold to a developer",
+          "A large solar facility has started producing power",
+          "A power outage has finally ended",
+          "A college program has opened in Delano"
+        ],
+        "answerIndex": 1,
+        "explanation": "The Sunridge Solar Farm began feeding electricity into the grid."
+      },
+      {
+        "prompt": "Why have some officials criticized the project?",
+        "category": "inference",
+        "choices": [
+          "It uses too much water in the region",
+          "It costs too much for the state",
+          "It will increase carbon emissions",
+          "It will provide few lasting jobs"
+        ],
+        "answerIndex": 3,
+        "explanation": "Only 12 permanent positions will remain after construction."
+      },
+      {
+        "prompt": "The word \"address\" in the last sentence is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "respond to",
+          "write to",
+          "speak to",
+          "locate"
+        ],
+        "answerIndex": 0,
+        "explanation": "Brightpath is responding to the concerns about jobs."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"The farm's output is roughly equal to that of a small gas-fired power plant.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "It comments on the power output described in the sentence just before [C]."
+      }
+    ]
+  },
+  {
+    "id": "p7-122",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Open enrollment for next year",
+        "text": "To: All Employees\nFrom: Human Resources\nDate: October 21\n\nOpen enrollment runs from November 1 to November 15. During this period, you may change your health, dental, and vision plans for next year. If you do not make changes, your current selections will continue, except for the Basic Health plan, which will be replaced by Standard Health with a monthly premium that is $14 higher. A new option, the Wellness Plus plan, adds coverage for gym memberships and counseling at no extra cost over the Standard plan. To enroll, log in to the benefits portal using your employee ID. Employees who want to add dependents must upload supporting documents, such as a birth certificate, by November 8. Information sessions will be held in the main conference room on October 30 at noon and 6 p.m."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the e-mail sent?",
+        "category": "purpose",
+        "choices": [
+          "To announce a general salary increase",
+          "To introduce a new gym for employees",
+          "To explain how to choose benefits for next year",
+          "To report a change in health law"
+        ],
+        "answerIndex": 2,
+        "explanation": "The e-mail describes the open enrollment period."
+      },
+      {
+        "prompt": "What is suggested about employees on the Basic Health plan?",
+        "category": "inference",
+        "choices": [
+          "They will lose their dental coverage",
+          "They will receive a refund of premiums",
+          "They will pay more unless they choose another plan",
+          "They can keep the same monthly price"
+        ],
+        "answerIndex": 2,
+        "explanation": "Basic Health will be replaced by Standard Health at a premium $14 higher."
+      },
+      {
+        "prompt": "What must employees do to add a dependent?",
+        "category": "detail",
+        "choices": [
+          "Upload documents by November 8",
+          "Attend a session on October 30",
+          "Pay a $14 fee",
+          "Visit Human Resources in person"
+        ],
+        "answerIndex": 0,
+        "explanation": "Supporting documents must be uploaded by November 8."
+      }
+    ]
+  },
+  {
+    "id": "p7-123",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "AquaSmart Thermostat T200",
+        "text": "Save up to 20 percent on heating and cooling costs with the AquaSmart T200, the smart thermostat that learns your schedule.\nFeatures: learns your habits within one week; control from anywhere with the free app; works with most 24-volt heating and cooling systems (not compatible with electric baseboard heaters); installs in about 30 minutes with the included tools; voice assistant support.\nPrice: $149 with free shipping. 2-year warranty. 60-day money-back guarantee. Professional installation is available for $79. Customers who buy two units receive $20 off the second."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How long does installation usually take?",
+        "category": "detail",
+        "choices": [
+          "One week",
+          "Two hours",
+          "60 days",
+          "About 30 minutes"
+        ],
+        "answerIndex": 3,
+        "explanation": "The thermostat installs in about 30 minutes."
+      },
+      {
+        "prompt": "What is NOT true about the T200?",
+        "category": "not_true",
+        "choices": [
+          "It can be controlled with an app",
+          "It works with electric baseboard heaters",
+          "It has a 2-year warranty",
+          "It learns its owner's habits"
+        ],
+        "answerIndex": 1,
+        "explanation": "The page says it is not compatible with electric baseboard heaters."
+      },
+      {
+        "prompt": "How much would two thermostats cost?",
+        "category": "inference",
+        "choices": [
+          "$149",
+          "$278",
+          "$258",
+          "$298"
+        ],
+        "answerIndex": 1,
+        "explanation": "$149 plus $149 less $20 on the second is $278."
+      }
+    ]
+  },
+  {
+    "id": "p7-124",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Message from Riverside Medical Center",
+        "text": "Riverside Medical Center: Your appointment with Dr. Patel on Monday, June 9, at 9:15 a.m. needs to be rescheduled because the doctor has been called away for emergency surgery. We apologize for the inconvenience. Alternatives: (1) Tuesday, June 10, at 2:00 p.m.; (2) Wednesday, June 11, at 10:30 a.m.; (3) Friday, June 13, at 8:45 a.m. Reply with 1, 2, or 3 to confirm your choice. If none of these times work, please call 555-0123 and we will find another time. If your visit includes a blood test, remember that fasting is required for 8 hours before the new appointment."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the appointment canceled?",
+        "category": "detail",
+        "choices": [
+          "The patient asked to change it",
+          "The clinic is closing permanently",
+          "The test results were delayed",
+          "The doctor was called away for an emergency"
+        ],
+        "answerIndex": 3,
+        "explanation": "The doctor has been called away for emergency surgery."
+      },
+      {
+        "prompt": "How can the patient confirm a new time?",
+        "category": "detail",
+        "choices": [
+          "By replying with a number",
+          "By calling the doctor",
+          "By visiting the clinic",
+          "By using a website"
+        ],
+        "answerIndex": 0,
+        "explanation": "The message asks the patient to reply with 1, 2, or 3."
+      },
+      {
+        "prompt": "What is suggested about a blood test?",
+        "category": "inference",
+        "choices": [
+          "It was already completed last week",
+          "It is not possible on Fridays",
+          "The patient should fast before the new appointment",
+          "It will be done at the patient's home"
+        ],
+        "answerIndex": 2,
+        "explanation": "Fasting is required for 8 hours before the new appointment."
+      }
+    ]
+  },
+  {
+    "id": "p7-125",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Your business loan application",
+        "text": "Harbor Trust Bank\nMay 29\n\nDear Amadou and Fatou Ndiaye,\nWe are pleased to inform you that your application for a small-business loan of $75,000 has been approved. The loan carries a fixed interest rate of 6.2 percent over seven years, with monthly payments of approximately $1,120. Funds will be deposited into your business account within five business days after we receive the signed agreement, which is enclosed. Please note that the approval is conditional on proof of business insurance, which must be submitted by June 14. You may repay the loan early without penalty. Dean Moyer, a loan officer, is available to answer questions at 555-0172.\nSincerely,\nHarbor Trust Bank"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the letter about?",
+        "category": "main_idea",
+        "choices": [
+          "The rejection of a loan application",
+          "A change in the bank's interest rates",
+          "The approval of a business loan with a condition",
+          "An invitation to open a new account"
+        ],
+        "answerIndex": 2,
+        "explanation": "The bank approved the loan, subject to proof of insurance."
+      },
+      {
+        "prompt": "What must the borrowers provide by June 14?",
+        "category": "detail",
+        "choices": [
+          "Proof of business insurance",
+          "The signed agreement",
+          "A new bank account",
+          "A tax return"
+        ],
+        "answerIndex": 0,
+        "explanation": "Approval is conditional on proof of business insurance by June 14."
+      },
+      {
+        "prompt": "What is NOT stated about the loan?",
+        "category": "not_true",
+        "choices": [
+          "It has a fixed interest rate",
+          "It can be repaid early without penalty",
+          "It will be repaid over seven years",
+          "It requires collateral on the borrowers' home"
+        ],
+        "answerIndex": 3,
+        "explanation": "Collateral is not mentioned."
+      }
+    ]
+  },
+  {
+    "id": "p7-126",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Westbury Library Introduces Self-Checkout",
+        "text": "WESTBURY (February 12) - Starting Monday, Westbury Public Library patrons will be able to check out their own books using four new self-service kiosks. [A] The machines, which cost $38,000, were funded by a donation from the Friends of the Library. [B] Library director Elaine Burke said the change will shorten lines during busy afternoon hours and free staff to help with research and children's programs. [C] Staff members will remain at the front desk to assist patrons who prefer a personal checkout or have difficulty with the machines. [D] Cardholders can also use the kiosks to pay fines and print receipts. The library, which circulates about 400,000 items a year, will hold demonstrations every Saturday in February at 11 a.m."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What change is announced?",
+        "category": "main_idea",
+        "choices": [
+          "The library will extend its opening hours",
+          "Patrons will be able to check out books themselves",
+          "Library staff will be reduced",
+          "Late fines will be eliminated"
+        ],
+        "answerIndex": 1,
+        "explanation": "Four self-service kiosks will be installed."
+      },
+      {
+        "prompt": "What is NOT stated about the kiosks?",
+        "category": "not_true",
+        "choices": [
+          "A donation paid for them",
+          "They will replace the front-desk staff",
+          "They can be used to pay fines",
+          "They start working on Monday"
+        ],
+        "answerIndex": 1,
+        "explanation": "Staff will remain at the front desk."
+      },
+      {
+        "prompt": "The word \"circulates\" in the article is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "moves around a room",
+          "advertises",
+          "repairs",
+          "lends out"
+        ],
+        "answerIndex": 3,
+        "explanation": "A library circulates items by lending them to patrons."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Friends of the Library president Ahmed Reyes said the group raised the money through book sales.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 1,
+        "explanation": "'The group' refers to the Friends of the Library, named in the funding sentence just before [B]."
+      }
+    ]
+  },
+  {
+    "id": "p7-127",
+    "documents": [
+      {
+        "type": "form",
+        "title": "Car insurance quote request",
+        "text": "SHIELD AUTO INSURANCE: QUOTE REQUEST\n\nName: Lucia Fernandez\nAge: 28\nVehicle: 2019 compact hatchback\nAnnual mileage: 8,000 km\nParking: Street\nClaims in the last 5 years: 1 (minor, 2022)\nPreferred coverage: Comprehensive\nDesired start date: August 1"
+      },
+      {
+        "type": "web_page",
+        "title": "Shield Auto Insurance: Plans and Discounts",
+        "text": "Basic (liability only): from $420 per year.\nStandard (liability and collision): from $780 per year.\nComprehensive (adds theft, fire, and weather damage): from $1,050 per year.\n\nDiscounts: Low mileage (under 10,000 km per year): 10 percent. Garage parking: 5 percent. No claims in 5 years: 15 percent. Annual payment in full: 3 percent. Discounts apply to the base price and are added together."
+      },
+      {
+        "type": "email",
+        "title": "Your quote",
+        "text": "To: Lucia Fernandez\nFrom: Shield Auto Insurance\nDate: July 8\n\nDear Lucia Fernandez,\nBased on your form, I recommend the Comprehensive plan, with a base price of $1,050. You qualify for the low-mileage discount. You do not qualify for the no-claims discount because of your 2022 claim, and the garage discount does not apply because you park on the street. If you pay the full premium annually, you will receive an additional 3 percent, bringing your total discount to 13 percent and your price to $913.50. Coverage can begin on August 1 once we receive your payment.\nShield Auto Insurance"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Lucia Fernandez not qualify for the no-claims discount?",
+        "category": "detail",
+        "choices": [
+          "She made a claim in 2022",
+          "She drives too many kilometers",
+          "She parks on the street",
+          "She chose the basic plan"
+        ],
+        "answerIndex": 0,
+        "explanation": "The no-claims discount requires 5 years without a claim."
+      },
+      {
+        "prompt": "Which discount does Lucia Fernandez qualify for because of her driving?",
+        "category": "detail",
+        "choices": [
+          "The garage discount",
+          "The no-claims discount",
+          "The low-mileage discount",
+          "The student discount"
+        ],
+        "answerIndex": 2,
+        "explanation": "She drives 8,000 km a year, under the 10,000 km limit."
+      },
+      {
+        "prompt": "How much will Lucia Fernandez pay if she pays the full premium annually?",
+        "category": "inference",
+        "choices": [
+          "$870.00",
+          "$945.00",
+          "$913.50",
+          "$1,050.00"
+        ],
+        "answerIndex": 2,
+        "explanation": "13 percent off $1,050 leaves $913.50."
+      },
+      {
+        "prompt": "What does the Comprehensive plan add to the Standard plan?",
+        "category": "detail",
+        "choices": [
+          "Theft, fire, and weather damage",
+          "Roadside repairs and towing",
+          "Rental cars during repairs",
+          "Driver training courses"
+        ],
+        "answerIndex": 0,
+        "explanation": "The web page says it adds theft, fire, and weather damage."
+      },
+      {
+        "prompt": "What must happen before coverage begins?",
+        "category": "detail",
+        "choices": [
+          "The car must be inspected",
+          "A new quote must be requested",
+          "A garage must be rented",
+          "Payment must be received"
+        ],
+        "answerIndex": 3,
+        "explanation": "Coverage can begin on August 1 once payment is received."
+      }
+    ]
+  },
+  {
+    "id": "p7-128",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Council Approves Plan to Close Fenwick Park Road",
+        "text": "GLENMORE (August 14) - The Glenmore City Council voted Monday to close Fenwick Park Road to cars on weekends from May to October, creating a car-free promenade along the river. The pilot program, which begins next spring, will cost an estimated $85,000 for barriers, signs, and event staffing. Supporters, including the Glenmore Cycling Club, say it will encourage exercise and boost sales at nearby cafés. Some residents of the road, however, worry about access for visitors and emergency vehicles. The council said emergency access will be maintained and that residents will receive free weekend parking permits for nearby lots. The program will be reviewed after one season."
+      },
+      {
+        "type": "letter",
+        "title": "Letter to the Editor",
+        "text": "To the Editor:\nI live on Fenwick Park Road and am writing about the council's decision. I support the idea of a car-free promenade; my family bikes there often. But I am concerned about my elderly parents, who visit on Sundays and cannot walk far. Free permits for distant lots will not help them. I urge the council to allow short-term drop-offs at the front of my building. I also hope that the review after one season includes residents' opinions.\nSincerely,\nHannah Cole"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Hannah Cole support the program?",
+        "category": "detail",
+        "choices": [
+          "She owns a café",
+          "Her family enjoys biking along the road",
+          "She is a council member",
+          "She works for the cycling club"
+        ],
+        "answerIndex": 1,
+        "explanation": "She writes that her family bikes there often."
+      },
+      {
+        "prompt": "What is Hannah Cole's main concern?",
+        "category": "detail",
+        "choices": [
+          "The cost of the barriers and signs",
+          "Access for visitors who cannot walk far",
+          "Noise from events along the river",
+          "Emergency vehicle access to the road"
+        ],
+        "answerIndex": 1,
+        "explanation": "Her elderly parents cannot walk far from a distant parking lot."
+      },
+      {
+        "prompt": "When will the program begin?",
+        "category": "detail",
+        "choices": [
+          "This fall",
+          "After a one-season review",
+          "In January",
+          "Next spring"
+        ],
+        "answerIndex": 3,
+        "explanation": "The pilot program begins next spring."
+      },
+      {
+        "prompt": "What did the council promise residents?",
+        "category": "detail",
+        "choices": [
+          "Free weekend parking permits",
+          "A drop-off zone at each building",
+          "Free bus passes for residents",
+          "Lower property taxes"
+        ],
+        "answerIndex": 0,
+        "explanation": "Residents will receive free weekend parking permits for nearby lots."
+      },
+      {
+        "prompt": "The word \"urge\" in the letter is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "order firmly",
+          "warn politely",
+          "strongly encourage",
+          "remind gently"
+        ],
+        "answerIndex": 2,
+        "explanation": "To urge someone is to strongly encourage them to act."
+      }
+    ]
+  },
+  {
+    "id": "p7-129",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Office supply orders",
+        "text": "TO: All department assistants\nFROM: Purchasing\nDATE: February 3\nSUBJECT: Office supply orders\n\nBeginning this quarter, all supplies must be ordered through Paperline, our new vendor, using the company account. Orders placed before 2 p.m. are delivered the next business day. The monthly spending limit per department is $500; orders exceeding this limit require approval from the department head. Please do not order directly from other vendors, as these purchases will not be reimbursed. A list of preferred items is attached."
+      },
+      {
+        "type": "invoice",
+        "title": "Invoice #9071",
+        "text": "PAPERLINE\nInvoice #9071\nAccount: Company, Marketing Department\nOrder date: February 12\n\nCopy paper (5 boxes at $32): $160.00\nWhiteboard markers (4 packs at $9): $36.00\nBinders (30 at $2.50): $75.00\nDesk organizers (6 at $24): $144.00\nSubtotal: $415.00\nDelivery: free for orders over $200\nTotal: $415.00"
+      },
+      {
+        "type": "email",
+        "title": "Additional order",
+        "text": "To: Purchasing\nFrom: Jana Novak, Marketing Assistant\nDate: February 13\n\nHello,\nI placed invoice #9071 yesterday for $415. I now need an additional order of toner cartridges, which would cost $140, for an urgent print job. I know this would bring our department over the monthly limit of $500. Could you approve this exception? Our department head is traveling and cannot sign off until next Monday.\nThank you,\nJana Novak"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Jana Novak need special approval?",
+        "category": "inference",
+        "choices": [
+          "The vendor is not approved",
+          "Toner is not on the preferred list",
+          "The new order would exceed the monthly limit",
+          "The order is for next week"
+        ],
+        "answerIndex": 2,
+        "explanation": "$415 plus $140 is more than the $500 limit."
+      },
+      {
+        "prompt": "By how much would the department exceed its limit?",
+        "category": "inference",
+        "choices": [
+          "$55",
+          "$15",
+          "$140",
+          "$415"
+        ],
+        "answerIndex": 0,
+        "explanation": "$415 plus $140 is $555, which is $55 above $500."
+      },
+      {
+        "prompt": "What is the benefit of ordering before 2 p.m.?",
+        "category": "detail",
+        "choices": [
+          "A ten percent discount",
+          "Free toner cartridges",
+          "Automatic approval of the order",
+          "Delivery on the next business day"
+        ],
+        "answerIndex": 3,
+        "explanation": "Orders placed before 2 p.m. are delivered the next business day."
+      },
+      {
+        "prompt": "Why can the department head not approve the request now?",
+        "category": "detail",
+        "choices": [
+          "The vendor is closed",
+          "The department head is traveling",
+          "Approval is not needed",
+          "The department head already approved"
+        ],
+        "answerIndex": 1,
+        "explanation": "The e-mail says the department head cannot sign off until next Monday."
+      },
+      {
+        "prompt": "What will happen to purchases from other vendors?",
+        "category": "detail",
+        "choices": [
+          "They will be approved automatically",
+          "They will not be reimbursed",
+          "They will be charged to the department head",
+          "They will be limited to $500"
+        ],
+        "answerIndex": 1,
+        "explanation": "The memo says those purchases will not be reimbursed."
+      }
+    ]
+  },
+  {
+    "id": "p7-130",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Healthcare Innovation Summit: Day 1, Wednesday, June 11",
+        "text": "8:30 a.m. Registration and coffee (Lobby)\n9:30 a.m. Keynote: AI in Diagnostics, Dr. Helena Voss (Main Hall)\n11:00 a.m. Session A: Telemedicine Success Stories (Room 1). Session B: Data Privacy in Healthcare (Room 2)\n12:30 p.m. Lunch (Atrium)\n2:00 p.m. Session C: Patient Experience Design (Room 1). Session D: Funding Your Start-up (Room 3)\n3:30 p.m. Networking break\n4:00 p.m. Panel: The Future of Hospitals (Main Hall)\n5:30 p.m. Welcome reception (Rooftop terrace)"
+      },
+      {
+        "type": "email",
+        "title": "Schedule question",
+        "text": "To: Summit Organizers\nFrom: Dr. Marco Esposito\nDate: June 5\n\nHello,\nI am presenting in Session B on data privacy, but I also hope to attend Session D, since I am planning to found a company. I see that Session D is at 2:00 p.m. and my presentation is at 11:00 a.m., so there is no conflict. However, I will arrive at the venue at 9:45 a.m., after the keynote has started. Will it be recorded? Also, I will bring a laptop with an HDMI port only, so please make sure that my room has a compatible projector.\nThank you,\nMarco Esposito"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Where will Dr. Esposito present?",
+        "category": "detail",
+        "choices": [
+          "In Room 1",
+          "In Room 3",
+          "In the Main Hall",
+          "In Room 2"
+        ],
+        "answerIndex": 3,
+        "explanation": "Session B on data privacy is held in Room 2."
+      },
+      {
+        "prompt": "Why does Dr. Esposito want to attend Session D?",
+        "category": "detail",
+        "choices": [
+          "To learn about funding for a new business",
+          "To present slides on data privacy",
+          "To meet the keynote speaker",
+          "To attend a networking event"
+        ],
+        "answerIndex": 0,
+        "explanation": "The e-mail says Dr. Esposito is planning to found a company."
+      },
+      {
+        "prompt": "What will Dr. Esposito miss because of the arrival time?",
+        "category": "inference",
+        "choices": [
+          "Session B",
+          "Session D",
+          "The beginning of the keynote",
+          "The welcome reception"
+        ],
+        "answerIndex": 2,
+        "explanation": "The keynote starts at 9:30, but Dr. Esposito arrives at 9:45."
+      },
+      {
+        "prompt": "When will Dr. Esposito's presentation start?",
+        "category": "detail",
+        "choices": [
+          "At 9:30 a.m.",
+          "At 2:00 p.m.",
+          "At 11:00 a.m.",
+          "At 4:00 p.m."
+        ],
+        "answerIndex": 2,
+        "explanation": "Session B starts at 11:00 a.m."
+      },
+      {
+        "prompt": "What will take place in the Atrium at 12:30 p.m.?",
+        "category": "detail",
+        "choices": [
+          "Lunch",
+          "Registration",
+          "The welcome reception",
+          "A panel discussion"
+        ],
+        "answerIndex": 0,
+        "explanation": "The schedule lists lunch in the Atrium at 12:30 p.m."
+      }
+    ]
+  }
+]
