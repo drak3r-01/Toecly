@@ -310,4 +310,14 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get quizBackToReview => 'Back to review';
+
+  @override
+  String dashboardAnswered(int count) {
+    return 'Questions answered: $count';
+  }
+
+  @override
+  String dashboardSessions(int count) {
+    return 'Sessions: $count';
+  }
 }

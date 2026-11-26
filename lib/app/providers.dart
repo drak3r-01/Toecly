@@ -5,6 +5,7 @@ import '../data/exercises/exercise_repository.dart';
 import '../data/exercises/models.dart';
 import '../data/quiz/answer_recorder.dart';
 import '../data/quiz/quiz_request.dart';
+import '../data/storage/last_practice_repository.dart';
 import '../data/storage/local_store.dart';
 import '../data/storage/missed_questions_repository.dart';
 import '../data/storage/part_stats_repository.dart';
@@ -34,11 +35,26 @@ final quizDrawProvider = FutureProvider.autoDispose.family<List<Exercise>, QuizR
       ),
 );
 
+/// Bumped each time results are saved. Screens that show statistics watch it
+/// to re-read them (the repositories themselves hold no state).
+class DataRevisionNotifier extends Notifier<int> {
+  @override
+  int build() => 0;
+
+  void bump() => state++;
+}
+
+final dataRevisionProvider = NotifierProvider<DataRevisionNotifier, int>(DataRevisionNotifier.new);
+
+final lastPracticeProvider =
+    Provider((ref) => LastPracticeRepository(ref.watch(localStoreProvider)));
+
 final answerRecorderProvider = Provider(
   (ref) => AnswerRecorder(
     stats: ref.watch(partStatsProvider),
     missed: ref.watch(missedQuestionsProvider),
     history: ref.watch(sessionHistoryProvider),
+    onChanged: () => ref.read(dataRevisionProvider.notifier).bump(),
   ),
 );
 

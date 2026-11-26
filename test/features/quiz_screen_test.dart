@@ -205,11 +205,14 @@ void main() {
     tester.view.physicalSize = const Size(400, 900);
     tester.view.devicePixelRatio = 1;
     addTearDown(tester.view.reset);
-    await tester.pumpWidget(MaterialApp(
-      localizationsDelegates: AppLocalizations.localizationsDelegates,
-      supportedLocales: AppLocalizations.supportedLocales,
-      locale: const Locale('en'),
-      home: const Scaffold(body: PracticeSetupScreen()),
+    await tester.pumpWidget(ProviderScope(
+      overrides: [localStoreProvider.overrideWithValue(InMemoryStore())],
+      child: const MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
+        supportedLocales: AppLocalizations.supportedLocales,
+        locale: Locale('en'),
+        home: Scaffold(body: PracticeSetupScreen()),
+      ),
     ));
     for (final label in ['Part 5', 'Part 6', 'Part 7']) {
       await tester.tap(find.textContaining(label));

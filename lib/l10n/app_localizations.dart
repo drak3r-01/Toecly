@@ -649,6 +649,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Back to review'**
   String get quizBackToReview;
+
+  /// No description provided for @dashboardAnswered.
+  ///
+  /// In en, this message translates to:
+  /// **'Questions answered: {count}'**
+  String dashboardAnswered(int count);
+
+  /// No description provided for @dashboardSessions.
+  ///
+  /// In en, this message translates to:
+  /// **'Sessions: {count}'**
+  String dashboardSessions(int count);
 }
 
 class _AppLocalizationsDelegate
