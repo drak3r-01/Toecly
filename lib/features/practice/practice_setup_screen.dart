@@ -1,6 +1,8 @@
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:material_ui/material_ui.dart';
 
+import '../../app/providers.dart';
 import '../../core/toeic_part.dart';
 import '../../data/quiz/quiz_request.dart';
 import '../../l10n/app_localizations.dart';
@@ -9,16 +11,18 @@ import 'question_count_picker.dart';
 
 /// Custom practice: pick the parts and the number of questions, then start a
 /// session with immediate correction.
-class PracticeSetupScreen extends StatefulWidget {
+class PracticeSetupScreen extends ConsumerStatefulWidget {
   const PracticeSetupScreen({super.key});
 
   @override
-  State<PracticeSetupScreen> createState() => _PracticeSetupScreenState();
+  ConsumerState<PracticeSetupScreen> createState() => _PracticeSetupScreenState();
 }
 
-class _PracticeSetupScreenState extends State<PracticeSetupScreen> {
-  final Set<ToeicPart> _parts = {...ToeicPart.readingParts};
-  int _count = QuizRequest.defaultQuestionCount;
+class _PracticeSetupScreenState extends ConsumerState<PracticeSetupScreen> {
+  // Starts from the last configuration used.
+  late final QuizRequest? _last = ref.read(lastPracticeProvider).load();
+  late final Set<ToeicPart> _parts = {...(_last?.parts ?? ToeicPart.readingParts)};
+  late int _count = _last?.questionCount ?? QuizRequest.defaultQuestionCount;
 
   @override
   Widget build(BuildContext context) {
@@ -60,8 +64,11 @@ class _PracticeSetupScreenState extends State<PracticeSetupScreen> {
             FilledButton.icon(
               icon: const Icon(Icons.play_arrow),
               label: Text(l10n.practiceStart),
-              onPressed: () => context
-                  .push(QuizRequest(parts: _parts, questionCount: _count).location),
+              onPressed: () {
+                final request = QuizRequest(parts: _parts, questionCount: _count);
+                ref.read(lastPracticeProvider).save(request);
+                context.push(request.location);
+              },
             ),
           ],
         ),

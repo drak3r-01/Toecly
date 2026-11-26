@@ -190,5 +190,21 @@
         "type": "int"
       }
     }
+  },
+  "dashboardAnswered": "Questions answered: {count}",
+  "dashboardSessions": "Sessions: {count}",
+  "@dashboardAnswered": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@dashboardSessions": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
   }
 }

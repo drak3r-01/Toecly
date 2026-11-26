@@ -11,12 +11,16 @@ class AnswerRecorder {
     required this.stats,
     required this.missed,
     required this.history,
+    this.onChanged,
     DateTime Function()? now,
   }) : _now = now ?? DateTime.now;
 
   final PartStatsRepository stats;
   final MissedQuestionsRepository missed;
   final SessionHistoryRepository history;
+
+  /// Called after anything was saved, so screens showing statistics can refresh.
+  final void Function()? onChanged;
   final DateTime Function() _now;
 
   /// A wrong answer joins the missed questions; a right one in review removes
@@ -33,11 +37,15 @@ class AnswerRecorder {
     } else if (masterOnCorrect) {
       await missed.markMastered(question.id);
     }
+    onChanged?.call();
   }
 
   /// A question left blank at the end of an exam: not counted in the stats
   /// (nothing was answered) but kept for review.
-  Future<void> recordSkipped(Question question) => missed.markMissed(question.id);
+  Future<void> recordSkipped(Question question) async {
+    await missed.markMissed(question.id);
+    onChanged?.call();
+  }
 
   Future<void> recordSession({
     required SessionMode mode,
@@ -45,13 +53,15 @@ class AnswerRecorder {
     required int totalQuestions,
     required int correctAnswers,
     required Duration duration,
-  }) =>
-      history.add(SessionRecord(
-        mode: mode,
-        finishedAt: _now(),
-        parts: {for (final e in exercises) e.part},
-        totalQuestions: totalQuestions,
-        correctAnswers: correctAnswers,
-        durationSeconds: duration.inSeconds,
-      ));
+  }) async {
+    await history.add(SessionRecord(
+      mode: mode,
+      finishedAt: _now(),
+      parts: {for (final e in exercises) e.part},
+      totalQuestions: totalQuestions,
+      correctAnswers: correctAnswers,
+      durationSeconds: duration.inSeconds,
+    ));
+    onChanged?.call();
+  }
 }

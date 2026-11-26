@@ -190,5 +190,21 @@
         "type": "int"
       }
     }
+  },
+  "dashboardAnswered": "Questions répondues : {count}",
+  "dashboardSessions": "Séances : {count}",
+  "@dashboardAnswered": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@dashboardSessions": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
   }
 }
