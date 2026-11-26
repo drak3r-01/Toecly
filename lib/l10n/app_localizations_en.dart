@@ -291,4 +291,12 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get examBackToExam => 'Done';
+
+  @override
+  String get reviewNothing => 'No missed question to review. Well done!';
+
+  @override
+  String reviewMissedCount(int count) {
+    return 'Questions to review: $count';
+  }
 }

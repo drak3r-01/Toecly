@@ -41,3 +41,10 @@ final answerRecorderProvider = Provider(
     history: ref.watch(sessionHistoryProvider),
   ),
 );
+
+/// Exercises to review: those holding missed questions, up to the given number of questions.
+final reviewDrawProvider = FutureProvider.autoDispose.family<List<Exercise>, int>(
+  (ref, questionCount) => ref
+      .watch(exerciseRepositoryProvider)
+      .drawForReview(ref.read(missedQuestionsProvider).loadIds(), questionCount),
+);

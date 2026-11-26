@@ -12,22 +12,47 @@ import '../../data/quiz/quiz_session.dart';
 import '../../l10n/app_localizations.dart';
 import 'exercise_page.dart';
 
-/// Draws the exercises for [request], then runs the session with immediate correction.
+/// Draws the exercises for [request], then runs a practice session.
 class QuizScreen extends ConsumerWidget {
   const QuizScreen({super.key, required this.request});
 
   final QuizRequest request;
 
   @override
+  Widget build(BuildContext context, WidgetRef ref) => QuizSessionScreen(
+        draw: ref.watch(quizDrawProvider(request)),
+        mode: SessionMode.practice,
+        leaveTo: AppDestination.practice,
+      );
+}
+
+/// Runs a session with immediate correction on drawn exercises, recording
+/// answers and the session summary. In review mode a right answer also
+/// removes the question from the missed list.
+class QuizSessionScreen extends ConsumerWidget {
+  const QuizSessionScreen({
+    super.key,
+    required this.draw,
+    required this.mode,
+    required this.leaveTo,
+  });
+
+  final AsyncValue<List<Exercise>> draw;
+  final SessionMode mode;
+
+  /// Where "close" goes when there is nothing to pop back to.
+  final AppDestination leaveTo;
+
+  @override
   Widget build(BuildContext context, WidgetRef ref) {
     final l10n = AppLocalizations.of(context);
-    final draw = ref.watch(quizDrawProvider(request));
+    void leave() => context.canPop() ? context.pop() : context.go(leaveTo.path);
     return Scaffold(
       appBar: AppBar(
         leading: IconButton(
           icon: const Icon(Icons.close),
           tooltip: l10n.quizClose,
-          onPressed: () => _leave(context),
+          onPressed: leave,
         ),
       ),
       body: SafeArea(
@@ -38,27 +63,27 @@ class QuizScreen extends ConsumerWidget {
               ? Center(child: Text(l10n.quizEmpty))
               : QuizView(
                   exercises: exercises,
-                  onLeave: () => _leave(context),
-                  onAnswered: (exercise, question, isCorrect) => ref
-                      .read(answerRecorderProvider)
-                      .recordAnswer(exercise, question, isCorrect: isCorrect),
-                  onFinished: (session, duration) => ref
-                      .read(answerRecorderProvider)
-                      .recordSession(
-                        mode: SessionMode.practice,
-                        exercises: session.exercises,
-                        totalQuestions: session.totalQuestions,
-                        correctAnswers: session.correctCount,
-                        duration: duration,
-                      ),
+                  onLeave: leave,
+                  onAnswered: (exercise, question, isCorrect) =>
+                      ref.read(answerRecorderProvider).recordAnswer(
+                            exercise,
+                            question,
+                            isCorrect: isCorrect,
+                            masterOnCorrect: mode == SessionMode.review,
+                          ),
+                  onFinished: (session, duration) =>
+                      ref.read(answerRecorderProvider).recordSession(
+                            mode: mode,
+                            exercises: session.exercises,
+                            totalQuestions: session.totalQuestions,
+                            correctAnswers: session.correctCount,
+                            duration: duration,
+                          ),
                 ),
         ),
       ),
     );
   }
-
-  static void _leave(BuildContext context) =>
-      context.canPop() ? context.pop() : context.go(AppDestination.practice.path);
 }
 
 /// The running session. Owns a [QuizSession] and rebuilds on each step.

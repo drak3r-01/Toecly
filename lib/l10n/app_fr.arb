@@ -171,5 +171,14 @@
   "examFilterAll": "Toutes",
   "examFilterMistakes": "Erreurs",
   "examNotAnswered": "Sans réponse",
-  "examBackToExam": "Terminer"
+  "examBackToExam": "Terminer",
+  "reviewNothing": "Aucune question à réviser. Bravo !",
+  "reviewMissedCount": "Questions à réviser : {count}",
+  "@reviewMissedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
 }

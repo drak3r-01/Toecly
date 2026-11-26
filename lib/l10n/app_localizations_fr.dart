@@ -291,4 +291,12 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get examBackToExam => 'Terminer';
+
+  @override
+  String get reviewNothing => 'Aucune question à réviser. Bravo !';
+
+  @override
+  String reviewMissedCount(int count) {
+    return 'Questions à réviser : $count';
+  }
 }
