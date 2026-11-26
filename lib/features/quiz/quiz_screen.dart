@@ -23,6 +23,7 @@ class QuizScreen extends ConsumerWidget {
         draw: ref.watch(quizDrawProvider(request)),
         mode: SessionMode.practice,
         leaveTo: AppDestination.practice,
+        leaveLabel: AppLocalizations.of(context).quizBackToPractice,
       );
 }
 
@@ -35,6 +36,7 @@ class QuizSessionScreen extends ConsumerWidget {
     required this.draw,
     required this.mode,
     required this.leaveTo,
+    required this.leaveLabel,
   });
 
   final AsyncValue<List<Exercise>> draw;
@@ -42,6 +44,9 @@ class QuizSessionScreen extends ConsumerWidget {
 
   /// Where "close" goes when there is nothing to pop back to.
   final AppDestination leaveTo;
+
+  /// Label of the button that ends the session summary.
+  final String leaveLabel;
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -64,6 +69,7 @@ class QuizSessionScreen extends ConsumerWidget {
               : QuizView(
                   exercises: exercises,
                   onLeave: leave,
+                  leaveLabel: leaveLabel,
                   onAnswered: (exercise, question, isCorrect) =>
                       ref.read(answerRecorderProvider).recordAnswer(
                             exercise,
@@ -92,12 +98,16 @@ class QuizView extends StatefulWidget {
     super.key,
     required this.exercises,
     required this.onLeave,
+    this.leaveLabel,
     this.onAnswered,
     this.onFinished,
   });
 
   final List<Exercise> exercises;
   final VoidCallback onLeave;
+
+  /// Label of the summary's button; defaults to "Back to practice".
+  final String? leaveLabel;
 
   /// Called right after each answer, so nothing is lost if the user quits midway.
   final void Function(Exercise exercise, Question question, bool isCorrect)? onAnswered;
@@ -133,7 +143,13 @@ class _QuizViewState extends State<QuizView> {
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context);
     final session = _session;
-    if (session.isFinished) return _Summary(session: session, onLeave: widget.onLeave);
+    if (session.isFinished) {
+      return _Summary(
+        session: session,
+        onLeave: widget.onLeave,
+        leaveLabel: widget.leaveLabel ?? l10n.quizBackToPractice,
+      );
+    }
 
     final total = session.totalQuestions;
     return Column(children: [
@@ -169,10 +185,11 @@ class _QuizViewState extends State<QuizView> {
 }
 
 class _Summary extends StatelessWidget {
-  const _Summary({required this.session, required this.onLeave});
+  const _Summary({required this.session, required this.onLeave, required this.leaveLabel});
 
   final QuizSession session;
   final VoidCallback onLeave;
+  final String leaveLabel;
 
   @override
   Widget build(BuildContext context) {
@@ -192,7 +209,7 @@ class _Summary extends StatelessWidget {
             const SizedBox(height: 16),
             AnimatedProgressBar(value: session.correctCount / total),
             const SizedBox(height: 32),
-            FilledButton(onPressed: onLeave, child: Text(l10n.quizBackToPractice)),
+            FilledButton(onPressed: onLeave, child: Text(leaveLabel)),
           ]),
         ),
       ),

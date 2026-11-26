@@ -631,6 +631,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Questions to review: {count}'**
   String reviewMissedCount(int count);
+
+  /// No description provided for @practiceCustom.
+  ///
+  /// In en, this message translates to:
+  /// **'Custom'**
+  String get practiceCustom;
+
+  /// No description provided for @practiceCustomLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Number (1–{max})'**
+  String practiceCustomLabel(int max);
+
+  /// No description provided for @quizBackToReview.
+  ///
+  /// In en, this message translates to:
+  /// **'Back to review'**
+  String get quizBackToReview;
 }
 
 class _AppLocalizationsDelegate

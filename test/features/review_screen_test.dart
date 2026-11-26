@@ -77,7 +77,7 @@ void main() {
     expect(MissedQuestionsRepository(store).loadIds(), hasLength(1));
     expect(SessionHistoryRepository(store).loadAll().single.mode, SessionMode.review);
 
-    await tester.tap(find.text('Back to practice'));
+    await tester.tap(find.text('Back to review'));
     await tester.pumpAndSettle();
     expect(find.text('Questions to review: 1'), findsOneWidget);
   });
