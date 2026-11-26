@@ -1,0 +1,63 @@
+name: Build & Release
+
+# Se déclenche quand on pousse un tag de version (ex. v0.1.0), jamais sur un simple push.
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write # nécessaire pour créer la release
+
+jobs:
+  build-android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-java@v6
+        with:
+          distribution: temurin
+          java-version: "21"
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - run: flutter analyze
+      - run: flutter test
+      - run: flutter build apk --release
+      - run: cp build/app/outputs/flutter-apk/app-release.apk toecly-${{ github.ref_name }}.apk
+      - uses: actions/upload-artifact@v7
+        with:
+          name: toecly-android-apk
+          path: toecly-${{ github.ref_name }}.apk
+
+  build-windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - run: flutter build windows --release
+      # Le .exe ne fonctionne qu'avec les DLL et le dossier data/ du même dossier : on zippe tout.
+      - run: Compress-Archive -Path build/windows/x64/runner/Release/* -DestinationPath toecly-${{ github.ref_name }}-windows.zip
+        shell: pwsh
+      - uses: actions/upload-artifact@v7
+        with:
+          name: toecly-windows-zip
+          path: toecly-${{ github.ref_name }}-windows.zip
+
+  release:
+    needs: [build-android, build-windows]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v8
+        with:
+          path: dist
+          merge-multiple: true
+      - uses: softprops/action-gh-release@v3
+        with:
+          files: dist/*
+          generate_release_notes: true

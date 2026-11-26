@@ -1,0 +1,25 @@
+# Build local sans installer Android Studio : docker compose run --rm build-apk
+x-flutter: &flutter
+  image: ghcr.io/cirruslabs/flutter:stable
+  working_dir: /app
+  volumes:
+    - .:/app
+    - pub-cache:/root/.pub-cache
+    - gradle-cache:/root/.gradle
+
+services:
+  # Compile l'APK release -> build/app/outputs/flutter-apk/app-release.apk
+  build-apk:
+    <<: *flutter
+    command: sh -c "flutter pub get && flutter build apk --release"
+
+  # Aperçu dans le navigateur -> http://localhost:8080
+  web-preview:
+    <<: *flutter
+    ports:
+      - "8080:8080"
+    command: sh -c "flutter pub get && flutter run -d web-server --web-port=8080 --web-hostname=0.0.0.0"
+
+volumes:
+  pub-cache:
+  gradle-cache:

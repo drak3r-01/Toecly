@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "part": 5,
+  "batchId": "part5-exemple-001",
+  "title": "Lot d'exemple Partie 5 (à remplacer)",
+  "groups": [
+    {
+      "questions": [
+        {
+          "id": "p5-exemple-001-q1",
+          "prompt": "The manager asked all employees to submit their reports ------- Friday.",
+          "choices": [
+            "by",
+            "until",
+            "since",
+            "during"
+          ],
+          "answerIndex": 0,
+          "explanation": "« by » indique une échéance : au plus tard vendredi."
+        },
+        {
+          "id": "p5-exemple-001-q2",
+          "prompt": "Ms. Lee is ------- for the marketing budget.",
+          "choices": [
+            "responsible",
+            "responsibly",
+            "responsibility",
+            "responsibilities"
+          ],
+          "answerIndex": 0,
+          "explanation": "Après « is », on attend un adjectif : « responsible for »."
+        },
+        {
+          "id": "p5-exemple-001-q3",
+          "prompt": "The new software is ------- than the old version.",
+          "choices": [
+            "fast",
+            "faster",
+            "fastest",
+            "more fastly"
+          ],
+          "answerIndex": 1,
+          "explanation": "Comparatif de supériorité suivi de « than » : « faster »."
+        }
+      ]
+    }
+  ]
+}

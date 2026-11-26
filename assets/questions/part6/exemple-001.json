@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "part": 6,
+  "batchId": "part6-exemple-001",
+  "title": "Lot d'exemple Partie 6 (à remplacer)",
+  "groups": [
+    {
+      "passages": [
+        {
+          "title": "Email",
+          "text": "Dear staff, the office will be closed on Monday ------- the national holiday."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p6-exemple-001-q1",
+          "prompt": "Choisis le mot qui complète le texte.",
+          "choices": [
+            "for",
+            "because",
+            "due",
+            "despite"
+          ],
+          "answerIndex": 0,
+          "explanation": "« closed for the holiday » est la tournure naturelle."
+        }
+      ]
+    }
+  ]
+}
