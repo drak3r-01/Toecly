@@ -140,5 +140,36 @@
   "quizLoadError": "The questions could not be loaded.",
   "practicePartsLabel": "Parts",
   "practiceCountLabel": "Number of questions",
-  "practiceStart": "Start"
+  "practiceStart": "Start",
+  "examStart": "Start the exam",
+  "examSubmit": "Submit",
+  "examPrevious": "Previous",
+  "examKeepWorking": "Keep working",
+  "examSubmitTitle": "Submit the exam?",
+  "examUnanswered": "Unanswered questions: {count}",
+  "@examUnanswered": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "examQuitTitle": "Quit the exam?",
+  "examQuitMessage": "Your progress will be lost.",
+  "examQuit": "Quit",
+  "examResultTitle": "Mock exam result",
+  "examTimeUp": "Time is up: your exam was submitted.",
+  "examTimeUsed": "Time used: {minutes} min",
+  "@examTimeUsed": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "examByPart": "By part",
+  "examFilterAll": "All",
+  "examFilterMistakes": "Mistakes",
+  "examNotAnswered": "Not answered",
+  "examBackToExam": "Done"
 }

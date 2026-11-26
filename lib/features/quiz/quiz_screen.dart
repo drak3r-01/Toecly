@@ -44,7 +44,13 @@ class QuizScreen extends ConsumerWidget {
                       .recordAnswer(exercise, question, isCorrect: isCorrect),
                   onFinished: (session, duration) => ref
                       .read(answerRecorderProvider)
-                      .recordSession(session, SessionMode.practice, duration),
+                      .recordSession(
+                        mode: SessionMode.practice,
+                        exercises: session.exercises,
+                        totalQuestions: session.totalQuestions,
+                        correctAnswers: session.correctCount,
+                        duration: duration,
+                      ),
                 ),
         ),
       ),
