@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-025",
+    "documentType": "email",
+    "text": "Dear Mr. Nakamura,\n\nI am writing about order #7731 for 200 steel brackets, which was due to arrive on Monday. Our records show that the shipment has not yet [1]. [2] Our production line depends on these parts, and any further delay will [3] our ability to meet customer deadlines. Please let us know the current status of the order [4] possible.\n\nRegards,\nPeter Holm, Purchasing Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "arrive",
+          "arriving",
+          "arrived",
+          "arrives"
+        ],
+        "answerIndex": 2,
+        "explanation": "The present perfect 'has not yet arrived' needs a past participle."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our cafeteria will be closed on Monday.",
+          "The brackets are painted in three colors.",
+          "Please accept our congratulations on your promotion.",
+          "We would appreciate an explanation for the delay."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence reacts to the missing shipment and leads to the explanation of why it matters."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "effect",
+          "affection",
+          "affect",
+          "inspect"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Affect' is the verb meaning to have an influence on something."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "as long as",
+          "as soon as",
+          "so far as",
+          "as well as"
+        ],
+        "answerIndex": 1,
+        "explanation": "'As soon as possible' is the standard expression."
+      }
+    ]
+  },
+  {
+    "id": "p6-026",
+    "documentType": "web_page",
+    "text": "Returns and Exchanges\n\nWe want you to be completely satisfied with your purchase. Items may be returned within 30 days of delivery, [1] they are unused and in their original packaging. [2] To start a return, log in to your account and select 'Return an item.' You will receive a prepaid shipping label by e-mail. Refunds are [3] to the original payment method within seven business days after we receive the item. Please note that sale items [4] be returned.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "as long as",
+          "even though",
+          "so that",
+          "rather than"
+        ],
+        "answerIndex": 0,
+        "explanation": "'As long as' introduces the condition for a return."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "New arrivals are posted every Monday.",
+          "Exchanges for a different size or color are also accepted.",
+          "Shipping to remote areas takes longer.",
+          "Our stores are located in over thirty countries."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence stays on the subject of returns and leads to the instructions for starting one."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "hidden",
+          "credited",
+          "climbed",
+          "opened"
+        ],
+        "answerIndex": 1,
+        "explanation": "Refunds are 'credited' to a payment method."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "can",
+          "must",
+          "should",
+          "cannot"
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence announces a restriction: sale items cannot be returned."
+      }
+    ]
+  },
+  {
+    "id": "p6-027",
+    "documentType": "article",
+    "text": "Techsmith Acquires Rival Firm\n\nTechsmith Inc. announced on Monday that it has agreed to [1] Dataworks, a smaller competitor, for $240 million. [2] The deal, which is subject to regulatory approval, is expected to be completed by the end of the year. Analysts say the merger will allow the combined company to [3] its share of the software market. Dataworks employees will keep their positions, [4] some managers may be reassigned.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "acquire",
+          "require",
+          "inquire",
+          "retire"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Acquire' means to buy a company."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Software engineers are in high demand this year.",
+          "The weather this week has been unusually cold.",
+          "The acquisition is the largest in the company's 20-year history.",
+          "Several new restaurants opened downtown last month."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence comments on the deal and precedes the details about its completion."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "decrease",
+          "increase",
+          "resist",
+          "conceal"
+        ],
+        "answerIndex": 1,
+        "explanation": "A merger is expected to raise the company's market share."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "although",
+          "because",
+          "unless",
+          "so"
+        ],
+        "answerIndex": 0,
+        "explanation": "The two clauses contrast: positions are kept, but some managers may move."
+      }
+    ]
+  },
+  {
+    "id": "p6-028",
+    "documentType": "letter",
+    "text": "Dear Ms. Okafor,\n\nOn behalf of the Hartwell Foundation, I am delighted to inform you that you have been awarded the Hartwell Scholarship for the coming academic year. The scholarship [1] full tuition and a monthly allowance of $600. [2] To accept the award, you must return the signed form [3] two weeks of receiving this letter. Failure to do so will [4] in the offer being given to another candidate.\n\nSincerely,\nRobert Hartwell",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "covers",
+          "lifts",
+          "joins",
+          "sets"
+        ],
+        "answerIndex": 0,
+        "explanation": "A scholarship 'covers' tuition, meaning it pays for it."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The university library will be renovated next summer.",
+          "Parking permits can be purchased online.",
+          "Classes begin at 8 a.m. on weekdays.",
+          "Your outstanding academic record impressed the selection committee."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence explains why the award was granted and precedes the instructions."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "within",
+          "until",
+          "since"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Within two weeks' sets a time limit."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "results",
+          "result",
+          "resulting",
+          "resulted"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'will', the base form is used: 'result in' is the fixed phrase."
+      }
+    ]
+  },
+  {
+    "id": "p6-029",
+    "documentType": "memo",
+    "text": "MEMO\nTo: All employees\nFrom: Office of the Director\nDate: March 3\n\nFollowing a successful trial period, the company will [1] a flexible work schedule starting April 1. Employees may work from home up to two days per week, [2] their supervisor approves. [3] This arrangement is intended to improve work-life balance and reduce commuting costs. Employees who work remotely are expected to be available [4] regular business hours.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "interrupt",
+          "introduce",
+          "inspect",
+          "invest"
+        ],
+        "answerIndex": 1,
+        "explanation": "A company 'introduces' a new schedule."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "as long as",
+          "whereas",
+          "although"
+        ],
+        "answerIndex": 1,
+        "explanation": "Remote work is allowed on the condition that the supervisor approves."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cafeteria will be renovated in May.",
+          "Requests must be submitted through the HR portal.",
+          "Parking spaces are assigned by seniority.",
+          "The annual report will be published in June."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence explains how to get the permission mentioned before; 'This arrangement' then refers back to the schedule."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "while",
+          "during",
+          "since",
+          "until"
+        ],
+        "answerIndex": 1,
+        "explanation": "'During' is followed by a noun phrase indicating a period."
+      }
+    ]
+  },
+  {
+    "id": "p6-030",
+    "documentType": "online_chat",
+    "text": "Guest (2:14 p.m.): Hello, I booked a double room for May 12-15, but I need to [1] my reservation to May 14-17.\nReception (2:15 p.m.): Certainly. [2] May I have your confirmation number?\nGuest (2:16 p.m.): It's HT-48291.\nReception (2:18 p.m.): Thank you. A double room is available on those dates. The rate will [3] the same. Would you like [4] a parking space as well?",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "change",
+          "cancel",
+          "confirm",
+          "refund"
+        ],
+        "answerIndex": 0,
+        "explanation": "The guest wants to modify the dates: 'change my reservation to'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our restaurant serves breakfast until ten.",
+          "I will be glad to help you with that.",
+          "Checkout time is at noon on weekdays.",
+          "The swimming pool is closed for maintenance."
+        ],
+        "answerIndex": 1,
+        "explanation": "The reception answers the request and then asks for the confirmation number."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "remains",
+          "remaining",
+          "remained",
+          "remain"
+        ],
+        "answerIndex": 3,
+        "explanation": "After the modal 'will', the base form is used."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "reserving",
+          "reserve",
+          "reserves",
+          "to reserve"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Would you like' is followed by a to-infinitive."
+      }
+    ]
+  },
+  {
+    "id": "p6-031",
+    "documentType": "job_ad",
+    "text": "Seaside Resort is hiring a Front Desk Supervisor\n\nSeaside Resort, a four-star hotel on the coast, is looking for an experienced Front Desk Supervisor to [1] a team of ten receptionists. [2] The supervisor will be responsible for scheduling, training new staff, and handling guest complaints. Candidates should have at least three years of experience in the hospitality industry and be willing to work weekends. Fluency in [3] English and Spanish is [4]. Interested applicants should e-mail their résumé to careers@seasideresort.example.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "manager",
+          "manage",
+          "managing",
+          "management"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'to', the base form of the verb is needed."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The hotel's pool is closed in winter.",
+          "This is a full-time position with a competitive salary and benefits.",
+          "Breakfast is served in the main restaurant.",
+          "The airport shuttle runs every hour."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence presents the job in general terms before the duties are detailed."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "either",
+          "both",
+          "neither",
+          "each"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Both ... and' links the two languages that are required."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "requiring",
+          "require",
+          "required",
+          "requirement"
+        ],
+        "answerIndex": 2,
+        "explanation": "The passive 'is required' is needed after 'is'."
+      }
+    ]
+  },
+  {
+    "id": "p6-032",
+    "documentType": "email",
+    "text": "Dear Customer,\n\nYour electricity bill for the period ending June 30 is now available online. The total amount due is $84.20. [1] To avoid a late fee, payment must be received by July 20. You can pay online, by phone, or in person [2] any of our service centers. This month's bill is lower than last month's [3] you used less energy during the cooler weather. If you would like tips on how to reduce your consumption, [4] our website's Energy Saver page.\n\nBrightGrid Utilities",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our power plant was built in 1985.",
+          "A detailed breakdown of the charges is attached.",
+          "The mayor announced a new bus route.",
+          "Your gas meter will be replaced next week."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence relates to the bill and precedes the payment instructions."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "on",
+          "at",
+          "by",
+          "from"
+        ],
+        "answerIndex": 1,
+        "explanation": "'In person at' a location is the usual construction."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "because",
+          "although",
+          "unless",
+          "whereas"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lower bill is explained by the lower energy use."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "visiting",
+          "visited",
+          "visit",
+          "visits"
+        ],
+        "answerIndex": 2,
+        "explanation": "An imperative is needed after the 'if' clause."
+      }
+    ]
+  }
+]
