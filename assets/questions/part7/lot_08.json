@@ -1,0 +1,620 @@
+[
+  {
+    "id": "p7-071",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Service appointment confirmed",
+        "text": "To: Hannah Wu\nFrom: Redline Auto Care\nDate: February 6\n\nDear Hannah Wu,\nYour appointment for a 60,000-km service is confirmed for Tuesday, February 13, at 8:30 a.m. at our Eastgate location. The service includes an oil change, brake inspection, tire rotation, and a 30-point safety check, with a total estimated cost of $320. If additional repairs are needed, a technician will call you for approval before any work begins. Please remove valuables from your car and leave the key at the front desk. A free shuttle to the Eastgate business park is available, or you can wait in our lounge, which has free Wi-Fi. The work normally takes about three hours. Reply to this e-mail if you need to reschedule."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Redline Auto Care send the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To report a recall",
+          "To confirm a service appointment",
+          "To request payment for repairs",
+          "To advertise a discount"
+        ],
+        "answerIndex": 1,
+        "explanation": "The e-mail confirms the February 13 appointment."
+      },
+      {
+        "prompt": "What will happen if the car needs additional repairs?",
+        "category": "detail",
+        "choices": [
+          "They will be done automatically",
+          "They will be free of charge",
+          "They will be postponed for a year",
+          "The customer will be called for approval"
+        ],
+        "answerIndex": 3,
+        "explanation": "A technician will call before any work begins."
+      },
+      {
+        "prompt": "When will the car most likely be ready?",
+        "category": "inference",
+        "choices": [
+          "Around 11:30 a.m.",
+          "At 8:30 a.m.",
+          "Around 10:00 a.m.",
+          "The next day"
+        ],
+        "answerIndex": 0,
+        "explanation": "The work takes about three hours from an 8:30 a.m. start."
+      }
+    ]
+  },
+  {
+    "id": "p7-072",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Annual Book Sale",
+        "text": "Friends of the Elmwood Library\nSaturday, October 12, 9 a.m. to 4 p.m., Elmwood Library, Main Hall\n\nThousands of gently used books, DVDs, and records will be on sale: paperbacks $1, hardcovers $2, and DVDs $3. All items are half price after 1 p.m. Proceeds will fund the children's reading room. Donations of books are accepted at the library desk until October 5; we regret that we cannot accept textbooks or encyclopedias. Volunteers are welcome. Contact Donna at 555-0114."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much will a hardcover cost at 2 p.m.?",
+        "category": "inference",
+        "choices": [
+          "$0.50",
+          "$2",
+          "$1",
+          "$3"
+        ],
+        "answerIndex": 2,
+        "explanation": "Hardcovers cost $2, and all items are half price after 1 p.m."
+      },
+      {
+        "prompt": "What will the money raised be used for?",
+        "category": "detail",
+        "choices": [
+          "New books for adults",
+          "A larger main hall",
+          "A reading room for children",
+          "Library staff salaries"
+        ],
+        "answerIndex": 2,
+        "explanation": "Proceeds will fund the children's reading room."
+      }
+    ]
+  },
+  {
+    "id": "p7-073",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Messages between Leo and Tara",
+        "text": "Leo [6:45 p.m.]: Hey Tara, are you free to cover my shift on Saturday? My sister's wedding got moved and I need the day off.\nTara [6:52 p.m.]: What time is the shift?\nLeo [6:53 p.m.]: 9 to 5 at the downtown store. Mr. Silva said it's fine if we swap, as long as we tell him by Thursday.\nTara [6:58 p.m.]: I'm working the evening shift Friday, so I'd be tired, but I could do it. Could you take my Sunday shift in return?\nLeo [7:01 p.m.]: Sure! Sunday is 10 to 4, right?\nTara [7:02 p.m.]: Yes. Thanks, you're a lifesaver!\nLeo [7:03 p.m.]: I'll text Mr. Silva tonight. Thanks!"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Leo ask Tara to cover a shift?",
+        "category": "detail",
+        "choices": [
+          "Leo needs the day off for a family event",
+          "Leo is feeling ill",
+          "Leo is moving to another store",
+          "Leo wants to work on Sunday"
+        ],
+        "answerIndex": 0,
+        "explanation": "Leo's sister's wedding was moved, so Leo needs Saturday off."
+      },
+      {
+        "prompt": "What is required for the swap to be approved?",
+        "category": "detail",
+        "choices": [
+          "Paying a fee",
+          "Working the evening shift",
+          "Bringing a doctor's note",
+          "Telling Mr. Silva by Thursday"
+        ],
+        "answerIndex": 3,
+        "explanation": "Mr. Silva allows swaps as long as he is told by Thursday."
+      },
+      {
+        "prompt": "At 7:02 p.m., what does Tara mean by writing \"you're a lifesaver\"?",
+        "category": "purpose",
+        "choices": [
+          "Tara is worried about the wedding",
+          "Tara is grateful that Leo agreed to the swap",
+          "Tara thinks Leo is in danger",
+          "Tara needs medical help"
+        ],
+        "answerIndex": 1,
+        "explanation": "Leo agreed to work Tara's Sunday shift in return."
+      },
+      {
+        "prompt": "What will Leo most likely do on Sunday?",
+        "category": "inference",
+        "choices": [
+          "Work from 9 a.m. to 5 p.m.",
+          "Work from 10 a.m. to 4 p.m.",
+          "Attend a wedding",
+          "Meet Mr. Silva"
+        ],
+        "answerIndex": 1,
+        "explanation": "Leo agrees to take Tara's Sunday shift, which runs from 10 to 4."
+      }
+    ]
+  },
+  {
+    "id": "p7-074",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Greenfield Expands Recycling Program",
+        "text": "GREENFIELD (April 18) - Greenfield residents will soon be able to recycle more types of waste at the curb. [A] Beginning June 3, the city will collect food scraps and yard waste in addition to paper, glass, and plastic, using a new brown bin that will be delivered to each household in May. [B] Public Works director Jerome Bell said the program aims to reduce the amount of garbage sent to the landfill by one third within two years. [C] Residents who prefer not to use the service may opt out, but they will continue to pay the monthly waste fee of $18. [D] Information sessions will be held at the library on April 25 and May 9, and a guide in six languages is available online."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What change is described in the article?",
+        "category": "main_idea",
+        "choices": [
+          "Garbage collection will stop",
+          "Waste fees will be eliminated",
+          "A landfill will be closed",
+          "The city will collect more kinds of waste for recycling"
+        ],
+        "answerIndex": 3,
+        "explanation": "Food scraps and yard waste will be added to curbside collection."
+      },
+      {
+        "prompt": "How will households receive the brown bin?",
+        "category": "detail",
+        "choices": [
+          "It will be delivered to their homes in May",
+          "They can pick it up at the library",
+          "They must buy it online",
+          "It will arrive with the first pickup in June"
+        ],
+        "answerIndex": 0,
+        "explanation": "The new bin will be delivered to each household in May."
+      },
+      {
+        "prompt": "What is suggested about residents who opt out?",
+        "category": "inference",
+        "choices": [
+          "They will receive a refund",
+          "They will lose garbage service",
+          "They will still be charged the waste fee",
+          "They will be fined"
+        ],
+        "answerIndex": 2,
+        "explanation": "They will continue to pay the monthly fee of $18."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"The brown bins will be emptied every Monday.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence follows the one introducing the new brown bin and the June 3 start of collection."
+      }
+    ]
+  },
+  {
+    "id": "p7-075",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Speakly Premium",
+        "text": "Learn a new language in just 15 minutes a day! Choose from 12 languages, including Spanish, Japanese, and Italian. Premium subscribers enjoy unlimited lessons, offline access, and live conversation practice with native tutors twice a month. Try it free for 14 days; cancel anytime before the trial ends and you won't be charged. Plans: $12.99 per month or $99 per year (save 36 percent). Download the app today from your app store. Students with a valid school e-mail address receive an extra 20 percent off any plan."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What do Premium subscribers receive?",
+        "category": "detail",
+        "choices": [
+          "A free language textbook",
+          "A private classroom",
+          "Live practice with native tutors",
+          "Daily phone calls"
+        ],
+        "answerIndex": 2,
+        "explanation": "The ad mentions live conversation practice with native tutors twice a month."
+      },
+      {
+        "prompt": "Why might someone choose the yearly plan?",
+        "category": "inference",
+        "choices": [
+          "It costs less overall",
+          "It includes more languages",
+          "It has no free trial",
+          "It offers more live lessons"
+        ],
+        "answerIndex": 0,
+        "explanation": "The yearly plan saves 36 percent compared with paying monthly."
+      },
+      {
+        "prompt": "How can students save additional money?",
+        "category": "detail",
+        "choices": [
+          "By paying monthly",
+          "By referring a friend",
+          "By downloading the app twice",
+          "By using a school e-mail address"
+        ],
+        "answerIndex": 3,
+        "explanation": "Students with a valid school e-mail address get 20 percent off."
+      }
+    ]
+  },
+  {
+    "id": "p7-076",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Dispute of a September electricity bill",
+        "text": "Dear Customer Service,\nI am writing about my electricity bill for September (account 3317-82). The bill shows a charge of $286, which is more than double my usual amount of about $120. I have not changed my habits, and no one has been staying at my home. I asked for a meter reading on September 29, but the technician did not arrive on the appointed day and was never rescheduled. I believe the charge is based on an estimated reading. Please send someone to read the meter and correct the bill. Until this matter is resolved, I will pay only the usual amount.\nI look forward to your prompt reply.\nSincerely,\nCarlos Rivera"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Carlos Rivera write the letter?",
+        "category": "purpose",
+        "choices": [
+          "To close his account",
+          "To dispute an electricity bill",
+          "To apply for new service",
+          "To thank a technician"
+        ],
+        "answerIndex": 1,
+        "explanation": "He questions a charge that is more than double his usual bill."
+      },
+      {
+        "prompt": "What does Carlos Rivera think caused the high charge?",
+        "category": "detail",
+        "choices": [
+          "A broken appliance",
+          "An estimate instead of a real meter reading",
+          "Guests staying at his home",
+          "A new rate plan"
+        ],
+        "answerIndex": 1,
+        "explanation": "He believes the charge is based on an estimated reading."
+      },
+      {
+        "prompt": "What does Carlos Rivera plan to pay for now?",
+        "category": "detail",
+        "choices": [
+          "The full $286",
+          "Nothing at all",
+          "Half of the bill",
+          "His usual amount of about $120"
+        ],
+        "answerIndex": 3,
+        "explanation": "He will pay only the usual amount until the matter is resolved."
+      }
+    ]
+  },
+  {
+    "id": "p7-077",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Harborview Hotel: Meeting Packages",
+        "text": "Half-day package (4 hours): $45 per person. Includes meeting room, projector, and coffee break.\nFull-day package (8 hours): $75 per person. Adds a lunch buffet and an afternoon snack.\nOvernight package: $145 per person. Adds a standard single room and breakfast.\n\nMinimum 10 participants. Rooms: Cedar (up to 20 people), Birch (up to 40), Grand Hall (up to 120). Groups of 30 or more receive a 10 percent discount on the total. The final headcount is due 7 days before the event."
+      },
+      {
+        "type": "email",
+        "title": "Sales training on June 12",
+        "text": "To: events@harborviewhotel.example\nFrom: Veronica Hale, Orchid Pharma\nDate: May 20\n\nHello,\nWe are planning a one-day sales training for 35 employees on June 12. We need a projector and lunch. Some team members come from other cities and would like a room the night before. Could you recommend a package and a room?\nVeronica Hale"
+      },
+      {
+        "type": "email",
+        "title": "Re: Sales training on June 12",
+        "text": "To: Veronica Hale\nFrom: Isabel Ward, Events Manager\nDate: May 21\n\nDear Veronica Hale,\nThank you for your inquiry. For 35 participants, I recommend the Birch Room with the full-day package. Because your group exceeds 30, the 10 percent discount applies, bringing the cost to $2,362.50. Rooms for your out-of-town guests can be booked separately at a corporate rate of $110 per night. Please confirm your final headcount by June 5.\nBest regards,\nIsabel Ward"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Which room does the hotel recommend?",
+        "category": "detail",
+        "choices": [
+          "The Birch Room",
+          "The Cedar Room",
+          "The Grand Hall",
+          "A hotel suite"
+        ],
+        "answerIndex": 0,
+        "explanation": "The Birch Room holds up to 40 people, enough for 35."
+      },
+      {
+        "prompt": "How much will Orchid Pharma pay for the meeting package?",
+        "category": "inference",
+        "choices": [
+          "$1,575",
+          "$2,100",
+          "$2,362.50",
+          "$2,625"
+        ],
+        "answerIndex": 2,
+        "explanation": "35 people at $75 is $2,625, less 10 percent."
+      },
+      {
+        "prompt": "Why does the discount apply?",
+        "category": "detail",
+        "choices": [
+          "They are booking early",
+          "They need guest rooms",
+          "The group has more than 30 people",
+          "They are staying overnight"
+        ],
+        "answerIndex": 2,
+        "explanation": "Groups of 30 or more receive 10 percent off."
+      },
+      {
+        "prompt": "By when must Orchid Pharma confirm the number of participants?",
+        "category": "inference",
+        "choices": [
+          "June 5",
+          "May 29",
+          "June 11",
+          "June 12"
+        ],
+        "answerIndex": 0,
+        "explanation": "The headcount is due 7 days before the June 12 event."
+      },
+      {
+        "prompt": "What does the overnight package include that the full-day package does not?",
+        "category": "inference",
+        "choices": [
+          "A lunch buffet",
+          "A projector",
+          "An afternoon snack",
+          "A room and breakfast"
+        ],
+        "answerIndex": 3,
+        "explanation": "The overnight package adds a standard single room and breakfast."
+      }
+    ]
+  },
+  {
+    "id": "p7-078",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Next year's budget requests",
+        "text": "TO: Department managers\nFROM: Lucas Fenn, Chief Financial Officer\nDATE: October 7\nSUBJECT: Next year's budget requests\n\nBudget requests for the next fiscal year must be submitted by November 1 through the finance portal. Each request must include a justification and, for any purchase above $5,000, two vendor quotes. Departments should aim to hold overall spending at this year's level; requests for increases will be approved only if they directly support revenue growth. Hiring requests must be submitted separately to Human Resources. Budget review meetings will take place the week of November 11."
+      },
+      {
+        "type": "email",
+        "title": "Marketing budget",
+        "text": "To: Lucas Fenn\nFrom: Dara Singh, Marketing\nDate: October 28\n\nDear Mr. Fenn,\nI have submitted our request through the portal. We are asking for a 12 percent increase to launch a new online advertising campaign, which our analysis suggests could increase online sales by 20 percent. For the new video equipment ($7,800), I attached quotes from two suppliers. I have also written to HR about adding one social media specialist. Could we schedule our review meeting on November 12 in the morning?\nDara Singh"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why might Dara Singh's request for an increase be approved?",
+        "category": "inference",
+        "choices": [
+          "Marketing always receives more money",
+          "It is expected to support revenue growth",
+          "It was submitted late",
+          "It includes a hiring request"
+        ],
+        "answerIndex": 1,
+        "explanation": "The memo says increases are approved only if they support revenue growth, and the campaign is expected to raise sales."
+      },
+      {
+        "prompt": "Why did Dara Singh attach two quotes?",
+        "category": "inference",
+        "choices": [
+          "The campaign is expensive",
+          "The video equipment costs more than $5,000",
+          "HR required them",
+          "The CFO asked for them personally"
+        ],
+        "answerIndex": 1,
+        "explanation": "Purchases above $5,000 need two vendor quotes, and the equipment costs $7,800."
+      },
+      {
+        "prompt": "Where should hiring requests be sent?",
+        "category": "detail",
+        "choices": [
+          "To the finance portal",
+          "To the CFO",
+          "To the vendors",
+          "To Human Resources"
+        ],
+        "answerIndex": 3,
+        "explanation": "Hiring requests must be submitted separately to Human Resources."
+      },
+      {
+        "prompt": "What has Dara Singh done about the new employee?",
+        "category": "detail",
+        "choices": [
+          "Contacted HR separately",
+          "Included it in the portal request",
+          "Hired someone already",
+          "Canceled the idea"
+        ],
+        "answerIndex": 0,
+        "explanation": "Dara Singh has written to HR about a social media specialist."
+      },
+      {
+        "prompt": "When does Dara Singh want the review meeting?",
+        "category": "detail",
+        "choices": [
+          "By November 1",
+          "In the week of October 7",
+          "On the morning of November 12",
+          "On the afternoon of November 11"
+        ],
+        "answerIndex": 2,
+        "explanation": "The request is for November 12 in the morning."
+      }
+    ]
+  },
+  {
+    "id": "p7-079",
+    "documents": [
+      {
+        "type": "article",
+        "title": "City Pool to Reopen After Renovation",
+        "text": "RIVERTON (May 20) - The Riverton Community Pool will reopen on June 8 after a six-month renovation. The $2.4 million project added a heated children's pool, a new filtration system, and improved accessibility, including a lift for swimmers with limited mobility. Annual passes will cost $90 for adults and $50 for children; day passes remain $6. Residents who held a pass before the closure will receive an e-mail with a free one-month extension. Swimming lessons for ages 4 to 12 begin June 17."
+      },
+      {
+        "type": "online_chat",
+        "title": "Chat between neighbors",
+        "text": "Tess [1:10 p.m.]: Did you see the pool is reopening?\nJorge [1:12 p.m.]: Yes! I held an annual pass before it closed. I should get an e-mail about an extension.\nTess [1:13 p.m.]: I'm going to sign my twins up for lessons. They're 7.\nJorge [1:14 p.m.]: Good idea. I think registration fills up quickly.\nTess [1:15 p.m.]: I'll check the website tonight.\nJorge [1:16 p.m.]: Also, my mother uses a wheelchair. The new lift will help her. We might go on opening day."
+      },
+      {
+        "type": "email",
+        "title": "Your pass extension",
+        "text": "To: Jorge Cruz\nFrom: Riverton Parks Department\nDate: May 28\n\nDear Jorge Cruz,\nWe are pleased that you will soon be able to swim again. As a former pass holder, you have received a one-month extension, and your pass is now valid until July 8. Please bring this e-mail to the front desk on your first visit. The opening-day celebration begins at 10 a.m. on June 8, with free entry for all until noon. Online registration for swimming lessons opens on May 31 at 9 a.m.\nRiverton Parks Department"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What will Tess most likely do tonight?",
+        "category": "inference",
+        "choices": [
+          "Buy an annual pass",
+          "Visit the pool",
+          "Check the website about lessons",
+          "Renew Jorge's pass"
+        ],
+        "answerIndex": 2,
+        "explanation": "Tess says she will check the website tonight to sign the twins up for lessons."
+      },
+      {
+        "prompt": "When will online registration for lessons open?",
+        "category": "detail",
+        "choices": [
+          "On May 31",
+          "On May 20",
+          "On June 8",
+          "On June 17"
+        ],
+        "answerIndex": 0,
+        "explanation": "The e-mail says registration opens on May 31 at 9 a.m."
+      },
+      {
+        "prompt": "What is true about the extension Jorge Cruz received?",
+        "category": "detail",
+        "choices": [
+          "It gives free day passes for a year",
+          "It is for children only",
+          "It ends on opening day",
+          "It adds one month and lasts until July 8"
+        ],
+        "answerIndex": 3,
+        "explanation": "His pass is now valid until July 8."
+      },
+      {
+        "prompt": "Why will the pool be easier for some visitors to use?",
+        "category": "detail",
+        "choices": [
+          "A fee was removed",
+          "A lift for swimmers with limited mobility was added",
+          "Opening hours were extended",
+          "A second entrance was built"
+        ],
+        "answerIndex": 1,
+        "explanation": "The renovation improved accessibility, including a lift."
+      },
+      {
+        "prompt": "How much would annual passes for Tess's twins cost in total?",
+        "category": "inference",
+        "choices": [
+          "$50",
+          "$100",
+          "$90",
+          "$180"
+        ],
+        "answerIndex": 1,
+        "explanation": "Children's annual passes cost $50 each."
+      }
+    ]
+  },
+  {
+    "id": "p7-080",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Employee Parking Permit Renewal",
+        "text": "Annual parking permits expire on December 31. Renewal for next year is $240 for the covered garage and $120 for the open lot. Employees who renew before December 1 receive a 10 percent discount. Payroll deduction is available in 12 monthly installments. New applicants are placed on a waiting list for the covered garage; open-lot permits are issued immediately. Lost permits can be replaced for $15 at the Security Office in Building A, from 8 a.m. to 4 p.m."
+      },
+      {
+        "type": "email",
+        "title": "Permit renewal",
+        "text": "To: security@company.example\nFrom: Nora Quinn\nDate: November 20\n\nHello,\nI currently have a covered garage permit and would like to renew it before the discount deadline. I would like to pay through payroll deduction. Also, I lost my permit sticker last month and have been using a temporary pass. Can I pay for a replacement at the same time? My office is in Building C, so a visit to Building A would be inconvenient.\nThank you,\nNora Quinn"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much will Nora Quinn pay in total for the renewal?",
+        "category": "inference",
+        "choices": [
+          "$108",
+          "$120",
+          "$240",
+          "$216"
+        ],
+        "answerIndex": 3,
+        "explanation": "The covered garage costs $240, less a 10 percent discount for renewing before December 1."
+      },
+      {
+        "prompt": "How much would Nora Quinn pay each month with payroll deduction?",
+        "category": "inference",
+        "choices": [
+          "$18",
+          "$10",
+          "$20",
+          "$21.60"
+        ],
+        "answerIndex": 0,
+        "explanation": "$216 divided into 12 installments is $18."
+      },
+      {
+        "prompt": "Why does Nora Quinn prefer not to go to Building A?",
+        "category": "detail",
+        "choices": [
+          "The Security Office closes early",
+          "She lost her ID",
+          "Her office is in a different building",
+          "Building A is closed"
+        ],
+        "answerIndex": 2,
+        "explanation": "She says her office is in Building C, so a visit would be inconvenient."
+      },
+      {
+        "prompt": "How much does a replacement permit cost?",
+        "category": "detail",
+        "choices": [
+          "$18",
+          "$120",
+          "$15",
+          "$240"
+        ],
+        "answerIndex": 2,
+        "explanation": "Lost permits can be replaced for $15."
+      },
+      {
+        "prompt": "What would happen to a new applicant who wants covered parking?",
+        "category": "inference",
+        "choices": [
+          "The applicant would be put on a waiting list",
+          "The applicant would receive a permit immediately",
+          "The applicant would pay $120",
+          "The applicant would receive a discount"
+        ],
+        "answerIndex": 0,
+        "explanation": "New applicants are placed on a waiting list for the covered garage."
+      }
+    ]
+  }
+]
