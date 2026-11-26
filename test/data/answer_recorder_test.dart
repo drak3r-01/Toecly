@@ -65,7 +65,13 @@ void main() {
       ..select(0)
       ..advance()
       ..select(1);
-    await recorder.recordSession(session, SessionMode.practice, const Duration(seconds: 42));
+    await recorder.recordSession(
+      mode: SessionMode.practice,
+      exercises: session.exercises,
+      totalQuestions: session.totalQuestions,
+      correctAnswers: session.correctCount,
+      duration: const Duration(seconds: 42),
+    );
 
     final record = SessionHistoryRepository(store).loadAll().single;
     expect(record.parts, {ToeicPart.part5, ToeicPart.part6});

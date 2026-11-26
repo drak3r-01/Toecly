@@ -517,6 +517,108 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Start'**
   String get practiceStart;
+
+  /// No description provided for @examStart.
+  ///
+  /// In en, this message translates to:
+  /// **'Start the exam'**
+  String get examStart;
+
+  /// No description provided for @examSubmit.
+  ///
+  /// In en, this message translates to:
+  /// **'Submit'**
+  String get examSubmit;
+
+  /// No description provided for @examPrevious.
+  ///
+  /// In en, this message translates to:
+  /// **'Previous'**
+  String get examPrevious;
+
+  /// No description provided for @examKeepWorking.
+  ///
+  /// In en, this message translates to:
+  /// **'Keep working'**
+  String get examKeepWorking;
+
+  /// No description provided for @examSubmitTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Submit the exam?'**
+  String get examSubmitTitle;
+
+  /// No description provided for @examUnanswered.
+  ///
+  /// In en, this message translates to:
+  /// **'Unanswered questions: {count}'**
+  String examUnanswered(int count);
+
+  /// No description provided for @examQuitTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Quit the exam?'**
+  String get examQuitTitle;
+
+  /// No description provided for @examQuitMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'Your progress will be lost.'**
+  String get examQuitMessage;
+
+  /// No description provided for @examQuit.
+  ///
+  /// In en, this message translates to:
+  /// **'Quit'**
+  String get examQuit;
+
+  /// No description provided for @examResultTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Mock exam result'**
+  String get examResultTitle;
+
+  /// No description provided for @examTimeUp.
+  ///
+  /// In en, this message translates to:
+  /// **'Time is up: your exam was submitted.'**
+  String get examTimeUp;
+
+  /// No description provided for @examTimeUsed.
+  ///
+  /// In en, this message translates to:
+  /// **'Time used: {minutes} min'**
+  String examTimeUsed(int minutes);
+
+  /// No description provided for @examByPart.
+  ///
+  /// In en, this message translates to:
+  /// **'By part'**
+  String get examByPart;
+
+  /// No description provided for @examFilterAll.
+  ///
+  /// In en, this message translates to:
+  /// **'All'**
+  String get examFilterAll;
+
+  /// No description provided for @examFilterMistakes.
+  ///
+  /// In en, this message translates to:
+  /// **'Mistakes'**
+  String get examFilterMistakes;
+
+  /// No description provided for @examNotAnswered.
+  ///
+  /// In en, this message translates to:
+  /// **'Not answered'**
+  String get examNotAnswered;
+
+  /// No description provided for @examBackToExam.
+  ///
+  /// In en, this message translates to:
+  /// **'Done'**
+  String get examBackToExam;
 }
 
 class _AppLocalizationsDelegate

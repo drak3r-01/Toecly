@@ -140,5 +140,36 @@
   "quizLoadError": "Impossible de charger les questions.",
   "practicePartsLabel": "Parties",
   "practiceCountLabel": "Nombre de questions",
-  "practiceStart": "Commencer"
+  "practiceStart": "Commencer",
+  "examStart": "Commencer l'examen",
+  "examSubmit": "Rendre",
+  "examPrevious": "Précédent",
+  "examKeepWorking": "Continuer",
+  "examSubmitTitle": "Rendre l'examen ?",
+  "examUnanswered": "Questions sans réponse : {count}",
+  "@examUnanswered": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "examQuitTitle": "Quitter l'examen ?",
+  "examQuitMessage": "Votre progression sera perdue.",
+  "examQuit": "Quitter",
+  "examResultTitle": "Résultat de l'examen blanc",
+  "examTimeUp": "Temps écoulé : votre examen a été rendu.",
+  "examTimeUsed": "Temps utilisé : {minutes} min",
+  "@examTimeUsed": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "examByPart": "Par partie",
+  "examFilterAll": "Toutes",
+  "examFilterMistakes": "Erreurs",
+  "examNotAnswered": "Sans réponse",
+  "examBackToExam": "Terminer"
 }

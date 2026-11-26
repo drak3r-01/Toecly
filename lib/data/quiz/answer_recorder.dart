@@ -3,7 +3,6 @@ import '../storage/missed_questions_repository.dart';
 import '../storage/part_stats_repository.dart';
 import '../storage/session_history_repository.dart';
 import '../storage/session_record.dart';
-import 'quiz_session.dart';
 
 /// Persists what happens during a session: each answer (stats, missed
 /// questions) as soon as it is given, and the session summary when it ends.
@@ -36,17 +35,23 @@ class AnswerRecorder {
     }
   }
 
-  Future<void> recordSession(
-    QuizSession session,
-    SessionMode mode,
-    Duration duration,
-  ) =>
+  /// A question left blank at the end of an exam: not counted in the stats
+  /// (nothing was answered) but kept for review.
+  Future<void> recordSkipped(Question question) => missed.markMissed(question.id);
+
+  Future<void> recordSession({
+    required SessionMode mode,
+    required List<Exercise> exercises,
+    required int totalQuestions,
+    required int correctAnswers,
+    required Duration duration,
+  }) =>
       history.add(SessionRecord(
         mode: mode,
         finishedAt: _now(),
-        parts: {for (final e in session.exercises) e.part},
-        totalQuestions: session.totalQuestions,
-        correctAnswers: session.correctCount,
+        parts: {for (final e in exercises) e.part},
+        totalQuestions: totalQuestions,
+        correctAnswers: correctAnswers,
         durationSeconds: duration.inSeconds,
       ));
 }

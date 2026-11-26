@@ -236,4 +236,59 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get practiceStart => 'Start';
+
+  @override
+  String get examStart => 'Start the exam';
+
+  @override
+  String get examSubmit => 'Submit';
+
+  @override
+  String get examPrevious => 'Previous';
+
+  @override
+  String get examKeepWorking => 'Keep working';
+
+  @override
+  String get examSubmitTitle => 'Submit the exam?';
+
+  @override
+  String examUnanswered(int count) {
+    return 'Unanswered questions: $count';
+  }
+
+  @override
+  String get examQuitTitle => 'Quit the exam?';
+
+  @override
+  String get examQuitMessage => 'Your progress will be lost.';
+
+  @override
+  String get examQuit => 'Quit';
+
+  @override
+  String get examResultTitle => 'Mock exam result';
+
+  @override
+  String get examTimeUp => 'Time is up: your exam was submitted.';
+
+  @override
+  String examTimeUsed(int minutes) {
+    return 'Time used: $minutes min';
+  }
+
+  @override
+  String get examByPart => 'By part';
+
+  @override
+  String get examFilterAll => 'All';
+
+  @override
+  String get examFilterMistakes => 'Mistakes';
+
+  @override
+  String get examNotAnswered => 'Not answered';
+
+  @override
+  String get examBackToExam => 'Done';
 }

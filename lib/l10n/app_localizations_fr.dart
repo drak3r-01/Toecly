@@ -236,4 +236,59 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get practiceStart => 'Commencer';
+
+  @override
+  String get examStart => 'Commencer l\'examen';
+
+  @override
+  String get examSubmit => 'Rendre';
+
+  @override
+  String get examPrevious => 'Précédent';
+
+  @override
+  String get examKeepWorking => 'Continuer';
+
+  @override
+  String get examSubmitTitle => 'Rendre l\'examen ?';
+
+  @override
+  String examUnanswered(int count) {
+    return 'Questions sans réponse : $count';
+  }
+
+  @override
+  String get examQuitTitle => 'Quitter l\'examen ?';
+
+  @override
+  String get examQuitMessage => 'Votre progression sera perdue.';
+
+  @override
+  String get examQuit => 'Quitter';
+
+  @override
+  String get examResultTitle => 'Résultat de l\'examen blanc';
+
+  @override
+  String get examTimeUp => 'Temps écoulé : votre examen a été rendu.';
+
+  @override
+  String examTimeUsed(int minutes) {
+    return 'Temps utilisé : $minutes min';
+  }
+
+  @override
+  String get examByPart => 'Par partie';
+
+  @override
+  String get examFilterAll => 'Toutes';
+
+  @override
+  String get examFilterMistakes => 'Erreurs';
+
+  @override
+  String get examNotAnswered => 'Sans réponse';
+
+  @override
+  String get examBackToExam => 'Terminer';
 }
