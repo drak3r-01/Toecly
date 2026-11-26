@@ -7,6 +7,11 @@ import 'package:toecly/core/toeic_part.dart';
 import 'package:toecly/data/exercises/exercise_repository.dart';
 import 'package:toecly/data/exercises/models.dart';
 import 'package:toecly/data/storage/local_store.dart';
+import 'package:toecly/data/storage/missed_questions_repository.dart';
+import 'package:toecly/data/storage/part_stats_repository.dart';
+import 'package:toecly/data/storage/session_history_repository.dart';
+import 'package:toecly/data/storage/session_record.dart';
+import 'package:toecly/features/practice/practice_setup_screen.dart';
 import 'package:toecly/features/quiz/quiz_screen.dart';
 import 'package:toecly/l10n/app_localizations.dart';
 
@@ -150,30 +155,65 @@ void main() {
     expect(find.text('1 / 2 correct'), findsOneWidget);
   });
 
-  testWidgets('Practice quick start opens a session drawn from the stock', (tester) async {
+  testWidgets('Practice setup: pick parts and count, then start a session', (tester) async {
     tester.view.physicalSize = const Size(400, 900);
     tester.view.devicePixelRatio = 1;
     addTearDown(tester.view.reset);
     tester.platformDispatcher.localesTestValue = [const Locale('en')];
     addTearDown(tester.platformDispatcher.clearLocalesTestValue);
+    final store = InMemoryStore();
     await tester.pumpWidget(ProviderScope(
       overrides: [
-        localStoreProvider.overrideWithValue(InMemoryStore()),
-        exerciseRepositoryProvider.overrideWithValue(ExerciseRepository(() async => [_p5])),
+        localStoreProvider.overrideWithValue(store),
+        exerciseRepositoryProvider.overrideWithValue(ExerciseRepository(() async => [_p5, _p6])),
       ],
       child: const ToeclyApp(),
     ));
     await tester.pumpAndSettle();
     await tester.tap(find.text('Practice').last);
     await tester.pumpAndSettle();
-    await tester.tap(find.text('Part 5 · Incomplete sentences'));
+
+    await tester.tap(find.text('Part 6 · Text completion')); // unselect Part 6
+    await tester.tap(find.text('Part 7 · Reading comprehension'));
+    await tester.tap(find.text('20'));
+    await tester.pump();
+    await tester.tap(find.text('Start'));
     await tester.pumpAndSettle();
 
     expect(find.text('Question 1 / 1'), findsOneWidget);
     expect(find.text('The meeting was ___ until Monday.'), findsOneWidget);
 
-    await tester.tap(find.byIcon(Icons.close));
+    await tester.tap(find.text('postpone')); // wrong answer
     await tester.pumpAndSettle();
-    expect(find.text('Quick start'), findsOneWidget);
+    expect(MissedQuestionsRepository(store).loadIds(), ['p5-x']);
+    expect(PartStatsRepository(store).forPart(ToeicPart.part5).answered, 1);
+
+    await tester.tap(find.text('Finish'));
+    await tester.pumpAndSettle();
+    final history = SessionHistoryRepository(store).loadAll();
+    expect(history, hasLength(1));
+    expect(history.single.mode, SessionMode.practice);
+    expect(history.single.correctAnswers, 0);
+
+    await tester.tap(find.text('Back to practice'));
+    await tester.pumpAndSettle();
+    expect(find.text('Start'), findsOneWidget);
+  });
+
+  testWidgets('at least one part stays selected', (tester) async {
+    tester.view.physicalSize = const Size(400, 900);
+    tester.view.devicePixelRatio = 1;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(MaterialApp(
+      localizationsDelegates: AppLocalizations.localizationsDelegates,
+      supportedLocales: AppLocalizations.supportedLocales,
+      locale: const Locale('en'),
+      home: const Scaffold(body: PracticeSetupScreen()),
+    ));
+    for (final label in ['Part 5', 'Part 6', 'Part 7']) {
+      await tester.tap(find.textContaining(label));
+      await tester.pump();
+    }
+    expect(find.byWidgetPredicate((w) => w is FilterChip && w.selected), findsOneWidget);
   });
 }
