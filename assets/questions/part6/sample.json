@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p6-sample-001",
+    "documentType": "email",
+    "text": "Dear Ms. Lee,\n\nThank you for [1] our store last week. We hope you enjoyed your shopping experience. [2] As a loyal customer, you are invited to our private sale, which starts on June 3. Please present this e-mail at the entrance to receive an additional 10 percent discount [3] your purchase. We look forward to seeing you [4].\n\nSincerely,\nThe Greenfield Team",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "visit",
+          "visiting",
+          "visited",
+          "visits"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Thank you for' is followed by a gerund."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The store will be closed on Sundays.",
+          "We value your opinion and your loyalty.",
+          "Your order has been shipped.",
+          "Please update your password."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence must connect thanks for the visit with the invitation that follows."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "on",
+          "at",
+          "in",
+          "to"
+        ],
+        "answerIndex": 0,
+        "explanation": "'a discount on a purchase' is the standard collocation."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "soon",
+          "yet",
+          "ever",
+          "once"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Look forward to seeing you soon' is the natural closing."
+      }
+    ]
+  }
+]

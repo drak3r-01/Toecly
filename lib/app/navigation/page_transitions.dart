@@ -1,7 +1,7 @@
 import 'package:go_router/go_router.dart';
 import 'package:material_ui/material_ui.dart';
 
-/// Page avec un fondu + léger glissement vers le haut, utilisée par toutes les routes.
+/// Fade + slight upward slide, used by every route.
 CustomTransitionPage<void> fadeSlidePage({required GoRouterState state, required Widget child}) {
   return CustomTransitionPage<void>(
     key: state.pageKey,

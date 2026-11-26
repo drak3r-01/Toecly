@@ -1,6 +1,8 @@
 import 'package:material_ui/material_ui.dart';
 
-/// Écran temporaire des fonctionnalités pas encore développées.
+import '../../l10n/app_localizations.dart';
+
+/// Temporary screen for features that are not built yet.
 class FeaturePlaceholder extends StatelessWidget {
   const FeaturePlaceholder({
     super.key,
@@ -30,11 +32,9 @@ class FeaturePlaceholder extends StatelessWidget {
                 const SizedBox(height: 16),
                 Text(title, style: theme.textTheme.headlineSmall),
                 const SizedBox(height: 8),
-                Text(description,
-                    textAlign: TextAlign.center,
-                    style: theme.textTheme.bodyLarge),
+                Text(description, textAlign: TextAlign.center, style: theme.textTheme.bodyLarge),
                 const SizedBox(height: 16),
-                const Chip(label: Text('À développer')),
+                Chip(label: Text(AppLocalizations.of(context).comingSoon)),
               ],
             ),
           ),

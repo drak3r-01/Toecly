@@ -1,6 +1,6 @@
 import 'package:material_ui/material_ui.dart';
 
-/// Thèmes Material 3 clair et sombre, générés depuis une couleur jaune/orange.
+/// Light and dark Material 3 themes, generated from a yellow/orange seed color.
 class AppTheme {
   const AppTheme._();
 
@@ -15,7 +15,7 @@ class AppTheme {
 
     return base.copyWith(
       textTheme: base.textTheme.copyWith(
-        // Texte de lecture plus aéré pour les questions et passages.
+        // Airier reading text for questions and documents.
         bodyLarge: base.textTheme.bodyLarge?.copyWith(height: 1.5),
         bodyMedium: base.textTheme.bodyMedium?.copyWith(height: 1.5),
       ),

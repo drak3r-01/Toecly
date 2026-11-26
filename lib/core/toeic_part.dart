@@ -1,25 +1,23 @@
-/// Section de l'examen TOEIC.
+/// Section of the TOEIC exam.
 enum ExamSection { listening, reading }
 
-/// Les 7 parties du TOEIC. Seules les parties de lecture (5 à 7) sont
-/// utilisables pour l'instant ; les parties d'écoute sont déjà déclarées
-/// pour que l'ajout du listening ne demande aucun changement de structure.
+/// The 7 TOEIC parts. Only the Reading parts (5 to 7) are usable for now; the
+/// Listening parts are already declared so that adding them needs no structural change.
 enum ToeicPart {
-  part1(1, ExamSection.listening, 'Photographies'),
-  part2(2, ExamSection.listening, 'Question-Réponse'),
-  part3(3, ExamSection.listening, 'Conversations'),
-  part4(4, ExamSection.listening, 'Exposés'),
-  part5(5, ExamSection.reading, 'Phrases à compléter'),
-  part6(6, ExamSection.reading, 'Textes à compléter'),
-  part7(7, ExamSection.reading, 'Compréhension de textes');
+  part1(1, ExamSection.listening),
+  part2(2, ExamSection.listening),
+  part3(3, ExamSection.listening),
+  part4(4, ExamSection.listening),
+  part5(5, ExamSection.reading),
+  part6(6, ExamSection.reading),
+  part7(7, ExamSection.reading);
 
-  const ToeicPart(this.number, this.section, this.label);
+  const ToeicPart(this.number, this.section);
 
   final int number;
   final ExamSection section;
-  final String label;
 
-  /// Dossier des questions dans les assets : `assets/questions/part5/`.
+  /// Asset folder holding the lots of this part: `assets/questions/part5/`.
   String get assetFolder => 'assets/questions/part$number/';
 
   bool get isAvailable => section == ExamSection.reading;
@@ -29,6 +27,6 @@ enum ToeicPart {
 
   static ToeicPart fromNumber(int number) => values.firstWhere(
         (part) => part.number == number,
-        orElse: () => throw FormatException('Partie TOEIC inconnue : $number'),
+        orElse: () => throw FormatException('Unknown TOEIC part: $number'),
       );
 }

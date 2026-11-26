@@ -1,27 +1,23 @@
-import 'dart:convert';
-
-import 'package:shared_preferences/shared_preferences.dart';
-
+import 'local_store.dart';
 import 'session_record.dart';
 
-/// Historique des sessions, du plus récent au plus ancien.
-/// Au-delà de [maxSessions], les plus anciennes sont purgées.
+/// Session history, newest first. Beyond [maxSessions] the oldest are dropped.
 class SessionHistoryRepository {
-  SessionHistoryRepository(this._prefs);
+  SessionHistoryRepository(this._store);
 
-  final SharedPreferences _prefs;
+  final LocalStore _store;
 
   static const _key = 'session_history';
   static const maxSessions = 200;
 
   List<SessionRecord> loadAll() {
-    final raw = _prefs.getStringList(_key) ?? const [];
-    return [for (final item in raw) SessionRecord.fromJson(jsonDecode(item) as Map<String, dynamic>)];
+    final data = _store.readJson(_key);
+    if (data is! List) return const [];
+    return [for (final item in data) SessionRecord.fromJson(item as Map<String, dynamic>)];
   }
 
   Future<void> add(SessionRecord record) {
-    final raw = _prefs.getStringList(_key) ?? const [];
-    final updated = [jsonEncode(record.toJson()), ...raw].take(maxSessions).toList();
-    return _prefs.setStringList(_key, updated);
+    final updated = [record, ...loadAll()].take(maxSessions);
+    return _store.writeJson(_key, [for (final r in updated) r.toJson()]);
   }
 }

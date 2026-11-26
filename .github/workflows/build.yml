@@ -1,12 +1,12 @@
 name: Build & Release
 
-# Se déclenche quand on pousse un tag de version (ex. v0.1.0), jamais sur un simple push.
+# Runs when a version tag (e.g. v0.1.0) is pushed, never on a plain push.
 on:
   push:
     tags: ["v*"]
 
 permissions:
-  contents: write # nécessaire pour créer la release
+  contents: write # needed to create the release
 
 jobs:
   build-android:
@@ -22,8 +22,28 @@ jobs:
           channel: stable
           cache: true
       - run: flutter pub get
+      - run: dart run tool/validate_questions.dart
       - run: flutter analyze
       - run: flutter test
+      # Release signing key, from GitHub secrets. Without them the APK is signed with the debug key.
+      - name: Configure release signing
+        env:
+          KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          STORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        run: |
+          if [ -z "$KEYSTORE_BASE64" ]; then
+            echo "::warning::No ANDROID_KEYSTORE_BASE64 secret: the APK is signed with the debug key, so it cannot update a previously installed release."
+            exit 0
+          fi
+          echo "$KEYSTORE_BASE64" | base64 -d > android/app/release.jks
+          {
+            echo "storeFile=app/release.jks"
+            echo "storePassword=$STORE_PASSWORD"
+            echo "keyAlias=$KEY_ALIAS"
+            echo "keyPassword=$KEY_PASSWORD"
+          } > android/key.properties
       - run: flutter build apk --release
       - run: cp build/app/outputs/flutter-apk/app-release.apk toecly-${{ github.ref_name }}.apk
       - uses: actions/upload-artifact@v7
@@ -40,8 +60,9 @@ jobs:
           channel: stable
           cache: true
       - run: flutter pub get
+      - run: dart run tool/validate_questions.dart
       - run: flutter build windows --release
-      # Le .exe ne fonctionne qu'avec les DLL et le dossier data/ du même dossier : on zippe tout.
+      # The .exe needs the DLLs and the data/ folder next to it: zip everything.
       - run: Compress-Archive -Path build/windows/x64/runner/Release/* -DestinationPath toecly-${{ github.ref_name }}-windows.zip
         shell: pwsh
       - uses: actions/upload-artifact@v7

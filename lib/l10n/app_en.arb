@@ -1,0 +1,101 @@
+{
+  "@@locale": "en",
+  "appTitle": "Toecly",
+  "navHome": "Home",
+  "navPractice": "Practice",
+  "navMockExam": "Mock exam",
+  "navReview": "Review",
+  "navSettings": "Settings",
+  "comingSoon": "Coming soon",
+  "practiceDescription": "Choose your parts and the number of questions.",
+  "mockExamDescription": "Full Reading simulation: {questions} questions in {minutes} minutes, with the correction at the end.",
+  "@mockExamDescription": {
+    "placeholders": {
+      "questions": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "reviewDescription": "Replay the questions you missed.",
+  "settingsTitle": "Settings",
+  "themeLabel": "Theme",
+  "themeAuto": "Auto",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "languageLabel": "Language",
+  "languageAuto": "System",
+  "languageEnglish": "English",
+  "languageFrench": "Français",
+  "estimatedScoreTitle": "Estimated Reading score",
+  "estimatedScoreRange": "{min}–{max} / 495",
+  "@estimatedScoreRange": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "estimatedScoreEmpty": "— / 495",
+  "estimatedScoreDisclaimer": "Approximation by tiers, based on your success rate. Listening is not estimated.",
+  "resumePractice": "Resume practice",
+  "partLabel": "Part {number} · {name}",
+  "@partLabel": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "part5Name": "Incomplete sentences",
+  "part6Name": "Text completion",
+  "part7Name": "Reading comprehension",
+  "successRatePercent": "{percent}%",
+  "@successRatePercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "documentTab": "Document {number}",
+  "@documentTab": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "docEmail": "Email",
+  "docLetter": "Letter",
+  "docMemo": "Memo",
+  "docNotice": "Notice",
+  "docAdvertisement": "Advertisement",
+  "docArticle": "Article",
+  "docTextMessage": "Text message",
+  "docOnlineChat": "Online chat",
+  "docForm": "Form",
+  "docInvoice": "Invoice",
+  "docSchedule": "Schedule",
+  "docJobAd": "Job ad",
+  "docWebPage": "Web page",
+  "docReview": "Review",
+  "categoryGrammar": "Grammar",
+  "categoryVocabulary": "Vocabulary",
+  "categoryConnector": "Connectors",
+  "categorySentenceInsertion": "Sentence insertion",
+  "categoryMainIdea": "Main idea",
+  "categoryDetail": "Detail",
+  "categoryInference": "Inference",
+  "categoryPurpose": "Purpose",
+  "categoryNotTrue": "NOT true",
+  "categoryVocabularyInContext": "Vocabulary in context"
+}

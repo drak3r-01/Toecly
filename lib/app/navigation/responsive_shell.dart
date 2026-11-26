@@ -1,26 +1,28 @@
 import 'package:go_router/go_router.dart';
 import 'package:material_ui/material_ui.dart';
 
+import '../../l10n/app_localizations.dart';
 import 'app_destination.dart';
 
-/// Cadre commun des écrans : `NavigationBar` en bas sur téléphone,
-/// `NavigationRail` sur le côté sur écran large (PC, tablette).
+/// Common frame: `NavigationBar` at the bottom on phones,
+/// `NavigationRail` on the side on wide screens (PC, tablet).
 class ResponsiveShell extends StatelessWidget {
   const ResponsiveShell({super.key, required this.navigationShell});
 
   final StatefulNavigationShell navigationShell;
 
-  /// Largeur à partir de laquelle on passe de la barre du bas au rail latéral.
+  /// Width from which the bottom bar becomes a side rail.
   static const double wideLayoutMinWidth = 600;
 
   void _goToDestination(int index) => navigationShell.goBranch(
         index,
-        // Re-toucher l'onglet actif revient à sa racine.
+        // Tapping the active tab again goes back to its root.
         initialLocation: index == navigationShell.currentIndex,
       );
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context);
     final isWide = MediaQuery.sizeOf(context).width >= wideLayoutMinWidth;
     final selectedIndex = navigationShell.currentIndex;
 
@@ -37,7 +39,7 @@ class ResponsiveShell extends StatelessWidget {
                   NavigationRailDestination(
                     icon: Icon(d.icon),
                     selectedIcon: Icon(d.selectedIcon),
-                    label: Text(d.label),
+                    label: Text(d.label(l10n)),
                   ),
               ],
             ),
@@ -58,7 +60,7 @@ class ResponsiveShell extends StatelessWidget {
             NavigationDestination(
               icon: Icon(d.icon),
               selectedIcon: Icon(d.selectedIcon),
-              label: d.label,
+              label: d.label(l10n),
             ),
         ],
       ),

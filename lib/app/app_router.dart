@@ -22,7 +22,7 @@ GoRouter createAppRouter() {
       StatefulShellRoute.indexedStack(
         builder: (context, state, navigationShell) =>
             ResponsiveShell(navigationShell: navigationShell),
-        // L'ordre des branches DOIT suivre l'ordre de AppDestination.values.
+        // The branch order MUST match AppDestination.values.
         branches: [
           StatefulShellBranch(routes: [route(AppDestination.dashboard, DashboardScreen.new)]),
           StatefulShellBranch(routes: [route(AppDestination.practice, PracticeSetupScreen.new)]),

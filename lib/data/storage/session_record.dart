@@ -1,8 +1,15 @@
 import '../../core/toeic_part.dart';
 
-enum SessionMode { practice, mockExam, review }
+enum SessionMode {
+  practice,
+  mockExam,
+  review;
 
-/// Résumé d'une session terminée (entraînement, examen blanc ou révision).
+  /// Training shows the correction after each question; the exam only at the end.
+  bool get revealsAnswerImmediately => this != SessionMode.mockExam;
+}
+
+/// Summary of a finished session.
 class SessionRecord {
   const SessionRecord({
     required this.mode,
