@@ -38,9 +38,9 @@
         "category": "detail",
         "choices": [
           "By receiving at least $500 a month by direct deposit",
-          "By depositing checks with a phone",
-          "By using only Greystone ATMs",
-          "By closing the account"
+          "By depositing checks with a mobile phone",
+          "By using only Greystone Bank ATMs",
+          "By closing the checking account"
         ],
         "answerIndex": 0,
         "explanation": "The fee is waived with a $1,500 balance or $500 monthly direct deposit."
@@ -142,7 +142,7 @@
         "explanation": "Students will be asked to return them at the end of eighth grade."
       },
       {
-        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"The devices are expected to be delivered by the end of this month.\"",
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"The purchase was approved by the school board in June.\"",
         "category": "sentence_insertion",
         "choices": [
           "[A]",
@@ -151,7 +151,7 @@
           "[D]"
         ],
         "answerIndex": 1,
-        "explanation": "'The devices' refers to the purchased tablets, so the sentence follows the purchase sentence."
+        "explanation": "'The purchase' refers back to the devices bought in the sentence just before [B]."
       }
     ]
   },
@@ -169,9 +169,9 @@
         "prompt": "What is the memo about?",
         "category": "main_idea",
         "choices": [
-          "A change in shift hours",
-          "A new evacuation route",
-          "A fire in the warehouse",
+          "A change in the warehouse shift hours",
+          "A new evacuation route for visitors",
+          "A fire that occurred in the warehouse",
           "Preparations for a safety inspection"
         ],
         "answerIndex": 3,
@@ -230,9 +230,9 @@
         "category": "inference",
         "choices": [
           "It is based on fresh ingredients",
-          "It is too large",
-          "It never changes",
-          "It is only vegetarian"
+          "It is too large for the kitchen",
+          "It never changes during the year",
+          "It is only for vegetarian guests"
         ],
         "answerIndex": 0,
         "explanation": "The weekly changes suggest the chef uses whatever is freshest."
@@ -241,9 +241,9 @@
         "prompt": "What is the only drawback mentioned?",
         "category": "detail",
         "choices": [
-          "The prices are high",
-          "The service is slow",
-          "The menu is limited to fish",
+          "The prices are too high for the quality",
+          "The service is slow and inattentive",
+          "The menu is limited to fish dishes",
           "Tables must be reserved well in advance"
         ],
         "answerIndex": 3,
@@ -277,10 +277,10 @@
         "prompt": "What does Daniel need to prepare?",
         "category": "detail",
         "choices": [
-          "A list of references",
+          "A list of references from past employers",
           "A sample budget report without confidential details",
-          "A copy of his résumé",
-          "A presentation about the company"
+          "A copy of an updated résumé",
+          "A presentation about the company's finances"
         ],
         "answerIndex": 1,
         "explanation": "Maya asks for a short example of a budget report."
@@ -302,9 +302,9 @@
         "category": "inference",
         "choices": [
           "E-mail a link for the video call",
-          "Interview Daniel",
-          "Send a job offer",
-          "Meet Ms. Green"
+          "Interview Daniel on video",
+          "Send Daniel a job offer",
+          "Meet Ms. Green about the position"
         ],
         "answerIndex": 0,
         "explanation": "She says she will send the video link by e-mail tomorrow morning."
@@ -383,10 +383,10 @@
         "prompt": "When is the delivery scheduled?",
         "category": "detail",
         "choices": [
-          "Friday morning",
+          "Friday morning before the weekend",
           "Saturday between 10 a.m. and 2 p.m.",
-          "Sunday afternoon",
-          "April 30"
+          "Sunday afternoon after the weekend sale",
+          "Any day before April 30"
         ],
         "answerIndex": 1,
         "explanation": "The invoice gives Saturday, April 27, from 10 a.m. to 2 p.m."
@@ -437,9 +437,9 @@
         "category": "detail",
         "choices": [
           "Signs pointing to a parking lot",
-          "A rear delivery lane",
-          "Free parking permits",
-          "A new sidewalk"
+          "A rear delivery lane behind the bakery",
+          "Free parking permits for customers",
+          "A new sidewalk in front of the shop"
         ],
         "answerIndex": 0,
         "explanation": "She asks for temporary signs directing customers to the parking lot behind the library."
@@ -448,10 +448,10 @@
         "prompt": "What will the bakery do to keep customers?",
         "category": "detail",
         "choices": [
-          "Open earlier",
-          "Lower its prices",
+          "Open earlier in the morning",
+          "Lower its prices for the eight weeks",
           "Offer free delivery on some orders",
-          "Move to a new location"
+          "Move to a new location nearby"
         ],
         "answerIndex": 2,
         "explanation": "She plans free delivery for orders over $20."
@@ -595,10 +595,10 @@
         "prompt": "What is suggested about Grace Nolan's request?",
         "category": "inference",
         "choices": [
-          "It is too late for the exhibit",
+          "It is too late to book the exhibit",
           "It is for a Monday visit",
           "It is made far enough in advance for a group",
-          "It is for a private tour"
+          "It is for a private evening tour"
         ],
         "answerIndex": 2,
         "explanation": "School groups must call at least 3 weeks ahead, and the visit is more than three weeks away."

@@ -157,9 +157,9 @@
         "prompt": "What change is described in the article?",
         "category": "main_idea",
         "choices": [
-          "Garbage collection will stop",
-          "Waste fees will be eliminated",
-          "A landfill will be closed",
+          "Garbage collection will stop completely",
+          "Monthly waste fees will be eliminated",
+          "A local landfill will be closed",
           "The city will collect more kinds of waste for recycling"
         ],
         "answerIndex": 3,
@@ -277,10 +277,10 @@
         "prompt": "What does Carlos Rivera think caused the high charge?",
         "category": "detail",
         "choices": [
-          "A broken appliance",
+          "A broken appliance in the house",
           "An estimate instead of a real meter reading",
-          "Guests staying at his home",
-          "A new rate plan"
+          "Guests staying at the home",
+          "A change to a new rate plan"
         ],
         "answerIndex": 1,
         "explanation": "He believes the charge is based on an estimated reading."
@@ -289,9 +289,9 @@
         "prompt": "What does Carlos Rivera plan to pay for now?",
         "category": "detail",
         "choices": [
-          "The full $286",
-          "Nothing at all",
-          "Half of the bill",
+          "The full $286 shown on the bill",
+          "Nothing at all until the dispute ends",
+          "Half of the amount on the bill",
           "His usual amount of about $120"
         ],
         "answerIndex": 3,
@@ -482,10 +482,10 @@
         "prompt": "What will Tess most likely do tonight?",
         "category": "inference",
         "choices": [
-          "Buy an annual pass",
-          "Visit the pool",
+          "Buy an annual pass for the twins",
+          "Visit the pool on opening day",
           "Check the website about lessons",
-          "Renew Jorge's pass"
+          "Renew Jorge's pass online"
         ],
         "answerIndex": 2,
         "explanation": "Tess says she will check the website tonight to sign the twins up for lessons."
@@ -518,9 +518,9 @@
         "prompt": "Why will the pool be easier for some visitors to use?",
         "category": "detail",
         "choices": [
-          "A fee was removed",
+          "A fee was removed for children",
           "A lift for swimmers with limited mobility was added",
-          "Opening hours were extended",
+          "Opening hours were extended into the evening",
           "A second entrance was built"
         ],
         "answerIndex": 1,

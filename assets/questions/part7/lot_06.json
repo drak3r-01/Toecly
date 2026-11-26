@@ -13,10 +13,10 @@
         "prompt": "What is the purpose of the e-mail?",
         "category": "purpose",
         "choices": [
-          "To announce a new consultant",
+          "To announce the arrival of a new consultant",
           "To invite departments to register for a workshop",
-          "To change a training date",
-          "To request a travel budget"
+          "To change the date of a training session",
+          "To request a travel budget from managers"
         ],
         "answerIndex": 1,
         "explanation": "Registration is open for the Leadership Essentials workshop."
@@ -335,10 +335,10 @@
         "prompt": "What is Gloria Banks' problem?",
         "category": "detail",
         "choices": [
-          "The class is full",
-          "The class costs extra",
+          "The class is already full on Wednesdays",
+          "The class costs extra for members",
           "The Pilates class conflicts with a work schedule",
-          "A cancellation fee was charged"
+          "A cancellation fee was charged by mistake"
         ],
         "answerIndex": 2,
         "explanation": "Gloria Banks works until 6 p.m. on Wednesdays."
@@ -412,10 +412,10 @@
         "prompt": "Why did Helios Solar open the new factory?",
         "category": "detail",
         "choices": [
-          "To reduce its taxes",
+          "To reduce its tax payments in the Midwest",
           "To meet demand and serve customers nearby",
-          "To close its older plant",
-          "To start selling batteries"
+          "To close its older factory in another state",
+          "To start selling batteries to homeowners"
         ],
         "answerIndex": 1,
         "explanation": "The old plant could not keep up with orders, and the new one is closer to customers."
@@ -437,8 +437,8 @@
         "category": "inference",
         "choices": [
           "Experience is helpful but not essential",
-          "It requires a college degree",
-          "It is a part-time role",
+          "It requires a college degree in engineering",
+          "It is a part-time role with flexible hours",
           "It is based in another city"
         ],
         "answerIndex": 0,
@@ -490,9 +490,9 @@
         "category": "detail",
         "choices": [
           "Maple Hall is too small for the expected crowd",
-          "Maple Hall is already reserved",
-          "The projector is broken",
-          "The caterer is unavailable"
+          "Maple Hall is already reserved on that date",
+          "The projector in Maple Hall is broken",
+          "The outside caterer is unavailable that day"
         ],
         "answerIndex": 0,
         "explanation": "Maple Hall seats 30 and 35 people are expected."
@@ -513,10 +513,10 @@
         "prompt": "What must the caterer provide?",
         "category": "detail",
         "choices": [
-          "A $100 deposit",
+          "A $100 deposit paid in cash",
           "Proof of a food-handling license",
-          "A list of menu prices",
-          "A proof of insurance"
+          "A list of menu prices for guests",
+          "A copy of the caterer's insurance policy"
         ],
         "answerIndex": 1,
         "explanation": "Outside caterers must provide proof of a food-handling license."
@@ -583,10 +583,10 @@
         "prompt": "Why were participants assigned by random draw?",
         "category": "inference",
         "choices": [
-          "The committee ran out of buses",
-          "The CEO requested it",
+          "The committee did not have enough buses",
+          "The CEO personally requested the change",
           "More people wanted to kayak than there were places",
-          "Hiking was canceled"
+          "The hiking activity was canceled"
         ],
         "answerIndex": 2,
         "explanation": "Kayaking is limited to 25 places and 41 people chose it first."

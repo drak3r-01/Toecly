@@ -1,0 +1,632 @@
+[
+  {
+    "id": "p7-091",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Researchers Develop Longer-Lasting Battery",
+        "text": "CAMBRIDGE (September 14) - A team at Wexford University has developed a battery that can be charged in ten minutes and lasts twice as long as the lithium-ion models used in most smartphones. [A] The breakthrough, led by materials scientist Dr. Hui Zhang, relies on a new silicon-based material that stores more energy without overheating. [B] In laboratory tests, the prototype kept 90 percent of its capacity after 1,500 charging cycles. [C] The research was funded by the national science council and the electronics company Delta Devices, which holds an exclusive license to use the technology in consumer products. [D] Commercial batteries based on the design are not expected before 2028, as the manufacturing process must first be made cheaper and easier to scale."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does the article describe?",
+        "category": "main_idea",
+        "choices": [
+          "A new smartphone",
+          "A new type of battery",
+          "A university merger",
+          "A shortage of silicon"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article reports on a battery developed at Wexford University."
+      },
+      {
+        "prompt": "What is NOT true about the new battery?",
+        "category": "not_true",
+        "choices": [
+          "It charges in about ten minutes",
+          "It uses a silicon-based material",
+          "It kept most of its capacity in tests",
+          "It is already sold in stores"
+        ],
+        "answerIndex": 3,
+        "explanation": "Commercial batteries are not expected before 2028."
+      },
+      {
+        "prompt": "In the last sentence, the word \"scale\" is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "expand",
+          "measure",
+          "remove",
+          "climb"
+        ],
+        "answerIndex": 0,
+        "explanation": "Making a process easier to scale means making it easier to expand to large production."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Most current batteries start to lose capacity after about 500 cycles.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "It compares with the 1,500 charging cycles reported in the laboratory tests just before [C]."
+      }
+    ]
+  },
+  {
+    "id": "p7-092",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Booking confirmation: Island Hopping Adventure",
+        "text": "To: Emeka Okonkwo\nFrom: Sunrise Island Tours, Booking Team\nDate: April 3\n\nDear Emeka Okonkwo,\nThank you for booking the Island Hopping Adventure for six guests on Saturday, May 10. The tour departs from Pier 3 at 8:30 a.m. and returns at about 5 p.m. The price of $85 per adult and $55 per child (ages 4 to 12) includes the boat, snorkeling equipment, lunch, and a guide, but does not include hotel pickup, which is available for $10 per person. Children under 4 travel free. Please arrive 20 minutes before departure with swimwear, sunscreen, and a towel. In the event of bad weather, we will contact you by 6 a.m. to reschedule or provide a full refund. Cancellations made at least five days before the tour are free."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is NOT included in the tour price?",
+        "category": "not_true",
+        "choices": [
+          "Lunch",
+          "Snorkeling equipment",
+          "Hotel pickup",
+          "A guide"
+        ],
+        "answerIndex": 2,
+        "explanation": "Hotel pickup is available for an extra $10 per person."
+      },
+      {
+        "prompt": "What will happen if the weather is bad?",
+        "category": "detail",
+        "choices": [
+          "The tour will go ahead anyway",
+          "The customer will be asked to pay extra",
+          "The customer will be offered a new date or a refund",
+          "The tour will be shortened to half a day"
+        ],
+        "answerIndex": 2,
+        "explanation": "The company will contact the customer by 6 a.m. to reschedule or refund."
+      },
+      {
+        "prompt": "What should guests bring?",
+        "category": "detail",
+        "choices": [
+          "Swimwear, sunscreen, and a towel",
+          "Lunch and drinks for the group",
+          "Snorkeling gear for each guest",
+          "A printed ticket for each person"
+        ],
+        "answerIndex": 0,
+        "explanation": "The e-mail lists swimwear, sunscreen, and a towel."
+      }
+    ]
+  },
+  {
+    "id": "p7-093",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Summer dress code",
+        "text": "TO: All employees\nFROM: Human Resources\nDATE: May 15\nSUBJECT: Summer dress code\n\nStarting June 1, we will relax our dress code for the summer months. From June through August, business casual attire is acceptable every day, and on Fridays employees may wear jeans and company T-shirts. Open-toed shoes are permitted, except in the laboratory and on the production floor, where closed shoes are mandatory for safety reasons. Employees who meet with clients are still expected to dress formally on the day of the meeting. Shorts, tank tops, and flip-flops remain unacceptable. We appreciate your cooperation in maintaining a professional image."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the memo about?",
+        "category": "main_idea",
+        "choices": [
+          "A new uniform for all employees",
+          "A company picnic in the summer",
+          "A fire safety inspection",
+          "A temporary change in clothing rules"
+        ],
+        "answerIndex": 3,
+        "explanation": "The dress code is relaxed from June through August."
+      },
+      {
+        "prompt": "What is NOT allowed during the summer?",
+        "category": "not_true",
+        "choices": [
+          "Wearing jeans on Fridays",
+          "Wearing flip-flops",
+          "Wearing business casual clothes",
+          "Wearing open-toed shoes in the office"
+        ],
+        "answerIndex": 1,
+        "explanation": "Flip-flops remain unacceptable."
+      },
+      {
+        "prompt": "The word \"mandatory\" in the memo is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "optional",
+          "required",
+          "expensive",
+          "comfortable"
+        ],
+        "answerIndex": 1,
+        "explanation": "Closed shoes are required in the laboratory and on the production floor."
+      }
+    ]
+  },
+  {
+    "id": "p7-094",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Public Hearing Notice",
+        "text": "The Fairmont Planning Commission will hold a public hearing on Thursday, November 14, at 7 p.m. in the City Hall Council Chamber to consider a proposal to rezone the property at 900 Quarry Road from industrial to mixed residential and commercial use. The developer, Cobalt Properties, plans to build 240 apartments, a small grocery store, and a public park. Residents may speak for up to three minutes each; those wishing to speak must sign up at the door beginning at 6:30 p.m. Written comments may be submitted by e-mail to planning@fairmont.example until November 12 at 5 p.m. The meeting will also be streamed live on the city website. No vote will be taken at this meeting; the commission will decide on December 5."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the notice about?",
+        "category": "main_idea",
+        "choices": [
+          "The opening of a new city park",
+          "The sale of city-owned property",
+          "A final vote on a new grocery store",
+          "A hearing on changing how land may be used"
+        ],
+        "answerIndex": 3,
+        "explanation": "The commission will consider rezoning the property at 900 Quarry Road."
+      },
+      {
+        "prompt": "How can residents who cannot attend share their opinion?",
+        "category": "detail",
+        "choices": [
+          "By sending written comments by November 12",
+          "By calling during the meeting",
+          "By voting online",
+          "By speaking at the December meeting"
+        ],
+        "answerIndex": 0,
+        "explanation": "Written comments are accepted by e-mail until November 12 at 5 p.m."
+      },
+      {
+        "prompt": "What is NOT planned for the site?",
+        "category": "not_true",
+        "choices": [
+          "Apartments",
+          "A grocery store",
+          "A school",
+          "A public park"
+        ],
+        "answerIndex": 2,
+        "explanation": "The developer plans apartments, a small grocery store, and a park."
+      }
+    ]
+  },
+  {
+    "id": "p7-095",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Grand Opening: Lumen Gallery",
+        "text": "Join us on Friday, September 6, from 6 to 9 p.m. for the opening of Lumen Gallery's first exhibition, \"Light and Landscape,\" featuring 40 paintings and photographs by regional artists. Enjoy complimentary wine and appetizers and meet the artists. Admission is free, and all works are for sale; a portion of opening-night sales will go to the Riverbend Arts Education Fund. The gallery, located at 18 Foundry Street, will be open Tuesday to Saturday, 11 a.m. to 7 p.m., beginning September 7. Parking is available behind the building after 5 p.m. Reserve your free ticket online; walk-ins are welcome as space permits."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is being advertised?",
+        "category": "main_idea",
+        "choices": [
+          "A sale of picture frames",
+          "An art class",
+          "The opening of an art gallery",
+          "A photography contest"
+        ],
+        "answerIndex": 2,
+        "explanation": "The ad invites people to the opening of Lumen Gallery."
+      },
+      {
+        "prompt": "What is NOT true about the opening event?",
+        "category": "not_true",
+        "choices": [
+          "Admission requires a paid ticket",
+          "The artists will be present",
+          "Refreshments will be served",
+          "Some sales will support arts education"
+        ],
+        "answerIndex": 0,
+        "explanation": "Admission is free."
+      },
+      {
+        "prompt": "When will the gallery be open to regular visitors?",
+        "category": "detail",
+        "choices": [
+          "Every day from September 6",
+          "Only on Fridays",
+          "Monday to Friday after 5 p.m.",
+          "From September 7, Tuesday to Saturday"
+        ],
+        "answerIndex": 3,
+        "explanation": "The regular schedule begins September 7 and runs Tuesday to Saturday."
+      }
+    ]
+  },
+  {
+    "id": "p7-096",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Hotel concierge chat",
+        "text": "Nina [7:15 p.m.]: Hello, could you recommend a restaurant within walking distance? We'd like something not too expensive.\nPaolo, Concierge [7:16 p.m.]: Certainly. Casa Verde is a five-minute walk from the hotel, with main courses around $15. It's popular, so I'd suggest a reservation.\nNina [7:17 p.m.]: Can you book a table for four at 8?\nPaolo, Concierge [7:19 p.m.]: Unfortunately, they're full until 9:30. Another option is Mirabel on Fifth Street, a ten-minute walk, though it's slightly pricier. I can get you a table at 8 there.\nNina [7:20 p.m.]: Hmm, we have a toddler, so I'd rather avoid a late dinner. Is Mirabel family-friendly?\nPaolo, Concierge [7:21 p.m.]: Yes, they have high chairs and a children's menu.\nNina [7:22 p.m.]: Then please book Mirabel. Thank you!"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Nina contact the concierge?",
+        "category": "purpose",
+        "choices": [
+          "To order room service for the group",
+          "To get a restaurant recommendation",
+          "To ask about a taxi to the airport",
+          "To complain about noise in the hotel"
+        ],
+        "answerIndex": 1,
+        "explanation": "Nina asks for a restaurant within walking distance."
+      },
+      {
+        "prompt": "Why does Paolo not book Casa Verde?",
+        "category": "detail",
+        "choices": [
+          "It is too expensive for the group",
+          "It has no tables before 9:30 p.m.",
+          "It is closed on that evening",
+          "It is too far to walk from the hotel"
+        ],
+        "answerIndex": 1,
+        "explanation": "Paolo says Casa Verde is full until 9:30."
+      },
+      {
+        "prompt": "At 7:20 p.m., why does Nina write, \"I'd rather avoid a late dinner\"?",
+        "category": "purpose",
+        "choices": [
+          "They have a flight early in the morning",
+          "The restaurant closes early",
+          "They have already eaten",
+          "Their small child cannot stay up late"
+        ],
+        "answerIndex": 3,
+        "explanation": "Nina mentions having a toddler."
+      },
+      {
+        "prompt": "What will Nina's group most likely do at 8 p.m.?",
+        "category": "inference",
+        "choices": [
+          "Eat at Mirabel",
+          "Eat at Casa Verde",
+          "Eat at the hotel restaurant",
+          "Wait for a table at Casa Verde"
+        ],
+        "answerIndex": 0,
+        "explanation": "Nina asks Paolo to book Mirabel for 8."
+      }
+    ]
+  },
+  {
+    "id": "p7-097",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Booth request",
+        "text": "To: exhibitors@buildexpo.example\nFrom: Tanya Moreau, Cobalt Tools\nDate: January 12\n\nHello,\nWe would like to book a 6 x 3 m booth at BuildExpo in March. We plan to demonstrate three products and need two power outlets and Wi-Fi. We also need to know the setup times, since our trucks will arrive from Montreal on March 11.\nThank you,\nTanya Moreau"
+      },
+      {
+        "type": "schedule",
+        "title": "BuildExpo exhibitor timetable",
+        "text": "March 11: 8:00 a.m. to 12:00 p.m. Setup for large booths (6 x 6 m and above)\nMarch 11: 1:00 p.m. to 6:00 p.m. Setup for small booths\nMarch 12: 8:00 a.m. to 10:00 a.m. Final preparations; 10:00 a.m. Doors open to the public\nMarch 12 to 14: Expo hours, 10:00 a.m. to 6:00 p.m.\nMarch 14: 6:00 p.m. to 10:00 p.m. Teardown for all booths"
+      },
+      {
+        "type": "email",
+        "title": "Re: Booth request",
+        "text": "To: Tanya Moreau\nFrom: BuildExpo Exhibitor Services\nDate: January 15\n\nDear Tanya Moreau,\nThank you for your interest. Booth B-14 (6 x 3 m) is available at $2,400, which includes two power outlets and Wi-Fi. Because it is a small booth, your setup window is the afternoon of March 11. Please note that trucks must use Gate 3 and complete deliveries by 6 p.m.; later arrivals incur a $150 fee. A payment of 50 percent is due by January 31.\nExhibitor Services"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "When can Cobalt Tools set up its booth?",
+        "category": "inference",
+        "choices": [
+          "On the morning of March 11",
+          "On March 12 at 8:00 a.m.",
+          "On the afternoon of March 11",
+          "On March 14 at 6:00 p.m."
+        ],
+        "answerIndex": 2,
+        "explanation": "Small booths are set up from 1:00 to 6:00 p.m. on March 11."
+      },
+      {
+        "prompt": "Why is Cobalt Tools classified as a small booth exhibitor?",
+        "category": "detail",
+        "choices": [
+          "It pays a lower price",
+          "Its trucks come from Montreal",
+          "Its booth is smaller than 6 x 6 m",
+          "It has no power outlets"
+        ],
+        "answerIndex": 2,
+        "explanation": "Large booths are 6 x 6 m and above; booth B-14 is 6 x 3 m."
+      },
+      {
+        "prompt": "What happens if a truck arrives after 6 p.m.?",
+        "category": "detail",
+        "choices": [
+          "A $150 fee is charged",
+          "The booth is canceled",
+          "The delivery is refused",
+          "The truck must use another gate"
+        ],
+        "answerIndex": 0,
+        "explanation": "Later arrivals incur a $150 fee."
+      },
+      {
+        "prompt": "How much must Cobalt Tools pay by January 31?",
+        "category": "inference",
+        "choices": [
+          "$150",
+          "$600",
+          "$2,400",
+          "$1,200"
+        ],
+        "answerIndex": 3,
+        "explanation": "Fifty percent of $2,400 is $1,200."
+      },
+      {
+        "prompt": "When will exhibitors begin to dismantle their booths?",
+        "category": "inference",
+        "choices": [
+          "On the morning of March 14",
+          "After 6:00 p.m. on March 14",
+          "After 10:00 p.m. on March 14",
+          "On March 15"
+        ],
+        "answerIndex": 1,
+        "explanation": "Teardown starts at 6:00 p.m. on March 14."
+      }
+    ]
+  },
+  {
+    "id": "p7-098",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Kessler Foundation Scholarship",
+        "text": "Eligibility: Applicants must be high school seniors with a minimum 3.5 GPA, live in Brent County, and plan to study engineering, nursing, or education.\nAward: $4,000 per year for up to four years.\nRequired documents: transcript, two letters of recommendation, a 500-word essay, and proof of residence.\nDeadline: March 1 (postmark). Finalists will be interviewed in April; winners are announced on May 15. The scholarship is renewable if the student maintains a 3.0 GPA."
+      },
+      {
+        "type": "letter",
+        "title": "Scholarship application",
+        "text": "Dear Kessler Foundation,\nI am a senior at Pinewood High School and wish to apply for your scholarship. I plan to study nursing, and I currently have a 3.7 GPA. I live in Brent County. I have already gathered my transcript and one letter of recommendation from my chemistry teacher. A second letter, from my volunteer supervisor at Mercy Hospital, will arrive by February 20. My family recently moved to a rental apartment, and I do not yet have a utility bill in my name. May I use my lease as proof of residence? I am enclosing my essay, which is 520 words. I hope that is acceptable.\nRespectfully,\nAmelia Torres"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Does Amelia Torres meet the eligibility requirements?",
+        "category": "inference",
+        "choices": [
+          "No, her GPA is too low",
+          "Yes, she meets all of them",
+          "No, she lives outside the county",
+          "No, her field of study is not eligible"
+        ],
+        "answerIndex": 1,
+        "explanation": "She has a 3.7 GPA, lives in Brent County, and plans to study nursing."
+      },
+      {
+        "prompt": "What document has Amelia Torres NOT yet submitted?",
+        "category": "not_true",
+        "choices": [
+          "Her transcript",
+          "Her essay",
+          "The first letter of recommendation",
+          "The second letter of recommendation"
+        ],
+        "answerIndex": 3,
+        "explanation": "The second letter will arrive by February 20."
+      },
+      {
+        "prompt": "What is Amelia Torres asking the Foundation?",
+        "category": "detail",
+        "choices": [
+          "Whether a lease can be used as proof of residence",
+          "Whether the March 1 deadline can be extended",
+          "Whether study abroad is allowed under the award",
+          "Whether the scholarship money is taxable"
+        ],
+        "answerIndex": 0,
+        "explanation": "She does not have a utility bill and asks about using her lease."
+      },
+      {
+        "prompt": "What must a winner do to keep the scholarship?",
+        "category": "detail",
+        "choices": [
+          "Write a new essay each year",
+          "Work at a hospital",
+          "Maintain a GPA of at least 3.0",
+          "Live in Brent County after graduation"
+        ],
+        "answerIndex": 2,
+        "explanation": "The scholarship is renewable if the student maintains a 3.0 GPA."
+      },
+      {
+        "prompt": "The word \"renewable\" on the web page is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "refundable",
+          "able to be transferred",
+          "able to be continued",
+          "competitive"
+        ],
+        "answerIndex": 2,
+        "explanation": "A renewable scholarship can be extended for further years."
+      }
+    ]
+  },
+  {
+    "id": "p7-099",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Valley Growers Co-op to Open Retail Store",
+        "text": "FAIRVIEW (March 11) - Valley Growers Cooperative, owned by 85 local farms, will open its first retail store on Mill Street on April 5. The 4,000-square-foot store will sell fresh produce, dairy, honey, and baked goods, all sourced within 50 miles. \"Customers want to know where their food comes from,\" said manager Carla Esposito. Prices will be similar to those of supermarkets, and members of the co-op receive a 10 percent discount. The store will be open Tuesday through Sunday and will offer free cooking demonstrations on Saturday mornings."
+      },
+      {
+        "type": "email",
+        "title": "Wholesale question",
+        "text": "To: info@valleygrowers.example\nFrom: Henry Ito, Maple Bistro\nDate: March 14\n\nDear Carla Esposito,\nI read about your new store. I own Maple Bistro and buy produce for about 120 meals a day. Do you offer wholesale prices for restaurants? I would especially like to order tomatoes, herbs, and eggs. Also, could you deliver on Mondays, when your store is closed?\nHenry Ito"
+      },
+      {
+        "type": "notice",
+        "title": "Valley Growers Wholesale Program",
+        "text": "Restaurants and caterers can order directly from our farms at wholesale prices, 15 percent below retail. Minimum weekly order: $200. Orders must be placed by Thursday for delivery the following Tuesday or Wednesday. Payment terms: net 30 days. To apply, send a copy of your business license to wholesale@valleygrowers.example."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "When can Henry Ito expect deliveries?",
+        "category": "detail",
+        "choices": [
+          "On Tuesday or Wednesday",
+          "On Monday",
+          "On Saturday morning",
+          "On any day of the week"
+        ],
+        "answerIndex": 0,
+        "explanation": "The wholesale notice says delivery is on Tuesday or Wednesday."
+      },
+      {
+        "prompt": "What must Henry Ito send to apply for the wholesale program?",
+        "category": "detail",
+        "choices": [
+          "A list of customers",
+          "A letter from a supermarket",
+          "A deposit of $200",
+          "A copy of a business license"
+        ],
+        "answerIndex": 3,
+        "explanation": "The notice asks applicants to send a copy of their business license."
+      },
+      {
+        "prompt": "What discount applies to wholesale orders?",
+        "category": "detail",
+        "choices": [
+          "10 percent for all customers",
+          "15 percent below retail prices",
+          "20 percent for large orders",
+          "Free delivery"
+        ],
+        "answerIndex": 1,
+        "explanation": "Wholesale prices are 15 percent below retail."
+      },
+      {
+        "prompt": "What is true about the products in the store?",
+        "category": "detail",
+        "choices": [
+          "They are imported",
+          "They come from nearby farms",
+          "They are cheaper than every supermarket",
+          "They are made in the store"
+        ],
+        "answerIndex": 1,
+        "explanation": "Everything is sourced within 50 miles."
+      },
+      {
+        "prompt": "What is NOT true about the Valley Growers store?",
+        "category": "not_true",
+        "choices": [
+          "It sells baked goods",
+          "It offers cooking demonstrations",
+          "Members receive a discount",
+          "It is open every day of the week"
+        ],
+        "answerIndex": 3,
+        "explanation": "The store is closed on Mondays."
+      }
+    ]
+  },
+  {
+    "id": "p7-100",
+    "documents": [
+      {
+        "type": "form",
+        "title": "Baggage Claim Form",
+        "text": "SKYWAY AIRLINES: BAGGAGE CLAIM FORM\n\nPassenger: Tomás Ferreira\nFlight: SK 412, Lisbon to Newark, June 3\nBaggage tag: SK 778 215\nDescription: Black hard-shell suitcase, medium size, red ribbon on the handle\nContents: Clothing, a laptop charger, prescription medication, a gift\nEstimated value: $900\nDelivery address: 55 Cherry Lane, Newark\nPhone: 555-0162\nDate reported: June 3"
+      },
+      {
+        "type": "email",
+        "title": "Your suitcase has been found",
+        "text": "To: Tomás Ferreira\nFrom: Skyway Baggage Services\nDate: June 5\n\nDear Tomás Ferreira,\nWe are pleased to inform you that your suitcase (tag SK 778 215) has been located at Frankfurt airport, where it was mistakenly unloaded. It will be forwarded on flight SK 218 and is expected to arrive in Newark on June 6. We will deliver it to the address on your claim form within 24 hours of its arrival. As compensation for the inconvenience, we are offering a $75 voucher. Because you reported prescription medication in your luggage, you may also submit receipts for essential items purchased during the delay for reimbursement of up to $150. Please submit receipts within 14 days.\nSkyway Baggage Services"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Where was Tomás Ferreira's suitcase mistakenly unloaded?",
+        "category": "detail",
+        "choices": [
+          "In Frankfurt",
+          "In Lisbon",
+          "In Newark",
+          "In a hotel"
+        ],
+        "answerIndex": 0,
+        "explanation": "The e-mail says the suitcase was located at Frankfurt airport."
+      },
+      {
+        "prompt": "What can Tomás Ferreira claim for items bought during the delay?",
+        "category": "detail",
+        "choices": [
+          "$900",
+          "$75 in cash",
+          "Up to $150",
+          "A free flight"
+        ],
+        "answerIndex": 2,
+        "explanation": "Receipts for essential items are reimbursed up to $150."
+      },
+      {
+        "prompt": "Where will the suitcase be delivered?",
+        "category": "detail",
+        "choices": [
+          "To the airport baggage office",
+          "To Lisbon",
+          "To 55 Cherry Lane in Newark",
+          "To Frankfurt airport"
+        ],
+        "answerIndex": 2,
+        "explanation": "It will be delivered to the address on the claim form."
+      },
+      {
+        "prompt": "Why was reimbursement of essential items offered?",
+        "category": "inference",
+        "choices": [
+          "The luggage contained prescription medication",
+          "The suitcase was damaged during the flight",
+          "The flight to Newark was canceled",
+          "The value of the suitcase was above $900"
+        ],
+        "answerIndex": 0,
+        "explanation": "The e-mail ties the offer to the medication reported on the form."
+      },
+      {
+        "prompt": "The word \"forwarded\" in the e-mail is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "returned",
+          "delayed",
+          "opened",
+          "sent on"
+        ],
+        "answerIndex": 3,
+        "explanation": "The suitcase will be sent on to Newark on another flight."
+      }
+    ]
+  }
+]

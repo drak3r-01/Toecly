@@ -38,9 +38,9 @@
         "category": "detail",
         "choices": [
           "Free ticket exchanges for the same show",
-          "Payment in installments",
-          "A 20 percent discount",
-          "A sixth production"
+          "Payment in three monthly installments",
+          "A 20 percent discount on single tickets",
+          "A sixth production in the season"
         ],
         "answerIndex": 0,
         "explanation": "Subscribers can exchange tickets up to 24 hours in advance at no charge."
@@ -230,9 +230,9 @@
         "category": "detail",
         "choices": [
           "A pharmacist must speak with first-time patients",
-          "The store is busy at 8 p.m.",
-          "Insurance forms take long",
-          "Delivery is slow"
+          "The store is very busy at 8 p.m.",
+          "Insurance forms take a long time",
+          "Home delivery is slow"
         ],
         "answerIndex": 0,
         "explanation": "A consultation is required for first-time prescriptions."
@@ -265,10 +265,10 @@
         "prompt": "What are the duties of the position?",
         "category": "detail",
         "choices": [
-          "Cooking meals",
+          "Cooking meals for hotel guests",
           "Welcoming guests and handling their requests",
-          "Cleaning rooms",
-          "Managing hotel finances"
+          "Cleaning the guest rooms each day",
+          "Managing the hotel's finances"
         ],
         "answerIndex": 1,
         "explanation": "Duties include greeting guests, check-in and check-out, calls, and complaints."
@@ -335,10 +335,10 @@
         "prompt": "What is Dr. Dube's concern?",
         "category": "inference",
         "choices": [
-          "The honorarium is too low",
-          "The hotel is too far",
+          "The honorarium offered is too low",
+          "The conference hotel is too far away",
           "The scheduled keynote would make Dr. Dube miss a flight",
-          "The topic is not suitable"
+          "The topic of the talk is not suitable"
         ],
         "answerIndex": 2,
         "explanation": "The keynote starts at 4:00 p.m., but Dr. Dube must leave for the airport by 4:30 p.m."
@@ -559,9 +559,9 @@
         "prompt": "Why did Warren contact support?",
         "category": "detail",
         "choices": [
-          "Warren could not log in",
-          "The storage was full",
-          "The trial expired",
+          "Warren could not log in to the account",
+          "The storage space was full",
+          "The free trial had expired",
           "The company reached its project limit"
         ],
         "answerIndex": 3,

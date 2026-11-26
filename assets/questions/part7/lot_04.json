@@ -61,10 +61,10 @@
         "prompt": "What is the reviewer's opinion of the vacuum?",
         "category": "main_idea",
         "choices": [
-          "It is too heavy for older people",
-          "It is difficult to assemble",
+          "It is too heavy for older people to use",
+          "It is difficult to assemble and set up",
           "It cleans well but its battery is short-lived",
-          "It is cheaper than other models"
+          "It is cheaper than most other models"
         ],
         "answerIndex": 2,
         "explanation": "The reviewer praises the suction and criticizes the battery."
@@ -109,9 +109,9 @@
         "prompt": "What does the article report?",
         "category": "main_idea",
         "choices": [
-          "A farm has closed",
-          "A pavilion is being built",
-          "A vendor has won an award",
+          "A farm has closed after fifteen years",
+          "A new pavilion is being built in town",
+          "A vendor has won a regional award",
           "A weekly market is changing its location and day"
         ],
         "answerIndex": 3,
@@ -360,9 +360,9 @@
         "category": "inference",
         "choices": [
           "After his first three months",
-          "On his first day",
-          "After six months",
-          "After one year"
+          "On his very first day at the company",
+          "After six months of service",
+          "After one full year of employment"
         ],
         "answerIndex": 0,
         "explanation": "Vacation is available after the three-month probationary period."
@@ -583,10 +583,10 @@
         "prompt": "What does Ms. Menon ask for?",
         "category": "detail",
         "choices": [
-          "A refund on her water bill",
-          "A permit to close early",
+          "A refund on her latest water bill",
+          "A permit to close the café early",
           "A water supply delivered before the shutoff",
-          "Bottled water for residents"
+          "Bottled water for all neighborhood residents"
         ],
         "answerIndex": 2,
         "explanation": "She asks for a temporary supply before 9 a.m."
