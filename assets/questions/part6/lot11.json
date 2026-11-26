@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-081",
+    "documentType": "article",
+    "text": "Island Resort Reopens After Renovation\n\nThe Coral Bay Resort will welcome guests again on December 1 after a year-long renovation. The project, which cost $18 million, [1] 120 redesigned rooms, a new spa, and two additional restaurants. [2] General manager Nina Cruz said that bookings for the first month are already 80 percent full. The resort has also introduced environmentally [3] practices, such as solar heating and a ban on single-use plastics. [4] opening week, guests will receive a complimentary dinner for two.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "include",
+          "including",
+          "includes",
+          "included"
+        ],
+        "answerIndex": 3,
+        "explanation": "The past tense fits a project that is completed."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The island is reached by ferry from the mainland.",
+          "The airport will close for repairs next year.",
+          "Oil prices fell sharply last week.",
+          "Demand has been strong since the reopening date was announced in September."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence introduces the topic of bookings that the manager then comments on."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "friend",
+          "friendship",
+          "friendly",
+          "friendliness"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Environmentally friendly' is an adjective phrase before 'practices'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "Within",
+          "Among",
+          "Since",
+          "During"
+        ],
+        "answerIndex": 3,
+        "explanation": "'During' is followed by a period of time."
+      }
+    ]
+  },
+  {
+    "id": "p6-082",
+    "documentType": "memo",
+    "text": "MEMO\nTo: All employees\nFrom: Security Office\nSubject: New identification badges\n\nNew photo identification badges will be issued next week. [1] Employees must collect their badges in person from the Security Office, [2] is open from 8 a.m. to 5 p.m. Please bring your old badge, which will be [3]. The new badges will give access only to the areas related to each employee's job. Anyone who loses a badge should [4] it immediately to the Security Office.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cafeteria will serve breakfast daily.",
+          "The current badges will stop working on Friday, May 9.",
+          "New parking lines are being painted.",
+          "The annual picnic will be held in August."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence states a consequence of the change and precedes the collection instructions."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "where",
+          "when",
+          "what",
+          "which"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Which' introduces a non-restrictive clause about the Security Office."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "collecting",
+          "collected",
+          "collect",
+          "collects"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive 'will be collected' is needed."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "report",
+          "reply",
+          "repeat",
+          "repair"
+        ],
+        "answerIndex": 0,
+        "explanation": "One 'reports' a lost badge, meaning one tells the office about it."
+      }
+    ]
+  },
+  {
+    "id": "p6-083",
+    "documentType": "advertisement",
+    "text": "Annual Clearance Sale at Oakwood Furniture\n\nEverything must go! From Friday, January 10, to Sunday, January 19, all sofas, tables, and bookshelves will be [1] by up to 60 percent. [2] Customers who spend more than $500 will also receive free home delivery within the city limits. Our friendly staff will be [3] to help you find the perfect piece for your home. Don't wait: stock is limited, and prices will return to normal [4] the sale ends.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "reducing",
+          "reduce",
+          "reduced",
+          "reduction"
+        ],
+        "answerIndex": 2,
+        "explanation": "The passive 'will be reduced' is needed for prices."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Floor models and last season's collections are included in the sale.",
+          "Our store has been family owned since 1962.",
+          "The bookshelves are made of pine.",
+          "Please bring your driver's license to the interview."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence extends the offer, and the next sentence begins with 'also'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "availability",
+          "avail",
+          "availably",
+          "available"
+        ],
+        "answerIndex": 3,
+        "explanation": "An adjective is needed after 'be'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "once",
+          "whether"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Once the sale ends' means 'as soon as it ends'."
+      }
+    ]
+  },
+  {
+    "id": "p6-084",
+    "documentType": "letter",
+    "text": "To Whom It May Concern:\n\nI am pleased to recommend Ms. Hana Suzuki for the position of Office Manager at your company. Ms. Suzuki worked under my [1] at Greenfield Insurance for six years. [2] She consistently completed projects ahead of schedule and was admired by her colleagues for her [3] attitude. She is also highly skilled at managing budgets and training new employees. I am confident that she will be a [4] asset to your organization.\n\nSincerely,\nGregory Tan, Operations Director",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "supervise",
+          "supervision",
+          "supervisor",
+          "supervised"
+        ],
+        "answerIndex": 1,
+        "explanation": "A noun is needed after 'my': 'under my supervision'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "She was one of the most reliable employees I have ever worked with.",
+          "Greenfield Insurance has offices in six countries.",
+          "The position was advertised last month.",
+          "I will be on vacation next week."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence praises the candidate and precedes concrete examples."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "positive",
+          "positively",
+          "positivity",
+          "position"
+        ],
+        "answerIndex": 0,
+        "explanation": "An adjective is needed before 'attitude'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "valued",
+          "valuable",
+          "value",
+          "valuables"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adjective is needed before 'asset'."
+      }
+    ]
+  },
+  {
+    "id": "p6-085",
+    "documentType": "online_chat",
+    "text": "Agent (1:05 p.m.): Welcome to Voyager Tours. How may I help you?\nCustomer (1:06 p.m.): I'd like some information about your tour of the Greek islands.\nAgent (1:07 p.m.): [1] The tour lasts ten days and includes accommodation, most meals, and ferry transport.\nCustomer (1:09 p.m.): What is the price? And is it suitable for [2] over 70?\nAgent (1:10 p.m.): The price is $2,450 per person. The pace is relaxed, so it is [3] for older travelers. Would you like me to [4] a brochure to your e-mail address?",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our offices are closed on public holidays.",
+          "Your flight has been canceled.",
+          "Certainly, it is one of our most popular packages.",
+          "Passports must be renewed every ten years."
+        ],
+        "answerIndex": 2,
+        "explanation": "The agent responds to the request for information about the tour."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "traveling",
+          "travelers",
+          "travels",
+          "traveled"
+        ],
+        "answerIndex": 1,
+        "explanation": "A plural noun is needed after 'for'."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "idle",
+          "idol",
+          "ideally",
+          "ideal"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Ideal for' means perfectly suited to."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "sent",
+          "sending",
+          "sends",
+          "send"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Would you like me to' is followed by the base form."
+      }
+    ]
+  },
+  {
+    "id": "p6-086",
+    "documentType": "schedule",
+    "text": "Evening Course Schedule – Business Writing\n\nThis eight-week course meets every Tuesday and Thursday from 6:30 to 8:30 p.m. in Room 204. Students will [1] how to write effective e-mails, reports, and proposals. [2] Participants are expected to complete short assignments each week. A certificate will be awarded to those who attend at least 80 percent of the sessions. The registration fee of $320 is [3] of all materials. Anyone who wishes to withdraw must [4] the office at least three days before the first class to receive a full refund.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "learn",
+          "teach",
+          "lecture",
+          "train"
+        ],
+        "answerIndex": 0,
+        "explanation": "Students 'learn' how to do something; teachers 'teach'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The classroom is located on the second floor.",
+          "The library lends books for three weeks.",
+          "Tuition fees will rise next year.",
+          "Each session combines a short lecture with group practice."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence describes how the course works and precedes what is expected of participants."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "including",
+          "included",
+          "inclusive",
+          "inclusion"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Inclusive of' means that the price covers the items."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "notify",
+          "noted",
+          "noticing",
+          "notion"
+        ],
+        "answerIndex": 0,
+        "explanation": "After 'must', the base form is used."
+      }
+    ]
+  },
+  {
+    "id": "p6-087",
+    "documentType": "email",
+    "text": "Dear Valued Customer,\n\nThank you for staying at the Palm Grove Hotel last week. We hope your stay was [1]. To help us improve our services, we invite you to complete a short online survey. [2] It takes less than five minutes, and your answers will remain completely confidential. As a token of our appreciation, everyone who completes the survey will be [3] into a prize draw for a free weekend stay. The draw will be held on the last day of the month, [4] the winner will be notified by e-mail.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "pleasantly",
+          "pleasantry",
+          "pleasant",
+          "pleasantness"
+        ],
+        "answerIndex": 2,
+        "explanation": "An adjective is needed after 'was'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The hotel has a pool on the roof.",
+          "Check-in begins at 3 p.m.",
+          "Your feedback is extremely important to us.",
+          "Several rooms were recently painted."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence explains the value of the survey, before its length is given."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "entering",
+          "enter",
+          "entrance",
+          "entered"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive 'will be entered' is needed."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "but",
+          "and",
+          "or",
+          "nor"
+        ],
+        "answerIndex": 1,
+        "explanation": "The two events are added to each other: the draw is held and the winner is notified."
+      }
+    ]
+  },
+  {
+    "id": "p6-088",
+    "documentType": "web_page",
+    "text": "AquaPure Water Bottle\n\nStay hydrated all day with the AquaPure insulated bottle. Made from [1] stainless steel, it keeps drinks cold for 24 hours and hot for 12. [2] The leak-proof lid is easy to open with one hand, and the wide mouth makes cleaning simple. Every bottle [3] with a lifetime warranty. Order today, and your bottle will [4] within three to four business days.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "durably",
+          "durable",
+          "durability",
+          "dure"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adjective is needed before 'stainless steel'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our company was founded in Vermont.",
+          "The bottle fits most car cup holders and backpack pockets.",
+          "Several colors are available for kitchen towels.",
+          "Water prices have increased in recent years."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence describes a practical feature and precedes other features."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "come",
+          "coming",
+          "came",
+          "comes"
+        ],
+        "answerIndex": 3,
+        "explanation": "A singular present verb follows 'Every bottle'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "arrival",
+          "arriving",
+          "arrive",
+          "arrived"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'will', the base form is used."
+      }
+    ]
+  }
+]
