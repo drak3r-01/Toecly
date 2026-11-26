@@ -1,0 +1,442 @@
+[
+  {
+    "id": "p6-113",
+    "documentType": "email",
+    "text": "Dear Mrs. Thompson,\n\nThank you for taking the time to share your feedback about your recent stay at Maple Inn. We are sorry to learn that the air conditioning in your room [1] properly. [2] Our maintenance team has since inspected all units on the third floor and repaired the faulty ones. To show our [3], we would like to offer you a complimentary night on your next visit. Please contact our reservations office [4] you are ready to book.\n\nSincerely,\nDavid Cho, General Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "were not working",
+          "was not working",
+          "did not working",
+          "has not work"
+        ],
+        "answerIndex": 1,
+        "explanation": "The singular uncountable subject 'air conditioning' takes 'was' in the past progressive."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our hotel has a new swimming pool.",
+          "Breakfast is served from 6 a.m. to 10 a.m.",
+          "We take comments like yours very seriously.",
+          "Room rates will increase in the spring."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence reacts to the complaint, before the action taken is described."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "appreciate",
+          "appreciation",
+          "appreciating",
+          "appreciative"
+        ],
+        "answerIndex": 1,
+        "explanation": "A noun is needed after 'our'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "whom",
+          "when",
+          "where",
+          "what"
+        ],
+        "answerIndex": 1,
+        "explanation": "'When' introduces the moment at which the guest should call."
+      }
+    ]
+  },
+  {
+    "id": "p6-114",
+    "documentType": "advertisement",
+    "text": "Career Fair at Metro Convention Hall\n\nAre you looking for a new job? Join us on Saturday, April 12, for the region's largest career fair. More than 80 companies, [1] technology, healthcare, and finance firms, will be recruiting on site. [2] Bring several copies of your résumé, and dress professionally. Free workshops on interview skills and résumé writing [3] throughout the day. Admission is free, but you must [4] online in advance to receive your entry badge.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "including",
+          "inclusive",
+          "included",
+          "inclusion"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Including' introduces examples of the companies."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The convention hall was built in 1985.",
+          "Parking is expensive downtown.",
+          "Many employers will be conducting interviews on the spot.",
+          "Our company was founded in 1999."
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence is about the opportunities and leads to advice on how to prepare."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "will offer",
+          "will be offered",
+          "offering",
+          "have offer"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive voice is needed: workshops are offered by the organizers."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "regret",
+          "regard",
+          "regain",
+          "register"
+        ],
+        "answerIndex": 3,
+        "explanation": "One 'registers' to receive a badge."
+      }
+    ]
+  },
+  {
+    "id": "p6-115",
+    "documentType": "article",
+    "text": "Airline to Introduce Direct Flights to Lisbon\n\nPacific Wings announced yesterday that it will begin operating direct flights between Seattle and Lisbon in June. The new route, [1] will run four times a week, is the airline's first service to Portugal. [2] Tickets will go on sale on Friday, with introductory fares starting at $549 one way. Company spokesperson Rosa Perez said the airline [3] the decision after a survey showed strong interest among travelers. Previously, passengers had to change planes [4] reaching Lisbon.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "which",
+          "where"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Which' introduces a non-restrictive clause about the route."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The airport has a new parking garage.",
+          "Fuel prices dropped in the autumn.",
+          "Seattle is known for its coffee.",
+          "The flights will use the airline's newest long-range aircraft."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence adds a detail about the new flights, before the tickets are announced."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "make",
+          "making",
+          "made",
+          "makes"
+        ],
+        "answerIndex": 2,
+        "explanation": "The simple past is needed to report a past decision."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "before",
+          "until",
+          "since",
+          "among"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Before reaching' places the plane change earlier."
+      }
+    ]
+  },
+  {
+    "id": "p6-116",
+    "documentType": "notice",
+    "text": "RECYCLING REMINDER\n\nStarting next month, the city will collect recycling every week instead of every two weeks. Residents are asked to place their bins at the curb by 7 a.m. on collection day. [1] Please rinse all containers before putting them in the bin. Plastic bags, [2] cannot be recycled, should be kept out of the bins. Items that are too large [3] the bin, such as cardboard boxes, must be flattened. Residents who do not [4] with these rules may be fined.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Only clean paper, glass, metal, and plastic containers are accepted.",
+          "The city park will close at dusk.",
+          "Garbage trucks are painted green.",
+          "Bus fares will rise in January."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence states what can be recycled, and the next sentence gives a related instruction."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "which",
+          "where"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Which' introduces a non-restrictive clause about the bags."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "to",
+          "of",
+          "for",
+          "by"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Too large for' is the standard construction."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "comply",
+          "compare",
+          "compete",
+          "complain"
+        ],
+        "answerIndex": 0,
+        "explanation": "One 'complies with' rules, meaning one follows them."
+      }
+    ]
+  },
+  {
+    "id": "p6-117",
+    "documentType": "email",
+    "text": "Dear Mr. Okoye,\n\nI am writing to request a quotation for the supply of 50 desktop computers for our new regional office. [1] The machines should have at least 16 gigabytes of memory and a one-year warranty. Please include the cost of delivery and installation in your [2]. We need the equipment [3] the end of September, so a quick reply would be [4]. If you require any further information, do not hesitate to contact me.\n\nSincerely,\nMaria Lopez, Procurement Officer",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our office is located on Maple Street.",
+          "A detailed list of technical requirements is attached.",
+          "The company's fiscal year ends in March.",
+          "Several employees have been promoted."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence points to the requirements that the next sentence summarizes."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "estimating",
+          "estimate",
+          "estimated",
+          "estimator"
+        ],
+        "answerIndex": 1,
+        "explanation": "A noun is needed after 'your'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "until",
+          "since",
+          "by",
+          "for"
+        ],
+        "answerIndex": 2,
+        "explanation": "'By the end of September' sets a deadline."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "appreciating",
+          "appreciate",
+          "appreciated",
+          "appreciation"
+        ],
+        "answerIndex": 2,
+        "explanation": "The passive 'would be appreciated' is the polite expression."
+      }
+    ]
+  },
+  {
+    "id": "p6-118",
+    "documentType": "review",
+    "text": "★★★★☆ Useful, with room for improvement\n\nI have been using the BudgetBuddy app for six months to track my household expenses. The interface is simple and the monthly reports are [1] helpful. [2] I particularly like the option to set spending limits for each category. However, the app sometimes [3] when I try to upload receipts, and customer support took three days to respond to my e-mail. I hope the developers will [4] these problems in a future update.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "extremely",
+          "extreme",
+          "extremity",
+          "extremes"
+        ],
+        "answerIndex": 0,
+        "explanation": "An adverb is needed to modify the adjective 'helpful'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The app is available in six languages.",
+          "My phone was made in Korea.",
+          "I bought a new bicycle last year.",
+          "It has helped me save about $100 a month."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence gives a concrete benefit, before a specific feature is mentioned."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "frees",
+          "freezes",
+          "frames",
+          "freights"
+        ],
+        "answerIndex": 1,
+        "explanation": "An app 'freezes' when it stops responding."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "fit",
+          "fix",
+          "fill",
+          "fax"
+        ],
+        "answerIndex": 1,
+        "explanation": "Developers 'fix' problems, meaning they correct them."
+      }
+    ]
+  },
+  {
+    "id": "p6-119",
+    "documentType": "form",
+    "text": "Leave Request Procedure\n\nEmployees wishing to take annual leave must submit a request form to their supervisor at least two weeks in advance. [1] Requests for more than five consecutive days require approval from the department director. During peak periods, such as the end of the fiscal year, leave may be [2] depending on staffing needs. Employees will be informed of the decision [3] three working days. Unused leave cannot be carried over to the next year [4] special permission has been granted.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Forms are available on the company intranet.",
+          "Salaries are paid on the last day of the month.",
+          "The office is closed on public holidays.",
+          "New employees receive a training manual."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence says where to find the form mentioned just before."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "restricted",
+          "restricting",
+          "restrict",
+          "restriction"
+        ],
+        "answerIndex": 0,
+        "explanation": "The passive 'may be restricted' is needed."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "within",
+          "until",
+          "since"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Within three working days' sets the maximum time."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "although",
+          "unless",
+          "because",
+          "so that"
+        ],
+        "answerIndex": 1,
+        "explanation": "The carry-over is forbidden except if permission has been granted."
+      }
+    ]
+  },
+  {
+    "id": "p6-120",
+    "documentType": "online_chat",
+    "text": "Customer (11:20 a.m.): Hello, I'd like to reserve a table for six on Saturday evening.\nHost (11:21 a.m.): Certainly. [1] We have availability at 6:30 p.m. and 8:15 p.m.\nCustomer (11:22 a.m.): 8:15 would be [2]. It's a birthday dinner, so could we have a table near the window?\nHost (11:24 a.m.): I will [3] a note of your request, but I cannot guarantee a window seat. Please arrive fifteen minutes [4] your reservation.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Let me check what is available.",
+          "Our restaurant was recently renovated.",
+          "The chef has won several awards.",
+          "We accept all major credit cards."
+        ],
+        "answerIndex": 0,
+        "explanation": "The host starts to check availability, then gives the time options."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "perfectly",
+          "perfection",
+          "perfect",
+          "perfected"
+        ],
+        "answerIndex": 2,
+        "explanation": "An adjective is needed after 'would be'."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "make",
+          "build",
+          "draw",
+          "raise"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Make a note of' is the fixed expression."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "before",
+          "in",
+          "since",
+          "toward"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Fifteen minutes before' a time is the correct construction."
+      }
+    ]
+  }
+]
