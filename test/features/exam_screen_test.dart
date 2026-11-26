@@ -125,7 +125,7 @@ void main() {
 
   testWidgets('when time runs out the exam is submitted by itself', (tester) async {
     var submissions = 0;
-    await _pumpExam(tester, duration: const Duration(seconds: 3), onSubmitted: (_, __) => submissions++);
+    await _pumpExam(tester, duration: const Duration(seconds: 3), onSubmitted: (_, _) => submissions++);
     await tester.pump(const Duration(seconds: 3));
     await _settle(tester);
     expect(find.text('Time is up: your exam was submitted.'), findsOneWidget);
