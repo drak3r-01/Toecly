@@ -1,0 +1,620 @@
+[
+  {
+    "id": "p7-001",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Message from Priya Nair",
+        "text": "Hello Mr. Alvarez, this is Priya from Greenway Supplies. Your order of 40 desk lamps was due on Tuesday, but the shipment is delayed at the port because of a customs inspection. The truck should now reach your warehouse on Friday morning. If you need the lamps sooner for the store opening, I can send 12 from our local stock by courier tomorrow at no charge. Please reply by 5 p.m. today to let me know."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Priya send the message?",
+        "category": "purpose",
+        "choices": [
+          "To confirm a payment",
+          "To report a delay in a delivery",
+          "To request a larger order",
+          "To change the design of a product"
+        ],
+        "answerIndex": 1,
+        "explanation": "She explains that the shipment is delayed at the port."
+      },
+      {
+        "prompt": "What does Priya offer to do?",
+        "category": "detail",
+        "choices": [
+          "Reduce the price of the lamps",
+          "Replace the lamps with another model",
+          "Move the delivery to a different warehouse",
+          "Send part of the order early at no cost"
+        ],
+        "answerIndex": 3,
+        "explanation": "She can send 12 lamps by courier tomorrow at no charge."
+      },
+      {
+        "prompt": "What is suggested about Mr. Alvarez?",
+        "category": "inference",
+        "choices": [
+          "He is preparing to open a store",
+          "He has canceled his order",
+          "He works at the port",
+          "He has already paid for courier service"
+        ],
+        "answerIndex": 0,
+        "explanation": "Priya mentions that he may need the lamps sooner for 'the store opening'."
+      }
+    ]
+  },
+  {
+    "id": "p7-002",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Parking Lot B Closure",
+        "text": "NOTICE TO ALL EMPLOYEES\nParking Lot B will be closed from Monday, June 3, through Friday, June 14, while the surface is repaved. During this period, staff who normally park in Lot B may use Lot C, which is a five-minute walk from the main entrance, or the visitor spaces in front of the building after 9 a.m. A free shuttle will run between Lot C and the main entrance every ten minutes from 7:30 a.m. to 9:30 a.m. and from 4:30 p.m. to 6:30 p.m. Employees who cycle to work can use the bicycle racks next to the cafeteria, which will remain open. Questions should be sent to facilities@dunmore-corp.example."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the notice?",
+        "category": "purpose",
+        "choices": [
+          "To announce a new shuttle company",
+          "To ask employees to cycle to work",
+          "To explain parking arrangements during repairs",
+          "To report a change in office hours"
+        ],
+        "answerIndex": 2,
+        "explanation": "The notice describes alternatives while Lot B is repaved."
+      },
+      {
+        "prompt": "Which of the following is NOT offered to employees during the closure?",
+        "category": "not_true",
+        "choices": [
+          "The use of Lot C",
+          "A free shuttle service",
+          "A refund of parking fees",
+          "Visitor spaces after 9 a.m."
+        ],
+        "answerIndex": 2,
+        "explanation": "Lot C, the shuttle and visitor spaces are all mentioned; refunds are not."
+      },
+      {
+        "prompt": "When does the shuttle run in the afternoon?",
+        "category": "detail",
+        "choices": [
+          "From 4:30 p.m. to 6:30 p.m.",
+          "From 7:30 a.m. to 9:30 a.m.",
+          "From 3:30 p.m. to 5:30 p.m.",
+          "From 5:00 p.m. to 7:00 p.m."
+        ],
+        "answerIndex": 0,
+        "explanation": "The notice gives 4:30 p.m. to 6:30 p.m."
+      }
+    ]
+  },
+  {
+    "id": "p7-003",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Marlow's Bakery Opens Second Location",
+        "text": "BRIGHTON (April 12) - Marlow's Bakery, a family-run business known for its sourdough loaves, will open a second location on Harbor Street next month. [A] The new shop will be three times larger than the original on Elm Avenue and will include a café with seating for sixty customers. [B] Owner Helen Marlow said demand had grown steadily since the bakery won a regional food award last year. \"We were turning customers away on weekends,\" she said. [C] To staff the new site, the bakery plans to hire fifteen employees, including four bakers, and will hold a job fair on April 27. [D] The Elm Avenue shop will keep its current hours, while the Harbor Street location will open at 6 a.m. daily."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "A regional food competition",
+          "A job fair for bakers",
+          "The closing of a family shop",
+          "The expansion of a local business"
+        ],
+        "answerIndex": 3,
+        "explanation": "It reports that the bakery is opening a second, larger location."
+      },
+      {
+        "prompt": "How many employees will the bakery hire?",
+        "category": "detail",
+        "choices": [
+          "Four",
+          "Fifteen",
+          "Sixty",
+          "Three"
+        ],
+        "answerIndex": 1,
+        "explanation": "The bakery plans to hire fifteen employees, four of them bakers."
+      },
+      {
+        "prompt": "The word \"steadily\" in the article is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "quickly",
+          "consistently",
+          "quietly",
+          "carefully"
+        ],
+        "answerIndex": 1,
+        "explanation": "Demand grew steadily means it kept growing at a regular pace."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"The larger building will also have a second oven room.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 1,
+        "explanation": "It follows the sentence describing the size of the new shop, so 'the larger building' refers back to it."
+      }
+    ]
+  },
+  {
+    "id": "p7-004",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "FitCore Gym: Join in March and Save!",
+        "text": "Sign up for an annual membership before March 31 and pay no joining fee (normally $60). Your membership includes unlimited use of our pool, more than 40 classes every week, and one free session with a personal trainer. Monthly plans are also available at $35 per month, but they do not include the pool. Bring a friend on your first visit and both of you will receive a free water bottle. Visit fitcoregym.example or call 555-0142."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What benefit comes with signing up before March 31?",
+        "category": "detail",
+        "choices": [
+          "A free water bottle",
+          "A discount on monthly plans",
+          "Free personal training for a year",
+          "The joining fee is waived"
+        ],
+        "answerIndex": 3,
+        "explanation": "The ad says there is no joining fee for annual memberships signed before March 31."
+      },
+      {
+        "prompt": "What is indicated about the monthly plans?",
+        "category": "detail",
+        "choices": [
+          "They do not include pool access",
+          "They cost $60 per month",
+          "They require a joining fee",
+          "They include a free training session"
+        ],
+        "answerIndex": 0,
+        "explanation": "The ad states that monthly plans do not include the pool."
+      }
+    ]
+  },
+  {
+    "id": "p7-005",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Updated Expense Reimbursement Policy",
+        "text": "TO: All Sales Staff\nFROM: Marcus Bell, Finance Director\nDATE: September 9\nSUBJECT: Updated Expense Reimbursement Policy\n\nEffective October 1, all travel expense reports must be submitted through the new online portal within ten business days of the end of a trip. Reports submitted late will be paid with the following month's payroll rather than the current one. Receipts are required for any single expense over $25; previously, the limit was $50. Meals will continue to be reimbursed up to $60 per day. Training sessions on the portal will be held on September 18 and 25 in Conference Room 2. Please sign up with your department assistant."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the memo written?",
+        "category": "purpose",
+        "choices": [
+          "To introduce a new finance director",
+          "To request approval for a business trip",
+          "To announce changes to a reimbursement process",
+          "To cancel a training session"
+        ],
+        "answerIndex": 2,
+        "explanation": "It describes a new portal and new rules for expense reports."
+      },
+      {
+        "prompt": "What is the new limit for expenses that do NOT require a receipt?",
+        "category": "detail",
+        "choices": [
+          "$10",
+          "$50",
+          "$25",
+          "$60"
+        ],
+        "answerIndex": 2,
+        "explanation": "Receipts are required over $25; the old limit was $50."
+      },
+      {
+        "prompt": "What will happen to a report submitted 15 business days after a trip?",
+        "category": "inference",
+        "choices": [
+          "It will be paid the following month",
+          "It will be rejected",
+          "It will need a manager's signature",
+          "It will be paid with the current payroll"
+        ],
+        "answerIndex": 0,
+        "explanation": "Reports are due within ten business days; late ones are paid with the next month's payroll."
+      }
+    ]
+  },
+  {
+    "id": "p7-006",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "IT Support Chat",
+        "text": "Dylan Park [10:02 a.m.]: Hi, I can't log in to the shared drive since this morning. It says my password has expired.\nMei Ling, IT Support [10:03 a.m.]: Hello Dylan. Passwords expire every 90 days. Did you receive the reminder e-mail last week?\nDylan Park [10:04 a.m.]: I don't think so. It may have gone to my spam folder.\nMei Ling, IT Support [10:05 a.m.]: That's possible. I can reset it for you now, but I need to confirm your employee number first.\nDylan Park [10:06 a.m.]: It's 48213. I'm also supposed to give a presentation at 11, and my slides are on that drive.\nMei Ling, IT Support [10:08 a.m.]: Thanks. I've sent a temporary password to your phone. Please log in and choose a new one right away. I'll also copy your slides to a USB stick in case the drive is slow. You can collect it from the help desk on the second floor.\nDylan Park [10:09 a.m.]: Perfect, I'll be down in five minutes."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Dylan contact the support desk?",
+        "category": "purpose",
+        "choices": [
+          "He lost his phone",
+          "He needed a new employee number",
+          "He wanted to schedule a presentation",
+          "He could not access a shared drive"
+        ],
+        "answerIndex": 3,
+        "explanation": "He says he cannot log in to the shared drive."
+      },
+      {
+        "prompt": "At 10:05 a.m., what does Mei Ling most likely mean when she writes, \"That's possible\"?",
+        "category": "purpose",
+        "choices": [
+          "Dylan's password has not expired",
+          "The reminder may have been filtered into spam",
+          "The shared drive is out of service",
+          "She can reset the password later"
+        ],
+        "answerIndex": 1,
+        "explanation": "She is agreeing that the reminder e-mail may have ended up in the spam folder."
+      },
+      {
+        "prompt": "What did Mei Ling send to Dylan's phone?",
+        "category": "detail",
+        "choices": [
+          "A reminder e-mail",
+          "A temporary password",
+          "His employee number",
+          "A copy of his slides"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says she sent a temporary password to his phone."
+      },
+      {
+        "prompt": "Where will Dylan most likely go next?",
+        "category": "inference",
+        "choices": [
+          "To his spam folder",
+          "To a manager's office",
+          "To a meeting room to give his presentation",
+          "To the help desk on the second floor"
+        ],
+        "answerIndex": 3,
+        "explanation": "He says he will be down in five minutes to collect the USB stick from the help desk."
+      }
+    ]
+  },
+  {
+    "id": "p7-007",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Wanted: Event Coordinator",
+        "text": "Lakeside Hotel in Burnham is seeking a full-time Event Coordinator to plan weddings, conferences, and corporate banquets. Responsibilities include meeting clients, managing vendors, and supervising banquet staff on event days. Requirements: at least three years of experience in event planning, strong communication skills, and availability on weekends. A degree in hospitality is preferred but not required. Salary: $48,000 to $54,000 depending on experience. To apply, send a cover letter and résumé to Ms. Rosa Delgado, Human Resources, by June 20."
+      },
+      {
+        "type": "email",
+        "title": "Event Coordinator position",
+        "text": "To: rdelgado@lakesidehotel.example\nFrom: kohara@mailbox.example\nDate: June 17\n\nDear Ms. Delgado,\nI am writing to apply for the Event Coordinator position advertised on your website. For the past four years I have organized trade shows and charity dinners at the Harmon Convention Center, where I managed budgets of up to $200,000. I do not hold a degree in hospitality; however, I completed a professional certificate in event management last year. I am available on weekends and could start on August 1. My résumé is attached. I would welcome the chance to discuss my application.\nSincerely,\nKevin O'Hara"
+      },
+      {
+        "type": "email",
+        "title": "Re: Event Coordinator position",
+        "text": "To: kohara@mailbox.example\nFrom: rdelgado@lakesidehotel.example\nDate: June 24\n\nDear Mr. O'Hara,\nThank you for your application. We would like to invite you for an interview on Tuesday, July 2, at 10 a.m. at the hotel. Please bring two references and examples of events you have planned. Unfortunately, the starting date of August 1 may be difficult, as we need someone to begin by July 15. Please let me know whether that would be possible for you. Also note that the salary will be at the lower end of the range for candidates with fewer than five years of experience.\nBest regards,\nRosa Delgado"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is NOT required for the job?",
+        "category": "not_true",
+        "choices": [
+          "A degree in hospitality",
+          "Experience in event planning",
+          "Availability on weekends",
+          "Strong communication skills"
+        ],
+        "answerIndex": 0,
+        "explanation": "The ad says a degree is preferred but not required."
+      },
+      {
+        "prompt": "What is suggested about Mr. O'Hara's application?",
+        "category": "inference",
+        "choices": [
+          "He sent it after the deadline",
+          "He applied through a recruiter",
+          "He meets the experience requirement",
+          "He has a degree in hospitality"
+        ],
+        "answerIndex": 2,
+        "explanation": "He has four years of experience; the ad asks for three. He applied on June 17, before June 20."
+      },
+      {
+        "prompt": "What salary will Mr. O'Hara most likely be offered?",
+        "category": "inference",
+        "choices": [
+          "Closer to $54,000",
+          "More than $60,000",
+          "Closer to $48,000",
+          "Less than $40,000"
+        ],
+        "answerIndex": 2,
+        "explanation": "He has fewer than five years of experience, so the salary will be at the lower end of $48,000 to $54,000."
+      },
+      {
+        "prompt": "What does Ms. Delgado ask Mr. O'Hara to bring to the interview?",
+        "category": "detail",
+        "choices": [
+          "Two references and examples of events",
+          "A hospitality certificate and a cover letter",
+          "His budget reports and a photograph",
+          "A list of salary requirements"
+        ],
+        "answerIndex": 0,
+        "explanation": "She asks for two references and examples of events he has planned."
+      },
+      {
+        "prompt": "What problem does Ms. Delgado mention?",
+        "category": "detail",
+        "choices": [
+          "The interview date conflicts with an event",
+          "The applicant's certificate is not valid",
+          "The salary range has been reduced",
+          "The hotel needs someone to start before August 1"
+        ],
+        "answerIndex": 3,
+        "explanation": "The hotel needs someone to begin by July 15."
+      }
+    ]
+  },
+  {
+    "id": "p7-008",
+    "documents": [
+      {
+        "type": "invoice",
+        "title": "Invoice #3381",
+        "text": "BRIGHT PRINT CO.\nInvoice #3381\nDate: November 4\nCustomer: Ashford Dental Clinic\n\nItem | Quantity | Unit price | Total\nAppointment cards | 2,000 | $0.05 | $100.00\nBrochures (tri-fold) | 500 | $0.60 | $300.00\nBanner (2 m x 1 m) | 1 | $85.00 | $85.00\nRush delivery fee | 1 | $40.00 | $40.00\n\nSubtotal: $525.00\nTax (8%): $42.00\nTotal due: $567.00\n\nPayment is due within 30 days of the invoice date. A 2% discount applies if paid within 10 days."
+      },
+      {
+        "type": "email",
+        "title": "Invoice #3381",
+        "text": "To: billing@brightprint.example\nFrom: Lina Faraj\nDate: November 8\n\nHello,\nI am reviewing invoice #3381 and have two questions. First, our order form asked for standard delivery, so I do not understand the rush fee. Second, we ordered 600 brochures, not 500, and I received only 500 in the box. Could you please correct the invoice and send the remaining 100 brochures? We would like to pay within the discount period if possible.\nThank you,\nLina Faraj\nOffice Manager, Ashford Dental Clinic"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the total amount due on the original invoice?",
+        "category": "detail",
+        "choices": [
+          "$525.00",
+          "$567.00",
+          "$100.00",
+          "$42.00"
+        ],
+        "answerIndex": 1,
+        "explanation": "The invoice shows a total due of $567.00."
+      },
+      {
+        "prompt": "Which charge does Ms. Faraj question?",
+        "category": "detail",
+        "choices": [
+          "The tax",
+          "The rush delivery fee",
+          "The cost of the banner",
+          "The price of the appointment cards"
+        ],
+        "answerIndex": 1,
+        "explanation": "She asked for standard delivery and does not understand the rush fee."
+      },
+      {
+        "prompt": "What does Ms. Faraj want Bright Print to send?",
+        "category": "detail",
+        "choices": [
+          "A replacement banner",
+          "A new order form",
+          "A refund for the cards",
+          "100 more brochures"
+        ],
+        "answerIndex": 3,
+        "explanation": "She received only 500 of the 600 brochures she ordered."
+      },
+      {
+        "prompt": "By what date must Ms. Faraj pay to receive the discount?",
+        "category": "inference",
+        "choices": [
+          "November 14",
+          "November 8",
+          "November 24",
+          "December 4"
+        ],
+        "answerIndex": 0,
+        "explanation": "The discount applies within 10 days of the invoice date, November 4."
+      },
+      {
+        "prompt": "The word \"correct\" in the e-mail is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "confirm",
+          "cancel",
+          "revise",
+          "deliver"
+        ],
+        "answerIndex": 2,
+        "explanation": "She asks the company to revise the invoice."
+      }
+    ]
+  },
+  {
+    "id": "p7-009",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Riverton Logistics Summit: Friday Schedule",
+        "text": "9:00 a.m. Opening remarks, Dr. Alan Weiss (Ballroom A)\n9:30 a.m. Keynote: The Future of Warehouse Automation, Priya Shah (Ballroom A)\n11:00 a.m. Workshop 1: Reducing Shipping Costs, Tomás Rivera (Room 204)\n11:00 a.m. Workshop 2: Managing Seasonal Staff, Grace Liu (Room 206)\n12:30 p.m. Lunch (Garden Terrace)\n2:00 p.m. Panel: Sustainable Packaging (Ballroom A)\n3:30 p.m. Closing session and prize drawing (Ballroom A)"
+      },
+      {
+        "type": "email",
+        "title": "Registration question",
+        "text": "To: info@rivertonsummit.example\nFrom: Daniel Cho\nDate: September 28\n\nHello,\nI registered last week for Friday's summit. I will be arriving by train at 10:15 a.m., so I will miss the keynote. Are the sessions recorded? Also, I am vegetarian. Will there be options at lunch? I am especially interested in the workshop on shipping costs, as my company recently changed carriers.\nThank you,\nDaniel Cho"
+      },
+      {
+        "type": "email",
+        "title": "Re: Registration question",
+        "text": "To: Daniel Cho\nFrom: Olivia Grant, Summit Coordinator\nDate: September 29\n\nDear Mr. Cho,\nThank you for registering. The keynote and the afternoon panel will be recorded and e-mailed to all participants within a week. Workshops will not be recorded because they include group activities. Vegetarian meals are available; please tell the staff at the registration desk when you arrive. The desk opens at 8 a.m. The workshop rooms fill up quickly, so I suggest arriving at your room about ten minutes early.\nRegards,\nOlivia Grant"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who will lead the workshop that interests Mr. Cho?",
+        "category": "detail",
+        "choices": [
+          "Grace Liu",
+          "Priya Shah",
+          "Tomás Rivera",
+          "Alan Weiss"
+        ],
+        "answerIndex": 2,
+        "explanation": "Mr. Cho wants the shipping-costs workshop, which Tomás Rivera leads."
+      },
+      {
+        "prompt": "What will happen to the keynote?",
+        "category": "detail",
+        "choices": [
+          "It will be e-mailed to participants",
+          "It will be broadcast live",
+          "It will be repeated in the afternoon",
+          "It will be available only at the desk"
+        ],
+        "answerIndex": 0,
+        "explanation": "The keynote will be recorded and e-mailed within a week."
+      },
+      {
+        "prompt": "What is suggested about the workshop Mr. Cho wants to attend?",
+        "category": "inference",
+        "choices": [
+          "It will be held in the ballroom",
+          "It will take place after lunch",
+          "It will be led by the coordinator",
+          "It will not be recorded"
+        ],
+        "answerIndex": 3,
+        "explanation": "Workshops are not recorded, and this one takes place in Room 204 at 11 a.m."
+      },
+      {
+        "prompt": "What should Mr. Cho do about his meal?",
+        "category": "detail",
+        "choices": [
+          "Send a second e-mail",
+          "Tell the staff at the registration desk",
+          "Order at the Garden Terrace",
+          "Bring his own lunch"
+        ],
+        "answerIndex": 1,
+        "explanation": "Ms. Grant asks him to tell the registration desk staff."
+      },
+      {
+        "prompt": "Where should Mr. Cho go at about 10:50 a.m.?",
+        "category": "inference",
+        "choices": [
+          "Room 206",
+          "Room 204",
+          "Ballroom A",
+          "The Garden Terrace"
+        ],
+        "answerIndex": 1,
+        "explanation": "The workshop starts at 11:00 in Room 204, and he should arrive ten minutes early."
+      }
+    ]
+  },
+  {
+    "id": "p7-010",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Lovely location, disappointing stay",
+        "text": "Maplewood Inn: 2 stars out of 5\nPosted by Karen T., March 15\n\nMy husband and I stayed three nights at the Maplewood Inn for our anniversary. The view of the lake was beautiful, and the breakfast was excellent. Unfortunately, our room was next to the ice machine, which made noise all night, and the heater was broken on the first evening. It took the front desk almost two hours to send someone to repair it. When I mentioned the problems at check-out, the clerk simply said he was sorry. I would hesitate to return unless the management improves its service."
+      },
+      {
+        "type": "letter",
+        "title": "Reply to a guest",
+        "text": "Maplewood Inn\n12 Lake Road\nMarch 18\n\nDear Ms. Thompson,\nThank you for taking the time to share your experience. We were very sorry to learn about the problems during your recent stay. The heater has since been replaced in all lakeside rooms, and our staff have been reminded to respond to maintenance requests within thirty minutes. We were not aware that your room was next to the ice machine; we will not assign guests to that room again without notice. To thank you for your patience, we would like to offer you one free night at the inn, valid until December 31. Please call me directly at 555-0178 to book.\nSincerely,\nDaniel Moore\nGeneral Manager"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "main_idea",
+        "choices": [
+          "To advertise a discount",
+          "To confirm a reservation",
+          "To ask for an online review",
+          "To respond to a guest's complaint"
+        ],
+        "answerIndex": 3,
+        "explanation": "Mr. Moore apologizes and answers the problems raised in the review."
+      },
+      {
+        "prompt": "What did Ms. Thompson like about the inn?",
+        "category": "detail",
+        "choices": [
+          "The lake view and the breakfast",
+          "The front desk service and the view",
+          "The quiet atmosphere and the heating",
+          "The location of her room and the price"
+        ],
+        "answerIndex": 0,
+        "explanation": "She calls the view beautiful and the breakfast excellent."
+      },
+      {
+        "prompt": "What has the inn done since Ms. Thompson's stay?",
+        "category": "detail",
+        "choices": [
+          "It removed the ice machine",
+          "It hired a new general manager",
+          "It replaced heaters in lakeside rooms",
+          "It lowered its room rates"
+        ],
+        "answerIndex": 2,
+        "explanation": "The letter says the heater has been replaced in all lakeside rooms."
+      },
+      {
+        "prompt": "The word \"hesitate\" in the review is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "be able",
+          "be quick",
+          "be reluctant",
+          "be pleased"
+        ],
+        "answerIndex": 2,
+        "explanation": "She would be unwilling to return unless service improves."
+      },
+      {
+        "prompt": "What must Ms. Thompson do to use the offer?",
+        "category": "detail",
+        "choices": [
+          "Call the general manager to reserve",
+          "Write a new review",
+          "Pay a deposit of one night",
+          "Send a letter to the front desk"
+        ],
+        "answerIndex": 0,
+        "explanation": "Mr. Moore asks her to call him directly to book."
+      }
+    ]
+  }
+]
