@@ -184,12 +184,6 @@ class AppLocalizationsEn extends AppLocalizations {
   String get categoryVocabularyInContext => 'Vocabulary in context';
 
   @override
-  String get quickStartTitle => 'Quick start';
-
-  @override
-  String get quickStartHint => '10 random questions with immediate correction.';
-
-  @override
   String quizQuestionCounter(int current, int total) {
     return 'Question $current / $total';
   }
@@ -235,5 +229,11 @@ class AppLocalizationsEn extends AppLocalizations {
   String get quizLoadError => 'The questions could not be loaded.';
 
   @override
-  String get quickStartAllParts => 'All parts';
+  String get practicePartsLabel => 'Parts';
+
+  @override
+  String get practiceCountLabel => 'Number of questions';
+
+  @override
+  String get practiceStart => 'Start';
 }
