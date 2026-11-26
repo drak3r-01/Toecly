@@ -1,0 +1,620 @@
+[
+  {
+    "id": "p7-031",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Price adjustment",
+        "text": "To: Accounts Team\nFrom: Gordon Pike, Pike Packaging\nDate: August 12\n\nDear valued customer,\nDue to a rise in the cost of recycled cardboard, we will be adjusting our prices by 6 percent beginning October 1. Orders confirmed before September 15 will be honored at current prices, even if delivery takes place after October 1. We recommend that customers with seasonal needs place their holiday orders early to take advantage of this arrangement. Our shipping rates and payment terms will not change. If you have any questions, please contact your account representative.\nThank you for your continued business."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why is Mr. Pike writing to customers?",
+        "category": "purpose",
+        "choices": [
+          "To offer a seasonal discount",
+          "To notify them of a price increase",
+          "To announce a new shipping policy",
+          "To respond to a complaint"
+        ],
+        "answerIndex": 1,
+        "explanation": "Prices will rise by 6 percent starting October 1."
+      },
+      {
+        "prompt": "What will happen to an order confirmed on September 10?",
+        "category": "detail",
+        "choices": [
+          "It will cost 6 percent more",
+          "It will be delayed until October 1",
+          "It will have new payment terms",
+          "It will be charged at the current prices"
+        ],
+        "answerIndex": 3,
+        "explanation": "Orders confirmed before September 15 keep current prices."
+      },
+      {
+        "prompt": "Why does Mr. Pike suggest ordering holiday supplies early?",
+        "category": "inference",
+        "choices": [
+          "To avoid the higher prices",
+          "To receive free shipping",
+          "To get a payment extension",
+          "To reserve scarce cardboard"
+        ],
+        "answerIndex": 0,
+        "explanation": "Early orders are protected from the October increase."
+      }
+    ]
+  },
+  {
+    "id": "p7-032",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Strong suction, weak battery",
+        "text": "Zephyr Cordless Vacuum: 4 stars out of 5\nPosted by Dev S., verified buyer\n\nI bought the Zephyr Cordless Vacuum two months ago to replace my old corded model. Setup took just a few minutes, and the suction is impressive; it picks up pet hair from my carpets better than any vacuum I've owned. It is also light enough for my elderly mother to use. My only complaint is the battery, which lasts about 25 minutes, less than the 40 minutes advertised. A spare battery costs $55, which feels expensive. Customer service replied quickly to my question about filters, though. I would recommend it to anyone with a small apartment, but not to those with large homes."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's opinion of the vacuum?",
+        "category": "main_idea",
+        "choices": [
+          "It is too heavy for older people",
+          "It is difficult to assemble",
+          "It cleans well but its battery is short-lived",
+          "It is cheaper than other models"
+        ],
+        "answerIndex": 2,
+        "explanation": "The reviewer praises the suction and criticizes the battery."
+      },
+      {
+        "prompt": "How long does the battery actually last?",
+        "category": "detail",
+        "choices": [
+          "About 40 minutes",
+          "About 55 minutes",
+          "About 25 minutes",
+          "About two months"
+        ],
+        "answerIndex": 2,
+        "explanation": "The reviewer says it lasts about 25 minutes, less than the 40 advertised."
+      },
+      {
+        "prompt": "What is implied about the reviewer?",
+        "category": "inference",
+        "choices": [
+          "The reviewer has pets",
+          "The reviewer lives in a large house",
+          "The reviewer bought a spare battery",
+          "The reviewer contacted support about the battery"
+        ],
+        "answerIndex": 0,
+        "explanation": "The vacuum picks up pet hair from the reviewer's carpets."
+      }
+    ]
+  },
+  {
+    "id": "p7-033",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Weekly Market Moves to Town Square",
+        "text": "OAKDALE (September 20) - Starting next month, the Oakdale Farmers Market will move from the Fairgrounds to Town Square. [A] The market, which has operated every Saturday for 15 years, will now take place on Sundays from 9 a.m. to 2 p.m. [B] Organizer Fran Delaney said the new location is closer to public transportation and will allow more shoppers to attend. \"We lose many customers because the fairgrounds are hard to reach without a car,\" she said. [C] The change also means that the market will be able to operate during winter, since Town Square has a covered pavilion. [D] About 60 vendors are expected to participate, including a new bakery and two honey producers. The first market in the new location will be held on October 6."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does the article report?",
+        "category": "main_idea",
+        "choices": [
+          "A farm has closed",
+          "A pavilion is being built",
+          "A vendor has won an award",
+          "A weekly market is changing its location and day"
+        ],
+        "answerIndex": 3,
+        "explanation": "The market moves from the Fairgrounds to Town Square and from Saturdays to Sundays."
+      },
+      {
+        "prompt": "Why is the new location considered better?",
+        "category": "detail",
+        "choices": [
+          "It has lower fees for vendors",
+          "It is easier to reach without a car",
+          "It is larger than the fairgrounds",
+          "It is closer to the farms"
+        ],
+        "answerIndex": 1,
+        "explanation": "Ms. Delaney says it is closer to public transportation."
+      },
+      {
+        "prompt": "What is suggested about the market's current schedule?",
+        "category": "inference",
+        "choices": [
+          "It is held on Sundays",
+          "It does not usually run in winter",
+          "It has been open for only a short time",
+          "It already has a covered area"
+        ],
+        "answerIndex": 1,
+        "explanation": "The move will let the market operate in winter, which implies it cannot at the fairgrounds."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Shoppers will therefore be able to buy local food all year.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Therefore' follows the sentence about winter operation made possible by the pavilion."
+      }
+    ]
+  },
+  {
+    "id": "p7-034",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Greenleaf Café: Staff Schedule, week of June 10",
+        "text": "Name | Mon | Tue | Wed | Thu | Fri | Sat\nAlma | 7-3 | 7-3 | Off | 7-3 | 7-3 | Off\nBrian | Off | 11-7 | 11-7 | 11-7 | Off | 8-4\nChen | 3-close | 3-close | 3-close | Off | 3-close | Off\n\nNotes: The café opens at 7 a.m. and closes at 7 p.m. on weekdays; Saturday hours are 8 a.m. to 4 p.m. Please swap shifts only with the manager's approval, and submit time-off requests two weeks in advance. Brian will train Chen on the espresso machine on Wednesday afternoon."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who is scheduled to work on Saturday?",
+        "category": "detail",
+        "choices": [
+          "Alma only",
+          "Alma and Brian",
+          "Brian and Chen",
+          "Brian only"
+        ],
+        "answerIndex": 3,
+        "explanation": "Only Brian has a Saturday shift."
+      },
+      {
+        "prompt": "When does the café close on Friday?",
+        "category": "inference",
+        "choices": [
+          "At 7 p.m.",
+          "At 3 p.m.",
+          "At 4 p.m.",
+          "At 5 p.m."
+        ],
+        "answerIndex": 0,
+        "explanation": "Chen works from 3 p.m. until close, and the café closes at 7 p.m. on weekdays."
+      },
+      {
+        "prompt": "What is suggested about Chen?",
+        "category": "inference",
+        "choices": [
+          "Chen opens the café every morning",
+          "Chen works on Thursdays",
+          "Chen is still learning some tasks",
+          "Chen is the manager"
+        ],
+        "answerIndex": 2,
+        "explanation": "Brian will train Chen on the espresso machine."
+      }
+    ]
+  },
+  {
+    "id": "p7-035",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Messages about tomorrow's demo",
+        "text": "Marta [2:10 p.m.]: Hi Joe, are we still on for the vendor demo tomorrow at 10?\nJoe [2:14 p.m.]: Yes, but Room B is double-booked. Facilities say Room C is free, though it only seats eight.\nMarta [2:15 p.m.]: There will be nine of us, including the vendor. Could we use the lounge instead?\nJoe [2:18 p.m.]: The lounge has no projector. I could bring my portable one.\nMarta [2:19 p.m.]: That would work. I'll tell the vendor to bring a laptop adapter just in case.\nJoe [2:20 p.m.]: Great. I'll reserve the lounge and put a sign on the door."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Joe mention Room C?",
+        "category": "detail",
+        "choices": [
+          "It has a projector",
+          "It is reserved for the vendor",
+          "It is available but too small",
+          "It is being renovated"
+        ],
+        "answerIndex": 2,
+        "explanation": "Room C is free but seats only eight, and nine people will attend."
+      },
+      {
+        "prompt": "How many people will attend the demo?",
+        "category": "detail",
+        "choices": [
+          "Nine",
+          "Six",
+          "Eight",
+          "Ten"
+        ],
+        "answerIndex": 0,
+        "explanation": "Marta says there will be nine, including the vendor."
+      },
+      {
+        "prompt": "What will Joe most likely bring to the demo?",
+        "category": "inference",
+        "choices": [
+          "A laptop adapter",
+          "Extra chairs",
+          "A copy of the contract",
+          "A portable projector"
+        ],
+        "answerIndex": 3,
+        "explanation": "He offers to bring his portable projector to the lounge."
+      }
+    ]
+  },
+  {
+    "id": "p7-036",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Volunteer Coordinator (part-time)",
+        "text": "Riverbend Food Bank, which serves 4,000 families each month, is looking for a part-time Volunteer Coordinator. The coordinator will recruit and schedule volunteers, lead training sessions, and report monthly volunteer hours to the executive director. Candidates should have experience in nonprofit work and strong organizational skills; knowledge of Spanish is a plus. The position is 20 hours per week, with some Saturday shifts, and pays $23 per hour. Applicants should send a résumé and two references to jobs@riverbendfb.example. Interviews will begin on the first of next month. This position is open until filled."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What will the Volunteer Coordinator be responsible for?",
+        "category": "detail",
+        "choices": [
+          "Delivering food to families",
+          "Scheduling and training volunteers",
+          "Managing the budget",
+          "Writing grant proposals"
+        ],
+        "answerIndex": 1,
+        "explanation": "The coordinator will recruit, schedule and train volunteers."
+      },
+      {
+        "prompt": "What is NOT mentioned in the ad about the position?",
+        "category": "not_true",
+        "choices": [
+          "The weekly hours",
+          "The benefits package",
+          "The hourly pay",
+          "The Saturday shifts"
+        ],
+        "answerIndex": 1,
+        "explanation": "Hours, pay and Saturday shifts are given; benefits are not."
+      },
+      {
+        "prompt": "What is suggested about the application process?",
+        "category": "inference",
+        "choices": [
+          "Interviews have already ended",
+          "Spanish speakers cannot apply",
+          "Résumés must be mailed by post",
+          "There is no fixed closing date"
+        ],
+        "answerIndex": 3,
+        "explanation": "The position is open until filled."
+      }
+    ]
+  },
+  {
+    "id": "p7-037",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Offer of employment",
+        "text": "Corvin Media\nJune 5\n\nDear Mr. Singh,\nFollowing your interviews on June 3 and 10, I am pleased to offer you the position of Marketing Analyst, starting Monday, July 15. Your annual salary will be $62,000, paid monthly. You will report to Ms. Laura Chen, Head of Marketing. Your first three months are a probationary period. Please sign and return the enclosed copy of this letter by June 21 to confirm your acceptance. Details of our benefits program are described in the attached memo.\nSincerely,\nPaul Duval\nHR Director"
+      },
+      {
+        "type": "email",
+        "title": "Offer of employment",
+        "text": "To: pduval@corvinmedia.example\nFrom: Ravi Singh\nDate: June 14\n\nDear Mr. Duval,\nThank you for the offer, which I am delighted to accept. I will return the signed letter by courier tomorrow. I have two questions. First, would it be possible to start on July 22 instead? I have a family commitment during the week of July 15. Second, the memo mentions a relocation allowance. I currently live about 200 kilometers from your office and intend to move in August. Would I qualify even though I would not move before starting?\nRavi Singh"
+      },
+      {
+        "type": "memo",
+        "title": "Benefits summary",
+        "text": "TO: New employees\nFROM: Human Resources\nDATE: June 6\nSUBJECT: Benefits summary\n\n- Health insurance begins on the first day of employment; the company pays 80 percent of the premium.\n- Paid vacation: 20 days per year, available after the probationary period.\n- Relocation allowance: up to $3,000 for employees who move more than 100 kilometers, claimed within six months of the start date.\n- Transit pass: 50 percent reimbursed with receipts.\n- Training budget: $800 per year for courses related to the job."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of Mr. Singh's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To accept a job and ask two questions",
+          "To negotiate a higher salary",
+          "To decline an offer",
+          "To request an interview"
+        ],
+        "answerIndex": 0,
+        "explanation": "He accepts the offer and asks about the start date and the relocation allowance."
+      },
+      {
+        "prompt": "Will Mr. Singh most likely qualify for the relocation allowance?",
+        "category": "inference",
+        "choices": [
+          "No, because he lives too close",
+          "No, because he will move after July 15",
+          "Yes, if he moves within six months of starting",
+          "Yes, but only if he moves before starting"
+        ],
+        "answerIndex": 2,
+        "explanation": "The allowance can be claimed within six months of the start date, and he lives about 200 km away."
+      },
+      {
+        "prompt": "How much of the health insurance premium will Mr. Singh pay?",
+        "category": "detail",
+        "choices": [
+          "None of it",
+          "50 percent",
+          "20 percent",
+          "80 percent"
+        ],
+        "answerIndex": 2,
+        "explanation": "The company pays 80 percent, so he pays the remaining 20 percent."
+      },
+      {
+        "prompt": "When will Mr. Singh be able to use his vacation days?",
+        "category": "inference",
+        "choices": [
+          "After his first three months",
+          "On his first day",
+          "After six months",
+          "After one year"
+        ],
+        "answerIndex": 0,
+        "explanation": "Vacation is available after the three-month probationary period."
+      },
+      {
+        "prompt": "Why does Mr. Singh ask to start on July 22?",
+        "category": "detail",
+        "choices": [
+          "He wants a longer vacation",
+          "He must finish another job",
+          "He is waiting for his salary",
+          "He has a family commitment"
+        ],
+        "answerIndex": 3,
+        "explanation": "He mentions a family commitment during the week of July 15."
+      }
+    ]
+  },
+  {
+    "id": "p7-038",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Harvest Festival Returns",
+        "text": "MILLBROOK (September 4) - The Millbrook Harvest Festival returns this year for its 12th edition on September 20 to 22 at Riverfront Park. Admission is free, though some activities require tickets. Highlights include a pie-baking contest, a craft market with more than 80 stalls, and, new this year, a Saturday evening concert by the local band Copper Road. Organizers expect 15,000 visitors and are encouraging attendees to use the free shuttle from Millbrook Station, since parking near the park will be limited. Volunteers are still needed; those interested should contact the festival office."
+      },
+      {
+        "type": "schedule",
+        "title": "Festival schedule",
+        "text": "Friday, Sept. 20: 4:00 p.m. Opening ceremony (Main Stage); 5:00 p.m. Craft market opens; 7:00 p.m. Film night on the lawn (free)\nSaturday, Sept. 21: 10:00 a.m. Pie-baking contest (Tent A); 12:00 p.m. Children's workshops (Tent B, tickets $5); 3:00 p.m. Cooking demonstration; 7:30 p.m. Copper Road concert (Main Stage, tickets $12)\nSunday, Sept. 22: 11:00 a.m. Parade; 1:00 p.m. Dog show; 4:00 p.m. Closing ceremony and prize announcements\nShuttle: every 15 minutes from Millbrook Station, 9:00 a.m. to 10:00 p.m."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why are visitors encouraged to take the shuttle?",
+        "category": "detail",
+        "choices": [
+          "Admission is cheaper",
+          "Parking near the park will be limited",
+          "The station is closing",
+          "The roads will be closed for a parade"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article says parking near the park will be limited."
+      },
+      {
+        "prompt": "How much does it cost to attend the new event?",
+        "category": "inference",
+        "choices": [
+          "Nothing",
+          "$12",
+          "$5",
+          "$80"
+        ],
+        "answerIndex": 1,
+        "explanation": "The new event is the Copper Road concert, with $12 tickets."
+      },
+      {
+        "prompt": "When will the pie-baking contest take place?",
+        "category": "detail",
+        "choices": [
+          "On Friday afternoon",
+          "On Saturday evening",
+          "On Sunday morning",
+          "On Saturday morning"
+        ],
+        "answerIndex": 3,
+        "explanation": "The schedule lists it at 10:00 a.m. on Saturday."
+      },
+      {
+        "prompt": "What will happen at 4:00 p.m. on Sunday?",
+        "category": "detail",
+        "choices": [
+          "Winners will be announced",
+          "A parade will begin",
+          "The shuttle will stop running",
+          "A concert will start"
+        ],
+        "answerIndex": 0,
+        "explanation": "The closing ceremony includes prize announcements."
+      },
+      {
+        "prompt": "What is NOT true about the festival?",
+        "category": "not_true",
+        "choices": [
+          "It has been held before",
+          "It includes a craft market",
+          "Admission requires a ticket",
+          "A shuttle service is provided"
+        ],
+        "answerIndex": 2,
+        "explanation": "Admission is free, although some activities require tickets."
+      }
+    ]
+  },
+  {
+    "id": "p7-039",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "NetSwift Home Internet Plans",
+        "text": "Basic 50: 50 Mbps, $29.99 per month.\nPlus 200: 200 Mbps, $44.99 per month.\nMax 500: 500 Mbps, $59.99 per month.\nAll plans: no data cap. Free installation with a 12-month agreement ($75 otherwise). Router rental is $8 per month, or use your own compatible router at no charge. Customers who refer a friend receive a $20 credit on their next bill. Prices exclude taxes."
+      },
+      {
+        "type": "invoice",
+        "title": "Monthly statement",
+        "text": "NETSWIFT: MONTHLY STATEMENT\nAccount: Elena Ruiz\nStatement date: November 3\n\nPlus 200 plan: $44.99\nRouter rental: $8.00\nInstallation fee: $75.00\nSubtotal: $127.99\nTax (10 percent): $12.80\nTotal: $140.79\n\nPayment due: November 20"
+      },
+      {
+        "type": "email",
+        "title": "Question about my first statement",
+        "text": "To: billing@netswift.example\nFrom: Elena Ruiz\nDate: November 5\n\nHello,\nI just received my first statement, and I believe there are two mistakes. First, I signed a 12-month agreement when I subscribed, so I should not have been charged for installation. Second, I own my own router, which works with your network, and I told the technician this during installation. I would also like to know whether my friend Carlos Mena, who signed up last month using my name as a referral, has triggered my credit. Please send a corrected statement.\nElena Ruiz"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Which charges does Ms. Ruiz dispute?",
+        "category": "detail",
+        "choices": [
+          "The plan price and tax",
+          "The tax and a late fee",
+          "Installation and router rental",
+          "The plan price and a referral credit"
+        ],
+        "answerIndex": 2,
+        "explanation": "She says she should not pay for installation or for a router."
+      },
+      {
+        "prompt": "What would Ms. Ruiz's subtotal be if both charges were removed?",
+        "category": "inference",
+        "choices": [
+          "$44.99",
+          "$52.99",
+          "$119.99",
+          "$127.99"
+        ],
+        "answerIndex": 0,
+        "explanation": "Only the Plus 200 plan, $44.99, would remain."
+      },
+      {
+        "prompt": "What can Ms. Ruiz receive for referring a friend?",
+        "category": "detail",
+        "choices": [
+          "A free router",
+          "Free installation",
+          "A faster plan",
+          "A $20 credit on her bill"
+        ],
+        "answerIndex": 3,
+        "explanation": "The web page offers a $20 credit on the next bill."
+      },
+      {
+        "prompt": "What can be inferred about Ms. Ruiz's plan?",
+        "category": "inference",
+        "choices": [
+          "It has a data cap",
+          "It offers speeds of 200 Mbps",
+          "It is the cheapest plan",
+          "It is the fastest plan"
+        ],
+        "answerIndex": 1,
+        "explanation": "The Plus 200 plan provides 200 Mbps."
+      },
+      {
+        "prompt": "The word \"compatible\" on the web page is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "inexpensive",
+          "able to work with the system",
+          "easy to carry",
+          "identical to the rental"
+        ],
+        "answerIndex": 1,
+        "explanation": "A compatible router can be used on the company's network."
+      }
+    ]
+  },
+  {
+    "id": "p7-040",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Water Service Interruption",
+        "text": "The City Water Department will shut off water to buildings on Cedar Lane (numbers 100 to 180) on Wednesday, April 17, from 9 a.m. to 3 p.m. to replace an aging main pipe. Residents are advised to store drinking water in advance. Water may appear cloudy for a few hours after service is restored; running cold water for several minutes will clear it. Businesses that require water for food preparation should contact the department at 555-0111 to request a temporary supply."
+      },
+      {
+        "type": "email",
+        "title": "Shutdown on April 17",
+        "text": "To: info@citywater.example\nFrom: Priya Menon, Cedar Corner Café, 142 Cedar Lane\nDate: April 10\n\nDear Water Department,\nI received the notice about the shutdown on April 17. Our café serves about 200 customers on Wednesdays, mostly during lunch, and we cannot prepare food or wash dishes without water. Is it possible to have a temporary supply delivered before 9 a.m.? We would also like to know whether the work could be moved to a Monday, when we are closed.\nPriya Menon"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the notice issued?",
+        "category": "purpose",
+        "choices": [
+          "To report contaminated water",
+          "To raise water prices",
+          "To invite residents to a meeting",
+          "To announce a planned water shutoff"
+        ],
+        "answerIndex": 3,
+        "explanation": "Water will be shut off to replace a pipe."
+      },
+      {
+        "prompt": "Why does the café believe it is affected?",
+        "category": "inference",
+        "choices": [
+          "Its address is in the shutoff area",
+          "It uses more water than other shops",
+          "It has a broken pipe",
+          "It is on a list of food businesses"
+        ],
+        "answerIndex": 0,
+        "explanation": "142 Cedar Lane is between numbers 100 and 180."
+      },
+      {
+        "prompt": "What does Ms. Menon ask for?",
+        "category": "detail",
+        "choices": [
+          "A refund on her water bill",
+          "A permit to close early",
+          "A water supply delivered before the shutoff",
+          "Bottled water for residents"
+        ],
+        "answerIndex": 2,
+        "explanation": "She asks for a temporary supply before 9 a.m."
+      },
+      {
+        "prompt": "What is implied about the café?",
+        "category": "inference",
+        "choices": [
+          "It is closed on Wednesdays",
+          "It opens at 9 a.m.",
+          "It is closed on Mondays",
+          "It serves only dinner"
+        ],
+        "answerIndex": 2,
+        "explanation": "She suggests moving the work to a Monday, when the café is closed."
+      },
+      {
+        "prompt": "What should residents do after service is restored?",
+        "category": "detail",
+        "choices": [
+          "Run cold water for several minutes",
+          "Boil their water for an hour",
+          "Call the department",
+          "Replace their pipes"
+        ],
+        "answerIndex": 0,
+        "explanation": "Running cold water will clear the cloudy water."
+      }
+    ]
+  }
+]

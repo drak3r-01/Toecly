@@ -1,0 +1,632 @@
+[
+  {
+    "id": "p7-041",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Airport Shuttle Schedule Change",
+        "text": "Effective June 1, the Skyline Shuttle between Clearwater Airport and downtown will run every 20 minutes instead of every 30 minutes between 6 a.m. and 10 p.m. Overnight service, from 10 p.m. to 6 a.m., will continue hourly. The fare will increase from $8 to $9 one way, but round-trip tickets purchased online will remain $14. Passengers with mobility needs can request a vehicle with a wheelchair lift by calling 555-0133 at least 24 hours before travel. Pick-up is at Door 4 of Terminal 1 and Door 2 of Terminal 2."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the notice mostly about?",
+        "category": "main_idea",
+        "choices": [
+          "A new airport terminal",
+          "More frequent daytime shuttle service",
+          "Lower fares for all passengers",
+          "Shorter overnight service"
+        ],
+        "answerIndex": 1,
+        "explanation": "The shuttle will run every 20 minutes instead of every 30 during the day."
+      },
+      {
+        "prompt": "How much will an online round-trip ticket cost?",
+        "category": "detail",
+        "choices": [
+          "$8",
+          "$9",
+          "$18",
+          "$14"
+        ],
+        "answerIndex": 3,
+        "explanation": "Online round-trip tickets will remain $14."
+      },
+      {
+        "prompt": "What is stated about overnight service?",
+        "category": "inference",
+        "choices": [
+          "It will stay the same",
+          "It will be discontinued",
+          "It will run every 20 minutes",
+          "It will be free of charge"
+        ],
+        "answerIndex": 0,
+        "explanation": "Overnight service will continue hourly."
+      }
+    ]
+  },
+  {
+    "id": "p7-042",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Appointment reminder",
+        "text": "To: Tom Walsh\nFrom: Maple Grove Dental Clinic\nDate: October 2\n\nDear Mr. Walsh,\nThis is a reminder of your appointment with Dr. Anna Berg on Tuesday, October 8, at 2:30 p.m. for a routine cleaning and check-up. If this is your first visit, please arrive 15 minutes early to complete a short medical history form. Remember to bring your insurance card. If you need to cancel or reschedule, please call us at least 48 hours in advance to avoid a $40 late-cancellation fee. You can also confirm your appointment by replying to this e-mail.\nWe look forward to seeing you."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the e-mail sent to Mr. Walsh?",
+        "category": "purpose",
+        "choices": [
+          "To request payment of a bill",
+          "To announce a new dentist",
+          "To remind him of an upcoming appointment",
+          "To offer a discount"
+        ],
+        "answerIndex": 2,
+        "explanation": "The e-mail reminds him of his October 8 appointment."
+      },
+      {
+        "prompt": "When must Mr. Walsh cancel to avoid a fee?",
+        "category": "detail",
+        "choices": [
+          "At least one week before",
+          "On the morning of the appointment",
+          "At least two days before the appointment",
+          "At least 24 hours before"
+        ],
+        "answerIndex": 2,
+        "explanation": "The clinic asks for 48 hours' notice."
+      },
+      {
+        "prompt": "What is a new patient asked to do?",
+        "category": "detail",
+        "choices": [
+          "Arrive 15 minutes early",
+          "Pay a $40 deposit",
+          "Bring a referral letter",
+          "Confirm 48 hours ahead by telephone"
+        ],
+        "answerIndex": 0,
+        "explanation": "New patients complete a medical history form before the appointment."
+      }
+    ]
+  },
+  {
+    "id": "p7-043",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Port of Kessler to Double Container Capacity",
+        "text": "KESSLER (March 14) - The Port of Kessler has approved a $120 million expansion that will double its container-handling capacity by 2028. [A] Construction will begin in January and include a new pier, four additional cranes, and an expanded rail yard. [B] Port director Alan Whitcomb said the project was prompted by a 30 percent increase in cargo volume over the past five years. [C] Local residents have raised concerns about noise and truck traffic; the port has promised to build a sound barrier and to restrict truck deliveries to daytime hours. [D] The expansion is expected to create 400 construction jobs and 150 permanent positions, according to a study commissioned by the port authority."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does the article announce?",
+        "category": "main_idea",
+        "choices": [
+          "A drop in cargo volume",
+          "The closing of a rail yard",
+          "A new law on noise",
+          "Plans to enlarge a shipping port"
+        ],
+        "answerIndex": 3,
+        "explanation": "The port has approved a $120 million expansion."
+      },
+      {
+        "prompt": "What has the port promised local residents?",
+        "category": "detail",
+        "choices": [
+          "To close at night entirely",
+          "To build a sound barrier",
+          "To pay for new housing",
+          "To use fewer cranes"
+        ],
+        "answerIndex": 1,
+        "explanation": "It promised a sound barrier and daytime-only truck deliveries."
+      },
+      {
+        "prompt": "What can be inferred about cargo traffic at the port?",
+        "category": "inference",
+        "choices": [
+          "It has decreased since 2020",
+          "It has been growing",
+          "It is controlled by local residents",
+          "It is limited to rail"
+        ],
+        "answerIndex": 1,
+        "explanation": "Cargo volume rose 30 percent in five years."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Whitcomb added that the existing facilities can no longer handle peak-season demand.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "It must directly follow the sentence reporting Whitcomb's explanation of the project."
+      }
+    ]
+  },
+  {
+    "id": "p7-044",
+    "documents": [
+      {
+        "type": "form",
+        "title": "Guest Satisfaction Survey",
+        "text": "SEAVIEW HOTEL: GUEST SATISFACTION SURVEY\n\nGuest name: Julia Moretti\nRoom: 412\nStay: May 3 to May 6\nPurpose of stay: [X] Business  [ ] Leisure\n\nRate each item (1 = poor, 5 = excellent):\nCheck-in: 5\nRoom cleanliness: 4\nRestaurant: 2\nWi-Fi: 3\nStaff friendliness: 5\n\nComments: The staff were wonderful, and the room was spotless. However, the breakfast buffet was not refilled after 9 a.m., and several dishes were cold. The Wi-Fi in the conference room was slow, which made video calls difficult. I would stay again if these issues are addressed.\n\nMay we contact you about your feedback? [X] Yes (jmoretti@mailbox.example)"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Julia Moretti stay at the hotel?",
+        "category": "detail",
+        "choices": [
+          "For a vacation",
+          "For a wedding",
+          "For a family visit",
+          "For business"
+        ],
+        "answerIndex": 3,
+        "explanation": "The business box is checked on the form."
+      },
+      {
+        "prompt": "Which service received the lowest rating?",
+        "category": "detail",
+        "choices": [
+          "The restaurant",
+          "The Wi-Fi",
+          "The check-in",
+          "The room cleanliness"
+        ],
+        "answerIndex": 0,
+        "explanation": "The restaurant scored 2, lower than every other item."
+      },
+      {
+        "prompt": "What problem occurred at breakfast?",
+        "category": "detail",
+        "choices": [
+          "The prices were too high",
+          "The restaurant was closed",
+          "Dishes were not refilled and some were cold",
+          "The service was too slow"
+        ],
+        "answerIndex": 2,
+        "explanation": "The comment says the buffet was not refilled after 9 a.m. and some dishes were cold."
+      }
+    ]
+  },
+  {
+    "id": "p7-045",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Customer Support Chat: Nexa Electronics",
+        "text": "Hana [4:02 p.m.]: Hello, I ordered a pair of wireless headphones on October 3, and they arrived with a cracked left earcup.\nTyler, Support [4:03 p.m.]: I'm sorry to hear that, Hana. Could you give me your order number?\nHana [4:04 p.m.]: It's NX-7731.\nTyler, Support [4:06 p.m.]: Thank you. I see the order. I can send a replacement, which would arrive in 3 to 5 business days, or issue a refund to your card.\nHana [4:07 p.m.]: I'm traveling next week, so I need them before Friday. Is there any faster option?\nTyler, Support [4:09 p.m.]: I can upgrade the shipping to express at no cost. That should get them to you by Wednesday.\nHana [4:10 p.m.]: That works. Do I need to send the damaged pair back?\nTyler, Support [4:11 p.m.]: Yes, but you have 30 days. A prepaid label will be included in the new package."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Hana contact Nexa Electronics?",
+        "category": "purpose",
+        "choices": [
+          "An order was never shipped",
+          "A payment was charged twice",
+          "A product arrived damaged",
+          "A warranty had expired"
+        ],
+        "answerIndex": 2,
+        "explanation": "The headphones arrived with a cracked earcup."
+      },
+      {
+        "prompt": "At 4:07 p.m., why does Hana write, \"Is there any faster option?\"",
+        "category": "purpose",
+        "choices": [
+          "Hana needs the headphones before a trip",
+          "Hana wants a cheaper refund",
+          "Hana would like to cancel the order",
+          "Hana prefers a different color"
+        ],
+        "answerIndex": 0,
+        "explanation": "Hana is traveling next week and needs them before Friday."
+      },
+      {
+        "prompt": "How much extra will Hana pay for faster delivery?",
+        "category": "detail",
+        "choices": [
+          "$5",
+          "The price of express shipping",
+          "A restocking fee",
+          "Nothing"
+        ],
+        "answerIndex": 3,
+        "explanation": "Tyler upgrades the shipping to express at no cost."
+      },
+      {
+        "prompt": "How will Hana return the damaged headphones?",
+        "category": "detail",
+        "choices": [
+          "By taking them to a store",
+          "With a prepaid label from the new package",
+          "By paying for a courier",
+          "By mailing them within three days"
+        ],
+        "answerIndex": 1,
+        "explanation": "A prepaid label will be included in the replacement package."
+      }
+    ]
+  },
+  {
+    "id": "p7-046",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Money Matters Seminar Series",
+        "text": "Free and open to the public! The Eastgate Credit Union invites you to a three-part series to help you manage your finances.\nPart 1 (October 3): Building a household budget\nPart 2 (October 10): Saving for retirement\nPart 3 (October 17): Understanding credit scores\nEach session runs from 6:30 to 8 p.m. in the community room at 22 Mill Road. Seating is limited to 40 people per session, so register early at eastgatecu.example/seminars. Attendees at all three sessions will be entered into a drawing for a $200 gift card. Free parking and light refreshments are provided."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What will be covered on October 10?",
+        "category": "detail",
+        "choices": [
+          "Household budgets",
+          "Saving for retirement",
+          "Credit scores",
+          "Buying a home"
+        ],
+        "answerIndex": 1,
+        "explanation": "Part 2 is scheduled for October 10."
+      },
+      {
+        "prompt": "Why are attendees advised to register early?",
+        "category": "inference",
+        "choices": [
+          "Tickets cost more later",
+          "Parking is scarce",
+          "The topics may change",
+          "Space at each session is limited"
+        ],
+        "answerIndex": 3,
+        "explanation": "Seating is limited to 40 people per session."
+      },
+      {
+        "prompt": "How can participants enter the drawing?",
+        "category": "detail",
+        "choices": [
+          "By attending all three sessions",
+          "By registering online",
+          "By opening an account",
+          "By bringing a friend"
+        ],
+        "answerIndex": 0,
+        "explanation": "Attendees at all three sessions are entered into the drawing."
+      }
+    ]
+  },
+  {
+    "id": "p7-047",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Visit by Zenith Foods delegation",
+        "text": "To: Kenji Mori, Plant Manager\nFrom: Sofia Alvarez, Zenith Foods\nDate: February 3\n\nDear Mr. Mori,\nFour representatives from Zenith Foods would like to tour your Tacoma facility on Thursday, February 20. We are particularly interested in your packaging line and quality-control laboratory. We would arrive at 9 a.m. and must leave by 3 p.m. to catch a flight. Could you propose a schedule? Also, two of our team members are vegetarian.\nSofia Alvarez"
+      },
+      {
+        "type": "schedule",
+        "title": "Proposed visit schedule: Thursday, February 20",
+        "text": "9:00 Arrival and safety briefing (Lobby)\n9:30 Packaging line tour (Plant Floor)\n11:00 Quality-control laboratory (Building B)\n12:30 Lunch (Executive Dining Room)\n1:30 Meeting with the sales team, pricing discussion (Conference Room 3)\n2:30 Farewell and shuttle to the airport"
+      },
+      {
+        "type": "email",
+        "title": "Re: Visit by Zenith Foods delegation",
+        "text": "To: Sofia Alvarez\nFrom: Kenji Mori\nDate: February 5\n\nDear Ms. Alvarez,\nAttached is a proposed schedule. Unfortunately, the laboratory will not be available before noon, so I suggest swapping the laboratory visit with the sales meeting. A vegetarian lunch menu will be arranged for your two colleagues. Because the plant floor requires closed shoes, please ask your team to wear them; we can supply safety glasses. The shuttle leaves at 2:30 p.m. and takes 45 minutes to reach the airport.\nKenji Mori"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What change does Mr. Mori suggest?",
+        "category": "detail",
+        "choices": [
+          "Skipping the packaging line",
+          "Starting at 10 a.m.",
+          "Swapping the laboratory visit and the sales meeting",
+          "Moving the visit to another day"
+        ],
+        "answerIndex": 2,
+        "explanation": "The laboratory is unavailable before noon, so it is swapped with the 1:30 meeting."
+      },
+      {
+        "prompt": "When will the delegation most likely visit the laboratory?",
+        "category": "inference",
+        "choices": [
+          "At 9:30 a.m.",
+          "At 11:00 a.m.",
+          "At 1:30 p.m.",
+          "At 2:30 p.m."
+        ],
+        "answerIndex": 2,
+        "explanation": "After the swap, the laboratory takes the 1:30 p.m. slot."
+      },
+      {
+        "prompt": "How many people will visit the plant?",
+        "category": "detail",
+        "choices": [
+          "Four",
+          "Two",
+          "Five",
+          "Six"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ms. Alvarez writes that four representatives would like to tour the facility."
+      },
+      {
+        "prompt": "What will be arranged for the vegetarian guests?",
+        "category": "detail",
+        "choices": [
+          "A separate dining room",
+          "A cooking demonstration",
+          "A gift basket",
+          "A vegetarian lunch menu"
+        ],
+        "answerIndex": 3,
+        "explanation": "Mr. Mori says a vegetarian lunch menu will be arranged."
+      },
+      {
+        "prompt": "What does Mr. Mori ask the visitors to wear?",
+        "category": "detail",
+        "choices": [
+          "Hard hats",
+          "Closed shoes",
+          "Business suits",
+          "Protective gloves"
+        ],
+        "answerIndex": 1,
+        "explanation": "The plant floor requires closed shoes."
+      }
+    ]
+  },
+  {
+    "id": "p7-048",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Claim #C-20931",
+        "text": "Harbor Mutual Insurance\n400 Bay Street\nMarch 9\n\nDear Mr. Patel,\nThank you for submitting claim #C-20931 for the water damage in your kitchen on February 24. An adjuster, Ms. Rebecca Orr, will visit your home on Tuesday, March 12, between 1 and 4 p.m. Please make sure that the damaged area has not been repaired before the visit, and keep all receipts for emergency repairs, which are reimbursable up to $1,000. Your policy has a $500 deductible, which will be subtracted from the final settlement. Please complete and return the enclosed property-damage form within seven days.\nSincerely,\nHarbor Mutual Claims Department"
+      },
+      {
+        "type": "form",
+        "title": "Property Damage Details",
+        "text": "HARBOR MUTUAL: PROPERTY DAMAGE DETAILS\n\nPolicyholder: Nikhil Patel\nClaim number: C-20931\nDate of damage: February 24\nCause: Burst pipe under the sink\nRooms affected: Kitchen, hallway\nContractor's estimate of repairs: $4,800\nEmergency repairs already paid: $350 (plumber, receipt attached)\nItems damaged: Cabinet, floor tiles, refrigerator\nPreferred visit time: Tuesday after 2 p.m.\nSignature and date: March 10"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the letter written?",
+        "category": "purpose",
+        "choices": [
+          "To deny a claim",
+          "To explain the next steps of an insurance claim",
+          "To raise the cost of a policy",
+          "To request payment of a bill"
+        ],
+        "answerIndex": 1,
+        "explanation": "It sets an inspection visit and asks for a form."
+      },
+      {
+        "prompt": "How much of the emergency repair cost can be reimbursed?",
+        "category": "inference",
+        "choices": [
+          "$500",
+          "$850",
+          "$1,000",
+          "All $350"
+        ],
+        "answerIndex": 3,
+        "explanation": "Emergency repairs are reimbursable up to $1,000, and Mr. Patel paid $350."
+      },
+      {
+        "prompt": "What amount will be subtracted from the final settlement?",
+        "category": "detail",
+        "choices": [
+          "$500",
+          "$350",
+          "$1,000",
+          "$4,800"
+        ],
+        "answerIndex": 0,
+        "explanation": "The policy's deductible is $500."
+      },
+      {
+        "prompt": "What is suggested about Mr. Patel's preferred visit time?",
+        "category": "inference",
+        "choices": [
+          "It is too early in the day",
+          "It is on the wrong day",
+          "It fits the adjuster's schedule",
+          "It is after the claim deadline"
+        ],
+        "answerIndex": 2,
+        "explanation": "Tuesday after 2 p.m. falls within the 1 to 4 p.m. window."
+      },
+      {
+        "prompt": "The word \"settlement\" in the letter is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "a new home",
+          "a court hearing",
+          "payment of a claim",
+          "an agreement to move"
+        ],
+        "answerIndex": 2,
+        "explanation": "The settlement is the final payment the insurer makes."
+      }
+    ]
+  },
+  {
+    "id": "p7-049",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Savor Cooking School",
+        "text": "Beginner Basics (4 weeks, $160): knife skills, sauces, and simple dinners.\nPastry Workshop (3 weeks, $210): breads, pies, and cakes.\nItalian Evenings (6 weeks, $290): pasta, risotto, and regional specialties.\n\nAll classes are limited to 12 students and held in our professional kitchen. Ingredients and aprons are provided. Cancel at least 7 days before the first class for a full refund; later cancellations receive a credit toward a future class. Gift certificates are available."
+      },
+      {
+        "type": "review",
+        "title": "Worth every penny",
+        "text": "Savor Cooking School: 5 stars out of 5\nPosted by Michael R.\n\nI took the Pastry Workshop last spring after years of failed attempts at baking bread. The instructor, Chef Anna, was patient and explained why each step matters, not just how. With only twelve students, we all got personal feedback. My only suggestion is that the classes run late; ours finished 30 minutes past the scheduled time. I have since signed up for Italian Evenings and bought a gift certificate for my sister."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much did the reviewer pay for the first class?",
+        "category": "inference",
+        "choices": [
+          "$210",
+          "$160",
+          "$290",
+          "$500"
+        ],
+        "answerIndex": 0,
+        "explanation": "The reviewer took the Pastry Workshop, which costs $210."
+      },
+      {
+        "prompt": "What does the reviewer say about the class size?",
+        "category": "detail",
+        "choices": [
+          "It was too crowded",
+          "It limited the menu",
+          "It raised the price",
+          "It allowed personal feedback"
+        ],
+        "answerIndex": 3,
+        "explanation": "With only twelve students, everyone got personal feedback."
+      },
+      {
+        "prompt": "What is implied about the reviewer's earlier baking experience?",
+        "category": "inference",
+        "choices": [
+          "It was professional",
+          "It had been frustrating",
+          "It was extensive",
+          "It was nonexistent"
+        ],
+        "answerIndex": 1,
+        "explanation": "The reviewer had years of failed attempts at baking bread."
+      },
+      {
+        "prompt": "What happens if a student cancels five days before the first class?",
+        "category": "inference",
+        "choices": [
+          "A full refund is issued",
+          "A credit toward a future class is given",
+          "Nothing is returned",
+          "A fee of $290 is charged"
+        ],
+        "answerIndex": 1,
+        "explanation": "Cancellations less than 7 days ahead receive a credit."
+      },
+      {
+        "prompt": "What does the school provide to students?",
+        "category": "detail",
+        "choices": [
+          "Knives to take home",
+          "Printed cookbooks",
+          "Meals to take home",
+          "Ingredients and aprons"
+        ],
+        "answerIndex": 3,
+        "explanation": "The web page says ingredients and aprons are provided."
+      }
+    ]
+  },
+  {
+    "id": "p7-050",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Remote work policy",
+        "text": "TO: All employees\nFROM: Janet Ocampo, VP Human Resources\nDATE: January 8\nSUBJECT: Remote work policy\n\nBeginning February 1, employees may work from home up to two days per week, subject to manager approval. Employees must be in the office on Tuesdays and Thursdays for team meetings. Remote workers are responsible for maintaining a reliable internet connection; the company will reimburse up to $30 per month for home internet. Equipment such as monitors can be borrowed from IT for the duration of the arrangement. Requests should be submitted through the HR portal by January 25."
+      },
+      {
+        "type": "online_chat",
+        "title": "Chat between coworkers",
+        "text": "Colin Reyes [11:20 a.m.]: Did you see the memo about remote work? I'm thinking of working from home on Mondays and Wednesdays.\nPriya Shah [11:22 a.m.]: That fits the Tuesday and Thursday rule. But you'll still need approval from Mr. Okafor.\nColin Reyes [11:23 a.m.]: He's usually flexible. I just worry about my home internet. It's really slow.\nPriya Shah [11:25 a.m.]: You could ask for the reimbursement. Anyway, submit your request soon. The portal closes on the 25th.\nColin Reyes [11:26 a.m.]: Thanks. I'll also borrow a second monitor from IT."
+      },
+      {
+        "type": "email",
+        "title": "Equipment loan request",
+        "text": "To: Colin Reyes\nFrom: IT Help Desk\nDate: January 20\n\nDear Mr. Reyes,\nYour request to borrow one 27-inch monitor has been approved. Please collect it from Room 105 between 9 a.m. and 5 p.m. on any weekday and sign the equipment form. The loan will last as long as your remote work arrangement is approved, and the monitor must be returned if the arrangement ends. Please note that your manager's approval for remote work is still pending.\nIT Help Desk"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Which days does Colin plan to work from home?",
+        "category": "detail",
+        "choices": [
+          "Monday and Wednesday",
+          "Tuesday and Thursday",
+          "Wednesday and Friday",
+          "Monday and Tuesday"
+        ],
+        "answerIndex": 0,
+        "explanation": "He says Mondays and Wednesdays."
+      },
+      {
+        "prompt": "What must happen before Colin can work remotely?",
+        "category": "inference",
+        "choices": [
+          "He must buy new equipment",
+          "He must return the monitor",
+          "His manager must approve the request",
+          "He must upgrade his internet plan"
+        ],
+        "answerIndex": 2,
+        "explanation": "The e-mail says manager approval is still pending."
+      },
+      {
+        "prompt": "How much can the company pay toward home internet?",
+        "category": "detail",
+        "choices": [
+          "The full bill",
+          "$50 per month",
+          "Up to $30 per month",
+          "Nothing"
+        ],
+        "answerIndex": 2,
+        "explanation": "The memo says up to $30 per month."
+      },
+      {
+        "prompt": "Why is Colin concerned about working from home?",
+        "category": "detail",
+        "choices": [
+          "His internet connection is slow",
+          "His manager is inflexible",
+          "He lacks a desk",
+          "He dislikes team meetings"
+        ],
+        "answerIndex": 0,
+        "explanation": "He says his home internet is really slow."
+      },
+      {
+        "prompt": "The phrase \"subject to\" in the memo is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "free from",
+          "interested in",
+          "protected by",
+          "dependent on"
+        ],
+        "answerIndex": 3,
+        "explanation": "Working from home depends on manager approval."
+      }
+    ]
+  }
+]
