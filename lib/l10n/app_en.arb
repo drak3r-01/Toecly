@@ -154,6 +154,10 @@
       }
     }
   },
+  "examResumeTitle": "Exam in progress",
+  "examResumeBody": "You left an exam before submitting it. The clock kept running.",
+  "examResume": "Resume",
+  "examDiscard": "Discard",
   "examQuitTitle": "Quit the exam?",
   "examQuitMessage": "Your progress will be lost.",
   "examQuit": "Quit",

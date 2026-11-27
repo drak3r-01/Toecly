@@ -258,6 +258,19 @@ class AppLocalizationsEn extends AppLocalizations {
   }
 
   @override
+  String get examResumeTitle => 'Exam in progress';
+
+  @override
+  String get examResumeBody =>
+      'You left an exam before submitting it. The clock kept running.';
+
+  @override
+  String get examResume => 'Resume';
+
+  @override
+  String get examDiscard => 'Discard';
+
+  @override
   String get examQuitTitle => 'Quit the exam?';
 
   @override

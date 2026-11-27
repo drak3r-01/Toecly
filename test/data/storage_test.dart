@@ -42,6 +42,44 @@ void main() {
     });
   });
 
+  group('per-key versions', () {
+    test('old data is migrated step by step', () async {
+      final store = InMemoryStore();
+      await store.writeJson('k', [1, 2]); // version 1
+      Object? addOne(Object? data) => [
+            for (final n in data! as List) (n as int) + 1,
+          ];
+      Object? double_(Object? data) => [
+            for (final n in data! as List) (n as int) * 2,
+          ];
+      expect(
+        store.readJson('k', version: 3, migrations: {1: addOne, 2: double_}),
+        [4, 6],
+      );
+    });
+
+    test('old data without a migration path reads as absent', () async {
+      final store = InMemoryStore();
+      await store.writeJson('k', [1]);
+      expect(store.readJson('k', version: 2), isNull);
+    });
+
+    test('data written by a newer app is never overwritten', () async {
+      final store = InMemoryStore();
+      await store.writeJson('k', 'from the future', version: 5);
+      await store.writeJson('k', 'old app', version: 1);
+      expect(store.readJson('k', version: 5), 'from the future');
+    });
+
+    test('keys have independent versions', () async {
+      final store = InMemoryStore();
+      await store.writeJson('a', 1, version: 2);
+      await store.writeJson('b', 1);
+      expect(store.readJson('a', version: 2), 1);
+      expect(store.readJson('b'), 1);
+    });
+  });
+
   group('MissedQuestionsRepository', () {
     test('most recent first, no duplicates', () async {
       final repository = MissedQuestionsRepository(InMemoryStore());
@@ -102,13 +140,18 @@ void main() {
       await SessionHistoryRepository(store).add(record(1));
       final raw = store.read('session_history')!;
       store.values['session_history'] = raw.replaceFirst(
-          '"data":[', '"data":[{"mode":"nope"},"junk",{"mode":"practice","totalQuestions":"x"},');
+        '"data":[',
+        '"data":[{"mode":"nope"},"junk",{"mode":"practice","totalQuestions":"x"},',
+      );
       expect(SessionHistoryRepository(store).loadAll(), hasLength(1));
     });
 
     test('malformed stats entries read as zero', () {
       final store = InMemoryStore()
-        ..writeJson('answer_stats', {'part5': ['x', 2], 'part6': [1]});
+        ..writeJson('answer_stats', {
+          'part5': ['x', 2],
+          'part6': [1],
+        });
       final stats = PartStatsRepository(store);
       expect(stats.forPart(ToeicPart.part5).answered, 0);
       expect(stats.forPart(ToeicPart.part6).answered, 0);
@@ -117,41 +160,86 @@ void main() {
     test('recordAnswers equals recording one by one', () async {
       final one = PartStatsRepository(InMemoryStore());
       final all = PartStatsRepository(InMemoryStore());
-      await one.recordAnswer(ToeicPart.part5, isCorrect: true, category: QuestionCategory.grammar);
+      await one.recordAnswer(
+        ToeicPart.part5,
+        isCorrect: true,
+        category: QuestionCategory.grammar,
+      );
       await one.recordAnswer(ToeicPart.part5, isCorrect: false);
       await all.recordAnswers([
-        (part: ToeicPart.part5, isCorrect: true, category: QuestionCategory.grammar),
+        (
+          part: ToeicPart.part5,
+          isCorrect: true,
+          category: QuestionCategory.grammar,
+        ),
         (part: ToeicPart.part5, isCorrect: false, category: null),
       ]);
-      expect(all.forPart(ToeicPart.part5).answered, one.forPart(ToeicPart.part5).answered);
-      expect(all.forPart(ToeicPart.part5).correct, one.forPart(ToeicPart.part5).correct);
-      expect(all.forCategory(ToeicPart.part5, QuestionCategory.grammar).answered, 1);
+      expect(
+        all.forPart(ToeicPart.part5).answered,
+        one.forPart(ToeicPart.part5).answered,
+      );
+      expect(
+        all.forPart(ToeicPart.part5).correct,
+        one.forPart(ToeicPart.part5).correct,
+      );
+      expect(
+        all.forCategory(ToeicPart.part5, QuestionCategory.grammar).answered,
+        1,
+      );
     });
   });
 
   group('PartStatsRepository', () {
     test('counts per part and per category', () async {
       final repository = PartStatsRepository(InMemoryStore());
-      await repository.recordAnswer(ToeicPart.part5, isCorrect: true, category: QuestionCategory.grammar);
-      await repository.recordAnswer(ToeicPart.part5, isCorrect: false, category: QuestionCategory.grammar);
-      await repository.recordAnswer(ToeicPart.part5, isCorrect: true, category: QuestionCategory.vocabulary);
+      await repository.recordAnswer(
+        ToeicPart.part5,
+        isCorrect: true,
+        category: QuestionCategory.grammar,
+      );
+      await repository.recordAnswer(
+        ToeicPart.part5,
+        isCorrect: false,
+        category: QuestionCategory.grammar,
+      );
+      await repository.recordAnswer(
+        ToeicPart.part5,
+        isCorrect: true,
+        category: QuestionCategory.vocabulary,
+      );
       await repository.recordAnswer(ToeicPart.part6, isCorrect: true);
 
       expect(repository.forPart(ToeicPart.part5).answered, 3);
       expect(repository.forPart(ToeicPart.part5).correct, 2);
-      expect(repository.forCategory(ToeicPart.part5, QuestionCategory.grammar).rate, 0.5);
-      expect(repository.forCategory(ToeicPart.part5, QuestionCategory.vocabulary).rate, 1);
+      expect(
+        repository.forCategory(ToeicPart.part5, QuestionCategory.grammar).rate,
+        0.5,
+      );
+      expect(
+        repository.forCategory(ToeicPart.part5, QuestionCategory.vocabulary).rate,
+        1,
+      );
       expect(repository.forPart(ToeicPart.part6).answered, 1);
     });
 
     test('same category name in two parts is counted separately', () async {
       final repository = PartStatsRepository(InMemoryStore());
-      await repository.recordAnswer(ToeicPart.part5, isCorrect: true, category: QuestionCategory.vocabulary);
-      expect(repository.forCategory(ToeicPart.part6, QuestionCategory.vocabulary).answered, 0);
+      await repository.recordAnswer(
+        ToeicPart.part5,
+        isCorrect: true,
+        category: QuestionCategory.vocabulary,
+      );
+      expect(
+        repository.forCategory(ToeicPart.part6, QuestionCategory.vocabulary).answered,
+        0,
+      );
     });
 
     test('nothing answered gives a rate of 0', () {
-      expect(PartStatsRepository(InMemoryStore()).forPart(ToeicPart.part7).rate, 0);
+      expect(
+        PartStatsRepository(InMemoryStore()).forPart(ToeicPart.part7).rate,
+        0,
+      );
     });
   });
 
@@ -171,7 +259,10 @@ void main() {
       for (var i = 0; i < SessionHistoryRepository.maxSessions + 3; i++) {
         await repository.add(record(i));
       }
-      expect(repository.loadAll(), hasLength(SessionHistoryRepository.maxSessions));
+      expect(
+        repository.loadAll(),
+        hasLength(SessionHistoryRepository.maxSessions),
+      );
     });
   });
 

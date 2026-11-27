@@ -26,7 +26,9 @@ GoRouter createAppRouter() {
         path: '/quiz',
         pageBuilder: (context, state) => fadeSlidePage(
           state: state,
-          child: QuizScreen(request: QuizRequest.fromQuery(state.uri.queryParameters)),
+          child: QuizScreen(
+            request: QuizRequest.fromQuery(state.uri.queryParameters),
+          ),
         ),
       ),
       GoRoute(
@@ -40,18 +42,31 @@ GoRouter createAppRouter() {
       ),
       GoRoute(
         path: ExamScreen.path,
-        pageBuilder: (context, state) => fadeSlidePage(state: state, child: const ExamScreen()),
+        pageBuilder: (context, state) => fadeSlidePage(
+          state: state,
+          child: ExamScreen(resume: state.uri.queryParameters['resume'] == '1'),
+        ),
       ),
       StatefulShellRoute.indexedStack(
         builder: (context, state, navigationShell) =>
             ResponsiveShell(navigationShell: navigationShell),
         // The branch order MUST match AppDestination.values.
         branches: [
-          StatefulShellBranch(routes: [route(AppDestination.dashboard, DashboardScreen.new)]),
-          StatefulShellBranch(routes: [route(AppDestination.practice, PracticeSetupScreen.new)]),
-          StatefulShellBranch(routes: [route(AppDestination.mockExam, MockExamScreen.new)]),
-          StatefulShellBranch(routes: [route(AppDestination.review, ReviewScreen.new)]),
-          StatefulShellBranch(routes: [route(AppDestination.settings, SettingsScreen.new)]),
+          StatefulShellBranch(
+            routes: [route(AppDestination.dashboard, DashboardScreen.new)],
+          ),
+          StatefulShellBranch(
+            routes: [route(AppDestination.practice, PracticeSetupScreen.new)],
+          ),
+          StatefulShellBranch(
+            routes: [route(AppDestination.mockExam, MockExamScreen.new)],
+          ),
+          StatefulShellBranch(
+            routes: [route(AppDestination.review, ReviewScreen.new)],
+          ),
+          StatefulShellBranch(
+            routes: [route(AppDestination.settings, SettingsScreen.new)],
+          ),
         ],
       ),
     ],

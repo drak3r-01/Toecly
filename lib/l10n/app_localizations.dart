@@ -554,6 +554,30 @@ abstract class AppLocalizations {
   /// **'Unanswered questions: {count}'**
   String examUnanswered(int count);
 
+  /// No description provided for @examResumeTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Exam in progress'**
+  String get examResumeTitle;
+
+  /// No description provided for @examResumeBody.
+  ///
+  /// In en, this message translates to:
+  /// **'You left an exam before submitting it. The clock kept running.'**
+  String get examResumeBody;
+
+  /// No description provided for @examResume.
+  ///
+  /// In en, this message translates to:
+  /// **'Resume'**
+  String get examResume;
+
+  /// No description provided for @examDiscard.
+  ///
+  /// In en, this message translates to:
+  /// **'Discard'**
+  String get examDiscard;
+
   /// No description provided for @examQuitTitle.
   ///
   /// In en, this message translates to:

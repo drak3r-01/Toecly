@@ -6,6 +6,9 @@ import 'models.dart';
 const int choiceCount = 4;
 const String part5BlankMarker = '___';
 
+/// Longest text (sentence, passage or document) accepted, to keep every text readable.
+const int maxTextLength = 4000;
+
 /// Result of parsing one lot file: valid exercises plus one message per problem.
 class BatchParseResult {
   const BatchParseResult(this.exercises, this.errors);
@@ -24,7 +27,9 @@ BatchParseResult parseBatch(ToeicPart part, String jsonText) {
     return BatchParseResult(const [], ['invalid JSON: ${error.message}']);
   }
   if (root is! List) {
-    return const BatchParseResult([], ['a lot must be a JSON list of exercises']);
+    return const BatchParseResult([], [
+      'a lot must be a JSON list of exercises',
+    ]);
   }
 
   final exercises = <Exercise>[];
@@ -59,8 +64,10 @@ Exercise _parseExercise(ToeicPart part, Map<String, dynamic> json) {
 
 Exercise _parsePart5(String id, String? audio, Map<String, dynamic> json) {
   final sentence = _string(json, 'sentence');
-  if (!sentence.contains(part5BlankMarker)) {
-    throw const FormatException('"sentence" must contain the blank marker "$part5BlankMarker"');
+  if (part5BlankMarker.allMatches(sentence).length != 1) {
+    throw const FormatException(
+      '"sentence" must contain the blank marker "$part5BlankMarker" exactly once',
+    );
   }
   return Exercise(
     id: id,
@@ -78,15 +85,19 @@ Exercise _parsePart5(String id, String? audio, Map<String, dynamic> json) {
 }
 
 Exercise _parsePart6(String id, String? audio, Map<String, dynamic> json) {
-  final text = _string(json, 'text');
+  final text = _text(json, 'text');
   final type = _documentType(_string(json, 'documentType'));
   final questions = _list(json, 'questions');
   if (questions.length != 4) {
-    throw FormatException('needs exactly 4 questions, found ${questions.length}');
+    throw FormatException(
+      'needs exactly 4 questions, found ${questions.length}',
+    );
   }
   for (var blank = 1; blank <= 4; blank++) {
     if ('[$blank]'.allMatches(text).length != 1) {
-      throw FormatException('"text" must contain the marker [$blank] exactly once');
+      throw FormatException(
+        '"text" must contain the marker [$blank] exactly once',
+      );
     }
   }
   return Exercise(
@@ -136,7 +147,7 @@ Exercise _parsePart7(String id, String? audio, Map<String, dynamic> json) {
           return ExerciseDocument(
             type: _documentType(_string(d, 'type')),
             title: _optionalString(d, 'title'),
-            text: _string(d, 'text'),
+            text: _text(d, 'text'),
           );
         }(),
     ],
@@ -163,11 +174,18 @@ Question _parseQuestion({
 }) {
   final choices = _list(json, 'choices');
   if (choices.length != choiceCount || choices.any((c) => c is! String || c.trim().isEmpty)) {
-    throw FormatException('$questionId: "choices" must hold exactly $choiceCount non-empty strings');
+    throw FormatException(
+      '$questionId: "choices" must hold exactly $choiceCount non-empty strings',
+    );
+  }
+  if (choices.map((c) => (c as String).trim().toLowerCase()).toSet().length != choiceCount) {
+    throw FormatException('$questionId: "choices" must all be different');
   }
   final answerIndex = json['answerIndex'];
   if (answerIndex is! int || answerIndex < 0 || answerIndex >= choiceCount) {
-    throw FormatException('$questionId: "answerIndex" must be an integer from 0 to ${choiceCount - 1}');
+    throw FormatException(
+      '$questionId: "answerIndex" must be an integer from 0 to ${choiceCount - 1}',
+    );
   }
 
   QuestionCategory? category;
@@ -175,7 +193,9 @@ Question _parseQuestion({
   if (rawCategory != null) {
     category = QuestionCategory.fromJsonName(rawCategory);
     if (category == null || !QuestionCategory.allowedByPart[part]!.contains(category)) {
-      throw FormatException('$questionId: category "$rawCategory" is not valid for part ${part.number}');
+      throw FormatException(
+        '$questionId: category "$rawCategory" is not valid for part ${part.number}',
+      );
     }
   }
 
@@ -196,6 +216,16 @@ String _string(Map<String, dynamic> json, String key) {
   final value = json[key];
   if (value is! String || value.trim().isEmpty) {
     throw FormatException('"$key" is missing or not a non-empty string');
+  }
+  return value;
+}
+
+String _text(Map<String, dynamic> json, String key) {
+  final value = _string(json, key);
+  if (value.length > maxTextLength) {
+    throw FormatException(
+      '"$key" is ${value.length} characters long (max $maxTextLength)',
+    );
   }
   return value;
 }
@@ -231,4 +261,20 @@ List<String> findDuplicateIds(Iterable<Exercise> exercises) {
     }
   }
   return duplicates.toList()..sort();
+}
+
+/// Share of questions (0..1) whose right answer is the one longest choice. About 0.25 is
+/// expected when answers are not recognisable by length; a high value is a bias.
+double longestAnswerShare(Iterable<Exercise> exercises) {
+  var longest = 0;
+  var total = 0;
+  for (final question in exercises.expand((e) => e.questions)) {
+    total++;
+    final lengths = [for (final c in question.choices) c.length];
+    final max = lengths.reduce((a, b) => a > b ? a : b);
+    if (lengths[question.answerIndex] == max && lengths.where((l) => l == max).length == 1) {
+      longest++;
+    }
+  }
+  return total == 0 ? 0 : longest / total;
 }
