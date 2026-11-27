@@ -1,0 +1,406 @@
+[
+  {
+    "id": "p7-230",
+    "documents": [
+      {
+        "type": "article",
+        "title": "City hall moves to a four-day opening week",
+        "text": "Residents of Brenton who need to renew a permit or register a business will find the town hall closed on Fridays from next month. The council voted by a narrow margin on Tuesday to open its public counters only from Monday to Thursday, extending the daily hours to 8 a.m. to 6 p.m. so that the weekly total remains almost unchanged. Staff will use Fridays for work that does not involve the public, such as processing applications and training.\n\nSupporters of the change, led by council member Hannah Doyle, say it reflects the reality that most transactions are now done online. Last year, only a fifth of requests were handled at the counter, and Friday was the quietest day of the week. The saving, estimated at 140,000 dollars a year in energy and cleaning costs, will be used to improve the town's Web portal, which many residents find hard to navigate.\n\nCritics warn that the plan favors the digitally skilled. Councilor Reggie Fontaine, who voted against, argued that older residents and newcomers with limited English rely on face-to-face help. \"A town hall should serve the people who need it most, not the people who are easiest to serve,\" he said. In response, the council has promised that a telephone helpline will remain open on Fridays and that mobile advisers will visit the library once a month. The new arrangement will be reviewed after six months."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The construction of a brand-new building for the town hall",
+          "A council's decision to reduce days of public service",
+          "A rise in the price charged for renewing a permit",
+          "A dispute between councilors about their own salaries"
+        ],
+        "answerIndex": 1,
+        "explanation": "The council voted to close its public counters on Fridays, while extending hours on other days."
+      },
+      {
+        "prompt": "Why did supporters favor the change?",
+        "category": "detail",
+        "choices": [
+          "Staff were unhappy with the length of the opening hours",
+          "Residents had asked for more evening opening times",
+          "Friday was the busiest day of the week at the counters",
+          "Most business is now conducted over the Internet"
+        ],
+        "answerIndex": 3,
+        "explanation": "Most transactions are online, and only a fifth were handled at the counter last year."
+      },
+      {
+        "prompt": "The word \"narrow\" in paragraph 1 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "small",
+          "thin",
+          "strict",
+          "unfair"
+        ],
+        "answerIndex": 0,
+        "explanation": "A narrow margin means a small difference in the number of votes."
+      },
+      {
+        "prompt": "What can be inferred about Mr. Fontaine?",
+        "category": "inference",
+        "choices": [
+          "He wants the town's portal to be improved quickly",
+          "He supported the plan to keep a telephone helpline",
+          "He is concerned for residents who lack technology skills",
+          "He is the one who proposed the savings in the plan"
+        ],
+        "answerIndex": 2,
+        "explanation": "He argued that older and non-native residents rely on face-to-face help."
+      }
+    ]
+  },
+  {
+    "id": "p7-231",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Interview feedback",
+        "text": "To: Lucia Fernandes\nFrom: Martin Boyle, Recruitment, Aster Pharma\nSubject: Your interview on 14 October\n\nDear Lucia,\n\nThank you for taking the time to meet our team on Tuesday. It was a pleasure to learn about your career, and I wanted to give you some feedback while the discussion is fresh. The panel was impressed by your knowledge of regulatory procedures and by the clear way you described the clinical trial you managed in Seville. Your answers on teamwork were convincing, and several members commented on your calm approach.\n\nThere were, however, two points of concern. First, the role involves frequent presentations to senior executives, and the panel felt that your answer to the question on how you would explain a delay to a board was somewhat vague. Second, they noted that you have less experience of budgeting than other candidates, a skill that is important for the post.\n\nDespite these reservations, the panel would like to take you to the next stage, which is a presentation to the Director of Operations on 28 October. You would have fifteen minutes to propose how you would organize a trial in a new country, followed by questions. Please confirm whether the date is convenient by Friday, and let me know if you require any equipment.\n\nKind regards,\nMartin Boyle"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To offer her a contract for the post straight away",
+          "To reject her application in a polite manner",
+          "To tell a candidate how a first interview went",
+          "To request additional references from her employer"
+        ],
+        "answerIndex": 2,
+        "explanation": "Mr. Boyle gives feedback and invites her to a second stage."
+      },
+      {
+        "prompt": "What impressed the panel about Ms. Fernandes?",
+        "category": "detail",
+        "choices": [
+          "Her handling of a previous medical study",
+          "Her experience of managing budgets",
+          "Her ability to speak several languages",
+          "Her plans for new offices abroad"
+        ],
+        "answerIndex": 0,
+        "explanation": "They were impressed by her description of the clinical trial she managed in Seville."
+      },
+      {
+        "prompt": "What is a weakness the panel noted?",
+        "category": "detail",
+        "choices": [
+          "Poor knowledge of the rules on regulation",
+          "Difficulty in working together with other people",
+          "An unwillingness to travel to other countries",
+          "Little experience of managing budgets"
+        ],
+        "answerIndex": 3,
+        "explanation": "She has less experience of budgeting than other candidates."
+      },
+      {
+        "prompt": "What will Ms. Fernandes have to do at the next stage?",
+        "category": "inference",
+        "choices": [
+          "Answer questions on her references",
+          "Show how she would organize a study abroad",
+          "Negotiate her salary with the director",
+          "Visit the company's laboratory"
+        ],
+        "answerIndex": 1,
+        "explanation": "She will propose how she would organize a trial in a new country."
+      }
+    ]
+  },
+  {
+    "id": "p7-232",
+    "documents": [
+      {
+        "type": "form",
+        "title": "Maintenance request form: Tower Court",
+        "text": "Tenant: Marcus Webb · Apartment: 14C · Date: 3 February\nProblem: Radiator in the living room does not heat up; there is a gurgling noise from the pipes and the bedroom radiator is only lukewarm. The problem began after the heating was serviced last Friday.\nUrgency: ☒ Urgent (no heating) ☐ Routine\nPreferred time for visit: Weekdays after 5 p.m. or Saturday morning\nPets in apartment: One cat (please keep the door closed)\nFor office use: Received by: Nora Hale · Priority: High · Assigned to: Delmar Heating · Visit scheduled: 5 February, 6 p.m.\nNotes: Delmar to bleed all radiators and check the pressure in the system. If the boiler requires a part, the tenant will be informed within 24 hours. The management company is not liable for the costs of electric heaters purchased by the tenant, but a reduction in rent may be considered if heating is not restored within five days of this request."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main problem reported by Mr. Webb?",
+        "category": "detail",
+        "choices": [
+          "The boiler makes a loud noise at night",
+          "The apartment is not being heated properly",
+          "The pipes in the kitchen are leaking",
+          "The cat has damaged the radiators"
+        ],
+        "answerIndex": 1,
+        "explanation": "The living room radiator does not heat and the bedroom one is lukewarm."
+      },
+      {
+        "prompt": "What can be inferred about the cause of the problem?",
+        "category": "inference",
+        "choices": [
+          "It was caused by a power cut in the building",
+          "It was first reported by another tenant nearby",
+          "It results from the very cold weather this week",
+          "It may be connected to recent work on the system"
+        ],
+        "answerIndex": 3,
+        "explanation": "The problem began after the heating was serviced last Friday."
+      },
+      {
+        "prompt": "What will the contractor do first?",
+        "category": "detail",
+        "choices": [
+          "Let air out of the radiators and test the pressure",
+          "Replace the whole boiler with a new model",
+          "Order a missing part for the heating system",
+          "Install electric heaters in each of the rooms"
+        ],
+        "answerIndex": 0,
+        "explanation": "Delmar will bleed all radiators and check the system's pressure."
+      },
+      {
+        "prompt": "What is NOT promised to Mr. Webb?",
+        "category": "not_true",
+        "choices": [
+          "A visit within two days",
+          "News about parts within a day",
+          "Payment for electric heaters he buys",
+          "A possible rent reduction after five days"
+        ],
+        "answerIndex": 2,
+        "explanation": "The form states the company is not liable for the cost of electric heaters."
+      }
+    ]
+  },
+  {
+    "id": "p7-233",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Review: \"The Cartographer's Daughter\" (novel)",
+        "text": "Rating: 4 out of 5\n\nElise Marchand's third novel opens on a promising note. In 1912, a young woman inherits her father's map shop in Antwerp and discovers among his papers a chart of an island that appears in no atlas. The first hundred pages, in which she follows the clues through archives and harbors, are as absorbing as any detective story, and Marchand's evocation of the port city is vivid without being decorative.\n\nThe middle section is less secure. A romantic subplot involving a ship's engineer is introduced with some haste and seems designed mainly to provide an excuse for a voyage. The prose, so carefully controlled earlier, loosens, and there are passages of dialogue that sound more like explanations to the reader than conversation between characters. Readers who prefer pace may feel the book lose its way.\n\nThe final chapters, however, redeem much of this. The island, when it finally appears, is neither a treasure nor a trick but something more unsettling, and the heroine's reaction to it provides the novel with a quietly moving ending. It is not a flawless book, but it is an intelligent and ambitious one, and it confirms Marchand as one of the more interesting historical novelists writing today."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall verdict?",
+        "category": "main_idea",
+        "choices": [
+          "The book is a complete failure",
+          "The book is better than the author's first two",
+          "The book is flawed but worth reading",
+          "The book is only suitable for experts on maps"
+        ],
+        "answerIndex": 2,
+        "explanation": "The reviewer criticizes the middle but calls the novel intelligent, ambitious and moving."
+      },
+      {
+        "prompt": "What does the reviewer dislike about the middle section?",
+        "category": "detail",
+        "choices": [
+          "A love story that is introduced too fast",
+          "The long descriptions of the port of Antwerp",
+          "The sudden disappearance of the main character",
+          "The use of many words from foreign languages"
+        ],
+        "answerIndex": 0,
+        "explanation": "The romantic subplot is introduced with some haste."
+      },
+      {
+        "prompt": "The word \"redeem\" in paragraph 3 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "pay back",
+          "take away",
+          "hold on to",
+          "make up for"
+        ],
+        "answerIndex": 3,
+        "explanation": "The final chapters compensate for the weaknesses of the middle section."
+      },
+      {
+        "prompt": "What can be inferred about the island?",
+        "category": "inference",
+        "choices": [
+          "It is shown on a map in a library",
+          "It is not what readers might expect",
+          "It is where the heroine was born",
+          "It contains valuable treasure"
+        ],
+        "answerIndex": 1,
+        "explanation": "The island is 'neither a treasure nor a trick but something more unsettling'."
+      }
+    ]
+  },
+  {
+    "id": "p7-234",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice: Annual general meeting of the Linden Cooperative",
+        "text": "The annual general meeting of the Linden Housing Cooperative will take place on Saturday 18 October at 10:00 a.m. in the Parish Hall. All members are invited to attend and vote. The agenda includes approval of the accounts, the election of two board members, and a proposal to increase monthly charges by 4 percent to fund the replacement of the building's boiler. Members who cannot attend may give a proxy vote to another member using the attached form, which must be returned to the secretary by 10 October. Nominations for the board must be submitted in writing by 3 October. Lunch will be served after the meeting."
+      },
+      {
+        "type": "email",
+        "title": "Question about proxy voting",
+        "text": "Dear Secretary,\n\nI will be traveling on 18 October and would like to vote by proxy. I own a flat in the cooperative but my sister, who lives in the same building and is also a member, is willing to vote for me. I would also like to stand for election to the board; is it too late? Finally, I am against the increase in monthly charges, although I would support the boiler replacement if it were financed in another way, such as by a loan. Can this be put to the meeting?\n\nRegards,\nHugo Marchetti"
+      },
+      {
+        "type": "email",
+        "title": "Re: Question about proxy voting",
+        "text": "Dear Mr. Marchetti,\n\nYour sister may vote for you, provided that you complete the form and she signs it too. The deadline for returning it is 10 October. Unfortunately, nominations closed on 3 October, so you cannot stand this year. However, you can propose an amendment: any member may submit an alternative proposal in writing to the board by 12 October, and it will be added to the agenda if it is supported by five members. If you want to speak about a loan, I suggest you ask four others to sign the proposal.\n\nPlease note that a proxy holder may carry a maximum of two votes.\n\nKind regards,\nOfelia Brandt, Secretary"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of Mr. Marchetti's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To complain about the cost of holding the meeting",
+          "To ask how he can take part while he is away",
+          "To resign his membership of the cooperative",
+          "To report a fault in the building's boiler"
+        ],
+        "answerIndex": 1,
+        "explanation": "He asks about proxy voting, standing for election and proposing an alternative."
+      },
+      {
+        "prompt": "Why can Mr. Marchetti NOT stand for the board?",
+        "category": "detail",
+        "choices": [
+          "He does not own an apartment in the building",
+          "His sister is already standing as a candidate",
+          "Proxy holders are not allowed to be candidates",
+          "The date for putting names forward has passed"
+        ],
+        "answerIndex": 3,
+        "explanation": "Nominations closed on 3 October."
+      },
+      {
+        "prompt": "What must Mr. Marchetti do to put forward a different financing method?",
+        "category": "detail",
+        "choices": [
+          "Put it in writing and get other members' backing",
+          "Ask the board to call a special general meeting",
+          "Vote against the approval of the accounts",
+          "Find a lender before the date of the meeting"
+        ],
+        "answerIndex": 0,
+        "explanation": "A written proposal by 12 October must be supported by five members, that is himself and four others."
+      },
+      {
+        "prompt": "How many members must support an amendment, including the member who proposes it?",
+        "category": "inference",
+        "choices": [
+          "Two",
+          "Four",
+          "Five",
+          "Ten"
+        ],
+        "answerIndex": 2,
+        "explanation": "It will be added if supported by five members; Ms. Brandt suggests he asks four others to sign."
+      },
+      {
+        "prompt": "What can be inferred about the proxy vote?",
+        "category": "inference",
+        "choices": [
+          "He has to be present at the lunch in order to vote",
+          "Only the secretary may carry proxy votes",
+          "His sister may cast his vote if the form is in order",
+          "He is obliged to appoint someone he does not know"
+        ],
+        "answerIndex": 2,
+        "explanation": "His sister, a member, may vote for him provided the form is completed and signed by both and returned by 10 October."
+      }
+    ]
+  },
+  {
+    "id": "p7-235",
+    "documents": [
+      {
+        "type": "invoice",
+        "title": "Invoice 4420: Clearwater Cleaning Services",
+        "text": "Client: Hollis & Grant Dental Clinic · Period: 1 to 31 March\nWeekly office cleaning (4 weeks at 190 dollars): 760.00\nDeep clean of treatment rooms (2 sessions at 240 dollars): 480.00\nWindow cleaning, exterior (1 visit): 150.00\nSupplies surcharge (5 percent of cleaning charges): 62.00\nSubtotal: 1,452.00 · Tax (6 percent): 87.12 · Total due: 1,539.12\nPlease pay within 30 days. Complaints about work must be made within five days of the service date."
+      },
+      {
+        "type": "email",
+        "title": "Complaint about service",
+        "text": "Dear Clearwater,\n\nWe have received your invoice for March. Before we pay, I wish to raise two issues. First, the deep clean of the treatment rooms was scheduled for two sessions, but the cleaners came only once, on 14 March; on 28 March, nobody came, and no one from your office contacted us. Second, the invoice lists exterior window cleaning, but this was not requested. I would like to know why this was added.\n\nRegards,\nDr. Neil Hollis"
+      },
+      {
+        "type": "email",
+        "title": "Re: Complaint about service",
+        "text": "Dear Dr. Hollis,\n\nThank you for telling us. I have confirmed that the session on 28 March was missed because of staff illness, and I apologize that we did not inform you. The charge for that session, 240 dollars, will be removed. The window cleaning was added on 20 March following a phone call from your receptionist, as our notes show, but I can remove this too if it was not authorized; please confirm.\n\nI attach a revised invoice. Please note that the supplies surcharge will be recalculated on the revised total.\n\nAs a gesture of goodwill, we would also like to offer you a free deep clean of one treatment room next month, to be scheduled at a time that suits your team. We recognize that a dental clinic has high standards of hygiene, and we are reviewing our procedure so that a missed visit is always reported to the client on the same day.\n\nSincerely,\nDena Ruiz, Account Manager"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What problem does Dr. Hollis raise first?",
+        "category": "detail",
+        "choices": [
+          "A cleaning session did not take place",
+          "The invoice was sent too late",
+          "The cleaners broke some equipment",
+          "The prices were higher than agreed"
+        ],
+        "answerIndex": 0,
+        "explanation": "Nobody came on 28 March for the second deep clean."
+      },
+      {
+        "prompt": "How does the company explain the window cleaning?",
+        "category": "detail",
+        "choices": [
+          "It is a regular part of the cleaning contract",
+          "It was offered free to clients of long standing",
+          "It was added by mistake in the billing system",
+          "Someone at the clinic asked for it by telephone"
+        ],
+        "answerIndex": 3,
+        "explanation": "Ms. Ruiz says it was added following a phone call from the receptionist."
+      },
+      {
+        "prompt": "By how much will the invoice subtotal be reduced for the missed session, before the supplies surcharge is recalculated?",
+        "category": "inference",
+        "choices": [
+          "By 150 dollars",
+          "By 240 dollars",
+          "By 62 dollars",
+          "By 87.12 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "The charge for the session on 28 March, 240 dollars, will be removed."
+      },
+      {
+        "prompt": "What will the recalculated surcharge be if only the missed session is removed?",
+        "category": "inference",
+        "choices": [
+          "12 dollars",
+          "50 dollars",
+          "62 dollars",
+          "74 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "The surcharge is 5 percent of cleaning charges only: 760 + 480 = 1,240 gave 62. Removing the 240-dollar session leaves 1,000, so 5 percent is 50 dollars."
+      },
+      {
+        "prompt": "What is required of Dr. Hollis in order to remove the window charge?",
+        "category": "detail",
+        "choices": [
+          "Proof that he has already paid the invoice",
+          "A letter from his receptionist about the call",
+          "A new request for another window cleaning visit",
+          "Written confirmation that the job was not approved"
+        ],
+        "answerIndex": 3,
+        "explanation": "Ms. Ruiz asks him to confirm that the window cleaning was not authorized."
+      }
+    ]
+  }
+]
