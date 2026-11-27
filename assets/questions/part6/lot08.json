@@ -1,0 +1,552 @@
+[
+  {
+    "id": "p6-268",
+    "documentType": "letter",
+    "text": "Dear Ms. Whitaker,\n\nPursuant to our telephone conversation of March 4, I am writing to confirm the terms under which Calder & Finch will provide consulting services to your firm. The engagement is expected to last six months, [1] a review of your existing procurement processes and the drafting of recommendations. [2] Our fees will be invoiced monthly and are contingent [3] your approval of each deliverable. Should the scope of the project expand significantly, we would discuss any revision to the budget with you before proceeding. Please sign and return the enclosed copy of this letter [4] March 20 to indicate your acceptance. We look forward to a productive collaboration.\n\nYours sincerely,\nRaymond Calder\nManaging Partner",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "encompassing",
+          "encompassed",
+          "encompass",
+          "encompasses"
+        ],
+        "answerIndex": 0,
+        "explanation": "A present participle phrase 'encompassing a review...' modifies the engagement."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your firm was recommended to us by a former client whose procurement costs fell sharply after our work.",
+          "Our team will be led by a senior consultant who has handled several comparable projects in the manufacturing sector.",
+          "Calder & Finch has offices in six cities and employs consultants with backgrounds in law, finance, and logistics.",
+          "The first progress meeting is likely to take place at your premises during the second week of April."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence turns to fees, so the preceding sentence closes the description of the engagement and its team."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "with",
+          "to",
+          "upon",
+          "by"
+        ],
+        "answerIndex": 2,
+        "explanation": "'contingent upon' is the fixed expression meaning dependent on."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "on",
+          "until",
+          "by"
+        ],
+        "answerIndex": 3,
+        "explanation": "A deadline for signing the letter is expressed with 'by'."
+      }
+    ]
+  },
+  {
+    "id": "p6-269",
+    "documentType": "article",
+    "text": "Why Some Small Manufacturers Are Moving Production Closer to Home\n\nFor decades, manufacturers sought lower costs by shifting production overseas. [1] A growing number of small firms, however, are now bringing it back, [2] in part by rising shipping costs and in part by the need for faster response to customers. Furniture maker Dalton & Sons, for instance, relocated its upholstery line from Asia last year. Its chief executive, Philip Dalton, says the move has cut delivery times from ten weeks to three. [3] the company pays higher wages, the savings on transport and inventory have largely made up the difference. Economists caution that such cases remain exceptions and that automation, [4] than labor costs, will determine where goods are made in the future.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The trend was driven by the simple calculation that labor abroad cost a fraction of what it did at home.",
+          "Many consumers still expect products to be inexpensive, which limits what manufacturers can charge for goods.",
+          "Several governments have introduced tax incentives for companies that agree to build new factories in rural areas.",
+          "Overseas factories also tend to require larger minimum orders, which can be a burden for smaller companies."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'A growing number of small firms, however' and contrasts with a past trend."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "prompting",
+          "prompted",
+          "prompt",
+          "prompts"
+        ],
+        "answerIndex": 1,
+        "explanation": "The past participle 'prompted' introduces the passive reduced clause 'prompted by'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Whenever"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although' concedes higher wages before the claim that savings compensate."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "sooner",
+          "more",
+          "other",
+          "rather"
+        ],
+        "answerIndex": 3,
+        "explanation": "'rather than' is the fixed contrast structure."
+      }
+    ]
+  },
+  {
+    "id": "p6-270",
+    "documentType": "email",
+    "text": "To: Sales Representatives\nFrom: Helena Strand, Customer Experience Manager\nSubject: Complaint trends\n\nI have analyzed the complaints we received during the third quarter, and several patterns deserve our attention. The largest category, accounting for 38 percent of cases, concerned late deliveries. [1] Most of these arose in the final week of each month, when order volumes peak. The second category involved invoices that did not [2] the discounts agreed with the customer. [3] these errors were corrected quickly, they caused unnecessary frustration and, in two cases, led to canceled contracts. I would therefore ask each of you to double-check pricing before submitting an order. Our target is to bring the overall number of complaints [4] twenty percent by the end of the year.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The pattern suggests that the problem is related to staffing levels rather than to the carriers we use.",
+          "Customers were generally positive about the courtesy of our service staff when they called the help desk.",
+          "The third quarter was the busiest in the history of the company, with sales up by twelve percent.",
+          "A small number of complaints concerned damaged goods, most of which were caused by inadequate packaging."
+        ],
+        "answerIndex": 0,
+        "explanation": "'Most of these arose' refers to the late deliveries, so the preceding sentence interprets them."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "reflecting",
+          "reflect",
+          "reflected",
+          "reflects"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'did not', the base form of the verb is needed."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Until"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although' introduces the concession that errors were corrected quickly."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "to",
+          "of",
+          "by"
+        ],
+        "answerIndex": 3,
+        "explanation": "'bring the number down by twenty percent' expresses a reduction in amount."
+      }
+    ]
+  },
+  {
+    "id": "p6-271",
+    "documentType": "notice",
+    "text": "PUBLIC HEARING NOTICE\nCity of Ashbourne Planning Department\n\nNotice is hereby given that a public hearing will be held on Tuesday, April 22, at 7 p.m. in the council chamber concerning an application to convert the former Mercer Mill into forty-eight residential apartments. [1] Residents wishing to comment on the proposal are invited to attend, [2] those who cannot do so may submit written objections to the Planning Department no later than April 15. [3] Copies of the plans are available for inspection at the town hall during office hours and on the council's website. The committee will take all representations into account before reaching a decision, [4] it is not obliged to follow the views of any individual or group. The outcome will be published within fourteen days of the hearing.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The applicant has proposed to retain the original brick facade and to provide parking for sixty vehicles.",
+          "The mill ceased production in 1998 and has remained empty since then, deteriorating gradually over the years.",
+          "The council has approved similar conversions in other parts of the city over the last five years.",
+          "Local historians have asked that a small museum be included in the ground floor of the building."
+        ],
+        "answerIndex": 0,
+        "explanation": "The following sentences invite comments on 'the proposal', so the preceding sentence describes the proposal's features."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "because",
+          "while",
+          "unless",
+          "so that"
+        ],
+        "answerIndex": 1,
+        "explanation": "'while' links attending in person with the alternative of submitting written objections."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "The department has received more than two hundred inquiries about the application since it was first advertised.",
+          "Parking in the town center will be restricted on the evening of the hearing because of a street festival.",
+          "Anyone who submits an objection in writing will receive an acknowledgment and a summary of the committee's decision.",
+          "The council chamber has seats for about eighty people and is accessible by elevator from the main entrance."
+        ],
+        "answerIndex": 2,
+        "explanation": "The next sentence is about plans being available for inspection; the sentence before concludes the objection procedure."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "so",
+          "because",
+          "for",
+          "but"
+        ],
+        "answerIndex": 3,
+        "explanation": "The committee will consider all views, but is not obliged to follow them."
+      }
+    ]
+  },
+  {
+    "id": "p6-272",
+    "documentType": "advertisement",
+    "text": "Executive Travel Insurance by Meridian Mutual\n\nFrequent travel exposes business professionals to risks that standard policies rarely address. Meridian Mutual's Executive Plan covers lost luggage, canceled flights, and medical emergencies in more than 150 countries. [1] You may also add protection for electronic equipment, [2] is often excluded from other policies. Claims can be submitted through our app, and approved payments are normally made within forty-eight hours. [3] Should you fall ill abroad, our multilingual assistance team will arrange treatment and, if necessary, transport home. Because the policy is renewed automatically each year, you [4] never find yourself uninsured. Request a quotation today at meridianmutual.example.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Unlike many competitors, we provide cover for last-minute changes of itinerary that result from client requests.",
+          "Our offices are open every day of the week, including weekends and holidays, to answer inquiries from clients.",
+          "Last year, we handled more than forty thousand claims and received excellent ratings from independent reviewers.",
+          "Business travelers are among the most vulnerable to delays because their schedules are often tightly planned."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence adds an optional protection, so the preceding sentence presents a distinct benefit."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "which",
+          "who",
+          "where"
+        ],
+        "answerIndex": 1,
+        "explanation": "'which' refers to protection for electronic equipment and is the subject of 'is often excluded'."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "Premiums are calculated on the basis of age, destination, and the number of trips you take each year.",
+          "Many of our customers have been with us for more than a decade and recommend us to their colleagues.",
+          "Peace of mind extends beyond financial protection, since help is available around the clock wherever you travel.",
+          "Policies may be canceled at any time, and any unused portion of the premium is refunded in full."
+        ],
+        "answerIndex": 2,
+        "explanation": "The next sentence deals with assistance if ill abroad, tying to the idea of round-the-clock help."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "would",
+          "did",
+          "ought",
+          "will"
+        ],
+        "answerIndex": 3,
+        "explanation": "The statement of certainty 'you will never find yourself uninsured' matches automatic renewal."
+      }
+    ]
+  },
+  {
+    "id": "p6-273",
+    "documentType": "job_ad",
+    "text": "Senior Data Analyst – Castellan Logistics\n\nCastellan Logistics, a global freight forwarder, seeks a Senior Data Analyst to lead a team of four in our Rotterdam office. [1] The successful candidate will transform complex operational data into clear recommendations for senior management. [2] A master's degree in statistics or a related field is required, together with five years of experience in a similar role. Fluency in English and Dutch is [3], as is the ability to explain technical findings to non-specialists. We provide a competitive salary, relocation assistance, and the chance to [4] a team that is shaping the future of the industry. Interested applicants should submit their CV and a cover letter by December 1.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "This position reports directly to the Chief Operating Officer and plays a central role in strategic planning.",
+          "Castellan Logistics operates in forty countries and moves goods valued at several billion euros every year.",
+          "Our Rotterdam office was recently relocated to a modern building near the harbor and the central station.",
+          "The department has grown rapidly and now uses advanced software to track shipments in real time."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence describes what the candidate will do; the correct choice introduces the position's standing."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The company will pay for professional training and for membership of relevant associations once the contract begins.",
+          "Experience of forecasting and of working with large data sets is particularly valued by the interview panel.",
+          "Relocation support includes help with finding housing and a contribution toward the cost of moving belongings.",
+          "Interviews will be held both online and in person, depending on where the applicants are living at that time."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence sets the formal requirements; the preceding sentence signals the skills that matter."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "essence",
+          "essentially",
+          "essential",
+          "essentials"
+        ],
+        "answerIndex": 2,
+        "explanation": "An adjective is needed after 'is'; 'as is' links to a parallel requirement."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "joint",
+          "merge",
+          "enter",
+          "join"
+        ],
+        "answerIndex": 3,
+        "explanation": "One 'joins' a team; 'enter' would not take 'a team' naturally."
+      }
+    ]
+  },
+  {
+    "id": "p6-274",
+    "documentType": "web_page",
+    "text": "Evergreen Property Management – Tenant Guide\n\nRent is due on the first day of each month and may be paid online, by bank transfer, or at our office. [1] A grace period of five days is allowed; after this, a late fee equal to 5 percent of the monthly rent will be [2]. Maintenance requests should be submitted through the tenant portal, [3] they can be tracked until completion. Emergency repairs, such as burst pipes or electrical failures, [4] be reported by telephone at any hour. We carry out routine inspections twice a year and will give at least forty-eight hours' notice before entering your home, except in an emergency.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Tenants who anticipate difficulty in making a payment on time are encouraged to contact us as early as possible.",
+          "Our company manages more than six hundred apartments across the city and has done so for over twenty years.",
+          "The tenant portal was redesigned last year and can now be used on any mobile phone or tablet.",
+          "Security deposits are held in a separate account and returned within thirty days after a tenant moves out."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence describes the grace period and fee, tying in with late payment."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "chargeable",
+          "charged",
+          "charging",
+          "charge"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive 'will be charged' needs the past participle."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "even if",
+          "as if",
+          "so that",
+          "in case"
+        ],
+        "answerIndex": 2,
+        "explanation": "The portal is used so that requests can be tracked."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        "answerIndex": 3,
+        "explanation": "'should be reported' expresses what the tenant must do."
+      }
+    ]
+  },
+  {
+    "id": "p6-275",
+    "documentType": "memo",
+    "text": "To: Project Leaders\nFrom: Dr. Sunita Rao, Research Director\nSubject: Budget submissions for next year\n\nThe budget cycle for the coming fiscal year will open on September 1. [1] Each project leader is asked to submit a proposal that sets out expected costs, staffing requirements, and anticipated outcomes. Because funding is limited, proposals will be evaluated according to their alignment with the strategic priorities approved by the board. [2] Projects that rely on external partners must include signed letters of support, [3] these cannot be considered. Submissions should be uploaded to the shared drive by October 14. I would [4] you to consult your finance officer before finalizing the figures, as several rules have changed since last year.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "This year, requests will be reviewed in a single round rather than in two stages as in the past.",
+          "The research department has grown by almost a quarter since the previous fiscal year began.",
+          "Last year's proposals were assessed by an external panel, whose report was shared with project leaders.",
+          "Several grants from public agencies will expire at the end of December and will not be renewed."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says 'Each project leader is asked to submit', so the first sentence frames the procedure."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The board meets four times a year to review progress and approve changes to the research strategy.",
+          "Priority will be given to work that addresses sustainability and makes use of existing laboratory facilities.",
+          "Our partners include two universities and a hospital, all of which have contributed funding in the past.",
+          "The finance department will be moving to the third floor of the building at the end of September."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence refers to partners and support letters; the preceding sentence concerns how proposals are evaluated."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "moreover",
+          "otherwise",
+          "likewise"
+        ],
+        "answerIndex": 2,
+        "explanation": "Without letters of support the proposals cannot be considered: 'otherwise'."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "urgent",
+          "urgency",
+          "urged",
+          "urge"
+        ],
+        "answerIndex": 3,
+        "explanation": "'I would urge you to' is the fixed formula requiring the base verb."
+      }
+    ]
+  },
+  {
+    "id": "p6-276",
+    "documentType": "text_message",
+    "text": "Hi Mr. Dubois, it's Carla from Brightside Cleaning. I'm afraid we must reschedule tomorrow's visit, [1] one of our team members has fallen ill. [2] We can come on Thursday morning instead, or on Friday afternoon if that suits you better. I understand that this may be inconvenient, [3] we will take 10 percent off your next invoice as a gesture of apology. Please [4] me know which day you prefer by this evening so that I can organize the team. Thank you for your understanding, and apologies once again for the short notice. The team has been with us for several years, and we want to be sure your offices are left in perfect condition before the weekend.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "although",
+          "until"
+        ],
+        "answerIndex": 0,
+        "explanation": "The illness is the reason for rescheduling."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our team usually arrives at your office at around eight and finishes before the first employees come in.",
+          "Since the work requires a full crew, we prefer to avoid sending fewer people than agreed.",
+          "The product we use for the carpet has been changed to one that is gentler on the environment.",
+          "Many of our clients prefer to have the cleaning done on Fridays so that offices are ready for Monday."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence explains why rescheduling is needed, preceding the alternative dates."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "but",
+          "for",
+          "so",
+          "or"
+        ],
+        "answerIndex": 2,
+        "explanation": "The apology (discount) follows from the inconvenience."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "make",
+          "tell",
+          "inform",
+          "let"
+        ],
+        "answerIndex": 3,
+        "explanation": "'let me know' is the fixed expression."
+      }
+    ]
+  },
+  {
+    "id": "p6-277",
+    "documentType": "form",
+    "text": "Employee Expense Claim – Notes for Completion\n\nAll claims must be submitted within thirty days of the date on which the expense was incurred. [1] Receipts must be attached for every item above $25, and claims without supporting documents will be returned to the claimant. [2] Mileage may be claimed at the rate of 58 cents per mile, provided that the journey was made in a private vehicle [3] approved in advance by a manager. Meals are reimbursed only when the employee is traveling overnight, and alcohol is not [4] under any circumstances. Questions about eligibility should be addressed to the finance department before the expense is incurred.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Late claims will be accepted only in exceptional circumstances and with written approval from a department head.",
+          "The finance department processes claims on the fifteenth and the last day of each month.",
+          "Employees who frequently travel on business may apply for a company credit card to cover their costs.",
+          "The expense policy is reviewed annually and updated to reflect changes in tax law."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence is about receipts, and the preceding one states the deadline's consequence."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Otherwise",
+          "Similarly",
+          "Instead",
+          "Nevertheless"
+        ],
+        "answerIndex": 1,
+        "explanation": "Mileage is another category with its own rule, introduced as a parallel item."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "but",
+          "or",
+          "and",
+          "yet"
+        ],
+        "answerIndex": 2,
+        "explanation": "The journey must be in a private vehicle and approved in advance: both conditions apply."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "reimburse",
+          "reimbursing",
+          "reimbursement",
+          "reimbursable"
+        ],
+        "answerIndex": 3,
+        "explanation": "The adjective 'reimbursable' completes 'is not ... under any circumstances'; the other forms are not grammatical here."
+      }
+    ]
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "p6-256",
+    "documentType": "email",
+    "text": "To: Anita Verma\nFrom: Tobias Keller\nSubject: Vendor selection for the training platform\n\nI have now reviewed the three proposals for our new online training platform. Of the three, Learnwise offers the most flexible [1] structure, and its reporting tools would allow us to monitor completion rates by department. [2] Its price, however, is almost 20 percent higher than that of its closest rival. Cortex, the cheapest option, lacks a mobile version, [3] many of our field technicians rely on their phones during the day. For that reason, I do not think it would be [4] to select it. I suggest we ask Learnwise for a revised quotation before the steering committee meets on Thursday.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "pricing",
+          "pricey",
+          "prizing",
+          "priced"
+        ],
+        "answerIndex": 0,
+        "explanation": "'pricing structure' is the standard collocation for how fees are organized."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The three vendors were invited to present their proposals to the committee in the second week of September.",
+          "Its content library is also the broadest, covering both technical certification and general management skills.",
+          "Cortex was founded by former teachers and has built a loyal customer base among small and mid-sized firms.",
+          "Our current platform was installed six years ago and is no longer supported by the company that created it."
+        ],
+        "answerIndex": 1,
+        "explanation": "'Its price, however' contrasts with a positive feature of Learnwise, so the previous sentence must praise it."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "although",
+          "whereas",
+          "which is a problem because",
+          "unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "The clause gives the reason the missing mobile version matters; 'because' fits, the others do not."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "advisory",
+          "advising",
+          "advised",
+          "advisable"
+        ],
+        "answerIndex": 3,
+        "explanation": "'it would be advisable to select' needs the adjective meaning recommended."
+      }
+    ]
+  },
+  {
+    "id": "p6-257",
+    "documentType": "article",
+    "text": "Coastal Town Debates Cruise Ship Limits\n\nResidents of Marlow Bay will vote next month on a proposal to cap the number of cruise ships that may dock in the harbor each week. Supporters of the limit say that the crowds have [1] the character of the old town, where narrow streets can no longer cope with up to six thousand visitors at a time. [2] Shopkeepers, however, warn that the passengers are a vital source of income. Mayor Isabel Crane, who favors a compromise, notes that visitors who stay overnight spend roughly four times as much as day-trippers. [3] she proposes a scheme that would offer discounts on port fees to ships that stay in the harbor until evening. Opponents say the idea is unrealistic, [4] most companies schedule their itineraries months in advance.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "altered",
+          "alerted",
+          "altared",
+          "alleged"
+        ],
+        "answerIndex": 0,
+        "explanation": "Crowds have 'altered' (changed) the character of the town."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "A new terminal building was opened last year, allowing larger vessels to approach the harbor without assistance.",
+          "The pressure on local services has also grown, with waste collection and public toilets often overwhelmed on busy days.",
+          "The cruise industry has recovered strongly since the pandemic, and bookings are expected to reach record levels.",
+          "The old town dates from the thirteenth century and is protected by national heritage legislation."
+        ],
+        "answerIndex": 1,
+        "explanation": "The following sentence begins 'Shopkeepers, however', contrasting with complaints about the visitors."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Meanwhile",
+          "Otherwise",
+          "Therefore",
+          "Likewise"
+        ],
+        "answerIndex": 2,
+        "explanation": "Her proposal is a logical consequence of the spending statistic just cited."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "though",
+          "if",
+          "since"
+        ],
+        "answerIndex": 3,
+        "explanation": "The opponents' reason: most companies plan itineraries far ahead."
+      }
+    ]
+  },
+  {
+    "id": "p6-258",
+    "documentType": "letter",
+    "text": "Dear Dr. Haddad,\n\nThank you for agreeing to serve on the selection panel for this year's Excellence in Teaching Awards. The panel will meet on three Wednesday afternoons in February, [1] the first meeting being devoted to agreeing the criteria. [2] Each panelist will receive a folder of nominations two weeks beforehand, and we ask that you read them carefully and prepare your preliminary scores. Discussion is likely to be lively, since the quality of this year's nominees is exceptionally high. We would [3] it if you could declare any personal connection to a nominee at the outset, so that the panel can decide how to proceed. Travel expenses will be [4] upon presentation of receipts. Once again, we are most grateful for your time.\n\nWith best wishes,\nCarolyn Pfeiffer\nAwards Coordinator",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "with",
+          "by",
+          "for",
+          "at"
+        ],
+        "answerIndex": 0,
+        "explanation": "'with the first meeting being devoted' is an absolute construction introduced by 'with'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Last year's winners were honored at a dinner held at the town hall in the presence of several local politicians.",
+          "The panel is made up of eight members drawn from universities, schools, and professional training organizations.",
+          "Nominations for the awards are submitted by students, parents, and colleagues through a form available online.",
+          "The awards were established in 1987 to recognize outstanding contributions to education in the region."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence refers to 'Each panelist', so the preceding sentence should mention the panel's members."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "appraise",
+          "approach",
+          "appreciate",
+          "apprehend"
+        ],
+        "answerIndex": 2,
+        "explanation": "'We would appreciate it if you could' is the polite request formula."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "reimbursing",
+          "reimburse",
+          "reimbursement",
+          "reimbursed"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive 'will be reimbursed' needs the past participle."
+      }
+    ]
+  },
+  {
+    "id": "p6-259",
+    "documentType": "notice",
+    "text": "NOTICE TO CUSTOMERS\nAlder Savings Bank\n\nFrom June 2, our branch on Quayside Road will operate on revised opening hours. [1] The branch will open at 9:30 a.m. and close at 4:30 p.m. from Monday to Friday, and it will no longer open on Saturdays. [2] Customers who need cash or wish to deposit checks outside these hours may use the automated machines in the lobby, [3] are available around the clock. Those who prefer to speak to an adviser on Saturdays can visit our Central branch, which will extend its hours. [4] more information, please call 0800 555 0147 or consult our website.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "This change reflects a steady decline in visits to the branch as more customers manage their accounts online.",
+          "The Quayside Road branch was opened in 1974 and refurbished two years ago at a cost of several hundred thousand dollars.",
+          "Alder Savings Bank has been recognized by consumer groups for the quality of its customer service in recent surveys.",
+          "Customers are reminded that transactions above a certain amount require identification and a signed authorization form."
+        ],
+        "answerIndex": 0,
+        "explanation": "The following sentence gives the new hours; the preceding sentence explains why they change."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Therefore",
+          "However",
+          "Likewise",
+          "For example"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence contrasts the reduced hours with what customers can still do outside them."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "which",
+          "whom"
+        ],
+        "answerIndex": 2,
+        "explanation": "'which' refers to the automated machines and acts as the subject of 'are available'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "To",
+          "At",
+          "By",
+          "For"
+        ],
+        "answerIndex": 3,
+        "explanation": "'For more information' is the standard phrase."
+      }
+    ]
+  },
+  {
+    "id": "p6-260",
+    "documentType": "advertisement",
+    "text": "Aurora Home Solar – Power Your Home with the Sun\n\nElectricity prices are rising, [1] there has never been a better time to generate your own. Aurora's rooftop systems are engineered to produce energy [2] in cloudy conditions, and they come with a twenty-five-year performance guarantee. [3] Our technicians will assess your roof free of charge and design a system matched to your household's consumption. Most customers recover their investment within seven years, and many receive government grants that cover up to a quarter of the installation cost. [4] you order before the end of March, we will also include a battery storage unit at half price. Call 0800 555 0198 for your free assessment.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "so",
+          "but",
+          "nor",
+          "yet"
+        ],
+        "answerIndex": 0,
+        "explanation": "Rising prices are the reason it is a good time to generate one's own power."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "efficiency",
+          "efficiently",
+          "efficient",
+          "more efficiency"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adverb is needed to modify 'produce energy'."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "Solar panels have become far cheaper over the last decade, a trend that experts expect to continue.",
+          "Aurora was named installer of the year by a trade association at its annual conference in November.",
+          "Installation usually takes only two days and is carried out by our own certified staff rather than subcontractors.",
+          "Households that use heating powered by electricity stand to gain the most from a rooftop system."
+        ],
+        "answerIndex": 2,
+        "explanation": "The next sentence talks about technicians assessing the roof, so the preceding sentence describes how the service works."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Although",
+          "Whereas",
+          "If"
+        ],
+        "answerIndex": 3,
+        "explanation": "'If you order' sets the condition for the offer."
+      }
+    ]
+  },
+  {
+    "id": "p6-261",
+    "documentType": "job_ad",
+    "text": "Marketing Coordinator – Linden Books\n\nLinden Books, an independent publisher based in Edinburgh, is looking for a Marketing Coordinator to promote its growing list of children's titles. [1] You will work with authors and illustrators to plan launch events, and you will manage the company's social media accounts. The ideal applicant will have a degree in marketing or communications and [2] one year of experience in the publishing or retail sector. Strong writing skills are essential, [3] a flair for design would be a distinct advantage. We are a small team, so you should be comfortable [4] on several projects at once. The post is offered on a one-year contract with the possibility of renewal. Applications should be sent by November 10.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "This is an ideal opportunity for a creative professional who is eager to shape the voice of a respected brand.",
+          "Linden Books publishes about thirty titles a year and sells them through bookshops and online retailers worldwide.",
+          "Our offices are located near the old town and are accessible by bus, train, and a well-marked cycle route.",
+          "The previous coordinator has taken a position with a larger publishing house in London after four years with us."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'You will work', describing the role, so the preceding sentence advertises it."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "at most",
+          "at least",
+          "at last",
+          "at best"
+        ],
+        "answerIndex": 1,
+        "explanation": "'at least one year' sets a minimum requirement, as expected in a job ad."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "so",
+          "because",
+          "but",
+          "unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "Writing skills are essential, but design flair is only an advantage."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "work",
+          "worked",
+          "works",
+          "working"
+        ],
+        "answerIndex": 3,
+        "explanation": "'comfortable working on' needs a gerund after the adjective and preposition."
+      }
+    ]
+  },
+  {
+    "id": "p6-262",
+    "documentType": "web_page",
+    "text": "Greenhaven Public Library – Borrowing Policy\n\nMembers may borrow up to ten items at a time, including books, magazines, and audiobooks. [1] Most items are loaned for three weeks and may be renewed twice online, provided that no other member has reserved them. [2] Items returned late are subject to a fine of 10 cents per day, up to a maximum of $5 per item. Fines can be paid at the front desk or online. Members who have outstanding fines exceeding $10 will be unable to [3] new items until the balance has been settled. [4] a title is not available, you may reserve it for a small fee and will be notified by e-mail as soon as it arrives. Visitors from outside the city may obtain a temporary card with proof of address.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Films and video games are an exception, as they can be borrowed for one week only and cannot be renewed.",
+          "The library holds more than a hundred thousand volumes and subscribes to numerous national and local newspapers.",
+          "Children under twelve may borrow books without charge but need the signature of a parent or guardian to join.",
+          "Study rooms can be reserved by members for up to two hours at a time, subject to availability on the day."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence mentions 'Most items', so the preceding sentence introduces the exception to the general rule."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Likewise",
+          "However",
+          "Therefore",
+          "Moreover"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence contrasts the leniency of renewal with penalties for late returns."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "lend",
+          "owe",
+          "borrow",
+          "rent"
+        ],
+        "answerIndex": 2,
+        "explanation": "Members borrow items from the library."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Since",
+          "Whereas",
+          "If"
+        ],
+        "answerIndex": 3,
+        "explanation": "'If a title is not available' introduces a condition."
+      }
+    ]
+  },
+  {
+    "id": "p6-263",
+    "documentType": "memo",
+    "text": "To: Warehouse Supervisors\nFrom: Marcus Obi, Safety Officer\nSubject: New forklift procedures\n\nFollowing two minor accidents in the loading area last month, new forklift procedures will come into force on Monday. [1] Only employees who hold a current certificate may operate a forklift, and certificates will be checked at the start of every shift. [2] Pedestrians must keep out of the marked lanes, and anyone who needs to cross them must wait until the driver has signaled that it is safe to do so. A speed limit of five miles per hour will [3] throughout the building. Supervisors are asked to [4] these rules at their next team meeting and to report any breach to my office immediately. A refresher course for drivers is planned for the end of the month.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The aim of the changes is to separate vehicles from people wherever possible and to make each driver accountable.",
+          "The warehouse handles around four thousand pallets a week, a volume that has nearly doubled since last year.",
+          "The company has ordered three new electric forklifts, which are expected to be delivered sometime next spring.",
+          "Neither of the accidents resulted in a serious injury, though one pallet of goods was badly damaged."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentences that follow set out specific rules, so the preceding sentence gives the aim of the procedures."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Otherwise",
+          "In addition",
+          "Nevertheless",
+          "Instead"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence adds a second rule to the first."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "applying",
+          "applies",
+          "apply",
+          "applied"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'will', the base form is needed; 'apply' means the limit is enforced."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "empower",
+          "employ",
+          "emerge",
+          "emphasize"
+        ],
+        "answerIndex": 3,
+        "explanation": "Supervisors should 'emphasize' (stress) the rules to their teams."
+      }
+    ]
+  },
+  {
+    "id": "p6-264",
+    "documentType": "review",
+    "text": "Product Review: Norrland Insulated Jacket\n\nI bought the Norrland jacket for a winter trip to northern Sweden, where temperatures regularly fell below minus twenty. [1] It kept me warm without feeling bulky, and the fabric dried quickly after a heavy snowfall. [2] The hood is large enough to fit over a helmet, and the zippered pockets are deep enough to hold gloves and a phone. [3] the jacket is not cheap, I believe the price is justified by the quality of the stitching and the generous warranty. My only complaint is that the sleeves are slightly [4] for people with long arms, so I would recommend trying it on before ordering. Overall, I would buy it again without hesitation.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "I am pleased to report that it performed even better than I had expected under such demanding conditions.",
+          "The jacket is available in four colors, and I chose the green one because it looked less formal than the black.",
+          "Many of the people I met on the trip wore similar jackets made by different manufacturers and seemed satisfied.",
+          "The company that makes the jacket has been supplying clothing to polar expeditions for more than fifty years."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says 'It kept me warm', so the preceding sentence evaluates the performance."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "I wore the jacket every day for two weeks, including on long walks through forests covered in deep snow.",
+          "Several practical details were also thought out carefully by the designers, which made the jacket easy to use.",
+          "The color I selected does not show dirt easily, though it may be too dark for some people's taste.",
+          "The manufacturer's website offers a clear size chart and detailed instructions for washing and caring for the jacket."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence lists the hood and pockets, which are practical details."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Until"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although' concedes the price before judging it justified."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "shortly",
+          "shortage",
+          "shorten",
+          "short"
+        ],
+        "answerIndex": 3,
+        "explanation": "An adjective is needed after 'slightly'; the sleeves are too short."
+      }
+    ]
+  },
+  {
+    "id": "p6-265",
+    "documentType": "schedule",
+    "text": "Harbor City Film Festival – Information for Visitors\n\nThe festival will run from Thursday, May 8, to Sunday, May 11, with screenings at three venues across the city. [1] Tickets for individual films go on sale on April 14, [2] festival passes, which give access to all screenings, are already available. Visitors are advised to arrive at least twenty minutes before the start of a screening, as latecomers will not be admitted. [3] Question-and-answer sessions with directors will follow selected films, and times will be listed on the festival website. The Riverside Cinema is accessible to wheelchair users, [4] the Old Mill theater has a limited number of places reserved for them near the entrance.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "A full program, including synopses and ratings, can be downloaded from the festival website in the middle of April.",
+          "The festival was first held in 1996 and has since become one of the most important cultural events of the region.",
+          "Food stalls will be set up in the central square, offering dishes from local restaurants and several international cuisines.",
+          "Hotels near the main venue are expected to be fully booked by early April, so early reservation is recommended."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence is about tickets going on sale; the preceding one concerns where to find the program."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "because",
+          "while",
+          "unless",
+          "so"
+        ],
+        "answerIndex": 1,
+        "explanation": "'while' contrasts the date for single tickets with the immediate availability of passes."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Otherwise",
+          "Nevertheless",
+          "In addition",
+          "Instead"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence adds further information on screenings."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "so that",
+          "whereas"
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence contrasts the two venues' access arrangements."
+      }
+    ]
+  },
+  {
+    "id": "p6-266",
+    "documentType": "invoice",
+    "text": "Receipt and Warranty Information – Delta Office Supplies\n\nThank you for your recent purchase. Please keep this document, as it serves as proof of purchase and will be required for any warranty claim. [1] Your office chair, model Ergo 400, is covered by a two-year manufacturer's warranty [2] defects in materials and workmanship. The warranty does not apply to damage caused by misuse, accidents, or modifications made [3] authorization. [4] a fault appears, contact our service department with your invoice number and a description of the problem; a replacement will be sent if the chair cannot be repaired. Orders may be returned within thirty days of purchase if the item is unused and in its original packaging.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The warranty period begins on the date of delivery, which is shown on the delivery note attached to the parcel.",
+          "Delta Office Supplies has been supplying schools and businesses throughout the region for more than thirty years.",
+          "Your invoice includes the cost of delivery and assembly, which were carried out by our own team at your premises.",
+          "Customers who purchase furniture are invited to complete a short satisfaction survey for a chance to win a voucher."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence refers to the warranty, so the previous one provides the warranty's condition."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "among",
+          "against",
+          "between",
+          "beyond"
+        ],
+        "answerIndex": 1,
+        "explanation": "A warranty covers you 'against' defects."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "within",
+          "through",
+          "without",
+          "across"
+        ],
+        "answerIndex": 2,
+        "explanation": "'without authorization' means lacking permission."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Whether",
+          "Although",
+          "Should"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Should a fault appear' is an inverted conditional meaning 'If a fault appears'."
+      }
+    ]
+  },
+  {
+    "id": "p6-267",
+    "documentType": "online_chat",
+    "text": "Customer Service: Welcome to Zenith Travel. How may I assist you today?\nMr. Alonso: Hello. I booked a flight to Osaka for the 12th, but the airline has changed my departure time. [1]\nCustomer Service: I can see the change. Your flight now leaves two hours [2] than the original schedule. Would you like me to look at alternatives?\nMr. Alonso: Yes, please. I have a meeting that afternoon, [3] I need to arrive before noon.\nCustomer Service: There is a flight at 6:40 a.m. with seats available. The fare is the same, [4] you would need to pay a $30 change fee, which I can waive in this case.\nMr. Alonso: That would be great. Please go ahead.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The new schedule means I would miss an important meeting scheduled for the afternoon of my arrival.",
+          "I have flown with this airline several times and have never experienced any significant delays before.",
+          "My hotel reservation is for six nights, and I have already paid a deposit for the room by credit card.",
+          "The airline informed me of the change by e-mail only two days ago, which is much too short a notice."
+        ],
+        "answerIndex": 0,
+        "explanation": "The agent then proposes alternatives, so the customer must state the consequence of the new time."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "early",
+          "earlier",
+          "earliest",
+          "more early"
+        ],
+        "answerIndex": 1,
+        "explanation": "The comparative 'earlier' is needed before 'than'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "but",
+          "or",
+          "so",
+          "for"
+        ],
+        "answerIndex": 2,
+        "explanation": "The meeting is the reason he needs an earlier arrival."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "so that",
+          "although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'although' introduces a fee that does not affect the fare itself."
+      }
+    ]
+  }
+]
