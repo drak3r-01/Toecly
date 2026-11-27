@@ -26,10 +26,11 @@ class AnimatedProgressBar extends StatelessWidget {
         alignment: Alignment.centerLeft,
         child: FractionallySizedBox(
           widthFactor: animated,
+          heightFactor: 1, // without it the empty DecoratedBox collapses to 0 px
           child: DecoratedBox(
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(height),
-              gradient: LinearGradient(colors: [fill.withValues(alpha: 0.7), fill]),
+              gradient: LinearGradient(colors: [fill.withValues(alpha: 0.6), fill]),
             ),
           ),
         ),

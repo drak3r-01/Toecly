@@ -213,13 +213,13 @@ class _Summary extends StatelessWidget {
                   size: 140,
                   child: Text(
                     '${(session.correctCount * 100 / total).round()}%',
-                    style: theme.textTheme.headlineMedium?.copyWith(color: Colors.white),
+                    style: theme.textTheme.headlineMedium,
                   ),
                 ),
                 const SizedBox(height: 16),
                 Text(
                   l10n.quizSummaryScore(session.correctCount, total),
-                  style: theme.textTheme.displaySmall?.copyWith(color: Colors.white),
+                  style: theme.textTheme.displaySmall,
                 ),
               ]),
             ),

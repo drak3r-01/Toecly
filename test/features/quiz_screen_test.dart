@@ -86,6 +86,7 @@ Future<void> pumpQuiz(WidgetTester tester, List<Exercise> exercises, {Size size 
 
 void main() {
   customCountTests();
+  progressBarTests();
   testWidgets('wrong answer: red feedback, right answer in green, explanation unfolds', (tester) async {
     await pumpQuiz(tester, [_p5]);
     expect(find.text('Explanation'), findsNothing);
@@ -269,3 +270,30 @@ Exercise _p5Numbered(int i) => Exercise(
         ),
       ],
     );
+
+void progressBarTests() {
+  testWidgets('the progress bar has a visible height and fills as questions are answered', (tester) async {
+    await pumpQuiz(tester, [_p5, _p5b]);
+    expect(tester.getSize(find.byType(FractionallySizedBox)).height, greaterThan(0));
+    expect(tester.widget<FractionallySizedBox>(find.byType(FractionallySizedBox)).widthFactor, 0);
+
+    await tester.tap(find.text('postponed'));
+    await tester.pumpAndSettle();
+    expect(tester.widget<FractionallySizedBox>(find.byType(FractionallySizedBox)).widthFactor, 0.5);
+    expect(tester.getSize(find.byType(FractionallySizedBox)).width, greaterThan(0));
+  });
+}
+
+const _p5b = Exercise(
+  id: 'p5-y',
+  part: ToeicPart.part5,
+  questions: [
+    Question(
+      id: 'p5-y',
+      prompt: 'Second ___.',
+      choices: ['a', 'b', 'c', 'd'],
+      answerIndex: 0,
+      explanation: 'x',
+    ),
+  ],
+);

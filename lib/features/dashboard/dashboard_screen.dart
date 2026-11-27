@@ -102,31 +102,47 @@ class _PartCard extends StatelessWidget {
         if (stats.forCategory(part, category).answered > 0) category,
     ];
 
+    final partNumber = part.name.replaceAll(RegExp(r'\D'), '');
     return Card(
       child: Padding(
-        padding: const EdgeInsets.all(16),
-        child: Column(
+        padding: const EdgeInsets.all(18),
+        child: Row(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            _RateRow(
-              label: l10n.partTitle(part),
-              count: total,
-              style: theme.textTheme.titleMedium,
-              height: 12,
-              color: accent,
+            ScoreGauge(
+              value: total.rate,
+              size: 64,
+              stroke: 8,
+              colors: [accent.withValues(alpha: 0.55), accent],
+              child: Text(partNumber, style: theme.textTheme.titleLarge),
             ),
-            if (categories.isNotEmpty) const SizedBox(height: 8),
-            for (final category in categories)
-              Padding(
-                padding: const EdgeInsets.only(top: 6),
-                child: _RateRow(
-                  label: l10n.categoryName(category),
-                  count: stats.forCategory(part, category),
-                  style: theme.textTheme.bodyMedium,
-                  height: 6,
-                  color: accent,
-                ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  _RateRow(
+                    label: l10n.partTitle(part),
+                    count: total,
+                    style: theme.textTheme.titleMedium,
+                    height: 12,
+                    color: accent,
+                  ),
+                  if (categories.isNotEmpty) const SizedBox(height: 8),
+                  for (final category in categories)
+                    Padding(
+                      padding: const EdgeInsets.only(top: 6),
+                      child: _RateRow(
+                        label: l10n.categoryName(category),
+                        count: stats.forCategory(part, category),
+                        style: theme.textTheme.bodyMedium,
+                        height: 6,
+                        color: accent,
+                      ),
+                    ),
+                ],
               ),
+            ),
           ],
         ),
       ),
@@ -181,7 +197,6 @@ class _ScoreHero extends StatelessWidget {
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context);
     final theme = Theme.of(context);
-    TextStyle? white(TextStyle? style) => style?.copyWith(color: Colors.white);
     final middle = range == null ? 0.0 : (range!.min + range!.max) / 2 / 495;
 
     final texts = Column(
@@ -194,21 +209,21 @@ class _ScoreHero extends StatelessWidget {
                 ? l10n.estimatedScoreEmpty
                 : l10n.estimatedScoreRange(range!.min, range!.max),
             key: ValueKey(range),
-            style: white(theme.textTheme.displaySmall),
+            style: theme.textTheme.displaySmall,
           ),
         ),
         const SizedBox(height: 8),
-        Text(l10n.estimatedTotalTitle, style: white(theme.textTheme.labelLarge)),
+        Text(l10n.estimatedTotalTitle, style: theme.textTheme.labelLarge),
         Text(
           range == null
               ? l10n.estimatedTotalEmpty
               : l10n.estimatedTotalRange(range!.doubled.min, range!.doubled.max),
-          style: white(theme.textTheme.headlineSmall),
+          style: theme.textTheme.headlineSmall,
         ),
         const SizedBox(height: 4),
         Text(
           l10n.estimatedScoreDisclaimer,
-          style: theme.textTheme.bodySmall?.copyWith(color: Colors.white70),
+          style: theme.textTheme.bodySmall,
         ),
         const SizedBox(height: 16),
         Wrap(
@@ -225,7 +240,7 @@ class _ScoreHero extends StatelessWidget {
     return BrandHeroCard(
       child: LayoutBuilder(
         builder: (context, constraints) {
-          final gauge = ScoreGauge(value: middle, size: 96);
+          final gauge = ScoreGauge(value: middle, size: 120, stroke: 16);
           if (constraints.maxWidth < 440) {
             return Column(
               children: [
@@ -258,7 +273,7 @@ class _HeroChip extends StatelessWidget {
   Widget build(BuildContext context) {
     return DecoratedBox(
       decoration: BoxDecoration(
-        color: Colors.white.withValues(alpha: 0.16),
+        color: BrandColors.amber.withValues(alpha: 0.18),
         borderRadius: BorderRadius.circular(100),
       ),
       child: Padding(
@@ -266,12 +281,12 @@ class _HeroChip extends StatelessWidget {
         child: Row(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Icon(icon, size: 18, color: Colors.white),
+            Icon(icon, size: 18, color: Theme.of(context).colorScheme.primary),
             const SizedBox(width: 6),
             Flexible(
               child: Text(
                 label,
-                style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w600),
+                style: const TextStyle(fontWeight: FontWeight.w600),
               ),
             ),
           ],

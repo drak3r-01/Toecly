@@ -15,19 +15,19 @@ class AppTheme {
 
   static ThemeData _build(Brightness brightness) {
     final isDark = brightness == Brightness.dark;
-    final scheme = ColorScheme.fromSeed(seedColor: BrandColors.green, brightness: brightness)
+    final scheme = ColorScheme.fromSeed(seedColor: BrandColors.amber, brightness: brightness)
         .copyWith(
-          primary: isDark ? const Color(0xFF3DDC8B) : BrandColors.forest,
-          onPrimary: isDark ? BrandColors.ink : Colors.white,
-          secondary: isDark ? const Color(0xFFFF9A4D) : const Color(0xFFD95F0A),
-          tertiary: isDark ? const Color(0xFF2FD3B5) : const Color(0xFF04806B),
-          surface: isDark ? BrandColors.ink : const Color(0xFFF6F8F2),
-          onSurface: isDark ? const Color(0xFFEAF5EE) : BrandColors.ink,
-          surfaceContainerLow: isDark ? BrandColors.inkRaised : Colors.white,
-          surfaceContainer: isDark ? BrandColors.inkRaised : Colors.white,
-          surfaceContainerHighest: isDark ? const Color(0xFF1B4536) : const Color(0xFFE4EEDF),
-          primaryContainer: isDark ? const Color(0xFF14543C) : const Color(0xFFCDF1DC),
-          onPrimaryContainer: isDark ? const Color(0xFFCDF1DC) : const Color(0xFF053B22),
+          primary: isDark ? const Color(0xFFFFB454) : const Color(0xFFF28A0F),
+          onPrimary: BrandColors.cocoa,
+          secondary: isDark ? const Color(0xFFFF8A75) : const Color(0xFFE5483A),
+          tertiary: isDark ? const Color(0xFF4FD6C0) : const Color(0xFF16907F),
+          surface: isDark ? BrandColors.cocoa : BrandColors.cream,
+          onSurface: isDark ? const Color(0xFFFFF1E0) : BrandColors.cocoa,
+          surfaceContainerLow: isDark ? BrandColors.cocoaRaised : Colors.white,
+          surfaceContainer: isDark ? BrandColors.cocoaRaised : Colors.white,
+          surfaceContainerHighest: isDark ? const Color(0xFF4A3426) : const Color(0xFFFCEBD3),
+          primaryContainer: isDark ? const Color(0xFF5A3A1E) : BrandColors.peach,
+          onPrimaryContainer: isDark ? const Color(0xFFFFE3C4) : const Color(0xFF4A2A06),
         );
     final base = ThemeData(useMaterial3: true, colorScheme: scheme, fontFamily: bodyFont);
 
@@ -87,6 +87,9 @@ class AppTheme {
         indicatorColor: scheme.primaryContainer,
         indicatorShape: const StadiumBorder(),
         height: 72,
+        elevation: 0,
+        shadowColor: Colors.transparent,
+        surfaceTintColor: Colors.transparent,
         labelTextStyle: WidgetStatePropertyAll(
           TextStyle(fontFamily: bodyFont, fontSize: 12, fontWeight: FontWeight.w700),
         ),
