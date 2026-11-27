@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p6-424",
+    "documentType": "memo",
+    "text": "To: Department Heads\nFrom: Rafaela Quintero, Chief Financial Officer\nSubject: Capital expenditure requests for the coming year\n\nThe finance committee will begin reviewing capital expenditure requests for the next financial year on 2 October. To enable a fair comparison between projects, all requests must be submitted on the revised template, which requires a payback estimate and a statement of the risks involved. [1]\n\nRequests exceeding £250,000 will be [2] to a second-stage review by the board. Departments should bear in mind that the total available budget is expected to be roughly 15 percent lower than this year's. [3] , projects that cannot demonstrate a clear return within three years are unlikely to be approved. Submissions that arrive after the deadline will not be [4] under any circumstances.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Incomplete or inconsistent submissions will be returned to the originating department and will not be scheduled for review.",
+          "Incomplete or inconsistent submissions will be reviewed by the originating department and will be scheduled for approval.",
+          "Complete and consistent submissions will be returned to the originating department and will not be scheduled for review.",
+          "Incomplete or inconsistent submissions were returned to the originating department before the review was scheduled."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence follows the requirement to use the revised template, so it should state the consequence of not complying. The others make the department review its own submission, penalize complete submissions, or use a past tense that does not fit a forthcoming procedure."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "subjugated",
+          "subjected",
+          "subscribed",
+          "surrendered"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Subjected to a review' means made to undergo one; 'subjugated' means conquered, 'subscribed' needs 'to' in a different sense, and 'surrendered' means gave up."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Nevertheless",
+          "Alternatively",
+          "Consequently",
+          "Likewise"
+        ],
+        "answerIndex": 2,
+        "explanation": "The shrinking budget leads logically to the strict approval rule, which 'consequently' expresses; 'nevertheless' and 'alternatively' contradict that logic, and 'likewise' adds a parallel point."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "entailed",
+          "entrusted",
+          "enacted",
+          "entertained"
+        ],
+        "answerIndex": 3,
+        "explanation": "A late submission 'will not be entertained', meaning considered; 'entailed' means involved, 'entrusted' means assigned, and 'enacted' means passed into law."
+      }
+    ]
+  },
+  {
+    "id": "p6-425",
+    "documentType": "article",
+    "text": "Cities Experiment With Congestion Charging for Delivery Vans\n\nSeveral European cities are considering levies on delivery vans entering their central districts, a measure that planners say could reduce traffic by up to a tenth. The proposal reflects a [1] growth in online shopping, which has put thousands of additional vehicles on streets that were designed for far fewer.\n\n[2] Logistics firms have objected that the charge would be passed on to consumers. [3] , the transport authority in Antwerp maintains that a modest levy is preferable to the alternative of banning vans from certain streets altogether. Early results from a pilot suggest that operators respond to charges by consolidating deliveries, [4] reducing the number of journeys without raising prices.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "steady",
+          "stationary",
+          "static",
+          "sedate"
+        ],
+        "answerIndex": 0,
+        "explanation": "A 'steady growth' is continuous and regular; 'stationary' and 'static' mean not moving or changing, and 'sedate' means calm."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The idea has provoked considerable agreement, however, with trade associations and environmental groups reaching opposite conclusions.",
+          "The idea has provoked considerable debate, however, with trade associations and environmental groups reaching opposite conclusions.",
+          "The idea has provoked considerable debate, therefore, with trade associations and environmental groups reaching the same conclusion.",
+          "The idea provoked considerable debate, however, when trade associations and environmental groups reached opposite conclusions last year."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence reports an objection by logistics firms, so the previous one must present debate. The others claim agreement, use 'therefore' with a contradictory 'same conclusion', or shift to last year's debate."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Accordingly",
+          "Similarly",
+          "Nevertheless",
+          "Besides"
+        ],
+        "answerIndex": 2,
+        "explanation": "The authority's view contrasts with the firms' objection, which 'nevertheless' marks; 'accordingly' and 'similarly' would present the view as a consequence or a parallel."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "whereas",
+          "although",
+          "rather",
+          "thereby"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Thereby reducing the number of journeys' is a participle phrase giving the result of consolidating deliveries; the others cannot introduce it."
+      }
+    ]
+  },
+  {
+    "id": "p6-426",
+    "documentType": "letter",
+    "text": "Dear Councillor Marsh,\n\nThank you for your letter of 6 June regarding the proposed closure of the Ashby Road recycling center. I should like to assure you that no final decision has been taken. The closure is [1] to the outcome of a public consultation that will run until 31 July.\n\n[2] The center's operating costs have risen by almost 40 percent over five years, whereas the quantity of material deposited has fallen by a quarter. [3] these figures, the council would be failing in its duty if it did not examine alternatives, among them reduced opening hours and a shared facility with the neighboring authority. Residents' views will be [4] before any recommendation is put to the full council.\n\nYours sincerely,\nPatrick Lowe\nHead of Waste Services",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "subject",
+          "subjected",
+          "subjecting",
+          "subjective"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Subject to the outcome' is the fixed expression meaning dependent on it."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The case for change rests on figures that, in the department's view, can reasonably be questioned.",
+          "The case for change rests on figures that, in the department's view, cannot reasonably be ignored.",
+          "The case for no change rests on figures that, in the department's view, cannot reasonably be ignored.",
+          "The case for change rested on figures that, in the department's view, could not reasonably be ignored."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence supplies figures on costs and deposits that justify examining alternatives, so the previous one must introduce them as compelling. The others call them questionable, argue against change, or use a past tense."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "In lieu of",
+          "In excess of",
+          "In view of",
+          "In pursuit of"
+        ],
+        "answerIndex": 2,
+        "explanation": "'In view of these figures' means considering them; 'in lieu of' means instead of, 'in excess of' means more than, and 'in pursuit of' means chasing."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "taken advantage of",
+          "taken for granted",
+          "taken up with",
+          "taken into account"
+        ],
+        "answerIndex": 3,
+        "explanation": "Views are 'taken into account' when they are considered before a decision; the others have different meanings."
+      }
+    ]
+  }
+]

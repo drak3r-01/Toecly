@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p6-430",
+    "documentType": "article",
+    "text": "Coffee Cooperative Seeks Premium Market\n\nA cooperative of smallholder growers in the Ethiopian highlands has signed a three-year contract to supply a European roaster with washed arabica beans. The agreement guarantees a price roughly 30 percent above the prevailing market rate, [1] growers have in the past been vulnerable to sudden falls in world prices.\n\n[2] Farmers have, however, been asked to meet strict standards for sorting and drying, which are inspected by independent auditors twice a season. The cooperative's manager, Selam Tadesse, says the requirements are demanding [3] attainable, and that the premium will more than cover the extra labor. If the harvest falls short, the roaster is under no [4] to buy the full quantity, a clause that some members regard as unfair.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "therefore",
+          "moreover",
+          "hence"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whereas growers have in the past been vulnerable' contrasts the new guarantee with the past; 'therefore', 'moreover' and 'hence' do not express contrast."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The arrangement offers a degree of risk that few producers in the region have previously avoided.",
+          "The arrangement offers a degree of security that few producers in the region have previously enjoyed.",
+          "The arrangement offers a degree of security that most producers in the region have always enjoyed.",
+          "The arrangement offered a degree of security that few producers in the region could previously enjoy."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence begins 'Farmers have, however, been asked', which contrasts a benefit with a burden; only the first option states a benefit. The others describe risk, say that most producers already enjoy it, or use a past tense."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "so",
+          "for",
+          "but",
+          "nor"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Demanding but attainable' links two contrasting adjectives; the others do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "obliteration",
+          "obligatory",
+          "oblivion",
+          "obligation"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Under no obligation to' is the fixed phrase; 'obligatory' is an adjective and the others have unrelated meanings."
+      }
+    ]
+  },
+  {
+    "id": "p6-431",
+    "documentType": "letter",
+    "text": "Dear Ms. Delacroix,\n\nI am writing in connection with the invoice dated 12 March for the installation of the new ventilation system at your Lyon office. When our engineers inspected the work last week, they found that the ducting in the east wing does not [1] with the specification agreed in the contract.\n\n[2] We have therefore instructed the installer to remedy the defects at no additional cost to you. In the meantime, we ask that you [3] payment of the final installment, which falls due on 30 April. [4] the work has been completed to our satisfaction, we shall release the balance in full.\n\nYours sincerely,\nBenedict Aldous\nProject Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "conform",
+          "confirm",
+          "confine",
+          "confront"
+        ],
+        "answerIndex": 0,
+        "explanation": "Work 'conforms with' a specification; 'confirm' means verify, 'confine' means restrict, and 'confront' means face."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "This is a matter on which the contract is silent, and the deviation can be regarded as a minor variation.",
+          "This is a matter on which the contract is explicit, and the deviation cannot be regarded as a minor variation.",
+          "This is a matter on which the contract is explicit, although the deviation can be regarded as a minor variation.",
+          "This was a matter on which the contract was explicit, and the deviation could not be regarded as a minor variation."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says 'We have therefore instructed the installer to remedy the defects', so the previous sentence must justify treating the deviation as serious; only the first does. The others call the contract silent, call the deviation minor, or use a past tense."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "supplant",
+          "suppress",
+          "suspend",
+          "surrender"
+        ],
+        "answerIndex": 2,
+        "explanation": "The client is asked to 'suspend' (temporarily stop) payment of the final installment; 'supplant' means replace, 'suppress' means hold back by force, and 'surrender' means give up."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Albeit",
+          "Unless",
+          "Once"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Once the work has been completed' sets the time at which the balance will be released; 'whereas' contrasts, 'albeit' concedes, and 'unless' reverses the meaning."
+      }
+    ]
+  },
+  {
+    "id": "p6-432",
+    "documentType": "notice",
+    "text": "IMPORTANT INFORMATION FOR ACCOUNT HOLDERS\nNorthgate Building Society\n\nFrom 1 January, the interest rate payable on Flexi-Saver accounts will be reduced from 2.9 percent to 2.4 percent. [1] Customers who hold balances above £50,000 will, however, continue to receive the existing rate until the end of the financial year.\n\nWe recognize that this change is [2] for savers who rely on interest as a source of income. Those who would prefer to move their funds elsewhere may do so without penalty before the new rate takes effect. [3] you give notice otherwise, your account will remain open on the revised terms. Further details are available at any branch, [4] you may telephone our helpline during office hours.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The change follows a reduction in the base rate set by the central bank, which has narrowed the margin on our lending.",
+          "The change follows an increase in the base rate set by the central bank, which has widened the margin on our lending.",
+          "The change follows concerns about the size of the building society, which has doubled the number of its branches.",
+          "The change will be explained to staff in training sessions, which have been arranged at each branch for December."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'Customers who hold balances above £50,000 will, however, continue', so the previous one should explain a general reduction. Only the first gives a coherent cause for a lower rate; an increase in the base rate would not justify it, and the others are irrelevant."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "unwilling",
+          "unwelcome",
+          "unworthy",
+          "unwieldy"
+        ],
+        "answerIndex": 1,
+        "explanation": "A rate cut is 'unwelcome' to savers; 'unwilling' describes people, 'unworthy' means undeserving, and 'unwieldy' means awkward to handle."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Because",
+          "Unless",
+          "Although"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Unless you give notice otherwise, your account will remain open' states the default; 'whereas', 'because' and 'although' would reverse or distort that logic."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "whether",
+          "nor",
+          "or"
+        ],
+        "answerIndex": 3,
+        "explanation": "'At any branch, or you may telephone' joins two alternative ways of obtaining details; the others do not link alternatives."
+      }
+    ]
+  }
+]

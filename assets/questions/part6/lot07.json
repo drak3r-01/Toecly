@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p6-427",
+    "documentType": "job_ad",
+    "text": "Operations Analyst – Fenwick Freight Solutions\n\nFenwick Freight Solutions, a family-owned haulier with depots in six countries, is expanding its analytics team. We are looking for an Operations Analyst who will [1] raw shipment data into clear recommendations for depot managers.\n\n[2] You will work alongside experienced planners, and you will be encouraged to challenge established practice where the evidence supports a different approach. The post suits a candidate with a quantitative degree and at least two years' experience of logistics or a related field. [3] prior knowledge of our routing software is not required, applicants must be [4] with advanced spreadsheet functions and at least one query language.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "translate",
+          "transcend",
+          "transmit",
+          "transplant"
+        ],
+        "answerIndex": 0,
+        "explanation": "Analysts 'translate' data into recommendations, meaning convert it; 'transcend' means go beyond, 'transmit' means send, and 'transplant' means move."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The role offers an unusually indirect route from analysis to action, since managers act on most recommendations within a year.",
+          "The role offers an unusually direct route from analysis to action, since managers act on most recommendations within a week.",
+          "The role offers an unusually direct route from analysis to action, although managers rarely act on recommendations.",
+          "The role offered an unusually direct route from analysis to action, since managers acted on most recommendations within a week."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says the analyst will work with planners and challenge practice, which presupposes real influence; only the first option gives that. The others describe an indirect route, say managers ignore recommendations, or use a past tense."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Provided",
+          "While",
+          "Whenever"
+        ],
+        "answerIndex": 2,
+        "explanation": "'While prior knowledge ... is not required' concedes a limit before the stronger demand; 'because' and 'whenever' do not fit, and 'provided' needs 'that'."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "prolific",
+          "profound",
+          "prominent",
+          "proficient"
+        ],
+        "answerIndex": 3,
+        "explanation": "A candidate must be 'proficient with' functions, meaning skilled; 'prolific' means productive, 'profound' means deep, and 'prominent' means well known."
+      }
+    ]
+  },
+  {
+    "id": "p6-428",
+    "documentType": "web_page",
+    "text": "Aldwych Concert Hall – Ticket Exchange and Refund Policy\n\nTickets may be exchanged for another performance of the same program up to forty-eight hours before the start, [1] a fee of £5 per ticket. Exchanges are subject to availability, and no refund will be made where the replacement performance carries a lower price.\n\n[2] Where a performance is canceled by the hall, ticket holders will be offered a full refund or a credit valid for twelve months. The hall cannot, [3], accept responsibility for travel or accommodation costs incurred by patrons. Patrons who are unable to attend because of illness may request a credit, [4] they supply a medical certificate within seven days of the performance.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "subject to",
+          "subjected to",
+          "subjecting to",
+          "subject for"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Subject to a fee' means on payment of one; 'subjected to' implies suffering, and the other forms are ungrammatical."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The hall reserves the right to substitute artists or alter programs, in which case an exchange or refund will be offered.",
+          "The hall reserves the right to substitute artists or alter programs, in which case no exchange or refund will be offered.",
+          "The hall reserves the right to change the date or venue, in which case no exchange or refund will be offered.",
+          "The hall reserved the right to substitute artists, in which case no exchange or refund was offered."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence contrasts with the previous one: 'Where a performance is canceled' gives a different outcome (refund). So the previous sentence must state a case where no refund applies; only the first does. The others offer a refund, change the date, or use a past tense."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "moreover",
+          "however",
+          "similarly"
+        ],
+        "answerIndex": 2,
+        "explanation": "'The hall cannot, however, accept responsibility' contrasts with the refund promise; 'therefore', 'moreover' and 'similarly' do not."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "as though",
+          "in case",
+          "on account of",
+          "provided that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Provided that they supply a medical certificate' sets the condition for the credit; the others misstate the logic or are not conjunctions of condition."
+      }
+    ]
+  },
+  {
+    "id": "p6-429",
+    "documentType": "email",
+    "text": "Subject: Revised timetable for the audit\n\nDear Mr. Hallström,\n\nFurther to your request, I have revised the timetable for the interim audit of your Gothenburg subsidiary. Fieldwork will now begin on 9 October, [1] a week later than originally planned, to accommodate the system migration that your team has scheduled for the preceding weekend.\n\n[2] The delay will not affect the date of the final report, as we propose to run the testing of controls and the review of inventory counts in parallel. [3] you could confirm by Wednesday that the migration is on schedule, we shall be able to book the necessary staff. Should the date change again, we would [4] the right to adjust our fee accordingly.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "that is",
+          "namely",
+          "moreover",
+          "otherwise"
+        ],
+        "answerIndex": 0,
+        "explanation": "'That is, a week later than originally planned' restates the date in other words; 'namely' introduces a list and 'moreover' and 'otherwise' do not clarify."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "I appreciate that this arrangement is ideal, but it should maximize disruption to your own finance staff.",
+          "I appreciate that this arrangement is not ideal, but it should minimize disruption to your own finance staff.",
+          "I appreciate that this arrangement is not ideal, and it should minimize disruption to our own audit staff.",
+          "I appreciated that this arrangement was not ideal, but it minimized disruption to your own finance staff."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence reassures the client that the final report date is unaffected, continuing a conciliatory tone. Only the first sentence is consistent: it concedes the drawback and promises minimal disruption. The others are illogical, change the subject to audit staff, or use a past tense."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "I would be grateful that",
+          "I am grateful if",
+          "I should be grateful if",
+          "I was grateful if"
+        ],
+        "answerIndex": 2,
+        "explanation": "'I should be grateful if you could confirm' is the standard polite request; the others are ungrammatical or inappropriate."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "reverse",
+          "reserved",
+          "reservation",
+          "reserve"
+        ],
+        "answerIndex": 3,
+        "explanation": "The firm will 'reserve the right' to adjust its fee; after 'would' the base verb is required."
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p6-437",
+    "documentType": "memo",
+    "text": "To: All Employees\nFrom: Marta Szymanski, Facilities Director\nSubject: Transition to hot-desking\n\nFrom 3 March, the third and fourth floors will operate on a hot-desking basis. Employees who work in the office fewer than three days a week will no longer be assigned a permanent desk and will instead reserve a workstation through the booking application. [1] Personal belongings must be stored in the lockers provided, since desks will be cleared nightly.\n\nThe change is intended to [2] the use of floor space, which on average is occupied at barely half its capacity. [3] some staff may initially find the arrangement unsettling, the experience of other companies suggests that satisfaction rises once teams adapt. Team leaders will [4] a rota to ensure that colleagues who collaborate closely are seated together on the days they attend.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The booking system will release unclaimed desks at nine each morning so that no one is left without a workstation.",
+          "The booking system will reserve unclaimed desks at nine each morning so that no one is allowed to take a workstation.",
+          "Permanent desks will be released at nine each morning so that the system can allocate them to new employees.",
+          "The lockers will be cleared at nine each morning so that unclaimed belongings are returned to employees."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says belongings must be stored in lockers because desks are cleared nightly, so the previous one should concern desk allocation. Only the first gives a coherent rule; the others reserve desks to nobody, release permanent desks, or clear lockers."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "organize",
+          "optimize",
+          "overhaul",
+          "outsource"
+        ],
+        "answerIndex": 1,
+        "explanation": "To 'optimize' use of floor space is to make the best of it; 'organize', 'overhaul' and 'outsource' do not match the stated aim of reducing waste."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Whereas"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although some staff may initially find the arrangement unsettling' concedes a drawback before the positive claim; the others do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "draw on",
+          "draw out",
+          "draw back",
+          "draw up"
+        ],
+        "answerIndex": 3,
+        "explanation": "Team leaders 'draw up' a rota, meaning prepare it; 'draw on' means use, 'draw out' means extend, and 'draw back' means retreat."
+      }
+    ]
+  },
+  {
+    "id": "p6-438",
+    "documentType": "notice",
+    "text": "URGENT PRODUCT RECALL\nBrightwell Home Appliances\n\nBrightwell has identified a fault in the thermostat of its Model T-40 electric kettle, manufactured between January and June last year. [1] In rare cases, the fault may prevent the kettle from switching itself off after the water has boiled, which could result in overheating.\n\nOwners are advised to stop using the kettle immediately and to [2] the product to the retailer from which it was bought, or to contact our customer service team. A replacement or full refund will be provided [3] proof of purchase. [4] no injuries have been reported to date, we are taking this action as a precaution.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The affected units can be recognized by a batch number beginning with the letters BK, printed on the underside of the base.",
+          "The affected units can be recognized by a batch number beginning with the letters BK, printed on the packaging of the replacement.",
+          "The affected units were recognized by a batch number beginning with the letters BK, printed on the underside of the base.",
+          "The unaffected units can be recognized by a batch number beginning with the letters BK, printed on the underside of the base."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'In rare cases, the fault may prevent', continuing the description of the affected product; the first option tells owners how to identify it. The others place the number on replacement packaging, use a past tense, or refer to unaffected units."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "retain",
+          "return",
+          "retreat",
+          "retire"
+        ],
+        "answerIndex": 1,
+        "explanation": "Owners should 'return' the product to the retailer; 'retain' means keep, 'retreat' means withdraw, and 'retire' means stop working."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "in pursuit of",
+          "in excess of",
+          "on presentation of",
+          "on behalf of"
+        ],
+        "answerIndex": 2,
+        "explanation": "A refund is given 'on presentation of' proof of purchase, meaning when it is shown; 'in pursuit of' means chasing, 'in excess of' means above, and 'on behalf of' means representing."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Whenever",
+          "Although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Although no injuries have been reported' concedes the absence of harm before stating the precautionary action; the others do not fit."
+      }
+    ]
+  }
+]

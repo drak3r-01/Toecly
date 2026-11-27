@@ -1,0 +1,222 @@
+[
+  {
+    "id": "p6-433",
+    "documentType": "email",
+    "text": "To: Research and Development Staff\nFrom: Dr. Anneke Visser, Director of Innovation\nSubject: Patent filing procedure\n\nFollowing recent enquiries about intellectual property, I should like to set out the procedure that applies whenever a staff member believes that a new invention has been made. The first step is to submit an invention disclosure form to the legal department, [1] before any details are discussed with outside parties.\n\n[2] A premature public disclosure, whether in a publication or at a conference, may render the invention unpatentable. Once the form has been received, the legal team will [3] a search of existing patents and will advise whether an application is worthwhile. Employees are reminded that inventions made in the course of their employment belong to the company, [4] any royalties payable to the inventor are governed by a separate scheme.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "preferably",
+          "preferable",
+          "preferred",
+          "preference"
+        ],
+        "answerIndex": 0,
+        "explanation": "An adverb is needed to modify the time phrase 'before any details are discussed'; 'preferably' means ideally."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Delays matter a great deal in this process, because the cost of a patent can be recovered through licensing.",
+          "Timing matters a great deal in this process, because the right to a patent can be lost through carelessness.",
+          "Disclosure forms matter a great deal in this process, because the legal team can reject them through inattention.",
+          "Patents matter a great deal in this process, because inventors can be rewarded through royalties."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says that a premature disclosure may render the invention unpatentable, so the previous one must introduce the risk of losing patent rights through timing. The others discuss cost recovery, rejection of forms, or rewards, which that sentence does not support."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "construct",
+          "conclude",
+          "conduct",
+          "condense"
+        ],
+        "answerIndex": 2,
+        "explanation": "A legal team 'conducts' a search, meaning carries one out; 'construct' means build, 'conclude' means finish, and 'condense' means shorten."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "so",
+          "although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Although any royalties ... are governed by a separate scheme' concedes that ownership lies with the company yet rewards are handled separately; the others change the logic."
+      }
+    ]
+  },
+  {
+    "id": "p6-434",
+    "documentType": "web_page",
+    "text": "Pennine Mutual Insurance – Making a Claim\n\nIf you need to make a claim, please contact us as soon as reasonably possible. [1] Delay may prejudice your claim, particularly where evidence has to be gathered at the scene of an incident, and we are entitled to reduce a settlement if late notification has affected our ability to investigate.\n\nOn receiving your claim, we will assign a case handler who will be your single point of contact. Where the loss exceeds £10,000, an independent assessor [2] be appointed. We aim to settle straightforward claims within ten working days; [3], complex cases may take considerably longer. You should not authorize repairs [4] you have received our written approval.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "We recommend that you notify us within forty-eight hours of becoming aware of the loss or damage.",
+          "We recommend that you notify us within forty-eight hours of becoming aware of the loss or the policy.",
+          "We recommend that you notify the police within forty-eight hours of becoming aware of the loss or damage.",
+          "We recommended that you notified us within forty-eight hours of becoming aware of the loss."
+        ],
+        "answerIndex": 0,
+        "explanation": "The following sentence says 'Delay may prejudice your claim', so the previous one should give the time limit for notifying the insurer; the others mention the policy, the police, or use a past tense."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "might",
+          "may",
+          "shall",
+          "will not"
+        ],
+        "answerIndex": 1,
+        "explanation": "'May be appointed' expresses a possibility, matching the conditional 'Where the loss exceeds £10,000'; 'might' is weaker, 'shall' is too absolute, and 'will not' reverses the sense."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "accordingly",
+          "however",
+          "likewise"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence contrasts straightforward with complex claims; 'however' marks the contrast, whereas the others do not."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "whereas",
+          "although",
+          "until"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Until you have received our written approval' sets the time limit for the ban on repairs; 'unless' would need a different structure and the others do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-435",
+    "documentType": "letter",
+    "text": "Dear Mr. Abernathy,\n\nI write further to your letter of 3 September concerning the noise generated by our night-time deliveries. Please accept my apologies that this has disturbed you and your neighbors. We have reviewed our schedule and concluded that deliveries to the loading bay can be [1] to the hours between 7 a.m. and 8 p.m. from the first of next month.\n\n[2] The change will, however, inevitably bring some additional vehicles onto the road during the day, which may be a [3] to residents who commute at those times. We would be grateful if you would [4] us know whether you notice any difficulty, so that we may adjust the arrangements if necessary.\n\nYours sincerely,\nCorinna Hale\nSite Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "confined",
+          "conformed",
+          "confirmed",
+          "confided"
+        ],
+        "answerIndex": 0,
+        "explanation": "Deliveries can be 'confined to' certain hours, meaning limited; 'conformed' needs 'with', 'confirmed' means verified, and 'confided' means told in secret."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "We hope that this will aggravate the problem you have described, although we cannot promise that it will be removed entirely.",
+          "We hope that this will resolve the problem you have described, although we cannot promise that it will be removed entirely.",
+          "We hope that this will resolve the problem described by the council, although we cannot promise that it will be removed entirely.",
+          "We hoped that this would resolve the problem you described, although we could not promise that it would be removed entirely."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence begins 'The change will, however, inevitably bring', contrasting with a benefit; the first sentence expresses a hoped-for benefit. The others say the change will aggravate the problem, attribute it to the council, or use past tenses."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "novelty",
+          "nomination",
+          "nuisance",
+          "notation"
+        ],
+        "answerIndex": 2,
+        "explanation": "A 'nuisance to residents' is an inconvenience; the other nouns have unrelated meanings."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "make",
+          "tell",
+          "inform",
+          "let"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Let us know' is the fixed expression requiring the base verb 'let'; 'make us know' is not idiomatic and 'tell us know' is ungrammatical."
+      }
+    ]
+  },
+  {
+    "id": "p6-436",
+    "documentType": "article",
+    "text": "Why Universities Are Rethinking Their Grading\n\nA growing number of universities are replacing traditional percentage marks with broader grade bands, arguing that fine distinctions give a false impression of precision. Critics, [1], object that employers rely on detailed marks to identify the strongest candidates.\n\n[2] A study of twelve institutions found that the difference between two students whose marks differed by a single point was statistically meaningless. Supporters also contend that narrower scales encourage students to [3] genuine understanding rather than the pursuit of marginal gains. Whether employers will [4] to the change remains uncertain, since many recruitment systems still filter applicants by a numerical threshold.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "by contrast",
+          "in short",
+          "for instance",
+          "as a result"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Critics, by contrast, object' sets the critics against the universities; 'in short', 'for instance' and 'as a result' do not mark opposition."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The case against the reform rests largely on evidence that small differences in marks reflect ability rather than chance.",
+          "The case for the reform rests largely on evidence that small differences in marks reflect chance rather than ability.",
+          "The case for the reform rests largely on its popularity among students rather than evidence about marks.",
+          "The cause of the reform lies largely in evidence that small differences in marks are reported to employers."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence cites a study showing that a one-point difference was meaningless, which supports the case for the reform; only the first option announces that evidence. The others argue against the reform, rely on popularity, or confuse cause and case."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "patronize",
+          "publicize",
+          "prioritize",
+          "polarize"
+        ],
+        "answerIndex": 2,
+        "explanation": "Narrower scales encourage students to 'prioritize' understanding, meaning give it importance; 'patronize', 'publicize' and 'polarize' do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "adopt",
+          "adept",
+          "adjoin",
+          "adapt"
+        ],
+        "answerIndex": 3,
+        "explanation": "Employers can 'adapt to' a change, meaning adjust; 'adopt' takes a direct object without 'to', 'adept' is an adjective, and 'adjoin' means be next to."
+      }
+    ]
+  }
+]
