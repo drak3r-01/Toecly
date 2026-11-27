@@ -21,6 +21,20 @@ void main() {
     expect(await repository.countQuestions(ToeicPart.part6), 24);
   });
 
+  test('shuffles the choices of drawn questions and keeps the right answer', () async {
+    final stock = fakeFullStock();
+    final originals = {for (final e in stock) for (final q in e.questions) q.id: q};
+    final drawn = await repositoryOf(stock).drawMockExam();
+    var moved = 0;
+    for (final question in drawn.expand((e) => e.questions)) {
+      final original = originals[question.id]!;
+      expect([...question.choices]..sort(), [...original.choices]..sort());
+      expect(question.choices[question.answerIndex], original.choices[original.answerIndex]);
+      if (question.answerIndex != original.answerIndex) moved++;
+    }
+    expect(moved, greaterThan(0));
+  });
+
   test('the stock is loaded only once', () async {
     var loads = 0;
     final repository = ExerciseRepository(() async {

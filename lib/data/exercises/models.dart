@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import '../../core/toeic_part.dart';
 
 /// Kind of document shown in Parts 6 and 7. Drives how it is rendered.
@@ -103,6 +105,19 @@ class Question {
   final int answerIndex;
   final String explanation;
   final QuestionCategory? category;
+
+  /// Copy with the choices in random order and [answerIndex] following the right answer.
+  Question shuffled(Random random) {
+    final order = List<int>.generate(choices.length, (i) => i)..shuffle(random);
+    return Question(
+      id: id,
+      prompt: prompt,
+      choices: [for (final i in order) choices[i]],
+      answerIndex: order.indexOf(answerIndex),
+      explanation: explanation,
+      category: category,
+    );
+  }
 }
 
 /// A self-contained block shown together on screen: a sentence, a text with
@@ -126,4 +141,13 @@ class Exercise {
 
   /// Part 7 with several linked documents.
   bool get isMultiDocument => documents.length > 1;
+
+  /// Copy whose questions have their choices shuffled.
+  Exercise shuffled(Random random) => Exercise(
+        id: id,
+        part: part,
+        documents: documents,
+        questions: [for (final q in questions) q.shuffled(random)],
+        audioAsset: audioAsset,
+      );
 }
