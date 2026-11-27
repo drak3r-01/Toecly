@@ -1,0 +1,542 @@
+[
+  {
+    "id": "p7-276",
+    "documents": [
+      {
+        "type": "article",
+        "title": "A museum rethinks what it means to own a masterpiece",
+        "text": "The Hallam Museum's decision to lend its most celebrated painting to a rival institution for five years has provoked a surprising amount of anger among its own members. The work, a seventeenth-century interior by a Dutch master, has hung in the same room since 1921 and appears on the museum's posters, tote bags and annual report.\n\nThe director, Camille Reyes, defends the arrangement as a matter of arithmetic. The loan will bring in a sum equal to nearly a tenth of the annual budget, enough to repair the roof of the east wing, which has leaked for a decade. In return the Hallam will receive on loan a group of sculptures it could never afford to acquire. \"A collection is not a vault,\" she said. \"Its purpose is to be seen, and a picture that stays put is seen by fewer people than one that travels.\"\n\nCritics find this reasoning too convenient. They note that the painting is the museum's chief attraction, and that visitor numbers are likely to fall once it has gone. Some members have threatened to cancel their subscriptions. Ms. Reyes concedes that she cannot rule out a decline, but she points out that two earlier lending programs, which were also controversial, ended with higher attendance than before. Whether the same will be true here depends, she admits, on how persuasive the replacement exhibition proves."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The sale of a famous painting to a rival museum",
+          "The discovery of a lost seventeenth-century painting",
+          "A museum's debated loan of its best-known work",
+          "The closure of the museum's east wing for repairs"
+        ],
+        "answerIndex": 2,
+        "explanation": "The Hallam is lending its famous painting for five years, and members are upset."
+      },
+      {
+        "prompt": "How will the money from the loan be used?",
+        "category": "detail",
+        "choices": [
+          "To mend the leaking roof of one wing",
+          "To buy sculptures from the rival institution",
+          "To lower the price of membership subscriptions",
+          "To print posters and annual reports"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sum is enough to repair the roof of the east wing."
+      },
+      {
+        "prompt": "What does Ms. Reyes imply with 'A collection is not a vault'?",
+        "category": "inference",
+        "choices": [
+          "The museum should lock away its best pieces",
+          "Paintings should never leave their original rooms",
+          "Members have no right to criticize a collection",
+          "Art is justified by being widely displayed"
+        ],
+        "answerIndex": 3,
+        "explanation": "She argues a collection's purpose 'is to be seen', and that traveling art reaches more people."
+      },
+      {
+        "prompt": "What can be inferred from her mention of two earlier programs?",
+        "category": "inference",
+        "choices": [
+          "She regrets having launched those earlier loan programs",
+          "She hopes attendance will rise despite the loss",
+          "Those programs lost a great deal of money",
+          "She is certain that visitor numbers will certainly grow"
+        ],
+        "answerIndex": 1,
+        "explanation": "She cannot rule out a decline but notes earlier controversial programs ended with higher attendance."
+      }
+    ]
+  },
+  {
+    "id": "p7-277",
+    "documents": [
+      {
+        "type": "invoice",
+        "title": "Account statement and covering note, Brightwater Catering",
+        "text": "BRIGHTWATER CATERING — STATEMENT OF ACCOUNT\nClient: Orchard Hill Foundation\nEvent: Annual donors' dinner, 18 May, 120 guests\n\nItem / Quantity / Unit price / Amount\nThree-course dinner / 120 / 42.00 / 5,040.00\nVegetarian substitution / 14 / 3.00 / 42.00\nWine package / 120 / 18.50 / 2,220.00\nService staff (hours) / 60 / 22.00 / 1,320.00\nLate-finish surcharge / 1 / 250.00 / 250.00\nSubtotal: 8,872.00\nDeposit received (12 March): 2,000.00\nBalance due by 17 June: 6,872.00\n\nNote from the accounts manager: The late-finish surcharge applies because guests remained in the hall until 11:40 p.m., forty minutes after the agreed closing time. I recognize that the extension was at the request of your chair, and if you wish to dispute the charge I will gladly consider it, provided I receive a written request before the due date. Please also note that the figure for service staff reflects six waiters working ten hours each, as recorded on our timesheets. Payment may be made by bank transfer; a three percent discount applies to any balance settled within ten days of the date of this statement."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the document?",
+        "category": "purpose",
+        "choices": [
+          "To confirm the number of guests who attended",
+          "To bill a client and explain a charge",
+          "To advertise a new wine package for events",
+          "To request a deposit for a future dinner event"
+        ],
+        "answerIndex": 1,
+        "explanation": "It is a statement of account with a note explaining the surcharge."
+      },
+      {
+        "prompt": "Why was the late-finish surcharge applied?",
+        "category": "detail",
+        "choices": [
+          "The staff worked more than ten hours each night",
+          "The wine package was served after midnight",
+          "The chair asked for several additional waiters",
+          "Guests stayed forty minutes past the agreed end"
+        ],
+        "answerIndex": 3,
+        "explanation": "Guests remained until 11:40 p.m., forty minutes after the agreed closing time."
+      },
+      {
+        "prompt": "What can be inferred about the surcharge?",
+        "category": "inference",
+        "choices": [
+          "The manager might remove it if asked in writing",
+          "It has already been paid by the foundation's chair",
+          "It will be doubled if the balance is paid late",
+          "It was not included in the subtotal figure"
+        ],
+        "answerIndex": 0,
+        "explanation": "She says she will gladly consider a dispute, provided a written request arrives before the due date."
+      },
+      {
+        "prompt": "What is NOT true according to the statement?",
+        "category": "not_true",
+        "choices": [
+          "Fourteen guests asked for a vegetarian substitute",
+          "The staff worked sixty hours in total overall",
+          "The balance is higher than the total of the items",
+          "A deposit has already been paid by the client"
+        ],
+        "answerIndex": 2,
+        "explanation": "Subtotal 8,872 minus a 2,000 deposit gives the 6,872 balance, so it is lower than the items' total."
+      }
+    ]
+  },
+  {
+    "id": "p7-278",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Regional logistics summit: revised program, day two",
+        "text": "LOGISTICS FORUM EUROPE — DAY TWO (REVISED)\nVenue: Hall B and the annex rooms, both on the ground floor of the convention center\n\n8:30–9:15 Registration and coffee (foyer)\n9:15–10:15 Keynote: \"Resilience after the port strikes\", Dr. Ana Moreira (Hall B)\n10:15–10:30 Break\n10:30–12:00 Parallel sessions\n  Session 1: Warehouse automation and workforce planning (Hall B)\n  Session 2: Cross-border customs data standards (Room 4)\n  Session 3: Cold-chain compliance for pharmaceuticals (Room 5)\n12:00–1:30 Lunch (restaurant, second floor)\n1:30–3:00 Panel: \"Who pays for a greener supply chain?\" (Hall B)\n3:00–3:30 Break\n3:30–5:00 Workshops (registration required; places limited to 30 each)\n\nChanges from the printed program: Dr. Moreira's keynote has been moved from 2:00 p.m. to the morning because of her flight. Session 3 was formerly scheduled in Room 2, which is now closed for repairs. The closing reception, previously announced for 5:00 p.m., has been moved to the following morning and will precede the departure of the shuttle buses to the airport."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the document?",
+        "category": "main_idea",
+        "choices": [
+          "To announce the cancellation of the whole forum",
+          "To list all the speakers for the whole summit",
+          "To explain how to reach the venue by train",
+          "To present a revised timetable for one day"
+        ],
+        "answerIndex": 3,
+        "explanation": "It gives a revised program for day two and lists the changes."
+      },
+      {
+        "prompt": "Where will the session on pharmaceutical compliance take place?",
+        "category": "detail",
+        "choices": [
+          "In Room 2",
+          "In Room 5",
+          "In Hall B",
+          "In Room 4"
+        ],
+        "answerIndex": 1,
+        "explanation": "Session 3 is in Room 5; Room 2 is closed."
+      },
+      {
+        "prompt": "What can be inferred about the keynote?",
+        "category": "inference",
+        "choices": [
+          "It was cancelled by the speaker herself",
+          "It replaces the lunch break at noon",
+          "It was first planned for the afternoon",
+          "It will now take place in one of the annex rooms"
+        ],
+        "answerIndex": 2,
+        "explanation": "The keynote 'has been moved from 2:00 p.m. to the morning'."
+      },
+      {
+        "prompt": "What is true about the closing reception?",
+        "category": "not_true",
+        "choices": [
+          "It will take place on the evening of day two",
+          "It was originally meant for 5:00 p.m.",
+          "It will come before the airport shuttles leave",
+          "It has been moved to the next morning"
+        ],
+        "answerIndex": 0,
+        "explanation": "It has been moved to the following morning, so it will not be on the evening of day two."
+      }
+    ]
+  },
+  {
+    "id": "p7-279",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Response to a supplier's late-delivery claim",
+        "text": "To: Beatrix Lindqvist, Sales Manager, Norland Components\nFrom: Ahmed Karimi, Procurement, Teverton Machines\nSubject: Your claim regarding late delivery penalties\n\nDear Ms. Lindqvist,\n\nThank you for your email of 4 June, in which you say that we have no grounds to withhold the penalty clause from the contract. I have reviewed the correspondence with my colleagues and cannot accept that conclusion, though I agree that the matter is more nuanced than either of us would like.\n\nYou are correct that the delivery of the gearboxes arrived eleven days late, and that our contract specifies a penalty of one percent per week of delay. However, our records show that the delay began with your own warehouse, which did not ship the order until 20 May, a week after the confirmation date. Moreover, your email of 14 May, which I have attached, explicitly promised dispatch by 17 May. This, in our opinion, is a breach on your side, not a circumstance beyond your control.\n\nI do not wish to turn a long relationship into a quarrel. If you can show that the warehouse delay was caused by a shipping disruption rather than a decision to prioritize another client, I will gladly reconsider. Otherwise, we shall deduct two percent from the June payment, as the contract permits.\n\nSincerely,\nAhmed Karimi"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why is Mr. Karimi writing?",
+        "category": "purpose",
+        "choices": [
+          "To reject a supplier's argument on penalties",
+          "To order a much larger batch of gearboxes",
+          "To complain about the quality of the product",
+          "To confirm that a payment was received in full"
+        ],
+        "answerIndex": 0,
+        "explanation": "He refuses to accept Ms. Lindqvist's conclusion and says a penalty will be deducted."
+      },
+      {
+        "prompt": "How late was the delivery?",
+        "category": "detail",
+        "choices": [
+          "One week",
+          "Three weeks",
+          "Eleven days",
+          "Forty days"
+        ],
+        "answerIndex": 2,
+        "explanation": "The gearboxes arrived eleven days late."
+      },
+      {
+        "prompt": "What does Mr. Karimi suggest about the delay?",
+        "category": "inference",
+        "choices": [
+          "The shipping company lost the original order",
+          "The supplier's own warehouse was likely at fault",
+          "His company changed the order after confirmation",
+          "The delay was caused by customs in another country"
+        ],
+        "answerIndex": 1,
+        "explanation": "The delay 'began with your own warehouse', which shipped a week after the confirmation date."
+      },
+      {
+        "prompt": "Under what condition would he reconsider?",
+        "category": "inference",
+        "choices": [
+          "If the penalty were reduced to one percent a week",
+          "If a new contract were signed for the next year",
+          "If the June payment were made well in advance",
+          "If proof showed a shipping disruption caused it"
+        ],
+        "answerIndex": 3,
+        "explanation": "He would reconsider if the delay was caused by a shipping disruption rather than prioritizing another client."
+      }
+    ]
+  },
+  {
+    "id": "p7-280",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Customer support chat: a billing dispute",
+        "text": "Agent (Lucia) [14:03]: Thank you for contacting Veridian Mobile. How can I help?\n\nCustomer [14:04]: I was charged 79 dollars this month, but my plan is 49. I was told in March that the price was fixed for two years.\n\nLucia [14:06]: Let me look. I can see that a roaming charge of 30 dollars was added on the 11th, when your phone connected to a network in Morocco.\n\nCustomer [14:07]: I was never in Morocco. I was on a ferry, and I turned off data.\n\nLucia [14:09]: That would explain it. Ferries often carry their own mobile networks, which are billed as international roaming even in coastal waters. I'm afraid the charge is technically valid, because the network identified itself as foreign.\n\nCustomer [14:10]: That seems unfair. The contract says nothing about ferries.\n\nLucia [14:12]: I understand. I cannot remove the charge myself, but I can refer it to the disputes team, who have discretion in cases like this. You will hear from them within five working days, and the amount will be held while they decide.\n\nCustomer [14:13]: Fine. Please also add a note that I want a block on roaming in future.\n\nLucia [14:14]: Done. The block will take effect within the hour."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the customer's complaint?",
+        "category": "main_idea",
+        "choices": [
+          "The plan price rose after only two years",
+          "The phone was lost during a ferry crossing",
+          "An unexpected roaming charge raised the bill",
+          "The data was turned off without any permission"
+        ],
+        "answerIndex": 2,
+        "explanation": "The bill was 79 instead of 49 because of a 30-dollar roaming charge."
+      },
+      {
+        "prompt": "Why was the charge applied?",
+        "category": "detail",
+        "choices": [
+          "The phone joined a foreign ferry network",
+          "The customer traveled to Morocco in person",
+          "The plan had been changed by the agent himself",
+          "The data had been left switched on abroad"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ferries carry their own networks, billed as international roaming."
+      },
+      {
+        "prompt": "What does Lucia imply about her own authority?",
+        "category": "inference",
+        "choices": [
+          "She can refund the whole charge at once",
+          "She has no way to record any further note",
+          "She must wait five full days before acting",
+          "She cannot cancel it but can refer it on"
+        ],
+        "answerIndex": 3,
+        "explanation": "She cannot remove the charge herself but can refer it to the disputes team."
+      },
+      {
+        "prompt": "What will happen to the disputed amount?",
+        "category": "detail",
+        "choices": [
+          "It will be deducted from next month's plan price",
+          "It will stay on hold until a decision",
+          "It will be refunded within the next hour",
+          "It will be added to a permanent roaming block"
+        ],
+        "answerIndex": 1,
+        "explanation": "The amount will be held while the disputes team decides."
+      }
+    ]
+  },
+  {
+    "id": "p7-281",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The slow decline of the handwritten letter",
+        "text": "Postal services across Europe report that the volume of personal letters has fallen by more than eighty percent in two decades. Yet the collapse is not as complete as the statistics suggest, because the letters that remain have changed character. Where once a letter carried news, it now carries meaning: condolences, apologies, thanks that the writer feels cannot be sent by message without seeming casual.\n\nResearchers who interviewed two hundred regular letter writers found that most had adopted the habit deliberately, often after a period of illness or bereavement. \"It is the slowness that matters,\" said one participant, a retired engineer. \"A message says that you thought of someone in the last minute. A letter says that you set aside an hour for them.\" Several admitted that they write fewer letters than they once did, but expect each to be kept.\n\nThe economics of the postal service, however, remain grim. Delivering a single letter to an isolated address costs far more than the stamp, and governments are reluctant to subsidize a service that fewer households use. Some have proposed ending daily collection in favor of two or three deliveries a week. Writers, predictably, have objected, though a few concede that a slower post might even suit the form: a letter that arrives on Thursday is no worse for not having arrived on Tuesday."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Postal services are growing in spite of email",
+          "Letters have grown rarer but more meaningful",
+          "Governments plan to abolish all letters altogether",
+          "Letter writers are mostly young professionals"
+        ],
+        "answerIndex": 1,
+        "explanation": "Volume has collapsed, but remaining letters carry meaning rather than news."
+      },
+      {
+        "prompt": "According to the retired engineer, what distinguishes a letter?",
+        "category": "inference",
+        "choices": [
+          "It is cheaper and faster than any message",
+          "It is more private than other forms of contact",
+          "It can be sent to isolated addresses cheaply",
+          "It shows the writer spent real time on them"
+        ],
+        "answerIndex": 3,
+        "explanation": "'A letter says that you set aside an hour for them.'"
+      },
+      {
+        "prompt": "What is the problem for postal services?",
+        "category": "detail",
+        "choices": [
+          "Remote deliveries cost more than stamps bring in",
+          "Stamps have been abolished in most countries now",
+          "Researchers have refused to study the problem further",
+          "Writers send too many letters around the holidays"
+        ],
+        "answerIndex": 0,
+        "explanation": "Delivering to an isolated address 'costs far more than the stamp'."
+      },
+      {
+        "prompt": "What does the last sentence suggest about some writers?",
+        "category": "inference",
+        "choices": [
+          "They want daily collection to continue unchanged",
+          "They plan to stop writing letters altogether soon",
+          "They might accept slower delivery calmly",
+          "They think that Tuesdays are the best days for mail"
+        ],
+        "answerIndex": 2,
+        "explanation": "A few concede that a slower post might suit the form."
+      }
+    ]
+  },
+  {
+    "id": "p7-282",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice of changes to the staff expense policy",
+        "text": "NOTICE TO ALL EMPLOYEES\nEffective 1 September, the company's travel and expense policy will change in three respects.\n\nFirst, advance approval will be required for any hotel stay exceeding 180 dollars per night. Until now, employees could exceed this limit if they justified the cost afterwards; this flexibility has been withdrawn because the number of retrospective explanations has risen sharply and the finance team can no longer review them properly.\n\nSecond, meals during travel will be reimbursed up to a daily allowance of 65 dollars, replacing the previous system of itemized claims. Employees need no longer submit restaurant receipts, but they will be unable to claim more than the allowance, even in expensive cities. The company judges that the reduction in paperwork outweighs the occasional inconvenience.\n\nThird, claims must be submitted within thirty days of the end of the trip. Claims received after this period will be paid only with the written consent of a department head, and no exception will be made for claims older than ninety days.\n\nQuestions should be sent to expenses@harbourtech.example. A summary sheet is available on the intranet."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the notice?",
+        "category": "main_idea",
+        "choices": [
+          "To praise the finance team's recent work",
+          "To invite employees to book cheaper hotels",
+          "To explain how to travel abroad on business",
+          "To announce stricter expense rules"
+        ],
+        "answerIndex": 3,
+        "explanation": "The notice lists three changes to the expense policy."
+      },
+      {
+        "prompt": "Why has the flexibility on hotel costs been withdrawn?",
+        "category": "detail",
+        "choices": [
+          "Hotel prices have fallen across most major cities",
+          "Late explanations became too numerous to check",
+          "Employees stopped booking trips abroad this year",
+          "The company has moved to cheaper offices nearby"
+        ],
+        "answerIndex": 1,
+        "explanation": "The number of retrospective explanations has risen sharply and cannot be properly reviewed."
+      },
+      {
+        "prompt": "What can be inferred about meals in an expensive city?",
+        "category": "inference",
+        "choices": [
+          "The company will reimburse every single receipt",
+          "The allowance will rise automatically with prices",
+          "An employee might pay part of the cost",
+          "Employees must avoid restaurants entirely when away"
+        ],
+        "answerIndex": 2,
+        "explanation": "They 'will be unable to claim more than the allowance, even in expensive cities'."
+      },
+      {
+        "prompt": "What happens to a claim made 100 days after a trip?",
+        "category": "inference",
+        "choices": [
+          "It cannot be approved by any department head",
+          "It will be paid after a short administrative delay",
+          "It needs only the written consent of a department head",
+          "It will be paid in full without any further check"
+        ],
+        "answerIndex": 0,
+        "explanation": "No exception will be made for claims older than ninety days."
+      }
+    ]
+  },
+  {
+    "id": "p7-283",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter to a shareholder concerning dividend policy",
+        "text": "Dear Mr. Okonkwo-Hale,\n\nThank you for your letter of 2 February, in which you ask why the board has recommended a lower dividend this year, despite the company having reported its highest revenue on record. It is a fair question, and I should like to answer it directly.\n\nThe decision reflects the fact that revenue and profit are not the same thing. Our turnover grew by nine percent, but raw material costs rose by fourteen percent, and we absorbed most of that increase rather than passing it on to customers, many of whom operate on tight margins of their own. The result was a profit slightly below last year's. Distributing the same dividend would have meant drawing on reserves that we intend to use for the new plant in Gdańsk, whose cost has also risen.\n\nI appreciate that this will disappoint shareholders who rely on the dividend as income. The board debated the matter at length, and the final vote was close. Should conditions improve, we expect to return to the previous level within two years, though I would be misleading you if I presented that as a promise.\n\nI hope this clarifies our reasoning, and I should be happy to discuss it at the annual meeting.\n\nYours sincerely,\nEleanor Fairweather, Chair"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To justify a lower dividend this year",
+          "To announce record profits again",
+          "To invite the shareholder to buy shares",
+          "To report the rising cost of a new plant"
+        ],
+        "answerIndex": 0,
+        "explanation": "The chair explains why the board recommended a lower dividend."
+      },
+      {
+        "prompt": "Why did profit fall even though revenue grew?",
+        "category": "detail",
+        "choices": [
+          "Customers cancelled many large orders at once",
+          "The new plant opened much later than planned",
+          "Material costs rose faster than sales",
+          "The company paid an unusually large tax bill"
+        ],
+        "answerIndex": 2,
+        "explanation": "Turnover grew nine percent, but material costs rose fourteen percent."
+      },
+      {
+        "prompt": "What does the chair suggest about the company's customers?",
+        "category": "inference",
+        "choices": [
+          "They are all shareholders of the company itself",
+          "Many could not easily bear higher prices",
+          "They have been buying less every single year",
+          "They operate in the same sector as the board does"
+        ],
+        "answerIndex": 1,
+        "explanation": "Costs were absorbed rather than passed on to customers, 'many of whom operate on tight margins'."
+      },
+      {
+        "prompt": "What does the chair say about the future dividend?",
+        "category": "inference",
+        "choices": [
+          "The dividend will increase again next year",
+          "The dividend will be abolished within two years",
+          "Shareholders will vote on the dividend in Gdańsk soon",
+          "A return to the old level is hoped for, not promised"
+        ],
+        "answerIndex": 3,
+        "explanation": "She expects a return within two years but says it would be misleading to call it a promise."
+      }
+    ]
+  },
+  {
+    "id": "p7-284",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "About the Fernhill Community Orchard",
+        "text": "The Fernhill Community Orchard began in 2009 as a neglected patch of land behind the library, which the council had planned to sell for housing. A group of neighbors, led by a retired schoolteacher, persuaded the authorities to lease it for a nominal rent instead, and within three years had planted more than sixty trees.\n\nToday, the orchard is run entirely by volunteers, and anyone may take part. We hold working days on the first Saturday of each month, when members prune, plant and repair the paths. No experience is necessary; the more skilled volunteers are happy to teach. In autumn, we invite residents to pick the fruit, and whatever is not eaten is pressed into juice that is sold at the market to pay for tools.\n\nWe should be honest about the difficulties. The lease expires in 2029, and although the council has said that it values the site, nothing has been guaranteed. A recent attack by canker disease killed eleven of our oldest trees, and replacing them will take years. We therefore welcome donations of any size, as well as offers of professional advice from anyone with experience in fruit-growing or in negotiating leases.\n\nTo join us, simply turn up on a working day. There are no fees and no forms."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the page?",
+        "category": "purpose",
+        "choices": [
+          "To announce that the land will soon be sold",
+          "To advertise fruit trees for sale to the public",
+          "To describe the orchard and seek support",
+          "To report the results of a recent disease study"
+        ],
+        "answerIndex": 2,
+        "explanation": "The page tells its history and invites volunteers and donations."
+      },
+      {
+        "prompt": "How is money raised for tools?",
+        "category": "detail",
+        "choices": [
+          "By selling juice made from unused fruit",
+          "By charging a membership fee",
+          "By renting the land to housing developers",
+          "By selling trees at the market"
+        ],
+        "answerIndex": 0,
+        "explanation": "Uneaten fruit is pressed into juice sold at the market to pay for tools."
+      },
+      {
+        "prompt": "What can be inferred about the orchard's future?",
+        "category": "inference",
+        "choices": [
+          "The council plans to replace it with houses",
+          "The volunteers intend to leave in 2029",
+          "The disease has now been eliminated completely",
+          "Its tenure on the land is not yet secure"
+        ],
+        "answerIndex": 3,
+        "explanation": "The lease expires in 2029 and nothing has been guaranteed."
+      },
+      {
+        "prompt": "What kind of help is requested from professionals?",
+        "category": "detail",
+        "choices": [
+          "Money to buy a new building for the council",
+          "Advice on fruit growing or leases",
+          "Teachers to run a school at the orchard",
+          "Builders to repair the library roof"
+        ],
+        "answerIndex": 1,
+        "explanation": "The orchard welcomes advice from anyone with experience in fruit-growing or negotiating leases."
+      }
+    ]
+  }
+]
