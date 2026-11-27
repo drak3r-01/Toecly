@@ -1,5 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
+import '../core/toeic_part.dart';
 import '../data/exercises/exercise_asset_loader.dart';
 import '../data/exercises/exercise_repository.dart';
 import '../data/exercises/models.dart';
@@ -64,3 +65,10 @@ final reviewDrawProvider = FutureProvider.autoDispose.family<List<Exercise>, int
       .watch(exerciseRepositoryProvider)
       .drawForReview(ref.read(missedQuestionsProvider).loadIds(), questionCount),
 );
+
+/// Questions available per Reading part, counted once when the app starts
+/// (the app warms it up, which also loads the bundled lots).
+final questionCountsProvider = FutureProvider<Map<ToeicPart, int>>((ref) async {
+  final repository = ref.watch(exerciseRepositoryProvider);
+  return {for (final part in ToeicPart.readingParts) part: await repository.countQuestions(part)};
+});

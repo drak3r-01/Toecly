@@ -19,8 +19,9 @@ class QuestionCountPicker extends StatefulWidget {
 
 class _QuestionCountPickerState extends State<QuestionCountPicker> {
   late bool _custom = !QuestionCountPicker.presets.contains(widget.value);
-  late final TextEditingController _controller =
-      TextEditingController(text: _custom ? '${widget.value}' : '');
+  late final TextEditingController _controller = TextEditingController(
+    text: _custom ? '${widget.value}' : '',
+  );
 
   @override
   void dispose() {
@@ -38,41 +39,47 @@ class _QuestionCountPickerState extends State<QuestionCountPicker> {
   @override
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context);
-    return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-      Wrap(spacing: 8, children: [
-        for (final count in QuestionCountPicker.presets)
-          ChoiceChip(
-            label: Text('$count'),
-            selected: !_custom && widget.value == count,
-            onSelected: (_) {
-              setState(() => _custom = false);
-              widget.onChanged(count);
-            },
-          ),
-        ChoiceChip(
-          label: Text(l10n.practiceCustom),
-          selected: _custom,
-          onSelected: (_) => setState(() => _custom = true),
-        ),
-      ]),
-      if (_custom)
-        Padding(
-          padding: const EdgeInsets.only(top: 12),
-          child: SizedBox(
-            width: 160,
-            child: TextField(
-              controller: _controller,
-              autofocus: true,
-              keyboardType: TextInputType.number,
-              inputFormatters: [FilteringTextInputFormatter.digitsOnly],
-              decoration: InputDecoration(
-                labelText: l10n.practiceCustomLabel(QuestionCountPicker.maxCustom),
-                border: const OutlineInputBorder(),
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Wrap(
+          spacing: 8,
+          children: [
+            for (final count in QuestionCountPicker.presets)
+              ChoiceChip(
+                label: Text('$count'),
+                selected: !_custom && widget.value == count,
+                onSelected: (_) {
+                  setState(() => _custom = false);
+                  widget.onChanged(count);
+                },
               ),
-              onChanged: _typed,
+            ChoiceChip(
+              label: Text(l10n.practiceCustom),
+              selected: _custom,
+              onSelected: (_) => setState(() => _custom = true),
+            ),
+          ],
+        ),
+        if (_custom)
+          Padding(
+            padding: const EdgeInsets.only(top: 12),
+            child: SizedBox(
+              width: 160,
+              child: TextField(
+                controller: _controller,
+                autofocus: true,
+                keyboardType: TextInputType.number,
+                inputFormatters: [FilteringTextInputFormatter.digitsOnly],
+                decoration: InputDecoration(
+                  labelText: l10n.practiceCustomLabel(QuestionCountPicker.maxCustom),
+                  border: const OutlineInputBorder(),
+                ),
+                onChanged: _typed,
+              ),
             ),
           ),
-        ),
-    ]);
+      ],
+    );
   }
 }

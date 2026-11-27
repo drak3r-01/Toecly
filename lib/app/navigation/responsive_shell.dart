@@ -1,19 +1,38 @@
 import 'package:go_router/go_router.dart';
 import 'package:material_ui/material_ui.dart';
 
+import '../../core/widgets/replay_scope.dart';
 import '../../core/widgets/toecly_logo.dart';
 import '../../l10n/app_localizations.dart';
 import 'app_destination.dart';
 
 /// Common frame: `NavigationBar` at the bottom on phones,
 /// `NavigationRail` on the side on wide screens (PC, tablet).
-class ResponsiveShell extends StatelessWidget {
+class ResponsiveShell extends StatefulWidget {
   const ResponsiveShell({super.key, required this.navigationShell});
 
   final StatefulNavigationShell navigationShell;
 
   /// Width from which the bottom bar becomes a side rail.
   static const double wideLayoutMinWidth = 600;
+
+  @override
+  State<ResponsiveShell> createState() => _ResponsiveShellState();
+}
+
+class _ResponsiveShellState extends State<ResponsiveShell> {
+  StatefulNavigationShell get navigationShell => widget.navigationShell;
+
+  /// Bumped on each tab change so the bars and gauges of the new tab replay.
+  int _epoch = 0;
+
+  @override
+  void didUpdateWidget(ResponsiveShell oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (oldWidget.navigationShell.currentIndex != widget.navigationShell.currentIndex) {
+      _epoch++;
+    }
+  }
 
   void _goToDestination(int index) => navigationShell.goBranch(
     index,
@@ -22,9 +41,12 @@ class ResponsiveShell extends StatelessWidget {
   );
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) =>
+      ReplayScope(epoch: _epoch, child: _frame(context));
+
+  Widget _frame(BuildContext context) {
     final l10n = AppLocalizations.of(context);
-    final isWide = MediaQuery.sizeOf(context).width >= wideLayoutMinWidth;
+    final isWide = MediaQuery.sizeOf(context).width >= ResponsiveShell.wideLayoutMinWidth;
     final selectedIndex = navigationShell.currentIndex;
 
     if (isWide) {

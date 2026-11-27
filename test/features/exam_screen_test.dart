@@ -149,6 +149,9 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.text('Mock exam').last);
     await tester.pumpAndSettle();
+    // The question bank counted at startup is listed per part.
+    expect(find.text('Question bank'), findsOneWidget);
+    expect(find.text('2 questions available'), findsOneWidget);
     await tester.tap(find.text('Start the exam'));
     await tester.pump(const Duration(milliseconds: 600));
     await tester.pump(const Duration(milliseconds: 600));

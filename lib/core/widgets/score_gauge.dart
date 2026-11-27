@@ -3,6 +3,7 @@ import 'dart:math' as math;
 import 'package:material_ui/material_ui.dart';
 
 import '../../app/theme/brand_colors.dart';
+import 'replay_scope.dart';
 
 /// Three-quarter ring that fills to [value] (0.0 to 1.0) with a brand
 /// gradient. Put the label in [child].
@@ -25,6 +26,7 @@ class ScoreGauge extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TweenAnimationBuilder<double>(
+      key: ValueKey(ReplayScope.of(context)),
       tween: Tween(begin: 0, end: value.clamp(0.0, 1.0)),
       duration: const Duration(milliseconds: 1200),
       curve: Curves.easeOutCubic,

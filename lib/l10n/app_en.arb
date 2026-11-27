@@ -226,5 +226,26 @@
         "type": "int"
       }
     }
-  }
+  },
+  "partDescription5": "Grammar and vocabulary in a single sentence.",
+  "partDescription6": "Fill the blanks of a short text.",
+  "partDescription7": "Read emails, ads and articles, then answer.",
+  "questionsAvailable": "{count, plural, =1{1 question available} other{{count} questions available}}",
+  "@questionsAvailable": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "practiceSelectionAvailable": "{count, plural, =1{1 question in your selection} other{{count} questions in your selection}}",
+  "@practiceSelectionAvailable": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "questionBankTitle": "Question bank",
+  "questionBankHint": "Loaded on this device, counted when the app starts."
 }

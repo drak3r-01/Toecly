@@ -4,6 +4,7 @@ import 'package:material_ui/material_ui.dart';
 import 'package:toecly/app/providers.dart';
 import 'package:toecly/app/toecly_app.dart';
 import 'package:toecly/core/toeic_part.dart';
+import 'package:toecly/core/widgets/animated_progress_bar.dart';
 import 'package:toecly/data/exercises/exercise_repository.dart';
 import 'package:toecly/data/exercises/models.dart';
 import 'package:toecly/data/storage/local_store.dart';
@@ -11,6 +12,7 @@ import 'package:toecly/data/storage/missed_questions_repository.dart';
 import 'package:toecly/data/storage/part_stats_repository.dart';
 import 'package:toecly/data/storage/session_history_repository.dart';
 import 'package:toecly/data/storage/session_record.dart';
+import 'package:toecly/features/practice/part_choice_card.dart';
 import 'package:toecly/features/practice/practice_setup_screen.dart';
 import 'package:toecly/features/quiz/quiz_screen.dart';
 import 'package:toecly/l10n/app_localizations.dart';
@@ -175,6 +177,11 @@ void main() {
     await tester.tap(find.text('Practice').last);
     await tester.pumpAndSettle();
 
+    // Counted at startup from the loaded lots.
+    expect(find.text('1 question available'), findsOneWidget);
+    expect(find.text('2 questions available'), findsOneWidget);
+    expect(find.text('0 questions available'), findsOneWidget);
+
     await tester.tap(find.text('Part 6 · Text completion')); // unselect Part 6
     await tester.tap(find.text('Part 7 · Reading comprehension'));
     await tester.tap(find.text('20'));
@@ -219,7 +226,7 @@ void main() {
       await tester.tap(find.textContaining(label));
       await tester.pump();
     }
-    expect(find.byWidgetPredicate((w) => w is FilterChip && w.selected), findsOneWidget);
+    expect(find.byWidgetPredicate((w) => w is PartChoiceCard && w.selected), findsOneWidget);
   });
 }
 
@@ -247,6 +254,7 @@ void customCountTests() {
     expect(find.text('50'), findsOneWidget);
     expect(find.text('30'), findsNothing);
 
+    await tester.ensureVisible(find.text('Custom'));
     await tester.tap(find.text('Custom'));
     await tester.pumpAndSettle();
     await tester.enterText(find.byType(TextField), '25');
@@ -274,13 +282,13 @@ Exercise _p5Numbered(int i) => Exercise(
 void progressBarTests() {
   testWidgets('the progress bar has a visible height and fills as questions are answered', (tester) async {
     await pumpQuiz(tester, [_p5, _p5b]);
-    expect(tester.getSize(find.byType(FractionallySizedBox)).height, greaterThan(0));
-    expect(tester.widget<FractionallySizedBox>(find.byType(FractionallySizedBox)).widthFactor, 0);
+    final bar = find.byType(AnimatedProgressBar);
+    expect(tester.getSize(bar).height, greaterThan(0));
+    expect(tester.widget<AnimatedProgressBar>(bar).value, 0);
 
     await tester.tap(find.text('postponed'));
     await tester.pumpAndSettle();
-    expect(tester.widget<FractionallySizedBox>(find.byType(FractionallySizedBox)).widthFactor, 0.5);
-    expect(tester.getSize(find.byType(FractionallySizedBox)).width, greaterThan(0));
+    expect(tester.widget<AnimatedProgressBar>(bar).value, 0.5);
   });
 }
 

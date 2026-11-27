@@ -11,6 +11,12 @@ extension PartLabel on AppLocalizations {
         _ => 'Part ${part.number}',
       };
 
+  String partDescription(ToeicPart part) => switch (part) {
+        ToeicPart.part5 => partDescription5,
+        ToeicPart.part6 => partDescription6,
+        _ => partDescription7,
+      };
+
   String partTitle(ToeicPart part) => partLabel(part.number, partName(part));
 
   String documentTypeName(DocumentType type) => switch (type) {

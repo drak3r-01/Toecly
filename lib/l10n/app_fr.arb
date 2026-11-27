@@ -226,5 +226,26 @@
         "type": "int"
       }
     }
-  }
+  },
+  "partDescription5": "Grammaire et vocabulaire dans une phrase.",
+  "partDescription6": "Complétez les blancs d'un court texte.",
+  "partDescription7": "Lisez e-mails, annonces et articles, puis répondez.",
+  "questionsAvailable": "{count, plural, =1{1 question disponible} other{{count} questions disponibles}}",
+  "@questionsAvailable": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "practiceSelectionAvailable": "{count, plural, =1{1 question dans votre sélection} other{{count} questions dans votre sélection}}",
+  "@practiceSelectionAvailable": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "questionBankTitle": "Banque de questions",
+  "questionBankHint": "Chargée sur cet appareil, comptée au démarrage de l'application."
 }

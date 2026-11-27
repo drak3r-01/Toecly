@@ -10,6 +10,7 @@ import '../../data/exercises/mock_exam_blueprint.dart';
 import '../../data/exercises/models.dart';
 import '../../data/quiz/exam_session.dart';
 import '../../data/storage/session_record.dart';
+import '../../core/widgets/animated_progress_bar.dart';
 import '../../l10n/app_localizations.dart';
 import '../quiz/exercise_page.dart';
 import 'exam_result_view.dart';
@@ -258,6 +259,13 @@ class _ExamViewState extends State<ExamView> {
       ),
       body: SafeArea(
         child: Column(children: [
+          Padding(
+            padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
+            child: AnimatedProgressBar(
+              value: _session.answeredCount / _session.totalQuestions,
+              height: 8,
+            ),
+          ),
           Expanded(
             child: ExercisePage(
               exercise: entry.exercise,

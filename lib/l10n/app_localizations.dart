@@ -721,6 +721,48 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'— / 990'**
   String get estimatedTotalEmpty;
+
+  /// No description provided for @partDescription5.
+  ///
+  /// In en, this message translates to:
+  /// **'Grammar and vocabulary in a single sentence.'**
+  String get partDescription5;
+
+  /// No description provided for @partDescription6.
+  ///
+  /// In en, this message translates to:
+  /// **'Fill the blanks of a short text.'**
+  String get partDescription6;
+
+  /// No description provided for @partDescription7.
+  ///
+  /// In en, this message translates to:
+  /// **'Read emails, ads and articles, then answer.'**
+  String get partDescription7;
+
+  /// No description provided for @questionsAvailable.
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, =1{1 question available} other{{count} questions available}}'**
+  String questionsAvailable(int count);
+
+  /// No description provided for @practiceSelectionAvailable.
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, =1{1 question in your selection} other{{count} questions in your selection}}'**
+  String practiceSelectionAvailable(int count);
+
+  /// No description provided for @questionBankTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Question bank'**
+  String get questionBankTitle;
+
+  /// No description provided for @questionBankHint.
+  ///
+  /// In en, this message translates to:
+  /// **'Loaded on this device, counted when the app starts.'**
+  String get questionBankHint;
 }
 
 class _AppLocalizationsDelegate
