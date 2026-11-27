@@ -1,0 +1,543 @@
+[
+  {
+    "id": "p7-169",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why the four-day week stalled at Norvik Insurance",
+        "text": "Two years ago, Norvik Insurance announced a pilot in which its 900 office staff would work four days a week for the same pay. Early reports were glowing: absenteeism fell by a third and a staff survey found that eight in ten employees felt less stressed. Yet last month, the company quietly confirmed that the experiment would not be extended beyond the claims department.\n\nAccording to chief executive Olga Brandt, the difficulty lay not with productivity, which was largely maintained, but with coordination. Departments that remained on five days found it hard to reach colleagues on Fridays, and customers complained that advisers were unavailable when they called. [A] \"We had solved one problem and created another,\" she says. Attempts to stagger days off complicated the schedule further, with several managers reporting that they spent more time arranging cover than managing their teams.\n\nEmployees are divided on the outcome. Some, such as claims handler Dario Estevez, argue that the company gave up too soon: \"We showed that it works if everyone commits to it.\" Others admit that the extra day was often spent catching up on e-mails from the previous week. [B] Ms. Brandt says the company is now exploring a compromise in which employees may compress their hours into four longer days, though this would not reduce the total hours worked. Labor analysts suggest that firms attempting similar changes should consider clients' habits at least as carefully as their own staff's wishes. [C]"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "A fall in the number of claims made by customers",
+          "The limited continuation of a shorter working week",
+          "A company's plan to hire more telephone advisers",
+          "A dispute over pay between managers and staff"
+        ],
+        "answerIndex": 1,
+        "explanation": "The pilot of a four-day week has been confined to one department because of coordination problems."
+      },
+      {
+        "prompt": "What does Ms. Brandt identify as the main difficulty?",
+        "category": "detail",
+        "choices": [
+          "A decline in the output of the employees",
+          "The higher salaries demanded by many staff",
+          "The cost of equipment needed for remote work",
+          "Schedules that did not match between departments"
+        ],
+        "answerIndex": 3,
+        "explanation": "Productivity held up; the problem was coordination between departments and with customers."
+      },
+      {
+        "prompt": "What can be inferred about Mr. Estevez?",
+        "category": "inference",
+        "choices": [
+          "He would have preferred the trial to go on",
+          "He has requested a transfer to another department",
+          "He now works four longer days each week",
+          "He is responsible for scheduling cover"
+        ],
+        "answerIndex": 0,
+        "explanation": "He says the company gave up too soon and that the scheme works if everyone commits."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Customers, in other words, did not adapt to the new rhythm as quickly as the staff did.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence generalizes the point about clients' habits made in the sentence before [C]; elsewhere it would break the argument about managers or staff opinions."
+      }
+    ]
+  },
+  {
+    "id": "p7-170",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Introduction of new laboratory safety rules",
+        "text": "To: All research staff, Halden Institute\nFrom: Dr. Margit Solheim, Safety Officer\nSubject: Changes to laboratory access, effective 3 November\n\nDear colleagues,\n\nFollowing two minor incidents in the past quarter, the Safety Committee has approved new rules for out-of-hours access to the laboratories. In neither incident was anyone hurt, but in both cases the person present was working alone and could not immediately call for assistance.\n\nFrom 3 November, nobody may work in a wet laboratory between 7 p.m. and 7 a.m. unless a second person is present in the same building. Researchers who must run experiments overnight, for example long incubations, should register in advance using the online form, naming their companion. The security desk will not release keys for these rooms without a confirmed registration. Computational work and writing are not covered by the rule and may continue in the offices.\n\nI recognize that this may be inconvenient, particularly for doctoral students whose experiments follow biological rhythms. For that reason, the Committee will review the policy at the end of January and invites your feedback through the staff forum. Mandatory refresher training on emergency procedures will be held on 28 October, and attendance will be recorded."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why were the rules introduced?",
+        "category": "detail",
+        "choices": [
+          "Two employees were seriously injured at night",
+          "Keys to the laboratories had been mislaid",
+          "Staff working alone were unable to get quick help",
+          "The institute's insurance had been changed"
+        ],
+        "answerIndex": 2,
+        "explanation": "In both incidents nobody was hurt, but the person present was alone and could not immediately call for help."
+      },
+      {
+        "prompt": "Who is NOT affected by the new rule?",
+        "category": "not_true",
+        "choices": [
+          "Researchers carrying out evening experiments",
+          "Doctoral students who work at night",
+          "People writing reports in the offices",
+          "Anyone who needs keys for a wet laboratory"
+        ],
+        "answerIndex": 2,
+        "explanation": "Computational work and writing are not covered by the rule and may continue in the offices."
+      },
+      {
+        "prompt": "What does the e-mail suggest about the future of the rule?",
+        "category": "inference",
+        "choices": [
+          "It could be modified after comments from staff",
+          "It will be dropped at the end of the year",
+          "It will extend to the offices in January",
+          "It applies only until the training takes place"
+        ],
+        "answerIndex": 0,
+        "explanation": "The Committee will review the policy at the end of January and invites feedback."
+      },
+      {
+        "prompt": "What are staff required to do on 28 October?",
+        "category": "detail",
+        "choices": [
+          "Fill in the online registration form",
+          "Return their laboratory keys to security",
+          "Attend a meeting of the Safety Committee",
+          "Take part in a training session on emergencies"
+        ],
+        "answerIndex": 3,
+        "explanation": "Mandatory refresher training on emergency procedures will be held that day."
+      }
+    ]
+  },
+  {
+    "id": "p7-171",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Messages between Carla Jimenez and Ben Ogilvie",
+        "text": "Carla Jimenez (8:12 a.m.): Ben, are you still coming to the supplier meeting at ten? I just heard that the Finchley team will join by video, so I'm booking the larger room.\nBen Ogilvie (8:15 a.m.): Yes, but I'm stuck on the ring road. There was an accident and traffic isn't moving. I might be twenty minutes late.\nCarla Jimenez (8:17 a.m.): No problem. I'll start with the pricing section and leave the quality discussion for when you arrive, since you've dealt with their defect reports.\nBen Ogilvie (8:19 a.m.): Good idea. One thing: they will probably push for a price rise of five percent. I'd resist it, because the contract we signed in March fixed the prices until the end of the year.\nCarla Jimenez (8:20 a.m.): Understood. Should I mention the late deliveries in September?\nBen Ogilvie (8:22 a.m.): Only if they raise price. It's a bargaining chip, so don't use it too early. I'm sending you the summary report now.\nCarla Jimenez (8:23 a.m.): Got it. See you soon."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why will Mr. Ogilvie probably be late?",
+        "category": "detail",
+        "choices": [
+          "His train has been canceled this morning",
+          "Traffic has stopped after an accident",
+          "He is waiting for a video link to open",
+          "He is still collecting a report to bring"
+        ],
+        "answerIndex": 1,
+        "explanation": "He says there was an accident on the ring road and traffic isn't moving."
+      },
+      {
+        "prompt": "Why does Ms. Jimenez book a bigger room?",
+        "category": "detail",
+        "choices": [
+          "More suppliers have asked to attend it",
+          "Some people will join from another site",
+          "The pricing discussion will take longer",
+          "Mr. Ogilvie is bringing some colleagues"
+        ],
+        "answerIndex": 1,
+        "explanation": "The Finchley team will join by video."
+      },
+      {
+        "prompt": "What does Mr. Ogilvie mean by \"a bargaining chip\"?",
+        "category": "inference",
+        "choices": [
+          "A complaint that should be sent in writing",
+          "A document that proves the supplier's mistake",
+          "A discount that has been offered already",
+          "A point to use only when it helps the talks"
+        ],
+        "answerIndex": 3,
+        "explanation": "He advises mentioning the late deliveries only if the supplier asks for a price rise, so it is a tool for negotiation."
+      },
+      {
+        "prompt": "What is Ms. Jimenez's plan for the meeting?",
+        "category": "inference",
+        "choices": [
+          "To delay the quality topic until he arrives",
+          "To cancel the pricing discussion altogether",
+          "To ask the supplier to wait for Mr. Ogilvie",
+          "To raise the late deliveries at the start"
+        ],
+        "answerIndex": 0,
+        "explanation": "She will begin with pricing and leave the quality discussion until he arrives."
+      }
+    ]
+  },
+  {
+    "id": "p7-172",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Closure of the Elmstead swimming pool",
+        "text": "The Elmstead Leisure Centre announces that its main swimming pool will close for essential maintenance from Monday 5 January until Friday 27 February. During this period, the smaller training pool will remain open, though it will operate to a reduced timetable: weekdays from 6:30 to 9:00 a.m. and from 5:00 to 8:00 p.m., and on weekends from 9:00 a.m. to 1:00 p.m. Lane swimming will be limited to members.\n\nThe work includes replacing the filtration system, resurfacing the pool floor and installing a lift for wheelchair users. Because the lift requires a section of the changing room to be rebuilt, the accessible changing cubicles will also be unavailable for the first three weeks; a temporary alternative will be provided in the sports hall. Swimming lessons for children will continue in the training pool, but class sizes will be reduced, and some groups will be moved to Saturday mornings. Parents will be contacted individually by 12 December.\n\nMembers will receive a credit of 15 percent of their monthly fee for each month of closure. Casual visitors may use the facility only on weekends during this time. We apologize for any inconvenience and look forward to welcoming you to a modernized facility."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the notice?",
+        "category": "purpose",
+        "choices": [
+          "To announce the opening of a new pool for all",
+          "To increase the fee for casual visitors only",
+          "To tell users about a temporary change to services",
+          "To invite parents to a swimming contest"
+        ],
+        "answerIndex": 2,
+        "explanation": "The notice describes a closure and the alternative arrangements."
+      },
+      {
+        "prompt": "What is mentioned as one of the improvements?",
+        "category": "detail",
+        "choices": [
+          "A larger changing room for children's groups",
+          "A new cafe located next to the training pool",
+          "A lift for people with limited mobility",
+          "A heated floor installed in the sports hall"
+        ],
+        "answerIndex": 2,
+        "explanation": "The work includes installing a lift for wheelchair users."
+      },
+      {
+        "prompt": "What is indicated about swimming lessons?",
+        "category": "detail",
+        "choices": [
+          "Some of them will be held at other times",
+          "They will be suspended until March at least",
+          "They will take place in the main pool again",
+          "They will be free of charge for all members"
+        ],
+        "answerIndex": 0,
+        "explanation": "Lessons continue in the training pool and some groups move to Saturday mornings."
+      },
+      {
+        "prompt": "Who will be able to visit the training pool on a Wednesday afternoon at 6 p.m.?",
+        "category": "inference",
+        "choices": [
+          "Casual visitors only",
+          "Nobody, because it is closed",
+          "Both members and casual visitors",
+          "Members only"
+        ],
+        "answerIndex": 3,
+        "explanation": "The pool is open on weekdays from 5:00 to 8:00 p.m., but casual visitors may use the facility only on weekends."
+      }
+    ]
+  },
+  {
+    "id": "p7-173",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Customer Success Manager, Lumen Software",
+        "text": "Lumen Software, a provider of scheduling tools for clinics, is seeking a Customer Success Manager to join our Dublin office. You will be responsible for a portfolio of around sixty clinics, ensuring that they adopt the product fully and renew their contracts. The role involves running training sessions, analyzing usage data and passing on customer feedback to our developers.\n\nYou should have at least three years of experience in a customer-facing role at a software company, strong presentation skills, and a good understanding of how healthcare organizations operate. Fluency in English is required; a second European language is valued. The post is hybrid, with three days in the office, and involves occasional travel of up to five days per quarter.\n\nSalary range: 52,000 to 60,000 euros, plus a bonus of up to ten percent linked to customer retention. To apply, send a cover letter describing a situation in which you saved a client relationship, together with your résumé, to jobs@lumensoftware.example by 21 February. Interviews will take place in the first week of March."
+      },
+      {
+        "type": "email",
+        "title": "Application: Customer Success Manager",
+        "text": "Dear Hiring Manager,\n\nI would like to apply for the position of Customer Success Manager. For the past five years I have worked at Medisched, a competitor, where I manage forty-five hospital accounts. Last spring, one of my largest clients threatened to cancel after a system outage; by organizing weekly calls and training their staff on a backup procedure, I helped retain the contract, worth 180,000 euros a year.\n\nI was a nurse for six years before moving into software, which gives me a practical understanding of how clinics schedule appointments. I speak English and Spanish fluently. My only concern is the travel requirement: I have a young child and would prefer to limit trips to three days per quarter. I would be grateful if you could tell me whether that would be acceptable.\n\nYours sincerely,\nOrla Whelan"
+      },
+      {
+        "type": "email",
+        "title": "Re: Application: Customer Success Manager",
+        "text": "Dear Ms. Whelan,\n\nThank you for applying. Your experience is exactly what we are looking for, and the committee would like to meet you on Tuesday 4 March at 11:00. Regarding travel, the five days mentioned in the advertisement are a maximum rather than a requirement, so three days should be feasible. However, you would be responsible for sixty accounts, rather than forty-five, and we expect new clients to be added during the year.\n\nFor the interview, please prepare a ten-minute presentation on how you would improve the adoption of a new feature among clinics that have been reluctant to change. Could you confirm by Friday?\n\nBest wishes,\nDeclan Foley, Head of Customer Success"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What did Ms. Whelan include that the ad specifically requested?",
+        "category": "detail",
+        "choices": [
+          "A list of her references from Medisched",
+          "An account of how she kept a client",
+          "A description of her salary expectations",
+          "A plan for training the developers"
+        ],
+        "answerIndex": 1,
+        "explanation": "The ad asks for a cover letter describing a situation in which the candidate saved a client relationship, and she describes the retained 180,000-euro contract."
+      },
+      {
+        "prompt": "Which of her qualifications is most relevant to the ad's mention of healthcare?",
+        "category": "inference",
+        "choices": [
+          "Her ability to speak Spanish",
+          "Her earlier career in nursing",
+          "Her experience of training developers",
+          "Her knowledge of Dublin clinics"
+        ],
+        "answerIndex": 1,
+        "explanation": "The ad asks for an understanding of healthcare organizations, and she was a nurse for six years."
+      },
+      {
+        "prompt": "How does Mr. Foley respond to her concern?",
+        "category": "detail",
+        "choices": [
+          "He asks her to accept five days of travel",
+          "He offers her a position in the office only",
+          "He suggests that she reduces her portfolio",
+          "He says the travel limit is flexible"
+        ],
+        "answerIndex": 3,
+        "explanation": "He explains that five days is a maximum, so three days should be feasible."
+      },
+      {
+        "prompt": "What will be different about Ms. Whelan's work at Lumen compared with Medisched?",
+        "category": "inference",
+        "choices": [
+          "She would look after more clients",
+          "She would work entirely from home",
+          "She would receive no bonus",
+          "She would need to learn a new language"
+        ],
+        "answerIndex": 0,
+        "explanation": "She manages forty-five accounts now, whereas she would be responsible for sixty."
+      },
+      {
+        "prompt": "When does the interview take place?",
+        "category": "inference",
+        "choices": [
+          "Before the deadline for applications",
+          "After the week of interviews planned",
+          "Within the period announced in the ad",
+          "In the final week of February"
+        ],
+        "answerIndex": 2,
+        "explanation": "The ad says interviews will be in the first week of March, and 4 March falls in that week."
+      }
+    ]
+  },
+  {
+    "id": "p7-174",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Greenfield Farm Box: How it works",
+        "text": "Our weekly boxes contain vegetables and fruit grown within thirty miles of your door. Choose a small box (serves two, 22 dollars) or a family box (serves four, 34 dollars). Deliveries are made on Thursday evenings between 5 and 8 p.m. To skip a week, change your order in your account before midnight on the preceding Sunday. Orders can be paused for up to six weeks per year without penalty.\n\nExtras: Add eggs (6 dollars), sourdough bread (5 dollars) or a bottle of cold-pressed juice (4 dollars) to any box. New customers receive a free jar of honey with their first delivery. Our boxes are packed in reusable crates, which are collected on your next delivery; please leave them clean and empty by your door."
+      },
+      {
+        "type": "email",
+        "title": "Question about my box",
+        "text": "Hello,\n\nI started my subscription three weeks ago with a family box. I'll be away from 10 to 24 November and would like to pause deliveries, but I can't see how to do that on the Web site. Also, last Thursday the delivery arrived at 9:30 p.m., after the children had gone to bed, and one of the crates was left on the doorstep in the rain. Is there any way to make sure it arrives earlier? And can I switch to the small box permanently, since we throw away too much?\n\nThanks,\nJoanne Whitaker"
+      },
+      {
+        "type": "email",
+        "title": "Re: Question about my box",
+        "text": "Dear Ms. Whitaker,\n\nI apologize for the late delivery; our driver was delayed by roadworks. As a gesture, I have added a free loaf of sourdough to your next box. To pause, please e-mail me the dates, which I will enter manually since the feature is being fixed. The deliveries for 13 and 20 November would be skipped, and your order resumes on 27 November. Changing to the small box is simple: I have done so from your next delivery, so you will be charged 22 dollars instead of 34.\n\nUnfortunately we cannot guarantee a time slot earlier than 5 p.m., but I have asked the driver to call before arriving.\n\nRegards,\nHamza Qureshi, Customer Care"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What was Ms. Whitaker's complaint about the delivery?",
+        "category": "detail",
+        "choices": [
+          "The vegetables were not fresh enough",
+          "A crate was missing from the box delivered",
+          "It came much later than the stated hours",
+          "The honey was not included in the order"
+        ],
+        "answerIndex": 2,
+        "explanation": "It arrived at 9:30 p.m., though deliveries are between 5 and 8 p.m."
+      },
+      {
+        "prompt": "Why can't Ms. Whitaker use the Web site to pause her order?",
+        "category": "inference",
+        "choices": [
+          "The online option is currently out of order",
+          "She has already used her six weeks",
+          "She did not give notice before Sunday",
+          "Her account has been closed by mistake"
+        ],
+        "answerIndex": 0,
+        "explanation": "Mr. Qureshi says he will enter the dates manually since the feature is being fixed."
+      },
+      {
+        "prompt": "Which deliveries will be skipped?",
+        "category": "detail",
+        "choices": [
+          "Those on 10 and 24 November",
+          "Those on 6 and 13 November",
+          "Those on 20 and 27 November",
+          "Those on 13 and 20 November"
+        ],
+        "answerIndex": 3,
+        "explanation": "Deliveries are on Thursdays, and in the period she is away, 13 and 20 November are the Thursdays."
+      },
+      {
+        "prompt": "What will Ms. Whitaker receive for free?",
+        "category": "detail",
+        "choices": [
+          "A jar of honey from the farm",
+          "A loaf of bread in her next box",
+          "A reduction in her monthly price",
+          "An extra week without payment"
+        ],
+        "answerIndex": 1,
+        "explanation": "As a gesture, a free loaf of sourdough is added to her next box."
+      },
+      {
+        "prompt": "What can be concluded about the change to the small box?",
+        "category": "inference",
+        "choices": [
+          "It will take effect only after the break",
+          "It will save her 12 dollars per delivery",
+          "It will include a free jar of honey as well",
+          "It will serve four people instead of two"
+        ],
+        "answerIndex": 1,
+        "explanation": "The family box costs 34 dollars and the small box 22 dollars, a difference of 12 dollars."
+      }
+    ]
+  },
+  {
+    "id": "p7-175",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Council to review night-time economy rules",
+        "text": "A committee of the Marburn City Council will meet on Thursday to consider changes to the licensing rules that govern bars and clubs in the Old Quarter. The review follows a petition signed by 1,200 residents who complain of noise and litter after midnight. Under the existing rules, venues may remain open until 3 a.m. on Fridays and Saturdays; the petition calls for a 1 a.m. closing time.\n\nBusiness owners have responded with alarm. The Old Quarter Business Association says that the area's nightlife contributes an estimated 14 million dollars to the local economy each year and that an earlier closing time would force several venues to shut down. Association chair Ravi Nair argues that the problem lies with enforcement rather than opening hours. \"A handful of premises cause most of the trouble,\" he says. \"Punish them, not everyone.\"\n\nA compromise is under discussion. Councillor Irene Falk has proposed that venues be allowed to open until 2 a.m. provided that they join a scheme under which they contribute to extra street cleaning and security patrols. The scheme, which has operated successfully in the neighboring town of Lisle, would be reviewed after a year. Residents' spokesperson Anneke Visser says that she is open to the idea but wants strict penalties for venues that break the terms. The committee is expected to vote in January."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main subject of the article?",
+        "category": "main_idea",
+        "choices": [
+          "The opening of a new club in the Old Quarter",
+          "A cleaning program carried out by the council",
+          "The cost of police patrols in neighboring towns",
+          "A debate about the closing times of nightlife venues"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article reports on a review of licensing rules, residents' petition, business objections and a compromise."
+      },
+      {
+        "prompt": "What is Mr. Nair's view?",
+        "category": "detail",
+        "choices": [
+          "Only troublesome venues should be penalized",
+          "All venues should close at 1 a.m. sharp",
+          "Residents should simply accept the noise",
+          "The council should pay for extra patrols itself"
+        ],
+        "answerIndex": 0,
+        "explanation": "He says a handful of premises cause most trouble and asks to punish them, not everyone."
+      },
+      {
+        "prompt": "Which closing time would the proposal by Ms. Falk introduce?",
+        "category": "detail",
+        "choices": [
+          "1 a.m. for all venues",
+          "3 a.m. for venues in neighboring towns",
+          "2 a.m. for venues that join the scheme",
+          "Midnight on weekdays only"
+        ],
+        "answerIndex": 2,
+        "explanation": "Venues would be allowed to open until 2 a.m. provided that they join a scheme paying for cleaning and security."
+      },
+      {
+        "prompt": "The word \"alarm\" in paragraph 2 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "noise",
+          "excitement",
+          "concern",
+          "warning device"
+        ],
+        "answerIndex": 2,
+        "explanation": "Business owners are worried that an earlier closing time would harm them."
+      }
+    ]
+  },
+  {
+    "id": "p7-176",
+    "documents": [
+      {
+        "type": "invoice",
+        "title": "Invoice 7731: Parkside Landscaping",
+        "text": "Customer: Ellis & Moore Architects\nProject address: 14 Canal Street (courtyard)\nDate: 18 June\n\nDescription / Amount\nRemoval of existing paving (85 m2 at 14 dollars per m2): 1,190.00\nSupply and installation of new stone paving (85 m2 at 62 dollars per m2): 5,270.00\nDrainage channel and connection: 840.00\nPlanting: five trees and mixed shrubs: 1,150.00\nSubtotal: 8,450.00 · Taxes (8 percent): 676.00 · Total due: 9,126.00\nDeposit paid on 2 May: 3,000.00 · Balance due: 6,126.00\nPayment may be made by bank transfer or by check made out to Parkside Landscaping Ltd; please quote the invoice number. Late payments are subject to interest at 1.5 percent per month. Payment terms: balance due within 30 days. Work carried out is guaranteed for 12 months; plants are replaced free of charge during the first three months if they fail."
+      },
+      {
+        "type": "email",
+        "title": "Re: Invoice 7731",
+        "text": "Dear Mr. Moore,\n\nThank you for your note. Regarding the trees: I understand that two of the five are showing yellow leaves, which sometimes happens after planting in dry weather. Because we are within the three-month period, we will replace them at no cost, and I can send a crew next Tuesday. I would, however, ask that your staff water them every second day until then; this is not covered by the guarantee if neglected.\n\nAs for the paving, the area was measured at 85 square meters on site, and I attach the sketch. If you believe it is smaller, please send your own measurement and we will check it together.\n\nRegards,\nPaula Sandoval"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of Ms. Sandoval's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To answer a client's concerns about the work",
+          "To request an advance on a future project",
+          "To announce a rise in the price of paving",
+          "To cancel the contract for the courtyard"
+        ],
+        "answerIndex": 0,
+        "explanation": "She responds to concerns about the trees and the paving area."
+      },
+      {
+        "prompt": "What does Ms. Sandoval offer to do about the trees?",
+        "category": "detail",
+        "choices": [
+          "Refund the total price of the planting",
+          "Move them to a sunnier part of the courtyard",
+          "Train the staff in how to plant them",
+          "Replace the ones that are in poor condition"
+        ],
+        "answerIndex": 3,
+        "explanation": "Two of the trees are yellow; because they are within three months, they will be replaced at no cost."
+      },
+      {
+        "prompt": "How much does the client still owe?",
+        "category": "inference",
+        "choices": [
+          "3,000.00 dollars",
+          "6,126.00 dollars",
+          "9,126.00 dollars",
+          "8,450.00 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "The total of 9,126.00 minus the 3,000.00 deposit leaves a balance of 6,126.00."
+      },
+      {
+        "prompt": "What might cause the guarantee not to apply to the new trees?",
+        "category": "inference",
+        "choices": [
+          "Paying the balance after thirty days or more",
+          "Not watering them regularly until replaced",
+          "Having the paving measured a second time",
+          "Planting more trees elsewhere in the courtyard"
+        ],
+        "answerIndex": 1,
+        "explanation": "Ms. Sandoval says that the guarantee does not cover trees if they are neglected, so watering is needed."
+      },
+      {
+        "prompt": "What is the cost of the paving per square meter, installation included?",
+        "category": "detail",
+        "choices": [
+          "14 dollars",
+          "76 dollars",
+          "8 dollars",
+          "62 dollars"
+        ],
+        "answerIndex": 3,
+        "explanation": "The new paving is charged at 62 dollars per square meter; 14 dollars is for removal of the old surface and 76 would combine the two."
+      }
+    ]
+  }
+]
