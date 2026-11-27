@@ -130,9 +130,9 @@
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "I accept that this is an acceptable standard of service, and I have taken steps to prevent its recurrence.",
-          "I accept that this is not an acceptable standard of service, and I have taken steps to prevent its recurrence.",
-          "I accepted that this was not an acceptable standard of service, and I took steps to prevent its recurrence.",
+          "I accept that this is an acceptable standard of service, and I have taken steps to prevent recurrence.",
+          "I accept that this is not an acceptable standard of service, and I have taken steps to prevent recurrence.",
+          "I accepted that this was not an acceptable standard of service, and I took steps to prevent recurrence.",
           "I accept that your application is not an acceptable standard, and I have taken steps to prevent its approval."
         ],
         "answerIndex": 1,
