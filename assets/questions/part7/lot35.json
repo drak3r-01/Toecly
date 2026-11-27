@@ -1,0 +1,482 @@
+[
+  {
+    "id": "p7-351",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The overlooked cost of constant meetings",
+        "text": "A survey of fifteen hundred office workers has quantified a complaint familiar to almost anyone who has held a salaried job: that meetings consume the time required to do the work they are supposed to organize. The average respondent spent nearly twelve hours a week in meetings, and a third of them described at least half of that time as wasted.\n\nMore interesting than the totals is the pattern of the waste. The researchers found that the least productive meetings were not the longest but the largest, those with more than eight participants, where most attendees spoke for less than two minutes in the whole session. Smaller meetings with a clear decision to make were rated far more useful, even when they overran.\n\nThe survey also reveals a gap in perception. Managers, who organize most meetings, rated them as helpful at nearly twice the rate of their staff. Several of the researchers suggest that this is not a matter of vanity but of position: managers often leave a meeting with a decision, whereas those who attend merely to be informed leave with a list of tasks.\n\nSome firms have responded by introducing meeting-free mornings or by requiring an agenda for any gathering of more than four people. Early evidence is encouraging, though the authors caution that such rules can simply push discussion into email, where it becomes harder to follow."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main finding of the survey?",
+        "category": "main_idea",
+        "choices": [
+          "Meetings are valued more than solo work",
+          "Managers dislike meetings more than staff",
+          "Meetings take much time and often waste it",
+          "Short meetings are always the least useful"
+        ],
+        "answerIndex": 2,
+        "explanation": "Workers spent nearly twelve hours weekly and many called it wasted."
+      },
+      {
+        "prompt": "Which meetings were least productive?",
+        "category": "detail",
+        "choices": [
+          "The largest, with many participants",
+          "The longest ones held in the afternoon",
+          "Those held without a manager present",
+          "Those scheduled in the largest rooms"
+        ],
+        "answerIndex": 0,
+        "explanation": "Meetings of more than eight people, where most spoke for under two minutes."
+      },
+      {
+        "prompt": "Why do managers rate meetings more highly?",
+        "category": "inference",
+        "choices": [
+          "They are paid extra for attending them",
+          "They attend far fewer meetings than staff",
+          "They enjoy speaking in front of groups",
+          "They often leave with a decision, not tasks"
+        ],
+        "answerIndex": 3,
+        "explanation": "Managers leave with a decision; others leave with a list of tasks."
+      },
+      {
+        "prompt": "What risk do the authors mention about new rules?",
+        "category": "inference",
+        "choices": [
+          "Meetings will become much longer than before",
+          "Talk may shift into email that is hard to track",
+          "Managers will resign in protest at the rules",
+          "Agendas will be ignored by most attendees"
+        ],
+        "answerIndex": 1,
+        "explanation": "Such rules can push discussion into email, where it is harder to follow."
+      }
+    ]
+  },
+  {
+    "id": "p7-352",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Coordinating a donor visit to the new clinic",
+        "text": "To: Clinic Steering Group\nFrom: Beatriz Santoro, Development Office\nSubject: Plan for the donor visit on 18 October\n\nDear colleagues,\n\nI should like to set out the plan for the visit of the Whitfield Trust delegation on 18 October, and to ask for your help with three points that remain unresolved.\n\nThe delegation of six, led by the Trust's chair, will arrive at 10 a.m. and will spend two hours at the clinic. I propose that they be shown the pediatric ward first, since the Trust's grant was specifically for that, followed by the new laboratory, and finally a short meeting with Dr. Haddad to discuss the clinic's plans for the second phase. Lunch will be provided in the staff room.\n\nThe first unresolved point is the laboratory, which will not be fully commissioned until the following week; I would suggest we present it as nearly complete and be honest about the timetable. The second is parking, since the visitors will arrive in two vehicles and the staff car park is already crowded. The third is whether patients' families on the pediatric ward are willing to speak briefly with the visitors, which I believe would be valuable but which must be wholly voluntary.\n\nI would be grateful for your views by Friday so that I can confirm the program with the Trust.\n\nWarm regards,\nBeatriz"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the email?",
+        "category": "purpose",
+        "choices": [
+          "To invite donors to give a larger sum",
+          "To plan a visit and seek input on issues",
+          "To report that the laboratory is complete",
+          "To cancel the visit of the donor Trust"
+        ],
+        "answerIndex": 1,
+        "explanation": "She outlines the visit and lists three unresolved points."
+      },
+      {
+        "prompt": "Why will the visitors see the pediatric ward first?",
+        "category": "detail",
+        "choices": [
+          "It is the largest ward within the clinic",
+          "Dr. Haddad is based on that ward",
+          "The laboratory is not ready until later",
+          "The Trust's grant was meant for that ward"
+        ],
+        "answerIndex": 3,
+        "explanation": "The Trust's grant was specifically for the pediatric ward."
+      },
+      {
+        "prompt": "What does Ms. Santoro suggest about the laboratory?",
+        "category": "inference",
+        "choices": [
+          "It should be shown honestly as unfinished",
+          "It should be hidden from the visitors",
+          "It should be finished before the visit",
+          "It should be used as the lunch room"
+        ],
+        "answerIndex": 0,
+        "explanation": "She suggests presenting it as nearly complete and being honest about the timetable."
+      },
+      {
+        "prompt": "What condition does she attach to the families' involvement?",
+        "category": "inference",
+        "choices": [
+          "They must be paid for their time",
+          "They must have donated to the clinic",
+          "They must be free to refuse",
+          "They must speak with Dr. Haddad"
+        ],
+        "answerIndex": 2,
+        "explanation": "It must be wholly voluntary."
+      }
+    ]
+  },
+  {
+    "id": "p7-353",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice: introduction of a visitor registration system",
+        "text": "FERNLEIGH BUSINESS PARK — NOTICE TO TENANTS\n\nFrom Monday 6 January, all visitors to the park will be required to register at the main gatehouse and to wear a visitor badge for the duration of their stay.\n\nThe measure has been requested by several tenants, whose concerns about security increased after two incidents last year in which unauthorized persons gained access to office buildings. The new system will record each visitor's name, the company visited and the time of arrival and departure. Data will be stored for ninety days and used only for security and safety purposes, such as locating people in the event of a fire.\n\nTenants may reduce the delay by sending the names of expected visitors to the gatehouse by email before 9 a.m. on the day in question; pre-registered visitors will need only to show identification and collect their badge. Regular contractors, such as cleaners and couriers, will be issued with passes valid for six months upon application to the park manager.\n\nWe recognize that this will add a short delay at the gate and ask for tenants' patience during the first weeks. The system will be reviewed in March, and tenants are invited to send comments to the park office by 28 February."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the notice?",
+        "category": "main_idea",
+        "choices": [
+          "To report a recent security incident",
+          "To advertise office space in the park",
+          "To change the park's opening hours",
+          "To announce that visitors must register"
+        ],
+        "answerIndex": 3,
+        "explanation": "The notice introduces visitor registration and badges."
+      },
+      {
+        "prompt": "How long will visitor data be kept?",
+        "category": "detail",
+        "choices": [
+          "For six months after each visit",
+          "For ninety days after each visit",
+          "For one year after each visit",
+          "Until the review held in March"
+        ],
+        "answerIndex": 1,
+        "explanation": "Data will be stored for ninety days."
+      },
+      {
+        "prompt": "What can be inferred about pre-registered visitors?",
+        "category": "inference",
+        "choices": [
+          "They are not required to wear any badge",
+          "They must pay a fee at the gatehouse",
+          "They should get through the gate faster",
+          "They will not need to show identification"
+        ],
+        "answerIndex": 2,
+        "explanation": "Pre-registered visitors need only to show identification and collect a badge."
+      },
+      {
+        "prompt": "What is true about contractors?",
+        "category": "not_true",
+        "choices": [
+          "They can apply for six-month passes",
+          "They are banned from the park at night",
+          "They must hold a pass for each building",
+          "They are charged a fee for each badge"
+        ],
+        "answerIndex": 0,
+        "explanation": "Regular contractors can obtain passes valid for six months."
+      }
+    ]
+  },
+  {
+    "id": "p7-354",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Head of Partnerships, Tidewell Foundation",
+        "text": "The Tidewell Foundation, a charity that funds coastal conservation projects in eleven countries, is seeking a Head of Partnerships to lead our relationships with corporate donors, governments and local community organizations.\n\nThe post is new, created in response to a decision by the trustees to broaden our funding base, which until now has depended heavily on two long-standing donors. You will develop a strategy for attracting new partners, negotiate agreements and ensure that each partnership delivers what was promised to both sides. You will report to the Executive Director and manage a team of four.\n\nWe are looking for someone with at least ten years of experience in fundraising or business development, preferably within the non-profit sector, and a record of securing multi-year agreements of significant value. The successful candidate will be an excellent listener as well as a persuasive speaker, since many of our partners are small organizations whose priorities may differ greatly from those of corporate sponsors. Fluency in Spanish or French is a strong advantage.\n\nThe role is based at our office in Plymouth and requires about three weeks of international travel per year. We offer a salary commensurate with experience, together with generous holidays and a pension scheme. To apply, please send a letter that describes a partnership you built and what made it last, together with your CV, by 14 September."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the post created?",
+        "category": "detail",
+        "choices": [
+          "To cut reliance on a few major donors",
+          "To replace the current Executive Director",
+          "To open a new office in southern Spain",
+          "To manage the foundation's pension scheme"
+        ],
+        "answerIndex": 0,
+        "explanation": "The trustees wanted to broaden the funding base from two long-standing donors."
+      },
+      {
+        "prompt": "What quality is stressed besides persuasion?",
+        "category": "inference",
+        "choices": [
+          "Knowledge of marine biology and ecology",
+          "A willingness to relocate every few years",
+          "Skill in listening to different partners",
+          "Experience of running a very large charity"
+        ],
+        "answerIndex": 2,
+        "explanation": "Many partners are small organizations whose priorities differ from corporate sponsors."
+      },
+      {
+        "prompt": "What does the application letter require?",
+        "category": "detail",
+        "choices": [
+          "A plan to raise a million dollars",
+          "An account of a partnership that lasted",
+          "A list of conservation projects abroad",
+          "A reference from one of the trustees"
+        ],
+        "answerIndex": 1,
+        "explanation": "Applicants describe a partnership they built and what made it last."
+      },
+      {
+        "prompt": "Which statement about the job is NOT true?",
+        "category": "not_true",
+        "choices": [
+          "It reports directly to the Executive Director",
+          "It manages a team of four colleagues",
+          "It is based at the Plymouth office",
+          "It needs living abroad for most of the year"
+        ],
+        "answerIndex": 3,
+        "explanation": "The role requires about three weeks of international travel per year."
+      }
+    ]
+  },
+  {
+    "id": "p7-355",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Chat between two colleagues planning a product launch",
+        "text": "Katarina Novak [15:20]: Have you seen the latest test results? The prototype battery lasts eleven hours, not the fourteen we advertised in the draft brochure.\n\nDmitri Volkov [15:23]: I saw. That's a serious gap. Marketing wants to print the brochures on Monday.\n\nKatarina Novak [15:25]: Then we have to change the figure. We can't claim fourteen hours when our own tests show eleven.\n\nDmitri Volkov [15:27]: Agreed in principle. But the test was done with the screen at maximum brightness. At normal settings, the engineers say it reaches thirteen.\n\nKatarina Novak [15:30]: Then the brochure should say \"up to thirteen hours with typical use\", with a note describing the conditions. That is honest and still attractive.\n\nDmitri Volkov [15:32]: Marketing will grumble, since fourteen sounds better. But I'd rather argue with them now than with customers or regulators later.\n\nKatarina Novak [15:34]: Exactly. Can you ask the engineers to confirm the thirteen-hour figure in writing before Monday morning?\n\nDmitri Volkov [15:35]: I'll do it today. If they can't confirm, we use eleven.\n\nKatarina Novak [15:36]: Fine."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What problem do the colleagues discuss?",
+        "category": "main_idea",
+        "choices": [
+          "A battery has failed a safety inspection",
+          "A brochure was printed with serious errors",
+          "An advertised claim is not backed by tests",
+          "Marketing has refused to print the brochure"
+        ],
+        "answerIndex": 2,
+        "explanation": "The advertised fourteen hours exceeds the test result."
+      },
+      {
+        "prompt": "Why might the true figure be higher than eleven hours?",
+        "category": "detail",
+        "choices": [
+          "The test used maximum screen brightness",
+          "The battery was brand new when tested",
+          "The prototype was recharged halfway through",
+          "The engineers had rounded the figure upward"
+        ],
+        "answerIndex": 0,
+        "explanation": "At normal settings the engineers say it reaches thirteen."
+      },
+      {
+        "prompt": "Why does Mr. Volkov prefer to argue with marketing now?",
+        "category": "inference",
+        "choices": [
+          "Marketing has already approved the figure",
+          "The engineers will be on holiday soon",
+          "The brochure was printed last week already",
+          "A false claim could bring bigger trouble"
+        ],
+        "answerIndex": 3,
+        "explanation": "He would rather argue now than with customers or regulators later."
+      },
+      {
+        "prompt": "What will happen if the engineers cannot confirm thirteen hours?",
+        "category": "inference",
+        "choices": [
+          "The launch will be postponed for a month",
+          "The brochure will use the tested figure",
+          "The brochure will say fourteen hours anyway",
+          "The test will be repeated at full brightness"
+        ],
+        "answerIndex": 1,
+        "explanation": "'If they can't confirm, we use eleven.'"
+      }
+    ]
+  },
+  {
+    "id": "p7-356",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter of complaint to a restaurant",
+        "text": "Dear Mr. Castellano,\n\nI am writing to describe an evening at your restaurant on 22 March, which I had expected to be the highlight of my parents' anniversary and which instead became a source of considerable embarrassment.\n\nWe had booked for eight o'clock, a table for six, and were seated at half past eight. During the wait, no one offered us a drink or an explanation. The food, when it came, was good, I must acknowledge, and the chef deserves credit for the lamb. But the main courses arrived at three different times, so that my father had finished before my mother began, and a dish that I ordered without nuts, owing to my brother's allergy, was served with a nut sauce. Fortunately, we noticed before anyone had tasted it.\n\nWhen I raised the matter with the manager, I was told that the restaurant had been \"unusually busy\", a response that did not address the danger. I do not write to demand compensation, though the bill was not small, but to ask that you review your procedures for allergies, which in my view are seriously deficient.\n\nI should be grateful to receive your reply.\n\nYours sincerely,\nGwendolyn Pryce"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To thank the chef for a very fine meal",
+          "To report poor service and a safety lapse",
+          "To ask for a full refund of the bill",
+          "To reserve a table for a future date"
+        ],
+        "answerIndex": 1,
+        "explanation": "She describes delays, mistimed dishes and an allergy error."
+      },
+      {
+        "prompt": "What was the most serious problem?",
+        "category": "detail",
+        "choices": [
+          "A long wait before being given a table",
+          "A lack of drinks while waiting to sit",
+          "Main courses arriving at separate times",
+          "A nut-free dish served with a nut sauce"
+        ],
+        "answerIndex": 3,
+        "explanation": "A nut-free dish was served with a nut sauce."
+      },
+      {
+        "prompt": "What does the writer say about the food?",
+        "category": "inference",
+        "choices": [
+          "Some of it was worthy of praise",
+          "It was uniformly poor from start to finish",
+          "It was far too expensive for its quality",
+          "It was served cold to the whole table"
+        ],
+        "answerIndex": 0,
+        "explanation": "She acknowledges that the food was good and the lamb deserves credit."
+      },
+      {
+        "prompt": "What does she want from the restaurant?",
+        "category": "inference",
+        "choices": [
+          "A payment of compensation for the evening",
+          "A new table for her parents next time",
+          "A review of its allergy procedures",
+          "The dismissal of the restaurant's manager"
+        ],
+        "answerIndex": 2,
+        "explanation": "She does not demand compensation but asks that procedures for allergies be reviewed."
+      }
+    ]
+  },
+  {
+    "id": "p7-357",
+    "documents": [
+      {
+        "type": "review",
+        "title": "A thriller that forgets its own plot",
+        "text": "Few debut novels have received as much advance publicity as Night Ferry, and few have been as unevenly rewarded. Its opening chapters, in which a translator on an overnight crossing overhears a conversation that she was never meant to understand, are as tense as anything published this year. The prose is spare, the details precise, and the reader, like the heroine, feels exposed.\n\nThe trouble begins halfway through, when the author seems to lose interest in the central mystery and introduces a second plot, involving a smuggling ring in the port, that has little connection with the first. Characters who were carefully drawn become interchangeable, and the heroine, so shrewd at the start, begins to make decisions that nothing in her earlier behavior explains.\n\nBy the closing chapters, the book has stopped asking questions and begun to supply answers at an increasing rate, many of which contradict one another. It is difficult to resist the suspicion that the author had a splendid beginning but no clear idea of how to end.\n\nNone of this makes the book worthless. The first hundred pages alone justify the price, and I look forward to the author's next work. But a reader should be prepared to be thrilled in the beginning, and merely patient thereafter."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall judgment?",
+        "category": "main_idea",
+        "choices": [
+          "A consistently clever and tight thriller",
+          "A dull book that has a good ending",
+          "A collection of stories with no link",
+          "A gripping start, then a muddled finish"
+        ],
+        "answerIndex": 3,
+        "explanation": "The review praises the opening and criticizes the remainder."
+      },
+      {
+        "prompt": "What problem arises halfway through?",
+        "category": "detail",
+        "choices": [
+          "The heroine leaves the story for good",
+          "A second plot is added with few links",
+          "The translator is killed by smugglers",
+          "The ferry sinks in a storm at sea"
+        ],
+        "answerIndex": 1,
+        "explanation": "The author introduces a smuggling plot with little connection to the first."
+      },
+      {
+        "prompt": "What does the reviewer suggest about the heroine?",
+        "category": "inference",
+        "choices": [
+          "She is the best-drawn character throughout",
+          "She is a poor translator of languages",
+          "Her later choices clash with her sharpness",
+          "She is replaced by another narrator"
+        ],
+        "answerIndex": 2,
+        "explanation": "She begins to make decisions that her earlier behavior does not explain."
+      },
+      {
+        "prompt": "What is the reviewer's attitude toward the author?",
+        "category": "inference",
+        "choices": [
+          "Hopeful about the author's next work",
+          "Convinced that the author lacks talent",
+          "Certain that the book will be a hit",
+          "Angry about all the advance publicity"
+        ],
+        "answerIndex": 0,
+        "explanation": "The reviewer looks forward to the author's next work."
+      }
+    ]
+  },
+  {
+    "id": "p7-358",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why more cities are reopening buried rivers",
+        "text": "For more than a century, urban planners treated small rivers as nuisances. Hundreds were channeled into culverts and covered by roads, their courses recorded only on old maps. Today, a number of cities are digging them up again, and the reasons have more to do with flooding than with nostalgia.\n\nThe logic is simple. A river forced through a pipe can carry only as much water as the pipe allows, so that a heavy storm causes the pipe to overflow and the street above to flood. An open channel, with banks that can spill harmlessly into adjoining parks, can absorb far more. One city that reopened a river in its center reported that damage claims from flooding in the surrounding district fell by two thirds within five years.\n\nThe projects are not simple to carry out. A culverted river often runs beneath buildings, so that restoring it means demolishing or rebuilding them, and the cost per kilometer can be very high. Residents, moreover, are not always enthusiastic: some fear mosquitoes or the loss of parking.\n\nStill, the evidence is accumulating, and several authorities that were initially skeptical have begun to treat the buried river not as a relic but as a piece of infrastructure waiting to be recovered."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Reopening rivers cuts floods, at a cost",
+          "Rivers should be covered to prevent floods",
+          "Cities are building new rivers in parks",
+          "Mosquitoes have been removed from cities"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article presents flood benefits and the difficulties of restoration."
+      },
+      {
+        "prompt": "Why do covered rivers cause flooding?",
+        "category": "detail",
+        "choices": [
+          "Rivers dry up completely in the summer",
+          "Roads absorb too much of the rainfall",
+          "Pipes carry only a fixed amount of water",
+          "Culverts are always built too high"
+        ],
+        "answerIndex": 2,
+        "explanation": "A river in a pipe can carry only as much as the pipe allows."
+      },
+      {
+        "prompt": "What can be inferred about the city that reduced damage claims?",
+        "category": "inference",
+        "choices": [
+          "It built far more parking spaces",
+          "Its open river helped absorb storm water",
+          "It filled its parks with standing water",
+          "It had no storms at all in five years"
+        ],
+        "answerIndex": 1,
+        "explanation": "Open channels with spill banks absorb more water; damage claims fell by two thirds."
+      },
+      {
+        "prompt": "What attitude change does the last paragraph report?",
+        "category": "inference",
+        "choices": [
+          "Residents now oppose every river project",
+          "Cities now prefer pipes to open rivers",
+          "Planners now ignore all the old maps",
+          "Skeptics now see rivers as assets"
+        ],
+        "answerIndex": 3,
+        "explanation": "Several once-skeptical authorities treat the buried river as infrastructure."
+      }
+    ]
+  }
+]
