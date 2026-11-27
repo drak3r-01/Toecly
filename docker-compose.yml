@@ -13,13 +13,6 @@ services:
     <<: *flutter
     command: sh -c "flutter pub get && flutter build apk --release"
 
-  # Browser preview -> http://localhost:8080
-  web-preview:
-    <<: *flutter
-    ports:
-      - "8080:8080"
-    command: sh -c "flutter pub get && flutter run -d web-server --web-port=8080 --web-hostname=0.0.0.0"
-
 volumes:
   pub-cache:
   gradle-cache:
