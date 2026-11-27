@@ -1,522 +1,184 @@
 [
   {
-    "id": "p5-761",
-    "sentence": "The office ___ the meeting took place has since been renovated.",
+    "id": "p5-1299",
+    "sentence": "The legislation seeks to ___ the loophole that allowed firms to avoid paying tax abroad.",
     "choices": [
-      "whose",
-      "what",
-      "which",
-      "where"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Where' refers to a place and replaces 'in which'. 'which' alone needs a preposition, 'what' is not a relative, and 'whose' is possessive."
-  },
-  {
-    "id": "p5-762",
-    "sentence": "We hired a consultant ___ expertise in supply chains is widely recognised.",
-    "choices": [
-      "whose",
-      "which",
-      "who",
-      "whom"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Whose' expresses possession and links to 'expertise'. The other pronouns cannot precede a possessed noun."
-  },
-  {
-    "id": "p5-763",
-    "sentence": "The assistant ___ was hired last week has already learned the filing system.",
-    "choices": [
-      "whom",
-      "who",
-      "what",
-      "whose"
+      "clip",
+      "close",
+      "clasp",
+      "clamp"
     ],
     "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Who' is the subject of 'was hired' and refers to a person. 'whose' is possessive, 'whom' is the object, and 'what' is not relative."
+    "category": "vocabulary",
+    "explanation": "'Close a loophole' is the fixed collocation. The others do not collocate."
   },
   {
-    "id": "p5-764",
-    "sentence": "He is the only employee ___ has received three consecutive performance awards.",
+    "id": "p5-1300",
+    "sentence": "Applicants must have ___ command of both written and spoken English.",
     "choices": [
-      "who",
-      "whose",
-      "whom",
-      "which"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Who' is the subject of 'has received' and refers to a person. 'whom' is the object, 'whose' is possessive, and 'which' refers to things."
-  },
-  {
-    "id": "p5-765",
-    "sentence": "The sales team exceeded ___ target for the third consecutive quarter.",
-    "choices": [
-      "itself",
-      "its",
-      "it's",
-      "their own"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Its' is the possessive of a singular collective noun. 'it's' means 'it is', 'their own' conflicts with the singular, and 'itself' is reflexive."
-  },
-  {
-    "id": "p5-766",
-    "sentence": "The directors reviewed the report ___ before the meeting began.",
-    "choices": [
-      "their",
-      "them",
-      "each other",
-      "themselves"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "A reflexive pronoun emphasises that the directors did it personally. 'them' and 'their' do not fit, and 'each other' implies reciprocity."
-  },
-  {
-    "id": "p5-767",
-    "sentence": "The two departments rely on ___ for accurate sales forecasts.",
-    "choices": [
-      "one another's",
-      "their own",
-      "themselves",
-      "each other"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Each other' is the object of 'rely on' for two parties. 'one another's' is possessive, and the others do not give a reciprocal meaning."
-  },
-  {
-    "id": "p5-768",
-    "sentence": "___ of the three applicants had the necessary qualifications for the senior post.",
-    "choices": [
-      "None",
-      "Any",
-      "Neither",
-      "Nobody"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'None' is used for three or more. 'Neither' is for two, 'Nobody' is followed by no 'of', and 'Any' needs a negative verb."
-  },
-  {
-    "id": "p5-769",
-    "sentence": "There were ___ spare seats, so the organisers cancelled the extra bus.",
-    "choices": [
-      "a few",
-      "a little",
-      "little",
-      "few"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Few' means almost none and suits countable nouns. 'A few' means some, and 'little' and 'a little' are for uncountable nouns."
-  },
-  {
-    "id": "p5-770",
-    "sentence": "The company has ___ time to complete the audit before the filing deadline.",
-    "choices": [
-      "many",
-      "little",
-      "few",
-      "a few"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Little' means almost none and is used with uncountable 'time'. 'few', 'a few' and 'many' are for countable nouns."
-  },
-  {
-    "id": "p5-771",
-    "sentence": "Neither the invoice nor the receipts ___ attached to the claim form.",
-    "choices": [
-      "was",
-      "has",
-      "is",
-      "were"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "With 'neither... nor', the verb agrees with the nearer subject 'receipts', which is plural. 'was', 'is' and 'has' are singular."
-  },
-  {
-    "id": "p5-772",
-    "sentence": "The committee ___ divided on whether to approve the plan, and the vote was postponed.",
-    "choices": [
-      "are",
-      "have been",
-      "was",
-      "were being"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "As a single body in the past, the committee takes a singular verb. The other forms do not match the past singular."
-  },
-  {
-    "id": "p5-773",
-    "sentence": "Her presentation was ___ more convincing than the one delivered by her predecessor.",
-    "choices": [
-      "much of",
-      "too",
-      "very",
-      "far"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Far' intensifies a comparative ('far more convincing'). 'very' cannot modify a comparative, and 'much of' and 'too' do not fit."
-  },
-  {
-    "id": "p5-774",
-    "sentence": "This printer is ___ of the two models tested by our technical department.",
-    "choices": [
-      "fastest",
-      "more fast",
-      "the faster",
-      "the most fast"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "When comparing two items, 'the + comparative' is used. 'fastest' is for three or more, and 'more fast' and 'the most fast' are incorrect."
-  },
-  {
-    "id": "p5-775",
-    "sentence": "The new software is not as complex ___ the previous version.",
-    "choices": [
-      "that",
-      "than",
-      "as",
-      "like"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Not as... as' is the comparative of equality. 'than' goes with comparatives, 'like' is a preposition, and 'that' is not used."
-  },
-  {
-    "id": "p5-776",
-    "sentence": "___ his lack of experience, Mr. Oyelaran was appointed regional manager.",
-    "choices": [
-      "Thanks to",
-      "On behalf of",
-      "In spite of",
-      "Because of"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'In spite of' introduces a contrast. 'Because of' and 'Thanks to' give causes, and 'On behalf of' means representing."
-  },
-  {
-    "id": "p5-777",
-    "sentence": "The conference was a success ___ the poor weather on the opening day.",
-    "choices": [
-      "in case",
-      "owing to",
-      "despite",
-      "whereas"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Despite' is a preposition of contrast. 'Owing to' gives a cause, 'whereas' needs a clause, and 'in case' needs a clause."
-  },
-  {
-    "id": "p5-778",
-    "sentence": "The flights were cancelled ___ the heavy snowfall across the region.",
-    "choices": [
-      "owing to",
-      "regardless",
-      "as if",
-      "in spite of"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Owing to' gives a cause and takes a noun phrase. 'In spite of' gives contrast, and the others do not fit."
-  },
-  {
-    "id": "p5-779",
-    "sentence": "___ the project was behind schedule, the team worked through the weekend.",
-    "choices": [
-      "As",
-      "During",
-      "Without",
-      "Despite"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'As' can introduce a reason clause. The other options are prepositions that need nouns."
-  },
-  {
-    "id": "p5-780",
-    "sentence": "___ you arrive before nine, the reception desk will be closed.",
-    "choices": [
-      "Would",
-      "Should",
-      "Might",
-      "Could"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Should you arrive' is the inverted conditional meaning 'if you arrive'. 'Would', 'Could' and 'Might' are not used in this inversion."
-  },
-  {
-    "id": "p5-781",
-    "sentence": "___ the weather improved, the construction crew would have finished on time.",
-    "choices": [
-      "Has",
-      "Had",
-      "Did",
-      "Were"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Had + subject + past participle' is the inverted third conditional. 'Has', 'Were' and 'Did' do not form it."
-  },
-  {
-    "id": "p5-782",
-    "sentence": "The CEO, ___ speech lasted over an hour, left without answering questions.",
-    "choices": [
-      "whose",
-      "that",
-      "of which",
-      "whom"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Whose' links a person to the possessed noun 'speech'. 'whom' and 'that' cannot be possessive, and 'of which' refers to things."
-  },
-  {
-    "id": "p5-783",
-    "sentence": "___ the budget is approved, the project will not be able to start.",
-    "choices": [
-      "During",
-      "Since",
-      "Despite",
-      "Until"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Until' fits a condition that must be reached first. 'Since', 'Despite' and 'During' do not give this meaning."
-  },
-  {
-    "id": "p5-784",
-    "sentence": "The investors demanded that the CEO ___ down immediately.",
-    "choices": [
-      "steps",
-      "stepping",
-      "step",
-      "stepped"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Demanded that' requires the subjunctive base form. The others are indicative or non-finite."
-  },
-  {
-    "id": "p5-785",
-    "sentence": "Customers can ___ their orders online and track them in real time.",
-    "choices": [
-      "pitch",
-      "plant",
-      "place",
-      "pose"
+      "flowing",
+      "fluid",
+      "fluent",
+      "fluctuant"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Place an order' is the standard collocation. 'Pose', 'plant' and 'pitch' do not collocate with 'orders'."
+    "explanation": "'Fluent command' is the collocation. 'Fluid' and 'flowing' do not collocate with 'command'."
   },
   {
-    "id": "p5-786",
-    "sentence": "The company ___ a loss of four million dollars in the first quarter.",
+    "id": "p5-1301",
+    "sentence": "The regulator has issued a ___ warning to firms that mislead consumers about fees.",
     "choices": [
-      "induced",
-      "inflicted",
-      "incurring",
-      "incurred"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Incur a loss' means suffer it. 'Inflicted' needs a victim, 'incurring' is non-finite, and 'induced' means caused to happen."
-  },
-  {
-    "id": "p5-787",
-    "sentence": "The seminar is ___ to graduates with at least two years of professional experience.",
-    "choices": [
-      "opening",
-      "open",
-      "opened",
-      "openly"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Open to' means available to. The others are a participle, a gerund and an adverb."
-  },
-  {
-    "id": "p5-788",
-    "sentence": "The press office ___ a statement regarding the recall at noon yesterday.",
-    "choices": [
-      "released",
-      "relieved",
-      "relayed to",
-      "relied"
+      "stern",
+      "steep",
+      "stout",
+      "stark"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Released a statement' means published it. 'Relieved' means eased, 'relayed to' is malformed, and 'relied' needs 'on'."
+    "explanation": "'Stern warning' is a standard collocation. The others do not collocate with 'warning'."
   },
   {
-    "id": "p5-789",
-    "sentence": "Her ___ for detail made her an excellent proofreader.",
+    "id": "p5-1302",
+    "sentence": "The airline was ___ £5 million for failing to meet its safety obligations.",
     "choices": [
-      "sight",
-      "look",
-      "view",
-      "eye"
+      "fined",
+      "fixed",
+      "finished",
+      "funded"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'An eye for detail' is the fixed phrase. 'Sight', 'view' and 'look' do not collocate with 'detail' in this sense."
+    "explanation": "'Fined £5 million' is a penalty. The others do not fit."
   },
   {
-    "id": "p5-790",
-    "sentence": "The firm has built a ___ reputation for punctual deliveries over the last decade.",
+    "id": "p5-1303",
+    "sentence": "The board remains ___ to the idea of a takeover despite the generous offer.",
     "choices": [
-      "solitary",
-      "solid",
-      "soluble",
-      "solvent"
+      "avert",
+      "averse",
+      "aversive",
+      "adverse"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Solid reputation' means strong. 'Solvent' means able to pay debts, 'solitary' means alone, and 'soluble' means able to dissolve."
+    "explanation": "'Averse to' means opposed to. 'Adverse' means harmful, 'aversive' means causing dislike, and 'avert' is a verb."
   },
   {
-    "id": "p5-791",
-    "sentence": "Our offices are ___ located, within five minutes of the central station.",
+    "id": "p5-1304",
+    "sentence": "The tender document ___ that bidders must provide references from three previous clients.",
     "choices": [
-      "conveniently",
-      "convening",
-      "convenience",
-      "convenient"
+      "strains",
+      "stipulates",
+      "stifles",
+      "stimulates"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Stipulates that' means specifies as a condition. The others do not take 'that' clauses."
+  },
+  {
+    "id": "p5-1305",
+    "sentence": "Local authorities are ___ with enforcing the new waste regulations.",
+    "choices": [
+      "chased",
+      "charged",
+      "checked",
+      "chosen"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Charged with' means given responsibility for. The others do not fit."
+  },
+  {
+    "id": "p5-1306",
+    "sentence": "The CEO's departure left a ___ in the leadership team that took months to fill.",
+    "choices": [
+      "vessel",
+      "verge",
+      "vault",
+      "vacuum"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Leadership vacuum' is the collocation. The others do not fit."
+  },
+  {
+    "id": "p5-1307",
+    "sentence": "The firm managed to ___ the crisis by renegotiating its loan terms.",
+    "choices": [
+      "wither",
+      "wreathe",
+      "whether",
+      "weather"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Weather a crisis' means survive it. The others are unrelated."
+  },
+  {
+    "id": "p5-1308",
+    "sentence": "Strong sales in Asia helped to ___ the weakness in the European market.",
+    "choices": [
+      "offset",
+      "offend",
+      "offload",
+      "outset"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "An adverb modifies the participle 'located'. The others are an adjective, a noun and a gerund."
+    "category": "vocabulary",
+    "explanation": "'Offset a weakness' means counterbalance it. 'Outset' is a noun, 'offend' means insult, and 'offload' means unload."
   },
   {
-    "id": "p5-792",
-    "sentence": "The tenant is obliged to ___ the landlord of any damage immediately.",
+    "id": "p5-1309",
+    "sentence": "The arbitrator's decision is final and ___ on both parties.",
     "choices": [
-      "announce",
-      "notice",
-      "notify",
-      "note"
+      "bounding",
+      "bending",
+      "binding",
+      "bonding"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Notify someone of something' is the structure. 'Notice' and 'note' do not take a person plus 'of', and 'announce' is not used with a person as object."
+    "explanation": "'Binding on' means legally enforceable against. The others are unrelated."
   },
   {
-    "id": "p5-793",
-    "sentence": "Access to the server room is ___ to authorised personnel.",
+    "id": "p5-1310",
+    "sentence": "The directors were ___ for failing to disclose the conflict of interest.",
     "choices": [
-      "limited",
-      "lacking",
-      "laden",
-      "lapsed"
+      "censored",
+      "centred",
+      "censured",
+      "censused"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Limited to' means restricted to. 'Lapsed' means expired, 'lacking' means missing, and 'laden' means loaded."
+    "explanation": "'Censured' means formally criticised. 'Censored' means suppressed, 'censused' is not used this way, and 'centred' is unrelated."
   },
   {
-    "id": "p5-794",
-    "sentence": "The arbitration panel ruled that the supplier had ___ the terms of the exclusivity clause.",
+    "id": "p5-1311",
+    "sentence": "The firm's accounts will be ___ to independent verification before publication.",
     "choices": [
-      "branded",
-      "bridged",
-      "braced",
-      "breached"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Breached' means broke a contractual term. 'Bridged' means spanned a gap, 'braced' means supported, and 'branded' means marked with a brand."
-  },
-  {
-    "id": "p5-795",
-    "sentence": "Shareholders approved a ___ dividend after the unexpectedly strong half-year results.",
-    "choices": [
-      "spacious",
-      "specious",
-      "specific",
-      "special"
+      "subtracted",
+      "subsided",
+      "subscribed",
+      "subjected"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "A 'special dividend' is a one-off payment. 'Spacious' means roomy, 'specious' means misleadingly plausible, and 'specific' means precise."
+    "explanation": "'Subjected to' means made to undergo. The others do not fit."
   },
   {
-    "id": "p5-796",
-    "sentence": "The bank will ___ the loan only if the applicant provides adequate collateral.",
+    "id": "p5-1312",
+    "sentence": "The agency's rules ___ that all complaints be answered within fifteen working days.",
     "choices": [
-      "expel",
-      "extend",
-      "expose",
-      "expand"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Extend a loan' means grant credit. 'Expand' means enlarge, 'expose' means reveal, and 'expel' means force out."
-  },
-  {
-    "id": "p5-797",
-    "sentence": "Interest on the overdue balance will ___ at a rate of two percent per month.",
-    "choices": [
-      "accede",
-      "accrue",
-      "accuse",
-      "accost"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Interest 'accrues' when it accumulates over time. 'Accede' means agree, 'accost' means approach aggressively, and 'accuse' means blame."
-  },
-  {
-    "id": "p5-798",
-    "sentence": "The retailer was fined for failing to ___ its customers of the product's known defects.",
-    "choices": [
-      "apprehend",
-      "apprise",
-      "appraise",
-      "approximate"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Apprise someone of' means inform them. 'Appraise' means evaluate, 'apprehend' means arrest or grasp, and 'approximate' means estimate."
-  },
-  {
-    "id": "p5-799",
-    "sentence": "The new accounting standards require companies to ___ all lease obligations on their balance sheets.",
-    "choices": [
-      "reclaim",
-      "reproach",
-      "resemble",
-      "recognise"
+      "stabilise",
+      "stagnate",
+      "stimulate",
+      "stipulate"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Recognise' in accounting means record formally. 'Resemble' means look like, 'reproach' means blame, and 'reclaim' means recover."
-  },
-  {
-    "id": "p5-800",
-    "sentence": "The treasurer's report showed that expenditure had ___ revenue for the second year running.",
-    "choices": [
-      "outlasted",
-      "outlined",
-      "outranked",
-      "outpaced"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Outpaced' means grew faster than. 'Outlined' means summarised, 'outlasted' means survived longer, and 'outranked' means held a higher rank."
+    "explanation": "'Stipulate that' means specify. The others do not take 'that' clauses."
   }
 ]
