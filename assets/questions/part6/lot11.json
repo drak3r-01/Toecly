@@ -119,7 +119,7 @@
         "category": "sentence_insertion",
         "choices": [
           "The selection panel was particularly impressed by the originality of your proposal and by the strength of your references.",
-          "The foundation was established in 1964 and has since supported more than eight hundred researchers in the field.",
+          "The foundation was established in 1964 and has since supported more than eight hundred researchers in the field, many of whom now lead teams of their own.",
           "Fellows are invited to present their results at an annual conference held each year in the autumn in Edinburgh.",
           "The number of applications received this year was higher than in any previous year since the program began."
         ],
@@ -222,7 +222,7 @@
   {
     "id": "p6-303",
     "documentType": "advertisement",
-    "text": "Cornerstone Business School – Evening MBA\n\nBalancing career and study is a challenge, [1] our Evening MBA was designed with working professionals in mind. Classes are held on weekday evenings and alternate Saturdays, [2] you can keep your job while you study. [3] The program is taught by faculty with extensive experience in industry, and every student is paired with a mentor from a leading company. Our graduates report an average salary increase of 27 percent within two years of completion. Scholarships covering up to half of the tuition are available to applicants who demonstrate [4] potential. Applications for the January intake close on November 15.",
+    "text": "Cornerstone Business School – Evening MBA\n\nBalancing career and study is a challenge, [1] our Evening MBA was designed with working professionals in mind. Classes are held on weekday evenings and alternate Saturdays, [2] you can keep your job while you study. [3] The program is taught by faculty with extensive experience in industry, and every student is paired with a mentor from a leading company. Our graduates report an average salary increase of 27 percent within two years of completion. Scholarships covering up to half of the tuition are available to applicants who demonstrate [4] potential. Applications for the January intake close on November 15. Visit our open evening on the first Thursday of the month to meet current students and members of the faculty.",
     "questions": [
       {
         "blank": 1,
@@ -277,7 +277,7 @@
   {
     "id": "p6-304",
     "documentType": "job_ad",
-    "text": "Facilities Technician – Rosedale Hospital\n\nRosedale Hospital is seeking a Facilities Technician to join its maintenance team. [1] You will be responsible for the upkeep of heating, ventilation, and electrical systems across the site. The role involves responding to emergency calls, [2] on a rotating basis with other members of the team. Applicants must hold a recognized electrical qualification and [3] work independently. Experience in a healthcare environment is an advantage, but not essential, [4] full training will be provided. The hospital offers a pension scheme, free parking, and generous holiday entitlement. Please send your application to hr@rosedale.example by the closing date of May 30.",
+    "text": "Facilities Technician – Rosedale Hospital\n\nRosedale Hospital is seeking a Facilities Technician to join its maintenance team. [1] You will be responsible for the upkeep of heating, ventilation, and electrical systems across the site. The role involves responding to emergency calls, [2] on a rotating basis with other members of the team. Applicants must hold a recognized electrical qualification and [3] work independently. Experience in a healthcare environment is an advantage, but not essential, [4] full training will be provided. The hospital offers a pension scheme, free parking, and generous holiday entitlement. Please send your application to hr@rosedale.example by the closing date of May 30. Shortlisted candidates will be invited to visit the hospital and meet the team before the final decision is made.",
     "questions": [
       {
         "blank": 1,
@@ -387,7 +387,7 @@
   {
     "id": "p6-306",
     "documentType": "memo",
-    "text": "To: Customer Service Staff\nFrom: Vanessa Holt, Operations Manager\nSubject: New call-handling procedure\n\nStarting on the first of the month, all calls from customers wishing to cancel their subscriptions must be transferred to the Retention Team. [1] The team has been trained to offer alternative plans and discounts that may persuade customers to stay. [2] Agents should not discuss refunds or compensation themselves, as these matters require approval. Calls must be transferred within thirty seconds, [3] customers are not made to wait. If the Retention Team is unavailable, take the customer's number and promise a call back [4] two hours. Details of the procedure are attached.",
+    "text": "To: Customer Service Staff\nFrom: Vanessa Holt, Operations Manager\nSubject: New call-handling procedure\n\nStarting on the first of the month, all calls from customers wishing to cancel their subscriptions must be transferred to the Retention Team. [1] The team has been trained to offer alternative plans and discounts that may persuade customers to stay. [2] Agents should not discuss refunds or compensation themselves, as these matters require approval. Calls must be transferred within thirty seconds, [3] customers are not made to wait. If the Retention Team is unavailable, take the customer's number and promise a call back [4] two hours. Details of the procedure are attached. I am confident that this approach will give customers a better experience and help us to keep more of them.",
     "questions": [
       {
         "blank": 1,
@@ -442,7 +442,7 @@
   {
     "id": "p6-307",
     "documentType": "review",
-    "text": "Restaurant Review: Saffron Table\n\nThe newly opened Saffron Table, on the corner of Mill Road and Church Lane, has been attracting attention for its modern take on traditional Persian cooking. [1] The menu is built around slow-cooked stews and grilled meats, served alongside fragrant rice and fresh herbs. I [2] the lamb with dried limes, which was tender and deeply flavored. The vegetarian dishes, [3] , were less successful and tasted somewhat bland. Service was friendly but occasionally slow, [4] the restaurant was full. Prices are moderate, with most main courses under $20.",
+    "text": "Restaurant Review: Saffron Table\n\nThe newly opened Saffron Table, on the corner of Mill Road and Church Lane, has been attracting attention for its modern take on traditional Persian cooking. [1] The menu is built around slow-cooked stews and grilled meats, served alongside fragrant rice and fresh herbs. I [2] the lamb with dried limes, which was tender and deeply flavored. The vegetarian dishes, [3] , were less successful and tasted somewhat bland. Service was friendly but occasionally slow, [4] the restaurant was full. Prices are moderate, with most main courses under $20. I will certainly be returning with friends, and I suspect that the restaurant will soon need a bigger dining room.",
     "questions": [
       {
         "blank": 1,
@@ -497,7 +497,7 @@
   {
     "id": "p6-308",
     "documentType": "schedule",
-    "text": "Fairmont Orchestra – Season Ticket Information\n\nSeason tickets for the coming concert series go on sale on Monday, August 4. [1] Subscribers will have access to twelve concerts at a reduction of 20 percent compared with the price of individual tickets. Existing subscribers may renew their seats until July 31, [2] after that date they will be released to the public. New subscribers are advised to apply early, [3] seats in the front section sell quickly. [4] Students and seniors are entitled to a further discount of 10 percent on presentation of valid identification. All concerts begin at 7:30 p.m. unless otherwise stated.",
+    "text": "Fairmont Orchestra – Season Ticket Information\n\nSeason tickets for the coming concert series go on sale on Monday, August 4. [1] Subscribers will have access to twelve concerts at a reduction of 20 percent compared with the price of individual tickets. Existing subscribers may renew their seats until July 31, [2] after that date they will be released to the public. New subscribers are advised to apply early, [3] seats in the front section sell quickly. [4] Students and seniors are entitled to a further discount of 10 percent on presentation of valid identification. All concerts begin at 7:30 p.m. unless otherwise stated. Latecomers will be seated at a suitable break in the performance, and children under six will not be admitted.",
     "questions": [
       {
         "blank": 1,
@@ -662,7 +662,7 @@
   {
     "id": "p6-311",
     "documentType": "online_chat",
-    "text": "Maya Torres [9:01]: Good morning. Did you see the message from the printer about the brochures?\nSamuel Cho [9:03]: Yes. They say the delivery will be late. [1]\nMaya Torres [9:04]: Can they not use another print run?\nSamuel Cho [9:06]: They are [2] booked until Friday, I'm afraid. I asked if they could prioritize our order, [3] they would need an extra fee.\nMaya Torres [9:07]: That's too expensive. [4] we find another supplier, the exhibition stand will have no brochures at all.\nSamuel Cho [9:09]: I'll call two other printers right now.",
+    "text": "Maya Torres [9:01]: Good morning. Did you see the message from the printer about the brochures?\nSamuel Cho [9:03]: Yes. They say the delivery will be late. [1]\nMaya Torres [9:04]: Can they not use another print run?\nSamuel Cho [9:06]: They are [2] booked until Friday, I'm afraid. I asked if they could prioritize our order, [3] they would need an extra fee.\nMaya Torres [9:07]: That's too expensive. [4] we find another supplier, the exhibition stand will have no brochures at all.\nSamuel Cho [9:09]: I'll call two other printers right now.\nMaya Torres [9:10]: Thanks. Tell them we need a firm delivery date in writing, otherwise we cannot plan the exhibition stand.",
     "questions": [
       {
         "blank": 1,

@@ -167,7 +167,7 @@
   {
     "id": "p6-259",
     "documentType": "notice",
-    "text": "NOTICE TO CUSTOMERS\nAlder Savings Bank\n\nFrom June 2, our branch on Quayside Road will operate on revised opening hours. [1] The branch will open at 9:30 a.m. and close at 4:30 p.m. from Monday to Friday, and it will no longer open on Saturdays. [2] Customers who need cash or wish to deposit checks outside these hours may use the automated machines in the lobby, [3] are available around the clock. Those who prefer to speak to an adviser on Saturdays can visit our Central branch, which will extend its hours. [4] more information, please call 0800 555 0147 or consult our website.",
+    "text": "NOTICE TO CUSTOMERS\nAlder Savings Bank\n\nFrom June 2, our branch on Quayside Road will operate on revised opening hours. [1] The branch will open at 9:30 a.m. and close at 4:30 p.m. from Monday to Friday, and it will no longer open on Saturdays. [2] Customers who need cash or wish to deposit checks outside these hours may use the automated machines in the lobby, [3] are available around the clock. Those who prefer to speak to an adviser on Saturdays can visit our Central branch, which will extend its hours. [4] more information, please call 0800 555 0147 or consult our website. We thank all customers for their understanding while these new arrangements are introduced across the branch network.",
     "questions": [
       {
         "blank": 1,
@@ -252,7 +252,7 @@
         "blank": 3,
         "category": "sentence_insertion",
         "choices": [
-          "Solar panels have become far cheaper over the last decade, a trend that experts expect to continue.",
+          "Solar panels have become far cheaper over the last decade, a trend that experts expect to continue, according to several independent studies of the energy market.",
           "Aurora was named installer of the year by a trade association at its annual conference in November.",
           "Installation usually takes only two days and is carried out by our own certified staff rather than subcontractors.",
           "Households that use heating powered by electricity stand to gain the most from a rooftop system."

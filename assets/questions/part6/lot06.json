@@ -243,7 +243,7 @@
           "Our pool is maintained at a comfortable temperature and cleaned several times a day by our trained staff.",
           "Classes range from beginner yoga to high-intensity cycling and are held throughout the day, including early morning and late evening.",
           "Park Avenue is served by three bus lines and has a large parking garage located beside the entrance.",
-          "Fitwell was founded by two former athletes who wanted to make professional coaching available to ordinary people."
+          "Fitwell was founded by two former athletes who wanted to make professional coaching available to ordinary people, and it now operates in nine cities across the country."
         ],
         "answerIndex": 1,
         "explanation": "The next sentence says 'Members can also book', so the preceding sentence lists what members already have: classes."
@@ -353,7 +353,7 @@
           "The dashboard was the feature most frequently mentioned in the feedback we received from users last year.",
           "Data on the dashboard now refreshes automatically every thirty seconds, so the figures always reflect current activity.",
           "Users may customize the colors and fonts of the dashboard through the settings menu in the upper corner.",
-          "The widgets can be shared with colleagues by sending a link, although they cannot be edited by other users."
+          "The widgets can be shared with colleagues by sending a link, although they cannot be edited by other users unless the owner changes the permission settings."
         ],
         "answerIndex": 1,
         "explanation": "The next sentence refers to previous versions that required manual refreshing, which contrasts with automatic refreshing."

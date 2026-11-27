@@ -22,7 +22,7 @@
         "choices": [
           "Remote workers may connect through the virtual private network, provided that they use the approved client.",
           "Devices that remain disconnected for the entire period will not receive the update and may be isolated from the network.",
-          "The company is considering replacing its older laptops with lighter models over the course of the next year.",
+          "The company is considering replacing its older laptops with lighter models over the course of the next year, once the budget for the new financial period has been approved.",
           "Software updates are normally installed automatically at night and require no action from the user."
         ],
         "answerIndex": 1,
@@ -222,7 +222,7 @@
   {
     "id": "p6-282",
     "documentType": "online_chat",
-    "text": "Elena [2:10 p.m.]: Have you finished the slides for the investor meeting?\nRavi [2:12 p.m.]: Nearly. [1] I'm still waiting for the final sales figures from the Asia team.\nElena [2:13 p.m.]: They promised to send them by 3, [2] I wouldn't count on it.\nRavi [2:15 p.m.]: Neither would I. Should I use last month's numbers [3] we receive the updated ones?\nElena [2:16 p.m.]: Yes, but mark them clearly as provisional. [4] The investors dislike surprises, and we can't be seen to hide anything.\nRavi [2:17 p.m.]: Understood. I'll add a note on slide 6.",
+    "text": "Elena [2:10 p.m.]: Have you finished the slides for the investor meeting?\nRavi [2:12 p.m.]: Nearly. [1] I'm still waiting for the final sales figures from the Asia team.\nElena [2:13 p.m.]: They promised to send them by 3, [2] I wouldn't count on it.\nRavi [2:15 p.m.]: Neither would I. Should I use last month's numbers [3] we receive the updated ones?\nElena [2:16 p.m.]: Yes, but mark them clearly as provisional. [4] The investors dislike surprises, and we can't be seen to hide anything.\nRavi [2:17 p.m.]: Understood. I'll add a note on slide 6.\nElena [2:18 p.m.]: Perfect. Send me the file by four, and I will review everything before it goes to the board.",
     "questions": [
       {
         "blank": 1,
@@ -497,7 +497,7 @@
   {
     "id": "p6-287",
     "documentType": "schedule",
-    "text": "Hartley Technical College – Autumn Enrollment Calendar\n\nOnline enrollment for returning students will open on August 18 and close on August 29. [1] New students may enroll in person at the admissions office from September 1, [2] they must first complete the placement assessment. The first day of lectures is Monday, September 15. Students who wish to change their courses may do so up to the end of the second week, [3] a small administrative fee is charged for each change. After that date, a change will be permitted only [4] exceptional circumstances and with the approval of the head of department.",
+    "text": "Hartley Technical College – Autumn Enrollment Calendar\n\nOnline enrollment for returning students will open on August 18 and close on August 29. [1] New students may enroll in person at the admissions office from September 1, [2] they must first complete the placement assessment. The first day of lectures is Monday, September 15. Students who wish to change their courses may do so up to the end of the second week, [3] a small administrative fee is charged for each change. After that date, a change will be permitted only [4] exceptional circumstances and with the approval of the head of department. Students should consult the college website regularly, as dates may be adjusted if teaching rooms become unavailable.",
     "questions": [
       {
         "blank": 1,
@@ -552,7 +552,7 @@
   {
     "id": "p6-288",
     "documentType": "text_message",
-    "text": "Hello Ms. Park, this is Rafael from Greenway Couriers. Your parcel from Seoul has arrived at our depot, [1] it needs to clear customs before we can deliver it. [2] Customs officers have asked for an invoice showing the value of the contents. Could you e-mail a copy to documents@greenway.example? [3] they receive it, clearance normally takes one working day. Delivery would then be possible on Wednesday, [4] you will be at home to sign for it. Please call me on 0800 555 0112 if you have any questions.",
+    "text": "Hello Ms. Park, this is Rafael from Greenway Couriers. Your parcel from Seoul has arrived at our depot, [1] it needs to clear customs before we can deliver it. [2] Customs officers have asked for an invoice showing the value of the contents. Could you e-mail a copy to documents@greenway.example? [3] they receive it, clearance normally takes one working day. Delivery would then be possible on Wednesday, [4] you will be at home to sign for it. Please call me on 0800 555 0112 if you have any questions. If you prefer, I can also arrange for the parcel to be collected from our depot between nine and five on any weekday.",
     "questions": [
       {
         "blank": 1,

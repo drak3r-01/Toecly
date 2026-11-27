@@ -23,7 +23,7 @@
           "Several competing manufacturers have already released similar models with longer battery life and lower prices.",
           "The prototype was not without problems, however, and one issue in particular will require immediate attention from engineers.",
           "The testers were drawn from a group of volunteers who had used the previous model for more than a year.",
-          "The marketing department has requested a revised launch date that would allow time for additional consumer trials."
+          "The marketing department has requested a revised launch date that would allow time for additional consumer trials in several of the largest cities."
         ],
         "answerIndex": 1,
         "explanation": "The following sentence reports a problem, so the preceding sentence must signal that issues emerged."
@@ -75,7 +75,7 @@
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The study was based on interviews with two thousand shoppers in seven countries and took nearly two years to complete.",
+          "The study was based on interviews with two thousand shoppers in seven countries and took nearly two years to complete, in cooperation with several universities.",
           "This finding has persuaded many executives that shops are better understood as part of the sales process than as rivals to it.",
           "Retail sales rose slightly in the last quarter, helped by seasonal discounts offered by large department stores.",
           "A number of small boutiques have closed this year as a result of rising rents in the city center."
@@ -132,7 +132,7 @@
         "choices": [
           "We would be pleased to arrange a private tour of the archives during your stay at a time that suits you.",
           "Previous keynote speakers have included several distinguished scholars, and attendance has risen steadily over the past five years.",
-          "Last year's symposium focused on the history of shipping and drew visitors from fourteen different countries.",
+          "Last year's symposium focused on the history of shipping and drew visitors from fourteen different countries, many of them for the first time.",
           "The society was founded in 1921 and publishes a quarterly journal that is read by researchers worldwide."
         ],
         "answerIndex": 1,
@@ -242,7 +242,7 @@
         "choices": [
           "The client has been working with us for six years and has always paid promptly and in full.",
           "The wording would expose us to unlimited liability if the supplier were late, even for reasons beyond our control.",
-          "Clause 7 was added by the client's legal department after an earlier dispute with another supplier.",
+          "Clause 7 was added by the client's legal department after an earlier dispute with another supplier in a different part of the country.",
           "Penalties of this kind are common in the construction sector but are rarely applied in practice."
         ],
         "answerIndex": 1,

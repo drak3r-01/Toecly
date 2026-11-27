@@ -75,7 +75,7 @@
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Many travelers prefer bags with wheels because they reduce the strain on the shoulders during long trips.",
+          "Many travelers prefer bags with wheels because they reduce the strain on the shoulders during long trips through large airports.",
           "Inside, the interior has been designed so that everyday essentials remain accessible without opening the main section.",
           "Customers who purchased the previous edition can upgrade at a reduced price until the end of the year.",
           "The company's designers have studied the habits of business travelers in more than twenty major airports."
@@ -395,7 +395,7 @@
         "choices": [
           "Any changes requested after the proofs were approved have been charged separately and are listed under \"Additional work\".",
           "The library's annual report has been awarded a regional prize for the quality of its photographs and layout.",
-          "Delmar Print & Design has relocated its production facility to a larger building on the northern side of town.",
+          "Delmar Print & Design has relocated its production facility to a larger building on the northern side of town, close to the main railway line.",
           "We would be happy to prepare a quotation for next year's report as soon as your budget has been confirmed."
         ],
         "answerIndex": 0,

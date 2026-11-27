@@ -222,7 +222,7 @@
   {
     "id": "p6-272",
     "documentType": "advertisement",
-    "text": "Executive Travel Insurance by Meridian Mutual\n\nFrequent travel exposes business professionals to risks that standard policies rarely address. Meridian Mutual's Executive Plan covers lost luggage, canceled flights, and medical emergencies in more than 150 countries. [1] You may also add protection for electronic equipment, [2] is often excluded from other policies. Claims can be submitted through our app, and approved payments are normally made within forty-eight hours. [3] Should you fall ill abroad, our multilingual assistance team will arrange treatment and, if necessary, transport home. Because the policy is renewed automatically each year, you [4] never find yourself uninsured. Request a quotation today at meridianmutual.example.",
+    "text": "Executive Travel Insurance by Meridian Mutual\n\nFrequent travel exposes business professionals to risks that standard policies rarely address. Meridian Mutual's Executive Plan covers lost luggage, canceled flights, and medical emergencies in more than 150 countries. [1] You may also add protection for electronic equipment, [2] is often excluded from other policies. Claims can be submitted through our app, and approved payments are normally made within forty-eight hours. [3] Should you fall ill abroad, our multilingual assistance team will arrange treatment and, if necessary, transport home. Because the policy is renewed automatically each year, you [4] never find yourself uninsured. Request a quotation today at meridianmutual.example. Our advisers are available seven days a week and will gladly compare the plan with any policy you already hold.",
     "questions": [
       {
         "blank": 1,
@@ -252,7 +252,7 @@
         "blank": 3,
         "category": "sentence_insertion",
         "choices": [
-          "Premiums are calculated on the basis of age, destination, and the number of trips you take each year.",
+          "Premiums are calculated on the basis of age, destination, and the number of trips you take each year, and may also depend on your previous claims history.",
           "Many of our customers have been with us for more than a decade and recommend us to their colleagues.",
           "Peace of mind extends beyond financial protection, since help is available around the clock wherever you travel.",
           "Policies may be canceled at any time, and any unused portion of the premium is refunded in full."
@@ -505,7 +505,7 @@
         "choices": [
           "Late claims will be accepted only in exceptional circumstances and with written approval from a department head.",
           "The finance department processes claims on the fifteenth and the last day of each month.",
-          "Employees who frequently travel on business may apply for a company credit card to cover their costs.",
+          "Employees who frequently travel on business may apply for a company credit card to cover their costs, subject to approval by their department head.",
           "The expense policy is reviewed annually and updated to reflect changes in tax law."
         ],
         "answerIndex": 0,

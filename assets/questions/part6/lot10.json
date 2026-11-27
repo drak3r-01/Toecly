@@ -22,7 +22,7 @@
         "choices": [
           "The Kessler account is one of our three largest and has been with the company since its early years.",
           "Two of the proposed amendments are in fact acceptable, but the others would change the balance of the agreement.",
-          "The board is scheduled to meet on Tuesday morning, when its members will also discuss the annual budget.",
+          "The board is scheduled to meet on Tuesday morning, when its members will also discuss the annual budget and the plans for the new building.",
           "Our own lawyers have been dealing with contracts of this kind for several years and are well informed."
         ],
         "answerIndex": 1,
@@ -64,7 +64,7 @@
         "category": "sentence_insertion",
         "choices": [
           "Their concerns proved to be unfounded once the first quarterly figures were compared with those of the previous year.",
-          "The experiment was coordinated by a research group and a charity that campaigns for shorter working hours.",
+          "The experiment was coordinated by a research group and a charity that campaigns for shorter working hours, with funding from several public bodies.",
           "The company employs about one hundred and twenty people, most of them based in two offices in the north.",
           "Employees were given the choice between a shorter week and a salary increase of the equivalent amount."
         ],
@@ -174,7 +174,7 @@
         "category": "sentence_insertion",
         "choices": [
           "The existing pipes were laid more than seventy years ago and have been the cause of several leaks in recent winters.",
-          "The department has hired an external contractor who has completed similar projects in several nearby towns.",
+          "The department has hired an external contractor who has completed similar projects in several nearby towns, and it has promised to complete the work without delays.",
           "Drivers are advised to use Marlow Road as an alternative route during the working hours listed below.",
           "Residents who have questions are encouraged to attend a briefing at the community center next week."
         ],
@@ -243,7 +243,7 @@
           "The village has a pharmacy, a post office, and a small supermarket, all within ten minutes of the inn.",
           "The restaurant, which seats thirty, has been praised in several national guides for its seasonal menus and relaxed atmosphere.",
           "The inn has been owned by the same family for three generations and was restored during the nineties.",
-          "The surrounding hills offer walking routes of varying difficulty, with maps available from the front desk."
+          "The surrounding hills offer walking routes of varying difficulty, with maps available from the front desk, as well as suggestions for shorter walks for young children."
         ],
         "answerIndex": 1,
         "explanation": "The next sentence is about breakfast, so the preceding one relates to food."
@@ -332,7 +332,7 @@
   {
     "id": "p6-295",
     "documentType": "web_page",
-    "text": "Harmon Bikes – Warranty and Repairs\n\nAll Harmon bicycles are sold with a five-year warranty on the frame and a two-year warranty on components. [1] To make a claim, bring your bicycle and proof of purchase to any authorized dealer, [2] will assess the problem and arrange a repair or replacement. The warranty does not cover wear and tear, such as worn tires or brake pads, [3] damage resulting from accidents. We recommend that you have your bicycle inspected once a year to keep it in good [4]. Genuine Harmon parts are available through our dealers and online.",
+    "text": "Harmon Bikes – Warranty and Repairs\n\nAll Harmon bicycles are sold with a five-year warranty on the frame and a two-year warranty on components. [1] To make a claim, bring your bicycle and proof of purchase to any authorized dealer, [2] will assess the problem and arrange a repair or replacement. The warranty does not cover wear and tear, such as worn tires or brake pads, [3] damage resulting from accidents. We recommend that you have your bicycle inspected once a year to keep it in good [4]. Genuine Harmon parts are available through our dealers and online. Customers living outside the main service area may order parts directly, and these will be delivered within five working days.",
     "questions": [
       {
         "blank": 1,

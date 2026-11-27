@@ -75,7 +75,7 @@
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The association represents more than three hundred companies in forty countries and was founded in the 1950s.",
+          "The association represents more than three hundred companies in forty countries and was founded in the 1950s by a group of shipping executives.",
           "The imbalance has been most acute in specialist roles, particularly those requiring training in advanced propulsion systems.",
           "Most large vessels today are operated by crews of fewer than twenty people, down from fifty a generation ago.",
           "The report was based on a survey of two hundred shipping companies conducted over a period of six months."
@@ -121,7 +121,7 @@
           "Our products are inspected before leaving the warehouse, and such incidents are extremely uncommon in our experience.",
           "Your order was dispatched on the fourth of the month and should have been delivered within a week.",
           "Tables of this model are available in three finishes, and your choice of oak has been very popular.",
-          "Customers who register their purchases receive an extended warranty free of charge for a further year."
+          "Customers who register their purchases receive an extended warranty free of charge for a further year, provided that they keep their receipt."
         ],
         "answerIndex": 0,
         "explanation": "The next sentence refers to reviewing the photographs; the correct sentence acknowledges the problem and expresses regret in a corporate tone."
@@ -174,7 +174,7 @@
         "category": "sentence_insertion",
         "choices": [
           "Participation is compulsory for everyone present in the building, including visitors and contractors working on the premises.",
-          "The company has not experienced a fire in its offices since the headquarters were opened more than a decade ago.",
+          "The company has not experienced a fire in its offices since the headquarters were opened more than a decade ago, a record that the staff are proud of.",
           "Fire extinguishers throughout the building were inspected last month by a certified technician from the city.",
           "Employees are encouraged to review the evacuation maps posted beside every stairway and elevator on their floor."
         ],
@@ -240,7 +240,7 @@
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Several of our competitors charge extra for features that are included in every Sundale subscription.",
+          "Several of our competitors charge extra for features that are included in every Sundale subscription, including offline access and progress reports.",
           "The content is organized around practical situations such as ordering a meal, booking a hotel, or attending a meeting.",
           "The app was developed by a team of linguists and engineers who previously worked for a university.",
           "Pricing plans start at a very low monthly rate, with discounts for annual and family subscriptions."
@@ -463,7 +463,7 @@
           "The building has an elevator, a laundry room, and a small garden at the back that residents may use.",
           "The landlord will make a final choice based on the completeness of each application rather than the order received.",
           "Your current lease ends at the end of the month, which leaves little time to arrange the move.",
-          "The apartment is within walking distance of the subway and several grocery stores along the main avenue."
+          "The apartment is within walking distance of the subway and several grocery stores along the main avenue, which also has a pharmacy and a bank."
         ],
         "answerIndex": 1,
         "explanation": "The next sentence lists what he needs to submit, so the preceding one explains how the choice will be made."
