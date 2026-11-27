@@ -1,0 +1,406 @@
+[
+  {
+    "id": "p7-212",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Translators fear the rise of machine drafts",
+        "text": "For decades, literary translator Camille Ferrand worked from a blank page. Today, she is more likely to start with a draft produced by software, which she then reworks line by line. [A] The change, she says, has not made her work easier; it has merely altered its nature. \"Correcting a machine's confident mistakes,\" she explains, \"is more tiring than inventing a sentence yourself.\"\n\nPublishers, however, have seen an opportunity. Several now offer lower rates for \"post-editing\" than for translation from scratch, arguing that the machine has done part of the work. [B] The Society of Literary Translators has objected, noting that post-editing can take nearly as long as translating and demands the same linguistic skill. Its survey of 600 members found that a third had been asked to accept reduced fees in the past year.\n\nNot every translator is hostile to the technology. Some use it to handle technical passages or to produce rough versions of lengthy documents, reserving their energy for the passages that matter. [C] Younger translators, in particular, see little point in resisting a tool that clients are likely to adopt anyway. The real danger, according to Ms. Ferrand, is subtler: texts that are accurate but lifeless. \"The software rarely makes a mistake that a reader would notice,\" she says. \"It simply flattens the voice, and no one complains about what they never saw.\" [D]"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The decline in the number of novels published each year",
+          "How software is changing the work of professional translators",
+          "A new language that is spreading across the world",
+          "A court case between a publisher and an author"
+        ],
+        "answerIndex": 1,
+        "explanation": "It describes translators' use of machine drafts and the effects on their pay, work and style."
+      },
+      {
+        "prompt": "What is Ms. Ferrand's view of correcting machine drafts?",
+        "category": "detail",
+        "choices": [
+          "It is quicker than translating from scratch",
+          "It is possible only for technical passages",
+          "It has improved the quality of her translations",
+          "It is more tiring than writing the sentence herself"
+        ],
+        "answerIndex": 3,
+        "explanation": "She says that correcting a machine's confident mistakes is more tiring than inventing a sentence."
+      },
+      {
+        "prompt": "The word \"flattens\" in paragraph 3 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "strips away the individuality of",
+          "makes the meaning more precise in",
+          "speeds up the pace of reading in",
+          "adds a touch of humor to"
+        ],
+        "answerIndex": 0,
+        "explanation": "The software produces accurate but lifeless texts, so it removes the individuality of the writer's voice."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"The software, in other words, does not so much replace the translator as change what the translator is paid to do.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence summarizes the publishers' approach described just before: lower rates for post-editing. [B] follows the sentence about offering lower rates and logically precedes the objection from the Society."
+      }
+    ]
+  },
+  {
+    "id": "p7-213",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Delay in the supply of ceramic tiles",
+        "text": "To: Claire Donovan, Project Manager\nFrom: Hugo Reyes, Purchasing\nSubject: Bellmont Residences: tile delivery\n\nDear Claire,\n\nI have just spoken to our tile supplier, Calcera, about the order for the Bellmont Residences. Unfortunately, the company's kiln broke down last week and production has been halted for ten days. As a result, the first delivery, which was due on 3 July, will now arrive on 17 July at the earliest. The supplier has apologized and offered a credit of 3 percent on the invoice as compensation.\n\nI have explored two alternatives. The first is to buy comparable tiles from Marrow & Sons, a local distributor, which could supply the full quantity within five days but at a price about 12 percent higher; the color is slightly different, and the architect would have to approve it. The second is to reorganize the work so that the tilers begin with the lobby and the corridors, for which Calcera has enough stock in its warehouse to deliver a partial shipment of forty percent on 8 July. The bathrooms, which need the remaining tiles, would then be done later.\n\nI lean toward the second option, because it avoids both the extra cost and a design change, though it would require a new work schedule and a meeting with the tilers. Could we discuss it on Monday?\n\nBest regards,\nHugo"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To ask the project manager for a larger budget",
+          "To announce a change of supplier for the future",
+          "To describe a problem and propose ways to manage it",
+          "To report an accident that happened on a building site"
+        ],
+        "answerIndex": 2,
+        "explanation": "Mr. Reyes describes the supply problem, lists two alternatives and states a preference."
+      },
+      {
+        "prompt": "Why is the original delivery date no longer possible?",
+        "category": "detail",
+        "choices": [
+          "The tiles were damaged in transport",
+          "The distributor has run out of stock",
+          "The producer's equipment stopped working",
+          "The architect rejected the color"
+        ],
+        "answerIndex": 2,
+        "explanation": "The supplier's kiln broke down and production was halted for ten days."
+      },
+      {
+        "prompt": "What is a disadvantage of buying from Marrow & Sons?",
+        "category": "detail",
+        "choices": [
+          "The tiles would cost more and need approval",
+          "The tiles would arrive after 17 July",
+          "The company cannot supply the full quantity",
+          "The tiles are of lower quality than Calcera's"
+        ],
+        "answerIndex": 0,
+        "explanation": "The price is about 12 percent higher and the architect would have to approve the slightly different color."
+      },
+      {
+        "prompt": "What does Mr. Reyes prefer?",
+        "category": "inference",
+        "choices": [
+          "Waiting until the whole order is ready to ship",
+          "Asking the architect to choose a completely new design",
+          "Seeking compensation from the tilers for lost time",
+          "Starting with the areas where tiles are in stock"
+        ],
+        "answerIndex": 3,
+        "explanation": "He leans toward the option of beginning with the lobby and corridors, for which stock exists."
+      }
+    ]
+  },
+  {
+    "id": "p7-214",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Introduction of a quiet hour",
+        "text": "To: All employees, Cardew Marketing\nFrom: Yvonne Baptiste, Managing Director\nSubject: Quiet hour pilot, starting 6 October\n\nAfter a number of staff suggestions and the results of our recent workplace survey, which showed that interruptions were the most frequent obstacle to concentrated work, we will begin a six-week trial of a daily quiet hour. Between 10:00 and 11:00 a.m. each weekday, meetings should not be scheduled, internal chat will be set to \"do not disturb,\" and employees are asked to avoid approaching colleagues at their desks unless the matter is urgent. Telephone calls from clients will continue to be answered by the reception team, which will pass on messages.\n\nThe rule does not apply to the creative studio, where collaborative work often takes place in the morning, nor to employees on the client support desk. Staff who work in these teams may adopt a different hour by agreement with their managers.\n\nAt the end of the trial, we will ask everyone to complete a short questionnaire, and the leadership team will decide whether to continue, adjust or abandon the arrangement. I recognize that some of you may find the hour restrictive, and I welcome your comments in the meantime. A suggestion box has been placed in the kitchen, and you may also write to me directly."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the quiet hour introduced?",
+        "category": "detail",
+        "choices": [
+          "Clients complained about noise in the building",
+          "Staff said that interruptions hindered their focus",
+          "Managers wanted fewer meetings in total",
+          "The creative studio asked for more privacy"
+        ],
+        "answerIndex": 1,
+        "explanation": "The survey showed that interruptions were the most frequent obstacle to concentrated work."
+      },
+      {
+        "prompt": "What is NOT affected by the quiet hour?",
+        "category": "not_true",
+        "choices": [
+          "The scheduling of meetings",
+          "The client support desk's working hours",
+          "Instant messaging between colleagues",
+          "Visits to colleagues' desks"
+        ],
+        "answerIndex": 1,
+        "explanation": "The memo restricts meetings, chat and desk visits; support desk staff may adopt another hour."
+      },
+      {
+        "prompt": "What will happen after six weeks?",
+        "category": "inference",
+        "choices": [
+          "The quiet hour will become permanent for everyone",
+          "The trial will be extended to cover the weekends",
+          "Employees will vote for a new managing director",
+          "The leadership team will decide what happens next"
+        ],
+        "answerIndex": 3,
+        "explanation": "Leadership will decide whether to continue, adjust or abandon the arrangement after the questionnaire."
+      },
+      {
+        "prompt": "What can be inferred about the creative studio?",
+        "category": "inference",
+        "choices": [
+          "Its work gains from discussion between colleagues",
+          "Its staff were unhappy with the survey results",
+          "It never takes telephone calls from clients",
+          "It is managed directly by the managing director"
+        ],
+        "answerIndex": 0,
+        "explanation": "The memo says collaborative work often takes place there in the morning."
+      }
+    ]
+  },
+  {
+    "id": "p7-215",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Review: Lantern Bistro",
+        "text": "Rating: 3 out of 5 · Visited on a Thursday evening with three colleagues\n\nLantern Bistro has been praised in local media for its seasonal menu, and the restaurant does not disappoint when it comes to ingredients. My duck breast was perfectly cooked, and the roasted vegetables that came with it tasted as though they had been picked that morning. A colleague's mushroom risotto was equally good, rich but not heavy. The wine list, though short, was thoughtfully chosen, and the waiter was able to suggest a bottle from a nearby vineyard that matched our dishes.\n\nThe problems began with timing. We waited forty minutes for the main course, during which nobody explained the delay or offered bread. When the food finally came, one dish was missing and had to be prepared again, so that we ate in two shifts. The manager apologized and took the missing dish off the bill, a courteous gesture, but it did not change the fact that our dinner had been spoiled. The dining room, though attractive, is also noisy; conversation across a table of four was difficult.\n\nI would give the kitchen five stars and the service two. If the restaurant can solve its organization problem, it could be one of the best in the district. Until then, I would recommend it for a quiet dinner for two on a weeknight, and not for a group."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's main criticism?",
+        "category": "main_idea",
+        "choices": [
+          "The food was too expensive for its quality level",
+          "The menu offers too few dishes for vegetarians",
+          "The restaurant is poorly organized during service",
+          "The wine list contains no products from the region"
+        ],
+        "answerIndex": 2,
+        "explanation": "Food was excellent but long waits and a missing dish show poor organization."
+      },
+      {
+        "prompt": "What does the reviewer say about the manager?",
+        "category": "detail",
+        "choices": [
+          "A free bottle of wine was offered to the table",
+          "The delay was not apologized for at any point",
+          "The bill was lowered but the evening stayed spoiled",
+          "The missing dish was served to them by hand"
+        ],
+        "answerIndex": 2,
+        "explanation": "The manager apologized and removed the dish from the bill, though dinner was already spoiled."
+      },
+      {
+        "prompt": "The word \"courteous\" in paragraph 2 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "polite",
+          "expensive",
+          "unexpected",
+          "delayed"
+        ],
+        "answerIndex": 0,
+        "explanation": "The reviewer calls the manager's gesture a polite one."
+      },
+      {
+        "prompt": "For which group would the reviewer recommend the bistro?",
+        "category": "inference",
+        "choices": [
+          "Four colleagues attending a lively party",
+          "Tourists visiting at the weekend",
+          "Families with young children",
+          "Two people dining on a quiet weeknight"
+        ],
+        "answerIndex": 3,
+        "explanation": "The reviewer suggests it for a quiet dinner for two on a weeknight, not for a group."
+      }
+    ]
+  },
+  {
+    "id": "p7-216",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Pinecrest Storage: Self-storage units",
+        "text": "Need extra space? Pinecrest Storage offers clean, dry units in sizes from 1.5 to 20 square meters, available on a monthly basis with no long-term contract. Our small unit (3 square meters) costs 45 dollars per month, the medium (7 square meters) 90 dollars, and the large (15 square meters) 160 dollars. All units are protected by an alarm and cameras, and our site is open from 6 a.m. to 10 p.m. every day. The first month is half price for new customers who sign up online. Insurance is available for 8 dollars per month per 1,000 dollars of goods stored. We do not accept food, flammable materials or living things."
+      },
+      {
+        "type": "email",
+        "title": "Enquiry about storage",
+        "text": "Hello,\n\nI will be moving abroad for a year starting in September and want to store the contents of a one-bedroom apartment: a sofa, a bed, a desk, about fifteen boxes and a bicycle. I think the medium unit would be big enough, but I would like your opinion. I would also like to insure everything for about 4,000 dollars. Could you tell me how much I would pay for the first three months and whether I need to be present when the unit is opened or if a friend could collect items on my behalf?\n\nThank you,\nLeonie Baptiste"
+      },
+      {
+        "type": "email",
+        "title": "Re: Enquiry about storage",
+        "text": "Dear Ms. Baptiste,\n\nFor the items you describe, the medium unit should be sufficient if you stack the boxes. Many of our customers in your situation find that 7 square meters is a comfortable fit for a one-bedroom apartment. Insurance for 4,000 dollars would cost 32 dollars per month. Your first month would be half price if you reserve online before the end of this week; after that, the standard price applies.\n\nA friend may collect items provided that you give us a written authorization and a copy of your identity document, which we will keep on file. Because your stay is long, I would recommend paying quarterly; we offer a 5 percent reduction for payments made three months in advance.\n\nKind regards,\nNikhil Rao, Customer Advisor"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Ms. Baptiste's main concern?",
+        "category": "purpose",
+        "choices": [
+          "Finding a furnished apartment in a foreign city",
+          "Choosing suitable storage for her belongings",
+          "Renting a vehicle in order to move her furniture",
+          "Selling her furniture before she leaves the country"
+        ],
+        "answerIndex": 1,
+        "explanation": "She asks about unit size, insurance, cost and access."
+      },
+      {
+        "prompt": "How much will Ms. Baptiste pay for insurance each month?",
+        "category": "inference",
+        "choices": [
+          "8 dollars",
+          "32 dollars",
+          "16 dollars",
+          "45 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "Insurance is 8 dollars per 1,000 dollars of goods, so 4,000 dollars costs 32 dollars."
+      },
+      {
+        "prompt": "How much will she pay for the unit and insurance in the first month if she books online in time?",
+        "category": "inference",
+        "choices": [
+          "45 dollars",
+          "122 dollars",
+          "154 dollars",
+          "77 dollars"
+        ],
+        "answerIndex": 3,
+        "explanation": "The medium unit is 90 dollars; at half price 45, plus insurance 32 gives 77 dollars."
+      },
+      {
+        "prompt": "What does Mr. Rao say about access by a friend?",
+        "category": "detail",
+        "choices": [
+          "It is allowed if her consent is shown in writing",
+          "It is forbidden for security reasons in all cases",
+          "It requires the friend to buy a separate insurance",
+          "It is allowed only between the hours of 6 and 10 p.m."
+        ],
+        "answerIndex": 0,
+        "explanation": "A friend may collect items with a written authorization and a copy of Ms. Baptiste's identity document."
+      },
+      {
+        "prompt": "What is NOT mentioned in Mr. Rao's reply?",
+        "category": "not_true",
+        "choices": [
+          "A discount for paying in advance",
+          "A condition for the half-price month",
+          "A limit on the duration of the stay",
+          "An estimate of the size needed"
+        ],
+        "answerIndex": 2,
+        "explanation": "The reply does not mention any time limit; the ad says there is no long-term contract."
+      }
+    ]
+  },
+  {
+    "id": "p7-217",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Request for time off",
+        "text": "To: Sandra Whitlock, Head of Human Resources\nFrom: Callum Reid, Accounts Department\nSubject: Request for unpaid leave, 1 March to 25 April\n\nDear Sandra,\n\nI am writing to request eight weeks of unpaid leave from 1 March to 25 April. My father is recovering from surgery and will need help at home during that time, and my sister, who would usually take care of him, will be abroad for work. I have already used my annual leave for this year and prefer not to leave my team short at year end, which is why I am proposing to begin after the accounts are closed.\n\nI have discussed my work with my manager, Rina Takahashi, who is willing to redistribute my tasks. I would complete the VAT returns before I leave and will prepare detailed handover notes for my colleague, Ben Okoye, who has agreed to cover the month-end reports. I would remain available by e-mail for urgent questions, although I would not be able to work.\n\nIf the leave cannot be granted in full, I would consider working part-time over a longer period. Thank you for considering my request.\n\nBest regards,\nCallum"
+      },
+      {
+        "type": "memo",
+        "title": "Policy: Unpaid leave",
+        "text": "Employees with more than two years of service may request unpaid leave of up to eight weeks per calendar year for family reasons. Requests must be made at least six weeks in advance and approved by the manager and Human Resources. Leave exceeding four weeks requires a written plan for work coverage. Health insurance contributions by the company continue during the first four weeks only; after that, the employee must pay the premium. Seniority continues to accrue, but pension contributions are suspended during unpaid leave."
+      },
+      {
+        "type": "email",
+        "title": "Re: Request for time off",
+        "text": "Dear Callum,\n\nThank you for the detailed message and for the plan you have prepared. I have checked the policy: you qualify with your three years of service, and your request uses exactly the eight weeks that the policy allows. I have approved it. Please note that after the first four weeks, you will need to pay your health insurance premium yourself, and I will send the details. I would also ask you to meet Ben before 15 February to complete the handover.\n\nI hope your father makes a swift recovery.\n\nKind regards,\nSandra Whitlock"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Mr. Reid request unpaid leave?",
+        "category": "detail",
+        "choices": [
+          "He wants to travel abroad with his sister",
+          "He plans to study for a professional exam",
+          "A relative needs assistance after an operation",
+          "He has been offered a post in another firm"
+        ],
+        "answerIndex": 2,
+        "explanation": "His father is recovering from surgery and needs help at home."
+      },
+      {
+        "prompt": "Why is Mr. Reid entitled to ask for this leave?",
+        "category": "inference",
+        "choices": [
+          "He has worked for the company for more than two years",
+          "He is employed in the human resources department",
+          "He has taken no annual leave at all this year",
+          "He has been appointed to cover a colleague"
+        ],
+        "answerIndex": 0,
+        "explanation": "The policy is for employees with more than two years of service, and Ms. Whitlock mentions his three years."
+      },
+      {
+        "prompt": "Which cost will Mr. Reid have to cover himself?",
+        "category": "detail",
+        "choices": [
+          "His travel to his father's home",
+          "His contribution to the company's pension fund",
+          "The wages of his replacement",
+          "His health insurance after the first month"
+        ],
+        "answerIndex": 3,
+        "explanation": "After four weeks the employee pays the premium."
+      },
+      {
+        "prompt": "What can be inferred about the length of the leave requested?",
+        "category": "inference",
+        "choices": [
+          "It is shorter than the usual leave",
+          "It is the longest period the policy permits",
+          "It is longer than the policy allows",
+          "It is paid by the company"
+        ],
+        "answerIndex": 1,
+        "explanation": "The request covers 1 March to 25 April, which is eight weeks, exactly the maximum under the policy."
+      },
+      {
+        "prompt": "What must Mr. Reid do before taking his leave?",
+        "category": "detail",
+        "choices": [
+          "Reduce his hours for two months",
+          "Hand over his duties to a colleague",
+          "Visit the policy page on the intranet",
+          "Pay the insurance in advance"
+        ],
+        "answerIndex": 1,
+        "explanation": "Ms. Whitlock asks him to meet Ben before 15 February to complete the handover."
+      }
+    ]
+  }
+]
