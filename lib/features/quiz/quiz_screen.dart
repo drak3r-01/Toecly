@@ -5,6 +5,8 @@ import 'package:material_ui/material_ui.dart';
 import '../../app/navigation/app_destination.dart';
 import '../../app/providers.dart';
 import '../../core/widgets/animated_progress_bar.dart';
+import '../../core/widgets/brand_hero_card.dart';
+import '../../core/widgets/score_gauge.dart';
 import '../../data/exercises/models.dart';
 import '../../data/quiz/quiz_request.dart';
 import '../../data/storage/session_record.dart';
@@ -204,10 +206,23 @@ class _Summary extends StatelessWidget {
           child: Column(mainAxisSize: MainAxisSize.min, children: [
             Text(l10n.quizSummaryTitle, style: theme.textTheme.headlineSmall),
             const SizedBox(height: 16),
-            Text(l10n.quizSummaryScore(session.correctCount, total),
-                style: theme.textTheme.displaySmall),
-            const SizedBox(height: 16),
-            AnimatedProgressBar(value: session.correctCount / total),
+            BrandHeroCard(
+              child: Column(children: [
+                ScoreGauge(
+                  value: session.correctCount / total,
+                  size: 140,
+                  child: Text(
+                    '${(session.correctCount * 100 / total).round()}%',
+                    style: theme.textTheme.headlineMedium?.copyWith(color: Colors.white),
+                  ),
+                ),
+                const SizedBox(height: 16),
+                Text(
+                  l10n.quizSummaryScore(session.correctCount, total),
+                  style: theme.textTheme.displaySmall?.copyWith(color: Colors.white),
+                ),
+              ]),
+            ),
             const SizedBox(height: 32),
             FilledButton(onPressed: onLeave, child: Text(leaveLabel)),
           ]),

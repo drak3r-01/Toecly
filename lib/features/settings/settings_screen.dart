@@ -3,6 +3,7 @@ import 'package:material_ui/material_ui.dart';
 
 import '../../app/providers.dart';
 import '../../app/settings/settings_providers.dart';
+import '../../core/widgets/fade_slide_in.dart';
 import '../../l10n/app_localizations.dart';
 
 /// Settings: theme (light / dark / system) and language (system / English / French).
@@ -25,17 +26,20 @@ class SettingsScreen extends ConsumerWidget {
           child: SegmentedButton<ThemeMode>(
             segments: [
               ButtonSegment(
-                  value: ThemeMode.system,
-                  label: Text(l10n.themeAuto),
-                  icon: const Icon(Icons.brightness_auto)),
+                value: ThemeMode.system,
+                label: Text(l10n.themeAuto),
+                icon: const Icon(Icons.brightness_auto),
+              ),
               ButtonSegment(
-                  value: ThemeMode.light,
-                  label: Text(l10n.themeLight),
-                  icon: const Icon(Icons.light_mode)),
+                value: ThemeMode.light,
+                label: Text(l10n.themeLight),
+                icon: const Icon(Icons.light_mode),
+              ),
               ButtonSegment(
-                  value: ThemeMode.dark,
-                  label: Text(l10n.themeDark),
-                  icon: const Icon(Icons.dark_mode)),
+                value: ThemeMode.dark,
+                label: Text(l10n.themeDark),
+                icon: const Icon(Icons.dark_mode),
+              ),
             ],
             selected: {themeMode},
             onSelectionChanged: (selection) =>
@@ -60,15 +64,18 @@ class SettingsScreen extends ConsumerWidget {
         const SizedBox(height: 16),
         _SettingCard(
           label: l10n.resetProgressLabel,
-          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Text(l10n.resetProgressHint, style: Theme.of(context).textTheme.bodySmall),
-            const SizedBox(height: 12),
-            OutlinedButton.icon(
-              icon: const Icon(Icons.delete_outline),
-              label: Text(l10n.resetProgressButton),
-              onPressed: () => _confirmReset(context, ref),
-            ),
-          ]),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(l10n.resetProgressHint, style: Theme.of(context).textTheme.bodySmall),
+              const SizedBox(height: 12),
+              OutlinedButton.icon(
+                icon: const Icon(Icons.delete_outline),
+                label: Text(l10n.resetProgressButton),
+                onPressed: () => _confirmReset(context, ref),
+              ),
+            ],
+          ),
         ),
       ],
     );
@@ -77,7 +84,8 @@ class SettingsScreen extends ConsumerWidget {
 
 Future<void> _confirmReset(BuildContext context, WidgetRef ref) async {
   final l10n = AppLocalizations.of(context);
-  final confirmed = await showDialog<bool>(
+  final confirmed =
+      await showDialog<bool>(
         context: context,
         builder: (context) => AlertDialog(
           title: Text(l10n.resetProgressTitle),
@@ -110,13 +118,19 @@ class _SettingCard extends StatelessWidget {
   final Widget child;
 
   @override
-  Widget build(BuildContext context) => Card(
-        child: Padding(
-          padding: const EdgeInsets.all(24),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [Text(label), const SizedBox(height: 12), child],
-          ),
+  Widget build(BuildContext context) => FadeSlideIn(
+    child: Card(
+      child: Padding(
+        padding: const EdgeInsets.all(24),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(label, style: Theme.of(context).textTheme.titleMedium),
+            const SizedBox(height: 12),
+            child,
+          ],
         ),
-      );
+      ),
+    ),
+  );
 }

@@ -1,7 +1,6 @@
 import 'package:go_router/go_router.dart';
 import 'package:material_ui/material_ui.dart';
 
-import '../../core/widgets/brand_background.dart';
 import '../../core/widgets/toecly_logo.dart';
 import '../../l10n/app_localizations.dart';
 import 'app_destination.dart';
@@ -20,13 +19,6 @@ class ResponsiveShell extends StatelessWidget {
     index,
     // Tapping the active tab again goes back to its root.
     initialLocation: index == navigationShell.currentIndex,
-  );
-
-  Widget _withBackground(Widget child) => Stack(
-    children: [
-      const Positioned.fill(child: BrandBackground()),
-      Positioned.fill(child: child),
-    ],
   );
 
   @override
@@ -57,14 +49,14 @@ class ResponsiveShell extends StatelessWidget {
               ],
             ),
             const VerticalDivider(width: 1),
-            Expanded(child: _withBackground(navigationShell)),
+            Expanded(child: navigationShell),
           ],
         ),
       );
     }
 
     return Scaffold(
-      body: _withBackground(navigationShell),
+      body: navigationShell,
       bottomNavigationBar: NavigationBar(
         selectedIndex: selectedIndex,
         onDestinationSelected: _goToDestination,

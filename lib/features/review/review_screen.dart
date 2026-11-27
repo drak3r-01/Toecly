@@ -4,6 +4,7 @@ import 'package:material_ui/material_ui.dart';
 
 import '../../app/navigation/app_destination.dart';
 import '../../app/providers.dart';
+import '../../core/widgets/fade_slide_in.dart';
 import '../../l10n/app_localizations.dart';
 import '../../data/quiz/quiz_request.dart';
 import '../../data/storage/session_record.dart';
@@ -34,37 +35,49 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
     return Center(
       child: ConstrainedBox(
         constraints: const BoxConstraints(maxWidth: 480),
-        child: Card(
-          margin: const EdgeInsets.all(24),
-          child: Padding(
-            padding: const EdgeInsets.all(32),
-            child: Column(mainAxisSize: MainAxisSize.min, children: [
-              Icon(missed == 0 ? Icons.task_alt : Icons.replay,
-                  size: 48, color: theme.colorScheme.primary),
-              const SizedBox(height: 16),
-              Text(l10n.navReview, style: theme.textTheme.headlineSmall),
-              const SizedBox(height: 8),
-              Text(
-                missed == 0 ? l10n.reviewNothing : l10n.reviewMissedCount(missed),
-                textAlign: TextAlign.center,
-                style: theme.textTheme.bodyLarge,
+        child: FadeSlideIn(
+          child: Card(
+            margin: const EdgeInsets.all(24),
+            child: Padding(
+              padding: const EdgeInsets.all(32),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  CircleAvatar(
+                    radius: 36,
+                    backgroundColor: theme.colorScheme.primaryContainer,
+                    child: Icon(
+                      missed == 0 ? Icons.task_alt : Icons.replay,
+                      size: 36,
+                      color: theme.colorScheme.primary,
+                    ),
+                  ),
+                  const SizedBox(height: 16),
+                  Text(l10n.navReview, style: theme.textTheme.headlineSmall),
+                  const SizedBox(height: 8),
+                  Text(
+                    missed == 0 ? l10n.reviewNothing : l10n.reviewMissedCount(missed),
+                    textAlign: TextAlign.center,
+                    style: theme.textTheme.bodyLarge,
+                  ),
+                  if (missed > 0) ...[
+                    const SizedBox(height: 24),
+                    Text(l10n.practiceCountLabel, style: theme.textTheme.titleSmall),
+                    const SizedBox(height: 8),
+                    QuestionCountPicker(value: _count, onChanged: (count) => _count = count),
+                    const SizedBox(height: 24),
+                    FilledButton.icon(
+                      icon: const Icon(Icons.play_arrow),
+                      label: Text(l10n.practiceStart),
+                      onPressed: () async {
+                        await context.push('${ReviewScreen.sessionPath}?count=$_count');
+                        if (mounted) setState(() {});
+                      },
+                    ),
+                  ],
+                ],
               ),
-              if (missed > 0) ...[
-                const SizedBox(height: 24),
-                Text(l10n.practiceCountLabel, style: theme.textTheme.titleSmall),
-                const SizedBox(height: 8),
-                QuestionCountPicker(value: _count, onChanged: (count) => _count = count),
-                const SizedBox(height: 24),
-                FilledButton.icon(
-                  icon: const Icon(Icons.play_arrow),
-                  label: Text(l10n.practiceStart),
-                  onPressed: () async {
-                    await context.push('${ReviewScreen.sessionPath}?count=$_count');
-                    if (mounted) setState(() {});
-                  },
-                ),
-              ],
-            ]),
+            ),
           ),
         ),
       ),
@@ -80,9 +93,9 @@ class ReviewSessionScreen extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) => QuizSessionScreen(
-        draw: ref.watch(reviewDrawProvider(questionCount)),
-        mode: SessionMode.review,
-        leaveTo: AppDestination.review,
-        leaveLabel: AppLocalizations.of(context).quizBackToReview,
-      );
+    draw: ref.watch(reviewDrawProvider(questionCount)),
+    mode: SessionMode.review,
+    leaveTo: AppDestination.review,
+    leaveLabel: AppLocalizations.of(context).quizBackToReview,
+  );
 }
