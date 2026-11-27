@@ -1,0 +1,362 @@
+[
+  {
+    "id": "p7-307",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The quiet crisis in rural pharmacies",
+        "text": "Across the countryside, small pharmacies are closing at a pace that alarms health officials. Over the past five years, nearly one in eight rural pharmacies has shut its doors, and in some counties the nearest dispensary is now more than thirty kilometers away. The closures rarely make headlines, because no single one is dramatic, but their cumulative effect is considerable.\n\nOwners point to a squeeze from two directions. Reimbursement rates paid by the national insurer for common medicines have fallen, while the wholesale cost of those same medicines has not. For a large urban chain, the shortfall can be absorbed through volume; for an independent shop that serves a few hundred patients, it cannot. Several owners described working unpaid in order to keep a pharmacy open for elderly customers who would otherwise have no access to advice.\n\nThe government has announced a modest subsidy, but critics say it addresses the symptom rather than the cause. A professor of public health argued that the real danger lies in the loss of informal care: pharmacists often notice early signs of illness, confusion over dosage or neglect, and report them to doctors. \"A delivery van can bring the tablets,\" he said, \"but it cannot notice that an old man has stopped coming in.\"\n\nThe ministry says that it will review reimbursement rates next year, though it has given no guarantee of an increase."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the central concern of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Medicines have become too costly for rural patients",
+          "Urban chains have bought most independent shops",
+          "Rural pharmacies are vanishing, and their role",
+          "Delivery vans have replaced all pharmacists"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article links closures to lost access and lost informal care."
+      },
+      {
+        "prompt": "Why can independent pharmacies not absorb the shortfall?",
+        "category": "detail",
+        "choices": [
+          "They lack enough patients to cover it",
+          "They pay higher wages than urban chains",
+          "They are refused wholesale supplies",
+          "They have lost their insurer's approval"
+        ],
+        "answerIndex": 0,
+        "explanation": "Chains absorb it through volume; an independent shop serving a few hundred cannot."
+      },
+      {
+        "prompt": "What does the professor's remark about the delivery van suggest?",
+        "category": "inference",
+        "choices": [
+          "Vans will soon serve every village",
+          "Pharmacists should work in delivery vans",
+          "Elderly patients refuse home deliveries",
+          "Delivery cannot replace personal care"
+        ],
+        "answerIndex": 3,
+        "explanation": "A van brings tablets but cannot notice that a patient has stopped coming in."
+      },
+      {
+        "prompt": "What can be inferred about the ministry's review?",
+        "category": "inference",
+        "choices": [
+          "Rates will be reduced again next year",
+          "A rate rise is possible, not promised",
+          "The subsidy will end after the review",
+          "The review has already been completed"
+        ],
+        "answerIndex": 1,
+        "explanation": "It will review rates but 'has given no guarantee of an increase'."
+      }
+    ]
+  },
+  {
+    "id": "p7-308",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Escalating a recurring fault in the packaging line",
+        "text": "To: Valentina Cruz, Plant Director\nFrom: Ewan Mackintosh, Maintenance Supervisor\nSubject: Recurring stoppages on Line 4: request for decision\n\nDear Valentina,\n\nI am writing to bring to your attention a problem on Line 4 that I believe can no longer be handled within the maintenance budget. Since January the line has stopped unexpectedly eleven times, for a combined total of nearly forty hours, always as a result of the sealing unit overheating.\n\nWe have replaced the sensor twice and cleaned the cooling ducts, but the stoppages continue. The manufacturer's engineer, who visited last week, concluded that the unit was designed for a lower production speed than the one at which we now operate it. He suggested either reducing the line speed by about fifteen percent or replacing the unit at a cost of roughly 60,000 dollars.\n\nNeither option is attractive. Slowing the line would reduce output at a moment when we are struggling to meet the orders from Halden Foods, whereas replacement would exhaust my capital allocation for the year. I therefore ask that you decide, in consultation with finance, which course to follow. I should add that, if nothing changes, I expect the stoppages to become more frequent as the unit ages.\n\nI can supply the full maintenance log if it would be useful.\n\nRegards,\nEwan"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the email?",
+        "category": "purpose",
+        "choices": [
+          "To announce the closure of the bakery",
+          "To seek explanations before renewing",
+          "To complain about a leaking roof only",
+          "To propose a lower rent for the premises"
+        ],
+        "answerIndex": 1,
+        "explanation": "He asks her to decide between slowing the line and replacing the unit."
+      },
+      {
+        "prompt": "What did the manufacturer's engineer conclude?",
+        "category": "detail",
+        "choices": [
+          "The cooling ducts were installed incorrectly",
+          "The sensor had been fitted upside down",
+          "The line had been cleaned too rarely",
+          "The unit was built to run more slowly"
+        ],
+        "answerIndex": 3,
+        "explanation": "The unit was designed for a lower production speed than the current one."
+      },
+      {
+        "prompt": "Why does Mr. Mackintosh dislike slowing the line?",
+        "category": "inference",
+        "choices": [
+          "It would hurt his ability to fill orders",
+          "It would damage the sealing unit further",
+          "It would increase the number of stoppages",
+          "It would anger the manufacturer"
+        ],
+        "answerIndex": 0,
+        "explanation": "Output is needed to meet orders from Halden Foods."
+      },
+      {
+        "prompt": "What does he imply about doing nothing?",
+        "category": "inference",
+        "choices": [
+          "The unit would be repaired by the manufacturer",
+          "The stoppages would end by themselves",
+          "The fault would probably worsen with time",
+          "The orders would be moved to another plant"
+        ],
+        "answerIndex": 2,
+        "explanation": "He expects stoppages to become more frequent as the unit ages."
+      }
+    ]
+  },
+  {
+    "id": "p7-309",
+    "documents": [
+      {
+        "type": "review",
+        "title": "A restaurant that cannot decide what it wants to be",
+        "text": "The new restaurant at the Calloway Hotel opened to considerable fanfare, promising \"modern Mediterranean cooking in a relaxed setting\", and the first impression is of confidence. The room is handsome, the staff are attentive, and a basket of warm flatbread arrives within a minute of sitting down.\n\nThe difficulty is the menu, which seems to have been written by a committee. Alongside grilled octopus and a fine lamb shoulder, there is a burger, a risotto flavored with truffle oil and a dessert described as a \"deconstructed baklava\". The octopus was tender and properly charred; the risotto, by contrast, was heavy and oversalted, and the baklava resembled a pile of ingredients that had not yet been introduced to one another. I came away with the impression of a kitchen capable of much more than it was being allowed to show.\n\nPrices are high, with main courses averaging thirty-two dollars, though the wine list contains several reasonable bottles. The service, while friendly, was uneven: a dish arrived without the sauce that the menu promised, and the apology was longer than the wait for its replacement.\n\nThe restaurant is not bad, and with a tighter menu it could be very good. At present it is a pleasant place that leaves one wondering what it might have been."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall judgment?",
+        "category": "main_idea",
+        "choices": [
+          "A disappointing place with poor service",
+          "An excellent restaurant that deserves its prices",
+          "A hotel restaurant famous for its desserts",
+          "A promising restaurant with an unfocused menu"
+        ],
+        "answerIndex": 3,
+        "explanation": "The reviewer praises the setting and some dishes but criticizes the menu's lack of focus."
+      },
+      {
+        "prompt": "Which dish did the reviewer find successful?",
+        "category": "detail",
+        "choices": [
+          "The truffle risotto with oil",
+          "The grilled octopus starter",
+          "The deconstructed baklava dessert",
+          "The burger with the lamb"
+        ],
+        "answerIndex": 1,
+        "explanation": "The octopus was tender and properly charred."
+      },
+      {
+        "prompt": "What does the reviewer suggest about the kitchen?",
+        "category": "inference",
+        "choices": [
+          "It lacks the equipment to cook lamb",
+          "It was staffed by inexperienced cooks",
+          "It may have skill the menu hides",
+          "It changes its menu every week"
+        ],
+        "answerIndex": 2,
+        "explanation": "The kitchen seems 'capable of much more than it was being allowed to show'."
+      },
+      {
+        "prompt": "What is implied by the remark about the apology?",
+        "category": "inference",
+        "choices": [
+          "The mistake was corrected quickly",
+          "The staff were rude to the diners",
+          "The diners refused to wait",
+          "The sauce was never served"
+        ],
+        "answerIndex": 0,
+        "explanation": "The apology 'was longer than the wait for its replacement'."
+      }
+    ]
+  },
+  {
+    "id": "p7-310",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Regional training program: autumn timetable",
+        "text": "CERTIFICATE IN PROJECT MANAGEMENT — AUTUMN TERM\nDelivered at the Business Studies Center, Room 3.12\n\nModule 1: Foundations of planning\n Mondays, 6:00–8:30 p.m., 7 October to 4 November\nModule 2: Managing budgets and risks\n Wednesdays, 6:00–8:30 p.m., 9 October to 6 November\nModule 3: Leading teams (note: classes fall on a Saturday)\n Saturdays, 9:30 a.m.–1:00 p.m., 12 October to 2 November\nFinal assessment: Friday 15 November, 5:00–7:00 p.m.\n\nImportant notes:\nAttendance at no fewer than four sessions per module is required to be eligible for the final assessment. A session missed through illness may be made up by completing the recorded lecture and a short quiz; a medical note is required.\n\nModule 2 will not run on Wednesday 30 October, because the building will be closed for a public holiday; the missed class will be added on Friday 8 November at the same time.\n\nFees: 1,450 dollars for the full certificate, or 520 dollars per module. Students who register for all three modules before 20 September receive a ten percent reduction."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the document?",
+        "category": "main_idea",
+        "choices": [
+          "To give the dates and fees of a course",
+          "To advertise a university degree course",
+          "To announce the closing of the center",
+          "To report the assessment results"
+        ],
+        "answerIndex": 0,
+        "explanation": "It lists the timetable, attendance rules and fees."
+      },
+      {
+        "prompt": "When will the missed Module 2 class be held?",
+        "category": "detail",
+        "choices": [
+          "On Wednesday 30 October",
+          "On Saturday 2 November",
+          "On Friday 8 November",
+          "On Friday 15 November"
+        ],
+        "answerIndex": 2,
+        "explanation": "The missed class is added on Friday 8 November at the same time."
+      },
+      {
+        "prompt": "What can be inferred about a student absent from three Module 1 sessions?",
+        "category": "inference",
+        "choices": [
+          "The student would pay an extra fee",
+          "The student could not take the final test",
+          "The student could join Module 2 free",
+          "The student would repeat the whole course"
+        ],
+        "answerIndex": 1,
+        "explanation": "At least four sessions per module are needed; Module 1 has five sessions, so missing three leaves only two."
+      },
+      {
+        "prompt": "How much would a student save by registering for all modules early?",
+        "category": "inference",
+        "choices": [
+          "About 520 dollars off the first module",
+          "Nothing, since the fee is fixed",
+          "About 1,450 dollars in total",
+          "About 145 dollars off the certificate"
+        ],
+        "answerIndex": 3,
+        "explanation": "Ten percent of 1,450 dollars is 145 dollars."
+      }
+    ]
+  },
+  {
+    "id": "p7-311",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter withdrawing an offer of employment",
+        "text": "Dear Mr. Osei,\n\nI am writing with great regret to inform you that Calderon Interiors must withdraw the offer of employment that we extended to you on 3 March as Senior Designer.\n\nAs you know, our offer was conditional on the signing of a contract with the Brightwell development, whose management has now decided to postpone its fit-out for at least eighteen months. Without that contract, we have no work to justify an additional senior appointment, and it would be dishonest to ask you to leave a secure post for a role we cannot guarantee.\n\nI should like to say clearly that this decision has nothing to do with your qualifications or conduct during the selection process, which were impressive. If circumstances change, I would be delighted to renew the offer, and I will contact you before advertising the position elsewhere. In recognition of the time you gave to our interviews, and of the notice you may already have discussed with your employer, the company will pay you a sum of 1,500 dollars. A cheque is enclosed.\n\nI understand how disappointing this must be, and I am sorry that we cannot offer a more favorable outcome.\n\nYours sincerely,\nMargit Calderon, Director"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To decline an invitation to speak",
+          "To request a refund of a conference fee",
+          "To accept an invitation, with changes",
+          "To report a failure in flood forecasts"
+        ],
+        "answerIndex": 2,
+        "explanation": "The director withdraws the offer and encloses a payment."
+      },
+      {
+        "prompt": "Why was the offer withdrawn?",
+        "category": "detail",
+        "choices": [
+          "A client postponed the post's project",
+          "Mr. Osei failed a final qualification test",
+          "Another candidate accepted a higher salary",
+          "The firm decided to hire a junior instead"
+        ],
+        "answerIndex": 0,
+        "explanation": "The Brightwell development postponed its fit-out for at least eighteen months."
+      },
+      {
+        "prompt": "What does Ms. Calderon imply about Mr. Osei's current job?",
+        "category": "inference",
+        "choices": [
+          "He was dismissed during the selection process",
+          "He works for the Brightwell development",
+          "He has rejected the compensation",
+          "He may have told his employer already"
+        ],
+        "answerIndex": 3,
+        "explanation": "She mentions 'the notice you may already have discussed with your employer'."
+      },
+      {
+        "prompt": "What does she promise about the position?",
+        "category": "inference",
+        "choices": [
+          "To hire him for another department",
+          "To approach him first if it reopens",
+          "To reduce his notice period",
+          "To keep it open for eighteen months"
+        ],
+        "answerIndex": 1,
+        "explanation": "She will contact him 'before advertising the position elsewhere'."
+      }
+    ]
+  },
+  {
+    "id": "p7-312",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The decline of the long commute",
+        "text": "A study of ten thousand workers in six cities has found that the average commute has shortened for the first time in thirty years, falling by nearly four minutes each way. The authors attribute the change not to improved transport but to a gradual move by employers away from city centers, together with the persistence of home working for two or three days a week.\n\nThe finding complicates a common assumption. It had been widely predicted that remote work would encourage people to move to distant towns, accepting a long journey on the few days they had to travel. Instead, the data suggest that those who work from home part of the week choose to live closer to the office, apparently because a short commute becomes more valuable when the journey is taken only occasionally and when the rest of the week is spent in the same house.\n\nThere are, however, losers. Workers in lower-paid jobs, who rarely have the option of home working, have seen their commutes lengthen slightly, partly because housing near new office parks is expensive. The researchers describe a growing gap between those who can choose where to live and those who cannot.\n\nTransport authorities, meanwhile, are uncertain how to respond. Peak-hour demand has fallen, but the pattern is less predictable, making timetables harder to plan."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main finding of the study?",
+        "category": "main_idea",
+        "choices": [
+          "Commuters now prefer trains to all cars",
+          "Commutes shortened for the first time",
+          "Workers have moved to distant towns",
+          "Employers have refused all home working"
+        ],
+        "answerIndex": 1,
+        "explanation": "The study found the average commute falling by nearly four minutes each way."
+      },
+      {
+        "prompt": "How do the authors explain the change?",
+        "category": "detail",
+        "choices": [
+          "Transport has been improved in six cities",
+          "Housing near centers has become cheaper",
+          "Fewer people are employed in offices",
+          "Employers moved out; home working stayed"
+        ],
+        "answerIndex": 3,
+        "explanation": "They attribute it to employers leaving city centers and the persistence of home working."
+      },
+      {
+        "prompt": "What can be inferred about part-time home workers?",
+        "category": "inference",
+        "choices": [
+          "They may value a short trip more now",
+          "They are paid more than other employees",
+          "They prefer to live far from offices",
+          "They avoid using public transport"
+        ],
+        "answerIndex": 0,
+        "explanation": "A short commute becomes more valuable when the journey is occasional."
+      },
+      {
+        "prompt": "What do lower-paid workers experience?",
+        "category": "inference",
+        "choices": [
+          "Shorter journeys because of free transport",
+          "Greater freedom to work from home",
+          "Longer trips as nearby housing costs more",
+          "Higher wages in new office parks"
+        ],
+        "answerIndex": 2,
+        "explanation": "Their commutes have lengthened, partly because housing near new office parks is expensive."
+      }
+    ]
+  }
+]
