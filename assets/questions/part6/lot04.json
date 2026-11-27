@@ -1,539 +1,209 @@
 [
   {
-    "id": "p6-223",
-    "documentType": "email",
-    "text": "To: Product Development Team\nFrom: Yuki Matsuda\nSubject: Prototype test results\n\nI am writing to summarize the results of last week's tests on the Aero 300 vacuum prototype. Overall, the device performed [1] our expectations in suction power and battery life, running for ninety minutes on a single charge. [2] Several testers reported that the handle became uncomfortably warm after about fifteen minutes of continuous use. The engineering team believes the cause is the motor housing, [3] it retains heat more than the previous design did. We will need to redesign this part before the product can proceed to production. I have asked the supplier to send revised samples by the twentieth, and I would appreciate it if everyone could [4] their availability for a review meeting that week.",
+    "id": "p6-416",
+    "documentType": "article",
+    "text": "Meridian Textiles Returns to Profit After Restructuring\n\nMeridian Textiles reported a pre-tax profit of €12.4 million for the first half, [1] a loss of €8 million in the same period last year. [2] The turnaround follows the closure of two loss-making plants and a renegotiation of supply contracts, measures that chief executive Ilse Kramer described as painful but unavoidable.\n\nAnalysts caution, [3], that the improvement may prove temporary. Cotton prices have begun to rise again, and the company has yet to find a way to [4] the effect of a ten percent increase in labor costs.",
     "questions": [
       {
         "blank": 1,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "up to",
-          "by",
-          "at",
-          "on"
+          "compared with",
+          "compared on",
+          "compared in",
+          "compared at"
         ],
         "answerIndex": 0,
-        "explanation": "'performed up to our expectations' is the fixed phrase meaning met them."
+        "explanation": "'Compared with' is the fixed expression for setting one result against another; 'on', 'in' and 'at' cannot follow 'compared' in this sense."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Several competing manufacturers have already released similar models with longer battery life and lower prices.",
-          "The prototype was not without problems, however, and one issue in particular will require immediate attention from engineers.",
-          "The testers were drawn from a group of volunteers who had used the previous model for more than a year.",
-          "The marketing department has requested a revised launch date that would allow time for additional consumer trials in several of the largest cities."
+          "The result marks a striking decline for a company that analysts had praised barely eighteen months ago.",
+          "The result marks a striking reversal for a company that analysts had written off barely eighteen months ago.",
+          "The result falls short of expectations for a company that analysts had forecast to double sales within eighteen months.",
+          "The result was announced by a company that analysts had written off long before the closure of its two plants."
         ],
         "answerIndex": 1,
-        "explanation": "The following sentence reports a problem, so the preceding sentence must signal that issues emerged."
+        "explanation": "The next sentence begins 'The turnaround follows', so the previous one must describe a reversal from loss to profit; the others describe a decline, a disappointment, or a timeline that clashes with 'follows the closure'."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
+          "therefore",
+          "moreover",
+          "however",
+          "similarly"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence contrasts good results with a warning; 'however' marks that contrast, whereas 'therefore', 'moreover' and 'similarly' do not."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "offend",
+          "offer",
+          "offload",
+          "offset"
+        ],
+        "answerIndex": 3,
+        "explanation": "The company must 'offset' (counterbalance) the effect of rising labor costs; 'offend' means insult, 'offer' means propose, and 'offload' means unload."
+      }
+    ]
+  },
+  {
+    "id": "p6-417",
+    "documentType": "email",
+    "text": "Subject: Interruption to your service on 3 and 4 March\n\nDear Ms. Ferreira,\n\nI am writing to apologize for the interruption to your account that began on the evening of 3 March and [1] until the following afternoon. [2] That fault has since been corrected, and the update has been withdrawn pending a full review.\n\nI understand that the outage disrupted your quarter-end reporting, [3] we have credited your account with the equivalent of two months' fees. We have also commissioned an independent review, the findings of which will be shared with you [4] they become available.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "persisted",
+          "persevered",
+          "persuaded",
+          "perpetuated"
+        ],
+        "answerIndex": 0,
+        "explanation": "An interruption 'persisted' (continued) until the afternoon; 'persevered' describes a person's determination, 'persuaded' means convinced, and 'perpetuated' means made to continue by someone."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cause has been traced to a scheduled update to our authentication system, which was installed with sufficient testing.",
+          "The cause has been traced to a faulty update to our authentication system, which was installed without sufficient testing.",
+          "The cause has been traced to a fault in your own network, which was installed without sufficient testing by our staff.",
+          "The cause has been explained to our customers, who were informed of the update in advance of the installation."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says 'That fault has since been corrected, and the update has been withdrawn', so the previous one must identify a fault in the update; only the first does. The others describe a flawless update, blame the customer's network, or mention no fault."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "but nevertheless",
           "although",
-          "unless",
-          "because",
+          "and as a result",
           "whereas"
         ],
         "answerIndex": 2,
-        "explanation": "The housing is the cause because it retains heat."
+        "explanation": "The credit is a consequence of the disruption, expressed by 'as a result'; the other options express contrast, which does not fit an apology."
       },
       {
         "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "conform",
-          "confine",
-          "confuse",
-          "confirm"
-        ],
-        "answerIndex": 3,
-        "explanation": "The writer asks colleagues to confirm their availability."
-      }
-    ]
-  },
-  {
-    "id": "p6-224",
-    "documentType": "article",
-    "text": "Retailers Rethink the Role of the Physical Store\n\nOnline shopping has grown rapidly over the past decade, yet many retailers are discovering that physical stores remain valuable. Analysts at the consultancy Redfern & Moore found that customers who visit a store before purchasing online spend, on average, 25 percent more than those who [1] entirely on websites. [2] As a result, several chains are redesigning their outlets as showrooms where customers can touch products but order them for home delivery. Staff members are being retrained to act as advisers rather than cashiers. [3] the approach has proved popular with younger shoppers, some older customers complain that fewer items are available to take home immediately. Industry observers expect the trend to [4] over the coming years, as more companies experiment with hybrid models that combine online and in-person service.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "rely",
-          "relate",
-          "relax",
-          "reply"
-        ],
-        "answerIndex": 0,
-        "explanation": "One 'relies' on websites entirely; the other verbs do not take 'on'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The study was based on interviews with two thousand shoppers in seven countries and took nearly two years to complete, in cooperation with several universities.",
-          "This finding has persuaded many executives that shops are better understood as part of the sales process than as rivals to it.",
-          "Retail sales rose slightly in the last quarter, helped by seasonal discounts offered by large department stores.",
-          "A number of small boutiques have closed this year as a result of rising rents in the city center."
-        ],
-        "answerIndex": 1,
-        "explanation": "'As a result' in the next sentence needs a cause: the finding that in-store visitors spend more."
-      },
-      {
-        "blank": 3,
         "category": "connector",
         "choices": [
-          "Because",
-          "Unless",
-          "While",
-          "Since"
-        ],
-        "answerIndex": 2,
-        "explanation": "The concession 'While the approach has proved popular' contrasts with older customers' complaints."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "accelerated",
-          "accelerating",
-          "acceleration",
-          "accelerate"
-        ],
-        "answerIndex": 3,
-        "explanation": "After 'expect the trend to', the base verb is needed."
-      }
-    ]
-  },
-  {
-    "id": "p6-225",
-    "documentType": "letter",
-    "text": "Dear Professor Whitfield,\n\nOn behalf of the Westbrook Historical Society, I am delighted to invite you to deliver the keynote address at our annual symposium on March 22. Your recent book on nineteenth-century trade routes has [1] considerable interest among our members, and we are confident that your talk would be a highlight of the event. [2] The symposium will be held at the Grand Hall, which accommodates up to four hundred guests, and the society will cover your accommodation for two nights. We would be grateful if you could let us know by February 10 [3] you are able to accept, so that we can include your name in the printed program. Should you require any [4] regarding travel arrangements, please do not hesitate to contact me directly.\n\nYours sincerely,\nHelen Castellanos\nSecretary, Westbrook Historical Society",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "generated",
-          "granted",
-          "governed",
-          "grown"
-        ],
-        "answerIndex": 0,
-        "explanation": "Interest is 'generated' (created) by a book; 'granted' and 'governed' do not collocate with it."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "We would be pleased to arrange a private tour of the archives during your stay at a time that suits you.",
-          "Previous keynote speakers have included several distinguished scholars, and attendance has risen steadily over the past five years.",
-          "Last year's symposium focused on the history of shipping and drew visitors from fourteen different countries, many of them for the first time.",
-          "The society was founded in 1921 and publishes a quarterly journal that is read by researchers worldwide."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence gives context about the event's prestige that supports the invitation and precedes logistic details."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "that",
-          "which",
-          "whether",
-          "unless"
-        ],
-        "answerIndex": 2,
-        "explanation": "'let us know whether you are able to accept' needs 'whether' to introduce an indirect yes/no question."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "classification",
-          "clarity",
-          "clarify",
-          "clarification"
-        ],
-        "answerIndex": 3,
-        "explanation": "'any clarification regarding' needs a noun meaning an explanation."
-      }
-    ]
-  },
-  {
-    "id": "p6-226",
-    "documentType": "notice",
-    "text": "PUBLIC NOTICE\nDepartment of Parks and Recreation\n\nThe Elmwood Community Pool will be closed for maintenance from August 4 to August 15. During this time, contractors will replace the filtration system and repaint the changing rooms. [1] All swimming lessons scheduled for these dates will be rescheduled, and participants will be contacted individually by telephone. [2] Residents who wish to continue swimming during the closure may use the Lakeshore Pool free of charge by showing their membership card at the entrance. [3] Lakeshore is located about four miles away, a free shuttle will run from Elmwood Library every hour between 8 a.m. and 6 p.m. The department apologizes for the [4] and thanks residents for their patience while the improvements are completed.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "The work is necessary to meet new health regulations, and it is expected to be completed on schedule.",
-          "The pool was last repainted six years ago, when the changing rooms were also fitted with new lockers.",
-          "The department is also considering plans to build a second pool on the northern edge of the neighborhood.",
-          "Contractors have been selected after a competitive process that involved five local companies in the spring."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence explains why the closure is happening and fits after the description of the work."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Membership fees at Elmwood have remained unchanged for three years despite the increase in operating costs.",
-          "Lakeshore Pool offers the same hours as Elmwood and is equipped with a separate area for beginners and children.",
-          "Several residents have asked whether the closure could take place during the winter, when fewer people swim.",
-          "The Lakeshore Pool is run by the same department and was opened to the public almost twenty years ago."
-        ],
-        "answerIndex": 1,
-        "explanation": "The next sentence is about the distance of Lakeshore and the shuttle, so the sentence in blank 2 should be about alternative pools."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "Unless",
-          "Whereas",
-          "Since",
-          "Although"
-        ],
-        "answerIndex": 2,
-        "explanation": "The shuttle is provided because Lakeshore is far away."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "incompetence",
-          "incidence",
-          "inclination",
-          "inconvenience"
-        ],
-        "answerIndex": 3,
-        "explanation": "Organizers apologize for the 'inconvenience' caused by the closure."
-      }
-    ]
-  },
-  {
-    "id": "p6-227",
-    "documentType": "online_chat",
-    "text": "Priya Nair [10:02]: Have you seen the draft of the Hartwell contract yet?\nLuca Bianchi [10:04]: I have. Most of the terms are acceptable, [1] clause 7 concerns me.\nPriya Nair [10:05]: Is that the one about delivery penalties?\nLuca Bianchi [10:06]: Exactly. [2] As written, we would owe 2 percent of the order value for each day of delay, with no upper limit.\nPriya Nair [10:08]: That is far too risky. Should we ask for a cap?\nLuca Bianchi [10:09]: I think so. I'll draft an amendment proposing a maximum of 10 percent, [3] we can discuss it with legal this afternoon.\nPriya Nair [10:11]: Good plan. I'll [4] the client that we need a few more days to finalize the agreement.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "connector",
-        "choices": [
-          "but",
-          "so",
-          "for",
-          "or"
-        ],
-        "answerIndex": 0,
-        "explanation": "The first part accepts the terms; the second raises a concern, a contrast."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The client has been working with us for six years and has always paid promptly and in full.",
-          "The wording would expose us to unlimited liability if the supplier were late, even for reasons beyond our control.",
-          "Clause 7 was added by the client's legal department after an earlier dispute with another supplier in a different part of the country.",
-          "Penalties of this kind are common in the construction sector but are rarely applied in practice."
-        ],
-        "answerIndex": 1,
-        "explanation": "The following sentence explains the clause's effect, so the preceding sentence must say it creates a problem."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "in case",
-          "unless",
-          "so that",
-          "as if"
-        ],
-        "answerIndex": 2,
-        "explanation": "'so that' states the purpose of drafting the amendment now: to discuss it with legal."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "conform",
-          "perform",
-          "reform",
-          "inform"
-        ],
-        "answerIndex": 3,
-        "explanation": "One 'informs' someone that something is the case; the other verbs do not take a 'that' clause."
-      }
-    ]
-  },
-  {
-    "id": "p6-228",
-    "documentType": "invoice",
-    "text": "Statement of Account – Brightline Cleaning Services\n\nCustomer: Ashford Medical Group\nPeriod: October 1 to October 31\n\nThis statement summarizes the services provided to your offices during October. All charges are calculated according to the terms of the contract signed in January. [1] Weekly cleaning of the reception and consulting rooms was carried out on every scheduled date, and one additional deep clean was [2] at your request on October 19. [3] the total below is slightly higher than usual, it reflects this extra service and the cost of replacement supplies. Payment is due within fifteen days. If you [4] to pay by credit card, please call our billing office, as we cannot accept card details by e-mail. Thank you for your business.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "No complaints were received during the period, and the quality inspector rated every visit as satisfactory.",
-          "The contract can be renewed each January upon agreement of both parties and subject to a review of prices.",
-          "Our company recently introduced a new range of environmentally friendly cleaning products for medical offices.",
-          "Ashford Medical Group has recently opened a third clinic, which will also need regular cleaning services."
-        ],
-        "answerIndex": 0,
-        "explanation": "The next sentence lists the services provided, so the preceding sentence should evaluate the month's work."
-      },
-      {
-        "blank": 2,
-        "category": "grammar",
-        "choices": [
-          "perform",
-          "performed",
-          "performing",
-          "performs"
-        ],
-        "answerIndex": 1,
-        "explanation": "The passive 'was performed' is needed after 'was'."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "Because",
-          "Unless",
-          "Although",
-          "Whereas"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Although' introduces the concession: the total is higher, but there is a reason."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "wishes",
-          "wishing",
-          "will wish",
-          "wish"
-        ],
-        "answerIndex": 3,
-        "explanation": "After 'If you', the present simple base form is needed for the second person."
-      }
-    ]
-  },
-  {
-    "id": "p6-229",
-    "documentType": "web_page",
-    "text": "Northgate Community College – Part-Time Study Options\n\nMany of our students combine their studies with work or family commitments, and our part-time programs are designed with this in mind. Courses are delivered in the evening and on weekends, [1] allowing participants to [2] their workload to suit their schedule. [3] Part-time students take the same examinations as full-time students and receive an identical qualification at the end of the program. Financial assistance is available for applicants who meet the income criteria; details can be found on the Fees page. Please note that places in the nursing and engineering programs are limited, [4] we strongly advise applying at least three months before the start of term.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "thereby",
+          "even if",
           "whereas",
-          "although",
-          "instead"
-        ],
-        "answerIndex": 0,
-        "explanation": "'thereby allowing' introduces the result of the evening and weekend delivery."
-      },
-      {
-        "blank": 2,
-        "category": "vocabulary",
-        "choices": [
-          "adjoin",
-          "adjust",
-          "advise",
-          "adhere"
-        ],
-        "answerIndex": 1,
-        "explanation": "Participants can 'adjust' their workload to their schedule."
-      },
-      {
-        "blank": 3,
-        "category": "sentence_insertion",
-        "choices": [
-          "The college library is open until midnight on weekdays and provides quiet study areas on every floor.",
-          "Evening classes are taught by a mix of full-time faculty and professionals who work in the relevant industry.",
-          "Although the pace is slower, the content and standard of assessment are exactly the same as in the full-time version.",
-          "Students who complete the first year with distinction may apply for a scholarship covering part of the second."
-        ],
-        "answerIndex": 2,
-        "explanation": "The next sentence says part-time students take the same exams; the sentence in blank 3 presents the equivalence of the content."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "but",
-          "nor",
-          "yet",
-          "so"
+          "unless",
+          "as soon as"
         ],
         "answerIndex": 3,
-        "explanation": "Places are limited, so applicants are advised to apply early: a cause-and-result link."
+        "explanation": "'As soon as they become available' gives the timing of sharing the findings; 'even if', 'whereas' and 'unless' distort that meaning."
       }
     ]
   },
   {
-    "id": "p6-230",
-    "documentType": "review",
-    "text": "Review: The Silent Harbor by Dana Reyes\n\nDana Reyes's second novel is a slow, atmospheric story set in a fishing town that is gradually losing its young people. [1] The plot follows Marguerite, a widowed shopkeeper who discovers a bundle of letters hidden in her late husband's boat. [2] the story begins at a gentle pace, it gathers tension as Marguerite uncovers a secret that the town has kept for decades. Reyes writes with [3] restraint, and her descriptions of the coast are among the most vivid I have read in recent years. [4] a few secondary characters feel underdeveloped, the novel is a rewarding read and well worth the attention of anyone who enjoys quiet, character-driven fiction.",
+    "id": "p6-418",
+    "documentType": "memo",
+    "text": "To: Warehouse and Logistics Managers\nFrom: Teodor Maric, Health and Safety Officer\nSubject: Mandatory use of protective equipment\n\nFollowing the incident in Bay 4 last month, the safety committee has concluded that existing rules on protective equipment were applied inconsistently. [1] With effect from Monday, all personnel entering the loading area, [2] of their role, must wear high-visibility clothing and approved footwear.\n\nSupervisors will be held [3] for ensuring compliance within their shifts. [4] a worker is found without the required equipment, he or she will be asked to leave the area until the omission has been corrected. Repeated failures will be dealt with under the disciplinary procedure.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Readers of her debut will recognize her gift for atmosphere, though this book is more ambitious in scope.",
-          "The book has been translated into nine languages and was shortlisted for a major literary prize this spring.",
-          "Reyes grew up in a small coastal community and spent several years working as a journalist before writing fiction.",
-          "Critics have compared the novel to the works of several writers who also set their stories near the sea."
+          "The committee therefore considers that a single, unambiguous standard is preferable to local arrangements that vary by team.",
+          "The committee therefore considers that a single, unambiguous standard is unnecessary given local arrangements that vary by team.",
+          "The committee therefore considers that local standards are preferable to a single rule that varies by team.",
+          "The committee has therefore concluded that arrangements that vary by team will remain in force until the next incident."
         ],
         "answerIndex": 0,
-        "explanation": "The next sentence begins the plot summary; the preceding one situates the book relative to her earlier work."
+        "explanation": "The next sentence imposes one rule for 'all personnel', so the previous sentence must favor a single standard. The others call it unnecessary, prefer local rules, or keep the variation."
       },
       {
         "blank": 2,
-        "category": "connector",
-        "choices": [
-          "Because",
-          "Although",
-          "Unless",
-          "Whenever"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Although' contrasts the gentle start with the rising tension."
-      },
-      {
-        "blank": 3,
         "category": "grammar",
         "choices": [
-          "admired",
-          "admiring",
-          "admirable",
-          "admiration"
-        ],
-        "answerIndex": 2,
-        "explanation": "An adjective is needed to modify the noun 'restraint'."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "Because",
-          "Unless",
-          "Since",
-          "Although"
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence concedes a weakness before giving a positive overall verdict."
-      }
-    ]
-  },
-  {
-    "id": "p6-231",
-    "documentType": "text_message",
-    "text": "Hi Dana, this is Marcus from Orion Facilities. I'm writing to let you know that our technician will [1] at your office between 1 and 3 p.m. tomorrow to service the air-conditioning units. [2] He will need access to the roof and to the server room, which I understand is usually locked. Would you be able to ask someone from your IT department to [3] him? If nobody is available, we can reschedule for Friday, [4] that would mean waiting another two days. The units are due for service, and the forecast suggests that the weather will be warm all week. Please let me know as soon as you can. Thanks!",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "arrive",
-          "arrival",
-          "arriving",
-          "arrived"
-        ],
-        "answerIndex": 0,
-        "explanation": "After 'will', the base verb is needed."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Our company has recently expanded its team and now covers all of the buildings in the business park.",
-          "The visit should take about two hours, but he may need extra time if any parts must be replaced.",
-          "The air-conditioning units were installed by a different contractor when the building was constructed.",
-          "Servicing is normally carried out twice a year, once in spring and once in early autumn for most clients."
+          "notwithstanding",
+          "irrespective",
+          "apart",
+          "aside"
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence starts with 'He', so the previous sentence must refer to the technician's visit."
+        "explanation": "'Irrespective of their role' is the fixed expression meaning without regard to; 'notwithstanding', 'apart' and 'aside' are not followed by 'of' in this sense."
       },
       {
         "blank": 3,
         "category": "vocabulary",
         "choices": [
-          "accomplish",
-          "accommodate",
-          "accompany",
-          "accumulate"
+          "accountant",
+          "accounted",
+          "accountable",
+          "accounting"
         ],
         "answerIndex": 2,
-        "explanation": "Someone from IT would 'accompany' the technician to the roof and server room."
+        "explanation": "'Held accountable for' means made responsible for; the other forms are not adjectives that follow 'held'."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "because",
-          "unless",
-          "so that",
-          "although"
+          "Whereas",
+          "Wherein",
+          "Whereby",
+          "Where"
         ],
         "answerIndex": 3,
-        "explanation": "'although' contrasts the offer to reschedule with the cost of waiting two more days."
+        "explanation": "'Where a worker is found without the required equipment' introduces the specific case; 'whereas' contrasts, 'wherein' means in which, and 'whereby' means by which."
       }
     ]
   },
   {
-    "id": "p6-232",
-    "documentType": "schedule",
-    "text": "Riverbank Marathon – Race Weekend Information\n\nRegistration will take place at the Riverbank Convention Center on Friday from noon until 8 p.m. and on Saturday from 8 a.m. until 2 p.m. [1] Runners must present photo identification to collect their numbers and timing chips, and no registration will be available on the day of the race. The marathon will start at 7 a.m. on Sunday, with the half marathon following at 8:30. [2] Roads along the route will be closed to traffic until 2 p.m., so spectators are advised to use public transportation. Water stations will be positioned every three kilometers, and medical staff will be [3] at regular intervals. [4] you plan to run, you should arrive at the starting area no later than 6:30 to allow time to leave your bags.",
+    "id": "p6-419",
+    "documentType": "letter",
+    "text": "Dear Dr. Okonkwo,\n\nI am pleased to offer you the position of Senior Research Fellow in the Department of Environmental Engineering, commencing on 1 September. The appointment is for a fixed term of three years, [1] to review after the second year.\n\n[2] Your salary will be £58,400 per annum, payable monthly in arrears, and you will be entitled to thirty days' annual leave in addition to public holidays. Should you accept this offer, you will be required to [3] the enclosed contract and return it by 15 July. [4] we have not received it by that date, we reserve the right to withdraw the offer.\n\nYours sincerely,\nProfessor Anneliese Vogt\nHead of Department",
     "questions": [
       {
         "blank": 1,
-        "category": "sentence_insertion",
+        "category": "grammar",
         "choices": [
-          "Collection of race materials by anyone other than the registered runner is permitted only with a signed authorization form.",
-          "The convention center is adjacent to the main railway station and offers free parking for all registered participants.",
-          "Sponsors will be offering free samples of energy drinks and snacks at stalls near the finishing line.",
-          "The marathon was first held in 1994 and has since raised more than two million dollars for local charities."
+          "subject",
+          "subjected",
+          "subjecting",
+          "subjective"
         ],
         "answerIndex": 0,
-        "explanation": "The following sentence about photo identification links to the collection procedure."
+        "explanation": "'Subject to review' is the fixed expression meaning dependent on review; the other forms do not fit after the comma."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Prizes will be awarded to the first three finishers in each category during a ceremony in the central square.",
-          "Because the race is run on public roads, participants who start late may be asked to move to the sidewalk.",
-          "Last year's winner completed the course in just over two hours and ten minutes, a record for the event.",
-          "Spectators can follow the progress of individual runners by downloading the official application on their phones."
+          "The terms of the appointment are set out in full in the attached contract, of which the following are the principal exceptions.",
+          "The terms of the appointment are set out in full in the attached contract, of which the following are the principal provisions.",
+          "The terms of the appointment will be agreed in full after the attached contract, of which the following are the principal provisions.",
+          "The terms of the previous appointment are set out in full in the attached contract, of which the following were the main provisions."
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence is about road closures; the correct option connects to the public roads."
+        "explanation": "The next sentences list salary and leave, which are principal provisions; only the first option introduces them correctly. The others speak of exceptions, postpone the agreement, or refer to a previous appointment."
       },
       {
         "blank": 3,
         "category": "vocabulary",
         "choices": [
-          "stationary",
-          "stationery",
-          "stationed",
-          "station"
+          "countermand",
+          "counteract",
+          "countersign",
+          "counterfeit"
         ],
         "answerIndex": 2,
-        "explanation": "Medical staff are 'stationed' at intervals along the route."
+        "explanation": "A contract is 'countersigned' after it has been signed by the other party; 'countermand' means revoke, 'counteract' means neutralize, and 'counterfeit' means forge."
       },
       {
         "blank": 4,
@@ -541,66 +211,11 @@
         "choices": [
           "Unless",
           "Whereas",
-          "Because",
-          "If"
+          "Inasmuch as",
+          "In the event that"
         ],
         "answerIndex": 3,
-        "explanation": "The condition: if you plan to run, you should arrive early."
-      }
-    ]
-  },
-  {
-    "id": "p6-233",
-    "documentType": "memo",
-    "text": "To: Department Supervisors\nFrom: Rosa Delgado, Facilities Manager\nSubject: Parking changes\n\nBeginning on the first of next month, the staff car park behind Building C will be [1] permanently to allow construction of the new research wing. [2] Employees who currently use this lot will be assigned spaces in the overflow lot on Dunmore Road, about five minutes' walk away. A shuttle will operate between the two sites during morning and evening rush hours. [3] the changes will inconvenience some staff, we are confident that the new wing will bring significant benefits to the entire company. Supervisors should inform their teams and encourage them to consider [4] alternatives such as carpooling or cycling, for which showers and secure bike storage are available in Building A.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "closed",
-          "closing",
-          "closure",
-          "close"
-        ],
-        "answerIndex": 0,
-        "explanation": "The passive 'will be closed' needs the past participle."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The new research wing will house laboratories for the materials team and several meeting rooms on two levels.",
-          "Permits for the overflow lot will be issued by the security office on presentation of a valid employee badge.",
-          "Construction is scheduled to take approximately eighteen months, depending on the weather conditions in winter.",
-          "The staff car park behind Building C was resurfaced last year at a cost of about forty thousand dollars."
-        ],
-        "answerIndex": 1,
-        "explanation": "The next sentence refers to 'Employees who currently use this lot', and the permit sentence follows the assignment of spaces."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "Because",
-          "Unless",
-          "Although",
-          "Until"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Although' sets up a concession with 'the changes will inconvenience some staff'."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "sustained",
-          "sustaining",
-          "sustenance",
-          "sustainable"
-        ],
-        "answerIndex": 3,
-        "explanation": "'Sustainable alternatives' is the fixed collocation meaning environmentally friendly options."
+        "explanation": "'In the event that we have not received it' introduces a possible situation; 'unless' would create a double negative with 'not', 'whereas' contrasts, and 'inasmuch as' means because."
       }
     ]
   }
