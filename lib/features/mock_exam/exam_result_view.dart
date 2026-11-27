@@ -2,6 +2,8 @@ import 'package:material_ui/material_ui.dart';
 
 import '../../core/scoring/toeic_score_estimator.dart';
 import '../../core/toeic_part.dart';
+import '../../core/widgets/brand_hero_card.dart';
+import '../../core/widgets/score_gauge.dart';
 import '../../core/widgets/animated_progress_bar.dart';
 import '../../data/exercises/models.dart';
 import '../../data/quiz/exam_session.dart';
@@ -55,18 +57,47 @@ class _ExamResultViewState extends State<ExamResultView> {
                 padding: const EdgeInsets.only(bottom: 12),
                 child: Text(l10n.examTimeUp, style: TextStyle(color: theme.colorScheme.error)),
               ),
-            Text(l10n.quizSummaryScore(session.correctCount, session.totalQuestions),
-                style: theme.textTheme.displaySmall),
-            const SizedBox(height: 4),
-            Text('${l10n.estimatedScoreTitle}: ${l10n.estimatedScoreRange(range.min, range.max)}',
-                style: theme.textTheme.titleMedium),
-            Text('${l10n.estimatedTotalTitle}: ${l10n.estimatedTotalRange(range.doubled.min, range.doubled.max)}',
-                style: theme.textTheme.titleMedium),
-            Text(l10n.estimatedScoreDisclaimer, style: theme.textTheme.bodySmall),
-            const SizedBox(height: 4),
-            Text(l10n.examTimeUsed(widget.used.inMinutes)),
-            const SizedBox(height: 16),
-            AnimatedProgressBar(value: session.successRate),
+            BrandHeroCard(
+              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                Row(children: [
+                  ScoreGauge(
+                    value: session.successRate,
+                    size: 88,
+                    child: Text(
+                      '${(session.successRate * 100).round()}%',
+                      style: theme.textTheme.titleLarge?.copyWith(color: Colors.white),
+                    ),
+                  ),
+                  const SizedBox(width: 16),
+                  Expanded(
+                    child: Text(
+                      l10n.quizSummaryScore(session.correctCount, session.totalQuestions),
+                      style: theme.textTheme.displaySmall?.copyWith(color: Colors.white),
+                    ),
+                  ),
+                ]),
+                const SizedBox(height: 16),
+                DefaultTextStyle.merge(
+                  style: const TextStyle(color: Colors.white),
+                  child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                    Text(
+                      '${l10n.estimatedScoreTitle}: ${l10n.estimatedScoreRange(range.min, range.max)}',
+                      style: theme.textTheme.titleMedium?.copyWith(color: Colors.white),
+                    ),
+                    Text(
+                      '${l10n.estimatedTotalTitle}: ${l10n.estimatedTotalRange(range.doubled.min, range.doubled.max)}',
+                      style: theme.textTheme.titleMedium?.copyWith(color: Colors.white),
+                    ),
+                    Text(
+                      l10n.estimatedScoreDisclaimer,
+                      style: theme.textTheme.bodySmall?.copyWith(color: Colors.white70),
+                    ),
+                    const SizedBox(height: 4),
+                    Text(l10n.examTimeUsed(widget.used.inMinutes)),
+                  ]),
+                ),
+              ]),
+            ),
             const SizedBox(height: 16),
             Text(l10n.examByPart, style: theme.textTheme.titleMedium),
             for (final part in ToeicPart.readingParts)

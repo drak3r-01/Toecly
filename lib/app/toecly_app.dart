@@ -4,6 +4,7 @@ import 'package:material_ui/material_ui.dart';
 
 import '../l10n/app_localizations.dart';
 import 'app_router.dart';
+import '../core/widgets/brand_background.dart';
 import 'settings/settings_providers.dart';
 import 'splash/splash_overlay.dart';
 import 'theme/app_theme.dart';
@@ -39,7 +40,16 @@ class _ToeclyAppState extends ConsumerState<ToeclyApp> {
       localizationsDelegates: [AppLocalizations.delegate, ...GlobalMaterialLocalizations.delegates],
       supportedLocales: AppLocalizations.supportedLocales,
       routerConfig: _router,
-      builder: (context, child) => widget.showSplash ? SplashOverlay(child: child!) : child!,
+      builder: (context, child) {
+        final backdrop = ColoredBox(
+          color: Theme.of(context).colorScheme.surface,
+          child: Stack(children: [
+            const Positioned.fill(child: BrandBackground()),
+            Positioned.fill(child: child!),
+          ]),
+        );
+        return widget.showSplash ? SplashOverlay(child: backdrop) : backdrop;
+      },
     );
   }
 }

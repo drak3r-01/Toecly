@@ -8,6 +8,7 @@ import '../../core/scoring/toeic_score_estimator.dart';
 import '../../core/toeic_part.dart';
 import '../../app/theme/brand_colors.dart';
 import '../../core/widgets/animated_progress_bar.dart';
+import '../../core/widgets/brand_hero_card.dart';
 import '../../core/widgets/fade_slide_in.dart';
 import '../../core/widgets/score_gauge.dart';
 import '../../data/exercises/models.dart';
@@ -221,23 +222,7 @@ class _ScoreHero extends StatelessWidget {
       ],
     );
 
-    return Container(
-      padding: const EdgeInsets.all(24),
-      decoration: BoxDecoration(
-        borderRadius: BorderRadius.circular(28),
-        gradient: const LinearGradient(
-          begin: Alignment.topLeft,
-          end: Alignment.bottomRight,
-          colors: [BrandColors.forest, BrandColors.teal, BrandColors.ink],
-        ),
-        boxShadow: [
-          BoxShadow(
-            color: BrandColors.forest.withValues(alpha: 0.35),
-            blurRadius: 28,
-            offset: const Offset(0, 12),
-          ),
-        ],
-      ),
+    return BrandHeroCard(
       child: LayoutBuilder(
         builder: (context, constraints) {
           final gauge = ScoreGauge(value: middle, size: 96);

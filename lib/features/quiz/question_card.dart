@@ -1,5 +1,6 @@
 import 'package:material_ui/material_ui.dart';
 
+import '../../core/widgets/fade_slide_in.dart';
 import '../../data/exercises/models.dart';
 import '../../l10n/app_localizations.dart';
 
@@ -12,8 +13,8 @@ class FeedbackColors {
 
   static FeedbackColors of(BuildContext context) =>
       Theme.of(context).brightness == Brightness.dark
-          ? const FeedbackColors._(Color(0xFF66BB6A), Color(0xFFEF5350))
-          : const FeedbackColors._(Color(0xFF2E7D32), Color(0xFFC62828));
+          ? const FeedbackColors._(Color(0xFF3DDC8B), Color(0xFFFF6B5A))
+          : const FeedbackColors._(Color(0xFF0B7A46), Color(0xFFD13A24));
 }
 
 /// One question: its prompt, four choices and, once [revealed], the animated
@@ -52,11 +53,14 @@ class QuestionCard extends StatelessWidget {
         for (var i = 0; i < question.choices.length; i++)
           Padding(
             padding: const EdgeInsets.only(bottom: 10),
-            child: _ChoiceTile(
-              letter: String.fromCharCode(65 + i),
-              text: question.choices[i],
-              state: _stateOf(i),
-              onTap: revealed ? null : () => onSelect(i),
+            child: FadeSlideIn(
+              delay: Duration(milliseconds: 60 * i),
+              child: _ChoiceTile(
+                letter: String.fromCharCode(65 + i),
+                text: question.choices[i],
+                state: _stateOf(i),
+                onTap: revealed ? null : () => onSelect(i),
+              ),
             ),
           ),
         AnimatedSize(
@@ -136,7 +140,7 @@ class _ChoiceTile extends StatelessWidget {
         duration: const Duration(milliseconds: 250),
         curve: Curves.easeOut,
         decoration: BoxDecoration(
-          color: filled ? accent.withValues(alpha: 0.15) : null,
+          color: filled ? accent.withValues(alpha: 0.15) : scheme.surfaceContainerLow,
           borderRadius: BorderRadius.circular(16),
           border: Border.all(color: accent, width: filled || state == _ChoiceState.selected ? 2 : 1),
         ),
@@ -148,7 +152,16 @@ class _ChoiceTile extends StatelessWidget {
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
               child: Row(children: [
-                Text('$letter.', style: TextStyle(fontWeight: FontWeight.bold, color: accent)),
+                Container(
+                  width: 32,
+                  height: 32,
+                  alignment: Alignment.center,
+                  decoration: BoxDecoration(
+                    shape: BoxShape.circle,
+                    color: accent.withValues(alpha: 0.16),
+                  ),
+                  child: Text(letter, style: TextStyle(fontWeight: FontWeight.w800, color: accent)),
+                ),
                 const SizedBox(width: 12),
                 Expanded(child: Text(text)),
                 AnimatedSwitcher(

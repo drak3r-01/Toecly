@@ -40,7 +40,13 @@ class AppTheme {
     final shape = RoundedRectangleBorder(borderRadius: BorderRadius.circular(24));
 
     return base.copyWith(
-      scaffoldBackgroundColor: scheme.surface,
+      // Transparent: the brand glow is painted once behind the whole navigator.
+      scaffoldBackgroundColor: Colors.transparent,
+      appBarTheme: const AppBarTheme(
+        backgroundColor: Colors.transparent,
+        surfaceTintColor: Colors.transparent,
+        scrolledUnderElevation: 0,
+      ),
       textTheme: text.copyWith(
         displayLarge: heading(text.displayLarge),
         displayMedium: heading(text.displayMedium),
