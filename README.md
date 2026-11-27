@@ -50,7 +50,7 @@ Niveau **C1 minimum**, comme le vrai TOEIC, avec une explication pour chaque que
 | **6** | Textes à compléter | 500 |
 | **7** | Compréhension (documents simples et multiples) | 500 |
 
-Les questions sont des fichiers JSON validés automatiquement en CI (voir [Ajouter des questions](#️-ajouter-des-questions)).
+Les questions sont des fichiers JSON validés automatiquement en CI.
 Les règles de rédaction sont dans le README de chaque dossier `assets/questions/partN/`.
 
 ## 🧰 Technologies
