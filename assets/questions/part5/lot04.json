@@ -1,83 +1,5 @@
 [
   {
-    "id": "p5-1259",
-    "sentence": "The consultant billed the client for ___ expenses incurred during the on-site assessment.",
-    "choices": [
-      "coincidental",
-      "incidental",
-      "accidental",
-      "occasional"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Incidental expenses' are minor extra costs. 'Accidental' means unintended, 'coincidental' means by chance, and 'occasional' means infrequent."
-  },
-  {
-    "id": "p5-1260",
-    "sentence": "The promotion is ___ to staff who have completed at least two years with the firm.",
-    "choices": [
-      "resigned",
-      "restrained",
-      "restricted",
-      "resisted"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Restricted to' means limited to. 'Resigned', 'restrained' and 'resisted' do not fit 'to staff'."
-  },
-  {
-    "id": "p5-1261",
-    "sentence": "The firm's cash position was ___ by the unexpected delay in customer payments.",
-    "choices": [
-      "strained",
-      "stranded",
-      "strewn",
-      "strapped"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Strained' means put under pressure. 'Stranded' means left without help, 'strapped' means short of money (describing the firm, not the position), and 'strewn' means scattered."
-  },
-  {
-    "id": "p5-1262",
-    "sentence": "Auditors must remain ___ of the companies whose accounts they examine.",
-    "choices": [
-      "independent",
-      "indignant",
-      "indifferent",
-      "indulgent"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Independent of' means free from influence. 'Indifferent' means uninterested, 'indignant' means angry, and 'indulgent' means lenient."
-  },
-  {
-    "id": "p5-1263",
-    "sentence": "The firm hopes to ___ a deal with the union before the current contract lapses.",
-    "choices": [
-      "stray",
-      "strive",
-      "stride",
-      "strike"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Strike a deal' means reach an agreement. The others do not take 'deal' as an object."
-  },
-  {
-    "id": "p5-1264",
-    "sentence": "The directors were ___ of any wrongdoing by the independent inquiry.",
-    "choices": [
-      "cleaned",
-      "cleaved",
-      "cleansed",
-      "cleared"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Cleared of wrongdoing' means found innocent. 'Cleaned' and 'cleansed' mean washed, and 'cleaved' means split."
-  },
-  {
     "id": "p5-1265",
     "sentence": "The airline has been ___ for failing to compensate passengers affected by the cancellations.",
     "choices": [
@@ -364,19 +286,6 @@
     "explanation": "'Cast doubt on' is the fixed collocation. 'Cut', 'sank' and 'poured' do not collocate with 'doubt'."
   },
   {
-    "id": "p5-1287",
-    "sentence": "The board was ___ to approve the budget without having seen the revised projections.",
-    "choices": [
-      "lax",
-      "loose",
-      "liable",
-      "loath"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Loath to' means unwilling to. 'Liable' needs 'to' with a different meaning, and 'lax' and 'loose' do not take an infinitive."
-  },
-  {
     "id": "p5-1288",
     "sentence": "The firm's recovery was ___ by a sharp rise in demand from emerging markets.",
     "choices": [
@@ -518,5 +427,96 @@
     "answerIndex": 0,
     "category": "vocabulary",
     "explanation": "'Poised for' means ready for. 'Posted', 'poured' and 'pitched' do not fit."
+  },
+  {
+    "id": "p5-1299",
+    "sentence": "The legislation seeks to ___ the loophole that allowed firms to avoid paying tax abroad.",
+    "choices": [
+      "clip",
+      "close",
+      "clasp",
+      "clamp"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Close a loophole' is the fixed collocation. The others do not collocate."
+  },
+  {
+    "id": "p5-1300",
+    "sentence": "Applicants must have ___ command of both written and spoken English.",
+    "choices": [
+      "flowing",
+      "fluid",
+      "fluent",
+      "fluctuant"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Fluent command' is the collocation. 'Fluid' and 'flowing' do not collocate with 'command'."
+  },
+  {
+    "id": "p5-1302",
+    "sentence": "The airline was ___ £5 million for failing to meet its safety obligations.",
+    "choices": [
+      "fined",
+      "fixed",
+      "finished",
+      "funded"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Fined £5 million' is a penalty. The others do not fit."
+  },
+  {
+    "id": "p5-1304",
+    "sentence": "The tender document ___ that bidders must provide references from three previous clients.",
+    "choices": [
+      "strains",
+      "stipulates",
+      "stifles",
+      "stimulates"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Stipulates that' means specifies as a condition. The others do not take 'that' clauses."
+  },
+  {
+    "id": "p5-1305",
+    "sentence": "Local authorities are ___ with enforcing the new waste regulations.",
+    "choices": [
+      "chased",
+      "charged",
+      "checked",
+      "chosen"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Charged with' means given responsibility for. The others do not fit."
+  },
+  {
+    "id": "p5-1306",
+    "sentence": "The CEO's departure left a ___ in the leadership team that took months to fill.",
+    "choices": [
+      "vessel",
+      "verge",
+      "vault",
+      "vacuum"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Leadership vacuum' is the collocation. The others do not fit."
+  },
+  {
+    "id": "p5-1307",
+    "sentence": "The firm managed to ___ the crisis by renegotiating its loan terms.",
+    "choices": [
+      "wither",
+      "wreathe",
+      "whether",
+      "weather"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Weather a crisis' means survive it. The others are unrelated."
   }
 ]

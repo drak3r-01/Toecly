@@ -1,70 +1,5 @@
 [
   {
-    "id": "p5-1219",
-    "sentence": "The firm was ___ to pay substantial damages after the court found it had breached the exclusivity clause.",
-    "choices": [
-      "prompted",
-      "advised",
-      "urged",
-      "ordered"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Ordered to pay' is the court-imposed obligation. 'Urged' and 'advised' are non-binding, and 'prompted' needs a different structure."
-  },
-  {
-    "id": "p5-1220",
-    "sentence": "The CEO's remarks were widely ___ as an attempt to reassure shareholders ahead of the vote.",
-    "choices": [
-      "interrupted",
-      "intercepted",
-      "interpreted",
-      "interjected"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Interpreted as' means understood as. 'Intercepted', 'interrupted' and 'interjected' do not take 'as an attempt'."
-  },
-  {
-    "id": "p5-1221",
-    "sentence": "The retailer has ___ a rigorous inspection regime to detect counterfeit goods before they reach the shelves.",
-    "choices": [
-      "insinuated",
-      "instigated",
-      "instituted",
-      "instructed"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Instituted a regime' means established it. 'Instigated' means provoked, 'instructed' means directed, and 'insinuated' means hinted."
-  },
-  {
-    "id": "p5-1222",
-    "sentence": "The tribunal found that the dismissal had been procedurally ___ even though the grounds were valid.",
-    "choices": [
-      "unjust to",
-      "unfit",
-      "unfair",
-      "unsound at"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Procedurally unfair' is the standard employment-law phrase. 'unjust to' and 'unsound at' are malformed, and 'unfit' means unsuitable."
-  },
-  {
-    "id": "p5-1223",
-    "sentence": "The directors have ___ concerns over the firm's ability to meet its covenant obligations.",
-    "choices": [
-      "voiced",
-      "vented",
-      "vowed",
-      "vouched"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Voiced concerns' is the fixed collocation. 'Vouched' needs 'for', 'vented' needs 'frustration', and 'vowed' needs a promise."
-  },
-  {
     "id": "p5-1224",
     "sentence": "The legislation is expected to ___ a heavier compliance burden on small exporters.",
     "choices": [
@@ -76,19 +11,6 @@
     "answerIndex": 3,
     "category": "vocabulary",
     "explanation": "'Impose a burden' means place it on someone. 'Inflict on' is followed by harm, 'enforce' applies to rules, and 'exert' applies to pressure or influence."
-  },
-  {
-    "id": "p5-1225",
-    "sentence": "Interest rates are likely to ___ at their current level until inflation shows sustained signs of easing.",
-    "choices": [
-      "hold",
-      "hinge",
-      "halt",
-      "hover"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Hold at a level' means remain unchanged. 'Halt' means stop, 'hover' means stay near, and 'hinge' needs 'on'."
   },
   {
     "id": "p5-1226",
@@ -518,5 +440,83 @@
     "answerIndex": 3,
     "category": "grammar",
     "explanation": "'Is bound to' means is certain to. The others do not fit the structure."
+  },
+  {
+    "id": "p5-1259",
+    "sentence": "The consultant billed the client for ___ expenses incurred during the on-site assessment.",
+    "choices": [
+      "coincidental",
+      "incidental",
+      "accidental",
+      "occasional"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Incidental expenses' are minor extra costs. 'Accidental' means unintended, 'coincidental' means by chance, and 'occasional' means infrequent."
+  },
+  {
+    "id": "p5-1260",
+    "sentence": "The promotion is ___ to staff who have completed at least two years with the firm.",
+    "choices": [
+      "resigned",
+      "restrained",
+      "restricted",
+      "resisted"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Restricted to' means limited to. 'Resigned', 'restrained' and 'resisted' do not fit 'to staff'."
+  },
+  {
+    "id": "p5-1261",
+    "sentence": "The firm's cash position was ___ by the unexpected delay in customer payments.",
+    "choices": [
+      "strained",
+      "stranded",
+      "strewn",
+      "strapped"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Strained' means put under pressure. 'Stranded' means left without help, 'strapped' means short of money (describing the firm, not the position), and 'strewn' means scattered."
+  },
+  {
+    "id": "p5-1262",
+    "sentence": "Auditors must remain ___ of the companies whose accounts they examine.",
+    "choices": [
+      "independent",
+      "indignant",
+      "indifferent",
+      "indulgent"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Independent of' means free from influence. 'Indifferent' means uninterested, 'indignant' means angry, and 'indulgent' means lenient."
+  },
+  {
+    "id": "p5-1263",
+    "sentence": "The firm hopes to ___ a deal with the union before the current contract lapses.",
+    "choices": [
+      "stray",
+      "strive",
+      "stride",
+      "strike"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Strike a deal' means reach an agreement. The others do not take 'deal' as an object."
+  },
+  {
+    "id": "p5-1264",
+    "sentence": "The directors were ___ of any wrongdoing by the independent inquiry.",
+    "choices": [
+      "cleaned",
+      "cleaved",
+      "cleansed",
+      "cleared"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Cleared of wrongdoing' means found innocent. 'Cleaned' and 'cleansed' mean washed, and 'cleaved' means split."
   }
 ]

@@ -130,19 +130,6 @@
     "explanation": "'Scrutinise' means examine closely. 'Resemble' and 'accommodate' do not take a budget as an object in this sense, and 'contemplate' means consider thoughtfully, not check details."
   },
   {
-    "id": "p5-674",
-    "sentence": "The two companies signed a ___ agreement to share research facilities for five years.",
-    "choices": [
-      "reciprocal",
-      "tentative",
-      "redundant",
-      "compulsory"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Reciprocal' means mutual, which fits an agreement to share. 'Redundant' means unnecessary, 'tentative' means provisional, and 'compulsory' means obligatory."
-  },
-  {
     "id": "p5-682",
     "sentence": "The new inventory system has ___ the time needed to process incoming orders.",
     "choices": [
@@ -325,19 +312,6 @@
     "explanation": "'Assess' means evaluate. 'Assert' means state firmly, 'assume' means suppose, and 'assign' means allocate."
   },
   {
-    "id": "p5-742",
-    "sentence": "The project has been ___ back by a lack of qualified technicians.",
-    "choices": [
-      "kept",
-      "pulled",
-      "dragged",
-      "held"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Held back' means hindered. 'Kept back' is withheld, 'pulled back' means retreated, and 'dragged back' implies physical force."
-  },
-  {
     "id": "p5-746",
     "sentence": "Talks between the unions and management ___ for eight hours without agreement.",
     "choices": [
@@ -518,5 +492,31 @@
     "answerIndex": 1,
     "category": "vocabulary",
     "explanation": "'Privy to' means having access to confidential information. 'Private' and 'prior' do not fit with 'to', and 'privileged to' changes the meaning."
+  },
+  {
+    "id": "p5-956",
+    "sentence": "The workers called a ___ strike in protest at the dismissal of two colleagues.",
+    "choices": [
+      "tidy",
+      "tense",
+      "tacit",
+      "token"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A 'token strike' is a short strike to show protest. The other adjectives do not collocate with 'strike'."
+  },
+  {
+    "id": "p5-959",
+    "sentence": "Under the terms of the contract, all intellectual property ___ to the client upon completion.",
+    "choices": [
+      "reverts",
+      "retains",
+      "retreats",
+      "resides"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Reverts to' means returns to a former owner. 'Resides' needs 'in', 'retreats' means withdraws, and 'retains' needs an object."
   }
 ]

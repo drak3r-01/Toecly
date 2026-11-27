@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p5-1369",
+    "sentence": "The company ___ a record profit despite the challenging trading environment.",
+    "choices": [
+      "posted",
+      "pegged",
+      "pasted",
+      "placed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Posted a profit' means reported it. The others do not collocate."
+  },
+  {
+    "id": "p5-1370",
+    "sentence": "Cash reserves were ___ to cover three months of operating expenses and nothing more.",
+    "choices": [
+      "suffixed",
+      "sufferable",
+      "sufficient",
+      "suffusing"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Sufficient to' means enough to. The other words are unrelated."
+  },
+  {
+    "id": "p5-1371",
+    "sentence": "The company's accounts were ___ with the regulator in compliance with statutory deadlines.",
+    "choices": [
+      "filed",
+      "framed",
+      "fitted",
+      "fixed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Filed with the regulator' is the standard phrase. The others do not fit."
+  },
+  {
+    "id": "p5-1372",
+    "sentence": "The two parties have yet to ___ common ground on the question of intellectual property.",
+    "choices": [
+      "fill",
+      "fix",
+      "find",
+      "fine"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Find common ground' is the fixed expression. 'Fill' and 'fix' do not collocate."
+  },
+  {
+    "id": "p5-1373",
+    "sentence": "The CFO ___ the shortfall to unforeseen currency losses in the final quarter.",
+    "choices": [
+      "assigned",
+      "alluded",
+      "ascribed to",
+      "attributed"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Attributed X to Y' fits. 'Ascribed to' duplicates the preposition, 'assigned' means allocated, and 'alluded' needs 'to' with a different meaning."
+  },
+  {
+    "id": "p5-1374",
+    "sentence": "Our ___ is to deliver every order within forty-eight hours of receipt.",
+    "choices": [
+      "objection",
+      "objective",
+      "objector",
+      "objectivity"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Objective' means goal. The others are unrelated nouns."
+  },
+  {
+    "id": "p5-1375",
+    "sentence": "The company has ___ a substantial provision for potential legal costs.",
+    "choices": [
+      "set out",
+      "set up to",
+      "set aside",
+      "set about"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Set aside a provision' means reserve funds. The others do not fit."
+  },
+  {
+    "id": "p5-1377",
+    "sentence": "The investor's ___ stake in the company gives her considerable influence over strategy.",
+    "choices": [
+      "substantial",
+      "sustainable",
+      "substantive",
+      "substitute"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Substantial stake' means large. 'Substantive' means real, 'sustainable' means maintainable, and 'substitute' means replacement."
+  },
+  {
+    "id": "p5-1378",
+    "sentence": "The firm has taken ___ steps to prevent a repeat of the data breach.",
+    "choices": [
+      "rustic",
+      "robust",
+      "rugged",
+      "ruthless"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Robust steps' means strong measures. The others do not collocate."
+  },
+  {
+    "id": "p5-1379",
+    "sentence": "The hotel was ___ to capacity throughout the conference week.",
+    "choices": [
+      "booked",
+      "buried",
+      "boarded",
+      "bound"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Booked to capacity' means fully reserved. The others do not fit."
+  },
+  {
+    "id": "p5-1380",
+    "sentence": "A ___ number of staff opted to take early retirement under the new scheme.",
+    "choices": [
+      "sizing",
+      "sizzling",
+      "siezed",
+      "sizeable"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Sizeable number' means fairly large. The others are unrelated."
+  },
+  {
+    "id": "p5-1381",
+    "sentence": "There was a ___ increase in demand for remote-working tools during the lockdown.",
+    "choices": [
+      "marker",
+      "marks",
+      "marked",
+      "marking"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'A marked increase' is a past-participle adjective collocation. The others do not fit."
+  },
+  {
+    "id": "p5-1382",
+    "sentence": "The firm has ___ its operations in the Baltic states to reduce labour costs.",
+    "choices": [
+      "relocating",
+      "relocated",
+      "relocation",
+      "relocate"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "Present perfect needs a past participle. The others do not."
+  },
+  {
+    "id": "p5-1383",
+    "sentence": "The company ___ its quarterly dividend for the first time in thirty years.",
+    "choices": [
+      "suspense",
+      "suspend",
+      "suspending",
+      "suspended"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A finite past verb is needed. The others do not fit."
+  },
+  {
+    "id": "p5-1400",
+    "sentence": "The arbitrator suggested that both parties ___ their claims before the hearing resumed.",
+    "choices": [
+      "withdraw",
+      "withdrawn",
+      "withdrew",
+      "withdraws"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Suggested that' takes the subjunctive base form. The others are indicative or a participle."
+  },
+  {
+    "id": "p5-1401",
+    "sentence": "The report is accurate, ___ somewhat dated, and should be read with that caveat in mind.",
+    "choices": [
+      "hence",
+      "whereas",
+      "lest",
+      "albeit"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Albeit' means although, introducing a concession with an adjective. 'Whereas' needs a clause, 'hence' means therefore, and 'lest' expresses fear."
+  },
+  {
+    "id": "p5-1402",
+    "sentence": "The rebate applies to all purchases, ___ they are made online or in store.",
+    "choices": [
+      "whether",
+      "whereas",
+      "although",
+      "unless"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whether... or' offers alternatives. The others do not fit 'or in store'."
+  },
+  {
+    "id": "p5-1403",
+    "sentence": "Prices rose sharply in the south, ___ they remained stable throughout the northern regions.",
+    "choices": [
+      "in case",
+      "so that",
+      "unless",
+      "whereas"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Whereas' marks contrast between two facts. The others express result, exception and precaution."
+  },
+  {
+    "id": "p5-1404",
+    "sentence": "The company increased its marketing budget ___ it could capture a larger share of the youth market.",
+    "choices": [
+      "as for",
+      "in spite of",
+      "for fear",
+      "so that"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'So that' introduces purpose with a clause. 'In spite of' and 'as for' take nouns, and 'for fear' needs 'that' or 'of'."
+  },
+  {
+    "id": "p5-1406",
+    "sentence": "The ruling applies only ___ the contract was concluded after the new law took effect.",
+    "choices": [
+      "insofar as",
+      "in view of",
+      "on behalf of",
+      "apart from"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Insofar as' limits scope and introduces a clause. The others are prepositional and need nouns."
+  },
+  {
+    "id": "p5-1407",
+    "sentence": "Invoices are payable within thirty days; ___, a late fee of two percent will be applied.",
+    "choices": [
+      "therefore",
+      "moreover",
+      "likewise",
+      "otherwise"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Otherwise' means if not. 'Therefore' gives result, 'moreover' adds, and 'likewise' means similarly."
+  },
+  {
+    "id": "p5-1408",
+    "sentence": "The proposal was well received; ___, several details still require clarification before approval.",
+    "choices": [
+      "likewise",
+      "accordingly",
+      "nevertheless",
+      "consequently"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Nevertheless' signals contrast with the previous clause. 'Accordingly', 'consequently' and 'likewise' do not."
+  },
+  {
+    "id": "p5-1409",
+    "sentence": "The scheme is open to all staff; ___, preference will be given to those with the longest service.",
+    "choices": [
+      "thereby",
+      "however",
+      "hence",
+      "whereas"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'However' contrasts within a semicolon structure. 'Thereby' and 'hence' show result, and 'whereas' needs a clause."
+  },
+  {
+    "id": "p5-1410",
+    "sentence": "The data were collected anonymously, ___ ensuring that no respondent could be identified.",
+    "choices": [
+      "whereas",
+      "hence",
+      "albeit",
+      "thereby"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Thereby' + participle expresses result by that means. 'Hence' needs a noun, 'whereas' contrasts, and 'albeit' concedes."
+  },
+  {
+    "id": "p5-1411",
+    "sentence": "Companies ___ to meet the new emissions targets will face escalating financial penalties.",
+    "choices": [
+      "failing",
+      "failed",
+      "to fail",
+      "having failed"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A present participle reduces an active relative clause ('that fail'). 'failed' would be passive, and the others do not fit."
+  },
+  {
+    "id": "p5-1412",
+    "sentence": "The consultant, ___ for his tough negotiating style, was hired to lead the talks.",
+    "choices": [
+      "knowing",
+      "having known",
+      "known",
+      "knew"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Known for' is the reduced passive clause. The others are active or finite."
+  },
+  {
+    "id": "p5-1413",
+    "sentence": "It was the quality of the service, not the price, ___ persuaded the client to renew.",
+    "choices": [
+      "who",
+      "that",
+      "how",
+      "what"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A cleft sentence uses 'that'. 'what' and 'how' do not fit, and 'who' is for people."
+  },
+  {
+    "id": "p5-1414",
+    "sentence": "No sooner had the figures been published ___ the share price began to slide.",
+    "choices": [
+      "than",
+      "then",
+      "when",
+      "that"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'No sooner... than' is the correlative pair. 'when' goes with 'hardly', 'then' means at that time, and 'that' is incorrect."
+  },
+  {
+    "id": "p5-1415",
+    "sentence": "The company had its accounts ___ by an independent firm before the flotation.",
+    "choices": [
+      "auditing",
+      "audit",
+      "to audit",
+      "audited"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Have + object + past participle' is the passive causative. The others do not fit."
+  },
+  {
+    "id": "p5-1416",
+    "sentence": "The director got the project ___ despite repeated budget cuts and two changes of leadership.",
+    "choices": [
+      "completed",
+      "completing",
+      "complete",
+      "to complete"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Get + object + past participle' means cause something to be done. 'complete' and 'completing' do not fit, and 'to complete' implies persuading someone."
+  },
+  {
+    "id": "p5-1417",
+    "sentence": "She was reluctant ___ the proposal until its legal implications had been fully assessed.",
+    "choices": [
+      "in endorsing",
+      "to endorse",
+      "of endorsing",
+      "endorsing"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Reluctant to' is followed by an infinitive. The others are not valid."
+  },
+  {
+    "id": "p5-1418",
+    "sentence": "The union has agreed ___ the strike pending a fresh offer from management.",
+    "choices": [
+      "on suspend",
+      "suspending",
+      "to suspend",
+      "suspended"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Agree' takes an infinitive. The others do not."
+  },
+  {
+    "id": "p5-1419",
+    "sentence": "The firm has been ___ to bankruptcy by years of mismanagement and unwise acquisitions.",
+    "choices": [
+      "fallen",
+      "lowered",
+      "dropped",
+      "reduced"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Reduced to bankruptcy' is the fixed phrase. 'lowered' and 'dropped' do not collocate, and 'fallen' is intransitive."
+  },
+  {
+    "id": "p5-1420",
+    "sentence": "The negotiators ___ an agreement only after eighteen hours of talks.",
+    "choices": [
+      "reached",
+      "arrived",
+      "achieved at",
+      "came"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Reached an agreement' is the collocation. 'arrived' and 'came' need prepositions, and 'achieved at' is malformed."
+  },
+  {
+    "id": "p5-1421",
+    "sentence": "The decision was taken ___ consultation with the legal and finance departments.",
+    "choices": [
+      "after to",
+      "at",
+      "in",
+      "by"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'In consultation with' is the fixed phrase. The others are not."
+  },
+  {
+    "id": "p5-1422",
+    "sentence": "The consultancy has operated in this sector ___ 1998 and has never lost a major client.",
+    "choices": [
+      "for",
+      "since",
+      "from to",
+      "in"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Since' marks a starting point. 'for' needs a duration, and the others do not fit."
+  },
+  {
+    "id": "p5-1423",
+    "sentence": "The proposal must be submitted ___ the end of the working day on Friday.",
+    "choices": [
+      "since",
+      "until",
+      "during",
+      "before"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Before' marks a deadline. 'until' continues up to a point, 'since' needs a starting point, and 'during' needs a period."
+  },
+  {
+    "id": "p5-1424",
+    "sentence": "The committee unanimously agreed that the funds ___ be released until the audit was finished.",
+    "choices": [
+      "no",
+      "not",
+      "never",
+      "hardly"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The subjunctive negative is formed with 'not' before the verb. 'no' is a determiner, and 'never' and 'hardly' are not used here."
+  },
+  {
+    "id": "p5-1425",
+    "sentence": "The board resolved that the chairman ___ the discussions with the union on its behalf.",
+    "choices": [
+      "lead",
+      "leads",
+      "led",
+      "leading"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Resolved that' takes the base form. The others are indicative or non-finite."
+  },
+  {
+    "id": "p5-1426",
+    "sentence": "The firm's accountants were unaware ___ the tax authority had opened an inquiry.",
+    "choices": [
+      "of that",
+      "whether to",
+      "that",
+      "what"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Unaware that' introduces a clause. The others are malformed."
+  }
+]

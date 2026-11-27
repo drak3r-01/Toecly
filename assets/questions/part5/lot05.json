@@ -1,122 +1,5 @@
 [
   {
-    "id": "p5-1299",
-    "sentence": "The legislation seeks to ___ the loophole that allowed firms to avoid paying tax abroad.",
-    "choices": [
-      "clip",
-      "close",
-      "clasp",
-      "clamp"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Close a loophole' is the fixed collocation. The others do not collocate."
-  },
-  {
-    "id": "p5-1300",
-    "sentence": "Applicants must have ___ command of both written and spoken English.",
-    "choices": [
-      "flowing",
-      "fluid",
-      "fluent",
-      "fluctuant"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Fluent command' is the collocation. 'Fluid' and 'flowing' do not collocate with 'command'."
-  },
-  {
-    "id": "p5-1301",
-    "sentence": "The regulator has issued a ___ warning to firms that mislead consumers about fees.",
-    "choices": [
-      "stern",
-      "steep",
-      "stout",
-      "stark"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Stern warning' is a standard collocation. The others do not collocate with 'warning'."
-  },
-  {
-    "id": "p5-1302",
-    "sentence": "The airline was ___ £5 million for failing to meet its safety obligations.",
-    "choices": [
-      "fined",
-      "fixed",
-      "finished",
-      "funded"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Fined £5 million' is a penalty. The others do not fit."
-  },
-  {
-    "id": "p5-1303",
-    "sentence": "The board remains ___ to the idea of a takeover despite the generous offer.",
-    "choices": [
-      "avert",
-      "averse",
-      "aversive",
-      "adverse"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Averse to' means opposed to. 'Adverse' means harmful, 'aversive' means causing dislike, and 'avert' is a verb."
-  },
-  {
-    "id": "p5-1304",
-    "sentence": "The tender document ___ that bidders must provide references from three previous clients.",
-    "choices": [
-      "strains",
-      "stipulates",
-      "stifles",
-      "stimulates"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Stipulates that' means specifies as a condition. The others do not take 'that' clauses."
-  },
-  {
-    "id": "p5-1305",
-    "sentence": "Local authorities are ___ with enforcing the new waste regulations.",
-    "choices": [
-      "chased",
-      "charged",
-      "checked",
-      "chosen"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Charged with' means given responsibility for. The others do not fit."
-  },
-  {
-    "id": "p5-1306",
-    "sentence": "The CEO's departure left a ___ in the leadership team that took months to fill.",
-    "choices": [
-      "vessel",
-      "verge",
-      "vault",
-      "vacuum"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Leadership vacuum' is the collocation. The others do not fit."
-  },
-  {
-    "id": "p5-1307",
-    "sentence": "The firm managed to ___ the crisis by renegotiating its loan terms.",
-    "choices": [
-      "wither",
-      "wreathe",
-      "whether",
-      "weather"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Weather a crisis' means survive it. The others are unrelated."
-  },
-  {
     "id": "p5-1308",
     "sentence": "Strong sales in Asia helped to ___ the weakness in the European market.",
     "choices": [
@@ -180,5 +63,460 @@
     "answerIndex": 3,
     "category": "vocabulary",
     "explanation": "'Stipulate that' means specify. The others do not take 'that' clauses."
+  },
+  {
+    "id": "p5-1327",
+    "sentence": "Several features of the contract are ___ negotiation, including the payment schedule.",
+    "choices": [
+      "open to",
+      "under to",
+      "out of",
+      "up to"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Open to negotiation' is the fixed phrase. The others are not."
+  },
+  {
+    "id": "p5-1328",
+    "sentence": "Funding for the project is ___ the approval of the regional development agency.",
+    "choices": [
+      "prior to",
+      "relative to",
+      "due to",
+      "subject to"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Subject to approval' means conditional on. 'Relative to', 'due to' and 'prior to' have other meanings."
+  },
+  {
+    "id": "p5-1330",
+    "sentence": "Production was halted ___ safety inspections that revealed several structural defects.",
+    "choices": [
+      "ahead of to",
+      "in spite",
+      "owing to",
+      "in view"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Owing to' gives the cause. The others are incomplete or contrastive."
+  },
+  {
+    "id": "p5-1331",
+    "sentence": "The directors ___ have been aware of the risks, since the warning appeared in three consecutive reports.",
+    "choices": [
+      "must",
+      "can",
+      "need",
+      "might to"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Must have been' expresses logical deduction. The others do not fit."
+  },
+  {
+    "id": "p5-1332",
+    "sentence": "If the board had listened to the auditors, the company ___ in such a difficult position today.",
+    "choices": [
+      "will not be",
+      "would not have",
+      "would not be",
+      "had not been"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A mixed conditional: past condition, present result ('would not be'). 'will not be' is a first conditional, and the others do not fit."
+  },
+  {
+    "id": "p5-1333",
+    "sentence": "Provided ___ the subsidy is renewed, the plant will remain open for at least another decade.",
+    "choices": [
+      "if so",
+      "when",
+      "as",
+      "that"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Provided that' is the fixed conditional connector. The others do not form it."
+  },
+  {
+    "id": "p5-1334",
+    "sentence": "The firm would have collapsed ___ the emergency loan from its largest creditor.",
+    "choices": [
+      "unless",
+      "without",
+      "although",
+      "despite"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Without' + noun expresses a negative condition in a past hypothetical. 'although' and 'despite' contrast, and 'unless' needs a clause."
+  },
+  {
+    "id": "p5-1335",
+    "sentence": "The deal ___ to go ahead as planned unless a competing bid emerges in the next few days.",
+    "choices": [
+      "expected",
+      "is expecting",
+      "expects",
+      "is expected"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "The passive 'is expected to' fits the subject 'the deal'. The others are active or wrong."
+  },
+  {
+    "id": "p5-1336",
+    "sentence": "The chief executive is about ___ a major restructuring of the group's European operations.",
+    "choices": [
+      "announcing",
+      "for announcing",
+      "to announce",
+      "announced"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Be about to + base verb' means be on the point of. The others do not fit."
+  },
+  {
+    "id": "p5-1338",
+    "sentence": "The consultant was asked to ___ the risks associated with entering the Brazilian market.",
+    "choices": [
+      "gauze",
+      "gauge",
+      "gaze",
+      "gouge"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Gauge' means assess. 'Gauze' is a fabric, 'gouge' means dig out, and 'gaze' means stare."
+  },
+  {
+    "id": "p5-1339",
+    "sentence": "The firm's lawyers were unable to ___ the claim that the clause was unambiguous.",
+    "choices": [
+      "refuse",
+      "refute",
+      "refine",
+      "refund"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Refute a claim' means disprove it. 'Refuse' means decline, 'refund' means repay, and 'refine' means purify."
+  },
+  {
+    "id": "p5-1340",
+    "sentence": "The consortium has ___ every attempt to renegotiate the terms of the concession.",
+    "choices": [
+      "resumed",
+      "reversed",
+      "resisted",
+      "revoked"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Resisted an attempt' means opposed it. 'Resumed' means restarted, 'reversed' means turned round, and 'revoked' means cancelled."
+  },
+  {
+    "id": "p5-1341",
+    "sentence": "The statement was deliberately ___ so as not to alarm investors before the audit concluded.",
+    "choices": [
+      "vacant",
+      "valid",
+      "vain",
+      "vague"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Vague' means imprecise. 'Vacant' means empty, 'vain' means futile, and 'valid' means legitimate."
+  },
+  {
+    "id": "p5-1344",
+    "sentence": "The bank has ___ tighter lending criteria in response to rising default rates.",
+    "choices": [
+      "adapted",
+      "adjusted",
+      "adopted",
+      "admitted"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Adopted criteria' means introduced them. 'Adapted' means modified, 'adjusted' means altered slightly, and 'admitted' means confessed."
+  },
+  {
+    "id": "p5-1345",
+    "sentence": "The audit uncovered a series of ___ transactions between the firm and its parent company.",
+    "choices": [
+      "irregular",
+      "irritable",
+      "irrelevant",
+      "irrational"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Irregular transactions' means improper or unusual. The others do not collocate."
+  },
+  {
+    "id": "p5-1346",
+    "sentence": "The firm's expansion has been ___ by delays in obtaining planning permission.",
+    "choices": [
+      "implied",
+      "impelled",
+      "imputed",
+      "impeded"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Impeded' means obstructed. 'Imputed' means attributed, 'implied' means suggested, and 'impelled' means driven."
+  },
+  {
+    "id": "p5-1347",
+    "sentence": "The negotiators were careful to ___ any comment that might jeopardise the talks.",
+    "choices": [
+      "avow",
+      "abide",
+      "avoid",
+      "avert"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Avoid a comment' means refrain from it. 'Avert' means prevent, 'abide' needs 'by', and 'avow' means openly admit."
+  },
+  {
+    "id": "p5-1348",
+    "sentence": "The new CFO is expected to bring greater ___ to the firm's financial reporting.",
+    "choices": [
+      "rigour",
+      "ritual",
+      "rigidity",
+      "rivalry"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Rigour' means strictness and thoroughness. 'Rigidity' means inflexibility, 'rivalry' means competition, and 'ritual' means ceremony."
+  },
+  {
+    "id": "p5-1349",
+    "sentence": "The contractor was ___ to remedy the defects at its own expense within thirty days.",
+    "choices": [
+      "bind",
+      "bounded",
+      "binding",
+      "bound"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Be bound to' means obliged to. The others are not suitable forms."
+  },
+  {
+    "id": "p5-1350",
+    "sentence": "The plan was ___ by the board as impractical and prohibitively expensive.",
+    "choices": [
+      "dispatched",
+      "dismissed",
+      "displaced",
+      "discarded to"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Dismissed as' means rejected as. 'Discarded to' is malformed, 'dispatched' means sent, and 'displaced' means moved."
+  },
+  {
+    "id": "p5-1352",
+    "sentence": "The airline has faced mounting ___ over its handling of the baggage delays.",
+    "choices": [
+      "critique to",
+      "crisis of",
+      "criticism",
+      "criterion"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Mounting criticism' is the natural collocation. The others are malformed or unrelated."
+  },
+  {
+    "id": "p5-1353",
+    "sentence": "The tribunal ruled that the dismissal was ___ and awarded the claimant substantial compensation.",
+    "choices": [
+      "unlawfully",
+      "unlaw",
+      "unlawfulness",
+      "unlawful"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "An adjective is needed after 'was'. The others are an adverb and nouns or non-words."
+  },
+  {
+    "id": "p5-1354",
+    "sentence": "The firm has ___ no effort to ensure that its employees understand the new safety rules.",
+    "choices": [
+      "spared",
+      "left",
+      "saved",
+      "wasted"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Spared no effort' is the fixed phrase. 'Saved no effort' is not used, 'wasted' means misused, and 'left' does not fit."
+  },
+  {
+    "id": "p5-1355",
+    "sentence": "The analyst described the company's strategy as ___ given the current market volatility.",
+    "choices": [
+      "prodigious",
+      "prudent",
+      "prudish",
+      "pretentious"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Prudent' means wise and careful. 'Prudish' means easily shocked, 'pretentious' means showy, and 'prodigious' means enormous."
+  },
+  {
+    "id": "p5-1356",
+    "sentence": "The firm's board approved a ___ restructuring plan involving the closure of six plants.",
+    "choices": [
+      "swerving",
+      "swaying",
+      "sweeping",
+      "sweating"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Sweeping' means far-reaching. The others do not collocate."
+  },
+  {
+    "id": "p5-1357",
+    "sentence": "A key objective is to ___ the firm's reliance on imported components.",
+    "choices": [
+      "lighten",
+      "lesson",
+      "loosen",
+      "lessen"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Lessen reliance' means reduce. 'Lesson' is a noun, 'loosen' means slacken, and 'lighten' means make less heavy."
+  },
+  {
+    "id": "p5-1358",
+    "sentence": "The regulator has ___ the firm's request for an extension of the filing deadline.",
+    "choices": [
+      "rejected",
+      "relayed",
+      "rebuked",
+      "rectified"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Rejected a request' means refused it. 'Rebuked' means criticised, 'rectified' means corrected, and 'relayed' means passed on."
+  },
+  {
+    "id": "p5-1359",
+    "sentence": "Several creditors have ___ their claims in the hope of recovering part of what they are owed.",
+    "choices": [
+      "loaded",
+      "lodged in",
+      "lounged",
+      "lodged"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Lodged claims' means formally submitted them. 'Lounged' means relaxed, 'lodged in' is malformed, and 'loaded' means filled."
+  },
+  {
+    "id": "p5-1360",
+    "sentence": "The auditors raised concerns about the ___ of several large transactions near the year end.",
+    "choices": [
+      "time-out",
+      "timing",
+      "timer",
+      "timeliness to"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Timing' means when transactions occurred. The others are unrelated or malformed."
+  },
+  {
+    "id": "p5-1361",
+    "sentence": "The minister declined to ___ on the rumours of a possible takeover bid.",
+    "choices": [
+      "commence",
+      "commend",
+      "comment",
+      "commit"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Comment on' means give an opinion. The others do not take 'on' this way."
+  },
+  {
+    "id": "p5-1362",
+    "sentence": "The agency has ___ its estimate of annual growth from two percent to just under one.",
+    "choices": [
+      "revised",
+      "revoked",
+      "resumed",
+      "reversed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Revised an estimate' means changed it. The others do not fit."
+  },
+  {
+    "id": "p5-1364",
+    "sentence": "The court ___ the claimant's request for an interim injunction pending the full hearing.",
+    "choices": [
+      "grounded",
+      "granted",
+      "grafted",
+      "gathered"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Granted a request' means approved it. The others do not fit."
+  },
+  {
+    "id": "p5-1365",
+    "sentence": "The mine's closure will ___ over two thousand jobs in a region already suffering from high unemployment.",
+    "choices": [
+      "elevate",
+      "elaborate",
+      "elicit",
+      "eliminate"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Eliminate jobs' means remove them. 'Elaborate' means expand on, 'elevate' means raise, and 'elicit' means draw out."
+  },
+  {
+    "id": "p5-1367",
+    "sentence": "Shareholders have been asked to ___ a resolution authorising the issue of new shares.",
+    "choices": [
+      "apprise",
+      "append",
+      "appease",
+      "approve"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Approve a resolution' means formally accept it. 'Apprise' means inform, 'appease' means calm, and 'append' means attach."
+  },
+  {
+    "id": "p5-1368",
+    "sentence": "The government plans to ___ regulations governing the sale of financial products to retail customers.",
+    "choices": [
+      "thrive",
+      "tighten",
+      "thicken",
+      "thwart"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Tighten regulations' means make stricter. The others do not collocate."
   }
 ]
