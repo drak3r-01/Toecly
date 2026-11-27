@@ -1,0 +1,722 @@
+[
+  {
+    "id": "p7-359",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why remote towns are betting on dark skies",
+        "text": "A growing number of remote communities, short of other sources of income, are discovering that the night sky is an asset. In the highlands of the north, a village of four hundred people has seen its winter occupancy at local guesthouses rise by half since it received an international designation as a dark-sky reserve, a title awarded to places with exceptionally little artificial light.\n\nThe designation carries obligations. Residents agreed to replace streetlights with shielded fittings that direct light downward, and to turn off the lamps at the sports ground after ten o'clock. Not everyone was enthusiastic: some elderly residents worried about safety on icy paths, and a few businesses objected to dimmer signs. The council responded by installing low-level path lighting with amber bulbs, which disturb the view of the stars far less than white light.\n\nAstronomers point out that the benefit is not confined to tourism. Dark skies are valuable for research, and the village now hosts a small observatory run by a university. The researchers say that the same measures that keep the sky dark also reduce energy bills, a modest saving, but one that the council is happy to publicize.\n\nThe authorities warn that the strategy has limits. Only a handful of places can claim truly dark skies, and as more villages seek the title, visitors may become harder to attract."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the central idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Light pollution has become a major health risk",
+          "Stars are disappearing from the northern sky",
+          "Dark skies can benefit remote communities",
+          "Villages are abandoning their traditions"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article shows tourism, research and savings from dark-sky policies."
+      },
+      {
+        "prompt": "What did the council do about icy paths?",
+        "category": "detail",
+        "choices": [
+          "It fitted low amber lights beside them",
+          "It closed the paths for the whole winter",
+          "It replaced the paths with a new road",
+          "It switched off every lamp near them"
+        ],
+        "answerIndex": 0,
+        "explanation": "Low-level amber path lighting was installed."
+      },
+      {
+        "prompt": "What can be inferred about the sports ground lamps?",
+        "category": "inference",
+        "choices": [
+          "They have been removed permanently",
+          "They shine brighter than before",
+          "They were replaced with white bulbs",
+          "They are switched off late at night"
+        ],
+        "answerIndex": 3,
+        "explanation": "Lamps at the sports ground go off after ten o'clock."
+      },
+      {
+        "prompt": "What does the final paragraph suggest?",
+        "category": "inference",
+        "choices": [
+          "Dark skies will soon be common elsewhere",
+          "The strategy may lose value if copied",
+          "The village may lose its official status",
+          "Tourism in the highlands has now ended"
+        ],
+        "answerIndex": 1,
+        "explanation": "As more villages seek the title, visitors may become harder to attract."
+      }
+    ]
+  },
+  {
+    "id": "p7-360",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Proposal to extend a pilot scheme",
+        "text": "To: Executive Leadership Team\nFrom: Amara Nwosu, Head of Customer Service\nSubject: Proposal to extend the live-chat pilot\n\nDear colleagues,\n\nI am writing to recommend that the live-chat pilot, which has run in the northern region since January, be extended to the whole company for a further six months before a final decision is made.\n\nThe results so far are encouraging but not conclusive. Customers who used chat resolved their problems in an average of nine minutes, compared with twenty-two by telephone, and the satisfaction score for chat was four points higher. On the other hand, the pilot has handled only eight percent of contacts, and the customers who chose it were younger and more comfortable with technology than the average. It is possible, therefore, that the result flatters the service.\n\nAn extension to the whole company would give us a broader sample and a better idea of whether chat can serve older customers, who currently account for a third of our calls. It would also allow us to measure the effect on the telephone team, whose workload fell during the pilot but whose staff have expressed concern about the future of their jobs.\n\nThe additional cost, mainly software licenses, would be about 40,000 dollars. I would be glad to present these figures in more detail at your meeting on 12 November.\n\nRegards,\nAmara Nwosu"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the email?",
+        "category": "purpose",
+        "choices": [
+          "To end the chat service without delay",
+          "To propose extending the trial widely",
+          "To ask for more telephone staff now",
+          "To report that the pilot fully succeeded"
+        ],
+        "answerIndex": 1,
+        "explanation": "She recommends extending the pilot company-wide for six months."
+      },
+      {
+        "prompt": "What was the average time to resolve a problem by chat?",
+        "category": "detail",
+        "choices": [
+          "Fifteen minutes",
+          "Six minutes",
+          "Twenty minutes",
+          "Nine minutes"
+        ],
+        "answerIndex": 3,
+        "explanation": "Chat averaged nine minutes against twenty-two by telephone."
+      },
+      {
+        "prompt": "Why might the pilot results be misleading?",
+        "category": "inference",
+        "choices": [
+          "The users were not typical of all customers",
+          "The pilot lasted only one month",
+          "The telephone team skewed the results",
+          "Chat was available to older customers only"
+        ],
+        "answerIndex": 0,
+        "explanation": "Chat users were younger and more comfortable with technology."
+      },
+      {
+        "prompt": "What concern does she mention about the telephone team?",
+        "category": "inference",
+        "choices": [
+          "Staff want to leave for other firms",
+          "Staff have refused to work with chat",
+          "Staff fear for their job security",
+          "Staff were paid less during the pilot"
+        ],
+        "answerIndex": 2,
+        "explanation": "The telephone staff have expressed concern about the future of their jobs."
+      }
+    ]
+  },
+  {
+    "id": "p7-361",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice: temporary changes to refuse collection",
+        "text": "BROADMOOR DISTRICT COUNCIL — WASTE SERVICES NOTICE\n\nBecause of the planned closure of the Calder Road bridge from 4 March to 12 April, collection of household waste in the Elmfield and Harlow areas will follow a temporary timetable.\n\nCollection vehicles cannot cross the bridge, and the only alternative route adds forty minutes to each round. To avoid delays, the council has decided that general waste will be collected every two weeks instead of weekly in the affected areas during the closure. Recycling collection will continue weekly, as it requires a smaller vehicle that is able to use the Mill Lane crossing. Garden waste collection will be suspended entirely until 12 April, and the annual subscription will be extended by six weeks at no charge.\n\nResidents may take additional household waste to the recycling center on Tanner Street, which will open from 7 a.m. to 7 p.m. daily during the closure. Households with babies in nappies, or with medical needs that produce additional waste, may apply for a weekly collection by calling the number below before 28 February.\n\nWe apologize for any inconvenience and thank residents for their cooperation. Collection days for each street are listed on the council's website and will also be posted on notice boards."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why is the collection timetable changing?",
+        "category": "detail",
+        "choices": [
+          "The council has too few vehicles left",
+          "Residents asked for fewer collections",
+          "The recycling center has relocated",
+          "A bridge will close to heavy vehicles"
+        ],
+        "answerIndex": 3,
+        "explanation": "The Calder Road bridge will be closed, and vehicles cannot cross it."
+      },
+      {
+        "prompt": "What will happen to garden waste collection?",
+        "category": "detail",
+        "choices": [
+          "It will be collected every two weeks",
+          "It will stop until the bridge reopens",
+          "It will be taken to Tanner Street",
+          "It will be weekly instead of fortnightly"
+        ],
+        "answerIndex": 1,
+        "explanation": "Garden waste collection is suspended until 12 April."
+      },
+      {
+        "prompt": "What can be inferred about households with medical needs?",
+        "category": "inference",
+        "choices": [
+          "They must use the recycling center alone",
+          "They will be charged an extra fee for it",
+          "They may ask for a weekly collection",
+          "They are exempt from the new timetable"
+        ],
+        "answerIndex": 2,
+        "explanation": "They may apply for weekly collection before 28 February."
+      },
+      {
+        "prompt": "Which statement is true?",
+        "category": "not_true",
+        "choices": [
+          "Recycling will be collected fortnightly",
+          "The recycling center is now open daily",
+          "The garden subscription will be extended",
+          "Recycling uses the Mill Lane crossing"
+        ],
+        "answerIndex": 0,
+        "explanation": "Recycling collection continues weekly."
+      }
+    ]
+  },
+  {
+    "id": "p7-362",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Quality Assurance Manager, Hollis Foods",
+        "text": "Hollis Foods, a family-owned producer of frozen meals supplying supermarkets across the region, is seeking a Quality Assurance Manager to lead its three-person quality team at the Rotherby plant.\n\nThe role carries responsibility for ensuring that every product leaving the factory complies with food-safety law and with the specifications of our retail customers. You will manage the system of inspections and audits, investigate complaints and, when something goes wrong, lead the response, which may include recalling products. You will also act as the contact for external auditors and for the local authority's inspectors.\n\nThe ideal candidate will have a degree in food science or a related subject and at least six years' experience in food manufacturing, of which at least two should be in a supervisory role. A thorough knowledge of the hazard-analysis system that underpins the industry is essential. We value, however, the ability to speak plainly to production staff over a collection of certificates, since the quality manager's greatest influence comes from persuading people to follow procedures even when under pressure to produce more.\n\nWe offer a salary of 52,000 to 58,000 dollars, depending on experience, and a bonus linked to audit results. The position requires flexibility, as occasional weekend work may be needed during peak periods. Applications should be sent by 10 October, and interviews will include a short exercise in analyzing a complaint."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main responsibility of the post?",
+        "category": "main_idea",
+        "choices": [
+          "Ensuring products meet safety standards",
+          "Marketing frozen meals to supermarkets",
+          "Designing new recipes for the plant",
+          "Buying raw ingredients at low prices"
+        ],
+        "answerIndex": 0,
+        "explanation": "The role covers compliance, inspections, complaints and recalls."
+      },
+      {
+        "prompt": "What does the ad say about certificates?",
+        "category": "inference",
+        "choices": [
+          "Candidates must have many certificates",
+          "Certificates are forbidden by the employer",
+          "Staff communication matters more to it",
+          "Certificates are required for weekend work"
+        ],
+        "answerIndex": 2,
+        "explanation": "The firm values speaking plainly to production staff over a collection of certificates."
+      },
+      {
+        "prompt": "What is the bonus linked to?",
+        "category": "detail",
+        "choices": [
+          "The number of products recalled",
+          "The results of the plant audits",
+          "The speed of the production line",
+          "The number of staff complaints"
+        ],
+        "answerIndex": 1,
+        "explanation": "A bonus linked to audit results."
+      },
+      {
+        "prompt": "What will candidates do during the interview?",
+        "category": "detail",
+        "choices": [
+          "Lead an audit at the plant for a day",
+          "Present a recall plan to inspectors",
+          "Taste several frozen meals in a lab",
+          "Analyze a complaint in a short task"
+        ],
+        "answerIndex": 3,
+        "explanation": "Interviews will include a short exercise in analyzing a complaint."
+      }
+    ]
+  },
+  {
+    "id": "p7-363",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Messages between a cafe owner and a supplier",
+        "text": "Nadia Rahman [7:48]: Morning, Callum. The pastry delivery hasn't arrived and we open at eight. Is the van on its way?\n\nCallum Reid [7:51]: Sorry, Nadia. The van's refrigeration failed overnight, and I wasn't willing to send you anything that might have been above temperature. I should have called you earlier.\n\nNadia Rahman [7:53]: I appreciate your caution, but this is the second time this month. Last time it was the wrong order.\n\nCallum Reid [7:55]: I know, and I don't have an excuse. I can offer a replacement delivery by midday, using my own car, and I'll take twenty percent off today's invoice.\n\nNadia Rahman [7:58]: Midday doesn't help with the breakfast rush. Can you send even half the order sooner?\n\nCallum Reid [8:01]: I could bring forty croissants from my own shop by 8:30. They're not the same recipe, but they're fresh.\n\nNadia Rahman [8:03]: Fine, do that. I'll tell customers that today's pastries come from a neighboring bakery. And I'd like to talk to you this week about the contract.\n\nCallum Reid [8:04]: Understood. I'll call you tomorrow."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What problem has occurred?",
+        "category": "main_idea",
+        "choices": [
+          "A supplier has raised its prices again",
+          "A cafe has run out of coffee supplies",
+          "A delivery failed after a cooling fault",
+          "A customer complained about a croissant"
+        ],
+        "answerIndex": 2,
+        "explanation": "The van's refrigeration failed overnight."
+      },
+      {
+        "prompt": "Why is Ms. Rahman unsatisfied?",
+        "category": "detail",
+        "choices": [
+          "It is the second problem this month",
+          "The croissants are too expensive",
+          "The supplier refused to apologize",
+          "The van arrived at the wrong cafe"
+        ],
+        "answerIndex": 0,
+        "explanation": "This is the second time this month; last time it was the wrong order."
+      },
+      {
+        "prompt": "What does Mr. Reid offer to do?",
+        "category": "detail",
+        "choices": [
+          "Cut the next invoice by a quarter",
+          "Send a second van within an hour",
+          "Cancel the contract this very week",
+          "Bring croissants from his own shop"
+        ],
+        "answerIndex": 3,
+        "explanation": "He could bring forty croissants from his own shop by 8:30."
+      },
+      {
+        "prompt": "What does Ms. Rahman's last remark suggest?",
+        "category": "inference",
+        "choices": [
+          "She intends to close the cafe soon",
+          "She may rethink the supplier deal",
+          "She will accept all future delays",
+          "She now wants a far bigger order"
+        ],
+        "answerIndex": 1,
+        "explanation": "She wants to talk about the contract this week."
+      }
+    ]
+  },
+  {
+    "id": "p7-364",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter requesting permission to use a photograph",
+        "text": "Dear Mr. Lindholm,\n\nI am writing on behalf of the Harborview Historical Society, which is preparing an illustrated history of the town's fishing industry to be published next spring. In the course of our research, we discovered a photograph of the harbor in 1952, taken by your late father, that appears in a family album you generously lent us last year for scanning.\n\nWe should like very much to include it in the book, on a full page, as the image shows with unusual clarity the arrangement of the old quay before it was demolished. I understand that the photograph remains in your family's ownership, and we would not wish to reproduce it without your permission. Should you agree, we would credit your father as the photographer and acknowledge the family in the preface.\n\nI must be frank about the terms. The Society is a small charity, and we cannot pay a fee, although we will provide ten free copies of the book and the use of a high-quality scan for your own purposes. If you prefer, we would also be willing to include a short note about your father's career, which, we are told, spanned forty years.\n\nI would be grateful for your decision by 15 January, so that we can finalize the layout.\n\nYours sincerely,\nHenrietta Cole, Editor"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To return a borrowed family album",
+          "To seek leave to publish a photograph",
+          "To request payment for a scanned copy",
+          "To announce a new local exhibition"
+        ],
+        "answerIndex": 1,
+        "explanation": "She asks for permission to include the photograph in the book."
+      },
+      {
+        "prompt": "Why does the Society want this photograph?",
+        "category": "detail",
+        "choices": [
+          "It was taken by a famous photographer",
+          "It shows Mr. Lindholm's father",
+          "It is the only photo of the harbor",
+          "It shows the old quay clearly"
+        ],
+        "answerIndex": 3,
+        "explanation": "The image shows the arrangement of the old quay with unusual clarity."
+      },
+      {
+        "prompt": "What does the Society offer in return?",
+        "category": "detail",
+        "choices": [
+          "Free copies and a high-quality scan",
+          "A fee of ten percent of the sales",
+          "A place on the Society's board",
+          "A portrait of Mr. Lindholm's father"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ten free copies and the use of a scan, but no fee."
+      },
+      {
+        "prompt": "What does the deadline suggest?",
+        "category": "inference",
+        "choices": [
+          "The photograph must be returned soon",
+          "The album will be sold at auction",
+          "The book's design awaits his answer",
+          "The Society will close next month"
+        ],
+        "answerIndex": 2,
+        "explanation": "They need the decision to finalize the layout."
+      }
+    ]
+  },
+  {
+    "id": "p7-365",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The case for teaching statistics earlier",
+        "text": "Most school pupils learn to differentiate a polynomial long before they learn to interpret a poll. A growing number of educators now argue that this order of priorities is mistaken, and that statistics, not calculus, should form the core of the mathematics that every citizen learns.\n\nTheir case rests on how adults actually use numbers. Few will ever need to solve a differential equation, but nearly all will meet claims about risks, averages and probabilities, in the news, in medical advice and in financial products, and many will be unable to judge them. A study in which graduates were asked to interpret the results of a screening test found that a majority gave the wrong answer, even though the arithmetic involved was elementary.\n\nOpponents of reform worry that the change would weaken preparation for engineering and physics, which depend on calculus. Supporters reply that it need not be an either-or choice: a school could offer a core of statistical reasoning for all pupils, with calculus as an option for those who intend to pursue science.\n\nThe difficulty is partly practical. Teachers who were themselves trained in traditional mathematics are not always confident with statistics, and a new curriculum would need a long period of preparation. Several regions that have tried it report that the effort has been worthwhile, though they concede it has taken longer than planned."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main argument of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Calculus should vanish from every school",
+          "Teachers should avoid mathematics lessons",
+          "Polls are unreliable and should be ignored",
+          "Statistics deserves a larger school role"
+        ],
+        "answerIndex": 3,
+        "explanation": "Educators argue statistics should form the core of everyday mathematics."
+      },
+      {
+        "prompt": "What did the study of graduates show?",
+        "category": "inference",
+        "choices": [
+          "Most had never learned any calculus",
+          "Many misread a screening test result",
+          "Few could calculate simple averages",
+          "All preferred polls to real tests"
+        ],
+        "answerIndex": 1,
+        "explanation": "A majority gave the wrong answer though the arithmetic was elementary."
+      },
+      {
+        "prompt": "What compromise do supporters propose?",
+        "category": "inference",
+        "choices": [
+          "A ban on calculus before university",
+          "Statistics taught to scientists only",
+          "A statistics core with optional calculus",
+          "A single course combining both subjects"
+        ],
+        "answerIndex": 2,
+        "explanation": "A core of statistical reasoning for all, with calculus optional for science."
+      },
+      {
+        "prompt": "What does the last paragraph imply about reform?",
+        "category": "inference",
+        "choices": [
+          "It requires patient teacher training",
+          "It has failed in every pilot region",
+          "It can be completed within weeks",
+          "It is unpopular with most students"
+        ],
+        "answerIndex": 0,
+        "explanation": "A new curriculum needs long preparation; regions report it took longer than planned."
+      }
+    ]
+  },
+  {
+    "id": "p7-366",
+    "documents": [
+      {
+        "type": "invoice",
+        "title": "Statement for conference registration, Meridian Events",
+        "text": "MERIDIAN EVENTS — REGISTRATION STATEMENT\nDelegate: Dr. Paulo Ferreira, Corvane University\nEvent: Annual Marine Science Symposium, 3–5 June, Lisbon\n\nRegistration fee, early rate (paid by 15 March): 480.00\nWorkshop: Remote sensing methods (4 June): 90.00\nConference dinner, 4 June: 65.00\nProceedings (printed volume): 35.00\nSubtotal: 670.00\nLess: member discount (10% of registration fee): −48.00\nTotal due: 622.00\nPayment received on 12 March: 480.00\nBalance due by 20 May: 142.00\n\nNotes: The early rate applies only when payment is received before 15 March; the standard rate is 560.00. Cancellations received before 1 May will be refunded in full, less an administrative charge of 40.00; after that date, no refund can be given, although the registration may be transferred to a colleague at no cost. Dietary requirements for the conference dinner should be submitted by 20 May. Meridian Events cannot accept responsibility for travel or accommodation arrangements, which must be made by delegates directly."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the document?",
+        "category": "purpose",
+        "choices": [
+          "To set out a delegate's costs and terms",
+          "To advertise a symposium to the public",
+          "To confirm travel and hotel bookings",
+          "To announce a new conference venue"
+        ],
+        "answerIndex": 0,
+        "explanation": "It is a statement of fees, payments and conditions."
+      },
+      {
+        "prompt": "How much is the balance due?",
+        "category": "detail",
+        "choices": [
+          "480.00",
+          "622.00",
+          "142.00",
+          "48.00"
+        ],
+        "answerIndex": 2,
+        "explanation": "The balance is 622.00 minus the 480.00 already paid."
+      },
+      {
+        "prompt": "What can be inferred about the early rate?",
+        "category": "inference",
+        "choices": [
+          "The standard rate was charged to him",
+          "Dr. Ferreira saved by paying early",
+          "The rate was not available to members",
+          "It applies only to the workshop fee"
+        ],
+        "answerIndex": 1,
+        "explanation": "His payment was received on 12 March, before 15 March; the standard rate is higher."
+      },
+      {
+        "prompt": "What is true about cancellation?",
+        "category": "not_true",
+        "choices": [
+          "A transfer to a colleague is free",
+          "A fee applies before 1 May",
+          "No refund is possible after 1 May",
+          "A refund is available at any time"
+        ],
+        "answerIndex": 3,
+        "explanation": "After 1 May no refund can be given."
+      }
+    ]
+  },
+  {
+    "id": "p7-367",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Conversation between a manager and a new employee",
+        "text": "Helena Park [10:12]: Hi Tobias, how is your second week going? I wanted to check in properly.\n\nTobias Lind [10:15]: Thank you for asking. It's going well, though I'm still learning the reporting system. I made a mistake on Tuesday: I entered last month's figures into this month's sheet.\n\nHelena Park [10:17]: Thank you for telling me. Did anyone notice?\n\nTobias Lind [10:19]: Yes, Mei noticed during review, and we corrected it before the report went out.\n\nHelena Park [10:21]: Good. That's what the review is for. What I'd like to understand is why it happened. Was the layout confusing?\n\nTobias Lind [10:24]: Partly. The two sheets look identical, and the only difference is the date in the corner.\n\nHelena Park [10:26]: That's useful. I'll ask the team to color the tabs differently. Is there anything else slowing you down?\n\nTobias Lind [10:29]: I haven't been shown how to request access to the sales database. I've been waiting for someone to mention it.\n\nHelena Park [10:31]: I'm sorry, that should have been in your first-week list. I'll send you the form today."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the manager's check-in?",
+        "category": "main_idea",
+        "choices": [
+          "To warn him of a very serious mistake",
+          "To announce a new reporting system",
+          "To learn how he is coping and what helps",
+          "To ask him to leave the team soon"
+        ],
+        "answerIndex": 2,
+        "explanation": "She asks how he is doing and explores causes of difficulty."
+      },
+      {
+        "prompt": "What was the cause of the error?",
+        "category": "detail",
+        "choices": [
+          "Two almost identical report sheets",
+          "A breakdown in the reporting system",
+          "A missing date on the report sheet",
+          "A colleague's wrong instructions"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sheets look identical apart from the date in the corner."
+      },
+      {
+        "prompt": "What does Ms. Park's response suggest about her attitude to mistakes?",
+        "category": "inference",
+        "choices": [
+          "She dislikes being told about errors",
+          "She plans to punish the employee",
+          "She believes reviews are unnecessary",
+          "She sees them as chances to improve"
+        ],
+        "answerIndex": 3,
+        "explanation": "She thanks him, notes the review works, and asks why it happened."
+      },
+      {
+        "prompt": "What has the company overlooked?",
+        "category": "inference",
+        "choices": [
+          "Training him in the reporting system",
+          "Telling him how to reach the database",
+          "Giving him a formal first-week review",
+          "Providing him with a colored report"
+        ],
+        "answerIndex": 1,
+        "explanation": "He hasn't been shown how to request database access, which should have been on the list."
+      }
+    ]
+  },
+  {
+    "id": "p7-368",
+    "documents": [
+      {
+        "type": "review",
+        "title": "A museum's new wing: ambitious but cold",
+        "text": "The opening of the new wing at the Calloway Museum has been greeted with the kind of acclaim usually reserved for events in the capital. Designed by a Danish firm and clad in pale stone, the building is undeniably handsome, and its long gallery, lit entirely from above, makes the museum's collection of northern landscapes look finer than ever.\n\nWhat the architecture achieves in the way of grandeur, however, it loses in warmth. Visitors are channeled through a sequence of high, silent rooms in which even a conversation seems an intrusion, and the benches, designed more for the eye than the body, discourage lingering. In the galleries devoted to local history, the objects are displayed in glass cases so large and so brightly lit that they seem like exhibits in a laboratory.\n\nSome features are thoughtful. A small room at the end of the building offers a quiet view over the river and, unlike the rest, invites one to sit. The children's section, though modest, is intelligently arranged at a height that children can reach.\n\nThe museum has plainly spent its funds on the container rather than the contents, and one hopes that the next stage will provide the explanations and context that the displays currently lack. For now, it is a building to admire rather than to enjoy."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall opinion of the new wing?",
+        "category": "main_idea",
+        "choices": [
+          "Cheap and badly constructed overall",
+          "Impressive but lacking in warmth",
+          "Crowded and confusing to visit",
+          "Flawless in every single respect"
+        ],
+        "answerIndex": 1,
+        "explanation": "It is handsome and grand but cold."
+      },
+      {
+        "prompt": "What does the reviewer say about the benches?",
+        "category": "detail",
+        "choices": [
+          "They are too few for the large crowds",
+          "They are placed beside the river",
+          "They are reserved for young children",
+          "They suit the eye more than the body"
+        ],
+        "answerIndex": 3,
+        "explanation": "The benches are designed more for the eye than the body."
+      },
+      {
+        "prompt": "What can be inferred about the local history galleries?",
+        "category": "inference",
+        "choices": [
+          "They feel clinical and lack context",
+          "They are hidden from most visitors",
+          "They are the most popular galleries",
+          "They are too dimly lit to read"
+        ],
+        "answerIndex": 0,
+        "explanation": "Objects look like laboratory exhibits, and displays lack explanations."
+      },
+      {
+        "prompt": "What does the reviewer hope for?",
+        "category": "inference",
+        "choices": [
+          "That the architects will be replaced",
+          "That the museum will be demolished",
+          "That explanations will be added later",
+          "That the benches will be removed"
+        ],
+        "answerIndex": 2,
+        "explanation": "The next stage should provide the explanations and context that are lacking."
+      }
+    ]
+  },
+  {
+    "id": "p7-369",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Reminder on the use of personal devices",
+        "text": "MEMORANDUM\nTo: All staff\nFrom: Marcus Oyelaran, Head of IT Security\nSubject: Use of personal devices for work email\n\nOver the past six months, our security team has recorded an increase in the number of staff accessing company email on personal telephones and tablets. This is permitted, and I do not wish to discourage it, since many of you find it convenient. I am writing, however, to remind you of the conditions that apply.\n\nAny personal device used to access work email must be protected by a passcode of at least six digits and must have the company's security software installed. The software allows us to erase work data remotely if the device is lost, but it does not affect your personal photographs or messages, a point that several colleagues have asked about. Devices that are more than four years old, or that have not been updated in the last six months, may not be used, since they are unable to receive security patches.\n\nI should add that two devices were reported missing last quarter, and in one case the owner delayed reporting the loss for a week. A delay of this kind greatly increases the risk, and I ask all staff to report a lost device to the help desk at once.\n\nAn online guide to installing the software is available on the intranet."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the memo?",
+        "category": "purpose",
+        "choices": [
+          "To ban personal devices from work",
+          "To announce a new telephone policy",
+          "To request that old devices be returned",
+          "To remind staff of device-use rules"
+        ],
+        "answerIndex": 3,
+        "explanation": "The memo restates conditions for using personal devices."
+      },
+      {
+        "prompt": "What can the security software do?",
+        "category": "detail",
+        "choices": [
+          "Delete personal photographs at will",
+          "Erase work data from a lost device",
+          "Track employees' personal messages",
+          "Update the device automatically"
+        ],
+        "answerIndex": 1,
+        "explanation": "It allows remote erasure of work data but does not affect personal content."
+      },
+      {
+        "prompt": "What can be inferred about a five-year-old tablet?",
+        "category": "inference",
+        "choices": [
+          "It must be given to the help desk",
+          "It needs a longer passcode",
+          "It may not be used for work email",
+          "It must be replaced by the company"
+        ],
+        "answerIndex": 2,
+        "explanation": "Devices more than four years old may not be used."
+      },
+      {
+        "prompt": "Why does Mr. Oyelaran mention the delayed report?",
+        "category": "inference",
+        "choices": [
+          "To show quick reporting limits risk",
+          "To blame the employee who was late",
+          "To announce a disciplinary hearing",
+          "To explain a new insurance policy"
+        ],
+        "answerIndex": 0,
+        "explanation": "A delay greatly increases the risk, so staff should report at once."
+      }
+    ]
+  },
+  {
+    "id": "p7-370",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Hartley & Moss: independent financial planning",
+        "text": "Money is the most common cause of anxiety in family life, and the advice that most people receive about it comes from institutions that profit from the products they recommend. At Hartley & Moss, we have arranged our business differently.\n\nWe charge a fixed annual fee, agreed in advance, and we accept no commission from any bank, insurer or investment provider. This means that when we recommend a pension, a savings plan or an insurance policy, we have no reason to prefer one over another except the interests of our clients. We tell prospective clients plainly that this will cost them money at the outset, and we invite them to compare our fee with the commissions that conventional advisers collect in the course of a decade.\n\nOur first meeting is free and lasts an hour. During it we ask about your circumstances, your aims and your attitude to risk, and we explain how we would approach your situation. There is no obligation to continue, and we will not follow you with telephone calls.\n\nWe do not claim to offer higher returns; no honest adviser can. What we offer is advice that is independent and transparent, and the confidence that comes from knowing exactly who is paying us.\n\nTo arrange a meeting, call our office or complete the form on our website."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does the advertisement emphasize?",
+        "category": "main_idea",
+        "choices": [
+          "Independent advice thanks to fixed fees",
+          "Higher returns than rival advisers",
+          "Lower prices for first-time clients",
+          "Fast investment decisions for clients"
+        ],
+        "answerIndex": 0,
+        "explanation": "The firm charges a fixed fee and accepts no commission."
+      },
+      {
+        "prompt": "What is the first meeting like?",
+        "category": "detail",
+        "choices": [
+          "A paid consultation of two hours",
+          "A phone call with a salesperson",
+          "Free, an hour long, no obligation",
+          "A group seminar for several clients"
+        ],
+        "answerIndex": 2,
+        "explanation": "The first meeting is free, lasts an hour, and carries no obligation."
+      },
+      {
+        "prompt": "What does the advertisement admit about cost?",
+        "category": "inference",
+        "choices": [
+          "Fees are higher than commissions",
+          "The fixed fee may feel costly early on",
+          "Clients must pay for the first meeting",
+          "The firm earns money from insurers"
+        ],
+        "answerIndex": 1,
+        "explanation": "They tell clients it will cost money at the outset but invite comparison over a decade."
+      },
+      {
+        "prompt": "What does the firm not promise?",
+        "category": "detail",
+        "choices": [
+          "Independent advice on investments",
+          "Transparent fees for every client",
+          "A free first meeting for newcomers",
+          "Better returns than competitors"
+        ],
+        "answerIndex": 3,
+        "explanation": "'We do not claim to offer higher returns.'"
+      }
+    ]
+  }
+]
