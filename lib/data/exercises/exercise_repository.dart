@@ -16,7 +16,15 @@ class ExerciseRepository {
   final Random _random;
   Future<List<Exercise>>? _cache;
 
-  Future<List<Exercise>> _all() => _cache ??= _load();
+  /// A failed load is not kept: the next call tries again instead of replaying the error.
+  Future<List<Exercise>> _all() => _cache ??= _load().catchError((Object error, StackTrace stack) {
+        _cache = null;
+        return Future<List<Exercise>>.error(error, stack);
+      });
+
+  /// Ids of every question currently in the bank.
+  Future<Set<String>> questionIds() async =>
+      {for (final e in await _all()) for (final q in e.questions) q.id};
 
   Future<int> countQuestions(ToeicPart part) async => (await _all())
       .where((e) => e.part == part)

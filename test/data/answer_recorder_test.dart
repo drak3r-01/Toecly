@@ -80,4 +80,24 @@ void main() {
     expect(record.durationSeconds, 42);
     expect(record.finishedAt, DateTime.utc(2026, 11, 26));
   });
+
+  test('an exam is recorded in one go: stats, missed (blank included) and history', () async {
+    final a = fakeExercise(ToeicPart.part5, 'a');
+    final b = fakeExercise(ToeicPart.part5, 'b');
+    final c = fakeExercise(ToeicPart.part5, 'c');
+    await recorder.recordExam(
+      entries: [
+        for (final e in [a, b, c]) (exercise: e, question: e.questions.single),
+      ],
+      answers: {'a': 0, 'b': 1}, // a right, b wrong, c left blank
+      correctAnswers: 1,
+      duration: const Duration(minutes: 3),
+    );
+    final stats = PartStatsRepository(store).forPart(ToeicPart.part5);
+    expect((stats.answered, stats.correct), (2, 1));
+    expect(MissedQuestionsRepository(store).loadIds(), unorderedEquals(['b', 'c']));
+    final session = SessionHistoryRepository(store).loadAll().single;
+    expect(session.mode, SessionMode.mockExam);
+    expect((session.totalQuestions, session.correctAnswers, session.durationSeconds), (3, 1, 180));
+  });
 }

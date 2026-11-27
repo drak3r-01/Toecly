@@ -9,7 +9,11 @@ import 'models.dart';
 Future<List<Exercise>> loadBundledExercises({AssetBundle? bundle}) async {
   final assets = bundle ?? rootBundle;
   final manifest = await AssetManifest.loadFromAssetBundle(assets);
-  final paths = manifest.listAssets().where((p) => p.endsWith('.json')).toList();
+  // sample*.json are format examples, not real questions.
+  final paths = manifest
+      .listAssets()
+      .where((p) => p.endsWith('.json') && !p.split('/').last.startsWith('sample'))
+      .toList();
 
   final jobs = <String, (ToeicPart, String)>{};
   for (final part in ToeicPart.readingParts) {
@@ -24,12 +28,23 @@ List<Exercise> _parseAll(Map<String, (ToeicPart, String)> jobs) {
   final exercises = <Exercise>[];
   for (final entry in jobs.entries) {
     final result = parseBatch(entry.value.$1, entry.value.$2);
+    // CI rejects invalid lots; if one slips through, drop only the faulty exercises.
     if (result.errors.isNotEmpty) {
-      throw FormatException('${entry.key}: ${result.errors.join('; ')}');
+      debugPrint('Skipping invalid exercises in ${entry.key}: ${result.errors.join('; ')}');
     }
     exercises.addAll(result.exercises);
   }
-  final duplicates = findDuplicateIds(exercises);
-  if (duplicates.isNotEmpty) throw FormatException('Duplicate ids: ${duplicates.join(', ')}');
-  return exercises;
+  // An exercise sharing an id with an earlier one is dropped: ids key the saved progress.
+  final seen = <String>{};
+  final unique = <Exercise>[];
+  for (final exercise in exercises) {
+    final ids = {exercise.id, ...exercise.questions.map((q) => q.id)};
+    if (ids.any(seen.contains)) {
+      debugPrint('Skipping exercise with duplicate id ${exercise.id}');
+      continue;
+    }
+    seen.addAll(ids);
+    unique.add(exercise);
+  }
+  return unique;
 }

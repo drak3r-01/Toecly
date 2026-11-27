@@ -34,7 +34,9 @@ class PartStatsRepository {
 
   AnswerCount _count(Map<String, dynamic> all, String key) {
     final entry = all[key];
-    return entry is List ? AnswerCount(entry[0] as int, entry[1] as int) : AnswerCount.zero;
+    return entry is List && entry.length == 2 && entry[0] is int && entry[1] is int
+        ? AnswerCount(entry[0] as int, entry[1] as int)
+        : AnswerCount.zero;
   }
 
   AnswerCount forPart(ToeicPart part) => _count(_load(), _partKey(part));
@@ -46,11 +48,19 @@ class PartStatsRepository {
     ToeicPart part, {
     required bool isCorrect,
     QuestionCategory? category,
-  }) {
+  }) =>
+      recordAnswers([(part: part, isCorrect: isCorrect, category: category)]);
+
+  /// Same as calling [recordAnswer] for each answer, with a single write.
+  Future<void> recordAnswers(
+    Iterable<({ToeicPart part, bool isCorrect, QuestionCategory? category})> answers,
+  ) {
     final all = _load();
-    for (final key in [_partKey(part), if (category != null) _categoryKey(part, category)]) {
-      final previous = _count(all, key);
-      all[key] = [previous.answered + 1, previous.correct + (isCorrect ? 1 : 0)];
+    for (final a in answers) {
+      for (final key in [_partKey(a.part), if (a.category != null) _categoryKey(a.part, a.category!)]) {
+        final previous = _count(all, key);
+        all[key] = [previous.answered + 1, previous.correct + (a.isCorrect ? 1 : 0)];
+      }
     }
     return _store.writeJson(_key, all);
   }

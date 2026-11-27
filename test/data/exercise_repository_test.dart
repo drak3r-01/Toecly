@@ -115,4 +115,23 @@ void main() {
       expect(await repository.drawForReview(const [], 5), isEmpty);
     });
   });
+
+  test('a failed load is retried, not cached', () async {
+    var loads = 0;
+    final repository = ExerciseRepository(() async {
+      loads++;
+      if (loads == 1) throw const FormatException('boom');
+      return fakeFullStock();
+    });
+    await expectLater(repository.countQuestions(ToeicPart.part5), throwsFormatException);
+    expect(await repository.countQuestions(ToeicPart.part5), 40);
+  });
+
+  test('lists the ids of every question in the bank', () async {
+    final ids = await repositoryOf([
+      fakeExercise(ToeicPart.part5, 'p5-1'),
+      fakeExercise(ToeicPart.part6, 'p6-1', documents: 1, questions: 2),
+    ]).questionIds();
+    expect(ids, {'p5-1', 'p6-1#1', 'p6-1#2'});
+  });
 }

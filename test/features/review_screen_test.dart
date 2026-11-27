@@ -81,4 +81,15 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('Questions to review: 1'), findsOneWidget);
   });
+
+  testWidgets('ids of questions that no longer exist are dropped and not counted', (tester) async {
+    final store = await _openReview(tester, ['a', 'gone-1', 'b', 'gone-2']);
+    expect(find.text('Questions to review: 2'), findsOneWidget);
+    expect(MissedQuestionsRepository(store).loadIds(), ['a', 'b']);
+  });
+
+  testWidgets('only dead ids left: nothing to review', (tester) async {
+    await _openReview(tester, ['gone-1']);
+    expect(find.text('No missed question to review. Well done!'), findsOneWidget);
+  });
 }
