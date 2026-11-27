@@ -1,0 +1,482 @@
+[
+  {
+    "id": "p7-335",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why small airports are fighting to survive",
+        "text": "Regional airports, once a symbol of civic pride, are struggling across the continent. Passenger numbers at many have not recovered to the levels seen before the pandemic, and several airlines have withdrawn routes that they judge to be unprofitable, leaving terminals that handle a few flights a day and employ far more staff than the traffic requires.\n\nLocal officials argue that such airports are more than commercial ventures. They connect remote communities to the national network, bring in visitors who support hotels and restaurants, and offer a base for emergency services. A study of one island airport estimated that every job at the airport supported two more in the surrounding economy.\n\nEconomists are less sentimental. They point out that subsidies to keep airports open, which in some cases exceed the revenue they generate, could be spent on rail links or road improvements that serve more people. They also note that low-cost carriers, which have the power to open or close routes, extract concessions from airports by threatening to leave, a bargaining position that leaves smaller operators with little leverage.\n\nSome airports have found a different path. One has converted unused hangars into a training center for pilots and engineers, and another has become a testing site for electric aircraft. Neither has yet replaced the lost revenue from scheduled flights, but both suggest that survival may depend on finding a new purpose."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Low-cost airlines are opening many new routes",
+          "Regional airports are growing faster than large ones",
+          "Small airports face a hard future, some adapt",
+          "Governments plan to close every small airport soon"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article describes struggles, arguments for and against, and new uses."
+      },
+      {
+        "prompt": "What argument do local officials make?",
+        "category": "detail",
+        "choices": [
+          "The airports serve wider needs beyond profit",
+          "They are more profitable than large airports",
+          "They carry more passengers than rail lines",
+          "They pay high taxes to the council"
+        ],
+        "answerIndex": 0,
+        "explanation": "They connect remote communities, bring visitors and host emergency services."
+      },
+      {
+        "prompt": "What do economists suggest about low-cost carriers?",
+        "category": "inference",
+        "choices": [
+          "They pay the highest fees to small airports",
+          "They prefer to serve only the smallest airports",
+          "They support subsidies for local routes",
+          "They can press small airports for concessions"
+        ],
+        "answerIndex": 3,
+        "explanation": "They extract concessions by threatening to leave."
+      },
+      {
+        "prompt": "What is implied about the converted hangars and test sites?",
+        "category": "inference",
+        "choices": [
+          "They have saved every airport that has tried them",
+          "They show promise but have not replaced revenue",
+          "They are required by a new national law",
+          "They already earn more than scheduled flights"
+        ],
+        "answerIndex": 1,
+        "explanation": "Neither has yet replaced the lost revenue from scheduled flights."
+      }
+    ]
+  },
+  {
+    "id": "p7-336",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Following up on an unanswered supplier query",
+        "text": "To: Hiroshi Tanabe, Account Manager, Kestrel Packaging\nFrom: Louisa Brandt, Purchasing, Marlowe Foods\nSubject: Second request: revised pricing for the autumn range\n\nDear Mr. Tanabe,\n\nI wrote to you on 2 September to ask for revised pricing on the cartons for our autumn range, and I have not yet had a reply. I understand that this is a busy period, and I do not wish to suggest negligence, but our own deadline is approaching and I must ask for a response by Friday.\n\nThe reason for the urgency is that our packaging contract with Kestrel expires at the end of the month, and we must decide by 20 September whether to renew or to seek bids elsewhere. In July you indicated that a price increase of around four percent was likely; I should like to know whether this remains your intention, since a larger rise would make a competing offer attractive.\n\nI should add that we value the relationship, which has lasted six years, and that we have been satisfied with the quality and punctuality of your deliveries. The difficulty is purely one of cost. If Kestrel can hold the price at the current level for a further year, I am confident that we would renew for a longer period.\n\nPlease let me know if a call would be easier than an email.\n\nKind regards,\nLouisa Brandt"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the email?",
+        "category": "purpose",
+        "choices": [
+          "To complain about late deliveries of cartons",
+          "To press a supplier for pricing by a deadline",
+          "To cancel an existing packaging contract",
+          "To order cartons for the whole autumn range"
+        ],
+        "answerIndex": 1,
+        "explanation": "She repeats her request for pricing and asks for a reply by Friday."
+      },
+      {
+        "prompt": "Why does Ms. Brandt need an answer soon?",
+        "category": "detail",
+        "choices": [
+          "The cartons have been damaged in transit",
+          "Kestrel has changed its account manager",
+          "The autumn range has been delayed by weeks",
+          "A renewal decision is due on 20 September"
+        ],
+        "answerIndex": 3,
+        "explanation": "The contract expires at month end and a decision is needed by 20 September."
+      },
+      {
+        "prompt": "What does she imply about the possible price rise?",
+        "category": "inference",
+        "choices": [
+          "A rise above four percent might lead her to switch",
+          "She expects Kestrel to cut prices by four percent",
+          "She has already signed with another supplier",
+          "She considers four percent unacceptable"
+        ],
+        "answerIndex": 0,
+        "explanation": "A larger rise would make a competing offer attractive."
+      },
+      {
+        "prompt": "What does she offer if the price holds?",
+        "category": "inference",
+        "choices": [
+          "A larger order for the autumn range",
+          "A payment in advance for cartons",
+          "A renewal for a longer period",
+          "A visit to the Kestrel factory"
+        ],
+        "answerIndex": 2,
+        "explanation": "If Kestrel holds the price for a year, they would renew for a longer period."
+      }
+    ]
+  },
+  {
+    "id": "p7-337",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice to residents: roof replacement at Thornbury Court",
+        "text": "THORNBURY COURT — NOTICE TO RESIDENTS\nRoof replacement: access, noise and scaffolding\n\nFollowing the survey of March, the management company has appointed Stanhope Roofing to replace the roof of all three blocks. Work will begin on Monday 5 August and is expected to last fourteen weeks, subject to the weather.\n\nScaffolding will be erected around each block in turn, starting with Block A. Residents on the upper floors should expect restricted use of their balconies during the period when scaffolding is in place; balcony furniture should be removed by 2 August, and the contractor cannot accept responsibility for items left behind. Windows may need to be kept closed on days when the roof is being stripped, since dust is likely.\n\nWork hours will be 8 a.m. to 5 p.m. on weekdays only, and noisy operations will not begin before 9 a.m. Anyone who works nights or is otherwise affected by the daytime noise is invited to contact the site manager, Mr. Delgado, who will try to schedule the loudest work for times that cause least disturbance.\n\nThe cost will be met from the reserve fund, and no additional levy will be charged this year. A residents' meeting will be held in the community room on 23 July at 7 p.m. to answer questions."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the notice?",
+        "category": "main_idea",
+        "choices": [
+          "To announce a rise in the service charge",
+          "To report the results of the March survey",
+          "To invite bids from several roofing firms",
+          "To tell residents about the roof work"
+        ],
+        "answerIndex": 3,
+        "explanation": "The notice describes the work, schedule, noise and scaffolding."
+      },
+      {
+        "prompt": "What should residents do before 2 August?",
+        "category": "detail",
+        "choices": [
+          "Close all of their windows each morning",
+          "Remove their balcony furniture from the balconies",
+          "Attend a site meeting at the community room",
+          "Pay an additional levy to the management company"
+        ],
+        "answerIndex": 1,
+        "explanation": "Balcony furniture should be removed by 2 August."
+      },
+      {
+        "prompt": "What can be inferred about night workers?",
+        "category": "inference",
+        "choices": [
+          "They must leave their flats during the work",
+          "They are exempt from the noise altogether",
+          "They may ask that loud work be timed kindly",
+          "They will receive a rebate on their service charge"
+        ],
+        "answerIndex": 2,
+        "explanation": "They are invited to contact the site manager to schedule loud work for least disturbance."
+      },
+      {
+        "prompt": "Which statement is NOT supported by the notice?",
+        "category": "not_true",
+        "choices": [
+          "A special levy will be charged this year",
+          "Work will take place only on weekdays",
+          "Block A will be scaffolded before the others",
+          "A residents' meeting will be held on 23 July"
+        ],
+        "answerIndex": 0,
+        "explanation": "The cost is met from the reserve fund and no additional levy will be charged this year."
+      }
+    ]
+  },
+  {
+    "id": "p7-338",
+    "documents": [
+      {
+        "type": "form",
+        "title": "Incident report, with supervisor's note",
+        "text": "KILBRIDE MANUFACTURING — INCIDENT REPORT\nDate: 14 March    Time: 2:35 p.m.    Location: Packing hall, aisle 6\nReported by: Sofia Marchetti (line operator)\n\nDescription: While moving a pallet of boxed components with a hand truck, I noticed that the floor near the cooling unit was wet. The wet area was about two meters wide and had no warning sign. I slipped slightly, but did not fall, and the pallet did not tip. I informed my team leader immediately.\n\nInjuries: None. Equipment damaged: None.\n\nContributing factors (reporter's view): The cooling unit has leaked on at least two previous occasions this month. On both, the floor was dried but the leak was not reported to maintenance.\n\nSupervisor's note (T. Okonkwo, 14 March, 4:10 p.m.): The area was cordoned off at 2:50 p.m. and dried. Maintenance has been called, and an engineer will inspect the unit tomorrow morning. I agree with the reporter's view that earlier leaks were not escalated, and I have reminded the team that any leak must be reported on the day. Should the unit prove faulty, it will be taken out of service until it is repaired."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the document?",
+        "category": "purpose",
+        "choices": [
+          "To record a hazard and how it was handled",
+          "To request a new hand truck for the hall",
+          "To report a worker's injury to the insurer",
+          "To complain about the conduct of a team leader"
+        ],
+        "answerIndex": 0,
+        "explanation": "The report describes a wet floor and the supervisor's response."
+      },
+      {
+        "prompt": "Why did the operator report the problem?",
+        "category": "detail",
+        "choices": [
+          "She dropped a pallet of components on the floor",
+          "She was badly injured in a fall at work",
+          "She slipped on an unmarked wet patch of floor",
+          "She discovered that the cooling unit was broken"
+        ],
+        "answerIndex": 2,
+        "explanation": "The floor was wet and unmarked, and she slipped slightly."
+      },
+      {
+        "prompt": "What does the supervisor accept?",
+        "category": "inference",
+        "choices": [
+          "The operator had been careless with the pallet",
+          "Earlier leaks should have been reported sooner",
+          "The cooling unit is in good working order",
+          "The area had been safe for the whole week"
+        ],
+        "answerIndex": 1,
+        "explanation": "He agrees that earlier leaks were not escalated and reminds the team to report them."
+      },
+      {
+        "prompt": "What will happen if the cooling unit proves faulty?",
+        "category": "inference",
+        "choices": [
+          "It will be replaced the same day",
+          "The packing hall will close",
+          "The operator will be reassigned",
+          "It will be withdrawn until repaired"
+        ],
+        "answerIndex": 3,
+        "explanation": "It will be taken out of service until it is repaired."
+      }
+    ]
+  },
+  {
+    "id": "p7-339",
+    "documents": [
+      {
+        "type": "review",
+        "title": "A documentary that asks the right questions",
+        "text": "The Last Harvest follows a family of grape growers in the south of France over three seasons, during which a run of poor weather pushes their vineyard to the edge of bankruptcy. It would have been easy for the director, Elodie Martin, to treat this as a lament for a vanishing way of life; instead she presents a business whose owners are as practical as they are sentimental.\n\nThe strongest scenes are the quietest. In one, the father and his son argue across the kitchen table about whether to sell a parcel of land, each in turn making a case that is persuasive and incomplete. Martin does not take sides, and the viewer's sympathy shifts with each speech. The cinematography, which at times lingers lovingly over the hills, is less disciplined, and a few shots seem included purely for their beauty.\n\nThe film's weakness is its final third, in which a visiting economist is introduced to explain the wider picture. His comments are accurate but arrive too late and sit awkwardly beside the intimacy of what precedes them.\n\nIt is nonetheless a thoughtful work, and it leaves its audience with a question rather than an answer: what are we willing to pay to keep a place as it is?"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall view of the film?",
+        "category": "main_idea",
+        "choices": [
+          "A sentimental lament for rural life in France",
+          "A confusing study of agricultural economics",
+          "A balanced, thoughtful film with a weak ending",
+          "A beautiful film that has no real ideas"
+        ],
+        "answerIndex": 2,
+        "explanation": "The review praises its balance but criticizes the final third."
+      },
+      {
+        "prompt": "Which scene does the reviewer praise?",
+        "category": "detail",
+        "choices": [
+          "A family argument over selling land",
+          "A conversation with a visiting economist",
+          "A long slow shot of the green hills",
+          "A tense meeting with the local bank"
+        ],
+        "answerIndex": 0,
+        "explanation": "The father and son argue about selling a parcel of land."
+      },
+      {
+        "prompt": "What does the reviewer suggest about the director's stance?",
+        "category": "inference",
+        "choices": [
+          "She sides with the son in the dispute",
+          "She favors selling the land to a buyer",
+          "She is critical of the family's choices",
+          "She holds back judgment between them"
+        ],
+        "answerIndex": 3,
+        "explanation": "Martin does not take sides, and sympathy shifts."
+      },
+      {
+        "prompt": "What is the weakness of the final third?",
+        "category": "detail",
+        "choices": [
+          "The vineyard is sold much too early",
+          "The economist's talk sits awkwardly in it",
+          "The father disappears from the story entirely",
+          "The photography becomes flat and dull"
+        ],
+        "answerIndex": 1,
+        "explanation": "The visiting economist's comments sit awkwardly beside the intimacy before."
+      }
+    ]
+  },
+  {
+    "id": "p7-340",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Frequently asked questions about the Greenfield community garden",
+        "text": "Who can join the Greenfield community garden? Anyone who lives within three kilometers of the site may apply for a plot. If a plot becomes available, it is offered first to people on the waiting list, in order of application. At present, the wait is about eighteen months.\n\nHow much does a plot cost? An annual fee of 40 dollars applies for a standard plot of ten square meters. Residents receiving benefits pay half. The fee covers water, shared tools and insurance, but not seeds or plants.\n\nCan I use pesticides? No. The garden is organic, which means that synthetic pesticides and fertilizers are not allowed. Plot holders who break this rule will receive a written warning, and a second offense leads to the loss of the plot.\n\nWhat if I am away for a long period? Holidays are not a problem, but plots that are left unattended for more than six weeks during the growing season may be reassigned, since the waiting list is long. Please tell the coordinator if you expect to be away, and arrange for a friend to water your plot.\n\nCan I sell what I grow? Produce may be shared with neighbors and given to the food bank, but not sold, as the garden's lease prohibits trading."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the page?",
+        "category": "purpose",
+        "choices": [
+          "To advertise vegetables for sale to the public",
+          "To explain the garden's membership and rules",
+          "To announce that the waiting list has closed",
+          "To recruit a new coordinator for the garden"
+        ],
+        "answerIndex": 1,
+        "explanation": "The FAQ covers eligibility, fees, pesticides, absence and selling."
+      },
+      {
+        "prompt": "What does the annual fee cover?",
+        "category": "detail",
+        "choices": [
+          "Seeds and young plants for each plot",
+          "Pesticides for any pest problems that arise",
+          "Produce delivered to the local food bank",
+          "Water, shared tools and insurance cover"
+        ],
+        "answerIndex": 3,
+        "explanation": "The fee covers water, shared tools and insurance, but not seeds or plants."
+      },
+      {
+        "prompt": "What can be inferred about a plot left for two months in summer?",
+        "category": "inference",
+        "choices": [
+          "It may be reassigned to a person on the list",
+          "It will be refunded to the holder in full",
+          "It will be sold to a neighbor in the garden",
+          "It will be fenced off by the coordinator"
+        ],
+        "answerIndex": 0,
+        "explanation": "Plots unattended for more than six weeks in the season may be reassigned."
+      },
+      {
+        "prompt": "What happens after a second offense of using pesticides?",
+        "category": "detail",
+        "choices": [
+          "The member pays a double annual fee",
+          "The member receives a further warning",
+          "The member loses the plot for good",
+          "The garden changes its rules for all"
+        ],
+        "answerIndex": 2,
+        "explanation": "A second offense leads to the loss of the plot."
+      }
+    ]
+  },
+  {
+    "id": "p7-341",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The long road to a cheaper battery",
+        "text": "For a decade, the price of rechargeable batteries has fallen steadily, and manufacturers have grown used to promising that the decline will continue. Recent figures, however, suggest that the easy gains may be over. After falling by more than eighty percent since 2010, the cost per unit of storage rose slightly last year, largely because of higher prices for lithium and cobalt.\n\nIndustry analysts point to two sources of relief. The first is a change of chemistry: several firms now produce batteries that use iron phosphate in place of cobalt, which is both cheaper and less vulnerable to supply disruption. The second is recycling, which in principle can recover most of the valuable metals from used cells, though at present only a small proportion of batteries are processed in this way, because collection systems are inadequate.\n\nA third possibility, much discussed, is the so-called solid-state battery, which promises greater capacity and safety. Yet researchers caution that the technology has been \"two years away\" for more than ten, and that the difficulties of manufacturing at scale are serious.\n\nThe effect of all this on consumers will depend on how long the pause lasts. Electric vehicles, which depend on batteries for around a third of their cost, are likely to feel it first."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the central point of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Solid-state batteries are about to be sold",
+          "Lithium is no longer used in batteries",
+          "Electric vehicles have become cheaper than petrol cars",
+          "The steady fall in battery prices may be slowing"
+        ],
+        "answerIndex": 3,
+        "explanation": "Prices rose slightly last year and analysts discuss possible remedies."
+      },
+      {
+        "prompt": "Why have costs risen?",
+        "category": "detail",
+        "choices": [
+          "Fewer batteries were manufactured last year",
+          "Lithium and cobalt became more expensive",
+          "Recycling has become far too expensive",
+          "Solid-state batteries replaced the older cells"
+        ],
+        "answerIndex": 1,
+        "explanation": "The rise was largely due to higher lithium and cobalt prices."
+      },
+      {
+        "prompt": "What can be inferred about recycling?",
+        "category": "inference",
+        "choices": [
+          "It already supplies most of the battery metals",
+          "It is banned in a number of countries",
+          "Poor collection systems limit its potential",
+          "It is more costly than digging new mines"
+        ],
+        "answerIndex": 2,
+        "explanation": "Only a small proportion is processed because collection systems are inadequate."
+      },
+      {
+        "prompt": "What does '\"two years away\" for more than ten' suggest?",
+        "category": "inference",
+        "choices": [
+          "Forecasts for solid-state cells were too hopeful",
+          "Solid-state batteries are already in common use",
+          "Researchers have given up on the technology",
+          "Manufacturers have delivered each promise on time"
+        ],
+        "answerIndex": 0,
+        "explanation": "The technology has been promised soon for over a decade."
+      }
+    ]
+  },
+  {
+    "id": "p7-342",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Reference for a former employee",
+        "text": "To whom it may concern,\n\nI am pleased to write in support of Ms. Camille Okoye, who worked as a project coordinator in my department from 2019 until her departure last month to relocate abroad with her family. I have been asked to comment on her suitability for a position as an operations manager, and I do so with confidence.\n\nMs. Okoye joined us when our department was disorganized and often late with its deliverables. Within a year, she had introduced a weekly tracking system that identified delays before they became crises, and by her third year our on-time record had improved from sixty to ninety percent. She achieved this not by insisting on rules but by persuading colleagues that the system would make their work easier, an ability that is rarer than it should be.\n\nI must be honest about one limitation. Ms. Okoye is at her best when working with teams she knows well, and she took some months to find her footing in a new group after our restructuring in 2022. This is not a serious weakness, but a prospective employer should allow her time to settle.\n\nI would gladly employ her again, and I recommend her without reservation.\n\nYours faithfully,\nDr. Henrik Alvarez, Director of Operations"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To recommend a former colleague as manager",
+          "To announce Ms. Okoye's move to another country",
+          "To request a transfer for a colleague",
+          "To criticize the restructuring of the department"
+        ],
+        "answerIndex": 0,
+        "explanation": "The director supports her application as an operations manager."
+      },
+      {
+        "prompt": "What improvement did Ms. Okoye achieve?",
+        "category": "detail",
+        "choices": [
+          "The department doubled its number of staff",
+          "The restructuring was completed ahead of time",
+          "On-time delivery rose from 60 to 90 percent",
+          "Late deliverables were eliminated completely"
+        ],
+        "answerIndex": 2,
+        "explanation": "The on-time record improved from sixty to ninety percent."
+      },
+      {
+        "prompt": "What does the director suggest is rare?",
+        "category": "inference",
+        "choices": [
+          "The skill of writing reports with great speed",
+          "Skill in winning colleagues over to a system",
+          "The habit of tracking every single delay",
+          "A willingness to relocate abroad for work"
+        ],
+        "answerIndex": 1,
+        "explanation": "She persuaded colleagues that the system would make work easier, 'an ability that is rarer than it should be'."
+      },
+      {
+        "prompt": "What limitation is mentioned?",
+        "category": "inference",
+        "choices": [
+          "She dislikes using any tracking systems",
+          "She cannot work in a restructured department",
+          "She prefers working entirely alone",
+          "She needs time to adjust to new teams"
+        ],
+        "answerIndex": 3,
+        "explanation": "She took months to find her footing in a new group."
+      }
+    ]
+  }
+]
