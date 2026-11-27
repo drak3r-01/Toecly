@@ -1,509 +1,522 @@
 [
   {
-    "id": "p5-435",
-    "sentence": "New employees will ___ a two-day orientation program.",
+    "id": "p5-1041",
+    "sentence": "The report ___ prepared by the time the board arrived.",
     "choices": [
-      "underline",
-      "undertake",
-      "undergo",
-      "undergrow"
+      "will be",
+      "has been",
+      "was being to",
+      "had been"
     ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Undergo' means to experience a process, such as training."
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "The past perfect passive shows the report was ready before the arrival. The others do not fit."
   },
   {
-    "id": "p5-436",
-    "sentence": "Ms. Novak was ___ to the position of regional manager.",
+    "id": "p5-1042",
+    "sentence": "By 2030, the firm ___ its entire fleet with electric vehicles.",
     "choices": [
-      "promised",
-      "prompted",
-      "promoted",
-      "promoting"
+      "will have replaced",
+      "is replaced",
+      "had replaced",
+      "replaces"
     ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Was promoted to' means moved to a higher position."
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "The future perfect fits 'By 2030'. The others do not."
   },
   {
-    "id": "p5-437",
-    "sentence": "Staff members are ___ to submit vacation requests two weeks in advance.",
+    "id": "p5-1043",
+    "sentence": "The firm ___ the contract for three years when the supplier went bankrupt.",
     "choices": [
-      "encouraging",
-      "courage",
-      "encouraged",
-      "encouragement"
+      "will hold",
+      "had held",
+      "has held",
+      "holds"
     ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Are encouraged to' is the passive structure."
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The past perfect shows an earlier action. The others do not fit."
   },
   {
-    "id": "p5-438",
-    "sentence": "The company provides ___ opportunities for professional growth.",
+    "id": "p5-1044",
+    "sentence": "We ___ the problem for hours when the technician finally arrived.",
     "choices": [
-      "number",
-      "numbered",
-      "numerous",
-      "numeral"
+      "had been discussing",
+      "discuss",
+      "are discussing",
+      "have discussed"
     ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Numerous opportunities' means many opportunities."
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "Past perfect continuous shows duration before a past event. The others do not."
   },
   {
-    "id": "p5-439",
-    "sentence": "To be ___ for the position, applicants must have a college degree.",
+    "id": "p5-1045",
+    "sentence": "The warehouse operates around the clock to ___ the growing volume of online orders.",
     "choices": [
-      "eligible",
-      "electable",
-      "elegant",
-      "element"
+      "accommodate",
+      "accelerate",
+      "accumulate",
+      "accredit"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Eligible for' means qualified to be considered."
+    "explanation": "'Accommodate' means handle or provide for. 'Accumulate' means pile up, 'accelerate' means speed up, and 'accredit' means officially recognise."
   },
   {
-    "id": "p5-440",
-    "sentence": "The interview panel will ___ each candidate's qualifications carefully.",
+    "id": "p5-1046",
+    "sentence": "The union has ___ to call a strike unless management improves its pay offer.",
     "choices": [
-      "assure",
-      "assume",
-      "assist",
-      "assess"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Assess' means to evaluate."
-  },
-  {
-    "id": "p5-441",
-    "sentence": "Mr. Ahmed will ___ as team leader while Ms. Brooks is on leave.",
-    "choices": [
-      "serves",
-      "service",
-      "servant",
-      "serve"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Will serve as' needs the base form."
-  },
-  {
-    "id": "p5-442",
-    "sentence": "Employees must ___ their time sheets by the end of each week.",
-    "choices": [
-      "submit",
-      "submerge",
-      "subtitle",
-      "subside"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Submit a time sheet' means hand it in."
-  },
-  {
-    "id": "p5-443",
-    "sentence": "The company offers a generous retirement ___ to all full-time workers.",
-    "choices": [
-      "packet",
-      "passage",
-      "package",
-      "packing"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Retirement package' is a standard noun phrase."
-  },
-  {
-    "id": "p5-444",
-    "sentence": "A ___ of the new staff handbook will be distributed on Monday.",
-    "choices": [
-      "cope",
-      "copy",
-      "copper",
-      "cop"
+      "pretended",
+      "threatened",
+      "predicted",
+      "promised"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'A copy of' is the standard phrase."
+    "explanation": "'Threatened to' introduces a warning of action. 'Promised' implies a positive pledge, 'predicted' needs a clause, and 'pretended' means feigned."
   },
   {
-    "id": "p5-445",
-    "sentence": "Ms. Sharma has been a loyal ___ of the firm for twenty years.",
+    "id": "p5-1047",
+    "sentence": "Please ___ this message to anyone in your department who may be affected by the change.",
     "choices": [
-      "employ",
-      "employee",
-      "employment",
-      "employer"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "An 'employee' is the person who works for the firm."
-  },
-  {
-    "id": "p5-446",
-    "sentence": "The firm is seeking a ___ assistant with strong organizational skills.",
-    "choices": [
-      "reliably",
-      "rely",
-      "reliance",
-      "reliable"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "An adjective is needed before the noun 'assistant'."
-  },
-  {
-    "id": "p5-447",
-    "sentence": "The personnel office will ___ the new employees' health insurance forms.",
-    "choices": [
-      "processor",
-      "proceed",
-      "procedure",
-      "process"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Process forms' means to handle them administratively."
-  },
-  {
-    "id": "p5-448",
-    "sentence": "Staff are reminded that the ___ for annual leave requests is May 1.",
-    "choices": [
-      "deadwood",
-      "deadline",
-      "dead end",
-      "deadlock"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A 'deadline' is the last date for something."
-  },
-  {
-    "id": "p5-449",
-    "sentence": "Our team leader will ___ responsibility for the new training project.",
-    "choices": [
-      "assure",
-      "asset",
-      "assume",
-      "assess"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Assume responsibility' means to take it on."
-  },
-  {
-    "id": "p5-450",
-    "sentence": "Mr. Costa was ___ from the sales team to the marketing department.",
-    "choices": [
-      "transferred",
-      "transformed",
-      "transmitted",
-      "translated"
+      "forward",
+      "forgive",
+      "forbid",
+      "foretell"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Transferred from ... to' means moved."
+    "explanation": "'Forward a message' means send it on. 'Foretell' means predict, 'forbid' means prohibit, and 'forgive' means pardon."
   },
   {
-    "id": "p5-451",
-    "sentence": "The workshop is designed to improve employees' communication ___.",
+    "id": "p5-1048",
+    "sentence": "The tender was awarded to the firm that submitted the most ___ bid.",
     "choices": [
-      "skillful",
-      "skilled",
-      "skills",
-      "skillfully"
+      "competent",
+      "competitive",
+      "complacent",
+      "compulsive"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Communication skills' is a standard noun phrase."
+    "explanation": "A 'competitive bid' is attractive compared with others. 'Competent' means able, 'complacent' means self-satisfied, and 'compulsive' means uncontrollable."
   },
   {
-    "id": "p5-452",
-    "sentence": "The manager gave a ___ review of each employee's performance.",
+    "id": "p5-1049",
+    "sentence": "The merged company now ___ over four thousand people in eleven countries.",
     "choices": [
-      "through",
-      "thoroughly",
-      "thorough",
-      "thought"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Thorough review' means complete and careful."
-  },
-  {
-    "id": "p5-453",
-    "sentence": "All overtime hours must be ___ by a supervisor.",
-    "choices": [
-      "approved",
-      "approves",
-      "approving",
-      "approval"
+      "employs",
+      "enrols",
+      "enlists",
+      "engages to"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Be approved by' is the passive structure."
+    "explanation": "'Employs' means has on its payroll. 'Engages to' is malformed, 'enlists' relates to military service, and 'enrols' relates to registration."
   },
   {
-    "id": "p5-454",
-    "sentence": "Newly hired staff are ___ to attend all orientation sessions.",
+    "id": "p5-1050",
+    "sentence": "The new regulations will ___ the way in which companies report their carbon emissions.",
+    "choices": [
+      "transcribe",
+      "transmit",
+      "transfer",
+      "transform"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Transform' means change fundamentally. 'Transmit' means send, 'transfer' means move, and 'transcribe' means copy in writing."
+  },
+  {
+    "id": "p5-1051",
+    "sentence": "The shipping delay was ___ by a dockworkers' strike at the main port.",
+    "choices": [
+      "exonerated",
+      "exaggerated",
+      "exacerbated",
+      "excavated"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Exacerbated' means made worse. 'Exaggerated' means overstated, 'excavated' means dug out, and 'exonerated' means cleared of blame."
+  },
+  {
+    "id": "p5-1052",
+    "sentence": "The two parties reached a ___ settlement after lengthy mediation.",
+    "choices": [
+      "mutual accepted",
+      "mutual acceptance",
+      "mutually acceptable",
+      "mutually accepting"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adverb modifies the adjective 'acceptable'. The others are not grammatical in this position."
+  },
+  {
+    "id": "p5-1053",
+    "sentence": "Mr. Ito is ___ for coordinating all of the firm's international shipments.",
+    "choices": [
+      "answerable",
+      "answerably",
+      "answers",
+      "answered"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Answerable for' is an adjective. The others do not fit."
+  },
+  {
+    "id": "p5-1054",
+    "sentence": "The council has ___ planning permission for the construction of a new logistics centre.",
+    "choices": [
+      "grasped",
+      "grouped",
+      "gifted",
+      "granted"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Granted permission' is the fixed collocation. 'Gifted' means donated, 'grasped' means gripped, and 'grouped' means arranged."
+  },
+  {
+    "id": "p5-1055",
+    "sentence": "The firm is hoping to ___ its debts by selling several non-core subsidiaries.",
+    "choices": [
+      "clear",
+      "clarify",
+      "clean",
+      "cure"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Clear debts' means pay them off. 'Clean' and 'cure' do not collocate, and 'clarify' means explain."
+  },
+  {
+    "id": "p5-1056",
+    "sentence": "The manager decided to ___ the interviews until more candidates had applied.",
+    "choices": [
+      "deplete",
+      "defend",
+      "deflect",
+      "defer"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Defer' means postpone. 'Deflect' means redirect, 'deplete' means use up, and 'defend' means protect."
+  },
+  {
+    "id": "p5-1057",
+    "sentence": "The new software promises to ___ the process of reconciling supplier invoices.",
+    "choices": [
+      "stress",
+      "streamline",
+      "strain",
+      "stream"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Streamline' means make more efficient. 'Stream', 'strain' and 'stress' do not take 'process' as an object in this sense."
+  },
+  {
+    "id": "p5-1058",
+    "sentence": "The firm was ___ to admit that the warranty did not cover accidental damage.",
+    "choices": [
+      "compelled",
+      "competed",
+      "complied",
+      "compiled"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Compelled to' means forced to. 'Compiled' means assembled, 'complied' needs 'with', and 'competed' needs 'with' or 'against'."
+  },
+  {
+    "id": "p5-1059",
+    "sentence": "The auditors found no evidence of ___ in the company's accounts.",
+    "choices": [
+      "maltreatment",
+      "malfunction",
+      "malnutrition",
+      "malpractice"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Malpractice' means improper professional conduct. 'Malfunction' relates to equipment, and the others relate to health and abuse."
+  },
+  {
+    "id": "p5-1060",
+    "sentence": "The airline was forced to ___ the flight owing to a technical fault.",
+    "choices": [
+      "divert",
+      "denote",
+      "delegate",
+      "deviate"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Divert a flight' means redirect it. 'Deviate' is intransitive, 'delegate' means assign, and 'denote' means signify."
+  },
+  {
+    "id": "p5-1061",
+    "sentence": "The ___ of the building is scheduled for completion in the early spring.",
+    "choices": [
+      "refurbishment",
+      "refinement",
+      "reformation",
+      "refreshment"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Refurbishment' means renovation. 'Refreshment' is food or drink, 'reformation' is major change, and 'refinement' is improvement."
+  },
+  {
+    "id": "p5-1062",
+    "sentence": "The company has ___ a strict policy of not accepting gifts from suppliers.",
+    "choices": [
+      "endured",
+      "endorsed",
+      "enforced",
+      "entered"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Enforced a policy' means applied it. 'Endorsed' means supported publicly, 'endured' means suffered, and 'entered' means went in."
+  },
+  {
+    "id": "p5-1063",
+    "sentence": "Because of heavy rainfall, the outdoor event was ___ to the following weekend.",
+    "choices": [
+      "reassigned",
+      "rescheduled",
+      "recalculated",
+      "recounted"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Rescheduled to' means moved to a new time. The others do not fit events."
+  },
+  {
+    "id": "p5-1064",
+    "sentence": "A ___ inspection revealed that several fire exits were blocked.",
+    "choices": [
+      "rural",
+      "rigid",
+      "ruthless",
+      "routine"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A 'routine inspection' is a regular one. The other adjectives do not collocate."
+  },
+  {
+    "id": "p5-1065",
+    "sentence": "The firm's market share has ___ from twelve to eight percent in two years.",
+    "choices": [
+      "dwindled",
+      "dazzled",
+      "dangled",
+      "dashed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Dwindled' means gradually diminished. The others have unrelated meanings."
+  },
+  {
+    "id": "p5-1066",
+    "sentence": "Access to the archive is ___ to staff who have been granted clearance.",
+    "choices": [
+      "confirmed",
+      "conferred",
+      "confined",
+      "confused"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Confined to' means limited to. 'Confused' means mixed up, 'confirmed' means verified, and 'conferred' means bestowed."
+  },
+  {
+    "id": "p5-1067",
+    "sentence": "The auditor ___ the accuracy of the figures against the original receipts.",
+    "choices": [
+      "cross-referred",
+      "cross-checked",
+      "cross-purposed",
+      "cross-examined"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Cross-checked' means verified against another source. 'Cross-examined' is for questioning witnesses, and the others are not standard."
+  },
+  {
+    "id": "p5-1068",
+    "sentence": "The contract includes a ___ clause that lets either party withdraw without penalty in the first month.",
+    "choices": [
+      "cancelling",
+      "cancelled",
+      "cancel",
+      "cancellation"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A noun used as a modifier is needed before 'clause'. The others are a participle, a gerund and a verb."
+  },
+  {
+    "id": "p5-1069",
+    "sentence": "The company was ___ to bankruptcy by a series of poorly judged acquisitions.",
+    "choices": [
+      "driven",
+      "drifted",
+      "dragged",
+      "drawn"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Driven to bankruptcy' means pushed into it. 'Drawn' and 'dragged' do not take 'to bankruptcy' naturally, and 'drifted' is intransitive."
+  },
+  {
+    "id": "p5-1070",
+    "sentence": "The firm's ___ tone in its response reassured the shareholders.",
+    "choices": [
+      "conciliate",
+      "conciliating",
+      "conciliatory",
+      "conciliation"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'tone'. The others are a gerund, a noun and a verb."
+  },
+  {
+    "id": "p5-1071",
+    "sentence": "The firm is currently ___ its options for relocating the call centre.",
+    "choices": [
+      "wading",
+      "wandering",
+      "weighing",
+      "waving"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Weighing options' means considering them. The other verbs do not collocate."
+  },
+  {
+    "id": "p5-1072",
+    "sentence": "Business travellers are ___ to claim reimbursement for meals up to a daily limit.",
+    "choices": [
+      "entrusted",
+      "enrolled",
+      "entitled",
+      "enabled"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Entitled to claim' means having the right. 'Entrusted' needs a different structure, 'enrolled' means registered, and 'enabled' does not take 'to claim' as 'permitted'."
+  },
+  {
+    "id": "p5-1073",
+    "sentence": "The manufacturer ___ sole responsibility for the quality of the finished goods.",
+    "choices": [
+      "consumes",
+      "presumes",
+      "assumes",
+      "resumes"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Assume responsibility' is the collocation. 'Presume' means suppose, 'resume' means restart, and 'consume' means use up."
+  },
+  {
+    "id": "p5-1074",
+    "sentence": "The tax relief is ___ to small firms with fewer than fifty employees.",
+    "choices": [
+      "confirmed",
+      "confined",
+      "conformed",
+      "confused"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Confined to' means limited to. The others do not fit."
+  },
+  {
+    "id": "p5-1075",
+    "sentence": "The new CEO is ___ to be a more cautious investor than her predecessor.",
     "choices": [
       "expected",
-      "expects",
-      "expecting",
-      "expectation"
+      "excluded",
+      "accepted",
+      "excepted"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Are expected to' is the passive structure."
+    "explanation": "'Is expected to be' means is anticipated to be. 'Accepted' and 'excepted' are different words, and 'excluded' means omitted."
   },
   {
-    "id": "p5-455",
-    "sentence": "The company has a strict ___ against discrimination in the workplace.",
+    "id": "p5-1076",
+    "sentence": "Mr. Petrov will ___ the discussion, since the chairperson is unable to attend.",
     "choices": [
-      "police",
-      "policing",
-      "politics",
-      "policy"
+      "moderately",
+      "moderation",
+      "moderate",
+      "moderated"
     ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "A 'policy' is a formal rule of an organization."
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'will', the base verb is needed. The others are not."
   },
   {
-    "id": "p5-456",
-    "sentence": "We are looking for someone ___ in managing a large team.",
+    "id": "p5-1077",
+    "sentence": "The company's response to the crisis was ___ and well coordinated.",
     "choices": [
-      "experiential",
-      "experiences",
-      "experienced",
-      "experiencing"
+      "swiftness",
+      "swiftly",
+      "swift",
+      "swifter to"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adjective is needed after 'was', parallel with 'well coordinated'. The others are an adverb, a noun and a malformed phrase."
+  },
+  {
+    "id": "p5-1078",
+    "sentence": "A senior manager must ___ every purchase order exceeding five thousand dollars.",
+    "choices": [
+      "counterfeit",
+      "countermand",
+      "countersign",
+      "counteract"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Someone experienced in' uses a past participle adjective."
+    "explanation": "'Countersign' means add a second signature. 'Counteract' means oppose, 'countermand' means cancel an order, and 'counterfeit' means forge."
   },
   {
-    "id": "p5-457",
-    "sentence": "Ms. Valdez is highly ___ by her colleagues for her honesty.",
+    "id": "p5-1079",
+    "sentence": "The retailer ___ its prices by an average of eight percent this quarter.",
     "choices": [
-      "respectful",
-      "respective",
-      "respecting",
-      "respected"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Is respected by' is the passive structure."
-  },
-  {
-    "id": "p5-458",
-    "sentence": "The training will be ___ by an expert from the head office.",
-    "choices": [
-      "conducting",
-      "conductor",
-      "conducted",
-      "conducive"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Be conducted by' means to be carried out by."
-  },
-  {
-    "id": "p5-459",
-    "sentence": "Employees receive a ___ evaluation once a year.",
-    "choices": [
-      "performance",
-      "perform",
-      "performed",
-      "performer"
+      "slashed",
+      "slumped",
+      "slipped",
+      "slapped"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Performance evaluation' is the standard noun phrase."
+    "explanation": "'Slashed prices' means cut drastically. 'Slapped' and 'slipped' do not take 'prices' as an object, and 'slumped' is intransitive."
   },
   {
-    "id": "p5-460",
-    "sentence": "Because of her ___ in the field, Ms. Ito was invited to give a lecture.",
+    "id": "p5-1080",
+    "sentence": "Further details will be ___ at the end of this week.",
     "choices": [
-      "expert's",
-      "expertly",
-      "experts",
-      "expertise"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Her expertise' means her specialized knowledge."
-  },
-  {
-    "id": "p5-461",
-    "sentence": "The department head asked for volunteers to ___ the new intern.",
-    "choices": [
-      "mentor",
-      "mention",
-      "merit",
-      "menace"
+      "announced",
+      "annotated",
+      "annoyed",
+      "announced to"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Mentor' means to guide and advise."
-  },
-  {
-    "id": "p5-462",
-    "sentence": "Applicants are ___ to provide at least two references.",
-    "choices": [
-      "requires",
-      "required",
-      "requirement",
-      "requiring"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Are required to' is the passive structure."
-  },
-  {
-    "id": "p5-463",
-    "sentence": "The new manager's ___ approach has improved team spirit.",
-    "choices": [
-      "collaboration",
-      "collaborate",
-      "collaboratively",
-      "collaborative"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "An adjective is needed before the noun 'approach'."
-  },
-  {
-    "id": "p5-464",
-    "sentence": "Mr. Lee left the company to ___ a career in teaching.",
-    "choices": [
-      "pursue",
-      "pursuit",
-      "pursuant",
-      "purchase"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Pursue a career' is a fixed collocation."
-  },
-  {
-    "id": "p5-465",
-    "sentence": "Please ___ me of any changes to your contact information.",
-    "choices": [
-      "notion",
-      "note",
-      "notice",
-      "notify"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Notify someone of' means to inform them."
-  },
-  {
-    "id": "p5-466",
-    "sentence": "Interns will work ___ the supervision of experienced staff.",
-    "choices": [
-      "down",
-      "beneath of",
-      "under",
-      "below of"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Under the supervision of' is a fixed expression."
-  },
-  {
-    "id": "p5-467",
-    "sentence": "The company has ___ a new policy on remote work.",
-    "choices": [
-      "adopted",
-      "adopting",
-      "adapted",
-      "adopts"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Adopted a policy' means formally accepted and began using it."
-  },
-  {
-    "id": "p5-468",
-    "sentence": "Ms. Fischer's ___ to the team has been invaluable.",
-    "choices": [
-      "contribution",
-      "contributor",
-      "contribute",
-      "contributing"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "After the possessive, a noun is needed: 'contribution to'."
-  },
-  {
-    "id": "p5-469",
-    "sentence": "Managers must ensure that all staff ___ the new safety guidelines.",
-    "choices": [
-      "understood by",
-      "understand",
-      "understandable",
-      "understanding"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "After 'ensure that all staff', a plural present verb is needed."
-  },
-  {
-    "id": "p5-470",
-    "sentence": "Staff who work on public holidays are ___ for the extra hours.",
-    "choices": [
-      "compensated",
-      "compensation",
-      "compensates",
-      "compensating"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Are compensated for' is the passive structure."
-  },
-  {
-    "id": "p5-471",
-    "sentence": "The training budget has been ___ to include online courses.",
-    "choices": [
-      "expensive",
-      "expansive",
-      "expanded",
-      "expended"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Expanded to include' means extended to cover."
-  },
-  {
-    "id": "p5-472",
-    "sentence": "Please ___ your supervisor if you will be absent from work.",
-    "choices": [
-      "informal",
-      "informing",
-      "information",
-      "inform"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "After 'Please', the base verb 'inform' is needed."
-  },
-  {
-    "id": "p5-473",
-    "sentence": "The employee handbook ___ the company's policies on leave and benefits.",
-    "choices": [
-      "outlines",
-      "outlets",
-      "outlasts",
-      "outlooks"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Outlines' means describes the main points of."
+    "explanation": "'Announced' means made public. 'Annotated' means added notes, and 'annoyed' means irritated."
   }
 ]

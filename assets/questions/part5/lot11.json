@@ -1,496 +1,522 @@
 [
   {
-    "id": "p5-397",
-    "sentence": "The tenant must give thirty days' written ___ before moving out.",
+    "id": "p5-1001",
+    "sentence": "Please remember ___ the lights before you leave the office.",
     "choices": [
-      "noting",
-      "notion",
-      "notice",
-      "nation"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Give notice' means to inform formally."
-  },
-  {
-    "id": "p5-398",
-    "sentence": "Both parties must ___ the contract before the work can begin.",
-    "choices": [
-      "sing",
-      "sigh",
-      "sink",
-      "sign"
+      "having switched",
+      "switch off",
+      "switching off",
+      "to switch off"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Sign a contract' is the standard collocation."
+    "category": "grammar",
+    "explanation": "'Remember + infinitive' means do not forget to. 'switching off' refers to recalling a past action."
   },
   {
-    "id": "p5-399",
-    "sentence": "The lease will ___ at the end of December unless it is renewed.",
+    "id": "p5-1002",
+    "sentence": "The firm stopped ___ cheques in 2018 and now only accepts electronic transfers.",
     "choices": [
-      "expel",
-      "expose",
-      "expire",
-      "expand"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Expire' means to come to an end."
-  },
-  {
-    "id": "p5-400",
-    "sentence": "The landlord is ___ for repairs to the building's roof.",
-    "choices": [
-      "responsible",
-      "responsive",
-      "respective",
-      "respectful"
+      "accepting",
+      "accepted",
+      "accept",
+      "to accept"
     ],
     "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Responsible for' means in charge of and accountable."
+    "category": "grammar",
+    "explanation": "'Stopped + gerund' means ceased. 'to accept' means stopped in order to accept."
   },
   {
-    "id": "p5-401",
-    "sentence": "All visitors must ___ with the building's security procedures.",
+    "id": "p5-1003",
+    "sentence": "We tried ___ the supplier several times, but nobody answered the phone.",
     "choices": [
-      "comply",
-      "complain",
-      "compare",
-      "complete"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Comply with' means to follow rules."
-  },
-  {
-    "id": "p5-402",
-    "sentence": "A ___ deposit is required to reserve the apartment.",
-    "choices": [
-      "refunded",
-      "refund",
-      "refundable",
-      "refunding"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Refundable deposit' means a deposit that can be returned."
-  },
-  {
-    "id": "p5-403",
-    "sentence": "The agreement ___ both companies to share the cost of the project.",
-    "choices": [
-      "requires",
-      "requites",
-      "requests",
-      "rescues"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Requires' means obliges."
-  },
-  {
-    "id": "p5-404",
-    "sentence": "The company's new headquarters is a modern ___ in the financial district.",
-    "choices": [
-      "built up",
-      "builder",
-      "building",
-      "build"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'A modern building' is a noun phrase."
-  },
-  {
-    "id": "p5-405",
-    "sentence": "The rent is nine hundred dollars a month, ___ water and electricity.",
-    "choices": [
-      "included",
-      "including",
-      "include",
-      "inclusion"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Including' introduces what is part of the price."
-  },
-  {
-    "id": "p5-406",
-    "sentence": "The new law will ___ stricter rules on waste disposal.",
-    "choices": [
-      "impress",
-      "improve",
-      "impose",
-      "import"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Impose rules' means to introduce them officially."
-  },
-  {
-    "id": "p5-407",
-    "sentence": "A ___ will inspect the property before the sale is completed.",
-    "choices": [
-      "survival",
-      "surveillance",
-      "surveyor",
-      "survey"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "A 'surveyor' is a person who inspects land or buildings."
-  },
-  {
-    "id": "p5-408",
-    "sentence": "The firm's lawyers will ___ the terms of the merger tomorrow.",
-    "choices": [
-      "review",
-      "revive",
-      "revue",
-      "revenge"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Review the terms' means to examine them."
-  },
-  {
-    "id": "p5-409",
-    "sentence": "The warranty is ___ for two years from the date of purchase.",
-    "choices": [
-      "various",
-      "variable",
-      "valid",
-      "valued"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Valid' means legally effective."
-  },
-  {
-    "id": "p5-410",
-    "sentence": "Mr. Peterson was asked to ___ the contract before the deadline.",
-    "choices": [
-      "rename",
-      "remind",
-      "renew",
-      "renounce"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Renew a contract' means to extend it."
-  },
-  {
-    "id": "p5-411",
-    "sentence": "The office space is available for ___ starting next month.",
-    "choices": [
-      "occupation of",
-      "occupied",
-      "occupancy",
-      "occupant of"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Occupancy' is the state of using a space."
-  },
-  {
-    "id": "p5-412",
-    "sentence": "A copy of the signed agreement will be ___ to each party.",
-    "choices": [
-      "proven by",
-      "provided",
-      "proved",
-      "provoked"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Will be provided to' is the passive structure with a recipient."
-  },
-  {
-    "id": "p5-413",
-    "sentence": "Any changes to the contract must be made in ___.",
-    "choices": [
-      "written to",
-      "writing",
-      "writer",
-      "wrote"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'In writing' is a fixed expression meaning in written form."
-  },
-  {
-    "id": "p5-414",
-    "sentence": "The two firms entered into a ___ to develop the software together.",
-    "choices": [
-      "partner",
-      "partition",
-      "partnership",
-      "participation"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Enter into a partnership' is a fixed phrase."
-  },
-  {
-    "id": "p5-415",
-    "sentence": "Property taxes are due ___ the first day of each quarter.",
-    "choices": [
-      "on",
-      "against",
-      "among",
-      "beside"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'On the first day' is the standard preposition with dates and days."
-  },
-  {
-    "id": "p5-416",
-    "sentence": "The city council voted to ___ the old regulations.",
-    "choices": [
-      "repeal",
-      "repair",
-      "replay",
-      "repeat"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Repeal regulations' means to officially cancel them."
-  },
-  {
-    "id": "p5-417",
-    "sentence": "Mr. Dumont acts as a ___ for several international clients.",
-    "choices": [
-      "consulting",
-      "consultant",
-      "consultation",
-      "consultancy of"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A 'consultant' is a person giving expert advice."
-  },
-  {
-    "id": "p5-418",
-    "sentence": "All employees must keep client information ___.",
-    "choices": [
-      "confidentiality",
-      "confidence",
-      "confidential",
-      "confident"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Keep something confidential' means to keep it secret."
-  },
-  {
-    "id": "p5-419",
-    "sentence": "The company has ___ to pay all legal fees related to the case.",
-    "choices": [
-      "agreeable",
-      "agreeing",
-      "agreed",
-      "agreement"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Has agreed to' is the present perfect with an infinitive."
-  },
-  {
-    "id": "p5-420",
-    "sentence": "The building permit was ___ after the inspectors approved the plans.",
-    "choices": [
-      "isolated",
-      "issued",
-      "issuing",
-      "iced"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'A permit is issued' means officially given out."
-  },
-  {
-    "id": "p5-421",
-    "sentence": "The ___ of the contract states that payment is due within thirty days.",
-    "choices": [
-      "clauses",
-      "claw",
-      "clue",
-      "clause"
+      "to calling",
+      "call",
+      "called to",
+      "calling"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "A 'clause' is a section of a contract."
+    "category": "grammar",
+    "explanation": "'Try + gerund' means experiment or attempt by doing; here, the attempt is phoning, so 'calling' is correct. The others are malformed."
   },
   {
-    "id": "p5-422",
-    "sentence": "Employees who ___ the rules may face disciplinary action.",
+    "id": "p5-1004",
+    "sentence": "The firm is in the process of ___ its headquarters to a new location.",
     "choices": [
-      "validate",
-      "volunteer",
-      "violate",
-      "vacate"
+      "moved",
+      "moving",
+      "to move",
+      "move"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'in the process of', a gerund is used. The others are not allowed."
+  },
+  {
+    "id": "p5-1005",
+    "sentence": "Employees are not permitted ___ personal calls during working hours.",
+    "choices": [
+      "make",
+      "making",
+      "to make",
+      "made"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Violate rules' means to break them."
+    "category": "grammar",
+    "explanation": "'Permitted to' is followed by an infinitive. The others are not."
   },
   {
-    "id": "p5-423",
-    "sentence": "The landlord reserves the right to ___ the rent annually.",
+    "id": "p5-1006",
+    "sentence": "The board denied ___ any knowledge of the irregularities.",
     "choices": [
-      "adjust",
-      "adjourn",
-      "admit",
-      "adhere"
+      "having",
+      "has",
+      "to have",
+      "had had to"
     ],
     "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Adjust the rent' means to change it."
+    "category": "grammar",
+    "explanation": "'Deny' is followed by a gerund. The others are not."
   },
   {
-    "id": "p5-424",
-    "sentence": "The team will ___ the proposal to the client on Thursday.",
+    "id": "p5-1007",
+    "sentence": "She was so ___ by the delay that she cancelled the whole trip.",
     "choices": [
-      "subtract",
-      "submit",
-      "subscribe",
-      "submerge"
+      "irritation",
+      "irritated",
+      "irritating",
+      "irritate"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Submit a proposal' means to formally present it."
+    "category": "grammar",
+    "explanation": "A participial adjective describes her feeling. 'irritating' describes the cause."
   },
   {
-    "id": "p5-425",
-    "sentence": "The ___ of the lease are explained in section four of the document.",
+    "id": "p5-1008",
+    "sentence": "The firm's sales rose by ten percent, ___ is remarkable given the recession.",
     "choices": [
-      "terrors",
-      "terms",
-      "terminals",
-      "terrains"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Terms of the lease' means its conditions."
-  },
-  {
-    "id": "p5-426",
-    "sentence": "An ___ copy of the document must be kept in the company's files.",
-    "choices": [
-      "origin",
-      "originate",
-      "originally",
-      "original"
+      "it",
+      "that",
+      "what",
+      "which"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "An adjective is needed before 'copy'; 'original copy' means the first version."
+    "category": "grammar",
+    "explanation": "A non-restrictive 'which' refers to the whole previous clause. 'what' and 'it' do not link clauses after a comma, and 'that' cannot follow a comma."
   },
   {
-    "id": "p5-427",
-    "sentence": "The two partners have decided to ___ their business and retire.",
+    "id": "p5-1009",
+    "sentence": "The lecture was ___ interesting that nobody left before it ended.",
     "choices": [
-      "selling of",
-      "sell",
-      "sold",
-      "sale"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Decided to' needs a base verb: 'sell'."
-  },
-  {
-    "id": "p5-428",
-    "sentence": "The warehouse has ___ space for over ten thousand boxes.",
-    "choices": [
-      "many",
+      "such",
       "too",
-      "enough",
-      "enough of"
+      "so",
+      "very"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Enough space for' is the correct phrase."
+    "category": "grammar",
+    "explanation": "'So + adjective + that' expresses result. 'such' needs a noun, 'too' implies excess, and 'very' does not take 'that'."
   },
   {
-    "id": "p5-429",
-    "sentence": "A ___ is required for any construction work in the historic district.",
+    "id": "p5-1010",
+    "sentence": "She is the manager ___ team won the national prize.",
     "choices": [
-      "permitting",
-      "permits are",
-      "permit",
-      "permitted"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "A 'permit' is an official authorization."
-  },
-  {
-    "id": "p5-430",
-    "sentence": "We cannot process your application until we receive all the ___ documents.",
-    "choices": [
-      "requiring",
-      "requirement",
-      "required",
-      "require"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Required documents' means necessary documents."
-  },
-  {
-    "id": "p5-431",
-    "sentence": "The two companies have signed a ___ agreement on technology sharing.",
-    "choices": [
-      "binding",
-      "bound",
-      "bind",
-      "binder"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Binding agreement' means legally enforceable."
-  },
-  {
-    "id": "p5-432",
-    "sentence": "Failure to ___ rent on time may result in a late fee.",
-    "choices": [
-      "pay",
-      "paid",
-      "payer",
-      "payment"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "After 'failure to', the base form is needed."
-  },
-  {
-    "id": "p5-433",
-    "sentence": "The apartment is ___ to public transportation and shopping.",
-    "choices": [
-      "close",
-      "closing",
-      "closely",
-      "closure"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Close to' is the adjective + preposition expression."
-  },
-  {
-    "id": "p5-434",
-    "sentence": "The lawyer advised the company to ___ a formal complaint.",
-    "choices": [
-      "fell",
-      "file",
-      "fill",
-      "feel"
+      "which",
+      "whose",
+      "who",
+      "whom"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'File a complaint' is the standard collocation."
+    "category": "grammar",
+    "explanation": "'Whose' expresses possession. The others cannot precede 'team' this way."
+  },
+  {
+    "id": "p5-1011",
+    "sentence": "It was ___ the new plant opened that employment in the town began to recover.",
+    "choices": [
+      "only after",
+      "even though",
+      "not until to",
+      "as soon"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'It was only after... that' is a cleft sentence. The others do not fit the cleft pattern."
+  },
+  {
+    "id": "p5-1012",
+    "sentence": "The sooner the repairs are finished, ___ it will be for everyone.",
+    "choices": [
+      "the best",
+      "best",
+      "the better",
+      "better"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "Double comparative: 'the sooner..., the better'. The others do not."
+  },
+  {
+    "id": "p5-1013",
+    "sentence": "Neither the CEO nor the shareholders ___ pleased with the quarterly results.",
+    "choices": [
+      "were",
+      "was",
+      "is",
+      "has been"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "With 'neither... nor', the verb agrees with the nearer subject 'shareholders' (plural). The others are singular."
+  },
+  {
+    "id": "p5-1014",
+    "sentence": "Either the customers or the manager ___ responsible for the error.",
+    "choices": [
+      "are",
+      "is",
+      "have been",
+      "were"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The verb agrees with the nearer subject 'manager' (singular). The others are plural."
+  },
+  {
+    "id": "p5-1015",
+    "sentence": "The proceeds of the sale ___ to be donated to a local charity.",
+    "choices": [
+      "has",
+      "is",
+      "are",
+      "was being"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Proceeds' is plural here. 'is' and 'has' are singular, and 'was being' does not fit with 'to be donated'."
+  },
+  {
+    "id": "p5-1016",
+    "sentence": "The news about the merger ___ received with surprise by most analysts.",
+    "choices": [
+      "were",
+      "are being",
+      "was",
+      "have been"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'News' is uncountable and takes a singular verb. 'were' and 'have been' are plural."
+  },
+  {
+    "id": "p5-1017",
+    "sentence": "Economics ___ one of the most popular subjects among business students.",
+    "choices": [
+      "are",
+      "is",
+      "have been",
+      "were"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Economics' as a field of study is singular. The others are plural."
+  },
+  {
+    "id": "p5-1018",
+    "sentence": "A series of meetings ___ scheduled for next week to discuss the budget.",
+    "choices": [
+      "were being",
+      "are been",
+      "has been",
+      "have been"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'A series' is singular. 'have been' is plural, 'were being' is past, and 'are been' is ungrammatical."
+  },
+  {
+    "id": "p5-1019",
+    "sentence": "The committee ___ unable to agree, so the vote was postponed.",
+    "choices": [
+      "was",
+      "were not being",
+      "are",
+      "have been"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "As a single unit the committee takes a singular past verb. The others are plural or the wrong tense."
+  },
+  {
+    "id": "p5-1020",
+    "sentence": "The number of staff working remotely ___ doubled since last year.",
+    "choices": [
+      "are",
+      "has",
+      "have",
+      "were"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'The number of' is singular. The others are plural or the wrong tense."
+  },
+  {
+    "id": "p5-1021",
+    "sentence": "The manager ___ always arrives early, so his absence today is unusual.",
+    "choices": [
+      "usualised",
+      "usually",
+      "usual",
+      "usualness"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adverb is needed before 'arrives'. The others are not adverbs."
+  },
+  {
+    "id": "p5-1022",
+    "sentence": "The sales director asked that the report ___ distributed before the meeting.",
+    "choices": [
+      "be",
+      "being",
+      "was",
+      "is"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'asked that', the subjunctive 'be' is used. The others are indicative or non-finite."
+  },
+  {
+    "id": "p5-1023",
+    "sentence": "The consultant proposed that the pilot scheme ___ extended to all branches.",
+    "choices": [
+      "be",
+      "were being",
+      "was to",
+      "is"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Proposed that' takes the subjunctive. The others are not subjunctive."
+  },
+  {
+    "id": "p5-1024",
+    "sentence": "The union demanded that the factory ___ closed until the safety fault was repaired.",
+    "choices": [
+      "remains",
+      "remaining",
+      "remain",
+      "remained"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Demanded that' triggers the subjunctive base form. The others are indicative or non-finite."
+  },
+  {
+    "id": "p5-1025",
+    "sentence": "It is vital that each applicant ___ a valid work permit.",
+    "choices": [
+      "held",
+      "holding",
+      "hold",
+      "holds"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'It is vital that' takes the subjunctive: the base form. The others are indicative or non-finite."
+  },
+  {
+    "id": "p5-1026",
+    "sentence": "The terms require that payment ___ made within seven days.",
+    "choices": [
+      "was",
+      "be",
+      "are",
+      "is"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'require that', the subjunctive 'be' is used. The others are indicative."
+  },
+  {
+    "id": "p5-1027",
+    "sentence": "The firm's lawyers insisted that Mr. Yildiz ___ present at the signing.",
+    "choices": [
+      "were",
+      "be",
+      "was",
+      "is"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Insisted that' takes the subjunctive 'be'. The others are indicative or past."
+  },
+  {
+    "id": "p5-1028",
+    "sentence": "The firm would be better off if it ___ its overseas branches.",
+    "choices": [
+      "closes",
+      "will close",
+      "would close",
+      "closed"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A second conditional needs 'if + past simple'. The others do not follow 'if'."
+  },
+  {
+    "id": "p5-1029",
+    "sentence": "I would be grateful if you ___ confirm the booking by return of email.",
+    "choices": [
+      "did",
+      "are",
+      "would",
+      "will"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'If you would' is a polite request. 'will' and 'are' do not follow 'if' this way, and 'did' needs another structure."
+  },
+  {
+    "id": "p5-1030",
+    "sentence": "The factory, ___ was built in 1960, is now a protected industrial monument.",
+    "choices": [
+      "what",
+      "whom",
+      "who",
+      "which"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Which' refers to a thing in a non-restrictive clause. The others do not."
+  },
+  {
+    "id": "p5-1031",
+    "sentence": "Anyone who ___ to attend must inform the secretary by Monday.",
+    "choices": [
+      "wishes",
+      "wish",
+      "is wished",
+      "wishing"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Anyone' is singular, so 'wishes'. The others do not agree or do not fit."
+  },
+  {
+    "id": "p5-1032",
+    "sentence": "Scarcely ___ the new policy been announced when employees began to complain.",
+    "choices": [
+      "had",
+      "was",
+      "has",
+      "did"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Scarcely had... when' requires inversion in the past perfect. The others do not."
+  },
+  {
+    "id": "p5-1033",
+    "sentence": "Little ___ they know that the competitor had already bought the patent.",
+    "choices": [
+      "had",
+      "do",
+      "were",
+      "did"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Little did they know' is a fixed inverted pattern. The others do not fit."
+  },
+  {
+    "id": "p5-1034",
+    "sentence": "Only by cutting costs ___ the firm survive the downturn.",
+    "choices": [
+      "could",
+      "did",
+      "can to",
+      "had"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'Only by...' at the start, subject-auxiliary inversion applies; 'could' is a modal. The others are not valid."
+  },
+  {
+    "id": "p5-1035",
+    "sentence": "In no way ___ the firm be held responsible for losses resulting from misuse of the product.",
+    "choices": [
+      "can",
+      "does",
+      "is",
+      "will to"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'In no way', inversion with the modal 'can' is required. The others do not fit the passive 'be held'."
+  },
+  {
+    "id": "p5-1036",
+    "sentence": "On no account ___ the doors be left unlocked after six o'clock.",
+    "choices": [
+      "must",
+      "do",
+      "have",
+      "are to"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'On no account', inversion with a modal is required. The others do not form this structure."
+  },
+  {
+    "id": "p5-1037",
+    "sentence": "Such ___ the demand for the product that the factory had to run three shifts.",
+    "choices": [
+      "had",
+      "were",
+      "was",
+      "is to"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Such was the demand that' is the inverted result structure. The others do not fit."
+  },
+  {
+    "id": "p5-1038",
+    "sentence": "So rapidly ___ the company grow that it needed new premises within a year.",
+    "choices": [
+      "does",
+      "has",
+      "did",
+      "was"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'So + adverb' at the start requires inversion with 'did' in the past. The others do not fit."
+  },
+  {
+    "id": "p5-1039",
+    "sentence": "Not only ___ the firm lose the contract, but it also faced a lawsuit.",
+    "choices": [
+      "did",
+      "has",
+      "had to",
+      "was"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'Not only' at the start, 'did' is used for inversion in the past simple. The others do not form it."
+  },
+  {
+    "id": "p5-1040",
+    "sentence": "At no time ___ the staff informed of the change in the schedule.",
+    "choices": [
+      "were",
+      "was",
+      "had",
+      "did"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'At no time' triggers inversion, and 'staff' takes a plural verb. The others do not fit."
   }
 ]

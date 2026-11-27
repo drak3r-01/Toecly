@@ -1,509 +1,522 @@
 [
   {
-    "id": "p5-280",
-    "sentence": "Ms. Lin finished the report by ___ before the deadline.",
+    "id": "p5-881",
+    "sentence": "The construction project is ___ budget and ahead of schedule.",
     "choices": [
-      "herself",
-      "she",
-      "hers",
-      "her"
+      "under",
+      "beneath",
+      "less",
+      "below"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "A reflexive pronoun is needed after 'by' when the subject did the action alone."
+    "explanation": "'Under budget' is the fixed phrase. 'below' and 'beneath' do not collocate, and 'less' is not a preposition here."
   },
   {
-    "id": "p5-281",
-    "sentence": "The manager asked the staff to complete the forms ___.",
+    "id": "p5-882",
+    "sentence": "The firm's profits have increased ___ since the new CEO took office.",
     "choices": [
-      "themselves",
-      "their",
-      "them",
-      "theirs"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "A reflexive pronoun emphasizes that the staff did it on their own."
-  },
-  {
-    "id": "p5-282",
-    "sentence": "All employees must bring ___ identification badges to the meeting.",
-    "choices": [
-      "theirs",
-      "them",
-      "they",
-      "their"
+      "dramatic",
+      "dramatise",
+      "drama",
+      "dramatically"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "A possessive adjective is needed before the noun 'badges'."
+    "explanation": "An adverb modifies 'increased'. The others are an adjective, a noun and a verb."
   },
   {
-    "id": "p5-283",
-    "sentence": "Mr. Cole forgot his umbrella, so I lent him ___.",
+    "id": "p5-883",
+    "sentence": "Delegates will be ___ to submit questions in advance of the panel discussion.",
     "choices": [
-      "me",
-      "my",
-      "mine",
-      "myself"
+      "encourage",
+      "encouraging",
+      "encouraged",
+      "encouragement"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "A possessive pronoun replaces 'my umbrella'."
+    "explanation": "A passive with 'be encouraged to' is needed. The others are active, base or noun forms."
   },
   {
-    "id": "p5-284",
-    "sentence": "The two offices share ___ printer.",
+    "id": "p5-884",
+    "sentence": "The contract was signed in the ___ of two witnesses.",
     "choices": [
-      "a",
-      "any",
-      "an",
-      "many"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Printer' is a singular countable noun beginning with a consonant sound, so 'a' is correct."
-  },
-  {
-    "id": "p5-285",
-    "sentence": "We received ___ applications for the receptionist position than we expected.",
-    "choices": [
-      "much",
-      "many",
-      "most",
-      "more"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'More ... than' is the comparative structure for countable plurals."
-  },
-  {
-    "id": "p5-286",
-    "sentence": "There is ___ information available on the company's Web site.",
-    "choices": [
-      "several",
-      "few",
-      "many",
-      "little"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Information' is uncountable, so 'little' is correct."
-  },
-  {
-    "id": "p5-287",
-    "sentence": "___ of the employees were present at the training session.",
-    "choices": [
-      "Mostly",
-      "Almost",
-      "Most",
-      "Much"
+      "present",
+      "presenting",
+      "presence",
+      "presently"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Most of the' + plural noun is correct."
+    "explanation": "A noun is required after 'the' and before 'of'. The others are an adjective/verb, an adverb and a gerund."
   },
   {
-    "id": "p5-288",
-    "sentence": "___ the two proposals is acceptable to the committee.",
+    "id": "p5-885",
+    "sentence": "The firm's profits were ___ affected by the sudden drop in exports.",
     "choices": [
-      "None",
-      "Either",
-      "Both of",
-      "Neither of"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Neither of' + plural noun takes a singular verb here and shows both are rejected."
-  },
-  {
-    "id": "p5-289",
-    "sentence": "Every department has ___ own budget.",
-    "choices": [
-      "itself",
-      "its",
-      "it",
-      "it's"
+      "adversary",
+      "adversely",
+      "adversity",
+      "adverse"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Every department' is singular, so the possessive adjective 'its' is needed."
+    "explanation": "An adverb modifies the participle 'affected'. The others are an adjective and nouns."
   },
   {
-    "id": "p5-290",
-    "sentence": "Please let us know if you have ___ questions about the schedule.",
+    "id": "p5-886",
+    "sentence": "An ___ number of applications were received for the single vacancy.",
     "choices": [
-      "a few of",
-      "much",
-      "some of",
-      "any"
+      "unexpect",
+      "unexpectedly",
+      "unexpected",
+      "unexpectedness"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'number'. The others are an adverb, a noun and a non-word."
+  },
+  {
+    "id": "p5-887",
+    "sentence": "The supplier's ___ with the delivery dates caused serious disruption.",
+    "choices": [
+      "non-compliance",
+      "non-compliant to",
+      "non-comply",
+      "non-complying"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A noun is needed after the possessive and before 'with'. The others are not nouns."
+  },
+  {
+    "id": "p5-888",
+    "sentence": "Most of the clients are ___ with the quality of the service provided.",
+    "choices": [
+      "satisfying",
+      "satisfaction",
+      "satisfy",
+      "satisfied"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Any' is used in conditional clauses with plural nouns."
+    "explanation": "'Satisfied with' is the participial adjective. 'satisfying' describes the thing, 'satisfy' is a verb, and 'satisfaction' is a noun."
   },
   {
-    "id": "p5-291",
-    "sentence": "The shop sells ___ coffee and tea.",
+    "id": "p5-889",
+    "sentence": "It would be ___ to ignore the recommendations of the safety inspector.",
     "choices": [
-      "each",
-      "neither",
-      "every",
-      "both"
+      "unwiser",
+      "unwise",
+      "unwisely",
+      "unwisdom"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective follows 'be' in this construction. The others are an adverb, a non-word and a comparative."
+  },
+  {
+    "id": "p5-890",
+    "sentence": "The restaurant's ___ is its extensive selection of regional wines.",
+    "choices": [
+      "speciality",
+      "specially",
+      "special to",
+      "specialise"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A noun is the subject complement. 'specially' is an adverb, 'special to' is malformed, and 'specialise' is a verb."
+  },
+  {
+    "id": "p5-891",
+    "sentence": "The office will be closed ___ for renovation from the fifth to the ninth of June.",
+    "choices": [
+      "temporariness",
+      "tempo",
+      "temporary",
+      "temporarily"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Both ... and' links the two items."
+    "explanation": "An adverb modifies 'closed'. The others are an adjective and nouns."
   },
   {
-    "id": "p5-292",
-    "sentence": "___ employee must wear a badge while in the building.",
+    "id": "p5-892",
+    "sentence": "The sales team's ___ approach to customer service has won several awards.",
     "choices": [
-      "Most of",
-      "Every",
-      "Several",
-      "All"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Every' is followed by a singular noun."
-  },
-  {
-    "id": "p5-293",
-    "sentence": "We have ___ time left before the presentation starts.",
-    "choices": [
-      "few",
-      "little",
-      "many",
-      "several"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Time' is uncountable, so 'little' is correct."
-  },
-  {
-    "id": "p5-294",
-    "sentence": "Only a ___ seats remain for tonight's concert.",
-    "choices": [
-      "any",
-      "much",
-      "few",
-      "little"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Few' is used with plural countable nouns like 'seats'."
-  },
-  {
-    "id": "p5-295",
-    "sentence": "___ of the three candidates has the necessary experience.",
-    "choices": [
-      "Neither",
-      "None",
-      "Nobody",
-      "Nothing"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'None of' is used for three or more people; 'neither' is only for two."
-  },
-  {
-    "id": "p5-296",
-    "sentence": "The conference has attracted ___ people from over thirty countries.",
-    "choices": [
-      "a great deal",
-      "much",
-      "most of",
-      "many"
+      "innovator",
+      "innovatively",
+      "innovate",
+      "innovative"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Many' is used with plural countable nouns."
+    "explanation": "An adjective is needed before 'approach'. The others are an adverb, a verb and a noun."
   },
   {
-    "id": "p5-297",
-    "sentence": "Ms. Park invited ___ to her retirement party.",
+    "id": "p5-893",
+    "sentence": "The company has a ___ to protect personal data under the new regulation.",
     "choices": [
-      "ourselves",
-      "we",
-      "us",
-      "our"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "An object pronoun is needed after the verb 'invited'."
-  },
-  {
-    "id": "p5-298",
-    "sentence": "Mr. Gomez asked ___ to take over the project.",
-    "choices": [
-      "me",
-      "I",
-      "mine",
-      "my"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "An object pronoun is needed after 'asked'."
-  },
-  {
-    "id": "p5-299",
-    "sentence": "___ is responsible for the new filing system?",
-    "choices": [
-      "Who",
-      "Whose",
-      "Which of",
-      "Whom"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Who' asks about the subject, a person."
-  },
-  {
-    "id": "p5-300",
-    "sentence": "The package was addressed to ___ and not to the department.",
-    "choices": [
-      "his",
-      "he",
-      "him",
-      "himself"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "An object pronoun is needed after the preposition 'to'."
-  },
-  {
-    "id": "p5-301",
-    "sentence": "The new employees introduced ___ to the team.",
-    "choices": [
-      "theirs",
-      "their",
-      "themselves",
-      "them"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "A reflexive pronoun is needed when subject and object are the same people."
-  },
-  {
-    "id": "p5-302",
-    "sentence": "Mr. Brown has two sisters, and ___ of them works at the bank.",
-    "choices": [
-      "few",
-      "any",
-      "one",
-      "many"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'One of them' is singular and agrees with 'works'."
-  },
-  {
-    "id": "p5-303",
-    "sentence": "The sales figures for April were higher than ___ for March.",
-    "choices": [
-      "that",
-      "these",
-      "those",
-      "them"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Those' replaces the plural 'sales figures'."
-  },
-  {
-    "id": "p5-304",
-    "sentence": "The price of this model is lower than ___ of the previous one.",
-    "choices": [
-      "those",
-      "it",
-      "that",
-      "what"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'That' replaces the singular noun 'the price'."
-  },
-  {
-    "id": "p5-305",
-    "sentence": "___ who wish to register should arrive before 9 A.M.",
-    "choices": [
-      "Them",
-      "Whose",
-      "Those",
-      "These of"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Those who' means people who."
-  },
-  {
-    "id": "p5-306",
-    "sentence": "Ms. Sato has two assistants, and ___ of them speaks Spanish.",
-    "choices": [
-      "all",
-      "every",
-      "both",
-      "each"
+      "duties of",
+      "dutiful",
+      "duly",
+      "duty"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Each of them' takes a singular verb ('speaks')."
+    "explanation": "A noun is needed after 'a'. 'dutiful' is an adjective, 'duly' is an adverb, and 'duties of' is malformed."
   },
   {
-    "id": "p5-307",
-    "sentence": "We have two candidates; ___ is from London, and the other is from Paris.",
+    "id": "p5-894",
+    "sentence": "Employees must report any ___ activity to the security office.",
     "choices": [
-      "some",
-      "another",
-      "each other",
-      "one"
+      "suspect to",
+      "suspicious",
+      "suspicion",
+      "suspiciously"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'activity'. The others are an adverb, a noun and a malformed form."
+  },
+  {
+    "id": "p5-895",
+    "sentence": "The agreement was ___ in the presence of two independent witnesses.",
+    "choices": [
+      "executing",
+      "executive",
+      "execution",
+      "executed"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'One ... the other' contrasts two items."
+    "explanation": "A passive past participle is needed. The others are a noun, an adjective/noun and a gerund."
   },
   {
-    "id": "p5-308",
-    "sentence": "Some employees prefer to work at home; ___ prefer the office.",
+    "id": "p5-896",
+    "sentence": "The firm announced the ___ of its operations in Poland to cut costs.",
     "choices": [
-      "other",
-      "the others of",
-      "others",
-      "another"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Others' is a pronoun for the rest of an indefinite group."
-  },
-  {
-    "id": "p5-309",
-    "sentence": "Mr. Wang has been with the firm longer than ___ else.",
-    "choices": [
-      "anyone",
-      "someone",
-      "every one",
-      "no one"
+      "consolidation",
+      "consolidating",
+      "consolidate",
+      "consolidated"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Anyone else' is used in a comparison after 'than'."
+    "explanation": "A noun is needed after 'the' and before 'of'. The others are a verb, a participle and a gerund."
   },
   {
-    "id": "p5-310",
-    "sentence": "The tickets are ___ available online or at the door.",
+    "id": "p5-897",
+    "sentence": "The inspector's ___ report listed several violations of hygiene standards.",
     "choices": [
-      "both",
-      "each",
-      "either",
-      "neither"
+      "detailing",
+      "detailer",
+      "detail to",
+      "detailed"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Either ... or' presents two alternatives; 'either' is needed here."
+    "explanation": "A participial adjective is needed before 'report'. The others are a gerund, a noun and a malformed phrase."
   },
   {
-    "id": "p5-311",
-    "sentence": "The company offers ___ health insurance and paid vacation.",
+    "id": "p5-898",
+    "sentence": "The tourism sector has proved remarkably ___ in the face of the economic downturn.",
     "choices": [
-      "either",
-      "both",
-      "neither of",
-      "each"
+      "resiliently",
+      "resile",
+      "resilience",
+      "resilient"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adjective follows 'proved remarkably'. The others are a noun, an adverb and a verb."
+  },
+  {
+    "id": "p5-899",
+    "sentence": "The warranty will not ___ if the product is used for commercial purposes.",
+    "choices": [
+      "apply",
+      "applies",
+      "application",
+      "applicable"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'will not', the base verb is needed. The others are third-person, adjective and noun forms."
+  },
+  {
+    "id": "p5-900",
+    "sentence": "The company is ___ about its plans to launch a new product line.",
+    "choices": [
+      "secrecy",
+      "secretive",
+      "secret to",
+      "secretly"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Both ... and' joins two benefits offered together."
+    "explanation": "'Secretive about' is an adjective meaning reluctant to share. The others are an adverb, a noun and a malformed phrase."
   },
   {
-    "id": "p5-312",
-    "sentence": "Please return the form to ___ is in charge of your department.",
+    "id": "p5-901",
+    "sentence": "The company launched an ___ campaign to attract younger customers.",
     "choices": [
-      "whenever",
-      "whoever",
-      "whomever",
-      "whichever"
+      "aggressively",
+      "aggressive",
+      "aggressor",
+      "aggression"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Whoever' is the subject of 'is in charge'."
+    "explanation": "An adjective is needed before 'campaign'. The others are nouns and an adverb."
   },
   {
-    "id": "p5-313",
-    "sentence": "The manager gave ___ employee a certificate of appreciation.",
+    "id": "p5-902",
+    "sentence": "The hotel's guests praised the ___ of the reception staff.",
     "choices": [
-      "each",
-      "each of",
-      "every of",
-      "all"
+      "court",
+      "courteous",
+      "courteously",
+      "courtesy"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Each' + singular noun is correct."
+    "explanation": "A noun is needed after 'the' and before 'of'. 'courteous' is an adjective, and 'courteously' is an adverb."
   },
   {
-    "id": "p5-314",
-    "sentence": "___ the supervisors attended the safety workshop.",
+    "id": "p5-903",
+    "sentence": "The plan is ___ feasible only if the board secures additional funding.",
     "choices": [
-      "Much",
-      "Every",
-      "All",
-      "Each"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'All' is followed directly by the plural noun phrase 'the supervisors'."
-  },
-  {
-    "id": "p5-315",
-    "sentence": "Employees can choose ___ of the three health plans.",
-    "choices": [
-      "much",
-      "most",
-      "any",
-      "every"
+      "financier",
+      "financial",
+      "financially",
+      "finance"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Any of the three' means whichever one they like."
+    "explanation": "An adverb modifies 'feasible'. The others are a noun/verb, an adjective and a noun."
   },
   {
-    "id": "p5-316",
-    "sentence": "The customer was unhappy because ___ of the items matched her order.",
+    "id": "p5-904",
+    "sentence": "Staff are expected to maintain the ___ of all customer records.",
     "choices": [
-      "none",
-      "no",
-      "nothing",
-      "not"
+      "confident",
+      "confidently",
+      "confide",
+      "confidentiality"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A noun is needed after 'the' and before 'of'. The others are an adjective, an adverb and a verb."
+  },
+  {
+    "id": "p5-905",
+    "sentence": "The results of the survey were ___ with the company's expectations.",
+    "choices": [
+      "consistently",
+      "consistent",
+      "consisted",
+      "consistency"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Consistent with' is the adjective + preposition. The others are a verb form, a noun and an adverb."
+  },
+  {
+    "id": "p5-906",
+    "sentence": "The firm's ___ loss of three million dollars shocked the investors.",
+    "choices": [
+      "unforeseen",
+      "unforeseeing",
+      "unforeseer",
+      "unforeseeably"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'None of the items' is correct before 'of the'."
+    "explanation": "An adjective is needed before 'loss'. The others are an adverb and non-words."
   },
   {
-    "id": "p5-317",
-    "sentence": "It was ___ who found the error in the contract.",
+    "id": "p5-907",
+    "sentence": "The ___ of the legal team was praised by the client.",
     "choices": [
-      "she",
-      "herself",
-      "her",
-      "hers"
+      "diligences",
+      "diligence",
+      "diligently",
+      "diligent"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "category": "grammar",
-    "explanation": "After the cleft 'It was', the subject pronoun 'she' is used in formal English."
+    "explanation": "A noun is needed after 'the' and before 'of'. The others are an adjective, an adverb and an incorrect plural."
   },
   {
-    "id": "p5-318",
-    "sentence": "The directors ___ approved the plan made no changes to it.",
+    "id": "p5-908",
+    "sentence": "Please read the instructions ___ before attempting to assemble the equipment.",
     "choices": [
-      "what",
-      "whose",
-      "who",
-      "whom"
+      "caring",
+      "carefulness",
+      "careful",
+      "carefully"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adverb modifies 'read'. The others are an adjective, a noun and a participle."
+  },
+  {
+    "id": "p5-909",
+    "sentence": "The directors were ___ to approve the budget without further discussion.",
+    "choices": [
+      "unwilled",
+      "unwilling",
+      "unwillingly",
+      "unwillingness"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Unwilling to' is an adjective. The others are an adverb, a non-word and a noun."
+  },
+  {
+    "id": "p5-910",
+    "sentence": "The firm needs a more ___ approach to managing its supply chain.",
+    "choices": [
+      "strategy",
+      "strategic",
+      "strategise",
+      "strategically"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'approach'. The others are a noun, an adverb and a verb."
+  },
+  {
+    "id": "p5-911",
+    "sentence": "The company reported a ___ improvement in its customer retention rate.",
+    "choices": [
+      "marginally",
+      "margin",
+      "marginalise",
+      "marginal"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'improvement'. The others are a noun, an adverb and a verb."
+  },
+  {
+    "id": "p5-912",
+    "sentence": "The contractor is ___ for all damage caused during the renovation work.",
+    "choices": [
+      "liably",
+      "liaise",
+      "liable",
+      "liability"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Who' is the subject of 'approved' and refers to people."
+    "explanation": "'Liable for' is the adjective + preposition. The others are a noun, an adverb and a verb."
+  },
+  {
+    "id": "p5-913",
+    "sentence": "Her ___ in negotiation earned her the respect of the entire board.",
+    "choices": [
+      "expertise",
+      "expert",
+      "experts",
+      "expertly"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A noun is needed after the possessive. 'expert' is a person or adjective, 'expertly' is an adverb, and 'experts' is plural."
+  },
+  {
+    "id": "p5-914",
+    "sentence": "The accountant checked the figures ___ before sending the report to the director.",
+    "choices": [
+      "meticulously",
+      "meticulousness",
+      "meticulous",
+      "meticulosity"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies 'checked'. The others are an adjective and nouns."
+  },
+  {
+    "id": "p5-915",
+    "sentence": "Staff morale has improved ___ since the new manager arrived.",
+    "choices": [
+      "noticeable",
+      "noticing",
+      "noticeably",
+      "notice"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adverb modifies 'improved'. The others are a noun/verb, an adjective and a gerund."
+  },
+  {
+    "id": "p5-916",
+    "sentence": "The firm's expansion plans depend on the ___ of additional capital.",
+    "choices": [
+      "available",
+      "availing",
+      "availability",
+      "avail"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A noun is needed after 'the' and before 'of'. The others are an adjective, a verb and a gerund."
+  },
+  {
+    "id": "p5-917",
+    "sentence": "The chairperson was ___ by the board's unanimous support for her proposals.",
+    "choices": [
+      "encouraging",
+      "encouragement",
+      "encouraged",
+      "encourage"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A passive past participle is needed ('was encouraged by'). 'encouraging' is active, and the others are a base verb and a noun."
+  },
+  {
+    "id": "p5-918",
+    "sentence": "Customers are ___ advised to retain their receipts as proof of purchase.",
+    "choices": [
+      "strength",
+      "strengthen",
+      "strongly",
+      "strong"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adverb modifies the participle 'advised'. The others are an adjective, a noun and a verb."
+  },
+  {
+    "id": "p5-919",
+    "sentence": "The regulator imposed a ___ penalty on firms that failed to file their returns on time.",
+    "choices": [
+      "punitive",
+      "puny",
+      "punctual",
+      "pungent"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "A 'punitive' penalty is intended as punishment. 'Punctual' means on time, 'pungent' means sharp-smelling, and 'puny' means weak."
+  },
+  {
+    "id": "p5-920",
+    "sentence": "The two firms agreed to ___ a joint venture to develop renewable energy projects in Africa.",
+    "choices": [
+      "go for to",
+      "step to",
+      "enter into",
+      "come at"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Enter into a joint venture' is the fixed collocation. The other phrases are malformed or do not collocate."
   }
 ]
