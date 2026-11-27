@@ -13,7 +13,16 @@ class SessionHistoryRepository {
   List<SessionRecord> loadAll() {
     final data = _store.readJson(_key);
     if (data is! List) return const [];
-    return [for (final item in data) SessionRecord.fromJson(item as Map<String, dynamic>)];
+    // One malformed entry must not hide the whole history.
+    final records = <SessionRecord>[];
+    for (final item in data) {
+      try {
+        records.add(SessionRecord.fromJson(item as Map<String, dynamic>));
+      } on Object {
+        continue;
+      }
+    }
+    return records;
   }
 
   Future<void> add(SessionRecord record) {

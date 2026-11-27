@@ -59,11 +59,21 @@ final answerRecorderProvider = Provider(
   ),
 );
 
+/// Missed question ids that still exist in the question bank. Ids of questions removed
+/// or renamed since (the bank gets regenerated) are dropped from storage here.
+final missedIdsProvider = FutureProvider.autoDispose<List<String>>((ref) async {
+  ref.watch(dataRevisionProvider);
+  final existing = await ref.watch(exerciseRepositoryProvider).questionIds();
+  final missed = ref.read(missedQuestionsProvider);
+  // An empty bank means the load went wrong, not that every question vanished.
+  return existing.isEmpty ? missed.loadIds() : missed.retainOnly(existing);
+});
+
 /// Exercises to review: those holding missed questions, up to the given number of questions.
 final reviewDrawProvider = FutureProvider.autoDispose.family<List<Exercise>, int>(
-  (ref, questionCount) => ref
+  (ref, questionCount) async => ref
       .watch(exerciseRepositoryProvider)
-      .drawForReview(ref.read(missedQuestionsProvider).loadIds(), questionCount),
+      .drawForReview(await ref.read(missedIdsProvider.future), questionCount),
 );
 
 /// Questions available per Reading part, counted once when the app starts

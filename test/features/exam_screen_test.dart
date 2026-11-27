@@ -1,3 +1,4 @@
+import 'package:clock/clock.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
@@ -70,6 +71,46 @@ void main() {
     await _settle(tester);
     expect(find.text('Explanation'), findsNothing);
     expect(find.text('Incorrect'), findsNothing);
+  });
+
+  testWidgets('the system back button asks before leaving the exam', (tester) async {
+    var left = false;
+    _phone(tester);
+    await tester.pumpWidget(MaterialApp(
+      localizationsDelegates: AppLocalizations.localizationsDelegates,
+      supportedLocales: AppLocalizations.supportedLocales,
+      locale: const Locale('en'),
+      home: ExamView(exercises: _stock, onLeave: () => left = true),
+    ));
+    await tester.pump(const Duration(milliseconds: 400));
+
+    await tester.binding.handlePopRoute();
+    await _settle(tester);
+    expect(find.text('Quit the exam?'), findsOneWidget);
+    expect(left, isFalse);
+
+    await tester.tap(find.text('Keep working'));
+    await _settle(tester);
+    expect(find.text('Quit the exam?'), findsNothing);
+    expect(left, isFalse);
+
+    await tester.binding.handlePopRoute();
+    await _settle(tester);
+    await tester.tap(find.widgetWithText(FilledButton, 'Quit'));
+    await _settle(tester);
+    expect(left, isTrue);
+  });
+
+  testWidgets('the countdown follows the wall clock, not the tick count', (tester) async {
+    var now = DateTime(2026, 11, 27, 10);
+    await withClock(Clock(() => now), () async {
+      await _pumpExam(tester, duration: const Duration(minutes: 30));
+    });
+    expect(find.text('30:00'), findsOneWidget);
+    // The app slept for 10 minutes: only one tick fires, yet 10 minutes are gone.
+    now = now.add(const Duration(minutes: 10));
+    await tester.pump(const Duration(seconds: 1));
+    expect(find.text('20:00'), findsOneWidget);
   });
 
   testWidgets('navigation is free: previous, next and the question grid', (tester) async {

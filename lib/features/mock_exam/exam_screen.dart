@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:clock/clock.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:material_ui/material_ui.dart';
@@ -9,7 +10,6 @@ import '../../app/providers.dart';
 import '../../data/exercises/mock_exam_blueprint.dart';
 import '../../data/exercises/models.dart';
 import '../../data/quiz/exam_session.dart';
-import '../../data/storage/session_record.dart';
 import '../../core/widgets/animated_progress_bar.dart';
 import '../../l10n/app_localizations.dart';
 import '../quiz/exercise_page.dart';
@@ -63,23 +63,12 @@ class _ExamScreenState extends ConsumerState<ExamScreen> {
 
   /// Saves the whole exam at once: nothing is revealed before, so nothing is lost by waiting.
   Future<void> _record(ExamSession session, Duration used) async {
-    final recorder = ref.read(answerRecorderProvider);
-    for (final entry in session.entries) {
-      final answer = session.answerFor(entry.question);
-      if (answer == null) {
-        await recorder.recordSkipped(entry.question);
-      } else {
-        await recorder.recordAnswer(entry.exercise, entry.question,
-            isCorrect: answer == entry.question.answerIndex);
-      }
-    }
-    await recorder.recordSession(
-      mode: SessionMode.mockExam,
-      exercises: session.exercises,
-      totalQuestions: session.totalQuestions,
-      correctAnswers: session.correctCount,
-      duration: used,
-    );
+    await ref.read(answerRecorderProvider).recordExam(
+          entries: [for (final e in session.entries) (exercise: e.exercise, question: e.question)],
+          answers: session.answers,
+          correctAnswers: session.correctCount,
+          duration: used,
+        );
   }
 }
 
@@ -108,6 +97,9 @@ class ExamView extends StatefulWidget {
 class _ExamViewState extends State<ExamView> {
   late final ExamSession _session = ExamSession(widget.exercises);
   late final Duration _total = widget.duration ?? MockExamBlueprint.official.duration;
+  // The countdown follows the wall clock, not the number of ticks: ticks are late when the
+  // app is in the background or the UI is busy.
+  final DateTime _started = clock.now();
   late Duration _remaining = _total;
   Timer? _timer;
   bool _timeUp = false;
@@ -116,7 +108,7 @@ class _ExamViewState extends State<ExamView> {
   void initState() {
     super.initState();
     _timer = Timer.periodic(const Duration(seconds: 1), (_) {
-      setState(() => _remaining -= const Duration(seconds: 1));
+      setState(() => _remaining = _total - clock.now().difference(_started));
       if (_remaining <= Duration.zero) {
         _timeUp = true;
         _submit();
@@ -201,8 +193,17 @@ class _ExamViewState extends State<ExamView> {
     );
   }
 
+  // The system back button / gesture must ask before throwing the exam away.
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) => PopScope(
+        canPop: _session.isSubmitted,
+        onPopInvokedWithResult: (didPop, _) {
+          if (!didPop) _askQuit();
+        },
+        child: _buildExam(context),
+      );
+
+  Widget _buildExam(BuildContext context) {
     final l10n = AppLocalizations.of(context);
     if (_session.isSubmitted) {
       return Scaffold(

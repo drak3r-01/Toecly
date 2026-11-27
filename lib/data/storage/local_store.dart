@@ -48,6 +48,8 @@ extension VersionedJson on LocalStore {
       if (decoded is Map && decoded['version'] == currentVersion) return decoded['data'];
     } on FormatException {
       // Corrupted data is treated as absent rather than crashing the app.
+    } on TypeError {
+      // Same for data with an unexpected shape.
     }
     return null;
   }

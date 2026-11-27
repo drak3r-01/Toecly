@@ -29,8 +29,13 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context);
     final theme = Theme.of(context);
-    // Read again after each session: the list shrinks as questions are mastered.
-    final missed = ref.read(missedQuestionsProvider).loadIds().length;
+    // Refreshed after each session (the list shrinks as questions are mastered) and
+    // without the questions that no longer exist.
+    final missedIds = ref.watch(missedIdsProvider);
+    if (!missedIds.hasValue && !missedIds.hasError) {
+      return const Center(child: CircularProgressIndicator());
+    }
+    final missed = missedIds.value?.length ?? 0;
 
     return Center(
       child: ConstrainedBox(
@@ -71,7 +76,6 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
                       label: Text(l10n.practiceStart),
                       onPressed: () async {
                         await context.push('${ReviewScreen.sessionPath}?count=$_count');
-                        if (mounted) setState(() {});
                       },
                     ),
                   ],

@@ -73,6 +73,62 @@ void main() {
     });
   });
 
+  group('stored data robustness', () {
+    test('missed ids: retainOnly drops unknown ids, keeps order', () async {
+      final repo = MissedQuestionsRepository(InMemoryStore());
+      await repo.markMissedAll(['old-1', 'a', 'old-2', 'b']);
+      expect(repo.loadIds(), ['b', 'old-2', 'a', 'old-1']);
+      expect(await repo.retainOnly({'a', 'b'}), ['b', 'a']);
+      expect(repo.loadIds(), ['b', 'a']);
+    });
+
+    test('missed ids: non-string entries are ignored', () {
+      final store = InMemoryStore()..writeJson('missed_question_ids', ['a', 3, null, 'b']);
+      expect(MissedQuestionsRepository(store).loadIds(), ['a', 'b']);
+    });
+
+    test('markMissedAll equals marking one by one', () async {
+      final one = MissedQuestionsRepository(InMemoryStore());
+      final all = MissedQuestionsRepository(InMemoryStore());
+      for (final id in ['a', 'b', 'a', 'c']) {
+        await one.markMissed(id);
+      }
+      await all.markMissedAll(['a', 'b', 'a', 'c']);
+      expect(all.loadIds(), one.loadIds());
+    });
+
+    test('a malformed history entry is skipped, the rest survives', () async {
+      final store = InMemoryStore();
+      await SessionHistoryRepository(store).add(record(1));
+      final raw = store.read('session_history')!;
+      store.values['session_history'] = raw.replaceFirst(
+          '"data":[', '"data":[{"mode":"nope"},"junk",{"mode":"practice","totalQuestions":"x"},');
+      expect(SessionHistoryRepository(store).loadAll(), hasLength(1));
+    });
+
+    test('malformed stats entries read as zero', () {
+      final store = InMemoryStore()
+        ..writeJson('answer_stats', {'part5': ['x', 2], 'part6': [1]});
+      final stats = PartStatsRepository(store);
+      expect(stats.forPart(ToeicPart.part5).answered, 0);
+      expect(stats.forPart(ToeicPart.part6).answered, 0);
+    });
+
+    test('recordAnswers equals recording one by one', () async {
+      final one = PartStatsRepository(InMemoryStore());
+      final all = PartStatsRepository(InMemoryStore());
+      await one.recordAnswer(ToeicPart.part5, isCorrect: true, category: QuestionCategory.grammar);
+      await one.recordAnswer(ToeicPart.part5, isCorrect: false);
+      await all.recordAnswers([
+        (part: ToeicPart.part5, isCorrect: true, category: QuestionCategory.grammar),
+        (part: ToeicPart.part5, isCorrect: false, category: null),
+      ]);
+      expect(all.forPart(ToeicPart.part5).answered, one.forPart(ToeicPart.part5).answered);
+      expect(all.forPart(ToeicPart.part5).correct, one.forPart(ToeicPart.part5).correct);
+      expect(all.forCategory(ToeicPart.part5, QuestionCategory.grammar).answered, 1);
+    });
+  });
+
   group('PartStatsRepository', () {
     test('counts per part and per category', () async {
       final repository = PartStatsRepository(InMemoryStore());

@@ -17,7 +17,7 @@ are described in the README of each folder:
 
 | Field | Rule |
 |---|---|
-| `id` | Unique across **all** lots and **never changed** (missed questions are tracked by id). |
+| `id` | Unique across **all** lots and **never changed or reused**: missed questions are tracked by id, so a replaced question must get a new id (the app drops saved ids that no longer exist, it cannot tell a renamed question from a removed one). |
 | `choices` | Exactly 4 non-empty strings. |
 | `answerIndex` | Position of the right choice in `choices`, starting at 0. |
 | `explanation` | Required, written in **English**. |
