@@ -1,0 +1,602 @@
+[
+  {
+    "id": "p7-266",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why the four-day week stalled in the public sector",
+        "text": "When the council of a mid-sized northern town announced a trial of a four-day week for its administrative staff, supporters predicted a wave of imitators. Eighteen months later, only two other authorities have followed, and the original trial has quietly been extended rather than made permanent.\n\nThe disappointment is instructive. Productivity, which critics had feared would fall, held steady in nearly every department, and sick leave declined by almost a fifth. The difficulty lay elsewhere. Unlike a software firm, a council cannot simply close its doors on Fridays: residents expect the housing office and the registry to be open, so managers had to stagger staff rotas, which in practice meant that many employees worked longer days to compress their hours. Several said they felt more tired, not less, by Thursday afternoon.\n\nUnion representatives, initially enthusiastic, have grown cautious. They point out that the savings promised to taxpayers depend on the very efficiency gains that make staff reluctant to give up the extra day. \"You cannot ask people to work faster and then tell them the reward is the same hours,\" said one organizer. The council's finance chief, meanwhile, insists the experiment has been worthwhile, if only because it has cut the cost of recruiting replacements for staff who might otherwise have left."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main point of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Productivity fell sharply once the trial began",
+          "Unions have demanded a five-day week to return",
+          "The trial worked but proved hard to extend",
+          "Software firms are copying the council's example"
+        ],
+        "answerIndex": 2,
+        "explanation": "Results held steady, yet services needing weekday cover and tired staff limited the spread of the idea."
+      },
+      {
+        "prompt": "What difficulty did managers face?",
+        "category": "detail",
+        "choices": [
+          "Residents expect offices to stay open on Fridays",
+          "Staff refused to sign new contracts for Friday work",
+          "The registry lacked space for extra employees",
+          "Sick leave increased once rotas were staggered"
+        ],
+        "answerIndex": 0,
+        "explanation": "A council 'cannot simply close its doors on Fridays', so rotas had to be staggered."
+      },
+      {
+        "prompt": "What does the organizer's remark suggest?",
+        "category": "inference",
+        "choices": [
+          "Employees would accept longer weeks for more pay",
+          "The council has promised savings it cannot make",
+          "Taxpayers will refuse to fund additional leave",
+          "Efficiency gains may leave workers no better off"
+        ],
+        "answerIndex": 3,
+        "explanation": "Savings rely on faster work, yet the reward is only the same compressed hours."
+      },
+      {
+        "prompt": "Why does the finance chief call the experiment worthwhile?",
+        "category": "inference",
+        "choices": [
+          "Fines for late services have been reduced",
+          "Fewer staff may leave, so hiring costs are lower",
+          "The town received money from a national fund",
+          "Productivity improved in every single department"
+        ],
+        "answerIndex": 1,
+        "explanation": "It 'has cut the cost of recruiting replacements for staff who might otherwise have left'."
+      }
+    ]
+  },
+  {
+    "id": "p7-267",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Request to postpone the audit of the Tallinn facility",
+        "text": "To: Ingrid Solheim, Head of Internal Audit\nFrom: Dominik Farrar, Operations Director\nSubject: Request to postpone the Tallinn audit\n\nDear Ingrid,\n\nI am writing to ask whether the audit of the Tallinn facility, scheduled to begin on 12 March, could be moved to the week of 7 April. I appreciate that your team has planned its travel and that a postponement is never convenient, so let me explain why I think it is justified.\n\nThe facility is midway through the migration to the new warehouse management system, and the cutover is not due to finish until 28 March. An audit conducted now would therefore examine procedures that are about to be retired, as well as records that are temporarily held in two separate systems. I suspect your auditors would spend most of their time reconciling data that will be cleaned up within a month, and the findings would be of little use to either of us.\n\nI recognize that you may be reluctant to reschedule, given that the audit plan was approved by the board. For that reason I would not object if the preliminary stage, the review of safety documentation, went ahead on the original date, since that work does not depend on the new system. Please let me know whether this compromise would be acceptable.\n\nWith thanks,\nDominik"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why is Mr. Farrar writing to Ms. Solheim?",
+        "category": "purpose",
+        "choices": [
+          "To report several errors found in the Tallinn records",
+          "To ask for a change in the date of an inspection",
+          "To cancel the audit plan approved by the board",
+          "To invite her team to test the new system"
+        ],
+        "answerIndex": 1,
+        "explanation": "He asks to move the audit from 12 March to the week of 7 April."
+      },
+      {
+        "prompt": "According to the email, what would the auditors waste time on?",
+        "category": "detail",
+        "choices": [
+          "Travelling between two different warehouses in Tallinn",
+          "Reviewing safety documents that are out of date",
+          "Training staff in the new management system",
+          "Matching data that exists in two systems at once"
+        ],
+        "answerIndex": 3,
+        "explanation": "Records are 'temporarily held in two separate systems' and would need reconciling."
+      },
+      {
+        "prompt": "What does Mr. Farrar imply about the board's approval?",
+        "category": "inference",
+        "choices": [
+          "It makes Ms. Solheim unlikely to move the dates",
+          "It covers only the safety documentation review",
+          "It was given before the new system was chosen at all",
+          "It forbids any partial audit from going ahead"
+        ],
+        "answerIndex": 0,
+        "explanation": "He recognizes she 'may be reluctant to reschedule' because the plan was approved."
+      },
+      {
+        "prompt": "What compromise does he offer?",
+        "category": "detail",
+        "choices": [
+          "Auditing only the new system, in March itself",
+          "Sending the board a full preliminary report",
+          "Reviewing the safety papers on the first date",
+          "Moving the whole audit to the main office"
+        ],
+        "answerIndex": 2,
+        "explanation": "The preliminary safety review could go ahead on the original date."
+      }
+    ]
+  },
+  {
+    "id": "p7-268",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice to residents of Aldwych Terrace",
+        "text": "NOTICE TO ALL RESIDENTS\nWater supply interruption and parking restrictions\n\nWessex Water will carry out essential replacement of the main pipe beneath Aldwych Terrace between Monday 14 and Friday 18 October. Because the pipe lies directly under the carriageway, excavation will be required along the full length of the street, and the road will be closed to all vehicles from 7 a.m. each day.\n\nResidents will experience two interruptions to their supply. The first, on Tuesday between 9 a.m. and 1 p.m., is needed to isolate the old pipe; the second, on Thursday afternoon, will allow the new main to be connected. The contractor expects each interruption to be shorter than announced, but cannot guarantee it. Households with a medical need for continuous water, including those using home dialysis equipment, should telephone the freephone number below by Friday 11 October so that alternative arrangements can be made.\n\nCars parked on Aldwych Terrace after midnight on Sunday will be moved at the owner's expense. Temporary permits for the Granger Street car park are available from the housing office on presentation of a vehicle registration document. Please note that, because of the size of the machinery, bins will be collected from the junction with Fenn Road throughout the week."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the notice?",
+        "category": "main_idea",
+        "choices": [
+          "To announce a permanent closure of the road",
+          "To ask residents to pay for a new water main",
+          "To invite residents to a meeting about parking",
+          "To warn residents of disruption from pipe work"
+        ],
+        "answerIndex": 3,
+        "explanation": "The notice describes road closure, two supply interruptions and parking and bin changes."
+      },
+      {
+        "prompt": "Who must phone before 11 October?",
+        "category": "detail",
+        "choices": [
+          "Residents who wish to buy a car park permit",
+          "Residents needing continuous water for health",
+          "Owners of cars parked after midnight on Sunday",
+          "Households that expect to be away all week"
+        ],
+        "answerIndex": 1,
+        "explanation": "Households with a medical need, such as home dialysis, should call by 11 October."
+      },
+      {
+        "prompt": "What can be inferred about the Tuesday interruption?",
+        "category": "inference",
+        "choices": [
+          "It will affect only the households on one side",
+          "It has been moved from the Thursday afternoon",
+          "It could end earlier than the stated four hours",
+          "It cannot take place without the freephone call"
+        ],
+        "answerIndex": 2,
+        "explanation": "The contractor 'expects each interruption to be shorter than announced, but cannot guarantee it'."
+      },
+      {
+        "prompt": "Which statement is NOT supported by the notice?",
+        "category": "not_true",
+        "choices": [
+          "Bins will be collected from every house as usual",
+          "The road will be closed for the entire working week",
+          "A permit requires showing a vehicle document",
+          "Cars left on the street may be towed at a cost"
+        ],
+        "answerIndex": 0,
+        "explanation": "Bins will be collected from the junction with Fenn Road throughout the week, not from each house."
+      }
+    ]
+  },
+  {
+    "id": "p7-269",
+    "documents": [
+      {
+        "type": "review",
+        "title": "A guidebook that rewards patience",
+        "text": "Few travel guides dare to be as opinionated as The Slow Road to Anatolia, and fewer still manage to be as useful. The author, Selin Karaca, abandons the usual lists of top ten sights in favor of seven itineraries, each built around a single journey by train, ferry or bus, and she is frank that some of them demand more time than the average holiday allows.\n\nThe strongest chapters are those that depart from the obvious. Her account of a two-day rail crossing of the interior is exact about the timetable, the quality of the buffet car and the best seats from which to see the plateau at dusk, yet it never reads like a checklist. By contrast, the section on the coast is thinner, partly because the author confesses she dislikes crowded resorts and dismisses them in a few pages. Readers who plan to spend their time there will find less to guide them.\n\nThe maps are a weakness: printed in pale gray, they are hard to read in poor light, and several rural stations are marked with the wrong spelling. These are small flaws in a work of real character. It will not suit anyone who wants every hour planned in advance, but those prepared to trust a strong guide will be rewarded."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall opinion of the book?",
+        "category": "main_idea",
+        "choices": [
+          "Admirable and distinctive, though uneven",
+          "Dull and badly organized from start to finish",
+          "Useful chiefly to those visiting the coast",
+          "Impressive because of its detailed maps"
+        ],
+        "answerIndex": 0,
+        "explanation": "The review praises its character and strongest chapters while noting a thin coastal section and poor maps."
+      },
+      {
+        "prompt": "Why is the coastal section weaker?",
+        "category": "detail",
+        "choices": [
+          "The coast can only be reached by an unreliable ferry",
+          "The rail timetable there is difficult to follow",
+          "The author prefers to avoid busy tourist resorts",
+          "The maps for that area contained too many errors"
+        ],
+        "answerIndex": 2,
+        "explanation": "The author 'dislikes crowded resorts and dismisses them in a few pages'."
+      },
+      {
+        "prompt": "What can be inferred about the intended reader?",
+        "category": "inference",
+        "choices": [
+          "A visitor with only a few days to spare in total",
+          "Someone willing to follow one writer's judgment",
+          "A traveler who wants to be driven everywhere",
+          "An expert who has already seen the plateau"
+        ],
+        "answerIndex": 1,
+        "explanation": "It will not suit those wanting every hour planned, but rewards those who 'trust a strong guide'; some trips need more time than a usual holiday."
+      },
+      {
+        "prompt": "The word \"exact\" in paragraph 2 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "demanding",
+          "expensive",
+          "hurried",
+          "precise"
+        ],
+        "answerIndex": 3,
+        "explanation": "Being exact about timetable and buffet car means giving precise detail."
+      }
+    ]
+  },
+  {
+    "id": "p7-270",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Guidance on handling confidential client documents",
+        "text": "MEMO\nTo: All associates and trainees\nFrom: Priya Venkataraman, Managing Partner\nSubject: Guidance on confidential client documents\n\nOver the past quarter, two incidents have prompted this reminder. In the first, a trainee left a folder of draft contracts on a train; in the second, a document intended for one client was attached to an email addressed to another, though the error was caught before it caused harm. Neither case involved bad faith, which is precisely why they deserve attention: carelessness, not malice, is the commonest source of a breach.\n\nWith immediate effect, documents marked \"restricted\" may not be taken out of the building in paper form, and may be sent electronically only through the firm's encrypted portal. Ordinary email may continue to be used for routine correspondence, but any attachment must be reviewed by a second person before it is sent to a client whose name appears on the sensitive-matters list. I recognize that the second check will cost a few minutes. I would argue that it costs less than the conversation we would have to have with a client after a mistake.\n\nAssociates are asked to remind trainees of these rules during their first week and to report any breach, however minor, to the compliance officer within 24 hours. Reports made promptly will be treated as an act of responsibility, not as an admission of fault."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the memo?",
+        "category": "purpose",
+        "choices": [
+          "To announce the dismissal of a careless trainee",
+          "To explain a change in the firm's encryption supplier",
+          "To tighten rules after two document-handling lapses",
+          "To introduce a new list of sensitive clients"
+        ],
+        "answerIndex": 2,
+        "explanation": "The memo follows two incidents and sets new restrictions on how documents move."
+      },
+      {
+        "prompt": "What does the managing partner say about the incidents?",
+        "category": "inference",
+        "choices": [
+          "They stemmed from inattention, not ill intent",
+          "They were deliberately staged to test the staff",
+          "They resulted in serious harm to one client",
+          "They were caused by faults in the encrypted portal"
+        ],
+        "answerIndex": 0,
+        "explanation": "Neither involved bad faith; carelessness is 'the commonest source of a breach'."
+      },
+      {
+        "prompt": "What is required before an attachment goes to a sensitive-matters client?",
+        "category": "detail",
+        "choices": [
+          "The compliance officer must approve it",
+          "It must be sent through ordinary email only",
+          "The client must sign a receipt",
+          "A colleague must look it over first"
+        ],
+        "answerIndex": 3,
+        "explanation": "Any such attachment 'must be reviewed by a second person before it is sent'."
+      },
+      {
+        "prompt": "What does the final sentence suggest about reporting breaches?",
+        "category": "inference",
+        "choices": [
+          "Minor breaches need not be reported",
+          "Prompt reporting will be viewed favorably",
+          "Reports must be made by the trainees themselves",
+          "Associates will be punished for any error"
+        ],
+        "answerIndex": 1,
+        "explanation": "Prompt reports 'will be treated as an act of responsibility, not as an admission of fault'."
+      }
+    ]
+  },
+  {
+    "id": "p7-271",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Head of Sustainability, Calder Packaging Group",
+        "text": "Calder Packaging Group, a family-owned manufacturer with plants in four countries, is seeking a Head of Sustainability to lead a program that the board has described as the most consequential of the decade. We have committed to halving the carbon footprint of our products by 2032, and we need a leader who can turn that commitment into practice, plant by plant.\n\nThe successful candidate will report directly to the chief executive and will sit on the executive committee. You will build and manage a small team, negotiate with suppliers of recycled materials, and represent the group in discussions with regulators. Equally important, you will persuade production managers, many of whom have spent their careers prioritizing speed over everything else, that the new targets are achievable without ruining their margins.\n\nWe expect at least ten years of experience, of which five should have been in an industrial setting; academic credentials alone will not suffice. Fluency in English and one other European language is essential. Experience of reporting under recognized international standards will be an advantage, though we are more concerned with a record of changing how factories actually operate than with a long list of certificates.\n\nThe salary is competitive and reflects the seniority of the post. Applications, including a one-page statement describing a sustainability project you led and what you would do differently, should be sent by 30 June."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main challenge of the role?",
+        "category": "main_idea",
+        "choices": [
+          "Raising money from investors for several new factories",
+          "Turning a company pledge into daily plant practice",
+          "Replacing the board with outside experts",
+          "Selling packaging to regulators in four countries"
+        ],
+        "answerIndex": 1,
+        "explanation": "The company wants someone to 'turn that commitment into practice, plant by plant'."
+      },
+      {
+        "prompt": "What kind of resistance may the successful candidate meet?",
+        "category": "inference",
+        "choices": [
+          "Suppliers who refuse to provide recycled materials",
+          "Board members who doubt the 2032 target",
+          "Regulators who oppose the footprint reduction",
+          "Managers who put speed ahead of other goals"
+        ],
+        "answerIndex": 3,
+        "explanation": "Managers have 'spent their careers prioritizing speed over everything else'."
+      },
+      {
+        "prompt": "What is said about qualifications?",
+        "category": "detail",
+        "choices": [
+          "Industry experience matters more than degrees",
+          "A degree in engineering is a strict requirement",
+          "Certificates are valued above practical results",
+          "Languages other than English are optional extras"
+        ],
+        "answerIndex": 0,
+        "explanation": "Academic credentials alone will not suffice; the company cares more about changing how factories operate than certificates."
+      },
+      {
+        "prompt": "What is required with the application?",
+        "category": "detail",
+        "choices": [
+          "A reference from a recycled-materials supplier",
+          "A plan for the 2032 target across four countries",
+          "A short account of a project and a better approach",
+          "A certificate from an international standards body"
+        ],
+        "answerIndex": 2,
+        "explanation": "Applicants send a one-page statement about a project they led and what they would do differently."
+      }
+    ]
+  },
+  {
+    "id": "p7-272",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Messages between a project manager and a client",
+        "text": "Hannah Roth [9:12]: Good morning, Mr. Eze. I wanted to let you know before the meeting that the contractor has found asbestos behind the kitchen wall. It was a precaution to test, but the result came back positive last night.\n\nObinna Eze [9:15]: That's very worrying. Does it mean the work stops?\n\nHannah Roth [9:17]: For the kitchen, yes, until a licensed team has removed it. The rest of the house is unaffected, so the electricians can continue upstairs. I've asked for a quotation, and the first indication is between 3,000 and 4,500 dollars, depending on how far it extends.\n\nObinna Eze [9:20]: That is well above the contingency we set aside, isn't it?\n\nHannah Roth [9:21]: It is, by about a thousand at the lower figure. Your insurer might cover part of it if the report shows that the material was undisturbed, but I wouldn't count on it.\n\nObinna Eze [9:24]: Understood. What would you recommend?\n\nHannah Roth [9:26]: Approve the removal now. Delay will cost more than it saves, because the plumber is booked only for the next three weeks. We can discuss the budget this afternoon.\n\nObinna Eze [9:27]: Fine. Send me the report and the quotation as soon as you have them."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why is Ms. Roth contacting Mr. Eze?",
+        "category": "main_idea",
+        "choices": [
+          "To ask him to approve a new kitchen design now",
+          "To tell him that the project is finished",
+          "To complain about the electricians' progress",
+          "To report a hazard that halts part of the work"
+        ],
+        "answerIndex": 3,
+        "explanation": "Asbestos has been found, and work in the kitchen must stop until it is removed."
+      },
+      {
+        "prompt": "How much does the contingency fall short at the lower estimate?",
+        "category": "detail",
+        "choices": [
+          "About three thousand dollars more",
+          "About a thousand dollars more",
+          "About four and a half thousand dollars",
+          "Nothing, since it covers the lower figure"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says the estimate is above the contingency 'by about a thousand at the lower figure'."
+      },
+      {
+        "prompt": "Why does Ms. Roth recommend approving the removal now?",
+        "category": "inference",
+        "choices": [
+          "The insurer demands an immediate decision",
+          "The electricians cannot work with asbestos nearby",
+          "The plumber is available for only a few weeks",
+          "The quotation will expire at the end of the day"
+        ],
+        "answerIndex": 2,
+        "explanation": "Delay would cost more because the plumber is booked only for the next three weeks."
+      },
+      {
+        "prompt": "What does she suggest about the insurance?",
+        "category": "inference",
+        "choices": [
+          "Coverage is possible but uncertain",
+          "The insurer has already agreed to pay in full",
+          "The insurer excludes all work on kitchens",
+          "Mr. Eze must claim before the report arrives"
+        ],
+        "answerIndex": 0,
+        "explanation": "The insurer might cover part if the material was undisturbed, 'but I wouldn't count on it'."
+      }
+    ]
+  },
+  {
+    "id": "p7-273",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Frequently asked questions: the Meridian rail pass",
+        "text": "The Meridian Pass allows unlimited travel on all regional services for a fixed period, but a number of conditions are worth understanding before you buy.\n\nCan I use the pass on express services? Yes, although a seat reservation is compulsory on express trains and costs an additional fee. Pass holders who board an express without a reservation may be asked to pay the full fare, and the conductor has no discretion in this matter.\n\nDoes the pass start when I buy it? No. The pass is valid from the first date you choose, up to six months after purchase, and the period of validity begins only when you first travel. Please note that a pass whose start date has passed cannot be extended or refunded.\n\nWhat if my train is cancelled? Pass holders are entitled to travel on the next available service, including a faster one, at no charge. If the delay exceeds ninety minutes, you may claim a voucher worth ten percent of the pass's daily value, though vouchers cannot be exchanged for cash.\n\nCan the pass be shared? It cannot. Each pass is linked to the holder's passport number, which will be checked on board. Passes found to be in use by anyone other than the named holder will be confiscated without compensation."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the page?",
+        "category": "purpose",
+        "choices": [
+          "To explain the rules of a travel pass",
+          "To advertise a discount on express fares",
+          "To report on long delays in regional services",
+          "To compare the pass with a competitor's"
+        ],
+        "answerIndex": 0,
+        "explanation": "The page answers questions about conditions of the pass."
+      },
+      {
+        "prompt": "When does the validity period begin?",
+        "category": "detail",
+        "choices": [
+          "On the date the pass is purchased online",
+          "Six months after the pass is bought",
+          "When the holder first boards a train",
+          "When a seat has been reserved"
+        ],
+        "answerIndex": 2,
+        "explanation": "The period begins only when you first travel, within six months of purchase."
+      },
+      {
+        "prompt": "What can be inferred about a passenger on an express without a reservation?",
+        "category": "inference",
+        "choices": [
+          "The conductor may let the passenger stay free",
+          "The conductor must charge the standard fare",
+          "The passenger will receive a voucher",
+          "The pass will be confiscated at once"
+        ],
+        "answerIndex": 1,
+        "explanation": "The conductor 'has no discretion', so the full fare may be demanded."
+      },
+      {
+        "prompt": "Which statement is true?",
+        "category": "not_true",
+        "choices": [
+          "A cancelled train allows travel on a faster train",
+          "The pass is tied to the holder's passport number",
+          "Late use of an expired start date is not refundable",
+          "A voucher can be cashed in after a long delay"
+        ],
+        "answerIndex": 3,
+        "explanation": "Vouchers 'cannot be exchanged for cash', so the statement that they can is false."
+      }
+    ]
+  },
+  {
+    "id": "p7-274",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter of recommendation for a research assistant",
+        "text": "To the Selection Committee,\n\nI am pleased to support Mr. Teodor Brandt's application for the doctoral fellowship. I supervised his master's thesis for two years and have since worked with him on a joint article, so I can speak with some authority about both his abilities and his limits.\n\nMr. Brandt's greatest strength is his refusal to accept an elegant explanation merely because it is elegant. When his early results on soil erosion appeared to confirm our hypothesis, it was he who proposed repeating the measurements at a second site, a decision that delayed his thesis by three months and, in the end, overturned the original finding. Few students of his age would have accepted such a setback with so little complaint.\n\nI should add that he is not a natural presenter. His conference talks are accurate but dense, and he has yet to learn that an audience requires a story as well as data. I have no doubt that he will improve, as he has with every other aspect of his work once the problem was pointed out to him.\n\nI recommend him without reservation. A fellowship would give him the freedom to pursue a question that matters, and I expect that the results will justify the committee's confidence.\n\nYours faithfully,\nProf. Alma Reinholt"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To reply to some criticism of a thesis result",
+          "To invite a student to give a conference talk",
+          "To back a student's fellowship application",
+          "To propose a joint research project"
+        ],
+        "answerIndex": 2,
+        "explanation": "The professor supports Mr. Brandt's application for a doctoral fellowship."
+      },
+      {
+        "prompt": "What example does the professor give of his strength?",
+        "category": "detail",
+        "choices": [
+          "He insisted on testing results at another site",
+          "He completed his thesis three months early",
+          "He wrote an entire article without supervision",
+          "He rejected an offer from another university"
+        ],
+        "answerIndex": 0,
+        "explanation": "He proposed repeating measurements at a second site, which overturned the original finding."
+      },
+      {
+        "prompt": "What does the professor suggest about Mr. Brandt's presentations?",
+        "category": "inference",
+        "choices": [
+          "They have been rejected by several conferences",
+          "They are too short to explain his data",
+          "They are the main reason for his delays",
+          "They are reliable but not engaging enough"
+        ],
+        "answerIndex": 3,
+        "explanation": "The talks are 'accurate but dense' and need a story."
+      },
+      {
+        "prompt": "What can be inferred about the professor's view of him?",
+        "category": "inference",
+        "choices": [
+          "She believes he is quite unsuited to research",
+          "She thinks the weakness is minor and fixable",
+          "She doubts that he will accept advice",
+          "She expects the committee to hesitate"
+        ],
+        "answerIndex": 1,
+        "explanation": "She expects him to improve once problems are pointed out, and recommends him 'without reservation'."
+      }
+    ]
+  },
+  {
+    "id": "p7-275",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Cities weigh the cost of free public transit",
+        "text": "When the city of Verhoeven abolished fares on its buses and trams two years ago, it hoped to cut congestion and help poorer residents reach work. The experiment has produced a surprising mixture of success and embarrassment.\n\nRidership rose by roughly a third, as expected, but a study by local researchers found that much of the increase came not from drivers leaving their cars, but from people who had previously walked or cycled. The reduction in traffic was therefore modest, a few percent at most. On the other hand, surveys show that low-income households have benefited considerably, with many reporting that they now travel to job interviews and clinics they would once have skipped.\n\nThe financial picture is complicated. Fares had covered less than a quarter of operating costs, so the loss of revenue was smaller than critics warned, yet crowding has forced the operator to buy additional vehicles, an expense no one had budgeted. Supporters argue that the real gain lies in what cannot easily be measured, such as lower collection costs and shorter boarding times. Skeptics respond that the same money, spent on more frequent services, might have persuaded more motorists to switch.\n\nOther cities are watching closely. Several have said that they will wait for a third year of data before deciding."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does the article say about the effect on traffic?",
+        "category": "detail",
+        "choices": [
+          "It increased because of crowding",
+          "It fell only slightly, by a few percent",
+          "It dropped by roughly a third in total",
+          "It could not be measured with any accuracy"
+        ],
+        "answerIndex": 1,
+        "explanation": "The reduction in traffic was 'modest, a few percent at most'."
+      },
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Free transit has failed on every test",
+          "Fares should be raised to buy new vehicles",
+          "Cities should adopt free transit at once",
+          "Free transit brought mixed results"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article balances benefits for poor residents with modest traffic gains and unexpected costs."
+      },
+      {
+        "prompt": "What does the researchers' finding imply about the new riders?",
+        "category": "inference",
+        "choices": [
+          "Many were not former car drivers",
+          "Most were commuters from nearby towns",
+          "They were mainly tourists using the trams",
+          "They preferred buses to the trams"
+        ],
+        "answerIndex": 0,
+        "explanation": "Much of the increase came from people who had previously walked or cycled."
+      },
+      {
+        "prompt": "What do skeptics suggest?",
+        "category": "inference",
+        "choices": [
+          "Fares should have covered all the operating costs",
+          "Bus drivers are being paid too much now",
+          "The money might be better spent on frequency",
+          "Cycling should be discouraged in city streets"
+        ],
+        "answerIndex": 2,
+        "explanation": "They argue that spending on more frequent services 'might have persuaded more motorists to switch'."
+      }
+    ]
+  }
+]
