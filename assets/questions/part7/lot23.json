@@ -1,0 +1,302 @@
+[
+  {
+    "id": "p7-261",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Revised procedure for supplier invoices",
+        "text": "MEMORANDUM\nTo: Accounts Payable Staff\nFrom: Renata Volkov, Finance Controller\nRe: Revised procedure for supplier invoices, effective 3 February\n\nFollowing the external audit, the finance department has concluded that our current practice of approving invoices by email is no longer defensible. Several approvals could not be traced to an identifiable person, and in two instances an invoice was paid twice because the first approval had been mislaid in a colleague's inbox. From 3 February, therefore, all invoices above 500 dollars must be approved within the new purchasing portal, which records the approver's name, the time, and the budget code to which the expense is charged.\n\nSmaller invoices may still be approved by a team leader in writing, but the approval must be attached to the payment request rather than forwarded separately. Staff should note that the portal will refuse any invoice whose purchase order number does not match the supplier's records, so discrepancies must be resolved with the supplier before submission, not afterwards.\n\nI appreciate that the portal will initially feel slower than the habits it replaces. To ease the transition, two members of my team will be available each morning in the third-floor meeting room until the end of March. Please do not wait until you have an urgent payment to seek their help. Invoices that remain in the old email system after 17 February will not be processed, and I would prefer that no supplier be kept waiting because of a technicality."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why is the procedure being changed?",
+        "category": "purpose",
+        "choices": [
+          "The portal is cheaper to operate than email",
+          "Suppliers have asked for faster payment terms",
+          "Email approvals could not be reliably traced",
+          "The old system was blocked by the auditors' software"
+        ],
+        "answerIndex": 2,
+        "explanation": "The memo says several approvals 'could not be traced to an identifiable person' and some invoices were paid twice."
+      },
+      {
+        "prompt": "What can be inferred about invoices of 400 dollars?",
+        "category": "inference",
+        "choices": [
+          "A team leader can still approve them in writing",
+          "They no longer need any approval at all",
+          "They must be sent to the third-floor meeting room",
+          "They will be rejected if the portal is not used"
+        ],
+        "answerIndex": 0,
+        "explanation": "Only invoices above 500 dollars must go through the portal; smaller ones may be approved in writing and attached to the payment request."
+      },
+      {
+        "prompt": "What will happen to an invoice with a mismatched purchase order number?",
+        "category": "detail",
+        "choices": [
+          "It will be paid and corrected at the next audit",
+          "It will be sent back to the team leader automatically",
+          "It will be charged to a general budget code",
+          "The portal will not accept it until it is corrected"
+        ],
+        "answerIndex": 3,
+        "explanation": "The portal 'will refuse any invoice whose purchase order number does not match the supplier's records'."
+      },
+      {
+        "prompt": "What is implied about the deadline of 17 February?",
+        "category": "inference",
+        "choices": [
+          "It marks the end of the audit by the finance department",
+          "Staff should be using the portal well before it",
+          "It is when the help sessions in the meeting room begin",
+          "It applies only to invoices from new suppliers"
+        ],
+        "answerIndex": 1,
+        "explanation": "After that date email invoices 'will not be processed', and help is offered only until March, so staff should switch early."
+      }
+    ]
+  },
+  {
+    "id": "p7-262",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Reply to a complaint about delayed repairs",
+        "text": "Dear Ms. Oyelaran,\n\nThank you for your letter of 9 October regarding the repairs to the roof of your building at Marlowe Court. I am sorry that the work has taken so much longer than we indicated, and I have read your account of the water damage in the upper corridor with real concern.\n\nI should be candid about the causes. The delay arose partly from a shortage of the specialist tiles required for a building of this age, and partly from our decision, taken in September, to replace a contractor whose standards fell short of ours. That decision cost us three weeks, but I believe you would have been less content with the alternative of work that had to be redone. A new contractor, Fairbrook Roofing, began on 21 October and has assured us that the main structure will be watertight by 15 November.\n\nI cannot promise that every cosmetic repair inside the building will be complete by then, because the plaster must dry thoroughly before it can be repainted. However, I have asked our surveyor to inspect the upper corridor next week and to arrange for any damaged carpeting to be replaced at our expense. You will also find enclosed a credit equal to one month's service charge, offered not as a settlement but as an acknowledgement of your inconvenience.\n\nShould you wish to discuss the matter further, please call me directly on the number below.\n\nYours sincerely,\nMark Delacroix\nProperty Manager, Hallam Estates"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To announce the sale of the building at Marlowe Court",
+          "To explain a delay and offer some compensation",
+          "To ask tenants to pay a higher service charge",
+          "To confirm that the roof repairs have been finished"
+        ],
+        "answerIndex": 1,
+        "explanation": "The writer apologizes, explains the causes of the delay and encloses a credit and a replacement offer."
+      },
+      {
+        "prompt": "Why did the work take longer than expected?",
+        "category": "detail",
+        "choices": [
+          "The surveyor failed to inspect the roof in time",
+          "The tenants refused access to the upper corridor",
+          "The plaster could not be dried before painting",
+          "Tiles were scarce and a contractor was replaced"
+        ],
+        "answerIndex": 3,
+        "explanation": "The delay came from a tile shortage and the replacement of a contractor 'whose standards fell short'."
+      },
+      {
+        "prompt": "What does Mr. Delacroix suggest about the credit?",
+        "category": "inference",
+        "choices": [
+          "It is a goodwill gesture, not a final settlement",
+          "It fully covers the cost of the damaged carpets",
+          "It is payable only if Ms. Oyelaran calls him",
+          "It will be deducted from the next service charge"
+        ],
+        "answerIndex": 0,
+        "explanation": "He calls it 'not a settlement but an acknowledgement', so it does not close the matter."
+      },
+      {
+        "prompt": "The word \"candid\" in paragraph 2 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "polite",
+          "hopeful",
+          "frank",
+          "careful"
+        ],
+        "answerIndex": 2,
+        "explanation": "'I should be candid about the causes' introduces an honest explanation, so 'frank' fits."
+      }
+    ]
+  },
+  {
+    "id": "p7-263",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The quiet return of the corner shop",
+        "text": "For two decades, analysts predicted that the independent corner shop would be swept aside by the supermarket and, later, by the delivery app. Yet in several cities the number of small grocery stores has begun to rise again, and the reasons have less to do with nostalgia than with arithmetic.\n\nRents for large retail units have climbed so steeply that many chains now struggle to make a margin on floor space they cannot fill. Small shops, by contrast, can be run by a family without the overhead of a head office, and they have discovered that customers will pay a modest premium for convenience when a delivery fee would cost more. \"People used to think of us as the place you go when you've forgotten something,\" says Tomasz Wierzba, who runs a shop in Leeds. \"Now we are the place you go instead of planning.\"\n\nThe revival is not evenly spread. Shops thrive where there is dense housing and a steady flow of commuters, but they remain fragile in areas that depend on a single employer. Moreover, many owners admit that their margins depend on long hours that they would hesitate to recommend to their children. A trade association warns that unless business rates are reformed, the recovery may prove to be a pause rather than a turning point."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Supermarkets are opening more branches in city centers",
+          "Delivery apps are losing customers to larger chains",
+          "Family businesses are being replaced by head offices",
+          "Small grocers are returning for practical reasons"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article explains why corner shops are returning, then notes uneven spread and fragility."
+      },
+      {
+        "prompt": "According to the article, why are chains struggling?",
+        "category": "detail",
+        "choices": [
+          "Customers dislike the choice offered in large stores",
+          "The cost of renting big units has risen sharply",
+          "Delivery apps have refused to supply their products",
+          "Their head offices have been closed by regulators"
+        ],
+        "answerIndex": 1,
+        "explanation": "Rents for large retail units have 'climbed so steeply' that margins are hard to make."
+      },
+      {
+        "prompt": "What does Mr. Wierzba imply by 'instead of planning'?",
+        "category": "inference",
+        "choices": [
+          "Customers have stopped buying fresh produce",
+          "Planning a trip is cheaper than ordering online",
+          "Shoppers use nearby stores for routine buying",
+          "Families prefer to cook only on special occasions"
+        ],
+        "answerIndex": 2,
+        "explanation": "He contrasts the shop as an emergency stop with its new role as a routine alternative to planned shopping."
+      },
+      {
+        "prompt": "What can be concluded about the trade association's warning?",
+        "category": "inference",
+        "choices": [
+          "The revival could fade unless shop costs are eased",
+          "The association expects most shops to close this year",
+          "Business rates have already been reformed in Leeds",
+          "Owners are ready to hand shops to their children"
+        ],
+        "answerIndex": 0,
+        "explanation": "It warns that without reform of business rates the recovery 'may prove to be a pause rather than a turning point'."
+      }
+    ]
+  },
+  {
+    "id": "p7-264",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Conference planning chat",
+        "text": "Marguerite Dubois [10:02]: Quick update on the Lisbon venue. They've confirmed the main hall, but the breakout rooms on the second floor are only available after 2 p.m. on the first day.\n\nCallum Reid [10:04]: That's awkward. The workshops were meant to run in the morning, and we've already told the speakers.\n\nMarguerite Dubois [10:05]: I know. The alternative is the annex across the square, which has four rooms and costs about eleven percent more per day, though they would throw in the projector hire.\n\nCallum Reid [10:08]: Does the projector hire make up the difference?\n\nMarguerite Dubois [10:10]: Not entirely. I worked it out at roughly a third of the extra charge. The real issue is attendees walking between buildings, which could be a nuisance if it rains.\n\nCallum Reid [10:12]: Then why not swap the days? Put the plenary on day one, when the hall is free, and run the workshops on day two when the second floor opens up in the morning.\n\nMarguerite Dubois [10:13]: Interesting, but the keynote speaker, Dr. Anand, is only available on day two. I'd have to ask her.\n\nCallum Reid [10:15]: Ask. A schedule change costs less than a larger invoice, and she may be flexible.\n\nMarguerite Dubois [10:16]: Fine, I'll write to her this afternoon and ask the venue to hold the annex until Friday as a fallback."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What problem do the writers need to solve?",
+        "category": "main_idea",
+        "choices": [
+          "The venue's breakout rooms are not free when needed",
+          "The keynote speaker has withdrawn from the event",
+          "The hall in Lisbon has been booked by another client",
+          "The speakers have refused to run morning workshops"
+        ],
+        "answerIndex": 0,
+        "explanation": "The second-floor rooms are only available after 2 p.m. on day one, conflicting with morning workshops."
+      },
+      {
+        "prompt": "What does Ms. Dubois say about the projector hire?",
+        "category": "detail",
+        "choices": [
+          "It would make the annex cheaper than the venue",
+          "It is already included in the price of the main hall",
+          "It would cover about a third of the extra annex cost",
+          "It must be paid for separately at the annex"
+        ],
+        "answerIndex": 2,
+        "explanation": "She says the free projector hire amounts to 'roughly a third of the extra charge'."
+      },
+      {
+        "prompt": "Why does Ms. Dubois hesitate to follow Mr. Reid's suggestion?",
+        "category": "inference",
+        "choices": [
+          "The annex would cost even more on the second day",
+          "The keynote speaker may be unable to switch",
+          "The hall will be unavailable on day two",
+          "The workshops need more rooms than the venue has"
+        ],
+        "answerIndex": 1,
+        "explanation": "The keynote speaker 'is only available on day two', so swapping might conflict with her schedule."
+      },
+      {
+        "prompt": "What will Ms. Dubois probably do next?",
+        "category": "inference",
+        "choices": [
+          "Cancel the annex and tell all the speakers to attend",
+          "Accept the extra charge at once without more talk",
+          "Move the whole conference to another city instead",
+          "Write to the speaker, then ask the venue to wait"
+        ],
+        "answerIndex": 3,
+        "explanation": "She says she will write to Dr. Anand and ask the venue to hold the annex until Friday."
+      }
+    ]
+  },
+  {
+    "id": "p7-265",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Harrow & Finch: a different kind of recruiter",
+        "text": "Most agencies measure their success by the number of people they place. At Harrow & Finch, we measure it by how many of them are still happy two years later.\n\nWe are a small agency specializing in engineering and logistics, and we have turned down more than one lucrative contract because we doubted that the role would suit the candidates we had on file. This may sound like poor business, but our clients, who include several of the region's largest manufacturers, return to us precisely because they know we will not send them someone who will leave within the year.\n\nFor candidates, our service is free and our approach is unhurried. Each person is interviewed twice, once about their career and once about what they would like from the next decade of it. We then show them only the vacancies that fit both answers, which is why a typical candidate sees four or five positions rather than forty.\n\nEmployers pay a fee only after a placement has lasted six months, and the fee is refunded in part should the employee depart within the following year.\n\nTo arrange an introductory conversation, call 555-0143 or visit our office on Quay Street between nine and five. Appointments are not essential, but we recommend them, since our consultants rarely hurry anyone out of the door."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the advertisement mainly trying to do?",
+        "category": "purpose",
+        "choices": [
+          "Announce a reduction in fees for large manufacturers",
+          "Recruit consultants for a new office on Quay Street",
+          "Persuade readers that it values lasting placements",
+          "Invite candidates to a series of public lectures"
+        ],
+        "answerIndex": 2,
+        "explanation": "The agency says it measures success by how many placed people are still happy two years later."
+      },
+      {
+        "prompt": "What is suggested about the agency's selectiveness?",
+        "category": "inference",
+        "choices": [
+          "It sometimes declines work that seems unsuitable",
+          "It works only with the largest regional employers",
+          "It charges candidates more for rare vacancies",
+          "It places far fewer engineers than logisticians"
+        ],
+        "answerIndex": 0,
+        "explanation": "It says it has 'turned down more than one lucrative contract' because the role might not suit candidates."
+      },
+      {
+        "prompt": "When do employers pay the fee?",
+        "category": "detail",
+        "choices": [
+          "On the day the candidate signs a contract",
+          "After the second interview of each candidate",
+          "Only if the employee stays for two years",
+          "After the new employee has stayed six months"
+        ],
+        "answerIndex": 3,
+        "explanation": "Employers pay 'only after a placement has lasted six months'."
+      },
+      {
+        "prompt": "Why do candidates typically see only a few vacancies?",
+        "category": "inference",
+        "choices": [
+          "The agency receives few vacancies from manufacturers",
+          "Roles are filtered against both interview answers",
+          "Candidates are limited to one position per week",
+          "The agency refuses to advertise most positions"
+        ],
+        "answerIndex": 1,
+        "explanation": "Candidates are shown only vacancies that fit both interview answers, so they see four or five rather than forty."
+      }
+    ]
+  }
+]
