@@ -1,0 +1,482 @@
+[
+  {
+    "id": "p7-285",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The hidden price of cheap furniture",
+        "text": "Flat-pack furniture transformed domestic life by making a decent bookcase affordable to almost anyone. Yet a growing number of designers and repairers argue that this convenience has come at a cost that no price tag records: a generation of objects built to be assembled once and discarded when the household moves.\n\nThe problem, they say, lies in the materials. Most low-cost shelves and wardrobes are made of compressed wood particles covered with a thin printed film. They hold together well enough in the first year, but the fixings, which bite directly into the board, loosen each time the piece is dismantled, and a second assembly is seldom as firm as the first. Repair is rarely worth the effort, since a replacement costs less than the glue and screws required to mend the original.\n\nManufacturers reply that they are responding to demand, and that customers who want solid timber can find it, at three times the price. Some have introduced take-back schemes, though a study found that fewer than one in ten buyers had ever used one. Campaigners now argue for a legal requirement that spare parts be stocked for a minimum period, a measure that would, in their view, shift the economics of repair without banning anything."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the central argument of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Solid timber is always superior to modern board",
+          "Flat-pack designs are too complicated to assemble",
+          "Cheap furniture is thrown out, not repaired",
+          "Furniture makers refuse to offer any recycling"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article says cheap pieces loosen when moved and are cheaper to replace than to mend."
+      },
+      {
+        "prompt": "Why is a second assembly weaker than the first?",
+        "category": "detail",
+        "choices": [
+          "Fixings loosen each time it is dismantled",
+          "The printed film peels off on the first move",
+          "The manufacturers supply too few screws in each pack",
+          "Wood particles shrink after about a year"
+        ],
+        "answerIndex": 0,
+        "explanation": "Fixings 'bite directly into the board' and loosen with each dismantling."
+      },
+      {
+        "prompt": "What does the study of take-back schemes suggest?",
+        "category": "inference",
+        "choices": [
+          "Most buyers return their furniture within a year",
+          "Manufacturers have cancelled the schemes",
+          "Customers prefer timber to compressed board",
+          "The schemes have had little effect so far"
+        ],
+        "answerIndex": 3,
+        "explanation": "Fewer than one in ten buyers had ever used one."
+      },
+      {
+        "prompt": "What is the campaigners' proposal designed to do?",
+        "category": "inference",
+        "choices": [
+          "Ban the sale of compressed wood outright",
+          "Make repair more appealing without a ban",
+          "Force makers to cut the price of timber",
+          "Require every buyer to use take-back schemes"
+        ],
+        "answerIndex": 1,
+        "explanation": "A spare-parts requirement would shift the economics of repair 'without banning anything'."
+      }
+    ]
+  },
+  {
+    "id": "p7-286",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Following up on the interview for the Operations Analyst role",
+        "text": "To: Roland Eastwick, Hiring Manager\nFrom: Nadia Petrov\nSubject: Following up on Thursday's interview\n\nDear Mr. Eastwick,\n\nThank you for taking the time to meet me on Thursday and for the candid way in which you described the department's current difficulties. I left the interview with a clearer sense of the role than the advertisement had given me, and with even greater interest in it.\n\nThere is one point in our conversation that I should like to revisit. When you asked how I would handle a team that resisted changes to its reporting system, I answered, I think, too quickly and in general terms. On reflection, I would begin by asking the staff which parts of the existing system they rely on and why, since resistance of this kind often signals that the new design has overlooked a real need. At my previous employer, such a conversation led us to keep one report that the planners found indispensable, and the rest of the transition went smoothly.\n\nI should also mention that I have received another offer, which I must answer by 22 November. I would not wish to pressure you, and I understand that your process has its own timetable, but I would be grateful for any indication of when you expect to reach a decision.\n\nWith best regards,\nNadia Petrov"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Ms. Petrov's main reason for writing?",
+        "category": "purpose",
+        "choices": [
+          "To decline the position after the interview",
+          "To develop an earlier answer and ask for a date",
+          "To complain about the way the interview was run",
+          "To request a change to the salary offered"
+        ],
+        "answerIndex": 1,
+        "explanation": "She revisits her answer on team resistance and asks when a decision is expected."
+      },
+      {
+        "prompt": "What would she do first with a resistant team?",
+        "category": "detail",
+        "choices": [
+          "Replace the reporting system immediately",
+          "Report the resistance to the department head",
+          "Offer the team a longer training course",
+          "Ask which current features the staff rely on"
+        ],
+        "answerIndex": 3,
+        "explanation": "She would begin by asking staff which parts of the system they rely on and why."
+      },
+      {
+        "prompt": "What does she suggest about resistance to change?",
+        "category": "inference",
+        "choices": [
+          "It may reveal a need that the new design ignored",
+          "It usually comes from a fear of losing jobs",
+          "It is rare among well-trained employees",
+          "It can be avoided by explaining the plan earlier"
+        ],
+        "answerIndex": 0,
+        "explanation": "Resistance 'often signals that the new design has overlooked a real need'."
+      },
+      {
+        "prompt": "Why does she mention another offer?",
+        "category": "inference",
+        "choices": [
+          "To threaten to withdraw her application now",
+          "To negotiate a higher salary right away",
+          "To explain why a quick decision would help",
+          "To compare the two employers' policies"
+        ],
+        "answerIndex": 2,
+        "explanation": "She must answer by 22 November and would be grateful for an indication of timing, without wishing to pressure."
+      }
+    ]
+  },
+  {
+    "id": "p7-287",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Proposal to consolidate the regional warehouses",
+        "text": "MEMORANDUM\nTo: Executive Committee\nFrom: Joaquim Brandão, Director of Logistics\nSubject: Proposal to consolidate the northern warehouses\n\nI propose that we close the warehouses at Linwood and Carrick and move their stock to an enlarged facility at Dunmore. The current arrangement, which dates from a time when our northern customers were served by road alone, no longer reflects how orders are placed or delivered.\n\nThe case rests on three figures. First, the three sites together hold nearly forty percent more inventory than the volume of orders justifies, because each keeps its own safety stock. Second, the cost of transferring items between sites has risen by a quarter in two years. Third, Dunmore alone sits beside the new rail terminal, which would cut average delivery time to our largest customers by about a day.\n\nI should be candid about the risks. Consolidation would concentrate our stock in a single location, and a fire or flood at Dunmore would affect every northern customer at once. I suggest that we mitigate this by retaining a small reserve at Carrick for the fastest-moving items. The saving from closing Linwood alone would cover this reserve many times over.\n\nI would welcome the committee's guidance before presenting the proposal to the board in March."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the memo's main purpose?",
+        "category": "purpose",
+        "choices": [
+          "To announce the closure of the rail terminal",
+          "To report a fire at the Dunmore facility",
+          "To request approval for a new road network",
+          "To recommend merging three sites into one"
+        ],
+        "answerIndex": 3,
+        "explanation": "The director proposes closing Linwood and Carrick and expanding Dunmore."
+      },
+      {
+        "prompt": "Why do the three sites hold excess inventory?",
+        "category": "detail",
+        "choices": [
+          "Orders from northern customers have dropped",
+          "Each site keeps its own emergency stock",
+          "The rail terminal delays deliveries",
+          "Transfers between sites are forbidden"
+        ],
+        "answerIndex": 1,
+        "explanation": "Each keeps its own safety stock, so inventory exceeds what orders justify."
+      },
+      {
+        "prompt": "What does the director imply about Dunmore?",
+        "category": "inference",
+        "choices": [
+          "It is cheaper to run than the other two sites",
+          "It already holds most of the northern stock",
+          "Its site gives faster access to key clients",
+          "It is better protected against fire and floods"
+        ],
+        "answerIndex": 2,
+        "explanation": "Dunmore sits beside the new rail terminal, cutting delivery time to the largest customers by about a day."
+      },
+      {
+        "prompt": "What is the purpose of the reserve at Carrick?",
+        "category": "inference",
+        "choices": [
+          "To limit the damage if Dunmore closed",
+          "To store the items that sell slowly",
+          "To serve more of the customers in the south",
+          "To replace transfers between the sites"
+        ],
+        "answerIndex": 0,
+        "explanation": "A small reserve of fast-moving items at Carrick mitigates the risk of concentrating stock at one site."
+      }
+    ]
+  },
+  {
+    "id": "p7-288",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Linden Hall: a residential course in manuscript conservation",
+        "text": "For six days in September, Linden Hall will host a residential course in the conservation of paper and parchment manuscripts, taught by specialists from three national libraries. The course is designed for archivists, librarians and private collectors who already handle fragile documents and wish to learn how to preserve them properly, without making the common mistakes that have damaged so many collections.\n\nParticipants work in a fully equipped laboratory, with a maximum of twelve in each group so that every person receives individual attention. The morning sessions cover the chemistry of ink and the causes of deterioration; the afternoons are devoted to practical work, including cleaning, mending tears and constructing protective enclosures. Evenings are free, though many participants choose to join the informal discussions in the library after dinner.\n\nThe fee includes accommodation in the Hall's restored east wing, all meals and materials. Travel is not included. Those who need financial help may apply for one of four bursaries, funded by a charitable trust, which cover up to half the fee. Applicants should send a brief description of the collection in their care by 15 June. Because places are limited and past courses have been oversubscribed, we advise early application, though we cannot offer refunds after 1 August."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the advertisement?",
+        "category": "main_idea",
+        "choices": [
+          "To promote a practical course on old documents",
+          "To sell restored manuscripts to private collectors",
+          "To announce the opening of a new national library",
+          "To recruit laboratory staff for Linden Hall now"
+        ],
+        "answerIndex": 0,
+        "explanation": "The ad promotes a six-day conservation course for those who handle fragile documents."
+      },
+      {
+        "prompt": "How are the afternoons spent?",
+        "category": "detail",
+        "choices": [
+          "In long lectures about the chemistry of ink",
+          "In visits to the three national libraries",
+          "In hands-on work like cleaning and mending",
+          "In informal talks in the library"
+        ],
+        "answerIndex": 2,
+        "explanation": "Afternoons are devoted to practical work including cleaning, mending tears and building enclosures."
+      },
+      {
+        "prompt": "What can be inferred about the group size?",
+        "category": "inference",
+        "choices": [
+          "It is increased when demand is very high",
+          "It is limited so teaching can be personal",
+          "It depends on the number of bursaries",
+          "It is restricted by the size of the library hall"
+        ],
+        "answerIndex": 1,
+        "explanation": "A maximum of twelve per group ensures 'individual attention'."
+      },
+      {
+        "prompt": "Which statement is NOT true?",
+        "category": "not_true",
+        "choices": [
+          "Bursaries may cover up to half of the fee",
+          "Lodging is in a restored east wing",
+          "Refunds are no longer given after 1 August",
+          "The fee covers travel to the Hall"
+        ],
+        "answerIndex": 3,
+        "explanation": "The ad says 'Travel is not included'."
+      }
+    ]
+  },
+  {
+    "id": "p7-289",
+    "documents": [
+      {
+        "type": "review",
+        "title": "A sequel that trusts its audience",
+        "text": "The second novel in Marta Iglesias's trilogy about a family of shipbuilders arrives with a considerable burden, since the first won two major prizes and sold in the millions. It is to the author's credit that she makes no attempt to repeat herself. Where the earlier book was crowded with incident, this one is quiet, even austere, built around a single winter in which the youngest son returns from abroad to find the yard on the edge of bankruptcy.\n\nThe result is a book of rare patience. Iglesias allows scenes to run long, so that a conversation about a delayed order becomes, without any announcement, a portrait of two generations that cannot understand one another. Her prose, which in the first volume sometimes strained for effect, is here plain and exact. The ending, in which nothing is resolved, will frustrate readers who expect a tidy conclusion, but it is true to the book's logic.\n\nIf there is a fault, it lies in the secondary characters, several of whom are sketched so lightly that it is difficult to recall them from chapter to chapter. The yard foreman, in particular, who might have anchored the book's account of working life, is allowed to fade. These are real weaknesses, yet they do not diminish the achievement of a novelist who has chosen restraint over repetition."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's main opinion?",
+        "category": "main_idea",
+        "choices": [
+          "The sequel repeats the first book's best scenes again",
+          "The trilogy should have ended with the first novel",
+          "The sequel is a restrained, bold departure",
+          "The sequel is far too crowded with action"
+        ],
+        "answerIndex": 2,
+        "explanation": "The review praises the quiet, patient book that avoids repeating the first."
+      },
+      {
+        "prompt": "What is said about the ending?",
+        "category": "detail",
+        "choices": [
+          "It leaves matters open, which may disappoint some",
+          "It reveals the final fate of the yard foreman",
+          "It resolves every conflict in the family at last",
+          "It returns to the setting of the first book itself"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Nothing is resolved', which 'will frustrate readers who expect a tidy conclusion'."
+      },
+      {
+        "prompt": "What is implied about the first novel?",
+        "category": "inference",
+        "choices": [
+          "It received no prizes outside the author's country",
+          "It was written about a different family",
+          "It had a plain and exact style throughout",
+          "It was more eventful and less controlled in style"
+        ],
+        "answerIndex": 3,
+        "explanation": "The first was 'crowded with incident' and its prose 'sometimes strained for effect'."
+      },
+      {
+        "prompt": "What weakness does the reviewer identify?",
+        "category": "inference",
+        "choices": [
+          "The conversations are too short to matter much",
+          "Minor figures are thinly drawn, the foreman too",
+          "The plot is too complicated for readers to follow",
+          "The setting is unconvincing in several places there"
+        ],
+        "answerIndex": 1,
+        "explanation": "Several secondary characters are lightly sketched, and the foreman is allowed to fade."
+      }
+    ]
+  },
+  {
+    "id": "p7-290",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter from a city council on a planning decision",
+        "text": "Dear Resident,\n\nI am writing on behalf of the Planning Committee to inform you of the decision taken at its meeting on 8 July regarding the proposed development at the former Corrigan tannery, which you were kind enough to comment on during the consultation.\n\nThe committee has granted permission for the construction of ninety-six flats on the site, subject to conditions. The most significant of these requires the developer to build a new pedestrian crossing on Mill Lane and to contribute to a fund for local school places. A proposal to include a six-story tower, which attracted the largest number of objections, was withdrawn by the applicant before the meeting, and the approved buildings do not exceed four stories.\n\nI recognize that some residents had hoped for a lower number of dwellings. The committee considered this carefully, but concluded that a smaller scheme would not have provided the affordable homes that the council is required to deliver under its plan, a quarter of which are included in the present application.\n\nIf you believe that the decision was reached improperly, you may ask the Planning Inspectorate to review it within six months. A leaflet explaining this procedure is enclosed. I should stress that an appeal on the grounds of disagreement alone will not succeed.\n\nYours faithfully,\nGwen Pritchard, Planning Officer"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why is the council writing to the resident?",
+        "category": "purpose",
+        "choices": [
+          "To invite objections to a new proposal",
+          "To report a decision on planning",
+          "To announce the demolition of the old tannery",
+          "To request payment into a school fund"
+        ],
+        "answerIndex": 1,
+        "explanation": "The letter informs the resident of the committee's decision on 8 July."
+      },
+      {
+        "prompt": "What happened to the six-story tower?",
+        "category": "detail",
+        "choices": [
+          "The committee refused it after a close vote",
+          "It was cut to four stories by the council",
+          "It was approved subject to a new crossing",
+          "The applicant dropped it before the meeting"
+        ],
+        "answerIndex": 3,
+        "explanation": "It was withdrawn by the applicant before the meeting."
+      },
+      {
+        "prompt": "Why did the committee reject a smaller scheme?",
+        "category": "inference",
+        "choices": [
+          "It would lack the required affordable homes",
+          "It would increase traffic along Mill Lane itself",
+          "It would take far too long to build",
+          "It would cost the council far too much"
+        ],
+        "answerIndex": 0,
+        "explanation": "A smaller scheme 'would not have provided the affordable homes' the council must deliver."
+      },
+      {
+        "prompt": "What can be inferred about appeals?",
+        "category": "inference",
+        "choices": [
+          "They are accepted if residents object",
+          "They can be made at any time at all",
+          "They must rest on a flaw in the process",
+          "They are decided by the Planning Committee"
+        ],
+        "answerIndex": 2,
+        "explanation": "An appeal on grounds of disagreement alone will not succeed, so a procedural fault is needed."
+      }
+    ]
+  },
+  {
+    "id": "p7-291",
+    "documents": [
+      {
+        "type": "form",
+        "title": "Feedback form: Harbor Street Clinic, with a patient's comments",
+        "text": "HARBOR STREET CLINIC — PATIENT FEEDBACK\nDate of visit: 12 March    Department: Physiotherapy\nOverall experience (1 = poor, 5 = excellent): 3\n\nReception and booking: 2\nComments: The online booking system offered me a slot on Tuesday but, when I arrived, I was told that the appointment had been cancelled two days earlier. No one had contacted me. I was seen only because a therapist had a free half hour.\n\nClinical care: 5\nComments: Ms. Aldous, my physiotherapist, was outstanding. She explained the cause of my injury, showed me exercises and wrote them down. I have already seen an improvement.\n\nFacilities: 4\nComments: Clean and well lit, although the waiting room had only six chairs for what looked like twice as many patients.\n\nWould you recommend us to a friend? Yes, with reservations about the booking process.\n\nFor official use: Reviewed by P. Dunmore, 15 March. Referred to Reception Manager. Response to patient pending."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the patient's main criticism?",
+        "category": "main_idea",
+        "choices": [
+          "The therapist gave unclear exercise instructions",
+          "The clinic was dirty and poorly lit throughout",
+          "The treatment did not improve his injury at all",
+          "Booking failed to warn him of a cancellation"
+        ],
+        "answerIndex": 3,
+        "explanation": "The appointment had been cancelled two days earlier with no notice."
+      },
+      {
+        "prompt": "Why was the patient seen on that day?",
+        "category": "detail",
+        "choices": [
+          "The reception manager intervened personally",
+          "A therapist happened to have a free half hour",
+          "He had arrived early for another slot that day",
+          "The cancellation was found to be a clerical mistake"
+        ],
+        "answerIndex": 1,
+        "explanation": "He was seen only because a therapist had a free half hour."
+      },
+      {
+        "prompt": "What can be inferred about the overall rating of 3?",
+        "category": "inference",
+        "choices": [
+          "It reflects dissatisfaction with the facilities",
+          "It shows he plans not to return to the clinic",
+          "It balances fine treatment against poor admin",
+          "It was given before the appointment was held"
+        ],
+        "answerIndex": 2,
+        "explanation": "Clinical care was 5 but reception was 2."
+      },
+      {
+        "prompt": "What does the official note indicate?",
+        "category": "inference",
+        "choices": [
+          "The complaint is passed on and unanswered",
+          "The patient has received an apology already",
+          "The booking system has been replaced already",
+          "The therapist is being formally investigated now"
+        ],
+        "answerIndex": 0,
+        "explanation": "It was referred to the Reception Manager and the response is pending."
+      }
+    ]
+  },
+  {
+    "id": "p7-292",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why translators fear the rise of automated subtitling",
+        "text": "Streaming platforms now release series in thirty languages on the same day, a feat made possible by software that produces a first draft of subtitles in seconds. For audiences, the benefit is obvious. For the professional translators who once did the work, the consequences are more ambiguous, and in some cases bleak.\n\nThe software is competent at plain speech but struggles with the things that make dialogue distinctive: puns, regional idiom, sarcasm and the rhythm of a joke. Human editors are therefore still hired, but they are paid to revise rather than to translate, at a rate that many describe as less than half of their former income. \"You end up correcting a machine that is confidently wrong,\" said one subtitler. \"It is slower than starting from nothing, but nobody will pay you for starting from nothing.\"\n\nStudios defend the practice as a necessary response to the volume of content. Yet some have noticed an unwelcome side effect: viewers have begun to complain that subtitles in different languages feel strangely alike, as though a single voice were speaking through them all. Several translators believe that this is a sign of what happens when judgment is replaced by revision, and they warn that something intangible is being lost."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "How machine-made subtitles affect translators",
+          "The growing number of languages on streaming sites",
+          "The invention of software that detects sarcasm",
+          "A dispute between studios and viewers over price"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article discusses how automation has changed translators' pay and role."
+      },
+      {
+        "prompt": "What does the software find difficult?",
+        "category": "detail",
+        "choices": [
+          "Plain, everyday conversational speech",
+          "Releasing first drafts quickly",
+          "Wordplay, idiom and joke timing",
+          "Working in as many as thirty languages"
+        ],
+        "answerIndex": 2,
+        "explanation": "It struggles with puns, regional idiom, sarcasm and rhythm of jokes."
+      },
+      {
+        "prompt": "What does the subtitler's remark suggest?",
+        "category": "inference",
+        "choices": [
+          "Software has made subtitles far more accurate overall",
+          "Fixing weak drafts can take longer than a fresh start",
+          "Editors prefer working alongside machines",
+          "Studios will stop hiring any translators very soon"
+        ],
+        "answerIndex": 1,
+        "explanation": "Correcting a confidently wrong machine is slower than starting from nothing."
+      },
+      {
+        "prompt": "What do some translators think explains viewers' complaints?",
+        "category": "inference",
+        "choices": [
+          "Studios have cut the number of languages offered",
+          "Viewers prefer subtitles in only one language",
+          "Dialogue has become simpler in most recent series",
+          "Revising drafts yields a uniform style"
+        ],
+        "answerIndex": 3,
+        "explanation": "They see it as what happens when judgment is replaced by revision."
+      }
+    ]
+  }
+]
