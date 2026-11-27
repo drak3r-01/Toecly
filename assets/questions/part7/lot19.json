@@ -1,0 +1,264 @@
+[
+  {
+    "id": "p7-247",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The paradox of the paperless audit",
+        "text": "When the Hallam Group announced that its annual audit would be conducted entirely on digital records, the finance director described it as the natural conclusion of a decade-long migration away from paper. Eighteen months later, the verdict from within the department is considerably more equivocal. Although the volume of physical archives has fallen by roughly ninety percent, accountants report that the time required to prepare for an audit has barely diminished.\n\nThe explanation, according to senior analyst Thandiwe Moyo, lies in the fragmentation of the data. \"Paper had an inconvenient virtue,\" she says. \"A folder contained everything about a transaction, whether we wanted it to or not.\" Digital systems, by contrast, store invoices, approvals and correspondence in separate repositories, each with its own naming conventions. Reconstructing a single purchase may therefore require consulting four applications, and auditors, who must be satisfied that nothing has been altered after the fact, insist on seeing the metadata as well as the documents themselves.\n\nThe company has responded by commissioning a unified archive, scheduled to enter service next spring. Skeptics within the department caution that such projects frequently overrun, and that staff may have to maintain two parallel systems for some time. Ms. Moyo is philosophical: \"We did not remove the work. We moved it to a place where it is harder to see.\""
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main point of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Auditors now distrust any record that is stored electronically",
+          "A firm plans to scrap its archive and rely on a supplier",
+          "Digitizing has moved the audit workload, not cut it",
+          "Staff resisted a change that finance chiefs had approved"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article reports that although paper archives shrank, preparation time barely fell because data is now scattered; 'We did not remove the work. We moved it to a place where it is harder to see.'"
+      },
+      {
+        "prompt": "What does Ms. Moyo mean by describing paper as having an \"inconvenient virtue\"?",
+        "category": "inference",
+        "choices": [
+          "Physical files forced related documents to stay together",
+          "Paper records were easier to alter after an audit",
+          "Printed folders were quicker to produce than digital ones",
+          "Accountants preferred paper for its lower cost of storage"
+        ],
+        "answerIndex": 0,
+        "explanation": "She says a folder 'contained everything about a transaction, whether we wanted it to or not', so paper kept related items together even when that was inconvenient; digital systems separate them."
+      },
+      {
+        "prompt": "The word \"equivocal\" in the first paragraph is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "hostile",
+          "enthusiastic",
+          "predictable",
+          "mixed"
+        ],
+        "answerIndex": 3,
+        "explanation": "The verdict is described as 'considerably more equivocal' than the director's enthusiastic announcement, while the figures show gains and disappointments together, so 'mixed' fits."
+      },
+      {
+        "prompt": "What can be inferred about the planned unified archive?",
+        "category": "inference",
+        "choices": [
+          "It will make the metadata unnecessary for auditors",
+          "Its gains may arrive later than the firm hopes",
+          "It has already been delayed by a supplier's dispute",
+          "It will be used only by the finance director's team"
+        ],
+        "answerIndex": 1,
+        "explanation": "Skeptics note that such projects 'frequently overrun' and that two parallel systems may have to be kept 'for some time', so the gains may be postponed."
+      }
+    ]
+  },
+  {
+    "id": "p7-248",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Reallocation of the regional innovation fund",
+        "text": "To: Programme leads, Northern Region\nFrom: Esther Lindqvist, Head of Strategy\nRe: Revised allocation criteria for the Innovation Fund\n\nFollowing the review conducted by the external panel in September, the Board has agreed to modify the way in which the Innovation Fund is distributed, with effect from the next funding cycle. Until now, awards were made primarily on the strength of the proposal itself. The panel found that this approach favored organisations with dedicated grant-writing staff, which tend to be larger and better established, and it recommended that evidence of local need carry equal weight.\n\nApplicants will therefore be asked to submit, alongside their proposal, a short statement from at least two partner bodies confirming that the project addresses a documented gap. Proposals that cannot demonstrate such support will not be rejected outright but will be scored lower. A separate, simplified route, capped at 15,000 euros, will be introduced for groups with fewer than five employees; these applications will be assessed in a single stage and decisions communicated within six weeks.\n\nWe are aware that the changes may be perceived as increasing the administrative burden. To mitigate this, a series of information workshops will be held in November, and templates for the partner statements will be circulated by the end of the month. Programme leads are asked to encourage prospective applicants to attend and to report any difficulties they encounter, so that the Board can refine the criteria before the following cycle."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the memo?",
+        "category": "purpose",
+        "choices": [
+          "To announce that the Fund has been suspended pending a review",
+          "To explain how awards from the Fund will now be made",
+          "To request fresh proposals from larger and established bodies",
+          "To report the findings of an outside panel to the public"
+        ],
+        "answerIndex": 1,
+        "explanation": "The memo explains that, following the panel's review, the Board is modifying 'the way in which the Innovation Fund is distributed' and describes the new criteria and routes."
+      },
+      {
+        "prompt": "Why did the panel recommend giving weight to local need?",
+        "category": "detail",
+        "choices": [
+          "Smaller groups had stopped applying to the Fund altogether",
+          "Proposals from partner bodies were of a higher standard",
+          "The Board wished to reduce the total number of awards",
+          "Old criteria favored better-resourced organizations"
+        ],
+        "answerIndex": 3,
+        "explanation": "The panel found the proposal-only approach 'favored organisations with dedicated grant-writing staff', which are larger and better established."
+      },
+      {
+        "prompt": "What is implied about an applicant that cannot produce partner statements?",
+        "category": "inference",
+        "choices": [
+          "It may still apply but will probably score lower",
+          "It will be directed to the simplified route automatically",
+          "It must wait for the following cycle to submit a bid",
+          "It will be asked to attend the November workshops first"
+        ],
+        "answerIndex": 0,
+        "explanation": "Such proposals 'will not be rejected outright but will be scored lower', so applying remains possible with a disadvantage."
+      },
+      {
+        "prompt": "Which statement about the simplified route is NOT supported by the memo?",
+        "category": "not_true",
+        "choices": [
+          "It is limited to awards of up to 15,000 euros",
+          "It is intended for groups with a very small staff",
+          "It requires two rounds of assessment",
+          "It should yield a decision within about six weeks"
+        ],
+        "answerIndex": 2,
+        "explanation": "The memo says these applications 'will be assessed in a single stage', so a two-stage process contradicts it."
+      }
+    ]
+  },
+  {
+    "id": "p7-249",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Review: \"Margins of Error\", by Callum Whitby",
+        "text": "Callum Whitby's study of forecasting failures in public finance arrives at a moment when its central argument could hardly be more timely, and it is a pity that the book does not always do justice to it. Whitby's thesis is that treasuries rarely err because their models are crude; they err because the people who commission forecasts are quietly rewarded for optimism. The case studies, which range from a delayed rail link to a pension reform that cost twice its estimate, are meticulously researched and, in the best chapters, as gripping as a legal drama.\n\nWhere the book falters is in its remedies. Having persuaded us that incentives rather than technique are to blame, Whitby proposes little more than independent forecasting bodies, an idea so familiar that it barely warrants a chapter. Nor does he confront the obvious objection that such bodies depend on the goodwill of the very governments they are meant to restrain. A single paragraph acknowledging the difficulty is all the reader gets.\n\nNone of this makes the book dispensable. The prose is lucid, the footnotes generous, and the middle chapters alone justify the price. Readers seeking a practical blueprint for reform will be disappointed; those who want to understand why official numbers so often prove too good to be true will not."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall assessment of the book?",
+        "category": "main_idea",
+        "choices": [
+          "A flawed analysis redeemed by its comprehensive solutions",
+          "An accessible summary that adds little to existing work",
+          "A dry technical manual intended for experienced forecasters",
+          "A persuasive diagnosis undermined by thin proposals"
+        ],
+        "answerIndex": 3,
+        "explanation": "The reviewer praises the research and argument ('meticulously researched') but says the book falters in its remedies, which are 'little more than' a familiar idea."
+      },
+      {
+        "prompt": "What is suggested about Whitby's treatment of independent forecasting bodies?",
+        "category": "inference",
+        "choices": [
+          "He argues that they have never improved a forecast",
+          "He glosses over their reliance on governments",
+          "He treats the idea as new and untested in other countries",
+          "He insists that treasuries should be abolished altogether"
+        ],
+        "answerIndex": 1,
+        "explanation": "The reviewer notes he does not confront 'the obvious objection' that such bodies rely on the goodwill of the governments they restrain, giving it only 'a single paragraph'."
+      },
+      {
+        "prompt": "The phrase \"too good to be true\" in the final paragraph most nearly means",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "unexpectedly generous",
+          "carefully documented",
+          "unrealistically rosy",
+          "politically neutral"
+        ],
+        "answerIndex": 2,
+        "explanation": "The reviewer refers to official numbers that 'so often prove' misleading, and the book's thesis is that optimism is rewarded, so the figures are suspiciously favorable."
+      },
+      {
+        "prompt": "What does the reviewer imply about readers who want a practical reform plan?",
+        "category": "inference",
+        "choices": [
+          "They will find the book less useful than other readers do",
+          "They should read only the middle chapters of the book",
+          "They are likely to disagree with the author's thesis",
+          "They will prefer a book written by a former treasury official"
+        ],
+        "answerIndex": 0,
+        "explanation": "The reviewer says such readers 'will be disappointed', whereas those wanting to understand the problem 'will not'."
+      }
+    ]
+  },
+  {
+    "id": "p7-250",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Head of Compliance, Veridian Capital (Frankfurt)",
+        "text": "Veridian Capital, a mid-sized asset manager with approximately 140 staff across three European offices, seeks a Head of Compliance to lead a team of six. Reporting directly to the Chief Operating Officer, you will oversee regulatory reporting, monitor adherence to conduct rules and act as the firm's principal contact with the supervisory authority.\n\nWe are looking for a qualified lawyer or equivalent with at least eight years' experience in financial services compliance, of which three should have been in a leadership capacity. Fluency in English and German is essential. Candidates must exercise judgement where regulation is ambiguous and explain their reasoning to colleagues who may find it inconvenient.\n\nThe post carries a salary of 120,000 to 140,000 euros plus a discretionary bonus. Applications should be sent to recruitment@veridian.example by 28 February. Shortlisted candidates will be asked to present on a regulatory challenge they have resolved."
+      },
+      {
+        "type": "letter",
+        "title": "Letter from Dr. Annika Fuchs",
+        "text": "Dear Ms. Albrecht,\n\nI am writing to apply for the position of Head of Compliance. I qualified as a lawyer in 2013 and have since worked in compliance at two institutions, most recently as deputy head at Brandt Bank, where I have supervised a team of four since 2020. My duties include liaison with the supervisory authority, and I led the bank's response to an inspection last year, which concluded without formal findings.\n\nI should be candid about two points. Although I speak English fluently, I have used German only occasionally in my professional life, since the bank's working language is English. Moreover, I have never prepared an institution for a new regime from scratch, although I contributed to implementing the current one.\n\nI would be pleased to give the presentation you describe on the inspection I mentioned.\n\nYours sincerely,\nAnnika Fuchs"
+      },
+      {
+        "type": "email",
+        "title": "Re: Application, Head of Compliance",
+        "text": "Dear Dr. Fuchs,\n\nThank you for your application. Your candor about the language question was appreciated; as most of our clients are based in Germany, however, the ability to work comfortably in German is not negotiable, and the panel would like to understand how you propose to close the gap. We would be pleased to meet you on 14 March, and we suggest that you bring a short plan for the first six months, in addition to the presentation.\n\nKindly confirm your availability by 7 March.\n\nKind regards,\nIlse Albrecht, Head of Human Resources"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does the exchange suggest about Dr. Fuchs's candidacy?",
+        "category": "inference",
+        "choices": [
+          "She is viewed as promising but must resolve a language shortfall",
+          "She is expected to be rejected because of her limited experience",
+          "She has already been offered the post subject to a plan",
+          "She has been asked to apply instead for a team leader role"
+        ],
+        "answerIndex": 0,
+        "explanation": "The panel appreciated her candor but says German ability is 'not negotiable' and asks how she will 'close the gap', so the candidacy continues with a condition."
+      },
+      {
+        "prompt": "Which requirement in the advertisement does Dr. Fuchs's letter most directly address by describing the inspection?",
+        "category": "inference",
+        "choices": [
+          "The need to explain reasoning to reluctant colleagues",
+          "The expectation of at least eight years in compliance",
+          "Acting as the firm's contact with the regulator",
+          "The demand for experience of a relocation abroad"
+        ],
+        "answerIndex": 2,
+        "explanation": "The advertisement stresses acting as 'principal contact with the supervisory authority'; her inspection response shows liaison with a regulator."
+      },
+      {
+        "prompt": "How does the team Dr. Fuchs currently leads compare with the one she would manage?",
+        "category": "detail",
+        "choices": [
+          "It is twice as large as the one at Veridian",
+          "It is smaller than the advertised team",
+          "It is of the same size as the one at Veridian",
+          "It covers more offices than the Veridian team"
+        ],
+        "answerIndex": 1,
+        "explanation": "The advertisement describes a team of six, whereas the letter says she has supervised a team of four."
+      },
+      {
+        "prompt": "Which combination of documents explains why a presentation on the inspection is appropriate?",
+        "category": "inference",
+        "choices": [
+          "The reply requires a plan that the letter does not mention",
+          "The letter requests a longer interview than the advertisement allows",
+          "The advertisement forbids candidates from discussing past employers",
+          "The ad requests a solved regulatory challenge, which she offers"
+        ],
+        "answerIndex": 3,
+        "explanation": "The ad says shortlisted candidates present on a regulatory challenge they have resolved; her letter offers the inspection, and the reply confirms a presentation."
+      },
+      {
+        "prompt": "What do the documents together show about the timeline of the process?",
+        "category": "inference",
+        "choices": [
+          "The interview precedes the closing date for applying",
+          "The reply was sent before the vacancy was advertised",
+          "The interview comes after the application deadline",
+          "The presentation will be given before the interview"
+        ],
+        "answerIndex": 2,
+        "explanation": "The advertisement sets 28 February as the deadline for applications, and the reply invites her to meet on 14 March, so the interview comes after the deadline."
+      }
+    ]
+  }
+]

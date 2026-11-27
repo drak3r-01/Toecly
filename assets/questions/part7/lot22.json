@@ -1,0 +1,204 @@
+[
+  {
+    "id": "p7-258",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Hospital pilot tests a four-hour appointment guarantee",
+        "text": "A regional hospital trust has begun a pilot in which patients referred by their family doctors for suspected heart conditions are promised a specialist assessment within four hours of arrival, rather than the several days that has been customary. The scheme, funded for one year by a charitable foundation, has been welcomed by clinicians, though some of them privately wonder whether the gains can be sustained once the novelty fades.\n\nThe model rests on a deliberate reorganization of the clinic. Instead of scheduling tests sequentially, so that a patient waits for one result before the next is ordered, staff now arrange the scan, blood tests and consultation to occur in parallel. Dr. Leila Haddad, who devised the approach, estimates that this removes roughly three quarters of the idle time that patients experience. Equally important, she says, is a change in attitude: \"We used to treat waiting as the patient's problem. Now it is ours.\"\n\nNot everyone is persuaded. Administrators point out that the pilot has been staffed by volunteers from other departments, a luxury that a permanent service could not count on. Early figures show that ninety-two percent of patients were seen within the target, but the trust has not yet disclosed how many referrals were turned away because the clinic was full. Until that number is known, one senior manager cautioned, the results should be read with care."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main point of the article?",
+        "category": "main_idea",
+        "choices": [
+          "A charity has taken over the running of a local hospital",
+          "Doctors have rejected a plan to reduce their waiting lists",
+          "A quicker clinic model looks hopeful but is unproven",
+          "A new scanner has cut the cost of heart treatment"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article describes encouraging early results of the four-hour pilot while noting doubts about staffing and undisclosed rejections."
+      },
+      {
+        "prompt": "According to Dr. Haddad, what made the biggest difference?",
+        "category": "inference",
+        "choices": [
+          "Running several tests together, not one by one",
+          "Hiring extra specialists from outside the trust",
+          "Telling patients to arrive earlier than before",
+          "Asking family doctors to order the scans first"
+        ],
+        "answerIndex": 0,
+        "explanation": "Tests were rearranged 'to occur in parallel', which she says removes about three quarters of idle time."
+      },
+      {
+        "prompt": "Why do the administrators doubt the pilot's permanence?",
+        "category": "detail",
+        "choices": [
+          "It was approved only for a single hospital ward",
+          "It relies on money that the trust has not received",
+          "It has been criticized by the foundation funding it",
+          "It depends on staff lent from other departments"
+        ],
+        "answerIndex": 3,
+        "explanation": "The pilot has been staffed by volunteers from other departments, 'a luxury that a permanent service could not count on'."
+      },
+      {
+        "prompt": "What does the manager's caution imply about the ninety-two percent figure?",
+        "category": "inference",
+        "choices": [
+          "It was calculated before the pilot began operating",
+          "It may flatter the scheme by hiding refusals",
+          "It refers only to patients with minor conditions",
+          "It proves that the target has been exceeded"
+        ],
+        "answerIndex": 1,
+        "explanation": "The trust 'has not yet disclosed how many referrals were turned away because the clinic was full', so the figure might look better than the whole picture."
+      }
+    ]
+  },
+  {
+    "id": "p7-259",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Concerning the proposed redesign of the loyalty scheme",
+        "text": "To: Marketing Leadership Team\nFrom: Gideon Achterberg, Customer Analytics\nSubject: Loyalty scheme: evidence on the tiered redesign\n\nDear all,\n\nBefore we commit to the tiered redesign discussed on Monday, I should like to share some findings that complicate the argument for it. The proposal rests on the premise that our most active members would spend more if offered a higher status. Our data, drawn from the two years since the pilot in the Southern region, does not clearly support this. Members who reached the top tier did increase their spending, but a comparison with similar members who narrowly missed the threshold shows a difference of only three percent, well within the margin of error.\n\nWhat the pilot did produce was a sharp rise in the number of members who stopped shopping once they had secured their status, a pattern that, in retrospect, is not surprising. [A] Moreover, support calls related to the scheme rose by almost a third, which has a cost that the original business case did not take into account. [B]\n\nI am not suggesting that we abandon tiers, but I would urge us to test a lighter version, with a lower threshold and fewer perks, before a national launch. [C] A six-month trial in two regions would cost far less than reversing a mistake in twelve. [D]\n\nRegards,\nGideon"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Mr. Achterberg's main purpose in writing?",
+        "category": "purpose",
+        "choices": [
+          "To announce the results of a national launch",
+          "To urge care over a plan the data hardly supports",
+          "To propose an end to the loyalty scheme altogether",
+          "To request funds for a larger analytics team"
+        ],
+        "answerIndex": 1,
+        "explanation": "He shares findings that 'complicate the argument' for the tiered redesign and recommends testing a lighter version first."
+      },
+      {
+        "prompt": "What does the comparison with members who narrowly missed the threshold show?",
+        "category": "inference",
+        "choices": [
+          "Top-tier members spent far more than expected",
+          "Members near the threshold stopped shopping",
+          "The pilot results were unrelated to the region",
+          "Top status made little difference to spending"
+        ],
+        "answerIndex": 3,
+        "explanation": "The difference was 'only three percent, well within the margin of error'."
+      },
+      {
+        "prompt": "What does Mr. Achterberg imply about the original business case?",
+        "category": "inference",
+        "choices": [
+          "It left out an expense that arose from the scheme",
+          "It overestimated the number of members in the region",
+          "It was based on data from a different company",
+          "It rejected the idea of any type of tier"
+        ],
+        "answerIndex": 0,
+        "explanation": "Support calls rose by almost a third, 'a cost that the original business case did not take into account'."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Having reached the top tier, they appeared to have little reason to return.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence explains the pattern just described, namely members who stopped shopping once they had secured their status. It must come right after that sentence and before the discussion of support calls."
+      }
+    ]
+  },
+  {
+    "id": "p7-260",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Corvane Auctions: Terms of sale (extract)",
+        "text": "Buyers' premium: A premium of 22 percent of the hammer price is added to every lot sold, up to 100,000 dollars; above that figure the premium on the excess is 18 percent. Value-added tax applies to the premium only, at the standard rate of 10 percent, except for lots imported temporarily, on which tax is due on the full price.\n\nPayment and collection: Payment is due within seven days. Lots not collected within fourteen days will be transferred to storage at the buyer's expense, at a rate of 12 dollars per day for each lot. Corvane Auctions is not liable for damage occurring after the hammer falls, unless the lot is still on its premises and the damage results from negligence.\n\nCondition: All lots are sold as seen. Descriptions in the catalog represent an opinion and not a statement of fact; potential buyers are encouraged to inspect lots in person or to commission an independent report. Condition reports are provided on request without charge, but they are for guidance only and do not constitute a warranty."
+      },
+      {
+        "type": "email",
+        "title": "Query about the purchase of a clock",
+        "text": "Dear Corvane Auctions,\n\nI was the successful bidder on lot 214, a mantel clock, which fell at 8,000 dollars. I live abroad and shall need to arrange transport. Could you tell me the total I must pay, and whether I can leave the clock with you for two weeks before the carrier collects it? I also note that the catalog describes the movement as \"in working order\"; on arriving, it does not run. Do I have any recourse?\n\nYours faithfully,\nJulian Marsh"
+      },
+      {
+        "type": "email",
+        "title": "Re: Query about the purchase of a clock",
+        "text": "Dear Mr. Marsh,\n\nCongratulations on your purchase. The total, including the premium and the tax on the premium, is shown on the attached invoice and is payable by the seventh day. You may leave the clock with us for the fourteen days provided; beyond that, storage charges begin. As to its condition, the catalog description was an opinion and the lot was sold as seen, so I regret that we cannot treat the matter as a claim. Had you requested a condition report, it would not have changed this, but it might have alerted you to the problem. I would suggest consulting a specialist clockmaker, as repair is often straightforward.\n\nKind regards,\nRosa Aguilar, Client Services"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the total Mr. Marsh must pay?",
+        "category": "inference",
+        "choices": [
+          "9,760 dollars",
+          "10,736 dollars",
+          "9,936 dollars",
+          "8,176 dollars"
+        ],
+        "answerIndex": 2,
+        "explanation": "The premium is 22 percent of 8,000, which is 1,760, and tax applies to the premium only at 10 percent, which is 176. The total is 8,000 + 1,760 + 176 = 9,936; 9,760 omits the tax, 10,736 taxes the whole price and 8,176 omits the premium."
+      },
+      {
+        "prompt": "Why can Ms. Aguilar not treat the clock's condition as a claim?",
+        "category": "inference",
+        "choices": [
+          "The clock was damaged by the carrier after collection",
+          "Mr. Marsh failed to pay by the seventh day",
+          "The auction house is not responsible for any lot",
+          "Descriptions are opinions and lots are sold as seen"
+        ],
+        "answerIndex": 3,
+        "explanation": "The terms state that 'descriptions in the catalog represent an opinion' and lots are sold as seen, and Ms. Aguilar relies on exactly this."
+      },
+      {
+        "prompt": "What would Mr. Marsh pay if he left the clock for twenty days?",
+        "category": "inference",
+        "choices": [
+          "Charges for twenty days of storage",
+          "Charges for six days of storage",
+          "No charge, since he is based abroad",
+          "A fee for the condition report"
+        ],
+        "answerIndex": 1,
+        "explanation": "Fourteen days are free; storage then costs 12 dollars per day, so six days, 72 dollars."
+      },
+      {
+        "prompt": "How does Ms. Aguilar's mention of a condition report relate to the terms?",
+        "category": "inference",
+        "choices": [
+          "A report would have guaranteed the clock's working order",
+          "A report is mandatory for buyers who live overseas",
+          "A free report might warn him but gives no recourse",
+          "A report is provided only after the sale has closed"
+        ],
+        "answerIndex": 2,
+        "explanation": "Reports are 'for guidance only and do not constitute a warranty', and are free on request."
+      },
+      {
+        "prompt": "Which statement about the premium is supported by the terms and the e-mail?",
+        "category": "inference",
+        "choices": [
+          "It is a share of the price, taxed on its own",
+          "It is reduced for buyers who collect lots promptly",
+          "It applies only to lots sold above 100,000 dollars",
+          "It is waived when a condition report is requested"
+        ],
+        "answerIndex": 0,
+        "explanation": "The terms add a percentage of the hammer price and apply tax to the premium; the invoice shows 'the premium and the tax on the premium'."
+      }
+    ]
+  }
+]
