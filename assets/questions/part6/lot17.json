@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p6-458",
+    "documentType": "article",
+    "text": "Hospitals Test Artificial Intelligence in Radiology\n\nA consortium of eleven hospitals has begun a two-year trial of software that analyses chest X-rays and flags those most likely to indicate disease. Radiologists would continue to examine every image, [1] the program is intended to help them prioritize urgent cases.\n\n[2] Early results are encouraging: in a pilot at one hospital, patients whose scans were flagged as urgent received a report on average six hours sooner. Some clinicians, [3], remain wary. They worry that over-reliance on the software may erode the skills of junior doctors, and that errors in the underlying data might go [4] for years.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "although",
+          "because",
+          "unless",
+          "so"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Although' concedes that radiologists still examine every image, yet the program prioritizes urgent cases; the others do not fit that logic."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The technology is intended to replace specialists, and to direct attention away from the images that most need it.",
+          "The technology is not intended to replace specialists, but to direct their attention to the images that most need it.",
+          "The technology was not intended to replace specialists, but to direct their attention to the images that needed it.",
+          "The specialists are not intended to replace the technology, but to direct its attention to the images that most need them."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence reports early results about faster reports for urgent cases, which supports a prioritizing role; only the first option introduces that role coherently."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "moreover",
+          "however",
+          "similarly"
+        ],
+        "answerIndex": 2,
+        "explanation": "The clinicians' wariness contrasts with the encouraging results; 'however' marks that contrast."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "undecided",
+          "undefined",
+          "unpaid",
+          "undetected"
+        ],
+        "answerIndex": 3,
+        "explanation": "Errors that 'go undetected' are not noticed; the others do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-459",
+    "documentType": "web_page",
+    "text": "Fernhill Leisure Centre – Membership Terms\n\nMembership is offered on a twelve-month basis, and fees are payable monthly by direct debit. [1] Members who wish to cancel must give one calendar month's notice in writing; otherwise, the agreement will [2] automatically for a further twelve months.\n\nMembers may freeze their accounts for up to three months, [3] they provide evidence of illness, injury or extended travel. The centre reserves the right to vary its timetable of classes, [4] it will give at least seven days' notice of any change that affects regular sessions.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The contract renews automatically at the end of each term unless cancellation has been confirmed in accordance with the procedure below.",
+          "The contract expires automatically at the end of each term unless cancellation has been confirmed in accordance with the procedure above.",
+          "The contract renewed automatically at the end of each term, whether or not cancellation had been confirmed.",
+          "The member renews automatically at the end of each term unless the centre has confirmed a cancellation fee."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence explains how to cancel and what happens otherwise, so the previous one should state the renewal rule; only the first is coherent. The others contradict the renewal, use a past tense, or confuse member and contract."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "renovate",
+          "renew",
+          "remain",
+          "rewind"
+        ],
+        "answerIndex": 1,
+        "explanation": "An agreement 'renews' itself automatically; 'renovate' means refurbish, 'remain' needs a complement, and 'rewind' means wind back."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as though",
+          "even if",
+          "provided that",
+          "so that"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Provided that they provide evidence' sets the condition; the others misstate it."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "so",
+          "although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Although it reserves the right to vary the timetable, it will give notice' concedes the right and softens it; the others do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-460",
+    "documentType": "email",
+    "text": "Subject: Request for a revised quotation\n\nDear Mr. Haddad,\n\nThank you for your quotation of 4 February for the supply and installation of the new security system at our Norwich warehouse. We have reviewed it carefully and consider that it compares [1] with the other proposals we have received, although the price is higher.\n\n[2] Before we proceed, we would ask you to clarify two points. First, the quotation does not state whether the cost of maintenance is included in the stated figure. Second, [3] the delivery date you suggest falls within our busiest period, we should prefer installation to take place in March. We should be grateful if you could revise your proposal [4].",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "favorably",
+          "favorite",
+          "favored",
+          "favor"
+        ],
+        "answerIndex": 0,
+        "explanation": "An adverb is needed after 'compares': 'compares favorably with' means is as good as or better than."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your proposal is, in most respects, the one that least meets our requirements, and we would like to progress it.",
+          "Your proposal is, in most respects, the one that best meets our requirements, and we would like to progress it.",
+          "Your proposals are, in most respects, those that best meet our requirements, and we would like to cancel them.",
+          "Your proposal was, in most respects, the one that best met our requirements, and we wished to progress it."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says 'Before we proceed', so the previous one should signal intention to proceed; only the first is coherent. The others say 'least meets', cancel the proposals, or use past tenses."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "whereas",
+          "since",
+          "albeit"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Since the delivery date falls within our busiest period' gives the reason for preferring March; 'unless' and 'whereas' do not."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "nevertheless",
+          "otherwise",
+          "likewise",
+          "accordingly"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Revise your proposal accordingly' means in line with these points; 'nevertheless' and the others do not fit."
+      }
+    ]
+  }
+]

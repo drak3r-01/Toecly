@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p6-467",
+    "documentType": "memo",
+    "text": "To: All Staff\nFrom: Tomas Wieland, IT Security\nSubject: Remote access\n\nFrom 1 November, access to the company network from outside the office will require two-step authentication. The change follows a security review which found that password-only access exposed sensitive client files. [1] Staff who have not yet registered a device of this kind should do so by 24 October; [2] they will be unable to log in.\n\nDevices shared with family members will not be [3] for registration, even where each user has a separate account. [4] the technical details are set out in the attached guide, the IT helpdesk will hold drop-in sessions on 20 and 22 October.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Authentication will be performed by a code sent to a mobile device registered in advance with the IT department.",
+          "Authentication will be performed by a code printed on a card issued in advance by the IT department.",
+          "Authentication will be performed by a code sent to a device owned by the IT department.",
+          "Authentication was performed by a code sent to a mobile device registered with the IT department."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence refers to 'a device of this kind', so the previous one must mention a mobile device registered in advance; the others mention a card, a department-owned device, or a past tense."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "otherwise",
+          "moreover",
+          "likewise"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Otherwise' states the consequence of not registering by the deadline; the others express result or addition."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "legible",
+          "elective",
+          "eligible",
+          "illegal"
+        ],
+        "answerIndex": 2,
+        "explanation": "A device that is 'eligible for registration' meets the conditions; 'legible' means readable, 'elective' means optional, and 'illegal' means unlawful."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Whereas",
+          "Although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Although the technical details are set out in the guide' concedes that help exists yet sessions will be held; the others do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-468",
+    "documentType": "letter",
+    "text": "Dear Ms. Andrade,\n\nFurther to your interview on 12 June, I am pleased to offer you the post of Laboratory Manager, with effect from 1 September. [1] Your starting salary will be £47,500 per annum, to be reviewed after the probationary period.\n\nYou will be required to [2] a medical examination before taking up your duties, as the work involves the handling of hazardous substances. The offer is conditional [3] the receipt of satisfactory references from your two previous employers, [4] we have requested directly.\n\nYours sincerely,\nCleo Hartmann\nHuman Resources",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The first six months of employment constitute a probationary period, during which either party may end the contract at two weeks' notice.",
+          "The first six months of employment constitute a period of training, during which the department will provide regular mentoring.",
+          "The final six months of the contract constitute a period of notice, during which either party may end the arrangement.",
+          "The first six months of employment were treated as a trial, during which the department provided mentoring."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence mentions 'the probationary period', so the previous one must introduce it; only the first does."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "undertake",
+          "undergo",
+          "undermine",
+          "undervalue"
+        ],
+        "answerIndex": 1,
+        "explanation": "One 'undergoes' a medical examination, meaning has it done to oneself; 'undertake' means take on a task, and the others do not fit."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "against",
+          "beside",
+          "upon",
+          "toward"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Conditional upon' is the fixed expression."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "whose",
+          "which"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Which' refers to the references and is the object of 'requested'."
+      }
+    ]
+  }
+]
