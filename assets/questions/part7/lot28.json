@@ -1,0 +1,422 @@
+[
+  {
+    "id": "p7-300",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why the city's cycling boom is stalling",
+        "text": "Five years ago, the city's cycling lanes were hailed as a model for the region. Commuter journeys by bike doubled, the mayor was photographed on a folding bicycle, and neighboring councils sent delegations to study the scheme. Yet the latest figures show that growth has stopped, and in some districts cycling has begun to decline.\n\nTransport planners offer several explanations. The first is simple saturation: those who could easily switch to a bicycle have already done so, and the remaining motorists live too far out, or have journeys too complicated, to be tempted. The second concerns safety. Although the lanes are protected on main roads, they dissolve at junctions, precisely where collisions occur, and surveys suggest that many would-be cyclists are put off by a few frightening intersections rather than by the whole route.\n\nA third explanation is less comfortable for the council. Maintenance budgets for the lanes have been cut by a fifth, and potholes, glass and parked vans are now a common sight. \"Nobody gives up cycling because of one bad day,\" said one campaigner. \"They give up because the route got a little worse every month.\"\n\nThe council insists that it remains committed and promises a new program of junction improvements, although it has not said how it will be paid for."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "The city's lanes have been judged a failure by neighbors",
+          "Most residents have returned to driving their cars",
+          "Cycling growth has stalled, partly by council choices",
+          "Cyclists are mostly blamed for the recent collisions"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article lists causes of the stall, including safety and maintenance."
+      },
+      {
+        "prompt": "According to the article, where do the lanes become unsafe?",
+        "category": "detail",
+        "choices": [
+          "At the junctions where protection ends",
+          "On the main roads near the center",
+          "In districts far from the mayor's office",
+          "Near the parked vans on side streets"
+        ],
+        "answerIndex": 0,
+        "explanation": "Lanes are protected on main roads but 'dissolve at junctions'."
+      },
+      {
+        "prompt": "What does the campaigner's remark suggest?",
+        "category": "inference",
+        "choices": [
+          "Most cyclists quit after one accident",
+          "The council ignores every complaint it receives",
+          "Potholes are the only cause of the decline",
+          "Slow decay of routes can push riders away"
+        ],
+        "answerIndex": 3,
+        "explanation": "People give up because 'the route got a little worse every month'."
+      },
+      {
+        "prompt": "What can be inferred about the council's promise?",
+        "category": "inference",
+        "choices": [
+          "It has been rejected by transport planners",
+          "No funding plan has been announced for it",
+          "It will be paid for by a fifth of the budget",
+          "It replaces the earlier maintenance cuts"
+        ],
+        "answerIndex": 1,
+        "explanation": "The council 'has not said how it will be paid for'."
+      }
+    ]
+  },
+  {
+    "id": "p7-301",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Notification of a change to the research grant conditions",
+        "text": "To: All principal investigators, Brenwood Research Fund\nFrom: Dr. Savannah Okoro, Grants Office\nSubject: Changes to reporting conditions, effective with the next funding round\n\nDear colleagues,\n\nI am writing to explain a change in the conditions attached to Brenwood grants, which the trustees approved at their last meeting and which will apply to all awards made from the autumn round onward.\n\nUntil now, grant holders have submitted a financial report at the end of each year, together with a short narrative summary. Beginning this autumn, the narrative summary will be replaced by a six-monthly progress statement, and funds for the second half of each year will be released only once the statement has been accepted. The trustees have emphasized that this is not intended to add to the burden of reporting; its purpose is to allow the Fund to identify difficulties earlier and, where appropriate, to offer help before a project falls behind.\n\nI recognize that some of you will see this as a loss of the flexibility that has distinguished the Fund. For existing grants, the old conditions will continue until the award expires, and no one will be asked to switch. We shall hold two online sessions in September to answer questions, details of which will follow shortly.\n\nWith best wishes,\nSavannah Okoro"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the email?",
+        "category": "purpose",
+        "choices": [
+          "To announce the closure of the bakery",
+          "To seek explanations before renewing",
+          "To complain about a leaking roof only",
+          "To propose a lower rent for the premises"
+        ],
+        "answerIndex": 1,
+        "explanation": "The email explains new reporting conditions for grants."
+      },
+      {
+        "prompt": "What will replace the yearly narrative summary?",
+        "category": "detail",
+        "choices": [
+          "A meeting with the trustees",
+          "An online session in September",
+          "A financial audit by the Fund",
+          "A report every half year"
+        ],
+        "answerIndex": 3,
+        "explanation": "The summary will be replaced by a six-monthly progress statement."
+      },
+      {
+        "prompt": "What is the trustees' stated reason for the change?",
+        "category": "inference",
+        "choices": [
+          "To catch problems early and offer help",
+          "To reduce the cost of the Fund's staff",
+          "To make awards harder for new investigators",
+          "To collect more financial data each year"
+        ],
+        "answerIndex": 0,
+        "explanation": "The purpose is to identify difficulties earlier and offer help before a project falls behind."
+      },
+      {
+        "prompt": "What can be inferred about current grants?",
+        "category": "inference",
+        "choices": [
+          "They will be cancelled in the autumn",
+          "They must adopt the new rules at once",
+          "They keep their existing reporting terms",
+          "They will receive no money for six months"
+        ],
+        "answerIndex": 2,
+        "explanation": "For existing grants 'the old conditions will continue until the award expires'."
+      }
+    ]
+  },
+  {
+    "id": "p7-302",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Aldersgate Bookbinders: restoration you can trust",
+        "text": "Every book that arrives at our workshop has a story, and our task is to ensure that it has a future. Aldersgate Bookbinders has been restoring books, albums and documents for more than forty years, and we count among our clients several university libraries, a number of private collectors and, more often than you might expect, families who simply wish to rescue a grandmother's recipe book.\n\nWe begin every commission with a written assessment, free of charge, in which we describe the condition of the item, the work we recommend and the cost. We do not proceed without your agreement, and we will always tell you if a repair would reduce, rather than preserve, the value of an object. Not everything is worth restoring, and we would rather lose a job than do damage in the name of improvement.\n\nOur methods are conservative. We use reversible adhesives and acid-free materials, and we retain original covers wherever possible, since replacing them can erase evidence of an item's history. Work normally takes between six and ten weeks, depending on the complexity of the commission, though urgent requests can sometimes be accommodated for an additional fee.\n\nTo arrange an assessment, bring your item to our workshop at 12 Dyer's Lane any weekday between ten and four, or send photographs and a description by email."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main message of the advertisement?",
+        "category": "main_idea",
+        "choices": [
+          "The firm sells rare books to libraries",
+          "The firm offers cheap and rapid binding",
+          "The firm trains collectors to restore their items",
+          "The firm repairs old books with care and candor"
+        ],
+        "answerIndex": 3,
+        "explanation": "The ad stresses careful, honest restoration."
+      },
+      {
+        "prompt": "What does the firm do before starting a job?",
+        "category": "detail",
+        "choices": [
+          "It requires payment of a deposit",
+          "It gives a free written report and quote",
+          "It sends the item to a university library",
+          "It replaces the original cover"
+        ],
+        "answerIndex": 1,
+        "explanation": "Every commission begins with a free written assessment giving condition, work and cost."
+      },
+      {
+        "prompt": "What does the firm suggest about its honesty?",
+        "category": "inference",
+        "choices": [
+          "It always recommends replacing the covers",
+          "It refuses to repair items owned by families",
+          "It may advise against work that harms an item",
+          "It guarantees that every job will raise the value"
+        ],
+        "answerIndex": 2,
+        "explanation": "They will tell clients if a repair would reduce value, preferring to 'lose a job than do damage'."
+      },
+      {
+        "prompt": "Which service costs extra?",
+        "category": "detail",
+        "choices": [
+          "Quicker work than normal",
+          "The written assessment",
+          "Storage of the original cover",
+          "Bringing items to the workshop"
+        ],
+        "answerIndex": 0,
+        "explanation": "Urgent requests 'can sometimes be accommodated for an additional fee'."
+      }
+    ]
+  },
+  {
+    "id": "p7-303",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Team chat: a software release at risk",
+        "text": "Priya Nair [16:02]: Heads up. The security audit flagged a vulnerability in the login module. It isn't exploited yet, but it's rated \"high\".\n\nGustavo Ferreira [16:04]: That's a problem. We're due to release on Friday. How long to fix?\n\nPriya Nair [16:06]: My estimate is two days, but testing the fix could take another two. If nothing else breaks, we could be done by Tuesday.\n\nGustavo Ferreira [16:08]: Could we release on Friday without the login changes and patch afterwards?\n\nPriya Nair [16:09]: Technically yes, but the login module is the reason for the update. Customers are waiting for the single sign-on feature, and it ships with that code.\n\nGustavo Ferreira [16:11]: Then we can't release it without the module, and we can't release it with the flaw.\n\nPriya Nair [16:12]: Exactly. I think we should delay and tell the clients today, rather than let them find out on Friday.\n\nGustavo Ferreira [16:14]: Agreed. I'll draft a note to the clients and ask Marcus whether the audit firm can retest on Monday to save a day.\n\nPriya Nair [16:15]: Good idea. I'll start the fix tonight."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What problem do the colleagues discuss?",
+        "category": "main_idea",
+        "choices": [
+          "A serious flaw endangers the release",
+          "A client has cancelled a major contract",
+          "A testing tool has failed during an audit",
+          "A feature has been removed from the product"
+        ],
+        "answerIndex": 0,
+        "explanation": "The audit found a high-rated vulnerability before Friday's release."
+      },
+      {
+        "prompt": "Why can't they release without the login module?",
+        "category": "detail",
+        "choices": [
+          "The audit firm has forbidden it",
+          "The clients have refused any update",
+          "The new sign-on feature depends on it",
+          "The module is already being exploited"
+        ],
+        "answerIndex": 2,
+        "explanation": "The login module is the reason for the update and ships single sign-on."
+      },
+      {
+        "prompt": "What can be inferred about the proposed delay?",
+        "category": "inference",
+        "choices": [
+          "They hope the clients will not notice it",
+          "They think early warning beats a surprise",
+          "They plan to cancel the Friday meeting",
+          "They expect the audit firm to cancel the fix"
+        ],
+        "answerIndex": 1,
+        "explanation": "Priya prefers to tell the clients today 'rather than let them find out on Friday'."
+      },
+      {
+        "prompt": "Why does Mr. Ferreira want to contact Marcus?",
+        "category": "inference",
+        "choices": [
+          "To ask for a larger budget now",
+          "To choose a new release date soon",
+          "To replace the audit firm",
+          "To see if a retest saves time"
+        ],
+        "answerIndex": 3,
+        "explanation": "He wants the audit firm to retest on Monday 'to save a day'."
+      }
+    ]
+  },
+  {
+    "id": "p7-304",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Reply to a customer's request for a refund",
+        "text": "Dear Mr. Thackeray,\n\nThank you for your letter of 17 April regarding the espresso machine you purchased from us in January, and for your frank description of its failure. I am sorry that a product costing this much has caused you so much trouble.\n\nI have reviewed the service record, which shows that the machine was returned twice in three months for the same fault in the heating element. The warranty clearly covers repair, and we have honored that obligation. However, the warranty does not explicitly provide for a refund, and our policy is to refund only when a defect cannot be remedied after a reasonable number of attempts. You have argued that two failed repairs are enough; my own view is that the question is a fair one, and I have therefore asked our technical director to examine the machine himself.\n\nIf he confirms that the fault is inherent in the design, I shall authorize a full refund, together with the cost of the delivery you paid. If, on the other hand, the fault proves to be a defective part, we shall replace the machine with a new one and extend the warranty by a year. I expect to be able to give you his assessment within ten days.\n\nI hope this is acceptable.\n\nYours sincerely,\nCordelia Banner, Customer Relations"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To decline an invitation to speak",
+          "To request a refund of a conference fee",
+          "To accept an invitation, with changes",
+          "To report a failure in flood forecasts"
+        ],
+        "answerIndex": 2,
+        "explanation": "The writer explains that an inspection will determine whether a refund or replacement follows."
+      },
+      {
+        "prompt": "What does the service record show?",
+        "category": "detail",
+        "choices": [
+          "One part failed twice in three months",
+          "The machine was never repaired",
+          "The warranty has already expired",
+          "The delivery cost was paid by the shop"
+        ],
+        "answerIndex": 0,
+        "explanation": "The machine was returned twice for the same heating-element fault."
+      },
+      {
+        "prompt": "When would Mr. Thackeray receive a refund?",
+        "category": "inference",
+        "choices": [
+          "If the warranty is extended by a year",
+          "If he returns the machine a third time",
+          "If he pays the delivery cost again",
+          "If the director finds a design fault"
+        ],
+        "answerIndex": 3,
+        "explanation": "A full refund would follow if the fault is 'inherent in the design'."
+      },
+      {
+        "prompt": "What does Ms. Banner imply about Mr. Thackeray's argument?",
+        "category": "inference",
+        "choices": [
+          "She thinks it is entirely without merit",
+          "She considers it reasonable enough to investigate",
+          "She believes the warranty already requires a refund",
+          "She has asked him to withdraw his letter"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says the question 'is a fair one' and has asked the director to examine it."
+      }
+    ]
+  },
+  {
+    "id": "p7-305",
+    "documents": [
+      {
+        "type": "article",
+        "title": "A town's unlikely experiment with a local currency",
+        "text": "In the seaside town of Pennick, shoppers can now pay for groceries, haircuts and even dental work with a currency that exists nowhere else. The \"Pennick pound\", issued by a local cooperative and exchangeable one-for-one with the national currency, was introduced three years ago to keep money circulating within the town after the closure of its largest employer.\n\nThe principle is straightforward. Traders accept the local notes, and those who receive them can spend them only with other participating businesses or exchange them at a five percent discount. Because converting is costly, most choose to spend, and the money passes from shop to workshop to café several times before leaving the economy. The cooperative estimates that each local pound generates nearly twice the activity of a national one.\n\nCritics are not persuaded. They point out that the benefit depends on the continued goodwill of traders, many of whom privately complain that the scheme brings little new custom. An economist who studied the town concluded that the notes have helped, but chiefly by reminding residents to shop locally, an effect that might have been achieved with a poster.\n\nThe cooperative's reply is that a poster does not change habits. The scheme has survived longer than expected, and several other towns have begun to inquire."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The rise of venture investors in software",
+          "Founders who prefer independence to growth",
+          "A decline in profits among small firms",
+          "The difficulty of hiring for new companies"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article describes how the local currency works and the debate on its value."
+      },
+      {
+        "prompt": "Why do most people spend the local notes?",
+        "category": "detail",
+        "choices": [
+          "The notes lose value after a month",
+          "The cooperative forces traders to accept them",
+          "National money is not accepted in town",
+          "Exchanging them for cash costs a discount"
+        ],
+        "answerIndex": 3,
+        "explanation": "Converting back involves a five percent discount, so most choose to spend."
+      },
+      {
+        "prompt": "What was the economist's conclusion?",
+        "category": "inference",
+        "choices": [
+          "The notes remind people to buy locally",
+          "The scheme has failed to help residents",
+          "The cooperative has cheated traders",
+          "The currency should be extended nationally"
+        ],
+        "answerIndex": 0,
+        "explanation": "The notes helped 'chiefly by reminding residents to shop locally'."
+      },
+      {
+        "prompt": "What does the cooperative's reply imply?",
+        "category": "inference",
+        "choices": [
+          "Posters would have been cheaper than notes",
+          "Traders have no complaints about the scheme",
+          "Lasting habits need more than advice alone",
+          "Other towns have already copied the currency"
+        ],
+        "answerIndex": 2,
+        "explanation": "A poster 'does not change habits', so a tangible scheme matters."
+      }
+    ]
+  },
+  {
+    "id": "p7-306",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Reorganization of the customer support teams",
+        "text": "MEMORANDUM\nTo: Customer Support Staff\nFrom: Aurelio Santangelo, Head of Customer Experience\nSubject: Reorganization of support teams, effective 1 June\n\nFrom 1 June, the three regional support teams will be combined into a single department organized by product line instead of by geography. Staff will be assigned to one of three units: payments, accounts, or devices.\n\nThe change responds to a pattern we have noticed for more than a year. Customers frequently contact us about problems that cross regional boundaries, and under the present system their cases are transferred between teams, sometimes twice. The average resolution time for such cases is nearly four days, compared with one day for those handled by a single person. We believe that specialization will reduce transfers and allow staff to become genuinely expert in their area.\n\nI am aware that some of you value working with colleagues in your own city, and that the new structure will separate some established groups. To limit disruption, desks will remain in their present locations, and each unit will keep a local lead in every office. Staff who wish to request a particular unit should do so by 15 April; where requests exceed places, seniority will decide.\n\nA series of briefing sessions will be held in the next two weeks, and I shall be available to discuss individual concerns."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main reason for the reorganization?",
+        "category": "main_idea",
+        "choices": [
+          "Customers have asked for local support offices",
+          "The company intends to close two regional teams",
+          "Staff have requested a simpler structure",
+          "Cases passed between teams take too long"
+        ],
+        "answerIndex": 3,
+        "explanation": "Transferred cases take nearly four days compared with one."
+      },
+      {
+        "prompt": "How will requests for a particular unit be settled?",
+        "category": "detail",
+        "choices": [
+          "By a vote among all the staff",
+          "By seniority when demand is high",
+          "By a decision of the local lead",
+          "By the order in which requests arrive"
+        ],
+        "answerIndex": 1,
+        "explanation": "Where requests exceed places, seniority will decide."
+      },
+      {
+        "prompt": "What can be inferred about the offices?",
+        "category": "inference",
+        "choices": [
+          "All offices will close on 1 June",
+          "Each office will serve only one product",
+          "Staff need not move to a new location",
+          "Staff must relocate to a central building"
+        ],
+        "answerIndex": 2,
+        "explanation": "Desks will remain in their present locations."
+      },
+      {
+        "prompt": "What does Mr. Santangelo acknowledge?",
+        "category": "inference",
+        "choices": [
+          "Some may regret losing local ties",
+          "Several customers will be unhappy",
+          "The new units will cost more to run",
+          "Seniority is not a fair method"
+        ],
+        "answerIndex": 0,
+        "explanation": "He is aware that some value working with colleagues in their own city and that the structure will separate groups."
+      }
+    ]
+  }
+]
