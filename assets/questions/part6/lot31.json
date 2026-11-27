@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p6-486",
+    "documentType": "email",
+    "text": "To: Warehouse Managers\nFrom: Ludovica Ferrante, Supply Chain Director\nSubject: Peak-season staffing\n\nAs in previous years, demand will peak between mid-November and the end of December, and I should like to confirm the arrangements for temporary staff. [1] Agencies have been asked to supply workers who can start at short notice and who have completed the mandatory safety induction.\n\nManagers are [2] for estimating their requirements by shift and for submitting them to me by 30 September. [3] the cost of temporary labor has risen, the alternative of understaffing would be far more expensive, since late deliveries incur penalties under most of our contracts. [4] requests received after the deadline, we cannot guarantee that agencies will be able to supply the numbers required.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Last year, a shortage of trained staff in the second week of December led to delays that cost the company a major contract.",
+          "Last year, a surplus of trained staff in the second week of December led to savings that won the company a major contract.",
+          "This year, a shortage of trained staff in the second week of December will lead to delays that cost the company a major contract.",
+          "Last year, a shortage of trained agencies in the second week of December led to delays that cost the company a major staff."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says agencies should supply workers who can start at short notice, which responds to last year's shortage; only the first provides that background."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "responsive",
+          "responsible",
+          "respondent",
+          "responsibly"
+        ],
+        "answerIndex": 1,
+        "explanation": "Managers are 'responsible for' estimating requirements; 'responsive' means reacting quickly, and 'respondent' is a noun."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Whenever"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although the cost of temporary labor has risen' concedes a drawback before the main argument."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "In lieu of",
+          "In pursuit of",
+          "In excess of",
+          "In the case of"
+        ],
+        "answerIndex": 3,
+        "explanation": "'In the case of requests received after the deadline' introduces the specific situation; the others have different meanings."
+      }
+    ]
+  },
+  {
+    "id": "p6-487",
+    "documentType": "review",
+    "text": "Hotel Review: The Alder House, Edinburgh\n\nThe Alder House occupies a restored Georgian townhouse five minutes' walk from the castle. [1] Our room, which overlooked a quiet square, combined period features such as high ceilings and sash windows with a modern bathroom and an excellent bed.\n\nStaff were attentive without being intrusive, and breakfast, which uses produce from local suppliers, was consistently good. [2], prices are high: a double room costs almost double the city average, and the lack of a lift may be [3] for guests with limited mobility. [4] these drawbacks, I would stay again without hesitation.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The conversion has been carried out with evident care, and the character of the original building has largely been preserved.",
+          "The conversion has been carried out with evident haste, and the character of the original building has largely been lost.",
+          "The building has been converted with evident care, and the character of the original staff has largely been preserved.",
+          "The conversion was carried out with evident care, and the character of the original building would have been preserved."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence describes a room that combines period features with modern comfort, which requires a sentence about careful conversion; only the first fits."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Likewise",
+          "Admittedly",
+          "Subsequently",
+          "Accordingly"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Admittedly' concedes a drawback before the positive verdict, as 'Prices are high' does."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "prosperous",
+          "profitable",
+          "problematic",
+          "persistent"
+        ],
+        "answerIndex": 2,
+        "explanation": "The lack of a lift may be 'problematic' for guests with limited mobility; the others do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "Besides",
+          "Unless",
+          "Whereas",
+          "Despite"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Despite these drawbacks' is a preposition followed by a noun phrase and concedes the faults."
+      }
+    ]
+  }
+]

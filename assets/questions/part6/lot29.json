@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p6-482",
+    "documentType": "article",
+    "text": "Regulators Weigh Limits on Executive Pay\n\nA parliamentary committee has recommended that listed companies be required to disclose the ratio between the pay of their chief executive and that of the median employee. [1] The proposal, which has the support of several large pension funds, is intended to [2] public confidence in the way that remuneration is set.\n\nBusiness groups have objected that the ratio would be a misleading measure, [3] it takes no account of differences in the size and complexity of firms. Some analysts, however, argue that the figure would be useful precisely because it is simple. [4] a company's ratio is far higher than those of its peers, shareholders would be entitled to ask why.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Disclosure of this kind is already required in several other countries, where it has been in force for some years.",
+          "Disclosure of this kind is no longer required in several other countries, where it was abolished some years ago.",
+          "Disclosure of this kind has already been required of several other companies, where it was in force for some years.",
+          "Disclosure of this kind will be required in several other countries, where it is expected to be in force for some years."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'The proposal', referring to disclosure being recommended; the first option places the proposal in a context of existing practice. The others contradict, shift to companies, or confuse tenses."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "restrain",
+          "restore",
+          "restrict",
+          "resolve"
+        ],
+        "answerIndex": 1,
+        "explanation": "The proposal is intended to 'restore' public confidence, meaning rebuild it; the other verbs do not fit."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "whereas",
+          "since",
+          "albeit"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Since it takes no account of differences' gives the reason for calling the ratio misleading; 'unless' and 'whereas' do not."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Wherein",
+          "Whereby",
+          "Where"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Where a company's ratio is far higher' introduces the specific case in which shareholders may ask questions."
+      }
+    ]
+  },
+  {
+    "id": "p6-483",
+    "documentType": "letter",
+    "text": "Dear Sir or Madam,\n\nI am writing to complain about the quality of the refurbishment carried out at my premises on Dunmore Street between 3 and 21 March. [1] When I inspected the work last week, I found that the new flooring in the reception area had begun to lift, and that several of the electrical sockets were not securely fixed.\n\n[2] I have already informed your site manager of these defects, I have received no reply. I am therefore writing to ask that you [3] the work at your own expense within fourteen days. [4] I do not receive a satisfactory response by that date, I shall instruct another contractor and seek to recover the cost from you.\n\nYours faithfully,\nDesmond Achterberg",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The work was completed on schedule, but it does not meet the standard that was specified in the contract.",
+          "The work was completed late, but it meets the standard that was specified in the contract.",
+          "The work is scheduled for completion, but it does not meet the standard that was specified in the quotation.",
+          "The work was completed on schedule, and it exceeds the standard that was specified in the contract."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence reports defects found on inspection, so the previous one must say the work falls short of the standard; only the first does."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Although",
+          "Unless",
+          "Whenever"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Although I have already informed your site manager' concedes the contact but notes the absence of a reply."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "rectangle",
+          "reciprocate",
+          "rectify",
+          "recompense"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Rectify the work' means correct it; the others do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Whereas",
+          "Albeit",
+          "In the event that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'In the event that I do not receive' introduces a possible situation; 'unless' would create a double negative with 'do not receive', and the others do not express condition."
+      }
+    ]
+  }
+]

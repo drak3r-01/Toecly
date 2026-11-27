@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p6-490",
+    "documentType": "email",
+    "text": "To: Training Participants\nFrom: Cordelia Marsh, Learning Coordinator\nSubject: Postponement of the leadership workshop\n\nI regret to inform you that the leadership workshop scheduled for 12 and 13 May has had to be postponed, owing to the unexpected illness of the facilitator. [1] The new dates are 9 and 10 June, and the venue will remain unchanged. Participants who are unable to attend on the revised dates will be given priority for the next available session.\n\nIn the meantime, I would ask you to [2] the pre-workshop questionnaire, [3] it was due on 5 May. Responses that have already been submitted will be retained, and no further action is required on your part. [4] you have any questions, please do not hesitate to contact me.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The decision was taken only after we had explored every possibility of finding a suitable substitute at short notice.",
+          "The decision was taken only after we had ignored every possibility of finding a suitable substitute at short notice.",
+          "The decision will be taken only after we have explored every possibility of finding a suitable facilitator.",
+          "The substitute was taken only after we had explored every possibility of finding a suitable decision at short notice."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence gives new dates, a follow-up to a decision that was carefully made; only the first is coherent and uses the right tense."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "compete",
+          "complete",
+          "compile",
+          "compose"
+        ],
+        "answerIndex": 1,
+        "explanation": "Participants are asked to 'complete' the questionnaire, meaning fill it in; 'compile' and 'compose' mean assemble or write, and 'compete' does not take an object."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as though",
+          "so that",
+          "even though",
+          "in case"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Even though it was due on 5 May' concedes that the deadline has passed; the others do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Albeit",
+          "Insofar",
+          "Should"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Should you have any questions' is an inverted conditional meaning 'if you have'."
+      }
+    ]
+  },
+  {
+    "id": "p6-491",
+    "documentType": "web_page",
+    "text": "Greystone Apartments – Maintenance Requests\n\nResidents who wish to report a fault should do so through the online portal, which is monitored daily. [1] Requests are classified as urgent, routine or cosmetic, and the target time for a response depends on the category: twenty-four hours for urgent faults, five working days for routine faults, and thirty days for cosmetic repairs.\n\nWhere a fault is [2] by a resident, for example through misuse or negligence, the cost of repair may be charged to the tenant. Access to the apartment will normally be arranged in advance [3] in an emergency, when staff may enter without notice. Repairs are carried out between 9 a.m. and 5 p.m., [4] a different time has been agreed.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Each request is given a reference number, which should be quoted in any later correspondence about the fault.",
+          "Each reference is given a request number, which should be quoted in any earlier correspondence about the fault.",
+          "Each request is given a reference number, which will be quoted by the landlord in any later complaint about the resident.",
+          "Every fault is given a reference number, which should be quoted in any later correspondence about the portal."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence describes how requests are classified, which follows a sentence about how requests are recorded; only the first is coherent."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "caught",
+          "caused",
+          "cast",
+          "cleared"
+        ],
+        "answerIndex": 1,
+        "explanation": "A fault 'caused by a resident' means brought about by them; the others do not fit."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "albeit",
+          "except",
+          "beside"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Except in an emergency' states the single exception to the rule; 'whereas' contrasts, 'albeit' concedes, and 'beside' means next to."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "except",
+          "whereas",
+          "albeit",
+          "unless"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Unless a different time has been agreed' states the condition under which the rule does not apply."
+      }
+    ]
+  }
+]
