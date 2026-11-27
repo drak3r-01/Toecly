@@ -1,9 +1,9 @@
 name: Build & Release
 
-# Runs when a version tag (e.g. v0.1.0) is pushed, never on a plain push.
+# Runs when a version tag (e.g. v0.1.0 or V0.1.0) is pushed, never on a plain push.
 on:
   push:
-    tags: ["v*"]
+    tags: ["v*", "V*"]
 
 permissions:
   contents: write # needed to create the release
