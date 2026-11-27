@@ -1,0 +1,482 @@
+[
+  {
+    "id": "p7-327",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The unglamorous science of keeping bridges standing",
+        "text": "Public attention turns to bridges mainly when one collapses, which obscures the fact that most failures are slow and visible long before they become dangerous. Engineers who inspect the nation's bridges describe a discipline that has more in common with medicine than with construction: a matter of noticing small symptoms and acting on them before they spread.\n\nThe commonest culprit is not a design flaw but water. Rain finds its way through cracked joints and into the steel reinforcement, where it causes corrosion that expands and cracks the concrete around it, admitting still more water. The process can take decades, yet it accelerates once begun, which is why inspectors place such emphasis on drainage and sealing, tasks that attract little notice and less funding.\n\nThat lack of funding is the central difficulty. A study of one regional authority found that repair costs for a bridge rise roughly fourfold if maintenance is deferred by ten years, yet budgets are typically set annually, and new construction is easier to celebrate than maintenance. \"No one cuts a ribbon on a drain,\" said one inspector.\n\nSome authorities have begun to install sensors that measure moisture and movement continuously. The data, they hope, will allow repairs to be scheduled when they are cheapest, though the sensors themselves must be maintained."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Most bridges fail suddenly without warning",
+          "Modern bridges are poorly designed by firms",
+          "Bridge safety needs dull, neglected upkeep",
+          "Sensors have made inspections obsolete"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article stresses slow water damage and underfunded maintenance."
+      },
+      {
+        "prompt": "According to the article, what causes the commonest damage?",
+        "category": "detail",
+        "choices": [
+          "Water entering joints and corroding steel",
+          "Heavy vehicles that exceed the load limit",
+          "Mistakes in the original design plans",
+          "Sudden earthquakes along the river bed"
+        ],
+        "answerIndex": 0,
+        "explanation": "Water enters cracked joints and corrodes the reinforcement."
+      },
+      {
+        "prompt": "What does 'No one cuts a ribbon on a drain' suggest?",
+        "category": "inference",
+        "choices": [
+          "Drains are very expensive to construct",
+          "Officials dislike opening ceremonies",
+          "Inspectors rarely examine the drainage",
+          "Upkeep gets less notice than new building"
+        ],
+        "answerIndex": 3,
+        "explanation": "New construction is easier to celebrate than maintenance."
+      },
+      {
+        "prompt": "What can be inferred about the sensors?",
+        "category": "inference",
+        "choices": [
+          "They remove the need for yearly budgets",
+          "They may time repairs but need care too",
+          "They have already prevented a collapse",
+          "They are too costly for any authority"
+        ],
+        "answerIndex": 1,
+        "explanation": "The data may allow cheaper scheduling, though the sensors must be maintained."
+      }
+    ]
+  },
+  {
+    "id": "p7-328",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Request to reconsider a rejected conference proposal",
+        "text": "To: Programme Committee, International Congress on Water Policy\nFrom: Dr. Nikolai Petrenko\nSubject: Request for reconsideration of submission 214\n\nDear Committee members,\n\nThank you for your email of 12 June informing me that my proposed paper, \"Pricing and the poor: lessons from three cities\", has not been accepted. I understand that the competition was strong, and I do not write to dispute your right to choose. I do, however, wish to ask you to reconsider on one specific ground.\n\nThe reviewer's report, which you kindly forwarded, states that the paper \"offers no original data\". This is not accurate. The paper draws on a household survey of eleven hundred families, which my team conducted last year and which has not previously been published; it is described in the third section of the abstract, and I suspect that the reviewer overlooked it because it follows a long summary of earlier studies.\n\nI have therefore revised the abstract so that the survey appears in the first paragraph, and I enclose the new version. I would not ask you to accept the paper automatically, but I would be grateful if a second reviewer could read the amended text. If this is not possible before the program is finalized, I would be glad to be placed on a waiting list.\n\nWith respect and thanks,\nNikolai Petrenko"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the email?",
+        "category": "purpose",
+        "choices": [
+          "To withdraw an accepted paper from the event",
+          "To ask for a second look at a rejection",
+          "To protest against the congress fee",
+          "To invite the reviewers to complete a survey"
+        ],
+        "answerIndex": 1,
+        "explanation": "He asks the committee to reconsider his paper on specific grounds."
+      },
+      {
+        "prompt": "Why does he think the reviewer erred?",
+        "category": "inference",
+        "choices": [
+          "The paper was submitted without an abstract",
+          "The survey had been published elsewhere",
+          "The reviewer disliked the subject matter",
+          "The survey data came later in the abstract"
+        ],
+        "answerIndex": 3,
+        "explanation": "The survey is in the third section and may have been overlooked."
+      },
+      {
+        "prompt": "What has Dr. Petrenko changed?",
+        "category": "detail",
+        "choices": [
+          "He put the survey first in the abstract",
+          "He cut the whole paper by half or more",
+          "He swapped the survey for earlier studies",
+          "He added a fourth city to the study"
+        ],
+        "answerIndex": 0,
+        "explanation": "The survey now appears in the first paragraph."
+      },
+      {
+        "prompt": "What does the final paragraph suggest about his expectations?",
+        "category": "inference",
+        "choices": [
+          "He demands that the paper be accepted",
+          "He plans to submit it to another congress",
+          "He accepts the program may be too far along",
+          "He doubts that a second reviewer is fair"
+        ],
+        "answerIndex": 2,
+        "explanation": "He offers a waiting-list place if reconsideration is not possible before the program is finalized."
+      }
+    ]
+  },
+  {
+    "id": "p7-329",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice to library members: changes to borrowing from 1 September",
+        "text": "WESTBURY PUBLIC LIBRARY — NOTICE TO MEMBERS\n\nFrom 1 September, three changes will apply to borrowing at all branches.\n\nFirst, the limit on items that may be borrowed at one time will rise from ten to fifteen. This change follows a request from many members, particularly families, who found the previous limit restrictive. The limit on audio-visual items, however, will stay at three.\n\nSecond, overdue fines will be abolished for all children's books and reduced from 20 cents to 10 cents a day for adult titles, with a maximum of 3 dollars per item. The library council made this decision after finding that fines raised little money and discouraged some families from using the library at all. Items more than thirty days overdue will still be treated as lost, and the replacement cost will be charged.\n\nThird, books may no longer be renewed by telephone. Renewals can be made on the library website, at the self-service machines or in person. Members who have difficulty with these methods may ask a member of staff for help at any branch, and the telephone service will remain available for reservations.\n\nWe hope these changes make the library easier to use. Comments are welcome at the main desk."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the notice?",
+        "category": "main_idea",
+        "choices": [
+          "To report a rise in library membership",
+          "To announce the closing of a branch",
+          "To invite donations of new books",
+          "To announce new borrowing and fine rules"
+        ],
+        "answerIndex": 3,
+        "explanation": "The notice describes three changes effective 1 September."
+      },
+      {
+        "prompt": "Why were fines on children's books abolished?",
+        "category": "detail",
+        "choices": [
+          "Children rarely return their books late",
+          "Fines raised little and deterred families",
+          "Parents had asked for lower prices",
+          "Books were being lost far more often"
+        ],
+        "answerIndex": 1,
+        "explanation": "The council found fines raised little money and discouraged some families."
+      },
+      {
+        "prompt": "What can be inferred about a very late adult book?",
+        "category": "inference",
+        "choices": [
+          "It will never cost more than 3 dollars",
+          "It can still be renewed by telephone",
+          "It will count as lost after thirty days",
+          "It will cause the member's card to expire"
+        ],
+        "answerIndex": 2,
+        "explanation": "Items more than thirty days overdue are treated as lost and the replacement cost charged."
+      },
+      {
+        "prompt": "Which statement is true?",
+        "category": "not_true",
+        "choices": [
+          "Telephone renewals will continue for all items",
+          "The limit for audio-visual items stays at three",
+          "Self-service machines can be used for renewals",
+          "Staff will help members who struggle online"
+        ],
+        "answerIndex": 0,
+        "explanation": "Books may no longer be renewed by telephone; only reservations remain."
+      }
+    ]
+  },
+  {
+    "id": "p7-330",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Customer Insights Analyst, Pelham & Rowe Retail",
+        "text": "Pelham & Rowe, a regional retailer with ninety stores, is looking for a Customer Insights Analyst to help us understand how and why our customers shop. The role sits within the marketing department and reports to the Head of Analytics.\n\nYou will work with sales data, loyalty-card records and survey results to identify patterns in customer behavior, and you will present your findings to colleagues who are not specialists. Your work will inform decisions on which products we stock, how we price them and where we open new stores. A recent project, for example, showed that shoppers who bought a particular brand of coffee were far more likely to buy a premium cheese, a discovery that led to a change in the layout of forty stores.\n\nThe ideal candidate has at least three years' experience of analysis, a good command of statistical software and the ability to explain a complex result simply. Experience in retail is helpful but not essential; we are more interested in curiosity and clarity than in knowledge of our sector. Because the role involves frequent presentations, confidence in speaking to groups is important.\n\nWe offer a hybrid working pattern, with two days a week in our Leeds office. Applications should include a sample of previous work, with any confidential figures removed, and should reach us by 15 July."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main responsibility of the post?",
+        "category": "main_idea",
+        "choices": [
+          "Turning shopper data into advice",
+          "Managing the daily sales in each store",
+          "Designing new loyalty cards for shoppers",
+          "Selling products directly to customers"
+        ],
+        "answerIndex": 0,
+        "explanation": "The analyst studies data and presents findings to inform decisions."
+      },
+      {
+        "prompt": "What example shows the value of the work?",
+        "category": "detail",
+        "choices": [
+          "A new store was opened in the city of Leeds",
+          "A price cut doubled sales of the coffee",
+          "A coffee and cheese link changed layouts",
+          "A survey led to forty stores closing"
+        ],
+        "answerIndex": 2,
+        "explanation": "The coffee-cheese pattern led to a layout change in forty stores."
+      },
+      {
+        "prompt": "What does the ad imply about the retail experience requirement?",
+        "category": "inference",
+        "choices": [
+          "Only retail veterans are ever considered",
+          "The firm will train good candidates in retail",
+          "The company prefers analysts with no curiosity",
+          "Retail knowledge matters more than clarity"
+        ],
+        "answerIndex": 1,
+        "explanation": "Experience in retail is helpful but not essential; curiosity and clarity matter more."
+      },
+      {
+        "prompt": "What must applicants include?",
+        "category": "detail",
+        "choices": [
+          "A letter from a store manager in the chain",
+          "A list of their favorite retail brands",
+          "A certificate in marketing or analytics",
+          "A sample of past work, figures removed"
+        ],
+        "answerIndex": 3,
+        "explanation": "A sample of previous work with confidential figures removed."
+      }
+    ]
+  },
+  {
+    "id": "p7-331",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Messages between a landlord and a tenant",
+        "text": "Landlord (Mr. Farrow) [9:10]: Good morning, Ms. Ito. I'm writing about the boiler. The engineer can come on Thursday between 8 and 12 to replace the valve, but someone must be there to let him in.\n\nTenant (Ms. Ito) [9:14]: I work on Thursdays, I'm afraid. Could he come on Friday instead?\n\nMr. Farrow [9:16]: Friday is difficult. He's booked on another job all day, and the next free slot is the following Tuesday.\n\nMs. Ito [9:18]: That's a long wait, since the heating has been off since Sunday. Could my neighbor let him in? She has a spare key to my flat.\n\nMr. Farrow [9:21]: Normally I'd prefer that I or my agent be present, but in the circumstances that seems reasonable, provided she agrees and you confirm in writing that she may enter.\n\nMs. Ito [9:23]: I'll ask her this afternoon and send you an email tonight.\n\nMr. Farrow [9:24]: Thank you. I'll tell the engineer to expect her. I should also mention that if the valve doesn't fix the fault, he may need to order a part, which would take about a week.\n\nMs. Ito [9:26]: Understood. Let's hope it doesn't come to that."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What are the two people trying to arrange?",
+        "category": "main_idea",
+        "choices": [
+          "A change in the monthly rent paid",
+          "The sale of the apartment to a buyer",
+          "Entry for a boiler repair while she works",
+          "A visit from a letting agent next week"
+        ],
+        "answerIndex": 2,
+        "explanation": "The engineer needs entry on Thursday when Ms. Ito works."
+      },
+      {
+        "prompt": "Why can't the engineer come on Friday?",
+        "category": "detail",
+        "choices": [
+          "He is booked on another job all day",
+          "He does not work on Fridays at all",
+          "The valve will not arrive until later",
+          "Mr. Farrow will be away that day"
+        ],
+        "answerIndex": 0,
+        "explanation": "He is booked on another job all day Friday."
+      },
+      {
+        "prompt": "What does Mr. Farrow require before the neighbor enters?",
+        "category": "detail",
+        "choices": [
+          "A payment from the neighbor herself",
+          "A visit by his own letting agent",
+          "A signed contract with the engineer",
+          "Written consent from the tenant"
+        ],
+        "answerIndex": 3,
+        "explanation": "He wants Ms. Ito to confirm in writing that the neighbor may enter."
+      },
+      {
+        "prompt": "What does Mr. Farrow's last remark suggest?",
+        "category": "inference",
+        "choices": [
+          "The boiler is too old to be repaired",
+          "The fix might not be finished on Thursday",
+          "The engineer is generally unreliable",
+          "The heating will be repaired free of charge"
+        ],
+        "answerIndex": 1,
+        "explanation": "If the valve doesn't fix the fault, a part may be ordered, taking a week."
+      }
+    ]
+  },
+  {
+    "id": "p7-332",
+    "documents": [
+      {
+        "type": "article",
+        "title": "What happens to a language when its last teacher retires",
+        "text": "In the highland villages of the northern province, the language of the Taru people is spoken daily by only a few hundred elderly residents. Younger people understand it but answer in the national language, and the single remaining school that teaches it is due to close next year, when its only qualified teacher, Mrs. Anwen Tilu, reaches retirement age.\n\nLinguists often describe such moments as the point of no return, since a language that is not learned at school has little chance of being passed on at home. Yet local efforts suggest that the story may not be settled. A group of young parents has begun to hold weekly evenings at which elders tell stories and children repeat them, and a recording project funded by a university has produced nearly two hundred hours of speech.\n\nSpecialists, however, are cautious. Recordings preserve a language but do not keep it alive, and an evening club cannot replace daily use. \"The risk is that people feel they have done something, and stop,\" said one researcher.\n\nMrs. Tilu is not despondent. She has begun to train two former pupils as teachers, though the provincial government has not yet promised to pay them. \"A language lives where there is someone who needs it,\" she says, \"and I believe my pupils will find such a place.\""
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "A school has just been opened for the language",
+          "A fading language nears a critical point",
+          "A university has discovered a new language",
+          "The government has banned the old language"
+        ],
+        "answerIndex": 1,
+        "explanation": "It describes the decline and the local attempts to revive the language."
+      },
+      {
+        "prompt": "What is the researcher's concern about the recordings?",
+        "category": "inference",
+        "choices": [
+          "The recordings are of poor quality",
+          "The elders refuse to be recorded",
+          "The university will keep all the material",
+          "People may think saving speech is enough"
+        ],
+        "answerIndex": 3,
+        "explanation": "Recordings preserve but do not keep a language alive; people 'feel they have done something, and stop'."
+      },
+      {
+        "prompt": "What is the problem with the former pupils?",
+        "category": "detail",
+        "choices": [
+          "Their salaries have not been agreed",
+          "They are not yet qualified in the language",
+          "They have refused to start teaching",
+          "They live too far outside the province"
+        ],
+        "answerIndex": 0,
+        "explanation": "The provincial government has not yet promised to pay them."
+      },
+      {
+        "prompt": "What does Mrs. Tilu's final remark suggest?",
+        "category": "inference",
+        "choices": [
+          "Language is a matter of school grades",
+          "Her pupils will soon leave the province",
+          "A language survives where it is needed",
+          "The national language will be dropped"
+        ],
+        "answerIndex": 2,
+        "explanation": "A language lives where there is someone who needs it."
+      }
+    ]
+  },
+  {
+    "id": "p7-333",
+    "documents": [
+      {
+        "type": "invoice",
+        "title": "Quotation and terms, Calder & Vane Joinery",
+        "text": "CALDER & VANE JOINERY — QUOTATION No. 2291\nClient: Mrs. J. Whitcombe, 14 Larch Avenue\nProject: Fitted bookcases, study (two alcoves)\n\nMaterials (oak veneer board, solid oak edging): 1,860.00\nLabor (fabrication, 30 hours at 48.00): 1,440.00\nLabor (installation, 12 hours at 48.00): 576.00\nFinishing (oil, two coats): 280.00\nDelivery and disposal of packaging: 90.00\nSubtotal: 4,246.00\nValue-added tax (20%): 849.20\nTotal: 5,095.20\n\nTerms: This quotation is valid for thirty days. A deposit of 30 percent is payable on acceptance, and the balance is due on completion. The quotation assumes that the alcoves are square and plumb to within five millimeters; should we find on site that they are not, the cost of additional scribing, which we estimate at between 150 and 300 dollars, will be added. Work will begin about six weeks after the deposit is received. We regret that we cannot provide a fixed completion date, since the timber must be allowed to settle in the room for three days before final fitting."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the document?",
+        "category": "purpose",
+        "choices": [
+          "To request payment of a past invoice",
+          "To advertise a discount on oak",
+          "To report a delay in delivery",
+          "To give a joinery job's price and terms"
+        ],
+        "answerIndex": 3,
+        "explanation": "It is a quotation with costs and terms."
+      },
+      {
+        "prompt": "How much is the deposit, calculated on the total?",
+        "category": "detail",
+        "choices": [
+          "About 849.20",
+          "About 1,528.56",
+          "About 1,860.00",
+          "About 3,566.64"
+        ],
+        "answerIndex": 1,
+        "explanation": "30 percent of 5,095.20 is 1,528.56."
+      },
+      {
+        "prompt": "Why might the final price be higher?",
+        "category": "inference",
+        "choices": [
+          "The oak may cost more by the delivery date",
+          "The deposit may attract extra taxes",
+          "Uneven alcoves may need extra fitting",
+          "The client may extend the project later"
+        ],
+        "answerIndex": 2,
+        "explanation": "Extra scribing of 150 to 300 dollars will be added if the alcoves are not square."
+      },
+      {
+        "prompt": "Why can't the firm give a fixed finish date?",
+        "category": "detail",
+        "choices": [
+          "The wood must settle in the room first",
+          "The firm is still waiting for the deposit",
+          "The tax rate may change before the work",
+          "The installers may be unavailable that week"
+        ],
+        "answerIndex": 0,
+        "explanation": "The timber must settle in the room for three days before final fitting."
+      }
+    ]
+  },
+  {
+    "id": "p7-334",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter of apology from a travel company",
+        "text": "Dear Mr. and Mrs. Valdivia,\n\nThank you for your letter of 30 September about your recent holiday to the Algarve. I have read it twice, and I wish to apologize without reservation for the experience you describe.\n\nYou were promised a sea-view room and were placed in one overlooking the car park for the first four nights. The hotel has explained that a group booking caused an overflow, but that does not excuse the fact that we did not warn you. You also report that the airport transfer was ninety minutes late, a delay that my colleagues attribute to a driver's illness, though I recognize that this is little consolation after a night flight.\n\nWe cannot return the time that you lost, but we can offer some redress. I enclose a refund of 480 dollars, which represents the difference in price between the room you booked and the one you received, together with a voucher for 250 dollars towards a future holiday. I hope you will accept it in the spirit in which it is offered, as an acknowledgement of failure and not as an attempt to buy your silence.\n\nWe have also asked the hotel for a written explanation, which I shall forward when it arrives.\n\nYours sincerely,\nRowena Ashby, Customer Relations"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To apologize and offer some redress",
+          "To confirm a booking for the next year",
+          "To deny that the hotel was at fault",
+          "To request payment for a room upgrade"
+        ],
+        "answerIndex": 0,
+        "explanation": "The writer apologizes and encloses a refund and a voucher."
+      },
+      {
+        "prompt": "Why did the couple have the wrong room?",
+        "category": "detail",
+        "choices": [
+          "They arrived at the hotel on the wrong day",
+          "They had only paid for the cheaper rate",
+          "A group booking overfilled the hotel",
+          "The sea view had been removed by the hotel"
+        ],
+        "answerIndex": 2,
+        "explanation": "A group booking caused an overflow."
+      },
+      {
+        "prompt": "What does 'not as an attempt to buy your silence' suggest?",
+        "category": "inference",
+        "choices": [
+          "The couple threatened to publish a review",
+          "The gift should not be read as a bribe",
+          "The voucher is a legal settlement",
+          "The refund is entirely optional"
+        ],
+        "answerIndex": 1,
+        "explanation": "She wants the offer seen as an acknowledgement, not a bribe."
+      },
+      {
+        "prompt": "What will Ms. Ashby do next?",
+        "category": "inference",
+        "choices": [
+          "Telephone the couple to discuss the refund",
+          "Cancel the voucher that was offered",
+          "Visit the Algarve hotel in person",
+          "Pass on the hotel's written explanation"
+        ],
+        "answerIndex": 3,
+        "explanation": "She has asked the hotel for a written explanation, which she will forward."
+      }
+    ]
+  }
+]
