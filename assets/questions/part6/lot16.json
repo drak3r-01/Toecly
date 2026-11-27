@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p6-455",
+    "documentType": "job_ad",
+    "text": "Senior Compliance Officer – Aldermoor Financial Group\n\nAldermoor Financial Group, a regional provider of savings and mortgage products, seeks a Senior Compliance Officer to ensure that its activities conform to the requirements of the financial regulator. [1] The post reports to the General Counsel and involves regular dealings with external auditors.\n\nThe successful candidate will have a professional qualification in law or accountancy and at least six years' experience in a regulated financial institution. Experience of [2] a team is essential, as the officer will manage three analysts. [3] the group operates only in this country, familiarity with European regulation would be an advantage, [4] it is considering expansion abroad.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The role demands both technical rigour and the judgement to advise senior managers when commercial aims conflict with regulatory duty.",
+          "The role demands neither technical rigour nor the judgement to advise junior managers when commercial aims coincide with regulatory duty.",
+          "The role demanded both technical rigour and the judgement to advise senior managers when commercial aims conflicted.",
+          "The regulator demands both technical rigour and the judgement of senior managers when commercial aims conflict with advice."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says the post reports to the General Counsel and deals with auditors, so the previous one should state the demands of the role; only the first does coherently. The others negate the demands, use past tenses, or confuse the regulator and the officer."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "led",
+          "leading",
+          "lead",
+          "leader"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Experience of leading a team' needs a gerund after the preposition 'of'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Whenever"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although the group operates only in this country' concedes a limit before the advantage; the others do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "whereas",
+          "albeit",
+          "since"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Since it is considering expansion abroad' gives the reason for the advantage; 'unless' and 'whereas' do not, and 'albeit' introduces a concession."
+      }
+    ]
+  },
+  {
+    "id": "p6-456",
+    "documentType": "notice",
+    "text": "TENANTS' NOTICE – REPLACEMENT OF PASSENGER LIFTS\n\nThe managing agent wishes to inform residents that both passenger lifts in Calder House will be replaced between 5 May and 27 June. [1] During this period, one lift will remain in service at all times except for brief interruptions of up to thirty minutes while safety tests are carried out.\n\nResidents on the upper floors who find the stairs difficult are invited to [2] the building office, so that alternative arrangements can be made for deliveries and, [3] necessary, for the transport of medical equipment. The managing agent regrets any inconvenience and will [4] a progress report on the notice board each Friday.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The existing lifts are more than thirty years old and can no longer be maintained to current safety standards.",
+          "The new lifts are more than thirty years old and can no longer be installed to current safety standards.",
+          "The existing lifts were more than thirty years old and could no longer be maintained until current safety standards were applied.",
+          "The existing stairs are more than thirty years old and can no longer be climbed to current safety standards."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says 'During this period, one lift will remain in service', so the previous one should explain why the lifts are replaced; only the first does coherently. The others mention new lifts, use a past tense, or refer to stairs."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "contract",
+          "contact",
+          "contrast",
+          "contend"
+        ],
+        "answerIndex": 1,
+        "explanation": "Residents are invited to 'contact' the office; 'contract', 'contrast' and 'contend' do not take 'the building office' this way."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "which",
+          "whom",
+          "where",
+          "whose"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Where necessary' is the fixed elliptical expression meaning if it is necessary."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "displace",
+          "dispose",
+          "dispute",
+          "display"
+        ],
+        "answerIndex": 3,
+        "explanation": "The agent will 'display' a progress report on the notice board; the other verbs do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-457",
+    "documentType": "letter",
+    "text": "Dear Mr. Okafor,\n\nThank you for your letter of 9 October regarding the delay in processing your application for planning permission. I am sorry to learn that you have waited more than twelve weeks for a decision. The statutory period for householder applications is eight weeks, [1] in your case the delay was caused by a backlog that followed the departure of two senior officers.\n\n[2] Your application has now been assigned to an experienced case officer, who will visit the site on 24 October. A decision will be issued [3] fourteen days of that visit, unless further information is required. In the meantime, we will [4] your application fee, as a gesture of goodwill.\n\nYours sincerely,\nHannah Weiss\nPlanning Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "but",
+          "so",
+          "for",
+          "nor"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence contrasts the statutory period with the actual delay."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "I accept that this is an acceptable standard of service, and I have taken steps to prevent its recurrence.",
+          "I accept that this is not an acceptable standard of service, and I have taken steps to prevent its recurrence.",
+          "I accepted that this was not an acceptable standard of service, and I took steps to prevent its recurrence.",
+          "I accept that your application is not an acceptable standard, and I have taken steps to prevent its approval."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence reports action on the application, so the previous one should acknowledge the failure and promise improvement; only the first does coherently. The others deny the failing, use past tenses, or confuse the application and the service."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "until",
+          "within",
+          "since"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Within fourteen days of that visit' gives a time limit after an event; the others do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "refine",
+          "refute",
+          "reform",
+          "refund"
+        ],
+        "answerIndex": 3,
+        "explanation": "The council will 'refund' the application fee, meaning repay it; the others do not take 'fee' as an object sensibly."
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p6-461",
+    "documentType": "memo",
+    "text": "To: Department Managers\nFrom: Bernadette Roux, Head of Internal Communications\nSubject: Guidance on media enquiries\n\nIn recent weeks, several employees have been approached by journalists seeking comment on the proposed merger. [1] Staff are reminded that only the press office is authorized to speak on behalf of the company, and that any enquiry must be [2] to that office without delay.\n\nThis rule applies [3] of the medium used, including social networks. Employees who wish to express personal views online should make clear that these are their own and do not reflect the position of the company. [4] a breach of confidentiality is suspected, the matter will be investigated under the disciplinary procedure.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Such approaches are likely to increase as negotiations advance, and a consistent response is essential to protect the company's position.",
+          "Such approaches are likely to decrease as negotiations advance, and a consistent response is unnecessary to protect the company's position.",
+          "Such approaches were likely to increase as negotiations advanced, and a consistent response had been essential to protect the position.",
+          "Such negotiations are likely to increase as approaches advance, and a consistent position is essential to protect the company's response."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence reminds staff of the rule on speaking for the company, so the previous one should explain why a consistent response matters; only the first does so coherently."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "refrained",
+          "referred",
+          "retreated",
+          "resigned"
+        ],
+        "answerIndex": 1,
+        "explanation": "An enquiry must be 'referred to' the press office, meaning passed on; the others do not fit."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "notwithstanding",
+          "apart",
+          "irrespective",
+          "aside"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Irrespective of the medium used' is the fixed expression meaning regardless; the others are not followed by 'of' in this sense."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Wherein",
+          "Whereby",
+          "Where"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Where a breach of confidentiality is suspected' introduces a specific case; 'whereas' contrasts, 'wherein' and 'whereby' do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-462",
+    "documentType": "form",
+    "text": "Request for Variation of Contract – Notes for Completion\n\nThis form should be completed whenever a change is sought to the scope, price or timetable of an existing contract. [1] Requests that are incomplete will be returned to the sender, and the review period will not begin until a fully completed form has been received.\n\nPlease state clearly the reason for the proposed variation and attach any supporting documents. Where the change would [2] the total contract value by more than ten percent, approval must be obtained from the finance director. [3] a request is approved, a revised contract will be issued, and the original terms will remain in force [4] the revision has been signed by both parties.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "A separate form must be used for each variation, even where several changes are requested under the same contract.",
+          "A single form must be used for all variations, even where several changes are requested under different contracts.",
+          "A separate form was used for each variation, even where several changes were requested under the same contract.",
+          "A separate form must be used for each contract, even where no variations are requested under the same change."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says incomplete requests will be returned, continuing a procedural rule; the first option sets a procedural rule on forms. The others reverse it or use a past tense or confuse contract and variation."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "inscribe",
+          "increase",
+          "induce",
+          "inhabit"
+        ],
+        "answerIndex": 1,
+        "explanation": "A change that would 'increase' the contract value by ten percent is the only sensible choice; the others do not take 'value' as an object."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Albeit",
+          "Once",
+          "Unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Once a request is approved, a revised contract will be issued' sets the sequence of events; 'whereas' contrasts, 'albeit' concedes, and 'unless' would reverse the meaning."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "whereas",
+          "although",
+          "until"
+        ],
+        "answerIndex": 3,
+        "explanation": "The original terms remain in force 'until' the revision is signed; the others do not fit."
+      }
+    ]
+  }
+]
