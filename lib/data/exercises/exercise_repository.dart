@@ -38,7 +38,7 @@ class ExerciseRepository {
       }
       if (total == questionCount) break;
     }
-    return drawn;
+    return _shuffleChoices(drawn);
   }
 
   /// Draws a mock exam: Part 5, then Part 6, then Part 7 (single, double, triple).
@@ -52,13 +52,13 @@ class ExerciseRepository {
     bool part7WithDocs(Exercise e, int docs) =>
         e.part == ToeicPart.part7 && e.documents.length == docs;
 
-    return [
+    return _shuffleChoices([
       ...pick((e) => e.part == ToeicPart.part5, blueprint.part5Questions),
       ...pick((e) => e.part == ToeicPart.part6, blueprint.part6Exercises),
       ...pick((e) => part7WithDocs(e, 1), blueprint.part7SingleExercises),
       ...pick((e) => part7WithDocs(e, 2), blueprint.part7DoubleExercises),
       ...pick((e) => part7WithDocs(e, 3), blueprint.part7TripleExercises),
-    ];
+    ]);
   }
 
   /// Finds the exercises owning the given question ids (review mode).
@@ -82,6 +82,10 @@ class ExerciseRepository {
       drawn.add(exercise);
       total += exercise.questions.length;
     }
-    return drawn;
+    return _shuffleChoices(drawn);
   }
+
+  /// Choices are shuffled at draw time so the data files and saved ids stay untouched.
+  List<Exercise> _shuffleChoices(List<Exercise> exercises) =>
+      [for (final e in exercises) e.shuffled(_random)];
 }
