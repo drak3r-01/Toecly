@@ -1,0 +1,327 @@
+[
+  {
+    "id": "p5-1427",
+    "sentence": "The contract expressly forbids the supplier ___ subcontracting any part of the work.",
+    "choices": [
+      "of",
+      "to",
+      "against",
+      "from"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Forbid from + gerund' is the pattern here. 'to' and 'of' do not fit, and 'against' is used after 'warn'."
+  },
+  {
+    "id": "p5-1428",
+    "sentence": "The new manager proved ___ more effective than her predecessor in dealing with difficult clients.",
+    "choices": [
+      "very",
+      "far",
+      "much to",
+      "too"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Far more effective' is the intensified comparative. 'very' cannot modify a comparative, and the others do not fit."
+  },
+  {
+    "id": "p5-1429",
+    "sentence": "Of the three bids received, the second was ___ the most competitive.",
+    "choices": [
+      "at far",
+      "by long",
+      "far by",
+      "by far"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'By far the most' is the fixed superlative intensifier. The others are malformed."
+  },
+  {
+    "id": "p5-1430",
+    "sentence": "The more complex the product, ___ it is to maintain consistent quality across factories.",
+    "choices": [
+      "the harder",
+      "harder",
+      "hardest",
+      "the hardest"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "The double comparative 'the more..., the harder' is required. The others do not fit."
+  },
+  {
+    "id": "p5-1432",
+    "sentence": "The company spent ___ less than it had budgeted on the refurbishment of its head office.",
+    "choices": [
+      "considerably",
+      "considerate",
+      "considerable to",
+      "considering"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb is needed to modify the comparative 'less'. The others are not adverbs."
+  },
+  {
+    "id": "p5-1433",
+    "sentence": "The auditors found that ___ the figures had been altered to conceal the shortfall.",
+    "choices": [
+      "those of",
+      "some of",
+      "some",
+      "most to"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Some of the figures' is a partitive. 'some' alone cannot precede 'the figures', and the others are malformed."
+  },
+  {
+    "id": "p5-1434",
+    "sentence": "A great deal of ___ was lost when the old system was replaced without a proper handover.",
+    "choices": [
+      "informations",
+      "knowledges",
+      "information",
+      "data's"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Information' is uncountable and follows 'a great deal of'. The others are incorrect plurals or possessives."
+  },
+  {
+    "id": "p5-1435",
+    "sentence": "Several of the proposals, ___ the most ambitious, were rejected outright by the board.",
+    "choices": [
+      "included",
+      "includes",
+      "to include",
+      "including"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Including' is a preposition-like participle. The others do not fit."
+  },
+  {
+    "id": "p5-1436",
+    "sentence": "The new rules apply to all employees, ___ those on temporary contracts.",
+    "choices": [
+      "includes",
+      "including",
+      "to include",
+      "included"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Including' introduces an example. The others do not fit."
+  },
+  {
+    "id": "p5-1438",
+    "sentence": "The factory will close permanently ___ a buyer is found within the next three months.",
+    "choices": [
+      "as if",
+      "whereas",
+      "once more",
+      "unless"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Unless' introduces an exception. The others do not."
+  },
+  {
+    "id": "p5-1440",
+    "sentence": "Applicants ___ for senior roles are expected to hold a recognised professional qualification.",
+    "choices": [
+      "applied",
+      "applying",
+      "who applies",
+      "to apply"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A present participle reduces an active relative clause. The others do not fit."
+  },
+  {
+    "id": "p5-1441",
+    "sentence": "The firm's board has ___ the proposal, which is now awaiting shareholder approval.",
+    "choices": [
+      "endorse",
+      "to endorse",
+      "endorsing",
+      "endorsed"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "The present perfect needs a past participle. The others do not fit."
+  },
+  {
+    "id": "p5-1442",
+    "sentence": "The study, ___ over a period of five years, tracked the career progress of five thousand graduates.",
+    "choices": [
+      "conduct",
+      "to conduct",
+      "conducted",
+      "conducting"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past participle reduces a passive relative clause. The others do not fit."
+  },
+  {
+    "id": "p5-1443",
+    "sentence": "The ___ of the legal team's advice prevented a costly mistake.",
+    "choices": [
+      "timeliness",
+      "timelessly",
+      "timely",
+      "timelier"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A noun is needed after 'The'. The others are adjectives or an adverb."
+  },
+  {
+    "id": "p5-1444",
+    "sentence": "The new software is ___ to use than the previous version, according to most staff.",
+    "choices": [
+      "easier",
+      "ease",
+      "easiest",
+      "easily"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A comparative adjective is needed with 'than'. The others do not fit."
+  },
+  {
+    "id": "p5-1445",
+    "sentence": "The firm ___ announced that it would not be renewing the contract with its largest supplier.",
+    "choices": [
+      "formality",
+      "formal",
+      "formalise",
+      "formally"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adverb modifies 'announced'. The others do not fit."
+  },
+  {
+    "id": "p5-1446",
+    "sentence": "Having ___ the shortfall, the finance team proposed a revised budget for the second half of the year.",
+    "choices": [
+      "identifying",
+      "identified",
+      "identity",
+      "identify"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Having + past participle' forms the perfect participle. The others do not fit."
+  },
+  {
+    "id": "p5-1447",
+    "sentence": "The firm is considering ___ part of its operations to a lower-cost location.",
+    "choices": [
+      "relocate",
+      "relocation",
+      "relocating",
+      "to relocated"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Consider' is followed by a gerund. The others do not fit."
+  },
+  {
+    "id": "p5-1448",
+    "sentence": "The inspector's report is likely to ___ widespread criticism of the firm's safety record.",
+    "choices": [
+      "proclaim",
+      "prevent",
+      "provide",
+      "provoke"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Provoke criticism' means cause it. 'Provide' means supply, 'prevent' means stop, and 'proclaim' means announce publicly."
+  },
+  {
+    "id": "p5-1449",
+    "sentence": "Owing to recent staff shortages, the department has had to ___ on temporary workers.",
+    "choices": [
+      "draft",
+      "draw",
+      "drag",
+      "drift"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Draw on' means use as a resource. The others do not fit."
+  },
+  {
+    "id": "p5-1450",
+    "sentence": "The firm was ___ for failing to disclose the full extent of its debts to potential investors.",
+    "choices": [
+      "censured to",
+      "censored",
+      "censured",
+      "censuring"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Censured' means formally reprimanded. 'Censored' means suppressed, and the others are malformed."
+  },
+  {
+    "id": "p5-1451",
+    "sentence": "The project manager had to ___ the team's expectations after the first round of budget cuts.",
+    "choices": [
+      "temper",
+      "tender",
+      "tamper",
+      "taper"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Temper expectations' means moderate them. The others do not collocate."
+  },
+  {
+    "id": "p5-1452",
+    "sentence": "The airline's reputation has ___ following the publication of the safety report.",
+    "choices": [
+      "succeeded",
+      "suffered",
+      "suggested",
+      "suffused"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Reputation has suffered' means been damaged. The others do not fit."
+  },
+  {
+    "id": "p5-1453",
+    "sentence": "The firm relies heavily on ___ labour during the peak season, which runs from October to December.",
+    "choices": [
+      "seasonal",
+      "seasoned",
+      "seasonable",
+      "seasoning"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Seasonal labour' means temporary workers for a season. 'Seasoned' means experienced, 'seasonable' means suited to the season, and 'seasoning' is flavouring."
+  },
+  {
+    "id": "p5-1454",
+    "sentence": "The chair was unable to ___ order after the dispute between the two directors flared up.",
+    "choices": [
+      "restrict",
+      "restrain",
+      "restore",
+      "restate"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Restore order' means bring back. The others do not collocate."
+  }
+]

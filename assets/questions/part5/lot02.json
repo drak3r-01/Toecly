@@ -1,31 +1,5 @@
 [
   {
-    "id": "p5-956",
-    "sentence": "The workers called a ___ strike in protest at the dismissal of two colleagues.",
-    "choices": [
-      "tidy",
-      "tense",
-      "tacit",
-      "token"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "A 'token strike' is a short strike to show protest. The other adjectives do not collocate with 'strike'."
-  },
-  {
-    "id": "p5-959",
-    "sentence": "Under the terms of the contract, all intellectual property ___ to the client upon completion.",
-    "choices": [
-      "reverts",
-      "retains",
-      "retreats",
-      "resides"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Reverts to' means returns to a former owner. 'Resides' needs 'in', 'retreats' means withdraws, and 'retains' needs an object."
-  },
-  {
     "id": "p5-962",
     "sentence": "The firm's management structure is ___ and hampers swift decision-making.",
     "choices": [
@@ -221,19 +195,6 @@
     "explanation": "'Confined to' means limited to. 'Confused' means mixed up, 'confirmed' means verified, and 'conferred' means bestowed."
   },
   {
-    "id": "p5-1069",
-    "sentence": "The company was ___ to bankruptcy by a series of poorly judged acquisitions.",
-    "choices": [
-      "drawn",
-      "drifted",
-      "dragged",
-      "driven"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Driven to bankruptcy' means pushed into it. 'Drawn' and 'dragged' do not take 'to bankruptcy' naturally, and 'drifted' is intransitive."
-  },
-  {
     "id": "p5-1079",
     "sentence": "The retailer ___ its prices by an average of eight percent this quarter.",
     "choices": [
@@ -349,19 +310,6 @@
     "answerIndex": 2,
     "category": "grammar",
     "explanation": "'Seldom' triggers inversion; with a past participle 'recovered' the present perfect 'has' is needed. 'does' and 'will' require a bare verb, and 'is' needs a different participle."
-  },
-  {
-    "id": "p5-1206",
-    "sentence": "Under no circumstances ___ the warranty be extended beyond the period stated in the contract.",
-    "choices": [
-      "will",
-      "does",
-      "is",
-      "has"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "After a negative adverbial in first position, inversion with a modal is required. 'does' and 'has' cannot precede 'be extended', and 'is' would need 'being'."
   },
   {
     "id": "p5-1207",
@@ -518,5 +466,57 @@
     "answerIndex": 2,
     "category": "vocabulary",
     "explanation": "'Buoyant' means staying strong. 'Bountiful' means generous, 'brisk to' is malformed, and 'bashful' means shy."
+  },
+  {
+    "id": "p5-1219",
+    "sentence": "The firm was ___ to pay substantial damages after the court found it had breached the exclusivity clause.",
+    "choices": [
+      "prompted",
+      "advised",
+      "urged",
+      "ordered"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Ordered to pay' is the court-imposed obligation. 'Urged' and 'advised' are non-binding, and 'prompted' needs a different structure."
+  },
+  {
+    "id": "p5-1220",
+    "sentence": "The CEO's remarks were widely ___ as an attempt to reassure shareholders ahead of the vote.",
+    "choices": [
+      "interrupted",
+      "intercepted",
+      "interpreted",
+      "interjected"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Interpreted as' means understood as. 'Intercepted', 'interrupted' and 'interjected' do not take 'as an attempt'."
+  },
+  {
+    "id": "p5-1221",
+    "sentence": "The retailer has ___ a rigorous inspection regime to detect counterfeit goods before they reach the shelves.",
+    "choices": [
+      "insinuated",
+      "instigated",
+      "instituted",
+      "instructed"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Instituted a regime' means established it. 'Instigated' means provoked, 'instructed' means directed, and 'insinuated' means hinted."
+  },
+  {
+    "id": "p5-1222",
+    "sentence": "The tribunal found that the dismissal had been procedurally ___ even though the grounds were valid.",
+    "choices": [
+      "unjust to",
+      "unfit",
+      "unfair",
+      "unsound at"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Procedurally unfair' is the standard employment-law phrase. 'unjust to' and 'unsound at' are malformed, and 'unfit' means unsuitable."
   }
 ]
