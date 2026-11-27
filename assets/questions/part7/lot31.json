@@ -1,0 +1,542 @@
+[
+  {
+    "id": "p7-318",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The paradox of the paperless office",
+        "text": "Thirty years ago, forecasters promised that computers would banish paper from the workplace. Today, most offices consume more of it than ever, and a recent survey of two thousand firms suggests that the habit is not merely stubborn but, in some respects, rational.\n\nResearchers who observed staff at work found that people print documents not out of ignorance but when a task demands careful attention: reviewing a contract, comparing two budgets, or marking a draft. On a screen, they noted, readers tend to skim, and errors that would be caught on paper often slip through. One accountant described printing a spreadsheet as \"the only way I can see what is wrong with it\".\n\nThe cost, however, is considerable. Paper, toner and storage account for a surprising share of overheads, and the files kept in cabinets are frequently duplicated in digital form, so that no one knows which version is authoritative. Several firms have therefore adopted a compromise: a printing budget for each department, with no restriction on how it is spent. Early results show a reduction of a third in paper use, with no rise in complaints.\n\nThe lesson, according to the study's authors, is that policies forbidding paper tend to fail, because they treat a working method as a bad habit. Policies that make it a considered choice appear to succeed."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the central point of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Offices should ban printing in all departments",
+          "Computers have failed to improve office work",
+          "Paper endures because it suits some careful tasks",
+          "Staff print documents out of plain ignorance"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article shows paper use is tied to careful tasks, and suggests managing it rather than banning it."
+      },
+      {
+        "prompt": "Why do the accountants print spreadsheets?",
+        "category": "detail",
+        "choices": [
+          "Mistakes are easier to notice on paper",
+          "The software cannot open large files",
+          "Managers insist on printed copies",
+          "The printing is free for staff"
+        ],
+        "answerIndex": 0,
+        "explanation": "On screen readers skim and errors slip through; printing shows what is wrong."
+      },
+      {
+        "prompt": "What can be inferred about the departmental budgets?",
+        "category": "inference",
+        "choices": [
+          "They forced staff to stop printing entirely",
+          "They doubled the cost of paper in each unit",
+          "They were rejected by most employees",
+          "They cut waste without banning printing"
+        ],
+        "answerIndex": 3,
+        "explanation": "Paper use fell by a third with no rise in complaints and no restriction on spending."
+      },
+      {
+        "prompt": "What do the authors think about bans on paper?",
+        "category": "inference",
+        "choices": [
+          "They always succeed when applied in large firms",
+          "They often fail by ignoring working methods",
+          "They are popular with most employees",
+          "They reduce overheads far more than budgets"
+        ],
+        "answerIndex": 1,
+        "explanation": "Bans treat a working method as a bad habit."
+      }
+    ]
+  },
+  {
+    "id": "p7-319",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Application for a transfer to the Lyon office",
+        "text": "Dear Ms. Delacroix-Hart,\n\nI am writing to apply for the vacancy for Senior Financial Analyst at the Lyon office, which was announced internally on 6 May. I have worked in the Manchester team for six years, the last three as a senior member, and I believe my experience would suit the role.\n\nOver the past eighteen months, I led the project that merged our reporting procedures with those of the Lisbon subsidiary, a task that involved reconciling two accounting systems and training twenty colleagues. The project finished a month ahead of schedule, and it reduced the time needed to close the quarterly accounts by almost two days. I should add that I am fluent in French, having studied at a university in Grenoble, and that I have visited the Lyon office several times for joint meetings.\n\nI recognize that the post is advertised as requiring seven years' experience, one more than I have. I would suggest, however, that the breadth of my work on the Lisbon project compensates for the difference, and I would be glad to discuss this with you. My manager, Mr. Hargreaves, is aware of my application and has indicated that he would support it, though he would need two months to find a replacement.\n\nI enclose my CV and look forward to hearing from you.\n\nYours sincerely,\nEwa Kowalczyk"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To resign from the company next month",
+          "To apply for a post at another office",
+          "To complain about the conduct of a manager",
+          "To ask for a salary increase this year"
+        ],
+        "answerIndex": 1,
+        "explanation": "She applies for the Senior Financial Analyst vacancy in Lyon."
+      },
+      {
+        "prompt": "What was the result of the Lisbon project?",
+        "category": "detail",
+        "choices": [
+          "The Lyon office was opened a month early",
+          "Twenty colleagues were dismissed afterward",
+          "The French course was cancelled for staff",
+          "The quarterly accounts closed sooner"
+        ],
+        "answerIndex": 3,
+        "explanation": "It reduced the time to close the quarterly accounts by almost two days."
+      },
+      {
+        "prompt": "Why does Ms. Kowalczyk mention her French?",
+        "category": "inference",
+        "choices": [
+          "It would help her work in the Lyon office",
+          "It is required by the advertisement only",
+          "It proves that she has already worked in Lyon",
+          "It will replace the seven-year requirement"
+        ],
+        "answerIndex": 0,
+        "explanation": "She is fluent in French and has visited the Lyon office; it supports her suitability."
+      },
+      {
+        "prompt": "What does she say about the experience requirement?",
+        "category": "inference",
+        "choices": [
+          "She meets it exactly after six years",
+          "She believes the requirement should be removed",
+          "She falls one year short but cites breadth",
+          "She exceeds it by one year of work"
+        ],
+        "answerIndex": 2,
+        "explanation": "The post requires seven years and she has six, but she says her breadth compensates."
+      }
+    ]
+  },
+  {
+    "id": "p7-320",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Policy on data retention for customers of Stratus Cloud",
+        "text": "How long do we keep your data? The answer depends on what kind of data it is and on whether you have closed your account.\n\nFiles and content that you upload are stored for as long as your account remains active. If you close your account, your files are deleted from our live servers within thirty days. Copies held in backup systems are overwritten on a rolling basis and will have disappeared entirely within a further ninety days. During this period, the backups are not accessible to our staff except where required by law.\n\nBilling records, including invoices and payment dates, are kept for seven years after the transaction, because tax regulations oblige us to do so. They do not contain the content of your files. Technical logs, which record when and from where you logged in, are kept for twelve months to help us investigate security incidents; after that, they are anonymized so that they can no longer be linked to you.\n\nYou may ask us at any time to export or delete your data. Requests are normally completed within five working days, though we may ask you to confirm your identity first. We are unable to delete data that we are legally required to keep, but we will tell you which data this applies to and for how long."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the page?",
+        "category": "main_idea",
+        "choices": [
+          "To announce a security breach to users",
+          "To advertise a cheaper storage plan online",
+          "To describe how to upload files safely",
+          "To explain how long data is kept"
+        ],
+        "answerIndex": 3,
+        "explanation": "The page lists retention periods for files, billing records and logs."
+      },
+      {
+        "prompt": "How long after account closure do backups disappear completely?",
+        "category": "detail",
+        "choices": [
+          "Within thirty days of the closure date",
+          "Within about four months of closure",
+          "Within seven years of the closure date",
+          "After twelve months of the closure date"
+        ],
+        "answerIndex": 1,
+        "explanation": "Files are removed within thirty days and backups within a further ninety days."
+      },
+      {
+        "prompt": "What can be inferred about billing records?",
+        "category": "inference",
+        "choices": [
+          "They contain the files that users upload",
+          "They are deleted after twelve months",
+          "They are kept because the law requires it",
+          "They can be removed on request at once"
+        ],
+        "answerIndex": 2,
+        "explanation": "Tax regulations oblige the company to keep them for seven years."
+      },
+      {
+        "prompt": "What happens to old technical logs?",
+        "category": "detail",
+        "choices": [
+          "They are made anonymous after a year",
+          "They are deleted after thirty days",
+          "They are sent to the user",
+          "They are kept for seven years"
+        ],
+        "answerIndex": 0,
+        "explanation": "After twelve months they are anonymized so they cannot be linked to you."
+      }
+    ]
+  },
+  {
+    "id": "p7-321",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Chat between an editor and an author",
+        "text": "Marianne Voss [11:02]: Good morning, Daniel. I've finished the first read of chapter nine, and I think it's the best chapter in the book. The argument finally has a shape.\n\nDaniel Achterberg [11:05]: That's a relief. I rewrote it three times. Did the section on the 1920s crisis work?\n\nMarianne Voss [11:07]: Largely, yes. My only worry is the paragraph on page 212 where you say that the bank \"could not have foreseen\" the collapse. Elsewhere in the chapter you show that two directors warned of it in writing.\n\nDaniel Achterberg [11:10]: Good catch. I meant that the board could not have foreseen it, not the directors individually. I'll make the distinction clear.\n\nMarianne Voss [11:12]: Please do, because a reviewer will certainly notice. And, while you're there, could you cut the footnote about the lawsuit? It's interesting but it interrupts the argument.\n\nDaniel Achterberg [11:14]: I'd prefer to keep it, perhaps moved to the notes at the back.\n\nMarianne Voss [11:15]: That works. When can I expect the revised chapter?\n\nDaniel Achterberg [11:17]: Friday morning, if nothing else comes up."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the editor's main reaction to the chapter?",
+        "category": "main_idea",
+        "choices": [
+          "She finds it strong but queries one point",
+          "She wants it rewritten from the beginning",
+          "She thinks it should be left out of the book",
+          "She finds the argument still unclear"
+        ],
+        "answerIndex": 0,
+        "explanation": "She praises it and flags one contradiction and a footnote."
+      },
+      {
+        "prompt": "What is the inconsistency on page 212?",
+        "category": "detail",
+        "choices": [
+          "The date of the crisis is given wrongly twice",
+          "The lawsuit is described in two chapters",
+          "The bank 'could not foresee' what was warned",
+          "Two directors are said to have resigned"
+        ],
+        "answerIndex": 2,
+        "explanation": "The text says the bank could not have foreseen collapse but shows two directors warned of it."
+      },
+      {
+        "prompt": "What does the author's reply imply?",
+        "category": "inference",
+        "choices": [
+          "He disagrees with the editor's reading of it",
+          "He meant the board, not each director",
+          "He intends to remove the paragraph entirely",
+          "He has not read his own chapter closely"
+        ],
+        "answerIndex": 1,
+        "explanation": "He meant 'the board could not have foreseen it, not the directors individually'."
+      },
+      {
+        "prompt": "What is agreed about the footnote?",
+        "category": "detail",
+        "choices": [
+          "It will be deleted before the proof stage",
+          "It will stay on the same page as before",
+          "It will be written again by the editor",
+          "It will be moved to the back notes"
+        ],
+        "answerIndex": 3,
+        "explanation": "The author prefers keeping it in the notes at the back, and the editor says that works."
+      }
+    ]
+  },
+  {
+    "id": "p7-322",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The stubborn appeal of the commuter railway",
+        "text": "When engineers proposed the Ellsworth line in the 1990s, critics called it a relic: a rail route to a city whose centre was losing jobs to the suburbs. Two decades later, the line carries more passengers than any other in the region, and the authorities are planning a second track.\n\nThe reasons are only partly the ones that planners foresaw. The line was expected to serve commuters, and it does, but it has also become a route for students, who travel to three colleges along its length, and for retired residents making daytime trips for appointments and shopping. Because trains run every fifteen minutes, many passengers no longer consult a timetable, a habit that transport specialists say is the best indicator of a successful service.\n\nNot all the results have been welcome. House prices near the stations have risen by almost half, pushing out some of the residents the line was meant to help. A study found that nearly a third of those living within walking distance of the stops are now new arrivals, mostly younger professionals.\n\nThe authorities say that they will require developers of new housing near the stations to include affordable homes, though similar rules elsewhere have been difficult to enforce."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main point of the article?",
+        "category": "main_idea",
+        "choices": [
+          "A line was cancelled after local protests",
+          "Commuters prefer driving to taking trains",
+          "A railway outdid forecasts, with side effects",
+          "Planners predicted every outcome correctly"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article details unexpected success and rising house prices."
+      },
+      {
+        "prompt": "What does 'consult a timetable' suggest about the service?",
+        "category": "inference",
+        "choices": [
+          "Frequent trains mean riders need not plan ahead",
+          "The timetable is difficult for riders to read",
+          "Passengers dislike the printed timetable",
+          "The trains run only during rush hour"
+        ],
+        "answerIndex": 0,
+        "explanation": "With trains every fifteen minutes, many no longer consult a timetable, an indicator of success."
+      },
+      {
+        "prompt": "Who uses the line besides commuters?",
+        "category": "detail",
+        "choices": [
+          "Tourists and truck drivers",
+          "Factory workers and officials",
+          "Children traveling to school",
+          "Students and retired residents"
+        ],
+        "answerIndex": 3,
+        "explanation": "Students travel to three colleges and retired residents make daytime trips."
+      },
+      {
+        "prompt": "What can be inferred about the affordable-homes rule?",
+        "category": "inference",
+        "choices": [
+          "It has already solved the local housing problem",
+          "Its success is uncertain, as enforcement is hard",
+          "It applies only to buildings that already exist",
+          "It was rejected by every developer approached"
+        ],
+        "answerIndex": 1,
+        "explanation": "Similar rules elsewhere have been difficult to enforce."
+      }
+    ]
+  },
+  {
+    "id": "p7-323",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Proposal to introduce core hours",
+        "text": "MEMORANDUM\nTo: Department Heads\nFrom: Sunita Raghavan, Human Resources Director\nSubject: Proposal to introduce core hours\n\nI am writing to propose that the company replace its present arrangement of fully flexible working hours with a system of core hours, under which all staff would be expected to be available between 10 a.m. and 3 p.m., while remaining free to arrange the remainder of their day.\n\nThe proposal responds to complaints that I have received from several departments. Under the present system, staff may begin work at any time between 7 a.m. and 11 a.m., and it is not unusual for a meeting to be impossible to arrange because no two members of a team are present at once. A survey of fifty managers found that nearly two thirds had abandoned at least one meeting in the past month for this reason.\n\nI should stress that the proposal is not intended to abolish flexibility. Employees who need to adjust their hours for family or medical reasons would be able to apply for an exemption, and no one would be required to work longer than at present. I recognize that some staff, particularly those who commute from far away, may find the change inconvenient.\n\nI would be grateful for your comments by the end of the month, after which I shall prepare a proposal for the executive committee."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the memo?",
+        "category": "purpose",
+        "choices": [
+          "To cancel flexible hours for every employee",
+          "To propose a shared period of availability",
+          "To increase the length of the working week",
+          "To announce a new bus for commuters"
+        ],
+        "answerIndex": 1,
+        "explanation": "Core hours of 10 a.m. to 3 p.m. would apply to all staff."
+      },
+      {
+        "prompt": "Why is the change proposed?",
+        "category": "detail",
+        "choices": [
+          "Staff have asked for longer working hours",
+          "Managers want to monitor attendance closely",
+          "The offices will close earlier in the day",
+          "Teams struggle to find times for meetings"
+        ],
+        "answerIndex": 3,
+        "explanation": "Meetings become impossible when no two team members are present at once."
+      },
+      {
+        "prompt": "What can be inferred about employees with family needs?",
+        "category": "inference",
+        "choices": [
+          "They could seek an exemption from core hours",
+          "They would be required to work longer hours",
+          "They would lose all of their flexibility",
+          "They would be moved to another office"
+        ],
+        "answerIndex": 0,
+        "explanation": "Employees needing to adjust hours for family or medical reasons may apply for an exemption."
+      },
+      {
+        "prompt": "What does Ms. Raghavan acknowledge?",
+        "category": "inference",
+        "choices": [
+          "The survey of managers was not reliable",
+          "The proposal will save the company money",
+          "Long commutes may make the change harder",
+          "Managers will resist the change strongly"
+        ],
+        "answerIndex": 2,
+        "explanation": "She notes that those commuting from far away may find the change inconvenient."
+      }
+    ]
+  },
+  {
+    "id": "p7-324",
+    "documents": [
+      {
+        "type": "review",
+        "title": "A reissue that deserves its second life",
+        "text": "When The Salt Roads first appeared in 1974, it sold modestly and was forgotten within a decade. Its reissue this month, with a foreword by one of the novelists it influenced, is a welcome act of rescue. The book follows a family of salt traders across a mountain pass over a single year, and it is remarkable for its refusal to dramatize what it describes.\n\nWhere a modern novelist might turn a blizzard into a set piece, Hanna Ruiz gives it a paragraph, and the reader is made to feel the weight of days through repetition: the loading of the mules, the counting of coins, the evening arguments about prices. The effect is hypnotic, though it may test the patience of those who expect a plot. The second half, in which a daughter quietly defies her father's choice of husband, is the most moving, precisely because the author withholds any comment.\n\nThe foreword is less successful. It spends too much time on the writer's own debt to the book and too little on the book itself. The edition also lacks a map, a serious omission in a novel so concerned with geography.\n\nThese are small objections. The Salt Roads is a work of unusual calm, and it is good that it is once more available to readers."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall judgment?",
+        "category": "main_idea",
+        "choices": [
+          "The book was a bestseller when it appeared",
+          "The novel is too dull to be recommended",
+          "The reissue is better than the original",
+          "The novel is calm and worth reissuing"
+        ],
+        "answerIndex": 3,
+        "explanation": "The reviewer calls the reissue 'a welcome act of rescue' and praises the book."
+      },
+      {
+        "prompt": "How does the author treat a blizzard?",
+        "category": "detail",
+        "choices": [
+          "She gives it the whole of the second half",
+          "She gives it a paragraph, without drama",
+          "She uses it to bring the novel to a close",
+          "She leaves it out of the story entirely"
+        ],
+        "answerIndex": 1,
+        "explanation": "Ruiz gives it a paragraph."
+      },
+      {
+        "prompt": "What can be inferred about readers who like plots?",
+        "category": "inference",
+        "choices": [
+          "They will love the second half",
+          "They will skip the foreword",
+          "They may find the novel slow",
+          "They will prefer the map"
+        ],
+        "answerIndex": 2,
+        "explanation": "The effect is hypnotic 'though it may test the patience of those who expect a plot'."
+      },
+      {
+        "prompt": "What fault is found in the edition?",
+        "category": "detail",
+        "choices": [
+          "It lacks a map, despite its geographic focus",
+          "It omits most of the second half of the novel",
+          "It has too many illustrations of the pass",
+          "It prints the foreword twice by mistake"
+        ],
+        "answerIndex": 0,
+        "explanation": "The edition lacks a map, a serious omission in a novel so concerned with geography."
+      }
+    ]
+  },
+  {
+    "id": "p7-325",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Orchard Row Care Home: a different way to grow older",
+        "text": "Choosing a care home is among the hardest decisions a family can make, and we do not pretend that it is easy. At Orchard Row, we have tried to build a place where residents feel that they have moved house, not entered an institution.\n\nRooms are single, with private bathrooms, and residents are encouraged to bring their own furniture. Meals are cooked on site from ingredients grown in our gardens, and anyone who wishes may help in the kitchen or the vegetable beds. There are no fixed visiting hours: relatives are welcome whenever they come, and may share a meal with the resident for a modest charge.\n\nOur staff-to-resident ratio is higher than the national average, and every resident has a named member of staff who knows their routines and preferences. We are not a nursing home, however, and we cannot care for those who need continuous medical attention. In such cases, we will help the family to find a suitable place and, where possible, remain in contact.\n\nWe invite you to visit without appointment on any weekday and to stay for lunch. We would rather you saw us as we are, on an ordinary day."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the advertisement mainly trying to convey?",
+        "category": "main_idea",
+        "choices": [
+          "That the home tries to feel like a real household",
+          "That the home offers continuous medical treatment",
+          "That the home is the cheapest in the area",
+          "That the home has strict visiting rules"
+        ],
+        "answerIndex": 0,
+        "explanation": "It stresses single rooms, own furniture, gardens and flexible visits."
+      },
+      {
+        "prompt": "What is true about visiting?",
+        "category": "detail",
+        "choices": [
+          "Visits are limited to weekends",
+          "Visitors must book a week ahead",
+          "Relatives may come at any hour",
+          "Visitors cannot eat with residents"
+        ],
+        "answerIndex": 2,
+        "explanation": "There are no fixed visiting hours."
+      },
+      {
+        "prompt": "What limitation does the home admit?",
+        "category": "inference",
+        "choices": [
+          "It cannot accept residents over the age of eighty",
+          "It cannot serve those needing constant nursing",
+          "It has no private rooms for its residents",
+          "It cannot provide hot meals on weekends"
+        ],
+        "answerIndex": 1,
+        "explanation": "They are not a nursing home and cannot care for those needing continuous medical attention."
+      },
+      {
+        "prompt": "Why does the home invite unannounced visits?",
+        "category": "inference",
+        "choices": [
+          "It plans to hold an open day next month",
+          "It needs more staff to help serve lunch",
+          "It wishes to avoid charging booking fees",
+          "It wants families to see an ordinary day"
+        ],
+        "answerIndex": 3,
+        "explanation": "They would rather you saw them 'on an ordinary day'."
+      }
+    ]
+  },
+  {
+    "id": "p7-326",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The case against the open-plan hospital ward",
+        "text": "For decades, the large open ward, with beds ranged along both walls under the eye of a single nurse, was the standard of hospital design. It was cheap to build and made supervision easy. Today, a growing body of research suggests that it was neither as efficient nor as safe as its defenders believed.\n\nStudies comparing wards of the traditional kind with those composed of single rooms have found that infections spread more readily in the former, and that patients in open wards sleep less, with measurable effects on recovery. Patients also report that the lack of privacy makes them reluctant to discuss symptoms, a barrier that may delay diagnosis.\n\nDefenders of the old design make a fair point: in a single room, a deteriorating patient can go unnoticed, and nurses walk considerably farther in a day. Several new hospitals have addressed this by installing sensors and by arranging rooms around a central station with glass walls, so that staff retain a view of every door.\n\nThe cost remains the obstacle. Single-room wards require roughly a third more floor space, and health authorities with ageing buildings must decide whether to replace them or to adapt what they have."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The history of nursing in public hospitals",
+          "A new method of treating hospital infection",
+          "Evidence against open wards and its trade-offs",
+          "The cost of training nurses for wards"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article reviews research against open wards and the drawbacks of single rooms."
+      },
+      {
+        "prompt": "What did studies find about infections?",
+        "category": "detail",
+        "choices": [
+          "They spread more easily in open wards",
+          "They spread more readily in single rooms",
+          "They occurred equally in both ward designs",
+          "They had no link with the design of wards"
+        ],
+        "answerIndex": 0,
+        "explanation": "Infections spread more readily in the traditional wards."
+      },
+      {
+        "prompt": "What disadvantage of single rooms is acknowledged?",
+        "category": "inference",
+        "choices": [
+          "Patients sleep less well than in open wards",
+          "Infections are more common than in open wards",
+          "Diagnosis is delayed by patients' reluctance",
+          "A patient's decline may pass unnoticed there"
+        ],
+        "answerIndex": 3,
+        "explanation": "In a single room a deteriorating patient can go unnoticed, and nurses walk farther."
+      },
+      {
+        "prompt": "What is the main obstacle to change?",
+        "category": "inference",
+        "choices": [
+          "Nurses refuse to work in the new wards",
+          "Single rooms need more space and funding",
+          "Patients still prefer open wards to single rooms",
+          "Sensors are too unreliable to depend on"
+        ],
+        "answerIndex": 1,
+        "explanation": "They require roughly a third more floor space, and the cost remains the obstacle."
+      }
+    ]
+  }
+]
