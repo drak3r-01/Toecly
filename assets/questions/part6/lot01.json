@@ -1,276 +1,441 @@
 [
   {
-    "id": "p6-201",
-    "documentType": "email",
-    "text": "To: All Regional Managers\nFrom: Daniela Ortiz, Logistics Director\nSubject: Revised delivery schedule\n\nFollowing last week's port strike, shipments of seasonal inventory will reach our distribution center roughly ten days later than [1]. [2] Stores that depend on these items for the holiday promotion should therefore review their floor plans immediately. Our freight partner has assured us that the backlog at the terminal is being cleared strictly in order of arrival. The delay is regrettable. [3], it does not affect regular orders, which remain on the original timetable. We are also negotiating with a second carrier so that a comparable disruption would [4] our stores far less in the future. Please direct questions about individual orders to the logistics help desk before Friday.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "planned",
-          "planning",
-          "plan",
-          "to plan"
-        ],
-        "answerIndex": 0,
-        "explanation": "'later than planned' needs the past participle, as in 'than expected'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Regular stock will continue to be shipped from the secondary warehouse in the northern region.",
-          "The affected merchandise includes winter apparel, gift sets, and decorative lighting for display windows.",
-          "Several managers have already asked whether the strike could be extended into the following month.",
-          "Carriers have been informed that late arrivals will no longer be accepted at the receiving docks after six p.m."
-        ],
-        "answerIndex": 1,
-        "explanation": "'these items' in the next sentence needs an antecedent; only the correct choice names the delayed seasonal goods."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "Consequently",
-          "Similarly",
-          "Nevertheless",
-          "Specifically"
-        ],
-        "answerIndex": 2,
-        "explanation": "The sentence adds a contrast: the delay is regrettable, but regular orders are not affected."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "effect",
-          "afflict",
-          "infect",
-          "affect"
-        ],
-        "answerIndex": 3,
-        "explanation": "'Affect' is the verb meaning to influence; 'effect' is normally a noun."
-      }
-    ]
-  },
-  {
-    "id": "p6-202",
+    "id": "p6-401",
     "documentType": "memo",
-    "text": "MEMO\nTo: Finance and Procurement Staff\nFrom: Hyun-woo Park, Chief Financial Officer\nDate: March 3\n\nEffective April 1, all purchases above $2,500 must be [1] by a department head before an order is placed with any vendor. The previous threshold of $5,000 allowed too many significant commitments to escape proper review. [2] Requests below the new limit may still be handled through the existing online form. Employees who ignore the procedure will be asked to explain the expense to the audit committee, [3] repeated violations may result in disciplinary action. A short training session on the revised workflow will be held in Conference Room B on March 18. Attendance is strongly encouraged, [4] the system will be unavailable for several hours on March 31 while the update is installed.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "approved",
-          "approving",
-          "approve",
-          "approval"
-        ],
-        "answerIndex": 0,
-        "explanation": "After 'must be', a past participle is required to form the passive."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Department heads have complained that the online form takes far too long to complete during the busiest periods.",
-          "The lower threshold is meant to give the company clearer oversight of spending on equipment and services.",
-          "Several vendors have offered discounts to customers who place large orders before the end of the quarter.",
-          "The audit committee will publish its findings on last year's expenditure at the end of the first quarter."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence explains the purpose of the lowered limit mentioned just before it and leads naturally to 'requests below the new limit'."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "but",
-          "so",
-          "and",
-          "yet"
-        ],
-        "answerIndex": 2,
-        "explanation": "Repeated violations add a further consequence to the explanation; the clause continues the same idea."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "although",
-          "unless",
-          "whereas",
-          "because"
-        ],
-        "answerIndex": 3,
-        "explanation": "The second clause gives the reason attendance is encouraged: the system will be offline from March 31."
-      }
-    ]
-  },
-  {
-    "id": "p6-203",
-    "documentType": "notice",
-    "text": "NOTICE TO RESIDENTS\nHawthorne Court Apartments\n\nThe building's heating system will undergo a scheduled upgrade between October 14 and October 18. During this period, hot water will be [1] between 9 a.m. and 3 p.m. each day. [2] Residents who rely on early-morning showers are advised to adjust their routines accordingly. Engineers will need access to each unit to inspect the radiators, so tenants are asked to ensure that the areas around them are [3]. If you will not be at home, please leave a key with the front desk by October 12. Management apologizes for any inconvenience and is confident that the improvements will [4] energy costs by roughly fifteen percent over the winter.",
+    "text": "To: Regional Finance Controllers\nFrom: Beatrix Lindqvist, Group Compliance\nSubject: Revised delegation of authority\n\nFollowing the external audit, the executive committee has approved a revised delegation of authority that takes effect on 1 July. Under the new framework, any commitment exceeding €50,000 must be countersigned by a second authorized [1], irrespective of the budget line to which it is charged. [2] Controllers who have until now approved such items unilaterally should therefore review every pending purchase order before the deadline.\n\nThe reforms are not intended to slow routine operations. [3], transactions below the threshold will continue to be processed under the existing workflow, provided that supporting documentation is attached. Should a controller fail to [4] with the procedure, the matter will be referred to the audit committee.",
     "questions": [
       {
         "blank": 1,
         "category": "vocabulary",
         "choices": [
-          "unavailable",
-          "unreliable",
-          "unacceptable",
-          "unfamiliar"
+          "signatory",
+          "signature",
+          "signal",
+          "signage"
         ],
         "answerIndex": 0,
-        "explanation": "Water cut off during set hours is 'unavailable'; the other adjectives do not describe supply."
+        "explanation": "The text requires a second authorized person to countersign: 'signatory' names that person, whereas 'signature', 'signal' and 'signage' are not people who can be authorized."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The new boilers will be delivered by truck on the morning of October 14 and lifted into the basement.",
-          "Outside those hours, the supply will operate at normal capacity, and the heating will stay on.",
-          "The front desk will remain open during the work and will be able to take messages for residents.",
-          "The utility company has announced that gas prices will rise sharply once the winter season begins."
+          "The previous ceiling of €100,000 was introduced to speed up approvals, which had been reviewed only once since then.",
+          "The previous ceiling of €100,000 has been halved, which brings a far wider range of purchases under dual control.",
+          "Smaller purchases, by contrast, will remain under the single-signature rule that has applied for several years.",
+          "Several controllers had already begun to seek a second signature voluntarily, anticipating the revised framework."
         ],
         "answerIndex": 1,
-        "explanation": "The sentence completes the information about the daily interruption and explains what happens outside the 9 to 3 window."
+        "explanation": "Only the first sentence explains why controllers who 'approved such items unilaterally' must now review orders ('therefore'): the ceiling was lowered. The others describe a past rule, smaller purchases, or voluntary behavior that contradicts 'until now approved ... unilaterally'."
       },
       {
         "blank": 3,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "clearing",
-          "cleared up",
-          "clear",
-          "clearly"
+          "Accordingly",
+          "Consequently",
+          "Conversely",
+          "Thereafter"
         ],
         "answerIndex": 2,
-        "explanation": "'are clear' is an adjective after 'to ensure that ... are'; the adverb or gerund would not fit."
+        "explanation": "The sentence contrasts the strict rule above with ordinary purchases that 'will continue' as before; 'conversely' marks that contrast, while 'accordingly', 'consequently' and 'thereafter' express result or sequence."
       },
       {
         "blank": 4,
-        "category": "vocabulary",
+        "category": "grammar",
         "choices": [
-          "reproduce",
-          "restore",
-          "respond",
-          "reduce"
+          "compliant",
+          "complying",
+          "compliance",
+          "comply"
         ],
         "answerIndex": 3,
-        "explanation": "Better heating efficiency would 'reduce' energy costs."
+        "explanation": "After 'fail to', the base verb is required, and 'comply with the procedure' is the fixed collocation; the other forms cannot follow 'to' here."
       }
     ]
   },
   {
-    "id": "p6-204",
+    "id": "p6-402",
     "documentType": "article",
-    "text": "Local Bakery Expands Despite Rising Costs\n\nWhen Marta Lindqvist opened her bakery on Ferry Street five years ago, she employed three people and sold fewer than two hundred loaves a day. This month, she will open her third location, [1] making Lindqvist Breads one of the fastest-growing small businesses in the city. [2] Flour prices have climbed steadily, and rent in the downtown district has doubled. Ms. Lindqvist says the key to survival has been a simple rule: buy locally whenever possible. By signing long-term contracts with regional farms, she has [3] her supplies at a stable price. She also credits a loyalty program that rewards customers with a free pastry after every ten purchases. [4] she plans to add a small café area at the new store, she insists that baking, not coffee, will remain the heart of the business.",
+    "text": "Port Operators Brace for Tighter Emissions Rules\n\nOperators of Europe's largest container terminals are preparing for regulations that will oblige vessels to switch off their engines while docked and draw power from the shore instead. The measure, which the transport commission describes as [1] to meeting its climate targets, is expected to cut emissions in port cities by almost a third.\n\n[2] Few terminals possess the electrical capacity to supply several ships at once. Rotterdam's operator estimates that connecting its quays will cost more than €400 million, a sum it hopes to recover [3] higher berthing fees. Smaller ports, which cannot absorb such expenditure, have called for public subsidies. The commission has so far declined to commit itself, [4] it has acknowledged that unequal support could distort competition between harbors.",
     "questions": [
       {
         "blank": 1,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "thereby",
-          "therefore",
-          "whereas",
-          "moreover"
+          "integral",
+          "incidental",
+          "peripheral",
+          "ornamental"
         ],
         "answerIndex": 0,
-        "explanation": "'thereby making' links the opening to its result; the participle phrase needs 'thereby'."
+        "explanation": "The commission presents the measure as central to its climate targets; 'integral to' means essential, while 'incidental', 'peripheral' and 'ornamental' all suggest the opposite."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Her new location will offer a wider range of sourdough breads than either of the two existing stores.",
-          "The achievement is all the more remarkable given the pressures that have hit the industry in recent years.",
-          "Most customers say they visit the Ferry Street branch because it is close to their offices.",
-          "The city council has recently approved plans to build additional public parking near the downtown district."
+          "Implementing the requirement was welcomed by shipping lines that had already invested heavily in cleaner engines.",
+          "Implementing the requirement will nevertheless prove considerably more demanding in practice than the announcement suggests.",
+          "The requirement applies to passenger ferries as well as freight vessels, which dock in the same quays.",
+          "Compliance with the requirement will be checked by inspectors during routine visits to each of the quays."
         ],
         "answerIndex": 1,
-        "explanation": "The following sentence lists pressures on costs, so the preceding sentence must evoke difficulty and remarkable growth."
+        "explanation": "The next sentence ('Few terminals possess the electrical capacity') supports a difficulty; only the first option announces that implementation will be demanding. The others describe welcome, scope or inspection and do not lead to the capacity problem."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "despite",
+          "notwithstanding",
+          "through",
+          "regardless"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Recover a sum through higher berthing fees' states the means; 'despite', 'notwithstanding' and 'regardless' introduce a contrast, which makes no sense here."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "because",
+          "whereas",
+          "unless",
+          "although"
+        ],
+        "answerIndex": 3,
+        "explanation": "The commission has declined to commit, 'although' it acknowledges the risk of distortion: a concession. 'Because' and 'unless' do not fit the logic, and 'whereas' would contrast two unrelated facts."
+      }
+    ]
+  },
+  {
+    "id": "p6-403",
+    "documentType": "letter",
+    "text": "Dear Professor Aldana,\n\nOn behalf of the Hartwell Trust, I am pleased to confirm that your application for funding has been approved in principle. The award, totaling £180,000 over three years, is [1] upon the satisfactory completion of an ethical review, which our panel will arrange once your team has submitted the revised protocol.\n\n[2] Disbursement will occur in annual installments, the first of which will be released within thirty days of the review's outcome. The Trust expects to be kept informed of any significant deviation from the agreed timetable. [3] a delay prove unavoidable, you are asked to notify the program officer in writing at the earliest opportunity, [4] the matter can be considered before the next installment falls due.\n\nYours sincerely,\nMarguerite Ellison\nDirector of Grants",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "contingent",
+          "conditioned",
+          "reliant",
+          "bound"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Contingent upon' is the fixed collocation meaning dependent on a condition ('is contingent upon the satisfactory completion'); 'conditioned', 'reliant' and 'bound' do not take 'upon' in this sense."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Please note that the review will be conducted by the same panel that assessed your original application last spring.",
+          "Please note that this approval does not constitute a binding commitment until the formal agreement has been countersigned.",
+          "Please note that installments have been calculated on the basis of the revised budget you submitted earlier.",
+          "Please note that the Trust has funded comparable projects in other universities during the past decade."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence begins 'Disbursement will occur', continuing the terms of the award; only the first sentence qualifies the approval as non-binding, setting up the conditions that follow. The others add unrelated detail about the panel, the budget or past projects."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Unless",
+          "Should",
+          "Albeit"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Should a delay prove unavoidable' is the inverted conditional, equivalent to 'If a delay proves unavoidable'; 'whereas', 'unless' and 'albeit' cannot introduce an inverted clause with the subjunctive 'prove'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "in order",
+          "such that",
+          "lest",
+          "so that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'so that the matter can be considered' states the purpose; 'in order' lacks 'that' or 'to', 'such that' expresses result, and 'lest' requires a negative idea."
+      }
+    ]
+  },
+  {
+    "id": "p6-404",
+    "documentType": "email",
+    "text": "To: All Department Heads\nFrom: Kwame Asante, Chief Operating Officer\nSubject: Interim hiring restrictions\n\nIn view of the revenue shortfall reported at the end of the second quarter, the board has asked that all non-essential recruitment be suspended with immediate effect. [1] Vacancies that have already been advertised will be [2] only where the post is directly linked to a contractual obligation to a client.\n\nI appreciate that this decision will place additional pressure on teams that are already stretched. [3], I would ask you to resist the temptation to redistribute workloads informally; any adjustment should be agreed with Human Resources beforehand so that overtime is [4] correctly. The restrictions will be reviewed at the end of the financial year.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Positions that arise through resignation will not be refilled automatically, and each one will be assessed individually.",
+          "Positions that were created last spring will be filled automatically, and each one will be assessed individually.",
+          "Employees who resign will be asked to work their notice period, and each case will be assessed individually.",
+          "Positions that arise through resignation had been refilled automatically, and each one was assessed individually."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'Vacancies that have already been advertised', so the preceding sentence must concern vacancies arising now; the first option does, whereas the others contradict the freeze, shift the subject to notice periods, or use a past tense that does not match the announcement."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "pursuing",
+          "pursued",
+          "pursue",
+          "pursuits"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive 'will be pursued' needs the past participle; the other forms are grammatically impossible after 'be'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Furthermore",
+          "Therefore",
+          "Nevertheless",
+          "Likewise"
+        ],
+        "answerIndex": 2,
+        "explanation": "The writer acknowledges the pressure, 'nevertheless' introducing the request to resist informal redistribution; 'furthermore' and 'likewise' add, and 'therefore' would wrongly present the request as a result of the pressure."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "recording",
+          "record",
+          "records",
+          "recorded"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Overtime is recorded correctly' is a passive with a past participle; the other forms do not fit after 'is'."
+      }
+    ]
+  },
+  {
+    "id": "p6-405",
+    "documentType": "review",
+    "text": "Book Review: The Quiet Ledger\n\nIn her study of mid-century accounting practices, historian Odile Marchetti argues that the profession's reputation for neutrality was less a fact than a carefully cultivated image. Drawing on previously unexamined firm archives, she shows how auditors routinely [1] findings in order to preserve long-standing client relationships.\n\n[2] The evidence, however, is not always presented with equal rigor. Several chapters rest on a single set of internal memoranda, [3] others rely on interviews conducted decades after the events described. Readers seeking a definitive account will be disappointed. Those who wish to understand how professional ethics evolve under commercial pressure, [4], will find the book both lucid and provocative.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "soften",
+          "sharpen",
+          "broaden",
+          "clarify"
+        ],
+        "answerIndex": 0,
+        "explanation": "Auditors who wished to preserve client relationships would 'soften' their findings, making them less severe; the other verbs would not protect relationships."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "This central claim has been challenged repeatedly, and it is rejected by most contemporary scholars of the period.",
+          "This central claim is argued persuasively, and it is supported by a wealth of detail drawn from private correspondence.",
+          "This earlier claim was argued persuasively, and it was supported by detail drawn from private correspondence.",
+          "This central claim is argued persuasively, yet it is supported by no detail drawn from private correspondence."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence begins 'The evidence, however, is not always presented with equal rigor', which contrasts with a positive judgment; only the first option offers that praise. The others reject the claim, change its time reference, or deny any evidence, which would make 'however' illogical."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "moreover",
+          "whereas",
+          "hence"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence contrasts one chapter type with another ('Several chapters ... whereas others'); 'therefore', 'moreover' and 'hence' do not express contrast."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "in short",
+          "for example",
+          "as a result",
+          "by contrast"
+        ],
+        "answerIndex": 3,
+        "explanation": "'By contrast' is the only option that sets those seeking a definitive account against those who want to understand ethics; the others do not mark opposition."
+      }
+    ]
+  },
+  {
+    "id": "p6-406",
+    "documentType": "notice",
+    "text": "NOTICE TO LEASEHOLDERS\nDunmore Court Residents' Company\n\nFollowing a structural survey commissioned last quarter, the freeholder has confirmed that the east elevation requires substantial remedial work. [1] Scaffolding will be erected from 3 March, and access to the affected balconies will be restricted for approximately five months.\n\nThe cost of the work will be apportioned among leaseholders in proportion to the size of each apartment. [2] a leaseholder is unable to settle the charge in a single payment, an installment arrangement may be requested through the managing agent. [3] any dispute over the apportionment, leaseholders may submit a written objection by 20 February. The surveyor will [4] the findings at an open meeting on 12 February.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Delaying the repairs would, in the surveyor's judgment, expose both residents and passers-by to an unacceptable risk of falling masonry.",
+          "Delaying the repairs would, in the surveyor's judgment, have reduced the cost for residents and the freeholder alike.",
+          "Postponing the repairs would, in the freeholder's view, lower the insurance premium for residents and passers-by.",
+          "Beginning the repairs would, in the surveyor's judgment, expose both residents and passers-by to unacceptable noise levels."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence reports scaffolding and restricted access, a consequence of urgency; only the first option gives a safety reason why the work cannot wait. The others claim savings, a lower premium, or present the repairs themselves as the hazard."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Notwithstanding that",
+          "In the event that",
+          "Inasmuch as",
+          "Albeit"
+        ],
+        "answerIndex": 1,
+        "explanation": "'In the event that a leaseholder is unable to settle' introduces a possible, hypothetical situation; 'inasmuch as' would state it as fact, and 'notwithstanding that' and 'albeit' express concession."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "In lieu of",
+          "In pursuit of",
+          "In the event of",
+          "In excess of"
+        ],
+        "answerIndex": 2,
+        "explanation": "'In the event of any dispute' is the fixed expression for a possible occurrence; 'in lieu of' means instead of, 'in pursuit of' means seeking, and 'in excess of' means above."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "prescribe",
+          "preside",
+          "preclude",
+          "present"
+        ],
+        "answerIndex": 3,
+        "explanation": "A surveyor 'presents' findings at a meeting; 'prescribe' means order, 'preside' takes 'over', and 'preclude' means prevent."
+      }
+    ]
+  },
+  {
+    "id": "p6-407",
+    "documentType": "article",
+    "text": "Regulator Fines Retailer Over Customer Data Lapse\n\nEurope's data protection authority has fined the retailer Kessmann €4.2 million after an investigation found that the personal details of some 600,000 customers had been stored without adequate [1]. The company, which maintains that it acted lawfully, has announced that it will appeal.\n\n[2] That distinction proved decisive. [3] Kessmann had encrypted the data held on its main servers, it failed to apply the same standard to backup copies, which were left accessible to employees who had no need to consult them. Investigators noted that no evidence had emerged that the information had been misused. They concluded, however, that the exposure alone [4] a breach of the regulation.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "safeguards",
+          "safeties",
+          "sureties",
+          "shelters"
+        ],
+        "answerIndex": 0,
+        "explanation": "Data stored 'without adequate safeguards' is the fixed collocation; 'safeties', 'sureties' (financial guarantees) and 'shelters' do not refer to protective measures for data."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The authority drew a line between customers who had consented to marketing and those who had declined it.",
+          "The authority drew a line between data held on the company's main servers and copies retained for backup purposes.",
+          "The authority drew a line between staff who were authorized to view records and those who were excluded from them.",
+          "The authority drew a line between retailers that operate online and those that continue to trade only in stores."
+        ],
+        "answerIndex": 1,
+        "explanation": "'That distinction' must refer back to a distinction that the next sentences develop: encrypted main servers versus unprotected backups. Only the first option sets this up; the others describe distinctions that the following text never uses."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Notwithstanding",
+          "Despite",
+          "Although",
+          "Regardless of"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although' introduces a clause ('Kessmann had encrypted the data'); 'notwithstanding', 'despite' and 'regardless of' must be followed by a noun phrase, not a full clause."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "comprised",
+          "consisted",
+          "contributed",
+          "constituted"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Constituted a breach' means amounted to a breach; 'comprised' means included, 'consisted' requires 'of', and 'contributed' requires 'to'."
+      }
+    ]
+  },
+  {
+    "id": "p6-408",
+    "documentType": "email",
+    "text": "To: Procurement Team\nFrom: Dagmar Reinholt, Head of Sourcing\nSubject: Supplier tender – shortlisting criteria\n\nThe tender for packaging materials closed on Friday, and fourteen bids were received. Before we begin the evaluation, I should like to clarify how the shortlist will be drawn up, since several of you have asked whether price will be the deciding factor.\n\nIt will not. [1] Bids will be scored on quality, delivery reliability and environmental performance, with cost accounting for no more than 30 percent of the total. [2] a bidder's price is markedly lower than the others, we shall request a written justification, as unrealistically low offers have in the past [3] contractual disputes. Each evaluator should score the bids independently and submit the results to me by Thursday, [4] the panel can meet on Friday to reconcile any discrepancies.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Experience has shown that the cheapest offer rarely proves the most economical once defects and late deliveries are taken into account.",
+          "Experience has shown that the cheapest offer rarely proves the most reliable once prices and discounts are taken into account.",
+          "Experience has shown that the most expensive offer rarely proves the most economical once defects and delays are ignored.",
+          "Experience has shown that the cheapest supplier rarely proves the most economical until defects and delays are taken into account."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says bids will be scored on quality, reliability and environment with cost limited to 30 percent; only the first option explains why price should not dominate. The others confuse price with reliability, ignore defects, or suggest that the most expensive offer is the problem."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Where",
+          "Whether",
+          "Wherever"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Where a bidder's price is markedly lower' introduces a specific situation in which the rule applies; 'whereas' would contrast two facts, 'whether' needs an alternative, and 'wherever' would claim it holds in every place."
       },
       {
         "blank": 3,
         "category": "vocabulary",
         "choices": [
-          "secluded",
-          "selected",
-          "secured",
-          "seated"
+          "predicated",
+          "prescribed",
+          "precipitated",
+          "predisposed"
         ],
         "answerIndex": 2,
-        "explanation": "One 'secures' supplies at a stable price by signing long-term contracts."
+        "explanation": "Low offers have 'precipitated' (triggered) disputes; 'predicated' means based, 'prescribed' means ordered, and 'predisposed' means inclined."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "Because",
-          "Unless",
-          "Until",
-          "Although"
+          "in order",
+          "provided",
+          "lest",
+          "so that"
         ],
         "answerIndex": 3,
-        "explanation": "The clause 'she plans to add a café' contrasts with 'baking will remain the heart of the business'."
-      }
-    ]
-  },
-  {
-    "id": "p6-205",
-    "documentType": "job_ad",
-    "text": "Customer Success Coordinator – Brightway Software\n\nBrightway Software, a leading provider of scheduling tools for healthcare clinics, is seeking a Customer Success Coordinator to join its Toronto office. The successful candidate will serve as the primary contact for new clients during their first ninety days. [1] You will walk clinic administrators through setup, answer technical questions, and gather feedback that will be [2] to our product team. Applicants should hold a bachelor's degree and have at least two years of experience in a client-facing role. [3] Experience with healthcare systems is considered an asset, it is not required. Candidates must be able to communicate clearly with both technical and non-technical staff. We offer a competitive salary, flexible hours, and an annual training budget. To apply, send your résumé and a brief cover letter to careers@brightway.example [4] April 30.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "Your goal will be to ensure that each clinic uses the software confidently and without disruption to its patients.",
-          "Many clinics have reported that scheduling errors are the most common cause of missed appointments.",
-          "Brightway was founded in 2009 and now supports more than three thousand clinics across North America, Europe, and parts of Asia.",
-          "Several of our employees have moved to the support team after receiving promotions this year."
-        ],
-        "answerIndex": 0,
-        "explanation": "The next sentence begins with 'You will walk clinic administrators through setup', so the preceding sentence must introduce the role's goals."
-      },
-      {
-        "blank": 2,
-        "category": "grammar",
-        "choices": [
-          "relaying",
-          "relayed",
-          "relay",
-          "relays"
-        ],
-        "answerIndex": 1,
-        "explanation": "'will be relayed' is a passive construction requiring a past participle."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "Because",
-          "Unless",
-          "Although",
-          "Since"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Although' introduces a concession: helpful but not required."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "at",
-          "until",
-          "on",
-          "by"
-        ],
-        "answerIndex": 3,
-        "explanation": "A deadline for sending applications is expressed with 'by' plus a date."
+        "explanation": "'so that the panel can meet' states the purpose of the deadline; 'in order' needs 'to' or 'that', 'provided' needs 'that', and 'lest' requires a negative result."
       }
     ]
   }

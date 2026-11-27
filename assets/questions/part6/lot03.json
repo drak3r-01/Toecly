@@ -1,496 +1,276 @@
 [
   {
-    "id": "p6-214",
-    "documentType": "article",
-    "text": "City Unveils Plan to Expand Bicycle Network\n\nThe municipal transportation department announced on Monday a five-year plan to add sixty kilometers of protected bicycle lanes across the city. Officials say the project is designed to [1] congestion in the central district, where traffic speeds have fallen by almost a fifth since 2018. [2] A pilot scheme on Calder Avenue last summer led to a 40 percent increase in cycling, [3] there was no measurable drop in the number of shops reporting weekday sales. Some business owners remain skeptical, arguing that the loss of parking spaces will discourage customers. The department has promised to hold public consultations in each neighborhood before construction [4]. The first section, linking the railway station to the university, is expected to open next spring.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "ease",
-          "erase",
-          "raise",
-          "cease"
-        ],
-        "answerIndex": 0,
-        "explanation": "Congestion is 'eased', meaning reduced; 'cease' would not take it as an object in this context."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The transportation department has also announced a new fare structure for buses and trams, to be introduced gradually from January.",
-          "The proposal builds on evidence gathered during an earlier trial, in which the effects on local businesses were also monitored.",
-          "Critics of the plan have pointed out that cyclists are already allowed on most of the city's main roads.",
-          "City officials expect the construction work to employ about two hundred people over the next five years."
-        ],
-        "answerIndex": 1,
-        "explanation": "The following sentence describes a pilot scheme and its business impact, so the previous sentence must introduce earlier evidence."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "because",
-          "so that",
-          "and",
-          "unless"
-        ],
-        "answerIndex": 2,
-        "explanation": "The sentence adds that shop sales did not fall; 'and' links the two outcomes."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "beginning",
-          "to begin",
-          "began",
-          "begins"
-        ],
-        "answerIndex": 3,
-        "explanation": "'before construction begins' uses the present tense after 'before' for a future event."
-      }
-    ]
-  },
-  {
-    "id": "p6-215",
-    "documentType": "memo",
-    "text": "To: All Laboratory Technicians\nFrom: Dr. Imani Okafor, Quality Manager\nSubject: Updated sample-handling procedure\n\nFollowing last month's audit, the following changes to our sample-handling procedure take effect on Monday. All specimens must now be labeled [1] the moment they are received, and labels must include the collection time as well as the date. [2] Samples that arrive without complete documentation should be placed in the quarantine refrigerator and reported to the supervisor, rather than processed. The audit also revealed that refrigerator temperatures were not always logged [3]. From now on, the log must be signed twice daily, and the supervisor will review it every Friday. Technicians who have questions about the new rules may attend one of the briefings held in Room 204 on Thursday. [4] these changes may seem minor, they are essential for maintaining our accreditation.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "at",
-          "in",
-          "on",
-          "for"
-        ],
-        "answerIndex": 0,
-        "explanation": "'at the moment' is the fixed expression for 'as soon as'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The audit team commended the laboratory for its excellent record in keeping instruments clean and properly calibrated throughout the year.",
-          "This requirement applies equally to specimens from external clinics and to those transferred between our own departments.",
-          "Technicians have asked for additional training sessions on the new software used to record patient results.",
-          "The quarantine refrigerator will be moved to the second floor next month when the renovation is finished."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence extends the labeling rule to all specimens; the following sentence then deals with incomplete documentation."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "considerably",
-          "constantly",
-          "consistently",
-          "conveniently"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Not always logged consistently' describes regularity of logging; 'constantly' would change the meaning."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "Because",
-          "Unless",
-          "Whenever",
-          "Although"
-        ],
-        "answerIndex": 3,
-        "explanation": "'Although' sets up the concession that the changes seem minor but are essential."
-      }
-    ]
-  },
-  {
-    "id": "p6-216",
+    "id": "p6-411",
     "documentType": "email",
-    "text": "Subject: Your enrollment at Lakeside Language Institute\n\nDear Mr. Tanaka,\n\nWe are pleased to confirm your place in the Advanced Business English course beginning on September 9. Classes will be held on Tuesday and Thursday evenings from 6:30 to 8:30 in Room 12. [1] Your textbook and online access code will be available for collection at reception from September 2. Please bring a photo identification when you collect them, [2] we are unable to release materials to anyone else. Students who have completed the placement test with a score above 85 are eligible for the new conversation workshop, [3] takes place on Saturday mornings. [4] you decide to withdraw, notify us at least five working days before the start date to receive a full refund. We look forward to welcoming you.\n\nBest regards,\nElena Rossi\nAdmissions Office",
+    "text": "To: All Staff\nFrom: Ingrid Solberg, Chief Executive\nSubject: Proposed acquisition of Veldt Logistics\n\nI am writing to inform you that the board has entered into exclusive talks to acquire Veldt Logistics, a transport specialist with operations in nine countries. No agreement has yet been signed, and the transaction remains [1] to regulatory approval, which we do not expect before the autumn.\n\n[2] Until the position is clear, the two companies will continue to operate independently, and our own customers should notice no change in the service they receive. [3] the acquisition proceeds, we anticipate a period of integration lasting up to eighteen months, during which some roles may be reorganized. I recognize that uncertainty is unwelcome, and I undertake to [4] you promptly of every significant development.",
     "questions": [
       {
         "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "The course consists of twenty sessions and is taught by instructors with extensive experience in corporate communication.",
-          "The institute was established in 1998 and now offers evening courses in twelve languages at three locations across the region.",
-          "Several students have said that the evening schedule is convenient for those who work during the day.",
-          "The next course in this series will begin in January and is already open for early registration."
-        ],
-        "answerIndex": 0,
-        "explanation": "The next sentence refers to the textbook for the course, so the preceding sentence should describe the course."
-      },
-      {
-        "blank": 2,
-        "category": "connector",
-        "choices": [
-          "although",
-          "as",
-          "unless",
-          "whereas"
-        ],
-        "answerIndex": 1,
-        "explanation": "The clause explains why identification is needed: materials cannot be given to anyone else."
-      },
-      {
-        "blank": 3,
         "category": "grammar",
         "choices": [
-          "what",
-          "who",
-          "which",
-          "where"
-        ],
-        "answerIndex": 2,
-        "explanation": "The relative pronoun 'which' refers to the workshop and is the subject of 'takes place'."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "Unless",
-          "Whether",
-          "Provided",
-          "Should"
-        ],
-        "answerIndex": 3,
-        "explanation": "'Should you decide' is an inverted conditional meaning 'If you decide'."
-      }
-    ]
-  },
-  {
-    "id": "p6-217",
-    "documentType": "notice",
-    "text": "IMPORTANT NOTICE FOR PASSENGERS\nCoastal Ferry Lines\n\nDue to forecast high winds on Wednesday, the 7:15 a.m. and 9:45 a.m. departures from Port Ellis have been canceled. [1] The 12:30 p.m. sailing will operate as scheduled unless conditions worsen, in which case an announcement will be made at the terminal. Passengers holding tickets for the canceled services may [2] travel to a later date without charge or request a full refund. [3] Vehicle reservations, a refund will be issued automatically to the card used for payment. Passengers who have already checked in their luggage should collect it from the baggage hall before leaving the terminal. We recommend that you [4] our website or call the information line before setting out, as services may change at short notice. We regret any inconvenience this may cause.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "Customers who need to reach the island urgently are advised to join the afternoon sailing, which has additional capacity.",
-          "The ferry fleet was inspected last month and found to meet every one of the safety standards required by the authorities.",
-          "Winds of this strength are unusual for the time of year and are expected to subside by Thursday morning.",
-          "The terminal café will remain open until the last sailing and offers a range of hot drinks and meals."
+          "subject",
+          "subjected",
+          "subjecting",
+          "subjective"
         ],
         "answerIndex": 0,
-        "explanation": "The next sentence is about the 12:30 sailing, so the preceding sentence should point passengers to it."
+        "explanation": "'Remains subject to regulatory approval' is the fixed expression; 'subjected' and 'subjecting' need an object or 'to' after a different structure, and 'subjective' has an unrelated meaning."
       },
       {
         "blank": 2,
-        "category": "vocabulary",
+        "category": "sentence_insertion",
         "choices": [
-          "transmit",
-          "transfer",
-          "transform",
-          "translate"
+          "Staff are therefore asked to refrain from questioning the proposal within the company while negotiations are under way.",
+          "Staff are therefore asked to refrain from discussing the proposal outside the company while negotiations are under way.",
+          "Staff were therefore asked to discuss the proposal outside the company after negotiations had been concluded.",
+          "Customers are therefore asked to refrain from discussing the proposal outside the company while negotiations are under way."
         ],
         "answerIndex": 1,
-        "explanation": "Tickets can be 'transferred' to another date; the others do not collocate with 'travel to a later date'."
+        "explanation": "The next sentence begins 'Until the position is clear', continuing an instruction about the interim period; the first option asks for discretion during negotiations. The others discourage internal questions, use a past tense inconsistent with the announcement, or address customers instead of staff."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "Instead of",
-          "Owing to",
-          "In the case of",
-          "Regardless of"
+          "Notwithstanding that",
+          "Inasmuch as",
+          "In the event that",
+          "Albeit"
         ],
         "answerIndex": 2,
-        "explanation": "The refund rule applies to vehicle reservations as a specific case."
+        "explanation": "'In the event that the acquisition proceeds' introduces a possible future development; 'inasmuch as' would state it as an established fact, and 'notwithstanding that' and 'albeit' express concession."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "insult",
-          "resolve",
-          "convert",
-          "consult"
+          "comprise",
+          "surprise",
+          "enterprise",
+          "apprise"
         ],
         "answerIndex": 3,
-        "explanation": "One 'consults' a website for information."
+        "explanation": "'Apprise you of' means to inform you of; 'comprise', 'surprise' and 'enterprise' have different meanings and structures."
       }
     ]
   },
   {
-    "id": "p6-218",
+    "id": "p6-412",
+    "documentType": "article",
+    "text": "Ageing Workforce Forces Manufacturers to Rethink Training\n\nAcross the engineering sector, firms are confronting a demographic problem that has been building for decades: nearly a third of skilled machinists are due to retire within ten years, and too few young people are entering the trade to replace them. Employers' associations have long urged schools to [1] vocational pathways, but progress has been slow.\n\n[2] A growing number of companies are therefore taking matters into their own hands. Bradfield Precision, for instance, now runs a four-year apprenticeship that combines paid work on the shop floor with study at a local college. [3] the scheme is costly, its managing director argues that the expense is modest compared with the loss of expertise that retirements would entail. Critics counter that such programs benefit only large firms, [4] smaller workshops lack the resources to release staff for training.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "promote",
+          "provoke",
+          "prosecute",
+          "prolong"
+        ],
+        "answerIndex": 0,
+        "explanation": "Associations urge schools to 'promote' (encourage) vocational pathways; 'provoke', 'prosecute' and 'prolong' do not take 'pathways' as a sensible object."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Waiting for the education system to widen this gap is, in the view of many executives, no longer a realistic option.",
+          "Waiting for the education system to close this gap is, in the view of many executives, no longer a realistic option.",
+          "Waiting for retirements to close this gap was, in the view of many executives, not a realistic option.",
+          "Relying on the education system to close this gap is, in the view of many apprentices, still a realistic option."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says 'A growing number of companies are therefore taking matters into their own hands', so the preceding one must say that waiting for schools is not viable. The others reverse the logic, shift the subject to retirements or declare the school route realistic."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Whenever"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although the scheme is costly' concedes a drawback before the managing director's defense; 'because' would explain the cost wrongly, and 'unless' and 'whenever' do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "moreover",
+          "hence",
+          "whereas"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Whereas smaller workshops lack the resources' contrasts large firms with small ones; 'therefore', 'moreover' and 'hence' do not mark contrast."
+      }
+    ]
+  },
+  {
+    "id": "p6-413",
     "documentType": "letter",
-    "text": "Dear Valued Customer,\n\nAt Greenfield Insurance, we are committed to providing coverage that evolves with your needs. After reviewing your policy, we have identified several changes that will take effect on January 1. [1] Your annual premium will increase by 3 percent, which is lower than the average rise across the industry. [2], your coverage limit for personal belongings will rise from $20,000 to $25,000, at no extra cost. We have also simplified the claims process: you can now submit a claim [3] through our mobile app, and you will receive a decision within five business days. If you have questions about any of these changes, our advisers are available to [4] you through them by telephone or in person at any of our branches. Thank you for your continued loyalty.\n\nMargaret Doyle\nCustomer Relations Manager",
+    "text": "Dear Mr. Brandvold,\n\nFurther to our meeting on 14 May, I am writing to set out the terms on which Halvorsen & Dale would be willing to renew the lease of Unit 6, Harbour Point. The proposed term is five years from 1 September, with a rent review at the end of the third year. [1] The current rent of £86,000 per annum would remain unchanged for the first twenty-four months.\n\nWe would, however, wish to introduce a break clause exercisable by either party on six months' notice after the second anniversary. [2] such a clause would give both sides valuable flexibility, we appreciate that it may be unwelcome to a tenant who has invested heavily in the premises. We would therefore be [3] to discuss a modest contribution toward your fit-out costs, [4] you agree to a minimum term of three years.\n\nYours sincerely,\nHelen Pryce\nProperty Manager",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "We would like to explain these changes clearly so that you can decide whether your policy still suits you.",
-          "Many of our customers have told us that they are pleased with the speed at which their claims have been handled lately.",
-          "Greenfield Insurance was named best regional insurer by an independent consumer organization last year.",
-          "Policyholders who wish to cancel their coverage must give written notice at least one month in advance."
+          "This offer is made subject to contract and to the satisfactory completion of a survey of the building.",
+          "This offer is made subject to contract and to the satisfactory completion of a survey of the tenant.",
+          "This offer was made subject to contract and to the unsatisfactory completion of a survey of the building.",
+          "This request is made subject to inspection and to the satisfactory completion of a lease of the building."
         ],
         "answerIndex": 0,
-        "explanation": "The sentence introduces the explanation of changes, preceding the details of premium and coverage."
+        "explanation": "The following sentence ('The current rent ... would remain unchanged') continues the terms of the offer; the first option frames those terms as conditional. The others contain an illogical object ('survey of the tenant'), a contradictory tense and adjective, or confuse an offer with a request."
       },
       {
         "blank": 2,
-        "category": "connector",
-        "choices": [
-          "Therefore",
-          "However",
-          "Similarly",
-          "Besides"
-        ],
-        "answerIndex": 1,
-        "explanation": "'However' marks the contrast between the premium rise and the increase in coverage, which is a benefit."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "direct",
-          "directing",
-          "directly",
-          "directness"
-        ],
-        "answerIndex": 2,
-        "explanation": "An adverb is needed to modify the verb 'submit'."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "guard",
-          "guess",
-          "guarantee",
-          "guide"
-        ],
-        "answerIndex": 3,
-        "explanation": "Advisers 'guide' customers through changes."
-      }
-    ]
-  },
-  {
-    "id": "p6-219",
-    "documentType": "job_ad",
-    "text": "Production Planner – Calloway Foods\n\nCalloway Foods, a family-owned manufacturer of frozen meals, is looking for an experienced Production Planner to join its team in Leeds. The role involves coordinating weekly schedules for three production lines, [1] ensuring that raw materials arrive on time and that finished products meet customer deadlines. [2] You will work closely with the purchasing and warehouse departments, and you will report directly to the operations director. The ideal candidate has a degree in logistics or a related field and at least three years' experience in food manufacturing. Familiarity with planning software is [3], although training is provided. We offer a generous pension scheme, private health insurance, and the chance to [4] a growing business with a strong community reputation. Applications close on October 15, and interviews will follow shortly after.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "while",
-          "after",
-          "unless",
-          "so"
-        ],
-        "answerIndex": 0,
-        "explanation": "'while ensuring' links two simultaneous responsibilities."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Calloway Foods exports its products to eleven countries and has recently opened a large new distribution center in Hull.",
-          "Because delivery windows are narrow, accuracy and the ability to react quickly to unexpected changes are essential.",
-          "Candidates will be asked to complete a short written exercise during the second interview in November.",
-          "The current planner will retire at the end of the year after twenty years of loyal service."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence explains why precision matters in a planning role and leads into the description of collaboration."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "desired",
-          "desiring",
-          "desirable",
-          "desirous"
-        ],
-        "answerIndex": 2,
-        "explanation": "'desirable' is the adjective meaning preferred but not essential, as 'although training is provided' implies."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "joint",
-          "joining",
-          "jointed",
-          "join"
-        ],
-        "answerIndex": 3,
-        "explanation": "'chance to join' requires the base form of the verb after 'to'."
-      }
-    ]
-  },
-  {
-    "id": "p6-220",
-    "documentType": "web_page",
-    "text": "Maple Grove Dental Clinic – Frequently Asked Questions\n\nHow often should I schedule a check-up? Most adults benefit from a visit every six months, [1] patients with a history of gum disease may need to come more frequently. [2] During your first appointment, we will take X-rays, review your medical history, and discuss any concerns you may have. Do you accept insurance? We work with most major providers and will submit claims on your behalf. [3] your plan does not cover a specific treatment, we will give you a written estimate before work begins. What should I do in an emergency? Call us immediately at any hour; a dentist is always [4] for urgent cases. Appointments can be rescheduled online up to twenty-four hours in advance.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "connector",
-        "choices": [
-          "although",
-          "because",
-          "so",
-          "unless"
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence contrasts the general recommendation with a specific exception."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Our clinic has a play area for children, and the staff are specially trained to help nervous young patients feel at ease.",
-          "New patients are asked to arrive fifteen minutes early to complete the registration forms at reception.",
-          "Regular cleaning reduces the risk of cavities and helps keep breath fresh between professional visits.",
-          "The clinic is located within walking distance of the central station and offers free parking for patients."
-        ],
-        "answerIndex": 1,
-        "explanation": "The following sentence describes the first appointment, so the preceding sentence should concern new patients."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "Unless",
-          "Because",
-          "If",
-          "Whereas"
-        ],
-        "answerIndex": 2,
-        "explanation": "A conditional clause is needed: if the plan does not cover the treatment."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "capable",
-          "suitable",
-          "reliable",
-          "available"
-        ],
-        "answerIndex": 3,
-        "explanation": "A dentist is 'available' for emergency cases."
-      }
-    ]
-  },
-  {
-    "id": "p6-221",
-    "documentType": "advertisement",
-    "text": "Clearwater Appliances – Annual Spring Sale\n\nThis spring, upgrade your kitchen without exceeding your budget. Clearwater Appliances is offering up to 35 percent off selected refrigerators, dishwashers, and ovens from April 5 to April 20. [1] Every model in the sale is rated A or higher for energy efficiency, which means lower utility bills for years to come. Customers who [2] an old appliance for recycling will receive an additional $50 credit toward their purchase. [3] our delivery service is free for orders above $400, we also offer professional installation for a small fee. All products are backed by a three-year warranty, [4] repairs are carried out by certified technicians. Visit any of our stores or browse the full range online at clearwaterappliances.example. Quantities are limited, so early shopping is advised.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "Savings of this kind are rarely available outside the end-of-year period, so now is an ideal time to compare models.",
-          "Our stores will be closed on Easter Sunday and will reopen at the usual hours on the following morning.",
-          "Many of our customers have chosen to replace their appliances after moving into a newly built home.",
-          "The brands featured in this sale were selected by a panel of independent consumer testers during a review last winter."
-        ],
-        "answerIndex": 0,
-        "explanation": "The next sentence adds a feature of the models, and the preceding sentence about savings fits a promotional flow."
-      },
-      {
-        "blank": 2,
-        "category": "vocabulary",
-        "choices": [
-          "retain",
-          "return",
-          "resell",
-          "refuse"
-        ],
-        "answerIndex": 1,
-        "explanation": "Customers 'return' an old appliance to be recycled; 'retain' means keep."
-      },
-      {
-        "blank": 3,
         "category": "connector",
         "choices": [
           "Because",
-          "Unless",
           "While",
-          "Until"
+          "Provided",
+          "Since"
+        ],
+        "answerIndex": 1,
+        "explanation": "'While such a clause would give both sides valuable flexibility, we appreciate that ...' concedes a benefit before a drawback; 'because' and 'since' give reasons that do not make sense, and 'provided' needs 'that'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "preparing",
+          "prepare",
+          "prepared",
+          "preparation"
         ],
         "answerIndex": 2,
-        "explanation": "'While' contrasts the free delivery with the paid installation."
+        "explanation": "'We would therefore be prepared to discuss' uses the adjective 'prepared' followed by 'to'; the other forms do not follow 'be'."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "but",
-          "or",
-          "so",
-          "and"
+          "as though",
+          "even if",
+          "in case",
+          "provided that"
         ],
         "answerIndex": 3,
-        "explanation": "The sentence adds that repairs are done by certified technicians."
+        "explanation": "'Provided that you agree' sets the condition for the contribution; 'as though', 'even if' and 'in case' contradict or misrepresent the condition."
       }
     ]
   },
   {
-    "id": "p6-222",
-    "documentType": "schedule",
-    "text": "Annual Staff Development Day – Draft Schedule\n\n9:00 a.m. Opening remarks by the director\n9:30 a.m. Workshop A: Managing change in the workplace\n11:00 a.m. Break\n11:30 a.m. Workshop B: Data security for beginners\n1:00 p.m. Lunch\n2:00 p.m. Panel discussion\n\nThe day begins with a short address by the director, [1] participants will choose between two workshops running in parallel. [2] Those who prefer a practical approach should select Workshop B, which includes hands-on exercises on a laptop. Participants are asked to register for their preferred session by Friday, [3] places in each workshop are limited to thirty. After lunch, all staff will gather for a panel discussion featuring [4] from three different departments. Anyone with dietary requirements should inform the organizers by e-mail by the end of the week.",
+    "id": "p6-414",
+    "documentType": "notice",
+    "text": "SECURITY ADVISORY – IMMEDIATE ACTION REQUIRED\n\nOur monitoring systems have detected a series of fraudulent e-mails purporting to come from the finance department and requesting urgent changes to supplier bank details. [1] Employees should therefore not act on any such request unless it has been [2] by telephone, using a number held on file rather than one supplied in the message.\n\n[3], any employee who has already responded to a message of this kind must contact the security desk without delay, so that the transaction can be recalled where possible. The firm will [4] a mandatory briefing on fraud awareness on 9 June.",
     "questions": [
       {
         "blank": 1,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "after which",
-          "during which",
-          "for which",
-          "since which"
+          "Several of the messages have proved convincing enough to prompt a payment of £37,000 before the deception was discovered.",
+          "Most of the messages were intercepted by the mail filter before they could reach any employee mailbox at all.",
+          "The finance department has since replaced the telephone number held on file for each supplier in its records.",
+          "None of the messages has yet resulted in a payment, although their number has risen sharply in recent days."
         ],
         "answerIndex": 0,
-        "explanation": "'after which' links the address to the later choice of workshops; the other relatives are illogical here."
+        "explanation": "The next sentence says employees should 'therefore' not act on such requests, so the previous sentence must establish a real danger. Only the first does; the others say the messages were intercepted, change the contact details, or report that no payment has occurred."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
+        "category": "vocabulary",
         "choices": [
-          "The director has been with the organization for twenty years and will announce several new appointments to the board.",
-          "Workshop A is intended for supervisors and will focus on communicating decisions to teams that are resistant to change.",
-          "Last year's event was attended by more than two hundred employees from all of the company's offices.",
-          "A shuttle bus will run between the station and the conference center every fifteen minutes in the morning."
+          "certified",
+          "verified",
+          "justified",
+          "rectified"
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence begins 'Those who prefer a practical approach', so the previous one should present the alternative, Workshop A."
+        "explanation": "A request is 'verified' by calling a known number; 'certified' implies an official document, 'justified' means given a reason, and 'rectified' means corrected."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "unless",
-          "although",
-          "since",
-          "whereas"
+          "Conversely",
+          "Nonetheless",
+          "In addition",
+          "Thereafter"
         ],
         "answerIndex": 2,
-        "explanation": "Registration is requested early because the places are limited."
+        "explanation": "The sentence adds a second instruction to the first; 'conversely' and 'nonetheless' mark contrast, and 'thereafter' marks a later time."
       },
       {
         "blank": 4,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "representations",
-          "representative",
-          "representing",
-          "representatives"
+          "convey",
+          "converge",
+          "convert",
+          "convene"
         ],
         "answerIndex": 3,
-        "explanation": "A plural noun meaning people who speak for departments is needed."
+        "explanation": "A firm can 'convene' a briefing (call it together); 'convey' needs a message as its object, 'converge' is intransitive, and 'convert' means change."
+      }
+    ]
+  },
+  {
+    "id": "p6-415",
+    "documentType": "memo",
+    "text": "To: Senior Managers\nFrom: Philippa Greaves, Director of Human Resources\nSubject: Revised relocation policy\n\nThe company's relocation policy has been revised in the light of last year's experience, when several transfers were delayed by disputes over costs. The new policy applies to all internal transfers requiring a move of more than eighty kilometers, [1] of grade.\n\n[2] Employees will receive a lump sum covering removal and temporary accommodation, rather than reimbursement of individual receipts. [3] a transferred employee leaves the company within two years of the move, a proportion of the lump sum must be repaid. Managers are asked to [4] their teams about these terms before any transfer is discussed.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "irrespective",
+          "notwithstanding",
+          "apart",
+          "aside"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Irrespective of their role' is the fixed expression meaning without regard to; 'notwithstanding', 'apart' and 'aside' are not followed by 'of' in this sense."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The aim is to speed up the processing of receipts, which previously took several weeks to be approved by the company.",
+          "The aim is to remove the uncertainty that previously arose when employees and the company interpreted eligible expenses differently.",
+          "The aim is to protect the tax position of employees, which previously changed whenever expenses were reimbursed in full.",
+          "The aim is to encourage transfers to the northern offices, where staff shortages previously affected the company."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says employees will receive a lump sum 'rather than reimbursement of individual receipts', so the aim must be to end disputes over what is eligible. The others contradict the lump sum (receipts), concern tax, or are unrelated to expenses."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Wherein",
+          "Where",
+          "Whereby"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Where a transferred employee leaves' introduces the specific case in which repayment applies; 'whereas' contrasts, 'wherein' means in which, and 'whereby' means by which."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "debrief",
+          "abridge",
+          "abbreviate",
+          "brief"
+        ],
+        "answerIndex": 3,
+        "explanation": "To 'brief' a team about terms is to inform them in advance; 'debrief' refers to questioning after an event, and 'abridge' and 'abbreviate' mean to shorten."
       }
     ]
   }
