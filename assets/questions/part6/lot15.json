@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p6-452",
+    "documentType": "article",
+    "text": "Shipbuilders Look to Hydrogen\n\nThe world's largest shipbuilders are racing to develop vessels powered by hydrogen, which emits no carbon dioxide when burned. Progress has, [1], been slower than the industry predicted, largely because hydrogen must be stored at very low temperatures and occupies far more space than conventional fuel.\n\n[2] Engineers at Sorensen Marine believe they have found a partial solution. Their design places the fuel tanks in the hull rather than on deck, thereby [3] cargo capacity by only five percent. The company's chief engineer concedes that the technology will not be commercially viable [4] a global network of refueling ports exists.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "however",
+          "therefore",
+          "moreover",
+          "similarly"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence contrasts the race to develop hydrogen vessels with slow progress; 'however' marks the contrast."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The storage problem has proved the least stubborn obstacle, and it has absorbed a disproportionate share of research budgets.",
+          "The storage problem has proved the most stubborn obstacle, and it has absorbed a disproportionate share of research budgets.",
+          "The storage problem has proved the most stubborn obstacle, and it has been solved by a disproportionate share of vessels.",
+          "The fuel problem will prove the most stubborn obstacle, and it absorbed a disproportionate share of research budgets."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says engineers 'believe they have found a partial solution', so the previous one should present a problem; the first does. The others call it the least stubborn, say it was solved, or mismatch tenses."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "reduced",
+          "reduce",
+          "reducing",
+          "reduction"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Thereby reducing cargo capacity' is a participle phrase giving the result of the design; the other forms are not possible after 'thereby'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "whereas",
+          "although",
+          "until"
+        ],
+        "answerIndex": 3,
+        "explanation": "The technology will not be viable 'until' a network exists; 'unless' would need a different structure, and the others do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-453",
+    "documentType": "web_page",
+    "text": "Whitby Regional Hospital – Information for Visitors\n\nVisiting is permitted between 2 p.m. and 8 p.m. on general wards, [1] visiting hours in the intensive care unit are set by the nurse in charge. Visitors are asked to limit themselves to two per patient at any one time.\n\n[2] Children under twelve may visit only with the agreement of the ward sister, and anyone who has experienced symptoms of infection within the previous forty-eight hours should [3] from visiting. Flowers are not permitted on any ward, [4] they pose a risk of infection to patients with weakened immune systems.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "therefore",
+          "moreover",
+          "hence"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whereas visiting hours in the intensive care unit are set by the nurse' contrasts the general rule with the unit's rule."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "These restrictions are intended to protect visitors who are especially resistant to infection and to allow staff to work without supervision.",
+          "These restrictions are intended to protect patients who are especially vulnerable to infection and to allow staff to work without obstruction.",
+          "These restrictions are intended to protect staff who are especially vulnerable to injury and to allow patients to work without obstruction.",
+          "These permissions are intended to protect patients who are especially vulnerable to infection and to allow families to visit without limit."
+        ],
+        "answerIndex": 1,
+        "explanation": "The following sentences set conditions for children, symptoms and flowers, which are restrictions; the first option introduces them. The others reverse the aim or use 'permissions'."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "retreat",
+          "retain",
+          "refrain",
+          "refuse"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Refrain from visiting' is the fixed expression meaning not visit; 'retreat', 'retain' and 'refuse' do not take 'from visiting' this way."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "although",
+          "unless",
+          "whereas",
+          "as"
+        ],
+        "answerIndex": 3,
+        "explanation": "'As they pose a risk of infection' gives the reason for the ban on flowers; the others do not give reasons."
+      }
+    ]
+  },
+  {
+    "id": "p6-454",
+    "documentType": "email",
+    "text": "To: Participants in the Graduate Programme\nFrom: Seraphina Quill, Talent Development\nSubject: Rotation placements\n\nI am pleased to confirm your second placement, which begins on 1 June. Each of you will spend six months in a department that differs from your first, [1] that you gain a broad understanding of the business before specializing.\n\n[2] The allocation was made on the basis of your stated preferences and the needs of the departments, and it is not open to negotiation. [3] you have concerns about the arrangements, please raise them with your mentor in the first instance. You will be expected to [4] a short report on your experience at the end of the placement.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "so that",
+          "provided",
+          "in case",
+          "lest"
+        ],
+        "answerIndex": 0,
+        "explanation": "'So that you gain a broad understanding' gives the purpose of rotating departments; 'provided' needs 'that', 'in case' suggests a precaution, and 'lest' requires a negative idea."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "I recognize that every placement will coincide with the preference that you expressed in your application.",
+          "I recognize that not every placement will coincide with the preference that you expressed in your application.",
+          "I recognized that not every placement would coincide with the preference that you had expressed.",
+          "We recognize that not every candidate will coincide with the preference that the departments expressed."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence explains how the allocation was made and that it is not negotiable, so the previous one should acknowledge that some placements may disappoint; only the first does. The others deny it, use past tenses, or confuse candidates and preferences."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Albeit",
+          "Should",
+          "Insofar"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Should you have concerns' is an inverted conditional meaning 'if you have concerns'; the others cannot introduce it."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "submerge",
+          "submit to",
+          "subtract",
+          "submit"
+        ],
+        "answerIndex": 3,
+        "explanation": "Participants must 'submit' a report; 'submerge' means put under water, 'subtract' means take away, and 'submit to' means yield."
+      }
+    ]
+  }
+]

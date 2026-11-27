@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p6-449",
+    "documentType": "memo",
+    "text": "To: Programme Managers\nFrom: Lucian Moreau, Quality Assurance\nSubject: Supplier audit findings\n\nThe audit of our three principal component suppliers was completed last week. Two met every requirement; the third, Delvaux Metals, fell short in several respects. [1] In particular, its records of batch testing were incomplete, which makes it impossible to trace defective parts to their origin.\n\nDelvaux has been given sixty days to submit a corrective action plan. [2] we receive no satisfactory response, orders will be transferred to an alternative supplier. In the meantime, programme managers should [3] incoming deliveries from Delvaux with particular care and report any anomaly at once. Please note that the audit report is confidential and must not be [4] outside the company.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The deficiencies identified are serious enough to put at risk the certification on which our own products depend.",
+          "The deficiencies identified are minor enough to be remedied without any change to the supplier's own procedures.",
+          "The deficiencies identified were serious enough to have put at risk the certification held by the other two suppliers.",
+          "The strengths identified are significant enough to support the certification on which our own products depend."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'In particular', which narrows down a general statement of serious shortcomings; the first option gives that statement. The others minimize the problems, attribute the risk to other suppliers, or describe strengths."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Should",
+          "Albeit",
+          "Insofar"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Should we receive no satisfactory response' is an inverted conditional meaning 'if we receive'; 'whereas', 'albeit' and 'insofar' cannot introduce this condition."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "inspire",
+          "insert",
+          "inspect",
+          "insure"
+        ],
+        "answerIndex": 2,
+        "explanation": "Managers should 'inspect' deliveries with care; 'inspire', 'insert' and 'insure' do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "disposed",
+          "displaced",
+          "dispensed",
+          "disclosed"
+        ],
+        "answerIndex": 3,
+        "explanation": "A confidential report must not be 'disclosed' (revealed) outside the company; 'disposed', 'displaced' and 'dispensed' do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-450",
+    "documentType": "advertisement",
+    "text": "Lakeshore Conference Centre\n\nChoosing a venue for a corporate event involves more than counting seats. At Lakeshore, we recognize that the success of a meeting depends on [1] details that delegates seldom notice but always feel: natural light, reliable connectivity, and rooms in which people can hear one another without effort.\n\n[2] Our nine rooms, which accommodate between ten and four hundred guests, can be reconfigured overnight, and our in-house team handles every aspect of catering and equipment. [3] it is a board retreat or an international congress, a single coordinator will oversee your event from the first inquiry to the final invoice. Enquiries received [4] 15 May qualify for a ten percent reduction on autumn bookings.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "subtle",
+          "suitable",
+          "sizeable",
+          "solitary"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Subtle details' are small, delicate things that delegates seldom notice; the other adjectives do not match 'seldom notice but always feel'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Flexibility of this kind is easy to find in any venue, and it is one of the reasons clients leave us.",
+          "Flexibility of this kind is difficult to find in a single venue, and it is one of the reasons clients return to us.",
+          "Rigidity of this kind is difficult to find in a single venue, and it is one of the reasons clients return to us.",
+          "Flexibility of this kind is difficult to afford in a single venue, and it is one of the reasons clients complain."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence describes rooms that can be reconfigured overnight, which is flexibility; only the first option leads into it coherently. The others contradict the advertisement or describe rigidity."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Although",
+          "Because",
+          "Whether",
+          "Unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Whether it is a board retreat or an international congress' presents two alternatives; the others cannot present options."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "within",
+          "until",
+          "before"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Enquiries received before 15 May' gives the deadline for the reduction; 'during' and 'within' do not fit a fixed date and 'until' would suggest continuing up to it."
+      }
+    ]
+  },
+  {
+    "id": "p6-451",
+    "documentType": "letter",
+    "text": "Dear Dr. Fontaine,\n\nI am writing to confirm the arrangements for your forthcoming lecture at the Institute on 21 November. We should be [1] if you could arrive by 5 p.m., so that the technical team may test the equipment and brief you on the layout of the auditorium.\n\n[2] The lecture is scheduled to begin at 6.30 p.m. and to last approximately fifty minutes, followed by questions from the audience. [3] your fee, we shall pay it by bank transfer within fourteen days of the event, together with any travel costs that you have [4].\n\nYours sincerely,\nRenata Illes\nProgramme Coordinator",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "grateful",
+          "gracious",
+          "grateful for",
+          "graceful"
+        ],
+        "answerIndex": 0,
+        "explanation": "'We should be grateful if you could' is the polite formula; 'gracious' describes manner and 'graceful' describes movement."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The audience is expected to exclude around two hundred students and members of the public, none of whom have read your latest book.",
+          "The audience is expected to include around two hundred students and members of the public, most of whom have read your latest book.",
+          "The audience was expected to include around two hundred students, most of whom would read your latest book.",
+          "The lecture is expected to include around two hundred students and members of the public, most of whom have read your latest book."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence gives the timing of the lecture, so the previous one introduces the audience; only the first is coherent and well formed. The others contradict themselves, use mismatched tenses, or confuse lecture and audience."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "As of",
+          "As far",
+          "As for",
+          "As if"
+        ],
+        "answerIndex": 2,
+        "explanation": "'As for your fee' introduces a new topic, meaning regarding; 'as of' refers to a date and 'as if' compares."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "inferred",
+          "induced",
+          "injured",
+          "incurred"
+        ],
+        "answerIndex": 3,
+        "explanation": "Travel costs are 'incurred' when a person has to pay them; 'inferred' means deduced, 'induced' means caused, and 'injured' means harmed."
+      }
+    ]
+  }
+]
