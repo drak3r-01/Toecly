@@ -1,209 +1,99 @@
 [
   {
-    "id": "p6-001",
+    "id": "p6-201",
     "documentType": "email",
-    "text": "Dear Mr. Alvarez,\n\nThank you for applying [1] the marketing coordinator position. We would like to invite you for an interview on Tuesday, March 4, at 10:00 a.m. at our headquarters. [2] Please bring a copy of your résumé and two professional references. If you are unable to attend at the scheduled time, please [3] us as soon as possible so that we can arrange another date. We look forward to [4] you.\n\nBest regards,\nLinda Chao\nHuman Resources",
+    "text": "To: All Regional Managers\nFrom: Daniela Ortiz, Logistics Director\nSubject: Revised delivery schedule\n\nFollowing last week's port strike, shipments of seasonal inventory will reach our distribution center roughly ten days later than [1]. [2] Stores that depend on these items for the holiday promotion should therefore review their floor plans immediately. Our freight partner has assured us that the backlog at the terminal is being cleared strictly in order of arrival. The delay is regrettable. [3], it does not affect regular orders, which remain on the original timetable. We are also negotiating with a second carrier so that a comparable disruption would [4] our stores far less in the future. Please direct questions about individual orders to the logistics help desk before Friday.",
     "questions": [
       {
         "blank": 1,
-        "category": "vocabulary",
+        "category": "grammar",
         "choices": [
-          "of",
-          "for",
-          "by",
-          "on"
+          "planned",
+          "planning",
+          "plan",
+          "to plan"
         ],
-        "answerIndex": 1,
-        "explanation": "'Apply for a position' is the fixed collocation."
+        "answerIndex": 0,
+        "explanation": "'later than planned' needs the past participle, as in 'than expected'."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The interview will last approximately forty-five minutes.",
-          "Our office will be closed for the holidays.",
-          "Your salary will be paid on the last day of the month.",
-          "The cafeteria offers a variety of hot dishes."
+          "Regular stock will continue to be shipped from the secondary warehouse in the northern region.",
+          "The affected merchandise includes winter apparel, gift sets, and decorative lighting for display windows.",
+          "Several managers have already asked whether the strike could be extended into the following month.",
+          "Carriers have been informed that late arrivals will no longer be accepted at the receiving docks after six p.m."
         ],
-        "answerIndex": 0,
-        "explanation": "The sentence gives details about the interview just announced and leads into what to bring."
+        "answerIndex": 1,
+        "explanation": "'these items' in the next sentence needs an antecedent; only the correct choice names the delayed seasonal goods."
       },
       {
         "blank": 3,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "contacting",
-          "contacted",
-          "contact",
-          "to contact"
+          "Consequently",
+          "Similarly",
+          "Nevertheless",
+          "Specifically"
         ],
         "answerIndex": 2,
-        "explanation": "After 'please', the base form of the verb is used (polite imperative)."
+        "explanation": "The sentence adds a contrast: the delay is regrettable, but regular orders are not affected."
       },
       {
         "blank": 4,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "meet",
-          "met",
-          "to meet",
-          "meeting"
+          "effect",
+          "afflict",
+          "infect",
+          "affect"
         ],
         "answerIndex": 3,
-        "explanation": "'Look forward to' is followed by a gerund, because 'to' is a preposition here."
+        "explanation": "'Affect' is the verb meaning to influence; 'effect' is normally a noun."
       }
     ]
   },
   {
-    "id": "p6-002",
+    "id": "p6-202",
     "documentType": "memo",
-    "text": "MEMO\nTo: All staff\nFrom: Facilities Department\nDate: October 12\n\nOur department will relocate to the third floor on November 3. All employees are asked to pack their personal belongings [1] Friday, October 31. [2] Boxes and labels will be available in the mailroom starting Monday. Please note that the elevator will be [3] for use by movers on the day of the move, so use the stairs [4] possible. Thank you for your cooperation.",
+    "text": "MEMO\nTo: Finance and Procurement Staff\nFrom: Hyun-woo Park, Chief Financial Officer\nDate: March 3\n\nEffective April 1, all purchases above $2,500 must be [1] by a department head before an order is placed with any vendor. The previous threshold of $5,000 allowed too many significant commitments to escape proper review. [2] Requests below the new limit may still be handled through the existing online form. Employees who ignore the procedure will be asked to explain the expense to the audit committee, [3] repeated violations may result in disciplinary action. A short training session on the revised workflow will be held in Conference Room B on March 18. Attendance is strongly encouraged, [4] the system will be unavailable for several hours on March 31 while the update is installed.",
     "questions": [
       {
         "blank": 1,
         "category": "grammar",
         "choices": [
-          "by",
-          "during",
-          "since",
-          "between"
+          "approved",
+          "approving",
+          "approve",
+          "approval"
         ],
         "answerIndex": 0,
-        "explanation": "'By' introduces a deadline: the packing must be finished before or on that date."
+        "explanation": "After 'must be', a past participle is required to form the passive."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The annual report is due at the end of next month.",
-          "Customers may return items within thirty days.",
-          "Please label each box with your name and your new desk number.",
-          "The cafeteria menu has changed this week."
-        ],
-        "answerIndex": 2,
-        "explanation": "The sentence is about packing boxes; the next sentence says where boxes and labels are available."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "unavailing",
-          "unavailable",
-          "unable",
-          "unwilling"
+          "Department heads have complained that the online form takes far too long to complete during the busiest periods.",
+          "The lower threshold is meant to give the company clearer oversight of spending on equipment and services.",
+          "Several vendors have offered discounts to customers who place large orders before the end of the quarter.",
+          "The audit committee will publish its findings on last year's expenditure at the end of the first quarter."
         ],
         "answerIndex": 1,
-        "explanation": "'Unavailable for use' means that the elevator cannot be used by staff; 'unable' and 'unwilling' describe people."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "whenever",
-          "whoever",
-          "whichever",
-          "however"
-        ],
-        "answerIndex": 0,
-        "explanation": "'Whenever possible' is a fixed expression meaning 'each time it can be done'."
-      }
-    ]
-  },
-  {
-    "id": "p6-003",
-    "documentType": "advertisement",
-    "text": "Fitness First is celebrating its tenth anniversary! For a limited time, new members pay a [1] registration fee of only $10. [2] Our certified trainers will design a personalized program that suits your goals. Members also enjoy unlimited access to the pool, the sauna, and over fifty weekly classes. [3] you sign up before June 30, your first month is free. Visit any of our locations [4] call 555-0142 to get started.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "reduced",
-          "reducing",
-          "reduce",
-          "reduction"
-        ],
-        "answerIndex": 0,
-        "explanation": "A past participle used as an adjective is needed before the noun: 'a reduced fee'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The gym will be closed on public holidays.",
-          "Membership cards must be returned upon cancellation.",
-          "Every new member receives a free consultation with a personal trainer.",
-          "Please remember to renew your driver's license."
-        ],
-        "answerIndex": 2,
-        "explanation": "The next sentence mentions trainers designing a program, which follows a consultation."
+        "explanation": "The sentence explains the purpose of the lowered limit mentioned just before it and leads naturally to 'requests below the new limit'."
       },
       {
         "blank": 3,
-        "category": "connector",
-        "choices": [
-          "If",
-          "Unless",
-          "Although",
-          "Whether"
-        ],
-        "answerIndex": 0,
-        "explanation": "The free month is a condition for signing up early, so 'If' is required; 'unless' would reverse the meaning."
-      },
-      {
-        "blank": 4,
         "category": "connector",
         "choices": [
           "but",
           "so",
-          "nor",
-          "or"
-        ],
-        "answerIndex": 3,
-        "explanation": "The two actions are alternatives: visit a location or call."
-      }
-    ]
-  },
-  {
-    "id": "p6-004",
-    "documentType": "article",
-    "text": "Harbor Foods Expands to Three New Cities\n\nHarbor Foods, a regional grocery chain, announced yesterday that it will open stores in Dayton, Salem, and Fairfield next year. The company's CEO, Maria Torres, said the expansion is a response to [1] demand for fresh local produce. [2] The new stores will create approximately 300 jobs, and hiring will begin in January. Ms. Torres added that the company will [3] partnerships with nearby farms to guarantee quality. Shoppers can expect lower prices, [4] the chain buys directly from growers.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "grew",
-          "grows",
-          "grown",
-          "growing"
-        ],
-        "answerIndex": 3,
-        "explanation": "An adjective is needed before 'demand'; 'growing demand' is the standard collocation."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Harbor Foods currently operates 42 stores across the state.",
-          "The city council meets on the first Monday of each month.",
-          "Residents should renew their parking permits online.",
-          "The local football team won its third straight game."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence gives background on the company, which is the subject of the article."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "decline",
-          "postpone",
-          "establish",
-          "expire"
+          "and",
+          "yet"
         ],
         "answerIndex": 2,
-        "explanation": "'Establish partnerships' means to create them; the other verbs do not fit the context."
+        "explanation": "Repeated violations add a further consequence to the explanation; the clause continues the same idea."
       },
       {
         "blank": 4,
@@ -215,227 +105,172 @@
           "because"
         ],
         "answerIndex": 3,
-        "explanation": "The lower prices are explained by the chain buying directly from growers: a cause."
+        "explanation": "The second clause gives the reason attendance is encouraged: the system will be offline from March 31."
       }
     ]
   },
   {
-    "id": "p6-005",
-    "documentType": "letter",
-    "text": "Dear Ms. Patel,\n\nI am writing in response to your letter dated May 8 concerning the damaged laptop you received. First, please accept our sincere apologies [1] the inconvenience. We have reviewed your case, and we will send a replacement free of charge. [2] You should receive it within five business days. Please keep the original packaging, [3] a courier will collect the damaged unit on Monday. If you [4] any further problems, do not hesitate to contact our customer service team.\n\nSincerely,\nDaniel Brooks",
+    "id": "p6-203",
+    "documentType": "notice",
+    "text": "NOTICE TO RESIDENTS\nHawthorne Court Apartments\n\nThe building's heating system will undergo a scheduled upgrade between October 14 and October 18. During this period, hot water will be [1] between 9 a.m. and 3 p.m. each day. [2] Residents who rely on early-morning showers are advised to adjust their routines accordingly. Engineers will need access to each unit to inspect the radiators, so tenants are asked to ensure that the areas around them are [3]. If you will not be at home, please leave a key with the front desk by October 12. Management apologizes for any inconvenience and is confident that the improvements will [4] energy costs by roughly fifteen percent over the winter.",
     "questions": [
       {
         "blank": 1,
         "category": "vocabulary",
         "choices": [
-          "for",
-          "of",
-          "at",
-          "by"
+          "unavailable",
+          "unreliable",
+          "unacceptable",
+          "unfamiliar"
         ],
         "answerIndex": 0,
-        "explanation": "'Apologies for the inconvenience' is the standard expression."
+        "explanation": "Water cut off during set hours is 'unavailable'; the other adjectives do not describe supply."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The new unit will be shipped from our central warehouse tomorrow.",
-          "Your account has been closed at your request.",
-          "We are no longer selling laptops in this region.",
-          "Thank you for your recent donation to our foundation."
+          "The new boilers will be delivered by truck on the morning of October 14 and lifted into the basement.",
+          "Outside those hours, the supply will operate at normal capacity, and the heating will stay on.",
+          "The front desk will remain open during the work and will be able to take messages for residents.",
+          "The utility company has announced that gas prices will rise sharply once the winter season begins."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence completes the information about the daily interruption and explains what happens outside the 9 to 3 window."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "clearing",
+          "cleared up",
+          "clear",
+          "clearly"
+        ],
+        "answerIndex": 2,
+        "explanation": "'are clear' is an adjective after 'to ensure that ... are'; the adverb or gerund would not fit."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "reproduce",
+          "restore",
+          "respond",
+          "reduce"
+        ],
+        "answerIndex": 3,
+        "explanation": "Better heating efficiency would 'reduce' energy costs."
+      }
+    ]
+  },
+  {
+    "id": "p6-204",
+    "documentType": "article",
+    "text": "Local Bakery Expands Despite Rising Costs\n\nWhen Marta Lindqvist opened her bakery on Ferry Street five years ago, she employed three people and sold fewer than two hundred loaves a day. This month, she will open her third location, [1] making Lindqvist Breads one of the fastest-growing small businesses in the city. [2] Flour prices have climbed steadily, and rent in the downtown district has doubled. Ms. Lindqvist says the key to survival has been a simple rule: buy locally whenever possible. By signing long-term contracts with regional farms, she has [3] her supplies at a stable price. She also credits a loyalty program that rewards customers with a free pastry after every ten purchases. [4] she plans to add a small café area at the new store, she insists that baking, not coffee, will remain the heart of the business.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "thereby",
+          "therefore",
+          "whereas",
+          "moreover"
         ],
         "answerIndex": 0,
-        "explanation": "'It' in the next sentence refers to the replacement, which the inserted sentence must introduce."
+        "explanation": "'thereby making' links the opening to its result; the participle phrase needs 'thereby'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Her new location will offer a wider range of sourdough breads than either of the two existing stores.",
+          "The achievement is all the more remarkable given the pressures that have hit the industry in recent years.",
+          "Most customers say they visit the Ferry Street branch because it is close to their offices.",
+          "The city council has recently approved plans to build additional public parking near the downtown district."
+        ],
+        "answerIndex": 1,
+        "explanation": "The following sentence lists pressures on costs, so the preceding sentence must evoke difficulty and remarkable growth."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "secluded",
+          "selected",
+          "secured",
+          "seated"
+        ],
+        "answerIndex": 2,
+        "explanation": "One 'secures' supplies at a stable price by signing long-term contracts."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Until",
+          "Although"
+        ],
+        "answerIndex": 3,
+        "explanation": "The clause 'she plans to add a café' contrasts with 'baking will remain the heart of the business'."
+      }
+    ]
+  },
+  {
+    "id": "p6-205",
+    "documentType": "job_ad",
+    "text": "Customer Success Coordinator – Brightway Software\n\nBrightway Software, a leading provider of scheduling tools for healthcare clinics, is seeking a Customer Success Coordinator to join its Toronto office. The successful candidate will serve as the primary contact for new clients during their first ninety days. [1] You will walk clinic administrators through setup, answer technical questions, and gather feedback that will be [2] to our product team. Applicants should hold a bachelor's degree and have at least two years of experience in a client-facing role. [3] Experience with healthcare systems is considered an asset, it is not required. Candidates must be able to communicate clearly with both technical and non-technical staff. We offer a competitive salary, flexible hours, and an annual training budget. To apply, send your résumé and a brief cover letter to careers@brightway.example [4] April 30.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your goal will be to ensure that each clinic uses the software confidently and without disruption to its patients.",
+          "Many clinics have reported that scheduling errors are the most common cause of missed appointments.",
+          "Brightway was founded in 2009 and now supports more than three thousand clinics across North America.",
+          "Several of our employees have moved to the support team after receiving promotions this year."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins with 'You will walk clinic administrators through setup', so the preceding sentence must introduce the role's goals."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "relaying",
+          "relayed",
+          "relay",
+          "relays"
+        ],
+        "answerIndex": 1,
+        "explanation": "'will be relayed' is a passive construction requiring a past participle."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "unless",
-          "because",
-          "although",
-          "whereas"
+          "Because",
+          "Unless",
+          "Although",
+          "Since"
         ],
-        "answerIndex": 1,
-        "explanation": "The packaging must be kept for a reason: the courier will collect the damaged unit."
+        "answerIndex": 2,
+        "explanation": "'Although' introduces a concession: helpful but not required."
       },
       {
         "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "experienced",
-          "experiencing",
-          "experience",
-          "experiences"
-        ],
-        "answerIndex": 2,
-        "explanation": "After 'If you' in a present-tense condition, the base form is used."
-      }
-    ]
-  },
-  {
-    "id": "p6-006",
-    "documentType": "job_ad",
-    "text": "Position: Customer Service Representative\nLocation: Chicago, IL\n\nBrightline Telecom is seeking a [1] customer service representative to join our growing team. The successful candidate will respond to customer inquiries by phone and e-mail and [2] billing issues quickly. [3] Candidates must have at least two years of experience in a similar role and excellent communication skills. We offer a competitive salary, health insurance, and opportunities for advancement. Applications must be received [4] March 15.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "motivating",
-          "motivated",
-          "motivation",
-          "motivate"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Motivated' is the participle adjective describing a person who is eager to work."
-      },
-      {
-        "blank": 2,
-        "category": "vocabulary",
-        "choices": [
-          "survive",
-          "resolve",
-          "oppose",
-          "invent"
-        ],
-        "answerIndex": 1,
-        "explanation": "Representatives 'resolve billing issues'; the other verbs have no logical link with billing."
-      },
-      {
-        "blank": 3,
-        "category": "sentence_insertion",
-        "choices": [
-          "The ideal candidate is friendly, patient, and well organized.",
-          "Brightline Telecom was ranked first in a survey of airlines.",
-          "Our offices will be closed during the holiday week.",
-          "The company picnic is scheduled for August."
-        ],
-        "answerIndex": 0,
-        "explanation": "The next sentence lists requirements for candidates, so the inserted sentence must describe the candidate."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "since",
-          "among",
-          "by",
-          "over"
-        ],
-        "answerIndex": 2,
-        "explanation": "'By' marks a deadline: applications must arrive no later than that date."
-      }
-    ]
-  },
-  {
-    "id": "p6-007",
-    "documentType": "web_page",
-    "text": "Lakeview Inn – Welcome\n\nNestled on the shore of Lake Marian, Lakeview Inn offers comfortable rooms and warm hospitality. All rooms feature free Wi-Fi, a private bathroom, and a [1] view of the lake. [2] Guests may enjoy a complimentary breakfast served daily from 6:30 to 10:00 a.m. Reservations can be made online or [3] phone. Please note that cancellations made less than 48 hours before arrival [4] a one-night charge.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "breathtakingly",
-          "breathtaken",
-          "breathtaking",
-          "breathtake"
-        ],
-        "answerIndex": 2,
-        "explanation": "An adjective is needed before the noun 'view'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Tickets for the concert can be purchased at the box office.",
-          "The bridge on Route 9 will be repaired next spring.",
-          "Applicants should send a résumé to the manager.",
-          "Our dining room offers a variety of local specialties."
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence introduces food and leads naturally to the mention of breakfast."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "on",
-          "in",
-          "by",
-          "at"
-        ],
-        "answerIndex": 2,
-        "explanation": "'By phone' is the fixed expression for a means of communication."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "will pay",
-          "will spend",
-          "will incur",
-          "will bill"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Incur a charge' means to become liable for it; the hotel is the one billing, not paying."
-      }
-    ]
-  },
-  {
-    "id": "p6-008",
-    "documentType": "text_message",
-    "text": "Hello Mr. Osei, this is Greenway Appliances. Your new refrigerator is scheduled for delivery [1] Thursday between 1 and 3 p.m. [2] Please make sure that someone over 18 is home to sign for it. If the time does not [3] you, reply to this message and we will [4] a different slot. Thank you for choosing Greenway!",
-    "questions": [
-      {
-        "blank": 1,
         "category": "grammar",
         "choices": [
           "at",
-          "in",
-          "to",
-          "on"
+          "until",
+          "on",
+          "by"
         ],
         "answerIndex": 3,
-        "explanation": "'On' is used before a day of the week."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Our showroom is moving to a new location in May.",
-          "The delivery team will call you 30 minutes before arrival.",
-          "Employees must wear their badges at all times.",
-          "Please submit your expense report by Friday."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence adds a detail about the delivery, which is the topic of the message."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "match",
-          "suit",
-          "agree",
-          "accept"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Suit' means to be convenient for someone; 'agree' needs 'with' and the others do not fit."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "install",
-          "borrow",
-          "arrange",
-          "attend"
-        ],
-        "answerIndex": 2,
-        "explanation": "One 'arranges' a delivery slot, meaning to organize it."
+        "explanation": "A deadline for sending applications is expressed with 'by' plus a date."
       }
     ]
   }

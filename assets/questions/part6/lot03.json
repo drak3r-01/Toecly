@@ -1,441 +1,496 @@
 [
   {
-    "id": "p6-017",
-    "documentType": "letter",
-    "text": "Dear Mr. Ferrara,\n\nYour lease for Apartment 4B at Maple Court [1] on August 31. We would be pleased to have you stay for another year. [2] The monthly rent for the renewal term will be $1,250, an increase of $50. If you wish to renew, please sign the enclosed agreement and return it [3] July 15. Should you decide not to renew, we ask that you [4] us in writing by the same date.\n\nSincerely,\nCarol Weiss, Property Manager",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "expire",
-          "expiring",
-          "expires",
-          "expired"
-        ],
-        "answerIndex": 2,
-        "explanation": "A third-person singular present verb is needed for a scheduled future event."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The elevator will be inspected next Tuesday.",
-          "You have been an excellent tenant, and we value your presence in our community.",
-          "Pets are not allowed on the upper floors.",
-          "Our office has moved to Elm Street."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence supports the invitation to stay another year."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "for",
-          "from",
-          "by",
-          "about"
-        ],
-        "answerIndex": 2,
-        "explanation": "'By' introduces a deadline."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "reply",
-          "notify",
-          "attend",
-          "forward"
-        ],
-        "answerIndex": 1,
-        "explanation": "One 'notifies' someone of a decision; 'reply us' and 'attend us' are impossible."
-      }
-    ]
-  },
-  {
-    "id": "p6-018",
+    "id": "p6-214",
     "documentType": "article",
-    "text": "Local Bakery Wins National Award\n\nSweet Crumb Bakery, a family-owned business in Greenville, has been named Best Small Bakery in the national Culinary Excellence Awards. The prize was [1] at a ceremony in Chicago on Saturday. [2] Owner Helen Park said the award is a tribute to her team, many of [3] have worked at the bakery for more than a decade. As a result of the recognition, Sweet Crumb plans to [4] a second location downtown next spring.",
+    "text": "City Unveils Plan to Expand Bicycle Network\n\nThe municipal transportation department announced on Monday a five-year plan to add sixty kilometers of protected bicycle lanes across the city. Officials say the project is designed to [1] congestion in the central district, where traffic speeds have fallen by almost a fifth since 2018. [2] A pilot scheme on Calder Avenue last summer led to a 40 percent increase in cycling, [3] there was no measurable drop in the number of shops reporting weekday sales. Some business owners remain skeptical, arguing that the loss of parking spaces will discourage customers. The department has promised to hold public consultations in each neighborhood before construction [4]. The first section, linking the railway station to the university, is expected to open next spring.",
     "questions": [
       {
         "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "presenting",
-          "presented",
-          "presents",
-          "presentation"
-        ],
-        "answerIndex": 1,
-        "explanation": "The passive voice is needed: the prize 'was presented'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The city's annual marathon was held last weekend.",
-          "The Greenville Bridge will reopen on Monday.",
-          "Tickets for the concert cost fifty dollars.",
-          "The bakery was founded in 1998 and now employs fifteen people."
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence gives background about the bakery before the owner is quoted."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "whom",
-          "who",
-          "which",
-          "them"
-        ],
-        "answerIndex": 0,
-        "explanation": "After a preposition ('of'), the relative pronoun for people is 'whom'."
-      },
-      {
-        "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "enter",
-          "reach",
-          "open",
-          "raise"
+          "ease",
+          "erase",
+          "raise",
+          "cease"
+        ],
+        "answerIndex": 0,
+        "explanation": "Congestion is 'eased', meaning reduced; 'cease' would not take it as an object in this context."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The transportation department has also announced a new fare structure for buses and trams, to be introduced gradually from January.",
+          "The proposal builds on evidence gathered during an earlier trial, in which the effects on local businesses were also monitored.",
+          "Critics of the plan have pointed out that cyclists are already allowed on most of the city's main roads.",
+          "City officials expect the construction work to employ about two hundred people over the next five years."
+        ],
+        "answerIndex": 1,
+        "explanation": "The following sentence describes a pilot scheme and its business impact, so the previous sentence must introduce earlier evidence."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "because",
+          "so that",
+          "and",
+          "unless"
         ],
         "answerIndex": 2,
-        "explanation": "A business 'opens' a new location."
-      }
-    ]
-  },
-  {
-    "id": "p6-019",
-    "documentType": "advertisement",
-    "text": "Introducing CloudDesk, the easiest way to manage your team's projects. With CloudDesk, you can assign tasks, track deadlines, and share files in one secure place. [1] Our users report saving an average of five hours per week. CloudDesk works [2] on computers and mobile devices, so your team can stay connected wherever they are. Sign up today for a 30-day free trial. No credit card is [3]. After the trial, plans start [4] $8 per user per month.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "The office will be closed on Monday.",
-          "Thousands of companies already rely on it to stay organized.",
-          "Applicants must hold a valid driver's license.",
-          "Please remember to water the plants."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence presents the product's popularity and leads to the users' reported results."
-      },
-      {
-        "blank": 2,
-        "category": "grammar",
-        "choices": [
-          "seamless",
-          "seam",
-          "seamed",
-          "seamlessly"
-        ],
-        "answerIndex": 3,
-        "explanation": "An adverb is needed to modify the verb 'works'."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "required",
-          "requiring",
-          "require",
-          "requirement"
-        ],
-        "answerIndex": 0,
-        "explanation": "The passive form 'is required' fits 'No credit card is ...'."
+        "explanation": "The sentence adds that shop sales did not fall; 'and' links the two outcomes."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "on",
-          "in",
-          "by",
-          "at"
+          "beginning",
+          "to begin",
+          "began",
+          "begins"
         ],
         "answerIndex": 3,
-        "explanation": "Prices 'start at' a given amount."
+        "explanation": "'before construction begins' uses the present tense after 'before' for a future event."
       }
     ]
   },
   {
-    "id": "p6-020",
-    "documentType": "email",
-    "text": "Hi team,\n\nI am writing to remind you that the quarterly budget review will be held on Thursday at 2 p.m. in the main conference room. [1] Please bring your department's expense reports, [2] they will be used to compare actual spending with the forecast. Anyone who cannot attend [3] inform Mr. Dube by Wednesday. [4] I would like to thank everyone for the hard work this quarter.\n\nBest,\nSandra",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "The cafeteria has a new vegetarian menu.",
-          "Attendance is required for all department heads.",
-          "Please remember to update your parking permits.",
-          "The new employees will start next month."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence is about the meeting and leads to the request to bring documents."
-      },
-      {
-        "blank": 2,
-        "category": "connector",
-        "choices": [
-          "so",
-          "but",
-          "or",
-          "because"
-        ],
-        "answerIndex": 3,
-        "explanation": "The reports are needed for a reason: the comparison with the forecast."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "should",
-          "to",
-          "must to",
-          "is"
-        ],
-        "answerIndex": 0,
-        "explanation": "'Should' is followed by the base form of the verb."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "Instead,",
-          "Finally,",
-          "Otherwise,",
-          "Nevertheless,"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Finally' introduces the last point of the e-mail."
-      }
-    ]
-  },
-  {
-    "id": "p6-021",
-    "documentType": "notice",
-    "text": "Flu Vaccination Clinic\n\nWestside Medical Center will hold its annual flu vaccination clinic on Saturday, October 11, from 9 a.m. to 3 p.m. The vaccine is free [1] all residents over the age of 12. [2] No appointment is necessary, but patients who arrive early will have shorter waiting times. Please bring your insurance card, [3] you have one. Individuals who are allergic to eggs should [4] a doctor before receiving the vaccine.",
+    "id": "p6-215",
+    "documentType": "memo",
+    "text": "To: All Laboratory Technicians\nFrom: Dr. Imani Okafor, Quality Manager\nSubject: Updated sample-handling procedure\n\nFollowing last month's audit, the following changes to our sample-handling procedure take effect on Monday. All specimens must now be labeled [1] the moment they are received, and labels must include the collection time as well as the date. [2] Samples that arrive without complete documentation should be placed in the quarantine refrigerator and reported to the supervisor, rather than processed. The audit also revealed that refrigerator temperatures were not always logged [3]. From now on, the log must be signed twice daily, and the supervisor will review it every Friday. Technicians who have questions about the new rules may attend one of the briefings held in Room 204 on Thursday. [4] these changes may seem minor, they are essential for maintaining our accreditation.",
     "questions": [
       {
         "blank": 1,
         "category": "grammar",
         "choices": [
           "at",
-          "for",
-          "by",
-          "with"
+          "in",
+          "on",
+          "for"
         ],
-        "answerIndex": 1,
-        "explanation": "'Free for' someone introduces the people who benefit."
+        "answerIndex": 0,
+        "explanation": "'at the moment' is the fixed expression for 'as soon as'."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The hospital cafeteria offers a new menu.",
-          "Registration will take place at the main entrance.",
-          "The parking garage is being repainted this year.",
-          "Our staff will attend a conference next week."
+          "The audit team commended the laboratory for its excellent record in keeping instruments clean and properly calibrated throughout the year.",
+          "This requirement applies equally to specimens from external clinics and to those transferred between our own departments.",
+          "Technicians have asked for additional training sessions on the new software used to record patient results.",
+          "The quarantine refrigerator will be moved to the second floor next month when the renovation is finished."
         ],
         "answerIndex": 1,
-        "explanation": "The sentence tells where to arrive and links to the remark about not needing an appointment."
+        "explanation": "The sentence extends the labeling rule to all specimens; the following sentence then deals with incomplete documentation."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "considerably",
+          "constantly",
+          "consistently",
+          "conveniently"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Not always logged consistently' describes regularity of logging; 'constantly' would change the meaning."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Whenever",
+          "Although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Although' sets up the concession that the changes seem minor but are essential."
+      }
+    ]
+  },
+  {
+    "id": "p6-216",
+    "documentType": "email",
+    "text": "Subject: Your enrollment at Lakeside Language Institute\n\nDear Mr. Tanaka,\n\nWe are pleased to confirm your place in the Advanced Business English course beginning on September 9. Classes will be held on Tuesday and Thursday evenings from 6:30 to 8:30 in Room 12. [1] Your textbook and online access code will be available for collection at reception from September 2. Please bring a photo identification when you collect them, [2] we are unable to release materials to anyone else. Students who have completed the placement test with a score above 85 are eligible for the new conversation workshop, [3] takes place on Saturday mornings. [4] you decide to withdraw, notify us at least five working days before the start date to receive a full refund. We look forward to welcoming you.\n\nBest regards,\nElena Rossi\nAdmissions Office",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The course consists of twenty sessions and is taught by instructors with extensive experience in corporate communication.",
+          "The institute was established in 1998 and now offers evening courses in twelve languages at three locations across the region.",
+          "Several students have said that the evening schedule is convenient for those who work during the day.",
+          "The next course in this series will begin in January and is already open for early registration."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence refers to the textbook for the course, so the preceding sentence should describe the course."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "although",
+          "as",
+          "unless",
+          "whereas"
+        ],
+        "answerIndex": 1,
+        "explanation": "The clause explains why identification is needed: materials cannot be given to anyone else."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "which",
+          "where"
+        ],
+        "answerIndex": 2,
+        "explanation": "The relative pronoun 'which' refers to the workshop and is the subject of 'takes place'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Whether",
+          "Provided",
+          "Should"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Should you decide' is an inverted conditional meaning 'If you decide'."
+      }
+    ]
+  },
+  {
+    "id": "p6-217",
+    "documentType": "notice",
+    "text": "IMPORTANT NOTICE FOR PASSENGERS\nCoastal Ferry Lines\n\nDue to forecast high winds on Wednesday, the 7:15 a.m. and 9:45 a.m. departures from Port Ellis have been canceled. [1] The 12:30 p.m. sailing will operate as scheduled unless conditions worsen, in which case an announcement will be made at the terminal. Passengers holding tickets for the canceled services may [2] travel to a later date without charge or request a full refund. [3] Vehicle reservations, a refund will be issued automatically to the card used for payment. Passengers who have already checked in their luggage should collect it from the baggage hall before leaving the terminal. We recommend that you [4] our website or call the information line before setting out, as services may change at short notice. We regret any inconvenience this may cause.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Customers who need to reach the island urgently are advised to join the afternoon sailing, which has additional capacity.",
+          "The ferry fleet was inspected last month and found to meet every one of the safety standards required by the authorities.",
+          "Winds of this strength are unusual for the time of year and are expected to subside by Thursday morning.",
+          "The terminal café will remain open until the last sailing and offers a range of hot drinks and meals."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence is about the 12:30 sailing, so the preceding sentence should point passengers to it."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "transmit",
+          "transfer",
+          "transform",
+          "translate"
+        ],
+        "answerIndex": 1,
+        "explanation": "Tickets can be 'transferred' to another date; the others do not collocate with 'travel to a later date'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Instead of",
+          "Owing to",
+          "In the case of",
+          "Regardless of"
+        ],
+        "answerIndex": 2,
+        "explanation": "The refund rule applies to vehicle reservations as a specific case."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "insult",
+          "resolve",
+          "convert",
+          "consult"
+        ],
+        "answerIndex": 3,
+        "explanation": "One 'consults' a website for information."
+      }
+    ]
+  },
+  {
+    "id": "p6-218",
+    "documentType": "letter",
+    "text": "Dear Valued Customer,\n\nAt Greenfield Insurance, we are committed to providing coverage that evolves with your needs. After reviewing your policy, we have identified several changes that will take effect on January 1. [1] Your annual premium will increase by 3 percent, which is lower than the average rise across the industry. [2], your coverage limit for personal belongings will rise from $20,000 to $25,000, at no extra cost. We have also simplified the claims process: you can now submit a claim [3] through our mobile app, and you will receive a decision within five business days. If you have questions about any of these changes, our advisers are available to [4] you through them by telephone or in person at any of our branches. Thank you for your continued loyalty.\n\nMargaret Doyle\nCustomer Relations Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "We would like to explain these changes clearly so that you can decide whether your policy still suits you.",
+          "Many of our customers have told us that they are pleased with the speed at which their claims have been handled lately.",
+          "Greenfield Insurance was named best regional insurer by an independent consumer organization last year.",
+          "Policyholders who wish to cancel their coverage must give written notice at least one month in advance."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence introduces the explanation of changes, preceding the details of premium and coverage."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Therefore",
+          "However",
+          "Similarly",
+          "Besides"
+        ],
+        "answerIndex": 1,
+        "explanation": "'However' marks the contrast between the premium rise and the increase in coverage, which is a benefit."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "direct",
+          "directing",
+          "directly",
+          "directness"
+        ],
+        "answerIndex": 2,
+        "explanation": "An adverb is needed to modify the verb 'submit'."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "guard",
+          "guess",
+          "guarantee",
+          "guide"
+        ],
+        "answerIndex": 3,
+        "explanation": "Advisers 'guide' customers through changes."
+      }
+    ]
+  },
+  {
+    "id": "p6-219",
+    "documentType": "job_ad",
+    "text": "Production Planner – Calloway Foods\n\nCalloway Foods, a family-owned manufacturer of frozen meals, is looking for an experienced Production Planner to join its team in Leeds. The role involves coordinating weekly schedules for three production lines, [1] ensuring that raw materials arrive on time and that finished products meet customer deadlines. [2] You will work closely with the purchasing and warehouse departments, and you will report directly to the operations director. The ideal candidate has a degree in logistics or a related field and at least three years' experience in food manufacturing. Familiarity with planning software is [3], although training is provided. We offer a generous pension scheme, private health insurance, and the chance to [4] a growing business with a strong community reputation. Applications close on October 15, and interviews will follow shortly after.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "while",
+          "after",
+          "unless",
+          "so"
+        ],
+        "answerIndex": 0,
+        "explanation": "'while ensuring' links two simultaneous responsibilities."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Calloway Foods exports its products to eleven countries and has recently opened a large new distribution center in Hull.",
+          "Because delivery windows are narrow, accuracy and the ability to react quickly to unexpected changes are essential.",
+          "Candidates will be asked to complete a short written exercise during the second interview in November.",
+          "The current planner will retire at the end of the year after twenty years of loyal service."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence explains why precision matters in a planning role and leads into the description of collaboration."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "desired",
+          "desiring",
+          "desirable",
+          "desirous"
+        ],
+        "answerIndex": 2,
+        "explanation": "'desirable' is the adjective meaning preferred but not essential, as 'although training is provided' implies."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "joint",
+          "joining",
+          "jointed",
+          "join"
+        ],
+        "answerIndex": 3,
+        "explanation": "'chance to join' requires the base form of the verb after 'to'."
+      }
+    ]
+  },
+  {
+    "id": "p6-220",
+    "documentType": "web_page",
+    "text": "Maple Grove Dental Clinic – Frequently Asked Questions\n\nHow often should I schedule a check-up? Most adults benefit from a visit every six months, [1] patients with a history of gum disease may need to come more frequently. [2] During your first appointment, we will take X-rays, review your medical history, and discuss any concerns you may have. Do you accept insurance? We work with most major providers and will submit claims on your behalf. [3] your plan does not cover a specific treatment, we will give you a written estimate before work begins. What should I do in an emergency? Call us immediately at any hour; a dentist is always [4] for urgent cases. Appointments can be rescheduled online up to twenty-four hours in advance.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "although",
+          "because",
+          "so",
+          "unless"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence contrasts the general recommendation with a specific exception."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our clinic has a play area for children, and the staff are specially trained to help nervous young patients feel at ease.",
+          "New patients are asked to arrive fifteen minutes early to complete the registration forms at reception.",
+          "Regular cleaning reduces the risk of cavities and helps keep breath fresh between professional visits.",
+          "The clinic is located within walking distance of the central station and offers free parking for patients."
+        ],
+        "answerIndex": 1,
+        "explanation": "The following sentence describes the first appointment, so the preceding sentence should concern new patients."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Because",
+          "If",
+          "Whereas"
+        ],
+        "answerIndex": 2,
+        "explanation": "A conditional clause is needed: if the plan does not cover the treatment."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "capable",
+          "suitable",
+          "reliable",
+          "available"
+        ],
+        "answerIndex": 3,
+        "explanation": "A dentist is 'available' for emergency cases."
+      }
+    ]
+  },
+  {
+    "id": "p6-221",
+    "documentType": "advertisement",
+    "text": "Clearwater Appliances – Annual Spring Sale\n\nThis spring, upgrade your kitchen without exceeding your budget. Clearwater Appliances is offering up to 35 percent off selected refrigerators, dishwashers, and ovens from April 5 to April 20. [1] Every model in the sale is rated A or higher for energy efficiency, which means lower utility bills for years to come. Customers who [2] an old appliance for recycling will receive an additional $50 credit toward their purchase. [3] our delivery service is free for orders above $400, we also offer professional installation for a small fee. All products are backed by a three-year warranty, [4] repairs are carried out by certified technicians. Visit any of our stores or browse the full range online at clearwaterappliances.example. Quantities are limited, so early shopping is advised.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Savings of this kind are rarely available outside the end-of-year period, so now is an ideal time to compare models.",
+          "Our stores will be closed on Easter Sunday and will reopen at the usual hours on the following morning.",
+          "Many of our customers have chosen to replace their appliances after moving into a newly built home.",
+          "The brands featured in this sale were selected by a panel of independent consumer testers during a review last winter."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence adds a feature of the models, and the preceding sentence about savings fits a promotional flow."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "retain",
+          "return",
+          "resell",
+          "refuse"
+        ],
+        "answerIndex": 1,
+        "explanation": "Customers 'return' an old appliance to be recycled; 'retain' means keep."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "While",
+          "Until"
+        ],
+        "answerIndex": 2,
+        "explanation": "'While' contrasts the free delivery with the paid installation."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "but",
+          "or",
+          "so",
+          "and"
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence adds that repairs are done by certified technicians."
+      }
+    ]
+  },
+  {
+    "id": "p6-222",
+    "documentType": "schedule",
+    "text": "Annual Staff Development Day – Draft Schedule\n\n9:00 a.m. Opening remarks by the director\n9:30 a.m. Workshop A: Managing change in the workplace\n11:00 a.m. Break\n11:30 a.m. Workshop B: Data security for beginners\n1:00 p.m. Lunch\n2:00 p.m. Panel discussion\n\nThe day begins with a short address by the director, [1] participants will choose between two workshops running in parallel. [2] Those who prefer a practical approach should select Workshop B, which includes hands-on exercises on a laptop. Participants are asked to register for their preferred session by Friday, [3] places in each workshop are limited to thirty. After lunch, all staff will gather for a panel discussion featuring [4] from three different departments. Anyone with dietary requirements should inform the organizers by e-mail by the end of the week.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "after which",
+          "during which",
+          "for which",
+          "since which"
+        ],
+        "answerIndex": 0,
+        "explanation": "'after which' links the address to the later choice of workshops; the other relatives are illogical here."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The director has been with the organization for twenty years and will announce several new appointments to the board.",
+          "Workshop A is intended for supervisors and will focus on communicating decisions to teams that are resistant to change.",
+          "Last year's event was attended by more than two hundred employees from all of the company's offices.",
+          "A shuttle bus will run between the station and the conference center every fifteen minutes in the morning."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence begins 'Those who prefer a practical approach', so the previous one should present the alternative, Workshop A."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
           "unless",
-          "if",
-          "so",
-          "but"
-        ],
-        "answerIndex": 1,
-        "explanation": "The insurance card is requested only on condition that the person has one."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "consult",
-          "consist",
-          "consent",
-          "consume"
-        ],
-        "answerIndex": 0,
-        "explanation": "One 'consults' a doctor."
-      }
-    ]
-  },
-  {
-    "id": "p6-022",
-    "documentType": "letter",
-    "text": "Dear Customer,\n\nWe are pleased to inform you that your application for a Premier Savings Account has been [1]. Your new account number is enclosed. [2] To activate your online banking, please visit www.firstunion.example and follow the instructions. For security reasons, we recommend that you change your password [3] you log in for the first time. Should you need any [4], our representatives are available Monday to Friday from 8 a.m. to 6 p.m.\n\nFirst Union Bank",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "approving",
-          "approval",
-          "approved",
-          "approve"
+          "although",
+          "since",
+          "whereas"
         ],
         "answerIndex": 2,
-        "explanation": "The passive voice 'has been approved' fits the good news."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Our branch on Pine Street has relocated.",
-          "You may begin making deposits immediately.",
-          "Mortgage rates will rise next quarter.",
-          "The bank will be closed on Monday."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence follows the opening of the account and precedes the online-banking instructions."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "even though",
-          "rather than",
-          "so that",
-          "as soon as"
-        ],
-        "answerIndex": 3,
-        "explanation": "'As soon as' links two actions in sequence: logging in, then changing the password."
+        "explanation": "Registration is requested early because the places are limited."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "assist",
-          "assisted",
-          "assistance",
-          "assistant"
-        ],
-        "answerIndex": 2,
-        "explanation": "A noun is needed after 'any'."
-      }
-    ]
-  },
-  {
-    "id": "p6-023",
-    "documentType": "memo",
-    "text": "MEMO\nTo: All staff\nFrom: Human Resources\nSubject: Employee of the Month\n\nWe are pleased to announce that Joseph Rivera from the shipping department has been selected Employee of the Month. Joseph was chosen [1] his outstanding commitment to customer satisfaction. [2] Last month alone, he resolved over forty delayed orders. Please join us in congratulating him at the staff meeting on Friday, [3] a small reception will be held. Nominations for next month [4] submitted to HR by the 25th.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "to",
-          "at",
-          "for",
-          "by"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Chosen for' introduces the reason for the selection."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The shipping department will move to the third floor.",
-          "Safety training is scheduled for next week.",
-          "The company will open a new branch in Denver.",
-          "His dedication has been noticed by both colleagues and clients."
+          "representations",
+          "representative",
+          "representing",
+          "representatives"
         ],
         "answerIndex": 3,
-        "explanation": "The sentence praises Joseph and leads to the example that follows."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "where",
-          "when",
-          "whose",
-          "what"
-        ],
-        "answerIndex": 1,
-        "explanation": "'When' refers to the time ('Friday') and introduces the event."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "must be",
-          "must",
-          "should being",
-          "will"
-        ],
-        "answerIndex": 0,
-        "explanation": "After a modal, the passive uses the base form of the auxiliary: must be submitted."
-      }
-    ]
-  },
-  {
-    "id": "p6-024",
-    "documentType": "advertisement",
-    "text": "Escape to Lisbon with Horizon Travel! Our seven-day package includes round-trip flights, hotel accommodation, and guided tours of the city's most famous [1]. [2] Prices start at $1,199 per person, and children under 12 travel at half price. Book before April 30 [3] receive a free upgrade to a deluxe room. Spaces are limited, so [4] early to avoid disappointment.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "attractive",
-          "attractions",
-          "attracts",
-          "attract"
-        ],
-        "answerIndex": 1,
-        "explanation": "A plural noun is needed after 'famous'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Each day offers a different adventure, from historic castles to seaside dinners.",
-          "Passports must be renewed every ten years.",
-          "Hotel guests must check out before noon.",
-          "Please return your rental car with a full tank."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence describes the package and leads into the prices."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "but",
-          "nor",
-          "so",
-          "and"
-        ],
-        "answerIndex": 3,
-        "explanation": "Two actions are joined: book early and receive an upgrade."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "booking",
-          "book",
-          "booked",
-          "to book"
-        ],
-        "answerIndex": 1,
-        "explanation": "An imperative is needed after 'so'."
+        "explanation": "A plural noun meaning people who speak for departments is needed."
       }
     ]
   }

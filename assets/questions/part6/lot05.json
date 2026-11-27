@@ -1,441 +1,661 @@
 [
   {
-    "id": "p6-033",
-    "documentType": "notice",
-    "text": "SAFETY NOTICE – WAREHOUSE\n\nAll warehouse personnel must wear protective helmets and safety shoes [1] entering the loading area. [2] Forklifts have the right of way at all times, so pedestrians should [3] aside when a vehicle approaches. Any accident, however minor, must be reported to a supervisor [4]. Failure to follow these rules may result in disciplinary action.",
+    "id": "p6-234",
+    "documentType": "email",
+    "text": "Subject: Changes to the Dunmore Museum membership program\n\nDear Members,\n\nAfter extensive consultation with visitors, the board has decided to restructure the museum's membership program from the start of next year. [1] Annual membership fees will remain unchanged for individuals, but family memberships will rise by $10 to cover the cost of the new children's workshops. [2] all members will receive priority booking for special exhibitions, a benefit previously reserved for the highest tier. In return, the free guest passes that members once enjoyed will be discontinued, since they were [3] used. We understand that some of you may be disappointed by this change, and we would welcome your comments before the new rules take effect. Feedback can be [4] by e-mail to membership@dunmore.example until December 15.\n\nWarm regards,\nThe Membership Team",
     "questions": [
       {
         "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The new structure is intended to attract younger visitors while preserving the benefits that regular supporters value most.",
+          "The museum has acquired a collection of eighteenth-century maps that will be displayed in the east gallery.",
+          "Attendance last year was the highest recorded since the building was reopened following the major renovation.",
+          "The board includes representatives from local universities, businesses, and several community organizations."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence provides detail on fees; the first option offers the overall rationale before the details."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Otherwise",
+          "In addition",
+          "Nevertheless",
+          "For instance"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence adds another change to those already mentioned."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "rapidly",
+          "rightly",
+          "rarely",
+          "readily"
+        ],
+        "answerIndex": 2,
+        "explanation": "The passes were discontinued because they were 'rarely' used; other adverbs do not justify removal."
+      },
+      {
+        "blank": 4,
         "category": "grammar",
         "choices": [
-          "during",
-          "after",
-          "until",
-          "before"
+          "submitting",
+          "submit",
+          "submission",
+          "submitted"
         ],
         "answerIndex": 3,
-        "explanation": "'Before entering' sets the equipment as a prerequisite to entering the area."
+        "explanation": "The passive 'can be submitted' requires the past participle."
+      }
+    ]
+  },
+  {
+    "id": "p6-235",
+    "documentType": "article",
+    "text": "Shipping Industry Faces Shortage of Skilled Crew\n\nThe global shipping industry is facing a growing shortage of qualified officers, according to a report published this week by the Maritime Employers' Association. Demand for crew has risen steadily as the world's fleet expands, [1] the number of graduates from maritime academies has remained largely flat. [2] Companies are therefore competing aggressively for experienced engineers, offering signing bonuses and shorter contracts. Some operators have gone further, funding scholarships for students who [3] to work for them for a minimum of five years after graduation. Industry leaders warn that the shortage could [4] delays if it is not addressed, since vessels cannot sail without a full complement of certified staff.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "because",
+          "unless",
+          "so that"
+        ],
+        "answerIndex": 0,
+        "explanation": "'whereas' contrasts rising demand with flat graduate numbers."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The company picnic will be held in July.",
-          "Lunch is served in the cafeteria from noon.",
-          "Please submit vacation requests two weeks in advance.",
-          "Visitors must be accompanied by an employee at all times."
+          "The association represents more than three hundred companies in forty countries and was founded in the 1950s.",
+          "The imbalance has been most acute in specialist roles, particularly those requiring training in advanced propulsion systems.",
+          "Most large vessels today are operated by crews of fewer than twenty people, down from fifty a generation ago.",
+          "The report was based on a survey of two hundred shipping companies conducted over a period of six months."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence begins 'Companies are therefore competing', consequent on a shortage described in the sentence before."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "commute",
+          "commend",
+          "commit",
+          "compete"
+        ],
+        "answerIndex": 2,
+        "explanation": "Students 'commit' to working for the company in return for a scholarship."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "cancel",
+          "cure",
+          "calm",
+          "cause"
         ],
         "answerIndex": 3,
-        "explanation": "The sentence is a safety rule for the area and precedes another safety rule."
+        "explanation": "A shortage could 'cause' delays; the other verbs make no sense with 'delays'."
+      }
+    ]
+  },
+  {
+    "id": "p6-236",
+    "documentType": "letter",
+    "text": "Dear Mr. Ibrahim,\n\nI am writing in response to your complaint regarding the delivery of your dining table, which arrived with a scratch along one edge. Please accept our sincere apologies. [1] We have reviewed the photographs you sent, and we agree that the damage occurred during transportation. [2] a replacement will be shipped to you at no charge within ten working days. A courier will collect the damaged table on the same day, so we ask that you [3] it in its original packaging if possible. Should you prefer a refund, please let us know, and we will process it without delay. In the meantime, we have added a credit of $50 to your account [4] a gesture of goodwill. We hope this will restore your confidence in our service.\n\nSincerely,\nNadia Fournier\nCustomer Care, Haverly Furniture",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our products are inspected before leaving the warehouse, and such incidents are extremely uncommon in our experience.",
+          "Your order was dispatched on the fourth of the month and should have been delivered within a week.",
+          "Tables of this model are available in three finishes, and your choice of oak has been very popular.",
+          "Customers who register their purchases receive an extended warranty free of charge for a further year."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence refers to reviewing the photographs; the correct sentence acknowledges the problem and expresses regret in a corporate tone."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Meanwhile",
+          "Accordingly",
+          "Likewise",
+          "Instead"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Accordingly' introduces the logical consequence of agreeing that the damage happened in transit."
       },
       {
         "blank": 3,
         "category": "grammar",
         "choices": [
-          "steps",
-          "stepped",
-          "stepping",
-          "step"
+          "kept",
+          "keeping",
+          "keep",
+          "keeps"
         ],
-        "answerIndex": 3,
-        "explanation": "After 'should', the base form of the verb is used."
+        "answerIndex": 2,
+        "explanation": "After 'we ask that you', the base form of the verb is used (subjunctive)."
       },
       {
         "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "like",
+          "for",
+          "than",
+          "as"
+        ],
+        "answerIndex": 3,
+        "explanation": "'as a gesture of goodwill' is the fixed phrase."
+      }
+    ]
+  },
+  {
+    "id": "p6-237",
+    "documentType": "notice",
+    "text": "ATTENTION ALL EMPLOYEES\n\nThe annual fire safety drill will take place on Wednesday, May 14, at some point between 10 a.m. and noon. [1] The exact time will not be announced in advance so that the exercise reflects a real emergency as closely as possible. When the alarm sounds, employees should leave the building [2] using the nearest stairway and proceed to the assembly point in the parking lot. Elevators must not be used. Floor wardens will check that every office is empty and report to the safety coordinator, who will [3] a head count. [4] the drill is mandatory, staff who are working off site are exempt, provided that they inform their supervisor beforehand. A short debriefing will be held in the cafeteria at 2 p.m.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Participation is compulsory for everyone present in the building, including visitors and contractors working on the premises.",
+          "The company has not experienced a fire in its offices since the headquarters were opened more than a decade ago.",
+          "Fire extinguishers throughout the building were inspected last month by a certified technician from the city.",
+          "Employees are encouraged to review the evacuation maps posted beside every stairway and elevator on their floor."
+        ],
+        "answerIndex": 0,
+        "explanation": "The following sentence says the time will not be announced; the preceding one presents the scope of the exercise."
+      },
+      {
+        "blank": 2,
         "category": "grammar",
         "choices": [
           "immediate",
-          "immediacy",
           "immediately",
-          "immediateness"
-        ],
-        "answerIndex": 2,
-        "explanation": "An adverb is needed to modify the verb 'reported'."
-      }
-    ]
-  },
-  {
-    "id": "p6-034",
-    "documentType": "email",
-    "text": "Dear Students,\n\nThe registration period for the spring semester [1] on December 1. Please log in to the student portal to choose your courses. [2] Courses fill up quickly, so we advise you to register [3]. Students who have unpaid fees will not be able to register [4] they settle their accounts at the bursar's office.\n\nRegistrar's Office",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "opens",
-          "open",
-          "opening",
-          "opened"
-        ],
-        "answerIndex": 0,
-        "explanation": "A scheduled future event uses the present simple, third-person singular."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "You can view the full list of available courses on the same page.",
-          "The football season ends next week.",
-          "New parking rules take effect on Monday.",
-          "Graduation photos can be ordered online."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence explains how to choose courses and precedes the warning about full courses."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "early",
-          "earliness",
-          "earlier",
-          "earliest"
-        ],
-        "answerIndex": 0,
-        "explanation": "'Early' is used as an adverb to modify 'register'."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "since",
-          "until",
-          "while",
-          "because"
+          "immediacy",
+          "more immediate"
         ],
         "answerIndex": 1,
-        "explanation": "Registration is blocked up to the moment the accounts are settled."
-      }
-    ]
-  },
-  {
-    "id": "p6-035",
-    "documentType": "advertisement",
-    "text": "Luxury Living at Riverside Towers\n\nDiscover a new standard of comfort in the heart of downtown. Each apartment features floor-to-ceiling windows, a fully equipped kitchen, and a private balcony [1] stunning views of the river. [2] Residents also enjoy a fitness center, a rooftop garden, and 24-hour security. Units are [3] for immediate occupancy. Call 555-0193 today to schedule a [4].",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "offering",
-          "offered",
-          "offers",
-          "offer"
-        ],
-        "answerIndex": 0,
-        "explanation": "A present participle introduces what the balcony provides."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Our company was founded by two engineers.",
-          "Bus fares will increase next month.",
-          "The building is within walking distance of shops, restaurants, and the central train station.",
-          "Please submit all complaints in writing."
-        ],
-        "answerIndex": 2,
-        "explanation": "The sentence describes the location; the next one begins with 'Residents also enjoy', adding more advantages."
+        "explanation": "An adverb is needed to modify the verb 'leave'."
       },
       {
         "blank": 3,
         "category": "vocabulary",
         "choices": [
-          "available",
-          "valuable",
-          "reliable",
-          "possible"
+          "construct",
+          "consult",
+          "conduct",
+          "condemn"
         ],
-        "answerIndex": 0,
-        "explanation": "Units that can be occupied immediately are 'available'."
+        "answerIndex": 2,
+        "explanation": "One 'conducts' a head count; the other verbs do not collocate."
       },
       {
         "blank": 4,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "viewing",
-          "view",
-          "viewer",
-          "views"
+          "Because",
+          "Unless",
+          "Until",
+          "Although"
         ],
-        "answerIndex": 0,
-        "explanation": "A noun is needed after 'a': to schedule a viewing means to arrange a visit."
+        "answerIndex": 3,
+        "explanation": "'Although' signals the concession: the drill is mandatory, but off-site staff are exempt."
       }
     ]
   },
   {
-    "id": "p6-036",
-    "documentType": "letter",
-    "text": "Dear Mr. Lindgren,\n\nFollowing your recent interviews, we are pleased to offer you the position of Operations Analyst at Delta Logistics. Your annual salary will be $62,000, [1] you will also be eligible for a yearly bonus. [2] Your start date will be Monday, February 2. Please confirm your acceptance by signing and returning the enclosed contract [3] January 20. We are confident that you will be a valuable [4] to our team.\n\nSincerely,\nAnnette Moore",
+    "id": "p6-238",
+    "documentType": "advertisement",
+    "text": "Sundale Language Software – Learn at Your Own Pace\n\nMastering a new language has never been so convenient. Sundale's award-winning app adapts to your level and schedule, [1] you only study what you need. [2] Each lesson takes about fifteen minutes and combines listening, speaking, and reading exercises designed by professional teachers. Unlike traditional classes, the program [3] your progress and adjusts the difficulty automatically. Thousands of users report that they feel confident enough to hold a basic conversation after just six weeks. Subscribers can download lessons for offline use, [4] making the app ideal for commuters and frequent travelers. Try it free for thirty days, with no obligation to continue.",
     "questions": [
       {
         "blank": 1,
         "category": "connector",
         "choices": [
-          "although",
-          "unless",
-          "and",
-          "whether"
+          "so that",
+          "even if",
+          "as if",
+          "in case"
         ],
-        "answerIndex": 2,
-        "explanation": "The bonus is an addition to the salary, so the clauses are joined by 'and'."
+        "answerIndex": 0,
+        "explanation": "'so that' expresses purpose: the app adapts so you study only what you need."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "We have recently opened a new warehouse in Dallas.",
-          "The company picnic takes place every July.",
-          "Benefits include health insurance and twenty days of paid leave.",
-          "Our delivery trucks are inspected every month."
+          "Several of our competitors charge extra for features that are included in every Sundale subscription.",
+          "The content is organized around practical situations such as ordering a meal, booking a hotel, or attending a meeting.",
+          "The app was developed by a team of linguists and engineers who previously worked for a university.",
+          "Pricing plans start at a very low monthly rate, with discounts for annual and family subscriptions."
         ],
-        "answerIndex": 2,
-        "explanation": "The sentence continues the description of the offer and precedes the start date."
+        "answerIndex": 1,
+        "explanation": "The next sentence says 'Each lesson takes about fifteen minutes', so the preceding sentence introduces the lessons' content."
       },
       {
         "blank": 3,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "from",
-          "during",
-          "about",
-          "by"
+          "monetizes",
+          "monopolizes",
+          "monitors",
+          "mentors"
         ],
-        "answerIndex": 3,
-        "explanation": "'By' marks the deadline for the reply."
+        "answerIndex": 2,
+        "explanation": "The program 'monitors' (tracks) progress and adjusts the difficulty."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "addition",
-          "additional",
-          "add",
-          "additionally"
+          "whereas",
+          "although",
+          "rather",
+          "thereby"
         ],
-        "answerIndex": 0,
-        "explanation": "A noun is needed after 'a valuable': 'a valuable addition to the team'."
+        "answerIndex": 3,
+        "explanation": "'thereby making' links the participle phrase to the result of offline use."
       }
     ]
   },
   {
-    "id": "p6-037",
-    "documentType": "review",
-    "text": "★★★★★ Excellent value\n\nI bought the Atlas 15 laptop two months ago, and I am extremely [1] with it. The battery lasts about ten hours, [2] is more than enough for a full day of meetings. [3] The screen is bright and sharp, and the keyboard is comfortable. The only [4] is that the speakers are a little weak. I would recommend it to anyone looking for a reliable work computer.",
+    "id": "p6-239",
+    "documentType": "job_ad",
+    "text": "Assistant Store Manager – Bellamy's Garden Center\n\nBellamy's Garden Center, one of the region's best-known retailers, is looking for an Assistant Store Manager for its Fairview location. [1] You will supervise a team of fifteen employees, oversee inventory, and ensure that customers receive knowledgeable advice. The successful applicant will have previous retail management experience [2] a genuine enthusiasm for plants and outdoor living. Some weekend work is required, [3] the store is busiest at those times. Bellamy's offers its employees a discount on all products, paid training, and opportunities for advancement. [4] who wish to apply should submit a résumé and two references through our website before the end of the month. Interviews will be conducted in the first week of March.",
     "questions": [
       {
         "blank": 1,
-        "category": "grammar",
+        "category": "sentence_insertion",
         "choices": [
-          "satisfying",
-          "satisfaction",
-          "satisfied",
-          "satisfy"
+          "This is a hands-on position that requires someone who is comfortable moving between the sales floor and the office.",
+          "Bellamy's was founded in 1962 and has grown from a single nursery to a chain of nine locations.",
+          "The Fairview store was refurbished last year and now includes a café and a children's activity area.",
+          "Our busiest season runs from March to June, when demand for seeds and plants is at its highest."
         ],
-        "answerIndex": 2,
-        "explanation": "People are 'satisfied with' a product."
+        "answerIndex": 0,
+        "explanation": "The next sentence describes duties, so the preceding sentence characterizes the position."
       },
       {
         "blank": 2,
+        "category": "connector",
+        "choices": [
+          "instead of",
+          "as well as",
+          "rather than",
+          "except for"
+        ],
+        "answerIndex": 1,
+        "explanation": "The candidate needs both experience and enthusiasm, hence 'as well as'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "because",
+          "so"
+        ],
+        "answerIndex": 2,
+        "explanation": "The store is busiest at weekends, which is the reason weekend work is required."
+      },
+      {
+        "blank": 4,
         "category": "grammar",
         "choices": [
+          "Candidacy",
+          "Candid",
+          "Candidate",
+          "Candidates"
+        ],
+        "answerIndex": 3,
+        "explanation": "A plural noun is needed to agree with 'who wish to apply'."
+      }
+    ]
+  },
+  {
+    "id": "p6-240",
+    "documentType": "web_page",
+    "text": "TrailNorth Outdoor Gear – Returns and Exchanges\n\nWe want you to be completely satisfied with your purchase. If an item does not meet your expectations, you may return it within sixty days of delivery for a full refund. [1] To qualify, products must be unworn, unwashed, and accompanied by the original receipt. [2] Items that have been personalized, such as embroidered jackets, cannot be returned unless they are faulty. To start a return, log in to your account and select the order concerned. You will receive a prepaid label by e-mail, and your refund will be issued [3] the parcel has been inspected at our warehouse, a process that normally takes three to five days. If the product is defective, we will [4] the cost of postage in addition to the refund.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our policy applies to all items purchased directly from our website, but not to those bought from external retailers.",
+          "TrailNorth has opened three new stores in the last year and plans to open several more in the spring.",
+          "Customers frequently ask about the best way to wash waterproof clothing without damaging the protective coating.",
+          "The sixty-day period is longer than the thirty days commonly offered by other companies in the industry."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentences refer to 'products' meeting conditions, tied to the policy scope in the correct choice."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Therefore",
+          "However",
+          "Similarly",
+          "Besides"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence introduces an exception to the general rule that products can be returned."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "once",
+          "whereas"
+        ],
+        "answerIndex": 2,
+        "explanation": "The refund is issued after the parcel has been inspected: 'once'."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "reinforce",
+          "reinvest",
+          "remind",
+          "reimburse"
+        ],
+        "answerIndex": 3,
+        "explanation": "The company will 'reimburse' (repay) the cost of postage."
+      }
+    ]
+  },
+  {
+    "id": "p6-241",
+    "documentType": "memo",
+    "text": "To: Sales Team\nFrom: Gregory Lang, Regional Director\nSubject: Quarterly targets\n\nThanks to your efforts, the region exceeded its sales target by 8 percent last quarter. [1] The strongest results came from the northern territory, where new accounts rose by almost a third. Even so, the picture is not uniformly positive. [2] Sales in the coastal territory fell short of expectations, [3] two of our largest customers there reduced their orders. We will be reviewing the situation at next week's meeting, and I would like each account manager to bring a short [4] describing the opportunities and challenges in their area. Please send me your outlines by Monday.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "I want to recognize that this achievement was reached in a period of unusually intense competition.",
+          "The quarterly review meeting will be held in the main conference room on the second floor of the building.",
+          "Last year's targets were met only by the western territory, which has the largest number of customers.",
+          "The new compensation plan will take effect at the start of the next fiscal year, following board approval."
+        ],
+        "answerIndex": 0,
+        "explanation": "The following sentence says 'The strongest results', so the preceding one frames the achievement."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Likewise",
+          "In particular",
+          "Thus",
+          "Otherwise"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence gives a specific example of the 'not uniformly positive' picture."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as long as",
+          "even if",
+          "mainly because",
+          "so that"
+        ],
+        "answerIndex": 2,
+        "explanation": "The clause gives the main cause of the shortfall: two big customers reduced orders."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "suggestion",
+          "supply",
+          "surface",
+          "summary"
+        ],
+        "answerIndex": 3,
+        "explanation": "Account managers bring a short 'summary' of opportunities and challenges."
+      }
+    ]
+  },
+  {
+    "id": "p6-242",
+    "documentType": "text_message",
+    "text": "Hello Mr. Kowalski, this is Hannah from Vista Properties. I wanted to follow up on the apartment you viewed on Saturday. The landlord has [1] two other applications since then, so I would advise you to make a decision soon. [2] You would need to submit proof of income and two references, which I can help you gather. The monthly rent is $1,450, [3] utilities are not included. If you would like to proceed, the application fee is $45, payable at our office or online. Please let me know by Thursday [4] you are still interested, and I will hold the unit until Friday morning. Thank you for your time.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "received",
+          "retrieved",
+          "resolved",
+          "recycled"
+        ],
+        "answerIndex": 0,
+        "explanation": "The landlord 'has received' applications."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The building has an elevator, a laundry room, and a small garden at the back that residents may use.",
+          "The landlord will make a final choice based on the completeness of each application rather than the order received.",
+          "Your current lease ends at the end of the month, which leaves little time to arrange the move.",
+          "The apartment is within walking distance of the subway and several grocery stores along the main avenue."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence lists what he needs to submit, so the preceding one explains how the choice will be made."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "because",
+          "so",
+          "although",
+          "unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "The rent is stated and the exception, utilities, is added with 'although'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
           "which",
           "what",
-          "who",
-          "whose"
+          "whether"
         ],
-        "answerIndex": 0,
-        "explanation": "'Which' refers back to the whole preceding clause."
-      },
-      {
-        "blank": 3,
-        "category": "sentence_insertion",
-        "choices": [
-          "I returned it to the store the next day.",
-          "It is also lighter than my previous model.",
-          "The store was closed when I arrived.",
-          "I have not had time to open the box."
-        ],
-        "answerIndex": 1,
-        "explanation": "The review is positive; the sentence adds another advantage, like the one that follows."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "drawback",
-          "drawing",
-          "draw",
-          "drawer"
-        ],
-        "answerIndex": 0,
-        "explanation": "A 'drawback' is a disadvantage, which fits the weak speakers."
+        "answerIndex": 3,
+        "explanation": "'whether' introduces the indirect question about her interest."
       }
     ]
   },
   {
-    "id": "p6-038",
-    "documentType": "notice",
-    "text": "PARKING NOTICE\n\nEffective Monday, June 2, the Central Plaza parking garage will [1] a new payment system. Drivers will no longer be able to pay by cash. [2] Instead, payment will be accepted by card or through the Parkly mobile app. Monthly pass holders should [3] their old passes at the management office before May 30 [4] a replacement.",
+    "id": "p6-243",
+    "documentType": "form",
+    "text": "Conference Registration – Terms and Conditions\n\nBy submitting this form, you agree to the following terms. Registration fees must be paid in full [1] the early-bird deadline of April 30 to qualify for the reduced rate. [2] Cancellations made before May 31 will be refunded in full, less an administrative charge of $25. After this date, no refund will be given, but you may send a colleague in your place [3] you notify us at least three days before the event. Presentation abstracts must not exceed 250 words and must be submitted [4] the online portal. The organizers reserve the right to modify the program if circumstances require it.",
     "questions": [
       {
         "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "implant",
-          "implement",
-          "imply",
-          "impress"
-        ],
-        "answerIndex": 1,
-        "explanation": "A system is 'implemented', meaning put into operation."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Ticket machines will be removed from all exits.",
-          "Visitors may park free for the first thirty minutes.",
-          "The garage is closed on public holidays.",
-          "Parking fines will be reviewed next year."
-        ],
-        "answerIndex": 0,
-        "explanation": "The next sentence begins with 'Instead', so the previous one must describe the removal of the old way of paying."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "exchange",
-          "expect",
-          "expire",
-          "explore"
-        ],
-        "answerIndex": 0,
-        "explanation": "Pass holders 'exchange' an old pass for a new one."
-      },
-      {
-        "blank": 4,
         "category": "grammar",
         "choices": [
-          "receiving",
-          "to receive",
-          "received",
-          "receives"
-        ],
-        "answerIndex": 1,
-        "explanation": "An infinitive of purpose is needed: 'to receive a replacement'."
-      }
-    ]
-  },
-  {
-    "id": "p6-039",
-    "documentType": "email",
-    "text": "Dear Members,\n\nYou are cordially invited to the Chamber of Commerce Annual Gala, which will take place on Saturday, November 15, at the Grand Plaza Hotel. [1] The evening will begin with a reception at 6 p.m., [2] by dinner and an awards ceremony. Business attire is [3]. To reserve your table, please reply [4] November 1.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "The hotel's parking garage is closed for repairs.",
-          "Membership fees are due at the end of the year.",
-          "Our office will move to a new address next month.",
-          "This year's event will honor local entrepreneurs who have created new jobs."
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence tells what the gala is about, before the program is given."
-      },
-      {
-        "blank": 2,
-        "category": "grammar",
-        "choices": [
-          "following",
-          "follows",
-          "followed",
-          "follow"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Followed by' describes the order of events."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "requesting",
-          "request",
-          "requests",
-          "requested"
-        ],
-        "answerIndex": 3,
-        "explanation": "The passive adjective 'requested' fits the dress code."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "since",
-          "among",
           "by",
-          "beneath"
-        ],
-        "answerIndex": 2,
-        "explanation": "'By' introduces the deadline for replying."
-      }
-    ]
-  },
-  {
-    "id": "p6-040",
-    "documentType": "memo",
-    "text": "MEMO\nTo: Sales team\nFrom: Regional Director\nSubject: Third-quarter results\n\nI am delighted to report that our region exceeded its sales target by 12 percent in the third quarter. [1] This result was [2] largely to the new customer loyalty program. Each of you contributed to this success. To [3] our momentum, we will hold a training session on October 8 [4] the new products.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "Revenue from online orders more than doubled compared with last year.",
-          "Please return your company laptops by Friday.",
-          "The cafeteria will serve breakfast starting Monday.",
-          "The office will be painted this weekend."
+          "until",
+          "at",
+          "on"
         ],
         "answerIndex": 0,
-        "explanation": "The sentence gives a detail about the good result, which 'This result' then refers to."
+        "explanation": "A payment deadline is expressed with 'by'."
       },
       {
         "blank": 2,
-        "category": "grammar",
+        "category": "sentence_insertion",
         "choices": [
-          "due",
-          "duly",
-          "dued",
-          "duty"
+          "The conference will take place over three days and include more than forty sessions on topics from marketing to ethics.",
+          "The reduced rate cannot be combined with any other discount, including those for students and members of partner associations.",
+          "Delegates are advised to book accommodation early, since hotels in the area fill quickly during the spring.",
+          "The venue is accessible to people with disabilities and has an induction loop in the main auditorium."
         ],
-        "answerIndex": 0,
-        "explanation": "'Due to' means 'caused by'; 'was due largely to' is correct."
+        "answerIndex": 1,
+        "explanation": "Next sentence on cancellations; the first option completes the discussion of fees and rates."
       },
       {
         "blank": 3,
-        "category": "vocabulary",
+        "category": "connector",
         "choices": [
-          "contain",
-          "entertain",
-          "maintain",
-          "pertain"
+          "as soon as",
+          "even though",
+          "provided that",
+          "whereas"
         ],
         "answerIndex": 2,
-        "explanation": "One 'maintains' momentum, meaning keeps it going."
+        "explanation": "The substitution is allowed only on condition that notice is given."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "covered",
-          "covers",
-          "cover",
-          "covering"
+          "across",
+          "among",
+          "beyond",
+          "through"
         ],
         "answerIndex": 3,
-        "explanation": "A present participle introduces the content of the session."
+        "explanation": "Abstracts are submitted 'through' (using) the online portal."
+      }
+    ]
+  },
+  {
+    "id": "p6-244",
+    "documentType": "review",
+    "text": "Review: Trattoria Bellavista – Worth the Wait\n\nLocated on a quiet side street, Trattoria Bellavista is easy to miss, [1] it deserves to be better known. I visited with three colleagues last Thursday, and we were seated immediately despite not having a reservation. [2] The menu is short, focusing on regional dishes prepared with seasonal ingredients. My risotto was creamy and perfectly seasoned, [3] my colleague's grilled fish was slightly overcooked. Service was attentive without being intrusive. Prices are reasonable for the quality, with main courses ranging from $14 to $26. [4] the restaurant has only twenty tables, I would advise booking at least two days ahead on weekends. Overall, it is an excellent choice for a business lunch.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "but",
+          "so",
+          "because",
+          "or"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence contrasts being easy to miss with deserving to be known."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The owner has run restaurants in the region for more than twenty years and trained in northern Italy.",
+          "The interior is simple but warm, with wooden tables and a small open kitchen visible from the dining area.",
+          "Several local newspapers have praised the chef's approach to using ingredients grown on nearby farms.",
+          "The wine list includes both Italian and local bottles at prices that start well below those of competitors."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says 'The menu is short', so the preceding sentence continues the description of the premises."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "while",
+          "so that"
+        ],
+        "answerIndex": 2,
+        "explanation": "'while' contrasts the risotto with the fish."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Although",
+          "Whereas",
+          "Since"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Since' gives the reason for advising early booking: only twenty tables."
+      }
+    ]
+  },
+  {
+    "id": "p6-245",
+    "documentType": "schedule",
+    "text": "Pinecrest Library – Summer Reading Program\n\nThe summer reading program runs from June 16 to August 22 and is open to children aged six to twelve. [1] Participants receive a reading log and earn a sticker for each book completed, with prizes awarded at 5, 10, and 20 books. [2] Story sessions take place every Tuesday and Thursday at 10:30 a.m., and craft workshops are held on the first Saturday of each month. Parents are asked to register their children at the front desk, [3] places in the workshops are limited. Children under eight must be [4] by an adult at all times while in the library. The program concludes with a celebration on August 23, to which all families are invited.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Enrollment is free, and children may join at any time during the summer, even if they have missed the opening week.",
+          "The library has expanded its collection of children's books by nearly a thousand titles since the previous summer.",
+          "Volunteers from the local high school will help to organize the activities and supervise the story sessions.",
+          "Last summer's program attracted more than two hundred children, a record for the Pinecrest branch."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says what participants receive, so the previous one describes the enrollment conditions."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Therefore",
+          "In addition",
+          "Otherwise",
+          "Instead"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence adds further program details."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "because",
+          "until"
+        ],
+        "answerIndex": 2,
+        "explanation": "Registration is requested because places are limited."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "accompanying",
+          "accompany",
+          "accompanies",
+          "accompanied"
+        ],
+        "answerIndex": 3,
+        "explanation": "The passive 'must be accompanied by' requires the past participle."
       }
     ]
   }

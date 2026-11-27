@@ -1,441 +1,551 @@
 [
   {
-    "id": "p6-041",
+    "id": "p6-246",
     "documentType": "email",
-    "text": "Dear Ms. Grant,\n\nThank you for choosing Bella Catering for your company's anniversary dinner. We have prepared the menu you [1] last week, and the final quote is attached. [2] A deposit of 30 percent is required to confirm the booking. The remaining balance is due [3] the day of the event. Please do not hesitate to call me [4] you wish to change any of the dishes.\n\nWarm regards,\nMarco Bellini",
+    "text": "To: Facilities Staff\nFrom: Oliver Brandt, Head of Operations\nSubject: Energy-saving measures\n\nOur electricity bill rose by 18 percent last year, and the finance department has asked us to find ways of [1] consumption without affecting working conditions. After a survey of all three buildings, the energy consultant recommended several inexpensive steps. [2] Lighting in corridors and storage rooms will be fitted with motion sensors, which should cut usage in those areas by about half. The consultant also suggested lowering the heating by one degree in the winter months, [3] this change will be introduced only after consulting staff representatives. A progress report will be circulated every quarter so that everyone can [4] the savings achieved. I would like to thank you in advance for your cooperation and for any further ideas you may have.",
     "questions": [
       {
         "blank": 1,
         "category": "grammar",
         "choices": [
-          "requested",
-          "request",
-          "requesting",
-          "requests"
+          "reducing",
+          "reduced",
+          "reduce",
+          "reduction"
         ],
         "answerIndex": 0,
-        "explanation": "A past form is needed in a reduced relative clause: 'the menu you requested last week'."
+        "explanation": "After the preposition 'of', a gerund is required."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Our restaurant is closed on Mondays.",
-          "The quote includes service, tableware, and setup.",
-          "Parking is available behind the theater.",
-          "Our chef will teach a cooking class in June."
+          "The consultant has previously worked with several hospitals and universities that wished to lower their running costs.",
+          "Most of these measures can be put into practice within a month and require no major investment from the company.",
+          "The company's energy provider has announced that prices will be reviewed twice a year from the beginning of next spring.",
+          "Employees working late in the evening have complained that the corridors are often too dark for them to see clearly."
         ],
         "answerIndex": 1,
-        "explanation": "The sentence explains the quote, which precedes the information about payment."
+        "explanation": "The following sentence gives a concrete measure, so the preceding sentence summarizes the nature of the proposals."
       },
       {
         "blank": 3,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "at",
-          "in",
-          "on",
-          "within"
+          "so",
+          "for",
+          "but",
+          "or"
         ],
         "answerIndex": 2,
-        "explanation": "'On the day of' is the standard expression."
+        "explanation": "The recommendation is made, but its introduction is conditional on consultation."
       },
       {
         "blank": 4,
-        "category": "connector",
+        "category": "vocabulary",
         "choices": [
-          "unless",
-          "because",
-          "until",
-          "if"
+          "trace",
+          "treat",
+          "trail",
+          "track"
         ],
         "answerIndex": 3,
-        "explanation": "The call is requested on condition that the customer wants a change."
+        "explanation": "Staff can 'track' (follow) the savings achieved."
       }
     ]
   },
   {
-    "id": "p6-042",
-    "documentType": "notice",
-    "text": "The 12th Annual Logistics Summit will take place at the Metro Convention Center from May 6 to May 8. Registration is [1] through April 15. [2] Participants who register early will receive a discount of 15 percent. Sessions will cover topics such as supply chain automation, sustainable packaging, and international [3]. Hotel rooms are available at a special rate for attendees who [4] the conference code when booking.",
+    "id": "p6-247",
+    "documentType": "article",
+    "text": "New Rules for Remote Work Announced\n\nThe government has published guidelines requiring employers to provide written agreements for staff who work from home more than two days a week. [1] The agreements must specify who pays for equipment, how working hours are recorded, and what support is available for employees who feel isolated. Business groups have welcomed the clarity, [2] some have warned that the paperwork may burden small firms. Labor unions, on the other hand, argue that the guidelines do not go far enough, because they leave the question of home-office expenses [3] to individual negotiation. Employment lawyer Tamsin Greer says the real test will come when disputes arise. [4] companies adapt quickly, she predicts, there could be a wave of claims in the first year.",
     "questions": [
       {
         "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The measure follows a survey showing that nearly half of office workers now spend part of their week at home.",
+          "Surveys suggest that employees who work remotely are generally more satisfied than those who attend an office daily.",
+          "Several large banks have already asked their staff to return to the office for at least three days each week.",
+          "The guidelines were drafted by a committee that included academics, employers, and representatives of workers."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins with 'The agreements', which must refer back to the guidelines' requirement."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "because",
+          "although",
+          "unless",
+          "since"
+        ],
+        "answerIndex": 1,
+        "explanation": "'although' links approval with a warning about paperwork."
+      },
+      {
+        "blank": 3,
         "category": "grammar",
         "choices": [
           "opened",
           "opening",
           "open",
-          "opens"
+          "openly"
         ],
         "answerIndex": 2,
-        "explanation": "'Be open' is the adjective meaning that registration is possible."
+        "explanation": "'leave the question open to negotiation' requires an adjective."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Whereas",
+          "Although",
+          "Unless"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Unless companies adapt quickly' sets the condition for the predicted wave of claims."
+      }
+    ]
+  },
+  {
+    "id": "p6-248",
+    "documentType": "letter",
+    "text": "Dear Parents and Guardians,\n\nThe annual school trip to the National Science Museum will take place on Friday, October 3. Students in grades eight and nine will leave by coach at 8 a.m. and return at approximately 4 p.m. [1] Each student should bring a packed lunch, a water bottle, and a notebook for the activities planned by the museum's education team. The cost of the trip, $18 per student, [2] the entrance fee and transport. Payment should be made by Friday, September 19, using the school's online system. [3] you do not wish your child to participate, please inform the school office in writing, and an alternative program will be arranged. Students are expected to behave [4] and to follow the instructions of the accompanying teachers at all times.\n\nYours faithfully,\nMrs. Janet Okoro\nHead of Science",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Because the group is large, students will be divided into four smaller groups, each led by a teacher.",
+          "The museum has recently added a new gallery devoted to space exploration and renewable energy sources.",
+          "Last year's trip to the planetarium was enjoyed by nearly all of the students who took part in it.",
+          "The science department has purchased new equipment for the laboratories, including twenty microscopes."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence tells students what to bring, so the preceding sentence sets out the organization of the day."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
+        "category": "vocabulary",
         "choices": [
-          "Space is limited to 500 attendees.",
-          "The company will relocate next year.",
-          "Employees should wear identification badges.",
-          "The new highway will open in June."
+          "recovers",
+          "covers",
+          "discovers",
+          "uncovers"
         ],
-        "answerIndex": 0,
-        "explanation": "The sentence justifies registering early, as the next sentence encourages."
+        "answerIndex": 1,
+        "explanation": "The fee 'covers' (includes) the entrance fee and transport."
       },
       {
         "blank": 3,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "shipped",
-          "shipping",
-          "ships",
-          "ship"
+          "Unless",
+          "Whether",
+          "Should",
+          "Whereas"
         ],
-        "answerIndex": 1,
-        "explanation": "A noun is needed after 'international' in the list of topics."
+        "answerIndex": 2,
+        "explanation": "'Should you not wish' style inversion; here 'Should' means 'If', followed by the request to inform the office."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "mentions",
-          "mention",
-          "mentioning",
-          "mentioned"
+          "responsible",
+          "responsibility",
+          "more responsible",
+          "responsibly"
         ],
-        "answerIndex": 1,
-        "explanation": "After 'attendees who', the plural present verb is needed."
+        "answerIndex": 3,
+        "explanation": "An adverb is needed to modify the verb 'behave'."
       }
     ]
   },
   {
-    "id": "p6-043",
-    "documentType": "article",
-    "text": "City Council Approves New Bike Lanes\n\nThe Riverton City Council voted 7 to 2 on Tuesday to [1] a plan for 15 kilometers of protected bike lanes. [2] Construction is scheduled to begin in March and will cost an estimated $4 million. Supporters argue that the lanes will reduce traffic and improve air quality, [3] opponents are concerned about the loss of parking spaces. Mayor Elena Ruiz said the city will hold public meetings [4] residents can share their opinions.",
+    "id": "p6-249",
+    "documentType": "notice",
+    "text": "SERVICE ANNOUNCEMENT – METRO LINE 4\n\nBecause of essential track repairs, trains on Line 4 will not stop at Harcourt, Linden Park, or Bayview stations from Saturday, March 8, until Monday, March 10. [1] Replacement buses will run between Central Station and Bayview every ten minutes, [2] the journey will take approximately fifteen minutes longer than usual. Passengers traveling to the airport are advised to transfer to Line 2 at Central Station, [3] there is no disruption. All tickets and passes will be valid on the replacement buses. [4] Elevators at the three affected stations will also be out of service, and disabled passengers can request assistance by calling the number below.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Normal service is expected to resume on the first train on Monday morning, subject to the completion of the work.",
+          "The line carries more than forty thousand passengers every weekday, making it the busiest in the network.",
+          "The repairs were scheduled for the weekend because ridership is lowest between Saturday night and Monday.",
+          "The transit authority has announced that fares will rise by two percent starting from the beginning of April."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence gives the outlook for the closure and precedes the information on replacement services."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "because",
+          "though",
+          "unless",
+          "so that"
+        ],
+        "answerIndex": 1,
+        "explanation": "'though' contrasts frequent buses with a longer journey time."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "which",
+          "whom",
+          "where",
+          "when"
+        ],
+        "answerIndex": 2,
+        "explanation": "'where' refers to Line 2 at Central Station, a place with no disruption."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Therefore",
+          "Otherwise",
+          "Instead",
+          "In addition"
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence adds a further piece of information about disrupted services."
+      }
+    ]
+  },
+  {
+    "id": "p6-250",
+    "documentType": "advertisement",
+    "text": "Join Fitwell Gym – First Month Free!\n\nAt Fitwell, we believe that staying active should be [1] for everyone. Our new facility on Park Avenue offers more than one hundred machines, a heated pool, and over fifty group classes every week. [2] Members can also book sessions with certified trainers, who will design a program that suits your goals and abilities. Unlike other gyms, we [3] no joining fee, and you can cancel at any time with thirty days' notice. Sign up before November 30 and enjoy your first month at no cost. [4] you bring a friend, both of you will receive a free fitness assessment worth $60. Visit fitwell.example or drop by our reception desk any day between 6 a.m. and 10 p.m.",
     "questions": [
       {
         "blank": 1,
         "category": "grammar",
         "choices": [
-          "approval",
-          "approved",
-          "approving",
-          "approve"
+          "accessible",
+          "accessed",
+          "access",
+          "accessibly"
         ],
-        "answerIndex": 3,
-        "explanation": "After 'to', the base form is used."
+        "answerIndex": 0,
+        "explanation": "An adjective is needed after 'should be'."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The city's annual marathon takes place in May.",
-          "The lanes will connect the university district to the city center.",
-          "The council has hired a new legal adviser.",
-          "Tourism has increased by ten percent this year."
+          "Our pool is maintained at a comfortable temperature and cleaned several times a day by our trained staff.",
+          "Classes range from beginner yoga to high-intensity cycling and are held throughout the day, including early morning and late evening.",
+          "Park Avenue is served by three bus lines and has a large parking garage located beside the entrance.",
+          "Fitwell was founded by two former athletes who wanted to make professional coaching available to ordinary people."
         ],
         "answerIndex": 1,
-        "explanation": "The sentence describes the plan before the construction details."
+        "explanation": "The next sentence says 'Members can also book', so the preceding sentence lists what members already have: classes."
       },
       {
         "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "charter",
+          "change",
+          "charge",
+          "cherish"
+        ],
+        "answerIndex": 2,
+        "explanation": "The gym will not 'charge' a joining fee."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Because",
+          "Although",
+          "If"
+        ],
+        "answerIndex": 3,
+        "explanation": "'If you bring a friend' sets the condition for the offer."
+      }
+    ]
+  },
+  {
+    "id": "p6-251",
+    "documentType": "job_ad",
+    "text": "Accounts Payable Clerk – Whitmore Industries\n\nWhitmore Industries is seeking an Accounts Payable Clerk to join the finance department at our Denver headquarters. [1] The clerk will process supplier invoices, reconcile statements, and prepare payments, working under the supervision of the senior accountant. Applicants should have an associate degree in accounting or equivalent experience and a [2] knowledge of spreadsheet software. Attention to detail is essential, [3] errors in this role can lead to late payments and damaged supplier relations. We offer a stable working environment, regular hours, and a comprehensive benefits package. [4] candidates will be contacted within two weeks of the closing date, and only those selected for interview will be notified. To apply, visit whitmore.example/careers and quote reference AP-27.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "This is a full-time position suited to someone who enjoys accuracy, routine, and working as part of a small team.",
+          "Whitmore Industries has operated in Colorado for over fifty years and employs more than eight hundred people.",
+          "The finance department recently adopted new software that automates much of the work done in the past.",
+          "Applicants are asked to submit samples of previous reports they have prepared for former employers."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence describes duties, so the preceding sentence introduces the nature of the position."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "worked",
+          "working",
+          "works",
+          "workable"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adjective is needed before 'knowledge'; 'working knowledge' is a fixed phrase."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "because",
+          "until"
+        ],
+        "answerIndex": 2,
+        "explanation": "Errors matter, which is the reason attention to detail is essential."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "Shortlisting",
+          "Shortlist",
+          "Shortlists",
+          "Shortlisted"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Shortlisted candidates' needs a past participle used as an adjective."
+      }
+    ]
+  },
+  {
+    "id": "p6-252",
+    "documentType": "web_page",
+    "text": "Aldersgate Software – Release Notes, Version 5.2\n\nVersion 5.2 introduces several improvements designed to make everyday tasks faster and more reliable. The most significant change is a redesigned dashboard, which allows users to [1] widgets in whichever order they prefer. [2] Previous versions required users to refresh the page manually to see updated figures; this is no longer necessary. We have also fixed a bug that caused reports to [3] incorrect totals when filters were applied. Users of older versions should note that support for Version 3 will end on June 30. [4] you are still using it, we recommend upgrading as soon as possible. A full list of changes is available in the documentation section of our website.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "arrange",
+          "arrest",
+          "arrive",
+          "arouse"
+        ],
+        "answerIndex": 0,
+        "explanation": "Users can 'arrange' widgets in any order."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The dashboard was the feature most frequently mentioned in the feedback we received from users last year.",
+          "Data on the dashboard now refreshes automatically every thirty seconds, so the figures always reflect current activity.",
+          "Users may customize the colors and fonts of the dashboard through the settings menu in the upper corner.",
+          "The widgets can be shared with colleagues by sending a link, although they cannot be edited by other users."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence refers to previous versions that required manual refreshing, which contrasts with automatic refreshing."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "displace",
+          "dispose",
+          "display",
+          "dismiss"
+        ],
+        "answerIndex": 2,
+        "explanation": "Reports 'display' totals on the screen."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Whereas",
+          "Although",
+          "If"
+        ],
+        "answerIndex": 3,
+        "explanation": "'If you are still using it' states the condition for the recommendation."
+      }
+    ]
+  },
+  {
+    "id": "p6-253",
+    "documentType": "memo",
+    "text": "To: All Managers\nFrom: Ines Moreau, Human Resources\nSubject: Performance review timetable\n\nThis year's performance reviews will begin on November 3 and must be completed by December 12. [1] Managers should hold a private meeting with each member of their team and record the discussion in the online system. [2] The form has been simplified: it now contains only five sections, and the rating scale has been reduced from ten points to four. HR has also prepared a guide on giving constructive feedback, [3] can be downloaded from the intranet. Please remember that reviews are confidential, and any [4] about an employee's performance should be shared only with the people directly involved. Managers who need assistance may book a consultation with a member of the HR team.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The process is designed to help employees understand their strengths and agree on objectives for the coming year.",
+          "Last year, nearly ten percent of reviews were submitted after the deadline, causing delays in the pay process.",
+          "Salary increases will be announced in January and will depend on the results of both the company and the employee.",
+          "The HR team will be closed on December 24 and 25 and will reopen on the second working day of January."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence tells managers what to do, so the preceding sentence gives the purpose of the process."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The online system will be unavailable between midnight and six in the morning on the evenings of November 7 and 8.",
+          "Several managers told us that the previous form took too long to complete and was difficult to interpret.",
+          "Employees who do not receive a review by the end of the year should contact their supervisor to request one.",
+          "The company has decided to postpone the introduction of its new bonus scheme until the following financial year."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says the form has been simplified; the correct choice states the reason."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "which",
+          "where"
+        ],
+        "answerIndex": 2,
+        "explanation": "The relative pronoun 'which' refers to the guide."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "comedies",
+          "commands",
+          "commitments",
+          "comments"
+        ],
+        "answerIndex": 3,
+        "explanation": "'comments about an employee's performance' is the natural collocation."
+      }
+    ]
+  },
+  {
+    "id": "p6-254",
+    "documentType": "text_message",
+    "text": "Hi Ms. Ellis, it's Kenji at Rowan Catering. I'm writing to confirm the details for your company's reception on the 14th. We will arrive at 3 p.m. to set up, [1] guests are expected from 5:30. The menu you selected includes a vegetarian main course, [2] I have noted that two of your guests have nut allergies. [3] Our chef will prepare their meals separately to avoid any risk. Could you please send me the final guest count by Monday? We [4] charge for the number of people confirmed, even if fewer attend, so an accurate figure is important. Thank you very much, and please call me if anything changes.",
+    "questions": [
+      {
+        "blank": 1,
         "category": "connector",
         "choices": [
           "while",
+          "since",
           "because",
-          "unless",
-          "so"
+          "unless"
         ],
         "answerIndex": 0,
-        "explanation": "The two groups hold opposite views, so a contrast connector is needed."
+        "explanation": "'while' links two simultaneous facts: arrival for set-up and guests arriving later."
       },
       {
-        "blank": 4,
+        "blank": 2,
         "category": "connector",
         "choices": [
-          "as if",
-          "even if",
-          "so that",
-          "no matter"
-        ],
-        "answerIndex": 2,
-        "explanation": "'So that' introduces the purpose of the meetings."
-      }
-    ]
-  },
-  {
-    "id": "p6-044",
-    "documentType": "web_page",
-    "text": "Version 4.2 Release Notes\n\nWe are pleased to announce the release of PhotoPro 4.2. This update [1] several features requested by our users. [2] Photos now load twice as fast, even on older computers. The new batch editing tool allows you to apply changes to hundreds of images [3] once. We have also fixed a bug that [4] the program to close unexpectedly. To update, open the app and select 'Check for updates.'",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "include",
-          "includes",
-          "including",
-          "included"
+          "but",
+          "and",
+          "yet",
+          "or"
         ],
         "answerIndex": 1,
-        "explanation": "A third-person singular present verb follows 'This update'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Performance has been greatly improved.",
-          "Our customer service line is closed on weekends.",
-          "The company was founded in Toronto.",
-          "The software is not available in stores."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence introduces improvements, followed by an example of speed gain."
+        "explanation": "The sentence adds a further piece of information with 'and'."
       },
       {
         "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "at",
-          "in",
-          "on",
-          "by"
-        ],
-        "answerIndex": 0,
-        "explanation": "'At once' means 'at the same time'."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "caused",
-          "caught",
-          "carried",
-          "cared"
-        ],
-        "answerIndex": 0,
-        "explanation": "A bug 'caused' the program to close, meaning it made it close."
-      }
-    ]
-  },
-  {
-    "id": "p6-045",
-    "documentType": "memo",
-    "text": "MEMO\nTo: All staff\nFrom: Finance Department\nSubject: Travel expense reports\n\nEffective immediately, all expense reports for business travel must be submitted [1] ten days of the end of the trip. [2] Receipts are required for every expense over $25. Reports that are incomplete will be returned to the employee [3] correction. Reimbursements will be [4] directly into employees' bank accounts after approval.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "until",
-          "since",
-          "among",
-          "within"
-        ],
-        "answerIndex": 3,
-        "explanation": "'Within ten days' sets a time limit."
-      },
-      {
-        "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The cafeteria will close early on Friday.",
-          "Late submissions may delay your reimbursement.",
-          "A new printer has been installed on the second floor.",
-          "The annual picnic has been postponed."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence gives the consequence of the deadline before the receipts rule."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "at",
-          "of",
-          "for",
-          "on"
+          "The reception hall will be decorated with flowers supplied by a florist who works regularly with our company.",
+          "Our usual practice is to serve drinks in the entrance area while guests are arriving and registering.",
+          "Those meals will be clearly labeled with the guests' names, and the servers will be informed before service begins.",
+          "The dessert you chose is among our most popular and is prepared on the premises on the morning of the event."
         ],
         "answerIndex": 2,
-        "explanation": "'Returned for correction' means returned so that it can be corrected."
+        "explanation": "The sentence follows the mention of allergies and the next sentence 'Our chef will prepare their meals separately' elaborates."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "deposit",
-          "depositing",
-          "depositor",
-          "deposited"
+          "would",
+          "did",
+          "are",
+          "will"
         ],
         "answerIndex": 3,
-        "explanation": "The passive 'will be deposited' is needed."
+        "explanation": "A future charge policy is stated with 'will'."
       }
     ]
   },
   {
-    "id": "p6-046",
-    "documentType": "online_chat",
-    "text": "Customer (4:41 p.m.): Hi, I ordered a coffee machine last week, but the box [1] the two cups that were advertised.\nAgent (4:42 p.m.): I apologize for that. [2] Could you send me a photo of the box?\nCustomer (4:44 p.m.): Sure, just a moment. Here it is.\nAgent (4:46 p.m.): Thank you. I will [3] the missing items today. You should receive them [4] three to five days.",
+    "id": "p6-255",
+    "documentType": "form",
+    "text": "Vehicle Damage Report – Easton Car Rentals\n\nPlease complete this form if the vehicle you rented was damaged during your rental period. Describe the incident [1] as possible, including the date, time, and exact location. [2] If another vehicle was involved, provide the license plate number and the name of the other driver, together with their insurance details. Photographs of the damage are strongly recommended and may be attached to this form. You must report any accident to the police [3] it involved injuries or damage to third-party property. Failure to do so may invalidate your insurance cover. Our claims team will review your report and contact you [4] five working days to explain the next steps.",
     "questions": [
       {
         "blank": 1,
         "category": "grammar",
         "choices": [
-          "did not include",
-          "not include",
-          "did not included",
-          "is not include"
+          "as precisely as",
+          "as precision as",
+          "precisely as",
+          "as precise as"
         ],
         "answerIndex": 0,
-        "explanation": "'Did' is followed by 'not' and the base form of the verb."
+        "explanation": "'as precisely as possible' is the fixed comparative structure with an adverb."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Our store closes at nine on Sundays.",
-          "I will look into this right away.",
-          "Thank you for subscribing to our newsletter.",
-          "The coffee machine comes in four colors."
+          "Our fleet is serviced every three months and cleaned thoroughly between each rental to maintain high standards.",
+          "Please note that incomplete reports may delay the assessment of your claim and any refund of your deposit.",
+          "Customers who rent for more than a week receive a discount on the daily rate and a free additional driver.",
+          "Vehicles must be returned with a full tank of fuel to avoid a refueling charge on top of the rental price."
         ],
         "answerIndex": 1,
-        "explanation": "The agent reacts to the problem, then asks for a photo."
+        "explanation": "The sentence stresses the importance of completeness, preceding the request for details about other vehicles."
       },
       {
         "blank": 3,
-        "category": "vocabulary",
+        "category": "connector",
         "choices": [
-          "shape",
-          "ship",
-          "shop",
-          "shelf"
+          "unless",
+          "although",
+          "if",
+          "whereas"
         ],
-        "answerIndex": 1,
-        "explanation": "The missing items will be 'shipped' to the customer."
+        "answerIndex": 2,
+        "explanation": "The police must be informed if there were injuries or third-party damage."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
           "during",
-          "within",
-          "since",
-          "between"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Within' gives the maximum delay for delivery."
-      }
-    ]
-  },
-  {
-    "id": "p6-047",
-    "documentType": "advertisement",
-    "text": "Discover the Art of the Renaissance at the Whitmore Museum! Our new exhibition features over 120 paintings and sculptures [1] from museums across Europe. [2] Guided tours are offered every day at 11 a.m. and 3 p.m. Admission is free for children under 12, and students [3] a valid ID receive a 50 percent discount. The exhibition will run [4] September 5 and December 14.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "borrowed",
-          "borrowing",
-          "borrows",
-          "borrow"
-        ],
-        "answerIndex": 0,
-        "explanation": "A past participle is needed: works 'borrowed from museums'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Some of the works are on display in the country for the first time.",
-          "The city will repair the main road next week.",
-          "Our gift shop sells umbrellas and hats.",
-          "Bus number 12 stops near the airport."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence adds an attraction of the exhibition and precedes the tour information."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "with",
-          "from",
-          "for",
-          "in"
-        ],
-        "answerIndex": 0,
-        "explanation": "'With a valid ID' describes the students."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "from",
-          "since",
-          "between",
-          "during"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Between ... and' is used for a period with two dates."
-      }
-    ]
-  },
-  {
-    "id": "p6-048",
-    "documentType": "email",
-    "text": "Dear colleagues,\n\nPlease be informed that the company server will be [1] for maintenance this Saturday from 10 p.m. to 2 a.m. During this period, you will not be able to access your e-mail or shared files. [2] We recommend that you save your work and log out before 9:30 p.m. on Saturday. The system will be back online [3] Sunday morning. We apologize for any inconvenience and thank you for your [4].\n\nIT Support",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "down",
-          "low",
-          "under",
-          "beyond"
-        ],
-        "answerIndex": 0,
-        "explanation": "'Down for maintenance' means temporarily out of service."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "All open files will be closed automatically at 10 p.m.",
-          "The new software costs $200 per license.",
-          "Employees can borrow tablets from the help desk.",
-          "The conference will be held in Seattle."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence supports the advice to save work that follows."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "at",
-          "by",
           "until",
-          "since"
-        ],
-        "answerIndex": 1,
-        "explanation": "'By Sunday morning' means no later than that time."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "patient",
-          "patiently",
-          "patients",
-          "patience"
+          "since",
+          "within"
         ],
         "answerIndex": 3,
-        "explanation": "A noun is needed after 'your'."
+        "explanation": "'within five working days' gives a time limit."
       }
     ]
   }
