@@ -1,0 +1,607 @@
+[
+  {
+    "id": "p6-278",
+    "documentType": "email",
+    "text": "To: Regional Offices\nFrom: Naomi Fischer, Chief Information Officer\nSubject: Mandatory security update\n\nIn light of recent attempts to breach corporate networks in our industry, the IT department will roll out a mandatory security update on the weekend of June 21. [1] All laptops and mobile devices issued by the company must be connected to the network at some point between Friday evening and Sunday noon so that the software can be installed. [2] Employees who fail to comply will find their accounts locked on Monday morning, which could take several hours to resolve. The update also introduces a requirement for two-step verification, [3] means that you will need your phone when logging in. We recognize that the change may be inconvenient, [4] we are convinced that it will significantly reduce the risk of unauthorized access. A short guide is attached to this message.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The update cannot be postponed, as it addresses a vulnerability that has already been exploited elsewhere.",
+          "Several departments have asked for additional training on the use of the company's collaboration software.",
+          "The IT help desk will have extended hours during the first week of July to deal with questions.",
+          "Last year's update was completed in less than three hours and caused no disruption to the working week."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence explains what must be done, so the preceding one justifies urgency."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Remote workers may connect through the virtual private network, provided that they use the approved client.",
+          "Devices that remain disconnected for the entire period will not receive the update and may be isolated from the network.",
+          "The company is considering replacing its older laptops with lighter models over the course of the next year.",
+          "Software updates are normally installed automatically at night and require no action from the user."
+        ],
+        "answerIndex": 1,
+        "explanation": "'Employees who fail to comply' refers to failure to connect, so the preceding sentence refers to the consequence of not connecting."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "which",
+          "whose"
+        ],
+        "answerIndex": 2,
+        "explanation": "'which' refers to the whole requirement and starts a non-defining relative clause."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "so",
+          "for",
+          "or",
+          "but"
+        ],
+        "answerIndex": 3,
+        "explanation": "The writer concedes inconvenience, but is convinced of the benefit."
+      }
+    ]
+  },
+  {
+    "id": "p6-279",
+    "documentType": "article",
+    "text": "A Quiet Revolution in Warehouse Design\n\nThe modern warehouse bears little resemblance to the dusty storerooms of the past. At the new distribution center in Hartlepool, robots carry shelves to human pickers, [1] walking distances that once accounted for most of a worker's day. [2] Managers claim that productivity has risen by nearly 60 percent since the system was installed. Not everyone is convinced, [3]. Union representatives point out that the pace of work is now dictated by machines, and that injuries from repetitive movements have in fact increased. The company says it is [4] its procedures in response. Observers expect other firms to follow suit if the gains prove to be sustainable.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "thereby eliminating",
+          "therefore eliminate",
+          "whereas eliminating",
+          "so eliminated"
+        ],
+        "answerIndex": 0,
+        "explanation": "'thereby eliminating' is the participle phrase giving the result of the robots' work."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Robotic systems of this kind are produced by a small number of specialist firms based mainly in Europe and Asia.",
+          "The change has reduced the time needed to fill an order from several minutes to well under one minute.",
+          "The Hartlepool site opened last autumn and now employs about nine hundred people on three shifts.",
+          "Many online retailers have invested heavily in automation to meet customers' demand for next-day delivery."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence reports productivity, which follows a statement of faster order filling."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "moreover",
+          "however",
+          "likewise"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence introduces a contrast with the managers' claim; 'however' can sit at the end of the sentence."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "reviewed",
+          "review",
+          "reviews",
+          "reviewing"
+        ],
+        "answerIndex": 3,
+        "explanation": "The present continuous 'is reviewing' is needed after 'is'."
+      }
+    ]
+  },
+  {
+    "id": "p6-280",
+    "documentType": "letter",
+    "text": "Dear Mr. Fernandes,\n\nWe have received your application for the position of project engineer and were impressed by your experience in infrastructure design. [1] We would like to invite you to an interview on Thursday, November 6, at 10 a.m. at our Bristol office. The interview will [2] a presentation lasting about fifteen minutes, in which you will be asked to describe a project you have led. Please bring originals of your degree certificate and professional qualifications, [3] we are required to verify them before any offer can be made. If you are unable to attend, please let us know [4] soon as possible so that another candidate may be offered the time.\n\nYours sincerely,\nBeatrice Moore\nRecruitment Officer, Hallam Engineering",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your application stood out among more than ninety submissions, many of which came from highly qualified candidates.",
+          "Hallam Engineering has been involved in transport projects in the region since the late nineteen-eighties.",
+          "The role would involve some travel, and a driving license is considered an advantage for the position.",
+          "Your references have been contacted, and we have received favorable comments from both of your former managers."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence is an invitation, so the preceding sentence should explain why the candidate was selected."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "including",
+          "include",
+          "included",
+          "includes"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'will', the base form of the verb is required."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "since",
+          "whereas"
+        ],
+        "answerIndex": 2,
+        "explanation": "'since' gives the reason for the requirement."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "so",
+          "like",
+          "than",
+          "as"
+        ],
+        "answerIndex": 3,
+        "explanation": "'as soon as possible' is the fixed expression."
+      }
+    ]
+  },
+  {
+    "id": "p6-281",
+    "documentType": "notice",
+    "text": "FROM THE OFFICE OF THE REGISTRAR\n\nStudents who intend to graduate in the spring term must submit an application for graduation no later than February 14. [1] Applications received after this date cannot be processed in time for the ceremony, and the student will be considered for the following term. Before applying, students should check their records on the student portal to ensure that all required courses have been [2]. Those who discover a problem are advised to see their academic adviser [3] delay. [4] fees will be refunded in the event that a student decides not to graduate in the spring, a new application must be made for a later term. Questions may be directed to registrar@calwell.example.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The application can be completed online and takes only a few minutes provided that the necessary information is at hand.",
+          "The graduation ceremony will take place in the university stadium on the last Saturday of May.",
+          "Students who have outstanding library fines will not be allowed to receive their diplomas until they have paid.",
+          "The registrar's office has been relocated to the first floor of the administration building near the main entrance."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence explains consequences for late applications, so the preceding one presents the application process."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "complete",
+          "completed",
+          "completing",
+          "completion"
+        ],
+        "answerIndex": 1,
+        "explanation": "The passive 'have been completed' needs the past participle."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "within",
+          "before",
+          "without",
+          "after"
+        ],
+        "answerIndex": 2,
+        "explanation": "'without delay' means immediately."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Until",
+          "Although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Although' contrasts the refund of fees with the obligation to apply again; fees may be returned but a new application is needed."
+      }
+    ]
+  },
+  {
+    "id": "p6-282",
+    "documentType": "online_chat",
+    "text": "Elena [2:10 p.m.]: Have you finished the slides for the investor meeting?\nRavi [2:12 p.m.]: Nearly. [1] I'm still waiting for the final sales figures from the Asia team.\nElena [2:13 p.m.]: They promised to send them by 3, [2] I wouldn't count on it.\nRavi [2:15 p.m.]: Neither would I. Should I use last month's numbers [3] we receive the updated ones?\nElena [2:16 p.m.]: Yes, but mark them clearly as provisional. [4] The investors dislike surprises, and we can't be seen to hide anything.\nRavi [2:17 p.m.]: Understood. I'll add a note on slide 6.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The only section I haven't been able to complete is the one that compares regional revenue.",
+          "The meeting has been moved to a larger room because more people than expected have confirmed.",
+          "Mr. Okada will be arriving from Tokyo this evening and will join us for dinner after the presentation.",
+          "I have printed ten copies of the handout and left them on your desk beside the projector."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says 'I'm still waiting for the final sales figures', explaining which part is incomplete."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "so",
+          "but",
+          "because",
+          "for"
+        ],
+        "answerIndex": 1,
+        "explanation": "The speaker doubts the promise: a contrast."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "until",
+          "so that"
+        ],
+        "answerIndex": 2,
+        "explanation": "The provisional figures will be used until the updated ones arrive."
+      },
+      {
+        "blank": 4,
+        "category": "sentence_insertion",
+        "choices": [
+          "Please remember to bring the signed contracts to the meeting in case anyone requests to see them.",
+          "Our competitors are also expected to be presenting their results to the same group in the coming month.",
+          "The conference room has been reserved for the whole afternoon, so there will be time for questions.",
+          "It is better to be open about the limits of the data than to be corrected later by one of them."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence explains investors' dislike of surprises; the preceding one gives the principle."
+      }
+    ]
+  },
+  {
+    "id": "p6-283",
+    "documentType": "invoice",
+    "text": "Quotation No. 3306 – Halcyon Interiors\n\nPrepared for: Mr. and Mrs. Anders\nProject: Kitchen renovation\n\nThank you for inviting us to quote for the renovation of your kitchen. The price below covers the removal of existing cabinets, supply and installation of new units, and a granite worktop. [1] The quotation is valid for thirty days; after this period, prices may be [2] to changes in material costs. A deposit of 25 percent is required to confirm the order, and the balance will be due [3] completion of the work. Electrical and plumbing work will be carried out by qualified subcontractors, [4] fees are included in the total. If you have any questions, please do not hesitate to contact us.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Appliances are not included in the price, but we can supply and fit them at a discount if you wish.",
+          "Halcyon Interiors has completed more than four hundred kitchens in the county over the last fifteen years.",
+          "Work will begin on the first Monday after the deposit has been received and the materials delivered.",
+          "Our showroom is open daily, and you are welcome to look at samples of worktops and cabinet finishes."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence qualifies what the price covers, preceding the validity statement."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "subjected",
+          "subject",
+          "subjecting",
+          "subjective"
+        ],
+        "answerIndex": 1,
+        "explanation": "'may be subject to changes' is the fixed expression."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "while",
+          "upon",
+          "since"
+        ],
+        "answerIndex": 2,
+        "explanation": "'due upon completion' is the standard phrase."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "which",
+          "whom",
+          "who",
+          "whose"
+        ],
+        "answerIndex": 3,
+        "explanation": "'whose' shows possession: the subcontractors' fees."
+      }
+    ]
+  },
+  {
+    "id": "p6-284",
+    "documentType": "web_page",
+    "text": "BrightPath Mentoring – About Our Program\n\nBrightPath matches young professionals with experienced mentors who can guide them through the early stages of their careers. [1] Participants meet for one hour each month, either in person or by video, for a period of twelve months. Mentors are volunteers drawn from a wide range of industries, [2] many have previously managed teams of more than fifty people. [3] Mentees are asked to prepare an agenda before each session so that time is used productively. At the end of the year, participants complete an evaluation, [4] helps us to refine the program. Applications for the autumn cohort will open on August 1.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our approach is based on the belief that learning from the experience of others can shorten the path to confidence.",
+          "The program was founded in 2011 by a group of graduates who felt they had lacked guidance themselves.",
+          "Applicants are asked to submit a short statement describing their goals and the areas in which they seek support.",
+          "Last year, more than three hundred pairs completed the program and reported significantly higher job satisfaction."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence describes the structure, so the preceding sentence gives the program's philosophy."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "but",
+          "and",
+          "so",
+          "nor"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence adds a point about the mentors' background."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Otherwise",
+          "Therefore",
+          "In turn",
+          "Instead"
+        ],
+        "answerIndex": 2,
+        "explanation": "The mentees' obligation is a counterpart of what mentors offer."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "where",
+          "which"
+        ],
+        "answerIndex": 3,
+        "explanation": "'which' refers to the evaluation and is the subject of 'helps'."
+      }
+    ]
+  },
+  {
+    "id": "p6-285",
+    "documentType": "memo",
+    "text": "To: All Staff\nFrom: Lucia Bernardi, Office Manager\nSubject: Redesign of the third-floor kitchen\n\nThe third-floor kitchen will be closed for refurbishment from Monday, August 4, to Friday, August 22. [1] A temporary kitchen will be set up in Meeting Room 3, where a refrigerator, a microwave, and a coffee machine will be [2] for use. Because space is limited, we ask that you bring only the food you plan to eat that day. [3] the old equipment will be removed on the first day, anything left in the existing refrigerator after Friday, August 1, will be discarded. Once the work is complete, the new kitchen will feature a larger dishwasher and improved ventilation. [4] your patience during this period is greatly appreciated.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The work is expected to take three weeks, although unforeseen problems may extend the schedule slightly.",
+          "The kitchen has not been refurbished since the building was first occupied by the company in 2006.",
+          "Employees who wish to suggest additional appliances should send their ideas to the facilities committee.",
+          "The third floor houses the accounting and legal teams, who use the kitchen more than other departments."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence sets the duration, preceding information about the temporary arrangements."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "availed",
+          "available",
+          "availing",
+          "avail"
+        ],
+        "answerIndex": 1,
+        "explanation": "The adjective 'available' fits 'made available for use'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Whereas",
+          "Since",
+          "Although"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Since' gives the reason for the warning about the refrigerator."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "You",
+          "Yours",
+          "Yourself",
+          "Your"
+        ],
+        "answerIndex": 3,
+        "explanation": "A possessive determiner is needed before 'patience'."
+      }
+    ]
+  },
+  {
+    "id": "p6-286",
+    "documentType": "review",
+    "text": "Book Review: Reading the Market by Alicia Ng\n\nIn her debut work of nonfiction, financial journalist Alicia Ng sets out to explain why ordinary investors so often act against their own interests. [1] Drawing on interviews with traders, psychologists, and regulators, she shows how fear and overconfidence shape decisions more powerfully than data. The early chapters are the strongest, [2] the later sections tend to repeat arguments already made. [3] Ng writes in a lively and accessible style, the book occasionally presents complex ideas too simply. Readers who already have a background in economics may find little that is new. [4] , it is an excellent introduction for those who wish to understand the psychology behind financial choices.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The result is a book that is as much about human nature as it is about money and the institutions that handle it.",
+          "Ng previously worked as a correspondent for a national newspaper and has covered several major market crises.",
+          "The book is published in a paperback edition with an index and a helpful list of sources at the end.",
+          "Several reviewers have compared it favorably to earlier bestsellers on the same topic by well-known economists."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence describes methodology; the preceding sentence gives the book's overall purpose."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "because",
+          "whereas",
+          "unless",
+          "so that"
+        ],
+        "answerIndex": 1,
+        "explanation": "'whereas' contrasts the early chapters with the later ones."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Until"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although' concedes the positive style before the criticism."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Therefore",
+          "Similarly",
+          "Specifically",
+          "Nevertheless"
+        ],
+        "answerIndex": 3,
+        "explanation": "After the reservation, 'Nevertheless' introduces the positive overall verdict."
+      }
+    ]
+  },
+  {
+    "id": "p6-287",
+    "documentType": "schedule",
+    "text": "Hartley Technical College – Autumn Enrollment Calendar\n\nOnline enrollment for returning students will open on August 18 and close on August 29. [1] New students may enroll in person at the admissions office from September 1, [2] they must first complete the placement assessment. The first day of lectures is Monday, September 15. Students who wish to change their courses may do so up to the end of the second week, [3] a small administrative fee is charged for each change. After that date, a change will be permitted only [4] exceptional circumstances and with the approval of the head of department.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Students are advised to enroll early, as some of the most popular evening courses reach capacity within a few days.",
+          "Textbooks for most courses are available from the campus bookshop, which offers a discount to registered students.",
+          "The college has been providing technical education in the region for more than a century and a half.",
+          "Library cards and parking permits are issued at the main reception desk on presentation of a student card."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence is about new students, so the preceding sentence is general advice on enrollment."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "because",
+          "although",
+          "unless",
+          "so that"
+        ],
+        "answerIndex": 1,
+        "explanation": "New students may enroll in person, although a prior test is required."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "so",
+          "because",
+          "but",
+          "for"
+        ],
+        "answerIndex": 2,
+        "explanation": "Changes are allowed, but a fee applies."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "on",
+          "at",
+          "for",
+          "in"
+        ],
+        "answerIndex": 3,
+        "explanation": "'only in exceptional circumstances' is the fixed phrase."
+      }
+    ]
+  },
+  {
+    "id": "p6-288",
+    "documentType": "text_message",
+    "text": "Hello Ms. Park, this is Rafael from Greenway Couriers. Your parcel from Seoul has arrived at our depot, [1] it needs to clear customs before we can deliver it. [2] Customs officers have asked for an invoice showing the value of the contents. Could you e-mail a copy to documents@greenway.example? [3] they receive it, clearance normally takes one working day. Delivery would then be possible on Wednesday, [4] you will be at home to sign for it. Please call me on 0800 555 0112 if you have any questions.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "but",
+          "so",
+          "or",
+          "for"
+        ],
+        "answerIndex": 0,
+        "explanation": "The parcel has arrived, but it cannot be delivered yet."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our drivers will attempt delivery between 9 a.m. and 5 p.m. and will leave a card if nobody is present.",
+          "The delay is not unusual for international shipments valued above the limit set by the tax authority.",
+          "Your parcel weighs about twelve kilograms and is insured for the declared value of its contents.",
+          "Greenway Couriers has been delivering goods across the region for more than twenty years."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says what customs has requested, so the preceding one explains the delay."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Although",
+          "Once",
+          "Whereas"
+        ],
+        "answerIndex": 2,
+        "explanation": "Clearance follows receipt of the invoice, so 'Once' is needed."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "as if",
+          "even though",
+          "whereas",
+          "provided that"
+        ],
+        "answerIndex": 3,
+        "explanation": "Delivery depends on someone being at home to sign."
+      }
+    ]
+  }
+]
