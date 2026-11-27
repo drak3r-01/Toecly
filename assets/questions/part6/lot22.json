@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p6-469",
+    "documentType": "email",
+    "text": "To: All Employees\nFrom: Imogen Hart, Director of Human Resources\nSubject: Parental leave\n\nFollowing consultation with employee representatives, the company's parental leave policy will be [1] with effect from 1 April. [2] The enhanced rate, which replaces the previous statutory minimum, will apply to all employees who have completed twelve months' service by the expected date of birth.\n\n[3], the period of leave will be extended from twenty-six to thirty-nine weeks, [4] employees may take on a part-time basis. Further details, including a worked example of the calculation, are available on the intranet.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "revised",
+          "revived",
+          "revoked",
+          "revolved"
+        ],
+        "answerIndex": 0,
+        "explanation": "A policy that changes 'with effect from 1 April' is 'revised'; 'revived' means brought back, 'revoked' means canceled, and 'revolved' does not fit."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Pay during the first sixteen weeks of leave will remain at the statutory minimum for all employees concerned.",
+          "Pay during the first sixteen weeks of leave will be raised to the full salary of the employee concerned.",
+          "Pay during the final sixteen weeks of leave will be reduced to half the salary of the employee concerned.",
+          "Leave during the first sixteen weeks will be available to the employee on request, subject to approval."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence refers to 'The enhanced rate', so the previous one must announce a higher rate of pay; only the first does."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Nevertheless",
+          "Conversely",
+          "In addition",
+          "Accordingly"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence adds a second improvement to the first; the others mark contrast or consequence."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "whom",
+          "whose",
+          "which"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Which' refers to the leave and is the object of 'may take'."
+      }
+    ]
+  }
+]

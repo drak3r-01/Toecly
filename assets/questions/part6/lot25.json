@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p6-474",
+    "documentType": "email",
+    "text": "To: Property Owners\nFrom: Anselm Reuter, Estate Manager\nSubject: Proposed changes to service charges\n\nThe estate committee has completed its annual review of the service charge, and I should like to explain the changes that it proposes. Insurance costs have risen by 22 percent, [1] the cost of grounds maintenance has fallen following the renegotiation of the contract in March. The net effect is a modest increase of 4 percent.\n\n[2] The committee wishes to establish a reserve fund for major repairs, which owners would contribute to [3] a small supplement of £15 a month. The proposal will be put to a vote at the annual meeting on 3 November; [4] a majority of owners approves it, the supplement will take effect in January.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "therefore",
+          "moreover",
+          "hence"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whereas the cost of grounds maintenance has fallen' contrasts the two cost movements."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Beyond the annual adjustment, the committee has also reversed a measure that affected only a few households on the estate.",
+          "Beyond the annual adjustment, the committee has also considered a longer-term measure that would affect every household on the estate.",
+          "Within the annual adjustment, the owners have also considered a short-term measure that would affect the committee.",
+          "Beyond the annual adjustment, the committee will also consider a measure that has already been approved by the owners."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence proposes a reserve fund, a longer-term measure affecting all owners; only the first introduces it. The others reverse, shift the subject to owners, or say it was already approved."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "despite",
+          "notwithstanding",
+          "through",
+          "regardless"
+        ],
+        "answerIndex": 2,
+        "explanation": "Owners would contribute 'through' a supplement, meaning by means of it; the others express contrast."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "as though",
+          "whereas",
+          "albeit",
+          "provided that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Provided that a majority approves it' gives the condition for the supplement to take effect; the others misstate the relation."
+      }
+    ]
+  },
+  {
+    "id": "p6-475",
+    "documentType": "notice",
+    "text": "VISITOR INFORMATION – CARLTON CASTLE\n\nCarlton Castle will be closed to the public from 3 November until 28 February for essential conservation work on the east tower. [1] The grounds, tearoom and gift shop will, however, remain open at the usual hours, and guided walks of the gardens will continue on weekends.\n\nHolders of annual passes will have their membership extended by a period [2] to the length of the closure. Groups that have booked tours during this period will be contacted individually, and may either rebook for a later date or [3] a full refund. The castle regrets any inconvenience, [4] it is confident that the work will secure the building for future generations.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The interior of the castle, including the state rooms and the armory, will not be accessible during that time.",
+          "The interior of the castle, including the state rooms and the armory, will be accessible during that time.",
+          "The exterior of the castle, including the state rooms and the armory, will not be repaired during that time.",
+          "The interior of the castle, including the tearoom and the gift shop, will not be accessible during that time."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says that the grounds, tearoom and gift shop will 'however' remain open, which contrasts with a closure of the interior; the others contradict the closure, misplace the work, or include the tearoom."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "equivalence",
+          "equivalent",
+          "equally",
+          "equalize"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Equivalent to the length of the closure' needs an adjective followed by 'to'; 'equivalence' is a noun, 'equally' is an adverb, and 'equalize' is a verb."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "clamor",
+          "clasp",
+          "claim",
+          "clarify"
+        ],
+        "answerIndex": 2,
+        "explanation": "Groups may 'claim' a refund, meaning request it; the other verbs do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "so",
+          "though"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Though' concedes regret before stating confidence; 'because' and 'unless' invert the logic, and 'so' would make the confidence a result of the regret."
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p6-479",
+    "documentType": "memo",
+    "text": "To: Heads of Department\nFrom: Rosalind Achebe, Registrar\nSubject: Examination invigilation\n\nThe summer examination period will run from 2 to 20 June, and invigilators are needed for each session. Heads of department are asked to nominate suitable staff by 15 April. [1] Nominees must complete a short briefing on the regulations, which will be held on 20 May and again on 22 May.\n\nInvigilators will be [2] for their time at the standard hourly rate, and a lunch will be provided on days when sessions run past noon. [3] a candidate is suspected of malpractice, the invigilator should confirm the matter with the chief invigilator before taking any action. [4] the importance of fairness, I should be grateful for your cooperation in ensuring that all sessions are properly staffed.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Experience of previous sessions is helpful but not essential, since new staff are paired with a colleague who has invigilated before.",
+          "Experience of previous sessions is essential but not helpful, since new staff are paired with a colleague who has not invigilated before.",
+          "Experience of previous sessions was helpful but not essential, since new staff were paired with a colleague who had invigilated before.",
+          "Experience of the regulations is helpful but not essential, since new staff are paired with a candidate who has invigilated before."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says nominees must attend a briefing, which fits a sentence about preparing inexperienced staff; only the first is coherent."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "compromised",
+          "compensated",
+          "complimented",
+          "complemented"
+        ],
+        "answerIndex": 1,
+        "explanation": "Staff are 'compensated for their time', meaning paid; the others do not fit."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Wherein",
+          "Where",
+          "Whereby"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Where a candidate is suspected of malpractice' introduces the specific case in which the rule applies; 'whereas' contrasts, and 'wherein' and 'whereby' do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "Giving",
+          "Gave",
+          "Given that",
+          "Given"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Given the importance of fairness' uses 'given' as a preposition meaning considering."
+      }
+    ]
+  }
+]
