@@ -1,5 +1,7 @@
 import 'package:material_ui/material_ui.dart';
 
+import 'replay_scope.dart';
+
 /// Fades and slides its child in once, after [delay] (for staggered lists).
 /// The delay lives inside the animation curve, so no timer is left pending.
 class FadeSlideIn extends StatefulWidget {
@@ -28,6 +30,18 @@ class _FadeSlideInState extends State<FadeSlideIn> with SingleTickerProviderStat
       curve: Curves.easeOutCubic,
     ),
   );
+
+  int? _epoch;
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    final epoch = ReplayScope.of(context);
+    if (_epoch != null && _epoch != epoch) {
+      _controller.forward(from: 0); // the user came back to this tab
+    }
+    _epoch = epoch;
+  }
 
   @override
   void dispose() {

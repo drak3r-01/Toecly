@@ -5,6 +5,7 @@ import 'package:material_ui/material_ui.dart';
 import '../l10n/app_localizations.dart';
 import 'app_router.dart';
 import '../core/widgets/brand_background.dart';
+import 'providers.dart';
 import 'settings/settings_providers.dart';
 import 'splash/splash_overlay.dart';
 import 'theme/app_theme.dart';
@@ -21,6 +22,12 @@ class ToeclyApp extends ConsumerStatefulWidget {
 
 class _ToeclyAppState extends ConsumerState<ToeclyApp> {
   final GoRouter _router = createAppRouter();
+
+  @override
+  void initState() {
+    super.initState();
+    ref.read(questionCountsProvider); // count the question bank at startup
+  }
 
   @override
   void dispose() {

@@ -353,4 +353,43 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get estimatedTotalEmpty => '— / 990';
+
+  @override
+  String get partDescription5 => 'Grammaire et vocabulaire dans une phrase.';
+
+  @override
+  String get partDescription6 => 'Complétez les blancs d\'un court texte.';
+
+  @override
+  String get partDescription7 =>
+      'Lisez e-mails, annonces et articles, puis répondez.';
+
+  @override
+  String questionsAvailable(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count questions disponibles',
+      one: '1 question disponible',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String practiceSelectionAvailable(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count questions dans votre sélection',
+      one: '1 question dans votre sélection',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get questionBankTitle => 'Banque de questions';
+
+  @override
+  String get questionBankHint =>
+      'Chargée sur cet appareil, comptée au démarrage de l\'application.';
 }

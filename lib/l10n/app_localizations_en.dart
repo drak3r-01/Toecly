@@ -353,4 +353,42 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get estimatedTotalEmpty => '— / 990';
+
+  @override
+  String get partDescription5 => 'Grammar and vocabulary in a single sentence.';
+
+  @override
+  String get partDescription6 => 'Fill the blanks of a short text.';
+
+  @override
+  String get partDescription7 => 'Read emails, ads and articles, then answer.';
+
+  @override
+  String questionsAvailable(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count questions available',
+      one: '1 question available',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String practiceSelectionAvailable(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count questions in your selection',
+      one: '1 question in your selection',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get questionBankTitle => 'Question bank';
+
+  @override
+  String get questionBankHint =>
+      'Loaded on this device, counted when the app starts.';
 }
