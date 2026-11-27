@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p5-1735",
+    "sentence": "The warehouse uses barcode scanning to ___ inventory levels in real time.",
+    "choices": [
+      "monitor",
+      "mentor",
+      "muster",
+      "mandate"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Monitor levels means track them. Mentor, mandate and muster do not take inventory levels."
+  },
+  {
+    "id": "p5-1736",
+    "sentence": "Goods in ___ are insured against loss or damage until they reach the consignee.",
+    "choices": [
+      "transcript",
+      "transit",
+      "trance",
+      "translation"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "In transit means being shipped. In trance, translation and transcript are not shipping terms."
+  },
+  {
+    "id": "p5-1737",
+    "sentence": "To reduce holding costs, the retailer adopted a just-in-time approach to ___ management.",
+    "choices": [
+      "invention",
+      "investigation",
+      "inversion",
+      "inventory"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Inventory management means stock control. Invention, inversion and investigation are not managed in this sense."
+  },
+  {
+    "id": "p5-1738",
+    "sentence": "The carrier will ___ the cargo to the nearest hub if the primary route is blocked.",
+    "choices": [
+      "retract",
+      "retrofit",
+      "reroute",
+      "reimburse"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Reroute means send by another path. Retrofit, retract and reimburse do not take cargo to a hub."
+  },
+  {
+    "id": "p5-1739",
+    "sentence": "To save costs, the firm decided to ___ its warehousing operations to a third-party provider.",
+    "choices": [
+      "outsource",
+      "outweigh",
+      "outmanoeuvre",
+      "outlast"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Outsource to means contract out. Outweigh, outlast and outmanoeuvre cannot take to a provider."
+  },
+  {
+    "id": "p5-1740",
+    "sentence": "Dock workers began a strike, leaving hundreds of containers ___ at the terminal.",
+    "choices": [
+      "strangled",
+      "strained",
+      "stained",
+      "stranded"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Stranded means stuck and unable to move on. Stained, strained and strangled do not fit with containers at a terminal."
+  },
+  {
+    "id": "p5-1741",
+    "sentence": "The company negotiated a volume ___ with its largest supplier after doubling its orders.",
+    "choices": [
+      "rebuke",
+      "rebate",
+      "rebuttal",
+      "rebellion"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A rebate is a partial refund for volume. Rebuke, rebuttal and rebellion are not commercial terms."
+  },
+  {
+    "id": "p5-1742",
+    "sentence": "Perishable goods require ___ transport to preserve their quality during long journeys.",
+    "choices": [
+      "refurbished",
+      "reformulated",
+      "refrigerated",
+      "refundable"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Refrigerated transport keeps goods cold. The other adjectives do not describe transport."
+  },
+  {
+    "id": "p5-1743",
+    "sentence": "A delay at the port could ___ the entire delivery schedule for the quarter.",
+    "choices": [
+      "derail",
+      "decree",
+      "deflate",
+      "deride"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Derail the schedule means ruin it. Deride, decree and deflate do not collocate with schedule."
+  },
+  {
+    "id": "p5-1744",
+    "sentence": "Strict ___ requirements mean every component must be linked to its original source and batch.",
+    "choices": [
+      "transferability",
+      "tractability",
+      "traceability",
+      "trajectory"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Traceability is the ability to track origin. The other nouns do not describe tracking requirements."
+  },
+  {
+    "id": "p5-1745",
+    "sentence": "The retailer's ___ network includes twelve regional warehouses and five cross-docking facilities.",
+    "choices": [
+      "discrimination",
+      "distribution",
+      "distinction",
+      "dissolution"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A distribution network is a delivery system of warehouses. The others do not describe a network of facilities."
+  },
+  {
+    "id": "p5-1746",
+    "sentence": "Lead times can ___ significantly depending on the supplier's location and customs procedures.",
+    "choices": [
+      "vet",
+      "vacate",
+      "vanish",
+      "vary"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Vary means differ or change. Vet, vanish and vacate do not fit with significantly depending on location."
+  },
+  {
+    "id": "p5-1747",
+    "sentence": "The bank was fined for failing to ___ with anti-money-laundering rules.",
+    "choices": [
+      "vie",
+      "comply",
+      "coincide",
+      "compare"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Comply with means obey. Vie, coincide and compare do not mean follow rules."
+  },
+  {
+    "id": "p5-1748",
+    "sentence": "Regulators will ___ a thorough inspection of the plant before issuing the operating licence.",
+    "choices": [
+      "conduct",
+      "conserve",
+      "conspire",
+      "confer"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Conduct an inspection means carry one out. Conspire, conserve and confer do not take inspection."
+  },
+  {
+    "id": "p5-1749",
+    "sentence": "The new directive is ___ to all companies with more than 250 employees.",
+    "choices": [
+      "accountable",
+      "amenable",
+      "adaptable",
+      "applicable"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Applicable to means relevant to. Adaptable, amenable and accountable do not suit to all companies as scope."
+  },
+  {
+    "id": "p5-1750",
+    "sentence": "Firms that breach the rules ___ substantial penalties, as one company did after the audit exposed its violations.",
+    "choices": [
+      "indulged",
+      "insured",
+      "incurred",
+      "induced"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Incur penalties means become liable to them. Induced, insured and indulged do not take penalties."
+  },
+  {
+    "id": "p5-1751",
+    "sentence": "All chemical substances must be ___ with the national authority before they are placed on the market.",
+    "choices": [
+      "reiterated",
+      "registered",
+      "rehearsed",
+      "regimented"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Registered with an authority means formally recorded. The other participles do not fit with the authority."
+  },
+  {
+    "id": "p5-1752",
+    "sentence": "The auditor issued a ___ opinion, indicating that the accounts contained material misstatements.",
+    "choices": [
+      "qualitative",
+      "quixotic",
+      "quarrelsome",
+      "qualified"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A qualified opinion signals reservations. The other adjectives are not audit opinion types."
+  },
+  {
+    "id": "p5-1753",
+    "sentence": "Whistleblowers are protected by law from ___ after reporting suspected wrongdoing.",
+    "choices": [
+      "retardation",
+      "relaxation",
+      "retaliation",
+      "relegation"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Retaliation means punishment for reporting. Relaxation, retardation and relegation do not."
+  },
+  {
+    "id": "p5-1754",
+    "sentence": "The inspector issued an ___ notice requiring the factory to fix the safety violations within thirty days.",
+    "choices": [
+      "enforcement",
+      "endorsement",
+      "enrichment",
+      "enchantment"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "An enforcement notice orders compliance. The other nouns do not describe regulatory orders."
+  },
+  {
+    "id": "p5-1755",
+    "sentence": "Exporters must obtain a ___ before shipping dual-use technology to certain countries.",
+    "choices": [
+      "legislature",
+      "ledger",
+      "lease",
+      "licence"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "An export licence is official permission. Lease, legacy and ledger are not permissions to ship."
+  },
+  {
+    "id": "p5-1756",
+    "sentence": "The company has been placed under close ___ by regulators following repeated safety violations.",
+    "choices": [
+      "scrimmage",
+      "scrutiny",
+      "scripture",
+      "scruple"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Under scrutiny means closely examined. The others do not follow under close."
+  },
+  {
+    "id": "p5-1757",
+    "sentence": "To ___ the risk of fraud, the bank introduced dual authorization for large transfers.",
+    "choices": [
+      "mitigate",
+      "militate",
+      "mutilate",
+      "meditate"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Mitigate risk means reduce it. Militate (act against), mutilate and meditate do not take risk as object."
+  },
+  {
+    "id": "p5-1758",
+    "sentence": "Under data-protection law, organisations must obtain ___ consent before processing personal data.",
+    "choices": [
+      "expedient",
+      "exquisite",
+      "explicit",
+      "exempt"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Explicit consent is clearly stated. Exempt, expedient and exquisite do not describe consent."
+  },
+  {
+    "id": "p5-1759",
+    "sentence": "Parliament is expected to ___ the new data-protection law by March.",
+    "choices": [
+      "enclose",
+      "enrol",
+      "entangle",
+      "enact"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Enact a law means pass it. Enrol, enclose and entangle do not take law as object."
+  },
+  {
+    "id": "p5-1760",
+    "sentence": "The firm's ___ officer reports directly to the board on regulatory and ethical matters.",
+    "choices": [
+      "compliment",
+      "compliance",
+      "complaint",
+      "complicity"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A compliance officer ensures rules are followed. Complaint, compliment and complicity do not form this title."
+  },
+  {
+    "id": "p5-1761",
+    "sentence": "The campaign aims to ___ brand awareness among consumers aged eighteen to twenty-five.",
+    "choices": [
+      "harmonize",
+      "hamper",
+      "heighten",
+      "hasten"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Heighten awareness means raise it. Hasten, harmonize and hamper do not take awareness."
+  },
+  {
+    "id": "p5-1762",
+    "sentence": "The company hired an influencer to ___ its new range of sustainable sportswear.",
+    "choices": [
+      "endorse",
+      "endow",
+      "enclose",
+      "endure"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Endorse a product means publicly support it. Endow, endure and enclose do not fit."
+  },
+  {
+    "id": "p5-1763",
+    "sentence": "The boutique has cultivated an exclusive ___ of high-net-worth shoppers over many years.",
+    "choices": [
+      "clearance",
+      "clemency",
+      "cliche",
+      "clientele"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Clientele means a business's customers. Clemency, cliche and clearance do not."
+  },
+  {
+    "id": "p5-1764",
+    "sentence": "Launching during the holiday season allowed the firm to ___ on peak consumer spending.",
+    "choices": [
+      "capsize",
+      "capitalize",
+      "captivate",
+      "capitulate"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Capitalize on means take advantage of. The others do not combine with on."
+  },
+  {
+    "id": "p5-1765",
+    "sentence": "The advertisement was withdrawn after the regulator ruled it was ___ and likely to mislead shoppers.",
+    "choices": [
+      "deceptive",
+      "decisive",
+      "deficient",
+      "decorative"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Deceptive means misleading. The others do not fit with likely to mislead."
+  },
+  {
+    "id": "p5-1766",
+    "sentence": "The discount was meant to ___ hesitant shoppers into trying the new product.",
+    "choices": [
+      "entitle",
+      "entrust",
+      "entice",
+      "entail"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Entice into means tempt. Entitle, entrust and entail do not fit into trying."
+  },
+  {
+    "id": "p5-1767",
+    "sentence": "Customers who abandon their online baskets receive emails designed to ___ them to complete the purchase.",
+    "choices": [
+      "prolong",
+      "promote",
+      "pry",
+      "prompt"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Prompt someone to do means encourage them. Pry, promote and prolong do not take to complete."
+  },
+  {
+    "id": "p5-1768",
+    "sentence": "Sales of the premium line ___ sharply after the celebrity endorsement went public.",
+    "choices": [
+      "soothed",
+      "soaked",
+      "soared",
+      "sobbed"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Soared means rose rapidly. Soaked, soothed and sobbed do not describe sales."
+  },
+  {
+    "id": "p5-1769",
+    "sentence": "The retailer's pricing strategy is ___ to attract bargain hunters during the clearance period.",
+    "choices": [
+      "geared",
+      "gathered",
+      "gutted",
+      "gazed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Geared to means designed for a purpose. The others do not fit to attract."
+  },
+  {
+    "id": "p5-1770",
+    "sentence": "Focus groups indicated that the packaging ___ strongly with environmentally conscious shoppers.",
+    "choices": [
+      "resumed",
+      "resonated",
+      "resisted",
+      "reprimanded"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Resonate with means strike a chord. The others do not fit with shoppers in this sense."
+  },
+  {
+    "id": "p5-1771",
+    "sentence": "The rebranding exercise proved ___ when sales failed to improve despite the heavy spending.",
+    "choices": [
+      "feeble",
+      "fertile",
+      "futile",
+      "fragile"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Futile means pointless. Fertile, fragile and feeble do not fit proved when sales failed."
+  },
+  {
+    "id": "p5-1772",
+    "sentence": "The developer secured planning ___ for a mixed-use complex in the city centre.",
+    "choices": [
+      "permeation",
+      "permanence",
+      "permutation",
+      "permission"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Planning permission is official approval. The others are not approvals."
+  },
+  {
+    "id": "p5-1773",
+    "sentence": "The lease includes a rent ___ clause allowing annual increases linked to inflation.",
+    "choices": [
+      "escalation",
+      "elaboration",
+      "escapade",
+      "elevation"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "An escalation clause allows scheduled increases. The others do not form this term."
+  },
+  {
+    "id": "p5-1774",
+    "sentence": "The buyer ordered a professional ___ to establish the true market value of the building.",
+    "choices": [
+      "venture",
+      "valuation",
+      "vacation",
+      "variation"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Valuation is an assessment of worth. The others do not establish value."
+  }
+]

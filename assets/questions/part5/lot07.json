@@ -323,5 +323,200 @@
     "answerIndex": 2,
     "category": "vocabulary",
     "explanation": "'Restore order' means bring back. The others do not collocate."
+  },
+  {
+    "id": "p5-1600",
+    "sentence": "The board has asked that the report ___ before the extraordinary general meeting.",
+    "choices": [
+      "be circulated",
+      "is circulated",
+      "was circulated",
+      "circulates"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Asked that' takes the subjunctive passive 'be circulated'. The others are indicative."
+  },
+  {
+    "id": "p5-1601",
+    "sentence": "The deal will go through ___ the shareholders vote against it at the meeting on Friday.",
+    "choices": [
+      "unless",
+      "since",
+      "once",
+      "whereas"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Unless' introduces an exception. 'since', 'whereas' and 'once' do not."
+  },
+  {
+    "id": "p5-1602",
+    "sentence": "The product launch was a success; ___, the campaign cost twice what had been budgeted.",
+    "choices": [
+      "therefore",
+      "however",
+      "hence",
+      "moreover"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'However' marks contrast. 'therefore' and 'hence' give result, and 'moreover' adds."
+  },
+  {
+    "id": "p5-1603",
+    "sentence": "The factory has two shifts; ___, the distribution centre operates around the clock.",
+    "choices": [
+      "whereas",
+      "in case",
+      "so that",
+      "unless"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whereas' marks contrast between the two sites. The others do not."
+  },
+  {
+    "id": "p5-1604",
+    "sentence": "The airline warned of delays ___ the disruption to its computer systems.",
+    "choices": [
+      "as to",
+      "apart",
+      "owing to",
+      "rather than"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Owing to' gives the cause. The others are not suitable."
+  },
+  {
+    "id": "p5-1605",
+    "sentence": "The firm is looking into the possibility of ___ its network to include several African markets.",
+    "choices": [
+      "extended to",
+      "extending",
+      "extend",
+      "to extending"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'of', a gerund is needed. The others do not fit."
+  },
+  {
+    "id": "p5-1606",
+    "sentence": "Having ___ the figures twice, the analyst was confident that the forecast was accurate.",
+    "choices": [
+      "checked",
+      "checking",
+      "check",
+      "to check"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Having + past participle' forms the perfect participle. The others do not fit."
+  },
+  {
+    "id": "p5-1607",
+    "sentence": "Fewer than ten percent of respondents ___ the new scheme in the final survey.",
+    "choices": [
+      "supports",
+      "is supporting",
+      "has supported",
+      "supported"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Percent of respondents' takes a plural-sense verb. The others are singular."
+  },
+  {
+    "id": "p5-1608",
+    "sentence": "A growing proportion of the firm's revenue ___ from overseas subscriptions.",
+    "choices": [
+      "have come",
+      "comes",
+      "are coming",
+      "come"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'A proportion of the revenue' takes a singular verb. The others are plural."
+  },
+  {
+    "id": "p5-1609",
+    "sentence": "The firm's chief aim is ___ its market share in Asia within the next three years.",
+    "choices": [
+      "doubling",
+      "doubled",
+      "to double",
+      "double of"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Is to + infinitive' expresses an aim. The others do not fit."
+  },
+  {
+    "id": "p5-1610",
+    "sentence": "The quarterly results were encouraging, ___ modest, given the unusually difficult market conditions.",
+    "choices": [
+      "albeit",
+      "whereas",
+      "lest",
+      "unless"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Albeit' introduces a concession in a reduced phrase ('albeit modest'). 'whereas' contrasts full clauses, 'lest' means 'for fear that' and 'unless' sets a negative condition."
+  },
+  {
+    "id": "p5-1611",
+    "sentence": "Employees may work remotely ___ they remain available during core hours and attend mandatory meetings.",
+    "choices": [
+      "as though",
+      "even though",
+      "provided that",
+      "notwithstanding that"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Provided that' introduces a condition. 'notwithstanding that' and 'even though' are concessive, and 'as though' introduces a comparison."
+  },
+  {
+    "id": "p5-1612",
+    "sentence": "The contract will be renewed ___ the supplier agrees to lower its unit prices by five percent.",
+    "choices": [
+      "on condition that",
+      "notwithstanding that",
+      "seeing that",
+      "so that"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'On condition that' states a requirement for a future event. 'despite the fact that' is concessive, 'so that' expresses purpose and 'seeing that' gives an existing reason."
+  },
+  {
+    "id": "p5-1613",
+    "sentence": "The new policy is effective ___ it reduces duplicated reporting across the regional offices.",
+    "choices": [
+      "ever since",
+      "even if",
+      "so that",
+      "insofar as"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Insofar as' means 'to the extent that'. 'ever since' marks time, 'even if' is concessive and 'so that' expresses purpose."
+  },
+  {
+    "id": "p5-1614",
+    "sentence": "Staff may receive additional leave ___ overtime pay if they prefer time off to money.",
+    "choices": [
+      "ahead of",
+      "in lieu of",
+      "by virtue of",
+      "on behalf of"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'In lieu of' means 'instead of'. 'ahead of' is temporal, 'on behalf of' means representing and 'by virtue of' means because of."
   }
 ]
