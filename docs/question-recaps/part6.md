@@ -1,26 +1,26 @@
-# Récap corrections et niveau : Part 6 (Text Completion)
+# Recap: corrections and level for Part 6 (Text Completion)
 
-## Niveau cible
-- B2+ à C1, équivalent du vrai TOEIC. Pas de textes simples ni d'insertions évidentes.
-- Les textes doivent ressembler à des e-mails, notices et articles de vrai TOEIC, avec de la densité d'information.
+## Target level
+- B2+ to C1, the real TOEIC level. No simple texts and no obvious insertions.
+- Texts should look like real TOEIC e-mails, notices and articles, with dense information.
 
-## Ce qui ne va pas aujourd'hui
-- **Biais de longueur très fort sur les phrases à insérer** : la bonne phrase est seule la plus longue dans 80 % des cas (103 sur 128). C'est le défaut le plus grave, car on répond sans lire.
-- **Distracteurs hors sujet** : dans les insertions, les mauvaises phrases n'ont aucun lien avec le texte (ex. p6-011#2, p6-122#1, p6-103#1). Le candidat élimine sans comprendre.
-- Textes courts (76 mots en moyenne) : trop peu de contexte pour un vrai choix.
-- Grammaire et connecteurs de niveau B1.
+## Problems in the previous corpus
+- **Very strong length bias on sentence insertions**: the correct sentence was the only longest choice in 80% of cases (103 of 128). This is the most serious flaw, because a candidate can answer without reading.
+- **Off-topic distractors**: in insertions, the wrong sentences have no link to the text (e.g. p6-011#2, p6-122#1, p6-103#1). The candidate eliminates them without understanding.
+- Short texts (76 words on average): too little context for a real choice.
+- B1-level grammar and connectors.
 
-## Règles pour les nouvelles questions
-1. **Insertions** : les trois mauvaises phrases doivent être aussi longues, aussi formelles et aussi liées au sujet que la bonne. Chacune doit reprendre un mot-clé du texte ou une idée proche, mais échouer par la logique (contraste, cause, chronologie, pronom de référence, temps verbal).
-2. Ne jamais rendre la bonne phrase unique par sa longueur ou son ton. Vérifier que la bonne phrase est la seule qui s'insère logiquement à ce blanc, et qu'aucune autre ne tient.
-3. **Choix de mots et grammaire** : les quatre mots ou formes doivent être grammaticalement possibles dans la phrase, et seul le bon est juste. Tester formes verbales, prépositions fixes, adjectifs/adverbes, connecteurs (however, in addition, nevertheless, as a result).
-4. Longueur d'un choix : même longueur à ±1 mot près quand les quatre choix sont des mots simples.
-5. Une seule réponse défendable par blanc : pas de synonymes qui tiennent tous deux.
-6. Texte de 120 à 180 mots, avec au moins une information à croiser entre deux paragraphes.
-7. Quatre blancs par texte, répartis entre grammaire, vocabulaire, connecteur et insertion (une insertion au moins par texte, comme le TOEIC réel).
-8. Explication en anglais : citer la règle ou la phrase du texte qui justifie la réponse.
+## Rules for new questions
+1. **Insertions**: the three wrong sentences must be as long, as formal and as related to the topic as the correct one. Each should reuse a keyword or a close idea from the text but fail logically (contrast, cause, sequence, pronoun reference, verb tense).
+2. Never make the correct sentence unique by length or tone. Check that exactly one sentence fits the blank logically and no other does.
+3. **Words and grammar**: all four options must be grammatically possible in the sentence, and only one is correct. Test verb forms, fixed prepositions, adjectives/adverbs, connectors (however, in addition, nevertheless, as a result).
+4. Word-option length: the same length within ±1 word when all four are single words.
+5. Only one defensible answer per blank: no two synonyms that both fit.
+6. Text of 120 to 180 words, with at least one piece of information to cross-check between paragraphs.
+7. Four blanks per text, spread across grammar, vocabulary, connector and insertion (at least one insertion per text, as in the real exam).
+8. Explanation in English: cite the rule, or the sentence in the text, that justifies the answer.
 
-## Ce qu'il faut retirer ou réécrire
-- Les insertions où la bonne phrase est seule la plus longue ou seule à reprendre le sujet.
-- Les textes de moins de 100 mots et les questions de niveau B1.
-- La validation (`dart run tool/validate_questions.dart`) doit rester verte.
+## What to remove or rewrite
+- Insertions where the correct sentence is the only longest one or the only one about the subject.
+- Texts under 100 words and B1-level questions.
+- The validation (`dart run tool/validate_questions.dart`) must stay green.
