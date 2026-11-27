@@ -1,441 +1,551 @@
 [
   {
-    "id": "p6-073",
-    "documentType": "advertisement",
-    "text": "Drive More, Pay Less with SwiftRent! Rent a compact car for as little as $29 a day, [1] unlimited mileage. [2] All vehicles are cleaned and inspected before each rental. You can pick up your car at any of our 120 airport locations [3] return it in a different city for a small fee. Reserve online before the end of the month and [4] an additional 10 percent off.",
+    "id": "p6-289",
+    "documentType": "email",
+    "text": "To: Andrea Lopes\nFrom: Jonas Weber\nSubject: Delay in the Kessler contract\n\nI am afraid the Kessler contract will not be ready for signature on Friday as planned. Their legal department returned the draft with a number of amendments, [1] require careful consideration on our side. [2] Clause 9, which limits our liability for late delivery, has been deleted entirely, and a new clause on termination has been added. I do not believe we can accept either change without consulting the board. In the meantime, I suggest we [3] the client that we remain committed to the project and are working to resolve the points quickly. [4] we reach agreement by Wednesday, we should still be able to start production on the date originally planned.",
     "questions": [
       {
         "blank": 1,
         "category": "grammar",
         "choices": [
-          "with",
-          "by",
-          "for",
-          "at"
+          "several of which",
+          "which several",
+          "of which several",
+          "several that"
         ],
         "answerIndex": 0,
-        "explanation": "'With unlimited mileage' states what is included in the price."
+        "explanation": "'several of which' is the correct relative structure referring to the amendments."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Our headquarters moved to Denver last year.",
-          "Every car comes with a free GPS and a child seat on request.",
-          "Airport taxes will rise in January.",
-          "The company was named best employer."
+          "The Kessler account is one of our three largest and has been with the company since its early years.",
+          "Two of the proposed amendments are in fact acceptable, but the others would change the balance of the agreement.",
+          "The board is scheduled to meet on Tuesday morning, when its members will also discuss the annual budget and the plans for the new building.",
+          "Our own lawyers have been dealing with contracts of this kind for several years and are well informed."
         ],
         "answerIndex": 1,
-        "explanation": "The sentence adds features of the vehicles and precedes the sentence about their condition."
+        "explanation": "The next sentence is about specific changes (Clause 9), so the preceding sentence summarizes their nature."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "reassess",
+          "reassign",
+          "reassure",
+          "reassemble"
+        ],
+        "answerIndex": 2,
+        "explanation": "One 'reassures' a client that the company remains committed."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Even though",
+          "Whereas",
+          "Unless",
+          "Provided that"
+        ],
+        "answerIndex": 3,
+        "explanation": "The start date is retained on condition that agreement is reached."
+      }
+    ]
+  },
+  {
+    "id": "p6-290",
+    "documentType": "article",
+    "text": "The Rise of the Four-Day Week\n\nWhen the software company Ardent trialed a four-day week last year, its managers feared a drop in output. [1] In fact, revenue grew by 6 percent, and absenteeism fell by more than a third. Similar results have been reported by other firms taking part in the experiment, [2] researchers caution against drawing sweeping conclusions. The companies involved were [3] small, and many of their employees already worked flexibly. Professor Maya Lindgren of the Institute for Work Studies notes that jobs requiring constant availability, such as hospital care, are harder to adapt. [4] it is too early to say whether the model can be widely adopted, she believes the trial has changed the debate about how work should be organized.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Their concerns proved to be unfounded once the first quarterly figures were compared with those of the previous year.",
+          "The experiment was coordinated by a research group and a charity that campaigns for shorter working hours, with funding from several public bodies.",
+          "The company employs about one hundred and twenty people, most of them based in two offices in the north.",
+          "Employees were given the choice between a shorter week and a salary increase of the equivalent amount."
+        ],
+        "answerIndex": 0,
+        "explanation": "'In fact' in the next sentence confirms that the fears proved wrong."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "so",
+          "but",
+          "for",
+          "or"
+        ],
+        "answerIndex": 1,
+        "explanation": "The positive results are followed by the researchers' caution."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "relevantly",
+          "reluctantly",
+          "relatively",
+          "relentlessly"
+        ],
+        "answerIndex": 2,
+        "explanation": "'relatively small' means small compared to others."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Until",
+          "Although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Although' concedes uncertainty before the professor's belief."
+      }
+    ]
+  },
+  {
+    "id": "p6-291",
+    "documentType": "letter",
+    "text": "Dear Councilor Dawson,\n\nI am writing on behalf of the Elm Street Residents' Association to express our concern about the proposed closure of the Elm Street Library. [1] The library is used by more than two thousand residents each month, including many elderly people and families without internet access at home. Its closure would [2] these groups disproportionately, since the next nearest branch is almost five miles away. We understand that the council faces difficult budget decisions, [3] we urge you to consider alternatives, such as reduced opening hours or shared premises. We would welcome the opportunity to meet with you [4] discuss how the library might be kept open.\n\nYours sincerely,\nAmara Singh\nChair, Elm Street Residents' Association",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "We believe that this facility is far more than a place to borrow books; it is a vital part of our community.",
+          "A petition against the closure has already been signed by over six hundred residents of the neighborhood.",
+          "The library building was constructed in 1932 and is protected as an example of local architecture.",
+          "Several nearby schools send classes to the library each week as part of their reading programs."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence gives usage figures supporting the point that the library is vital."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "effect",
+          "affect",
+          "afflict",
+          "infect"
+        ],
+        "answerIndex": 1,
+        "explanation": "The closure would 'affect' these groups; 'effect' is a noun here."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "so",
+          "for",
+          "but",
+          "because"
+        ],
+        "answerIndex": 2,
+        "explanation": "The writer acknowledges the council's difficulty, but urges alternatives."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "for",
+          "and",
+          "in",
+          "to"
+        ],
+        "answerIndex": 3,
+        "explanation": "'meet with you to discuss' uses the infinitive of purpose."
+      }
+    ]
+  },
+  {
+    "id": "p6-292",
+    "documentType": "notice",
+    "text": "CONSTRUCTION NOTICE – HOLLOWAY STREET\n\nThe city's Water Department will begin replacing old pipes on Holloway Street on Monday, September 8. [1] Work will take place between 7 a.m. and 6 p.m. on weekdays and is expected to last about six weeks. Residents may experience [2] interruptions to their water supply, and advance notice will be left at each address at least one day before any shutdown. [3] the street will remain open to vehicles, parking will be prohibited on the side where work is in progress. Pedestrians are asked to follow the marked walkways. [4] the work is completed, the road surface will be fully restored, and new markings will be painted.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The existing pipes were laid more than seventy years ago and have been the cause of several leaks in recent winters.",
+          "The department has hired an external contractor who has completed similar projects in several nearby towns, and it has promised to complete the work without delays.",
+          "Drivers are advised to use Marlow Road as an alternative route during the working hours listed below.",
+          "Residents who have questions are encouraged to attend a briefing at the community center next week."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence deals with the work schedule; the preceding one states the reason for the project."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "temporal",
+          "temporary",
+          "tentative",
+          "transitional"
+        ],
+        "answerIndex": 1,
+        "explanation": "'temporary interruptions' means short-lived ones."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "While",
+          "Until"
+        ],
+        "answerIndex": 2,
+        "explanation": "'While' contrasts the open street with the parking ban."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Although",
+          "Whereas",
+          "Once"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Once the work is completed' sets the time at which the road is restored."
+      }
+    ]
+  },
+  {
+    "id": "p6-293",
+    "documentType": "advertisement",
+    "text": "Welcome to the Orchard Inn – A Country Retreat\n\nSet in the heart of the countryside, the Orchard Inn offers visitors a [1] escape from the pressures of city life. Our twelve rooms are furnished with local antiques, and each looks out over the apple orchards for which the area is known. [2] Breakfast, prepared from ingredients supplied by neighboring farms, is served in the garden when the weather allows. Guests who stay for three nights or more [3] a free dinner in our restaurant. The inn is a short walk from the village, [4] taxis can be arranged at any time. Book directly through our website to receive the best available rate.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "peaceful",
+          "peace",
+          "peacefully",
+          "peacefulness"
+        ],
+        "answerIndex": 0,
+        "explanation": "An adjective is needed before the noun 'escape'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The village has a pharmacy, a post office, and a small supermarket, all within ten minutes of the inn.",
+          "The restaurant, which seats thirty, has been praised in several national guides for its seasonal menus and relaxed atmosphere.",
+          "The inn has been owned by the same family for three generations and was restored during the nineties.",
+          "The surrounding hills offer walking routes of varying difficulty, with maps available from the front desk, as well as suggestions for shorter walks for young children."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence is about breakfast, so the preceding one relates to food."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "received",
+          "receiving",
+          "receive",
+          "receives"
+        ],
+        "answerIndex": 2,
+        "explanation": "The plural subject 'guests' takes the base verb in the present simple."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "so",
+          "because",
+          "for",
+          "but"
+        ],
+        "answerIndex": 3,
+        "explanation": "The inn is near the village, but taxis are available for those who prefer them."
+      }
+    ]
+  },
+  {
+    "id": "p6-294",
+    "documentType": "job_ad",
+    "text": "Customer Support Team Leader – Nimbus Telecom\n\nNimbus Telecom is expanding its contact center in Manchester and is recruiting a Team Leader to supervise a group of twelve advisers. [1] You will coach staff, monitor the quality of calls, and report weekly to the head of customer operations. The post-holder will be [2] for resolving escalated complaints and maintaining customer satisfaction targets. Candidates must have at least two years' experience in a contact center, [3] some of this experience must have been in a supervisory role. [4] shift work is involved, hours are fixed three months in advance. In return, we offer a competitive salary, a performance bonus, and a clear path to progression.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "This is a demanding role suited to a motivated person who enjoys helping others to develop their skills.",
+          "Nimbus Telecom serves around three million customers and was recently awarded a prize for network reliability.",
+          "The Manchester center operates around the clock and handles more than ten thousand calls a day.",
+          "Training for new team leaders lasts four weeks and is delivered at our regional office in Birmingham."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence describes duties, so the preceding sentence describes the role in general."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "responsive",
+          "responsible",
+          "responsibly",
+          "responsibility"
+        ],
+        "answerIndex": 1,
+        "explanation": "The adjective 'responsible' fits 'responsible for resolving'."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
           "but",
-          "and",
           "so",
-          "nor"
-        ],
-        "answerIndex": 1,
-        "explanation": "Two actions are joined: pick up and return."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "enjoyment",
-          "enjoyable",
-          "enjoy",
-          "enjoyed"
+          "and",
+          "yet"
         ],
         "answerIndex": 2,
-        "explanation": "After 'and' following an imperative-like 'Reserve', the base form is used."
-      }
-    ]
-  },
-  {
-    "id": "p6-074",
-    "documentType": "text_message",
-    "text": "Hi Mr. Delgado, this is Carla from Sunrise Dental. We have an [1] on Thursday at 9:30 a.m. for you. [2] Please reply YES to confirm or call us at 555-0124 to reschedule. If we do not hear from you by Wednesday noon, we will give your time slot to [3] patient. A reminder: please arrive ten minutes early to [4] a medical history form.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "appointed",
-          "appointment",
-          "appointing",
-          "appoint"
-        ],
-        "answerIndex": 1,
-        "explanation": "A noun is needed after 'an'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Our clinic will close for the summer holiday.",
-          "Toothpaste is sold at the front desk.",
-          "Dr. Chen has joined a new practice.",
-          "This is a reminder of your six-month checkup."
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence explains the reason for the message and precedes the request for confirmation."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "other",
-          "others",
-          "the others",
-          "another"
-        ],
-        "answerIndex": 3,
-        "explanation": "'Another' goes with a singular noun to mean 'a different'."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "compete",
-          "complete",
-          "compose",
-          "compare"
-        ],
-        "answerIndex": 1,
-        "explanation": "One 'completes' a form, meaning one fills it out."
-      }
-    ]
-  },
-  {
-    "id": "p6-075",
-    "documentType": "article",
-    "text": "Local Theater Celebrates 50 Years\n\nThe Maple Street Theater will mark its fiftieth anniversary this weekend with a special performance of its first-ever production, The Last Train. [1] Tickets for the event [2] out within two days of going on sale. The theater, which began as a small community group, has since become one of the most [3] cultural venues in the region. Director Paula Greene said she hopes the celebration will inspire [4] generation of young actors.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "The city plans to build a new parking garage.",
-          "Many of the original cast members will return to the stage for the occasion.",
-          "Ticket prices for movies have increased.",
-          "The mayor will attend a business conference."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence gives details about the special performance, before the sale of tickets."
-      },
-      {
-        "blank": 2,
-        "category": "grammar",
-        "choices": [
-          "sell",
-          "selling",
-          "sells",
-          "sold"
-        ],
-        "answerIndex": 3,
-        "explanation": "A simple past is needed: 'tickets sold out'."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "respected",
-          "respecting",
-          "respect",
-          "respectfully"
-        ],
-        "answerIndex": 0,
-        "explanation": "'The most respected' is a superlative adjective."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "other",
-          "another",
-          "others",
-          "few"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Another generation' is the singular expression meaning 'a new one'."
-      }
-    ]
-  },
-  {
-    "id": "p6-076",
-    "documentType": "web_page",
-    "text": "Shipping FAQ\n\nHow long does delivery take? Standard delivery takes three to five business days. Express delivery, which is [1] for an additional $12, takes one to two days. [2] Do you ship internationally? Yes, we currently ship to over fifty countries. Customs fees [3] by the recipient and are not included in the product price. Can I change my address after ordering? [4] your order has not yet shipped, you can update the address from your account page.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "valuable",
-          "available",
-          "avoidable",
-          "applicable"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Available for an additional fee' means that the option can be chosen."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Orders placed after 3 p.m. are processed the next business day.",
-          "Our customer service team has recently expanded.",
-          "The warehouse is located near a major port.",
-          "Gift cards cannot be exchanged for cash."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence completes the answer about delivery time."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "are paid",
-          "pay",
-          "have paying",
-          "paying"
-        ],
-        "answerIndex": 0,
-        "explanation": "The passive voice is needed: fees are paid by the recipient."
+        "explanation": "The second clause adds a further requirement."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
+          "Because",
           "Unless",
-          "As long as",
-          "Whether",
+          "Until",
           "Although"
         ],
-        "answerIndex": 1,
-        "explanation": "The address can be changed on the condition that the order has not shipped."
+        "answerIndex": 3,
+        "explanation": "'Although' concedes the shift work and reassures about advance notice."
       }
     ]
   },
   {
-    "id": "p6-077",
-    "documentType": "letter",
-    "text": "Dear Ms. Alvarez,\n\nYour vehicle is ready for pickup. During the inspection, our technicians [1] that the front brake pads were badly worn, so we replaced them as you authorized. [2] The total cost of the repair is $412, which includes parts and labor. You may collect your car any weekday between 8 a.m. and 5 p.m. Please remember [3] a valid photo ID. We [4] a 12-month warranty on all replaced parts.\n\nCentral Auto Service",
+    "id": "p6-295",
+    "documentType": "web_page",
+    "text": "Harmon Bikes – Warranty and Repairs\n\nAll Harmon bicycles are sold with a five-year warranty on the frame and a two-year warranty on components. [1] To make a claim, bring your bicycle and proof of purchase to any authorized dealer, [2] will assess the problem and arrange a repair or replacement. The warranty does not cover wear and tear, such as worn tires or brake pads, [3] damage resulting from accidents. We recommend that you have your bicycle inspected once a year to keep it in good [4]. Genuine Harmon parts are available through our dealers and online. Customers living outside the main service area may order parts directly, and these will be delivered within five working days.",
     "questions": [
       {
         "blank": 1,
-        "category": "vocabulary",
+        "category": "sentence_insertion",
         "choices": [
-          "discharged",
-          "discovered",
-          "disagreed",
-          "discounted"
+          "Both warranties begin on the date of purchase and apply to the original owner only.",
+          "Harmon manufactures all of its frames in a single factory in the north of the country.",
+          "Our bicycles are available in more than twenty models, including electric versions for commuting.",
+          "Customers who register their bicycle online receive reminders when it is time for a service."
         ],
-        "answerIndex": 1,
-        "explanation": "Technicians 'discover' a problem during an inspection."
+        "answerIndex": 0,
+        "explanation": "The next sentence explains how to make a claim, so the preceding one provides warranty terms."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
+        "category": "grammar",
         "choices": [
-          "The garage is closed on Sundays.",
-          "No other problems were found.",
-          "Winter tires are on sale this month.",
-          "Our mechanics wear uniforms."
+          "which",
+          "who",
+          "whom",
+          "whose"
         ],
         "answerIndex": 1,
-        "explanation": "The sentence concludes the inspection report before the cost is given."
+        "explanation": "'who' refers to the dealer, a person or business acting as a person, and is the subject of 'will assess'."
       },
       {
         "blank": 3,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "bringing",
-          "to bring",
-          "brought",
-          "bring"
+          "or",
+          "and",
+          "nor",
+          "but"
         ],
-        "answerIndex": 1,
-        "explanation": "'Remember to + verb' refers to a task to do in the future."
+        "answerIndex": 2,
+        "explanation": "'nor' continues the negative: the warranty does not cover wear nor damage."
       },
       {
         "blank": 4,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "offers",
-          "offering",
-          "offer",
-          "offered"
+          "conditioning",
+          "conditional",
+          "conditions",
+          "condition"
         ],
-        "answerIndex": 2,
-        "explanation": "The plural subject 'We' takes the base form."
+        "answerIndex": 3,
+        "explanation": "'in good condition' is the fixed phrase."
       }
     ]
   },
   {
-    "id": "p6-078",
-    "documentType": "email",
-    "text": "Subject: Launch event for the new Aria speaker\n\nDear partners,\n\nWe are excited to invite you to the launch of the Aria wireless speaker on Thursday, March 20, at our Madison Avenue showroom. [1] Guests will be able to test the product, meet its designers, and [2] exclusive discounts on pre-orders. Seating is limited, so please [3] your attendance by March 14. [4] you are unable to attend in person, a live stream will be available on our Web site.\n\nSincerely,\nThe Aria Team",
+    "id": "p6-296",
+    "documentType": "memo",
+    "text": "To: Department Heads\nFrom: George Alvarez, Director of Finance\nSubject: Travel policy update\n\nEffective October 1, the company's travel policy will be amended in several respects. Flights of less than four hours must be booked in economy class, [1] senior executives will continue to be eligible for premium cabins on longer routes. [2] Hotel rates will be capped at $180 per night in most cities, with a higher limit of $250 in New York, London, and Tokyo. Employees should use the approved booking tool, [3] it offers negotiated discounts that cannot be obtained elsewhere. Any trip that exceeds the budget approved by the department must be authorized in advance by the finance office. [4] these measures may appear restrictive, they are intended to reduce costs without preventing necessary travel.",
     "questions": [
       {
         "blank": 1,
-        "category": "sentence_insertion",
+        "category": "connector",
         "choices": [
-          "The showroom was recently painted.",
-          "The event starts at 6 p.m. and will end with a light dinner.",
-          "Madison Avenue is closed for repairs.",
-          "We will release our annual report in June."
+          "whereas",
+          "because",
+          "unless",
+          "so that"
         ],
-        "answerIndex": 1,
-        "explanation": "The sentence gives details about the event, followed by what guests can do."
+        "answerIndex": 0,
+        "explanation": "'whereas' contrasts economy for short flights with premium cabins on long ones."
       },
       {
         "blank": 2,
-        "category": "vocabulary",
+        "category": "sentence_insertion",
         "choices": [
-          "contain",
-          "retain",
-          "obtain",
-          "detain"
+          "Travel expenses rose by nearly fifteen percent last year, mainly because of an increase in international trips.",
+          "Accommodation must be booked through the same tool, and receipts will be required for all claims.",
+          "The company has signed an agreement with a major airline to supply discounted tickets to staff.",
+          "Employees who travel frequently may apply for membership in an airport lounge program at the company's expense."
         ],
-        "answerIndex": 2,
-        "explanation": "One 'obtains' discounts, meaning one gets them."
+        "answerIndex": 1,
+        "explanation": "The next sentence gives hotel rates, so the preceding sentence concerns accommodation."
       },
       {
         "blank": 3,
-        "category": "vocabulary",
+        "category": "connector",
         "choices": [
-          "conform",
-          "confine",
-          "confuse",
-          "confirm"
+          "unless",
+          "although",
+          "since",
+          "whereas"
         ],
-        "answerIndex": 3,
-        "explanation": "One 'confirms' attendance, meaning one confirms that one will come."
+        "answerIndex": 2,
+        "explanation": "The tool offers discounts, which is the reason for using it."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "If",
-          "Unless",
           "Because",
-          "Since"
-        ],
-        "answerIndex": 0,
-        "explanation": "The live stream is the alternative if someone cannot attend."
-      }
-    ]
-  },
-  {
-    "id": "p6-079",
-    "documentType": "notice",
-    "text": "Annual Tax Filing Reminder\n\nThe deadline for filing individual tax returns is April 15. Applications for extensions [1] before the deadline. [2] The Revenue Office will offer free filing assistance at the public library every Wednesday from 4 to 7 p.m. beginning in March. Please bring all relevant documents, [3] last year's return, income statements, and receipts for deductible expenses. Late filings are subject to a penalty [4] 5 percent of the unpaid tax per month.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "must submit",
-          "must be submitted",
-          "must submitting",
-          "must to submit"
-        ],
-        "answerIndex": 1,
-        "explanation": "The subject 'Applications' needs a passive verb."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Those who file electronically will receive their refunds sooner.",
-          "The library is open on weekends.",
-          "Tax rates will be reviewed next year.",
-          "Public transport is free for seniors."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence encourages electronic filing and precedes the offer of filing assistance."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "include",
-          "including",
-          "included",
-          "includes"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Including' introduces the examples of documents."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "of",
-          "on",
-          "by",
-          "at"
-        ],
-        "answerIndex": 0,
-        "explanation": "'A penalty of' gives the amount."
-      }
-    ]
-  },
-  {
-    "id": "p6-080",
-    "documentType": "email",
-    "text": "Dear Mr. Kapoor,\n\nThank you for your interest in the Datalink inventory system. We would be delighted to arrange a free demonstration for your team. [1] The session usually takes about an hour and can be held at your office or online. Could you please let us know which date works [2] you? We have openings on March 11, 12, and 14. Once we have [3] a date, I will send you a calendar invitation. If you have any [4] in advance, feel free to e-mail them to me.\n\nKind regards,\nLisa Moreno",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "The system is available in three languages.",
-          "A product specialist will present the main features and answer your questions.",
-          "Our office will be closed on Monday.",
-          "Your invoice has been paid in full."
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence describes the demonstration and precedes the practical details."
-      },
-      {
-        "blank": 2,
-        "category": "grammar",
-        "choices": [
-          "to",
-          "with",
-          "for",
-          "at"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Works for you' means 'is convenient for you'."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "confirming",
-          "confirm",
-          "confirms",
-          "confirmed"
+          "Unless",
+          "Until",
+          "Although"
         ],
         "answerIndex": 3,
-        "explanation": "The present perfect 'we have confirmed' needs a past participle."
+        "explanation": "'Although' concedes the apparent restriction."
+      }
+    ]
+  },
+  {
+    "id": "p6-297",
+    "documentType": "review",
+    "text": "Customer Review: Elmwood Dental Practice\n\nI had been avoiding the dentist for years, so I was nervous about my first visit to Elmwood. [1] The receptionist greeted me warmly, and I was seen within five minutes of my appointment time. Dr. Foster explained each stage of the examination [2] I asked her to. She identified two small cavities and recommended treatment but did not pressure me to decide immediately. [3] the clinic is slightly more expensive than others in the area, the care is gentle and thorough. The only disappointment was the waiting room, where the magazines were several years [4]. I have already booked my next check-up.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "My fears were soon put to rest by the friendly and professional manner of everyone I met there.",
+          "The clinic is located above a pharmacy and is reached by a lift or by a short flight of stairs.",
+          "Appointments can be booked online, and reminders are sent by text message two days before the visit.",
+          "The practice has been operating for almost thirty years and has treated several generations of local families."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins with the receptionist, so the preceding one gives the reviewer's reaction."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "before",
+          "although",
+          "whereas"
+        ],
+        "answerIndex": 1,
+        "explanation": "Dr. Foster explained each stage before she was asked: 'before I asked her to'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Until"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although' concedes the price before praising the care."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "questioned",
-          "questioning",
-          "questions",
-          "questionable"
+          "older",
+          "oldest",
+          "aged",
+          "old"
+        ],
+        "answerIndex": 3,
+        "explanation": "'several years old' is the structure for describing the age of something."
+      }
+    ]
+  },
+  {
+    "id": "p6-298",
+    "documentType": "form",
+    "text": "Event Booking Request – Corvin Conference Center\n\nPlease complete all sections of this form [1] you wish to reserve a room for an event. Requests should be submitted at least six weeks before the proposed date, [2] we cannot guarantee availability for shorter periods. State the number of participants as accurately as possible, as this determines the room that will be allocated. [3] If your event requires catering, equipment, or special access arrangements, please give details in the space provided. A member of our events team will contact you within three working days to confirm [4] your request has been accepted. A deposit of 20 percent will be required to secure the booking.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "if",
+          "unless",
+          "although",
+          "whereas"
+        ],
+        "answerIndex": 0,
+        "explanation": "The form is to be completed if one wishes to reserve a room; 'if' sets the condition."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "although",
+          "as",
+          "unless",
+          "so that"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence gives the reason for the six-week lead time."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our largest hall accommodates up to five hundred people and is equipped with simultaneous interpretation facilities.",
+          "The center is located close to the airport and has direct bus links to the city every twenty minutes.",
+          "Rooms are allocated on a first-come basis and cannot be held for more than seven days without a deposit.",
+          "Catering is provided by a local company that offers vegetarian, vegan, and gluten-free menus."
         ],
         "answerIndex": 2,
-        "explanation": "A plural noun is needed after 'any'."
+        "explanation": "The next sentence concerns the room allocated, so the preceding sentence discusses allocation."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "that",
+          "unless",
+          "which",
+          "whether"
+        ],
+        "answerIndex": 3,
+        "explanation": "'whether' introduces the alternative: accepted or not."
       }
     ]
   }

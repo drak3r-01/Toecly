@@ -1,441 +1,441 @@
 [
   {
-    "id": "p6-009",
-    "documentType": "invoice",
-    "text": "INVOICE No. 2045\nDate: July 9\nBilled to: Hartman Design Studio\n\nThank you for your business. This invoice covers the printing of 500 brochures and 200 posters. Payment is [1] within 30 days of the invoice date. [2] A late fee of 2 percent will be added to any balance that remains unpaid after that period. Payments can be made [3] bank transfer or credit card. If you have questions about any charge, please [4] our accounts department at 555-0178.",
+    "id": "p6-206",
+    "documentType": "letter",
+    "text": "Dear Ms. Alvarez,\n\nThank you for your application for the position of regional sales manager. After careful consideration, we would like to invite you to a second interview at our headquarters on Tuesday, June 10. [1] You will meet the vice president of operations and two members of the sales team, who will [2] you about your approach to building long-term client relationships. Please note that the company will cover the cost of your travel, [3] you submit the receipts within thirty days of the visit. If the proposed date is inconvenient, kindly reply by Friday so that we may propose an alternative. [4] we have received a large number of strong applications, we are unable to hold the interview slot beyond that day. We look forward to speaking with you again.\n\nSincerely,\nPaul Henley\nHuman Resources",
     "questions": [
       {
         "blank": 1,
-        "category": "vocabulary",
+        "category": "sentence_insertion",
         "choices": [
-          "owing",
-          "dues",
-          "due",
-          "duly"
+          "The session is expected to last approximately three hours, including a short tour of the main distribution facility.",
+          "Your first interview impressed the panel, particularly your wide experience with major clients in the retail sector.",
+          "The sales team has doubled in size over the past two years and now serves customers in six countries.",
+          "Candidates who are offered positions are normally asked to begin work within four weeks of acceptance."
         ],
-        "answerIndex": 2,
-        "explanation": "'Payment is due' means it must be paid by that time."
+        "answerIndex": 0,
+        "explanation": "The next sentence describes who she will meet during the visit, so the previous one should give the practical details of the visit itself."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Please make sure that payment reaches us before the due date.",
-          "The brochures were designed by a freelance artist.",
-          "Our company holiday party will be held in December.",
-          "The warehouse is located near the airport."
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence asks for on-time payment and leads into the late fee mentioned next."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "on",
-          "at",
-          "from",
-          "by"
-        ],
-        "answerIndex": 3,
-        "explanation": "'By bank transfer' expresses the means of payment."
-      },
-      {
-        "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "connect",
-          "contract",
-          "conduct",
-          "contact"
-        ],
-        "answerIndex": 3,
-        "explanation": "One 'contacts' a department to ask questions."
-      }
-    ]
-  },
-  {
-    "id": "p6-010",
-    "documentType": "email",
-    "text": "Dear passengers,\n\nDue to severe weather, Flight 218 to Boston has been [1] from 2:15 p.m. to 6:40 p.m. [2] We apologize for the delay and have arranged meal vouchers, which can be collected at Gate 12. Passengers who wish to change their flight will be rebooked [3] charge on the next available departure. Please check the airport's display screens regularly, [4] gate assignments may change without notice.\n\nSkyline Airways Customer Care",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "reserved",
-          "rescheduled",
-          "received",
-          "resumed"
+          "request",
+          "question",
+          "remark",
+          "inform"
         ],
         "answerIndex": 1,
-        "explanation": "'Rescheduled from one time to another' matches the change of departure time."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The cafeteria will be closed for renovations.",
-          "Baggage fees have increased by ten percent.",
-          "Our frequent-flyer program has a new logo.",
-          "Your new boarding time will be 6:05 p.m."
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence follows the new departure time and gives the consequence for passengers."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "except",
-          "unless",
-          "without",
-          "besides"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Without charge' means free of charge."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "unless",
-          "although",
-          "whereas",
-          "since"
-        ],
-        "answerIndex": 3,
-        "explanation": "Gate changes are the reason for checking the screens, so a cause connector is needed."
-      }
-    ]
-  },
-  {
-    "id": "p6-011",
-    "documentType": "notice",
-    "text": "NOTICE: Library Hours\n\nBeginning Monday, September 1, the Eastside Public Library will [1] new opening hours. The library will open at 9 a.m. and close at 8 p.m. on weekdays. [2] On Saturdays, hours will remain from 10 a.m. to 4 p.m., and the library will be closed on Sundays. Members who wish to borrow books [3] a valid library card. Overdue items are subject to a fine [4] fifty cents per day.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "adopt",
-          "adapt",
-          "adjoin",
-          "adhere"
-        ],
-        "answerIndex": 0,
-        "explanation": "'Adopt new hours' means to start using them; 'adapt' would need 'to'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The children's section has been painted a new color.",
-          "The mayor will give a speech on Friday.",
-          "Parking at City Hall is free for residents.",
-          "These changes are meant to serve residents who work during the day."
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence explains the reason for the new weekday hours just announced."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "must present",
-          "must presenting",
-          "must presented",
-          "must to present"
-        ],
-        "answerIndex": 0,
-        "explanation": "A modal verb is followed by the base form."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "of",
-          "on",
-          "by",
-          "as"
-        ],
-        "answerIndex": 0,
-        "explanation": "'A fine of fifty cents' states the amount of the fine."
-      }
-    ]
-  },
-  {
-    "id": "p6-012",
-    "documentType": "review",
-    "text": "★★★★☆ Great food, slow service\n\nMy colleagues and I had lunch at Casa Verde last Friday, and the food was [1] delicious. The grilled salmon was cooked perfectly, and the vegetables were fresh. [2] We waited nearly forty minutes for our main courses, [3] the restaurant was not especially crowded. The waiter was polite and apologized several times. I would [4] return for the food, but I hope the service improves.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "absolute",
-          "absolutes",
-          "absoluteness",
-          "absolutely"
-        ],
-        "answerIndex": 3,
-        "explanation": "An adverb is needed to modify the adjective 'delicious'."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "As a result, we ordered dessert twice.",
-          "Therefore, the prices were very reasonable.",
-          "In addition, the flight arrived on time.",
-          "However, the service was disappointing."
-        ],
-        "answerIndex": 3,
-        "explanation": "The next sentence describes a long wait, which contrasts with the praise for the food."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "because",
-          "although",
-          "unless",
-          "so"
-        ],
-        "answerIndex": 1,
-        "explanation": "The long wait is surprising given the restaurant was not crowded: a contrast."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "certain",
-          "certainty",
-          "certainly",
-          "certify"
-        ],
-        "answerIndex": 2,
-        "explanation": "An adverb is needed between the modal 'would' and the verb."
-      }
-    ]
-  },
-  {
-    "id": "p6-013",
-    "documentType": "online_chat",
-    "text": "Support Agent (10:02): Thank you for contacting TechAid. How can I help you today?\nCustomer (10:03): My printer [1] connect to the office network since this morning.\nSupport Agent (10:04): I'm sorry to hear that. [2]\nCustomer (10:06): It says 'offline'. I have already restarted it twice.\nSupport Agent (10:07): Thanks. Please [3] the printer's network cable and plug it back in. If the problem [4], I will send a technician this afternoon.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "was unable to",
-          "would be unable to",
-          "has been unable to",
-          "had been unable to"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Since this morning' requires the present perfect."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Can you tell me what message appears on its display?",
-          "We will send you a replacement next week.",
-          "Our office is open until 6 p.m.",
-          "Thank you for your recent purchase."
-        ],
-        "answerIndex": 0,
-        "explanation": "The customer answers with the message shown on the printer, so the agent must have asked about it."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "unplug",
-          "unwrap",
-          "unlock",
-          "unload"
-        ],
-        "answerIndex": 0,
-        "explanation": "The cable is removed, then 'plugged back in'."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "persist",
-          "persisting",
-          "persists",
-          "persisted"
-        ],
-        "answerIndex": 2,
-        "explanation": "A third-person singular present verb is needed after 'If the problem'."
-      }
-    ]
-  },
-  {
-    "id": "p6-014",
-    "documentType": "form",
-    "text": "Employee Training Registration – Confirmation\n\nThank you for registering for the Workplace Safety course. This course is [1] for all new employees and must be completed within their first month. [2] The session will take place in Conference Room B on Wednesday, April 16, from 9 a.m. to noon. Participants are asked to arrive fifteen minutes early [3] they can sign in. Certificates will be issued [4] completion of the course.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "optional",
-          "mandatory",
-          "temporary",
-          "rare"
-        ],
-        "answerIndex": 1,
-        "explanation": "The course 'must be completed', so it is mandatory."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "Your vacation request has been denied.",
-          "The new parking lot opens next month.",
-          "Please submit your tax forms by April 1.",
-          "Your place in the next available session has been reserved."
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence confirms the registration and introduces the session details that follow."
+        "explanation": "'Question someone about' is the verb that fits an interview; 'inform' would need a different structure."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
           "as soon as",
-          "as long as",
-          "in case of",
-          "so that"
+          "even though",
+          "provided that",
+          "rather than"
         ],
-        "answerIndex": 3,
-        "explanation": "'So that' introduces the purpose of arriving early."
+        "answerIndex": 2,
+        "explanation": "The reimbursement is conditional on submitting receipts, which 'provided that' expresses."
       },
       {
         "blank": 4,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "onto",
-          "within",
-          "beside",
-          "upon"
+          "Unless",
+          "Although",
+          "Whether",
+          "Because"
         ],
         "answerIndex": 3,
-        "explanation": "'Upon completion' means 'as soon as the course is completed'."
+        "explanation": "The clause gives the reason for the deadline: there are many strong applications."
       }
     ]
   },
   {
-    "id": "p6-015",
-    "documentType": "memo",
-    "text": "MEMO\nTo: All employees\nFrom: IT Department\nSubject: Password policy\n\nStarting next month, all employees will be required to [1] their passwords every 90 days. New passwords must contain at least ten characters, including one number and one symbol. [2] Passwords should never be shared with colleagues or written on paper. The IT Department will send an e-mail reminder [3] days before each password expires. Employees who need assistance [4] visit the help desk on the second floor.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "transfer",
-          "protest",
-          "change",
-          "invite"
-        ],
-        "answerIndex": 2,
-        "explanation": "Passwords are 'changed' regularly."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The cafeteria will serve lunch from noon.",
-          "The next staff meeting will be held on Monday.",
-          "Parking passes are available at the front desk.",
-          "These rules are designed to protect confidential company data."
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence gives the purpose of the policy and leads into the security advice that follows."
-      },
-      {
-        "blank": 3,
-        "category": "grammar",
-        "choices": [
-          "much",
-          "every",
-          "each",
-          "several"
-        ],
-        "answerIndex": 3,
-        "explanation": "'Days' is plural countable, so 'several' is the only possible quantifier."
-      },
-      {
-        "blank": 4,
-        "category": "grammar",
-        "choices": [
-          "are welcomed to",
-          "welcome to",
-          "are welcome to",
-          "are welcoming to"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Be welcome to + verb' is the fixed expression for an invitation."
-      }
-    ]
-  },
-  {
-    "id": "p6-016",
-    "documentType": "schedule",
-    "text": "Airport Shuttle Schedule\n\nShuttles depart from Terminal 2 every thirty minutes from 6:00 a.m. to 10:00 p.m. [1] the hotel is close to the airport, the ride takes only about twenty minutes. [2] Guests may reserve a seat at the front desk or [3] calling extension 0. Please note that the schedule is [4] to change during public holidays.",
+    "id": "p6-207",
+    "documentType": "advertisement",
+    "text": "Introducing the Meridian Pro Laptop Bag\n\nBuilt for professionals who spend their days in transit, the Meridian Pro combines a lightweight frame with exceptional storage. Its water-resistant fabric protects your devices from sudden weather changes, [1] a padded compartment holds computers of up to seventeen inches. [2] Two removable pouches keep cables, chargers, and documents organized, so you never waste time searching at the airport security line. Unlike many competing models, the Meridian Pro is covered by a five-year warranty, which is [3] by a dedicated customer service team. For a limited time, customers who order online will receive a free travel wallet. Orders must be [4] before the end of the month to qualify for the offer. Visit meridianbags.example to see the full collection.",
     "questions": [
       {
         "blank": 1,
         "category": "connector",
         "choices": [
-          "Unless",
-          "Although",
-          "Because",
-          "Whether"
+          "while",
+          "because",
+          "unless",
+          "once"
         ],
-        "answerIndex": 2,
-        "explanation": "The short ride is the result of the hotel being close to the airport."
+        "answerIndex": 0,
+        "explanation": "The sentence presents two simultaneous features of the bag; 'while' links them."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Seats are limited, so we recommend reserving in advance.",
-          "Breakfast is served between 6 and 10 a.m.",
-          "The elevator is out of service today.",
-          "Room rates include all taxes."
+          "Many travelers prefer bags with wheels because they reduce the strain on the shoulders during long trips through large airports.",
+          "Inside, the interior has been designed so that everyday essentials remain accessible without opening the main section.",
+          "Customers who purchased the previous edition can upgrade at a reduced price until the end of the year.",
+          "The company's designers have studied the habits of business travelers in more than twenty major airports."
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence explains how to reserve a seat, which follows the advice to reserve."
+        "answerIndex": 1,
+        "explanation": "The next sentence describes pouches inside the bag, so the previous sentence must introduce the interior organization."
       },
       {
         "blank": 3,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "in",
-          "at",
-          "on",
-          "by"
+          "blocked",
+          "packed",
+          "backed",
+          "marked"
         ],
-        "answerIndex": 3,
-        "explanation": "'By calling' expresses the means of reserving."
+        "answerIndex": 2,
+        "explanation": "A warranty is 'backed' by a service team, meaning supported by it."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "subjected",
-          "subject",
-          "subjecting",
-          "subjection"
+          "placing",
+          "placement",
+          "to place",
+          "placed"
+        ],
+        "answerIndex": 3,
+        "explanation": "'must be placed' is the passive form required after 'must be'."
+      }
+    ]
+  },
+  {
+    "id": "p6-208",
+    "documentType": "web_page",
+    "text": "Riverside Community Center – Volunteer Opportunities\n\nOur center serves more than four hundred families each month, and we rely on volunteers to keep our programs running. Whether you have two hours or twenty to give, there is a role that suits your skills. Evening tutors help students in grades six through nine with homework and exam preparation. [1] Weekend volunteers sort and distribute donated food, a task that requires no special training but does demand reliability. All volunteers must complete a short orientation, [2] they begin their first shift. [3], those who work with children are required to pass a background check, which the center will arrange free of charge. We recognize that schedules change, so we ask only that you [4] us at least twenty-four hours in advance if you cannot attend. Apply online using the form below.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Those with experience in mathematics or science are especially welcome, as demand in these subjects has grown sharply.",
+          "Several students have asked whether the center could offer additional language courses during the summer months.",
+          "Evening programs are held in the main hall, which was renovated with a grant from the city last spring.",
+          "The tutoring schedule is posted each Monday at the entrance and updated whenever a teacher is absent."
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence adds a specific profile for tutors and fits between the description of tutoring and the next role, weekend volunteers."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "before",
+          "whereas",
+          "since"
         ],
         "answerIndex": 1,
-        "explanation": "'Subject to change' is a fixed expression."
+        "explanation": "The orientation must be finished before the first shift starts."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Otherwise",
+          "Instead",
+          "In addition",
+          "Meanwhile"
+        ],
+        "answerIndex": 2,
+        "explanation": "The background check is an additional requirement on top of the orientation."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "notice",
+          "note",
+          "denote",
+          "notify"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Notify us' means to inform us; 'notice' means to observe."
+      }
+    ]
+  },
+  {
+    "id": "p6-209",
+    "documentType": "text_message",
+    "text": "Hi Carla, it's Joaquin from the events team. I just heard from the venue that the projector in Hall C will not be [1] until Thursday afternoon, which is a problem because Wednesday's product demonstration depends on it. [2] They have offered us the smaller room on the second floor, but it seats only sixty guests, and we expect nearly ninety. I'd rather not cancel the registrations of the last thirty people, [3] I'm looking into renting a portable projector for Hall C instead. The rental company says it can deliver by noon on Wednesday, [4] we would still have enough time to test it before guests arrive. Could you approve the extra cost of about $400 today? I need an answer by 5 p.m. to confirm the booking. Thanks!",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "repaired",
+          "reported",
+          "repeated",
+          "replied"
+        ],
+        "answerIndex": 0,
+        "explanation": "A broken projector is 'repaired'; the other verbs do not fit the meaning."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The demonstration will include several new features that have not been shown to customers before.",
+          "The manager has apologized for the inconvenience and says that the technician is unable to visit before then.",
+          "The projector in Hall C was installed only last year and had not shown any previous signs of malfunction.",
+          "Nearly forty of the invited guests have confirmed that they will be bringing colleagues to the event."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence begins with 'They have offered', so the previous sentence must introduce the venue as the subject."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "but",
+          "or",
+          "so",
+          "for"
+        ],
+        "answerIndex": 2,
+        "explanation": "The speaker draws a conclusion from the problem and acts on it."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "as long as",
+          "in case",
+          "even if",
+          "which means"
+        ],
+        "answerIndex": 3,
+        "explanation": "'which means' introduces the result of the early delivery."
+      }
+    ]
+  },
+  {
+    "id": "p6-210",
+    "documentType": "review",
+    "text": "Review: Harborview Hotel, Lisbon – ★★★★\n\nI stayed at the Harborview for five nights during a conference, and on the whole the experience was excellent. The location is hard to beat: the convention center is a ten-minute walk away, and several good restaurants are nearby. [1] The room was spacious and quiet, with a desk large enough to work at comfortably. Check-in was quick, [2] the staff took more than half an hour to deal with a billing mistake on my last morning. [3] the breakfast buffet was impressive, it became crowded by eight o'clock, so I recommend arriving early. Wi-Fi was reliable in the rooms but patchy in the lobby, which is a [4] for anyone planning to hold meetings there. I would gladly return, and I would suggest asking for a room on an upper floor to avoid street noise.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Despite its central position, the building is set back from the main road, which keeps noise to a minimum.",
+          "The hotel was built in the early twentieth century and has been carefully restored by a well-known local architect.",
+          "Most guests at the property seem to be business travelers who attend events at the convention center.",
+          "Several tourists mentioned that taxis are difficult to find in the area after midnight."
+        ],
+        "answerIndex": 0,
+        "explanation": "The following sentence praises the quiet room, so a sentence about noise being kept low prepares it."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "so",
+          "but",
+          "or",
+          "because"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence contrasts quick check-in with the long delay at departure."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Because",
+          "Although",
+          "Until"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although' introduces the positive point that is then qualified by crowding."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "reward",
+          "feature",
+          "benefit",
+          "drawback"
+        ],
+        "answerIndex": 3,
+        "explanation": "Patchy Wi-Fi is described as a disadvantage, a 'drawback'."
+      }
+    ]
+  },
+  {
+    "id": "p6-211",
+    "documentType": "form",
+    "text": "Equipment Return Form – Vantage Rentals\n\nPlease complete this form when returning any item rented from our workshop. Your contract states that equipment must be returned [1] the date shown on your receipt, and late returns are charged at a daily rate. [2] Before handing over the item, please clean it and remove any accessories you added yourself. A technician will then inspect it for damage. If the item is in good condition, your deposit will be refunded to the original payment method within five business days. [3] damage is found, the cost of repair will be deducted from your deposit, and you will be contacted [4] to discuss the options. Customers who disagree with an assessment may request a second inspection by a different technician, free of charge.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "by",
+          "at",
+          "during",
+          "since"
+        ],
+        "answerIndex": 0,
+        "explanation": "'by the date' expresses a deadline; the other prepositions do not fit."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Rental charges are calculated per day and can be reduced if equipment is reserved well in advance of the weekend.",
+          "Items returned dirty or with missing parts will be treated as damaged under your contract.",
+          "Our workshop is open from eight to six on weekdays, and until noon on Saturdays for urgent returns.",
+          "Customers may extend their rental by telephone provided that the item has not been reserved by others."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence explains the consequence of not cleaning, which is why the following request makes sense and links to the damage procedure."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Because",
+          "If",
+          "Although"
+        ],
+        "answerIndex": 2,
+        "explanation": "The condition clause with 'is found' needs 'If'; 'Unless' would reverse the meaning."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "prompt",
+          "promptness",
+          "prompting",
+          "promptly"
+        ],
+        "answerIndex": 3,
+        "explanation": "An adverb is needed to modify the passive verb 'will be contacted'."
+      }
+    ]
+  },
+  {
+    "id": "p6-212",
+    "documentType": "online_chat",
+    "text": "Support Agent: Thank you for contacting Northline Internet. How can I help?\nCustomer: My connection has been dropping every evening for a week. [1]\nSupport Agent: I'm sorry to hear that. Could you tell me whether the problem affects all devices or only one?\nCustomer: All of them. I have already restarted the router [2] it made no difference.\nSupport Agent: Thank you. Our records show that your area is currently being upgraded, which may [3] short interruptions in the evening. [4] I can't confirm that this is the cause, I can arrange a technician visit for Friday. Would that suit you?\nCustomer: Yes, but only after 3 p.m.\nSupport Agent: Of course. I have booked the appointment for 4 p.m. and sent you a confirmation by e-mail.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Since I work from home, the interruptions disrupt my video meetings and cost me valuable time.",
+          "Several of my neighbors use the same provider and have been very satisfied with the service so far.",
+          "The router was supplied by your company when I signed the contract last year and is still under warranty.",
+          "I would like to know whether there is a cheaper plan available for customers who use the internet much less often."
+        ],
+        "answerIndex": 0,
+        "explanation": "The agent then asks about the problem and acknowledges it; only the first option explains the complaint and its impact."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "so",
+          "but",
+          "and",
+          "or"
+        ],
+        "answerIndex": 1,
+        "explanation": "The restart was tried and did not help, which is a contrast."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "pause",
+          "clause",
+          "cause",
+          "cure"
+        ],
+        "answerIndex": 2,
+        "explanation": "Upgrades may 'cause' interruptions; 'pause' would not take 'short interruptions' as its object here."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Once",
+          "While"
+        ],
+        "answerIndex": 3,
+        "explanation": "'While' means although: the agent cannot confirm the cause but offers a visit."
+      }
+    ]
+  },
+  {
+    "id": "p6-213",
+    "documentType": "invoice",
+    "text": "INVOICE No. 4471 – Delmar Print & Design\n\nClient: Westfield Public Library\nProject: Annual report, 40 pages, 500 copies\n\nThank you for choosing Delmar Print & Design for your annual report. The total shown below includes design fees, printing, and delivery to your main branch. [1] A deposit of 30 percent was received on January 8 and has been deducted from the amount [2]. The balance is payable within thirty days of the invoice date; payments made after this period will be [3] to a late fee of 1.5 percent per month. If you would like to pay by bank transfer, our account details are printed at the foot of the page. [4] Should you notice any discrepancy, please contact our accounts department before the due date.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Any changes requested after the proofs were approved have been charged separately and are listed under \"Additional work\".",
+          "The library's annual report has been awarded a regional prize for the quality of its photographs and layout.",
+          "Delmar Print & Design has relocated its production facility to a larger building on the northern side of town, close to the main railway line.",
+          "We would be happy to prepare a quotation for next year's report as soon as your budget has been confirmed."
+        ],
+        "answerIndex": 0,
+        "explanation": "An invoice explains charges; the correct sentence clarifies how extra items appear, which relates to the total just mentioned."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "owing",
+          "due",
+          "payable",
+          "owed"
+        ],
+        "answerIndex": 1,
+        "explanation": "'the amount due' is the fixed expression for the sum still to be paid."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "liable",
+          "related",
+          "subject",
+          "subjected"
+        ],
+        "answerIndex": 2,
+        "explanation": "'subject to a late fee' is the fixed expression; 'subjected' needs a different structure."
+      },
+      {
+        "blank": 4,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our designers have worked with many public institutions and are familiar with their reporting requirements.",
+          "Printed copies were delivered on January 22 to the main branch loading dock and signed for by a staff member.",
+          "The cost of paper has increased since last autumn, and we expect prices to remain high for several months.",
+          "All figures are expressed in euros and include value-added tax at the rate currently in force."
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence completes the payment information at the foot of the invoice and precedes the call to contact accounts about discrepancies."
       }
     ]
   }
