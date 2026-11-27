@@ -1,21 +1,23 @@
 import 'package:material_ui/material_ui.dart';
 
-/// Toecly palette, taken from the green and orange book of the logo (the blue stays in the logo only).
+/// Toecly palette: warm sunshine tones (yellow, amber, orange, coral) on
+/// cream, plus one small teal accent. The blue of the logo stays in the logo.
 class BrandColors {
   const BrandColors._();
 
-  static const Color lime = Color(0xFF7DF53A);
-  static const Color green = Color(0xFF1FC96F);
-  static const Color teal = Color(0xFF05A88A);
-  static const Color forest = Color(0xFF0B7A46);
-  static const Color orange = Color(0xFFFF7A1A);
+  static const Color sun = Color(0xFFFFC53D);
+  static const Color amber = Color(0xFFFFA62B);
+  static const Color orange = Color(0xFFF2780C);
+  static const Color coral = Color(0xFFFF6B5E);
+  static const Color teal = Color(0xFF2BB5A0);
 
-  /// Forest night behind the splash and the dark theme.
-  static const Color ink = Color(0xFF08201A);
-  static const Color inkRaised = Color(0xFF0F2F26);
+  static const Color cream = Color(0xFFFFF8EE);
+  static const Color peach = Color(0xFFFFE3C4);
 
-  static const LinearGradient wordmarkGradient = LinearGradient(colors: [lime, teal, orange]);
+  /// Warm browns, for text and the dark theme.
+  static const Color cocoa = Color(0xFF241810);
+  static const Color cocoaRaised = Color(0xFF33241A);
 
-  /// One accent per TOEIC part, reused on the dashboard and in the quiz.
-  static const List<Color> partAccents = [green, orange, teal];
+  /// One accent per TOEIC part, reused on the dashboard.
+  static const List<Color> partAccents = [amber, coral, teal];
 }

@@ -73,6 +73,7 @@ class _SplashContent extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
     final logoReveal = CurvedAnimation(parent: animation, curve: const Interval(0, 0.55));
     return AnimatedBuilder(
       animation: animation,
@@ -82,11 +83,13 @@ class _SplashContent extends StatelessWidget {
         return Opacity(opacity: fade, child: child);
       },
       child: DecoratedBox(
-        decoration: const BoxDecoration(
+        decoration: BoxDecoration(
           gradient: RadialGradient(
-            center: Alignment(-0.4, -0.6),
+            center: const Alignment(0.5, -0.7),
             radius: 1.3,
-            colors: [BrandColors.inkRaised, BrandColors.ink],
+            colors: isDark
+                ? const [BrandColors.cocoaRaised, BrandColors.cocoa]
+                : [BrandColors.peach, BrandColors.cream],
           ),
         ),
         child: Center(
@@ -97,7 +100,7 @@ class _SplashContent extends StatelessWidget {
               const SizedBox(height: 28),
               AnimatedBuilder(
                 animation: animation,
-                builder: (context, _) => _Wordmark(progress: animation.value),
+                builder: (context, _) => _Wordmark(progress: animation.value, isDark: isDark),
               ),
             ],
           ),
@@ -108,16 +111,21 @@ class _SplashContent extends StatelessWidget {
 }
 
 class _Wordmark extends StatelessWidget {
-  const _Wordmark({required this.progress});
+  const _Wordmark({required this.progress, required this.isDark});
 
   final double progress;
+  final bool isDark;
 
   @override
   Widget build(BuildContext context) {
     const letters = 'Toecly';
     return ShaderMask(
       blendMode: BlendMode.srcIn,
-      shaderCallback: (bounds) => BrandColors.wordmarkGradient.createShader(bounds),
+      shaderCallback: (bounds) => LinearGradient(
+        colors: isDark
+            ? const [BrandColors.sun, BrandColors.amber, BrandColors.coral]
+            : const [BrandColors.orange, BrandColors.coral],
+      ).createShader(bounds),
       child: Row(
         mainAxisSize: MainAxisSize.min,
         children: [

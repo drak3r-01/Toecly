@@ -2,7 +2,7 @@ import 'package:material_ui/material_ui.dart';
 
 import '../../app/theme/brand_colors.dart';
 
-/// Soft green / teal / orange glows behind the app, painted once (no ticker).
+/// Soft yellow / peach / coral glows behind the app, painted once (no ticker).
 class BrandBackground extends StatelessWidget {
   const BrandBackground({super.key});
 
@@ -11,7 +11,7 @@ class BrandBackground extends StatelessWidget {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     return IgnorePointer(
       child: CustomPaint(
-        painter: _GlowPainter(strength: isDark ? 0.28 : 0.16),
+        painter: _GlowPainter(strength: isDark ? 0.16 : 0.45),
         size: Size.infinite,
       ),
     );
@@ -41,9 +41,9 @@ class _GlowPainter extends CustomPainter {
     }
 
     final longest = size.longestSide;
-    glow(Offset(size.width * 0.1, 0), longest * 0.45, BrandColors.green);
-    glow(Offset(size.width * 1.0, size.height * 0.55), longest * 0.35, BrandColors.teal);
-    glow(Offset(size.width * 0.2, size.height), longest * 0.35, BrandColors.orange);
+    glow(Offset(size.width * 0.1, 0), longest * 0.45, BrandColors.sun);
+    glow(Offset(size.width * 1.0, size.height * 0.55), longest * 0.35, BrandColors.peach);
+    glow(Offset(size.width * 0.2, size.height), longest * 0.35, BrandColors.coral);
   }
 
   @override

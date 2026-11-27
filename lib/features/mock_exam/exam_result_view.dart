@@ -65,32 +65,32 @@ class _ExamResultViewState extends State<ExamResultView> {
                     size: 88,
                     child: Text(
                       '${(session.successRate * 100).round()}%',
-                      style: theme.textTheme.titleLarge?.copyWith(color: Colors.white),
+                      style: theme.textTheme.titleLarge,
                     ),
                   ),
                   const SizedBox(width: 16),
                   Expanded(
                     child: Text(
                       l10n.quizSummaryScore(session.correctCount, session.totalQuestions),
-                      style: theme.textTheme.displaySmall?.copyWith(color: Colors.white),
+                      style: theme.textTheme.displaySmall,
                     ),
                   ),
                 ]),
                 const SizedBox(height: 16),
                 DefaultTextStyle.merge(
-                  style: const TextStyle(color: Colors.white),
+                  style: const TextStyle(),
                   child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                     Text(
                       '${l10n.estimatedScoreTitle}: ${l10n.estimatedScoreRange(range.min, range.max)}',
-                      style: theme.textTheme.titleMedium?.copyWith(color: Colors.white),
+                      style: theme.textTheme.titleMedium,
                     ),
                     Text(
                       '${l10n.estimatedTotalTitle}: ${l10n.estimatedTotalRange(range.doubled.min, range.doubled.max)}',
-                      style: theme.textTheme.titleMedium?.copyWith(color: Colors.white),
+                      style: theme.textTheme.titleMedium,
                     ),
                     Text(
                       l10n.estimatedScoreDisclaimer,
-                      style: theme.textTheme.bodySmall?.copyWith(color: Colors.white70),
+                      style: theme.textTheme.bodySmall,
                     ),
                     const SizedBox(height: 4),
                     Text(l10n.examTimeUsed(widget.used.inMinutes)),
