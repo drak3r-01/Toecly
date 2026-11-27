@@ -344,7 +344,7 @@
           "I would like to know whether there is a cheaper plan available for customers who use the internet much less often."
         ],
         "answerIndex": 0,
-        "explanation": "The agent then asks about the problem and acknowledges it; only the first option explains the complaint and its impact."
+        "explanation": "The agent then asks about the problem and acknowledges it; only the correct option explains the complaint and its impact."
       },
       {
         "blank": 2,
