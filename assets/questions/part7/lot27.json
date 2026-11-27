@@ -1,0 +1,422 @@
+[
+  {
+    "id": "p7-293",
+    "documents": [
+      {
+        "type": "article",
+        "title": "When a start-up refuses to grow",
+        "text": "In the language of venture capital, a business that does not seek rapid expansion is a failure of ambition. Yet a small but visible group of founders is deliberately rejecting that logic, building companies meant to stay modest, profitable and, above all, under their own control.\n\nTamsin Okafor, who runs a software firm of fourteen people, turned down two offers of investment in her first three years. \"Every investor wanted us to triple within eighteen months,\" she said. \"That would have meant hiring people we did not know and chasing customers we did not understand.\" Her company has grown by about ten percent annually, funded entirely from revenue, and has never lost a client.\n\nEconomists caution against drawing too broad a lesson. Businesses of this kind, they note, tend to thrive in niches where customers value reliability over novelty, such as accounting or logistics software. They are less likely to succeed in markets where a rival with deep pockets can undercut prices and wait. Moreover, founders who refuse outside money forgo the safety net that investors, for all their pressure, provide when a product fails.\n\nStill, the trend is revealing. It suggests that many entrepreneurs measure success not by the size of an eventual sale, but by the quality of the working life that the business allows them."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The rise of venture investors in software",
+          "A decline in profits among small firms",
+          "Founders who prefer independence to growth",
+          "The difficulty of hiring for new companies"
+        ],
+        "answerIndex": 2,
+        "explanation": "It describes founders rejecting investment to keep firms small and independent."
+      },
+      {
+        "prompt": "Why did Ms. Okafor refuse the investment offers?",
+        "category": "detail",
+        "choices": [
+          "Fast growth meant unknown staff",
+          "Her firm was already losing its clients",
+          "The investors wanted to change her product",
+          "She planned to sell the firm that year"
+        ],
+        "answerIndex": 0,
+        "explanation": "Tripling would have meant 'hiring people we did not know and chasing customers we did not understand'."
+      },
+      {
+        "prompt": "What do the economists imply?",
+        "category": "inference",
+        "choices": [
+          "Small firms always outperform large rivals",
+          "Investors rarely help a failing product",
+          "Reliable software is cheaper than novel software",
+          "Slow growth suits clients who want reliability"
+        ],
+        "answerIndex": 3,
+        "explanation": "Such businesses thrive where customers value reliability over novelty."
+      },
+      {
+        "prompt": "What does the final paragraph suggest about these founders?",
+        "category": "inference",
+        "choices": [
+          "They hope to be bought by a larger rival",
+          "They judge success by lifestyle, not price",
+          "They distrust all forms of software",
+          "They are less ambitious than other founders"
+        ],
+        "answerIndex": 1,
+        "explanation": "Success is measured by 'the quality of the working life', not the size of a sale."
+      }
+    ]
+  },
+  {
+    "id": "p7-294",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Request for clarification on the revised lease terms",
+        "text": "To: Estelle Marchetti, Property Manager, Corvale Estates\nFrom: Tobias Wren, Wren & Daughters Bakery\nSubject: Revised lease: three points needing clarification\n\nDear Ms. Marchetti,\n\nThank you for sending the revised lease for our premises on Canal Street. We are keen to renew, having traded there for eleven years, but before signing I should be grateful if you could clarify three matters on which the draft is unclear.\n\nFirst, clause 7 states that rent may be reviewed \"annually\", whereas our current agreement allows a review only every three years. If the new wording is intentional, we would like to know the basis on which increases will be calculated, since a bakery cannot easily absorb unpredictable changes.\n\nSecond, clause 12 makes the tenant responsible for \"all repairs to the structure\". We understand this to mean the interior, but the wording could be read to include the roof, which has leaked twice and which we have always regarded as the landlord's responsibility.\n\nThird, the draft omits our right to display the shop sign, which has hung above the door since 2014. I assume this is an oversight.\n\nI would be happy to discuss these points by telephone. Provided they can be resolved, we should be able to sign by the end of the month.\n\nYours sincerely,\nTobias Wren"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the email?",
+        "category": "purpose",
+        "choices": [
+          "To announce the closure of the bakery",
+          "To seek explanations before renewing",
+          "To complain about a leaking roof only",
+          "To propose a lower rent for the premises"
+        ],
+        "answerIndex": 1,
+        "explanation": "He asks for clarification of three points before signing."
+      },
+      {
+        "prompt": "What concern does he raise about clause 7?",
+        "category": "detail",
+        "choices": [
+          "Rent has been removed from the lease",
+          "The bakery must move premises",
+          "Reviews will occur every three years",
+          "Rent could now change every year"
+        ],
+        "answerIndex": 3,
+        "explanation": "The draft says 'annually' whereas the current agreement allows review every three years."
+      },
+      {
+        "prompt": "Why is clause 12 a problem?",
+        "category": "inference",
+        "choices": [
+          "It may make tenants liable for roofs",
+          "It forbids all repairs to the interior",
+          "It gives the landlord the shop sign",
+          "It was left out of the current deal text"
+        ],
+        "answerIndex": 0,
+        "explanation": "'All repairs to the structure' could be read to include the roof."
+      },
+      {
+        "prompt": "What does Mr. Wren suggest about the missing sign clause?",
+        "category": "inference",
+        "choices": [
+          "He plans to remove the sign next year",
+          "He thinks the landlord wants the sign removed",
+          "He believes the omission was accidental",
+          "He will refuse to sign the lease"
+        ],
+        "answerIndex": 2,
+        "explanation": "He writes, 'I assume this is an oversight.'"
+      }
+    ]
+  },
+  {
+    "id": "p7-295",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Public notice: closure of the Harbour footbridge",
+        "text": "PUBLIC NOTICE — HARBOUR FOOTBRIDGE\n\nThe city's Department of Transport wishes to inform the public that the Harbour footbridge will be closed to pedestrians and cyclists from Monday 3 March for a period of approximately eleven weeks.\n\nAn inspection carried out in January found corrosion in two of the supporting cables, and engineers have advised that the bridge should not carry load until the cables are replaced. Although the bridge remains safe for the moment, the department has chosen to act before the deterioration advances, since replacement during winter would have been impossible and further delay would risk a longer closure.\n\nDuring the closure, a free shuttle bus will operate between the Customs House stop and Pier Road every ten minutes from 6 a.m. to 10 p.m. The bus is fully accessible, and bicycles may be carried when space allows. Pedestrians may also use the Eastgate bridge, which adds roughly fifteen minutes to the journey.\n\nBusinesses on Pier Road should expect a reduction in footfall and are invited to a briefing on 20 February at the Customs House, where representatives of the department will outline compensation available to those who can show a loss of trade. Further information is available at the transport office or on the city's website."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why is the footbridge being closed?",
+        "category": "detail",
+        "choices": [
+          "The bridge has been damaged by a ship",
+          "Winter weather has weakened its surface",
+          "It is being widened for more cyclists",
+          "Supporting cables have started to rust"
+        ],
+        "answerIndex": 3,
+        "explanation": "Corrosion was found in two of the supporting cables."
+      },
+      {
+        "prompt": "What can be inferred about the timing of the closure?",
+        "category": "inference",
+        "choices": [
+          "The bridge is already unsafe to cross",
+          "Acting now avoids a longer closure",
+          "The work must be done during winter",
+          "The bridge will reopen again in January"
+        ],
+        "answerIndex": 1,
+        "explanation": "Further delay 'would risk a longer closure', and winter replacement was impossible."
+      },
+      {
+        "prompt": "What is true about the shuttle bus?",
+        "category": "not_true",
+        "choices": [
+          "It is accessible to wheelchair users",
+          "It sometimes carries bicycles in spare space",
+          "It runs only at morning and evening peaks",
+          "It stops at Pier Road and Customs House"
+        ],
+        "answerIndex": 2,
+        "explanation": "The bus runs every ten minutes from 6 a.m. to 10 p.m., not only at peak times."
+      },
+      {
+        "prompt": "What is offered to businesses on Pier Road?",
+        "category": "detail",
+        "choices": [
+          "News of compensation for lost sales",
+          "A free shuttle straight to their doors",
+          "A discount on their city taxes",
+          "Space for stalls on the Eastgate bridge"
+        ],
+        "answerIndex": 0,
+        "explanation": "They are invited to a briefing outlining compensation for those who show a loss of trade."
+      }
+    ]
+  },
+  {
+    "id": "p7-296",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Senior Archivist, Whitcombe Historical Society",
+        "text": "The Whitcombe Historical Society, an independent charity that has collected records of the region's industrial past since 1952, seeks a Senior Archivist to take charge of its collection of some forty thousand documents, photographs and ledgers.\n\nThe post is both custodial and creative. You will be responsible for the preservation and cataloguing of the collection, but we also expect you to find ways of bringing it to new audiences, through exhibitions, school programs and an expanded online presence. The Society recently received a grant to digitize its photographic holdings, and you will oversee that project and supervise two part-time assistants.\n\nWe are looking for a qualified archivist with at least eight years' experience, preferably in a small organization where one person is expected to do the work of three. Experience of raising funds will be a distinct advantage, as the Society depends on grants and donations for most of its income. We would also value a candidate who can speak to groups of volunteers, many of whom have known the collection far longer than any employee.\n\nThe salary is modest and the building is cold in winter, but the work offers real independence. Applicants should send a letter and a curriculum vitae, together with the names of two referees, to the Director by 28 February. Interviews will be held in the second week of March."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main goal of the advertisement?",
+        "category": "purpose",
+        "choices": [
+          "To recruit someone to manage a collection",
+          "To sell historical documents to the public",
+          "To announce a grant for photographers",
+          "To invite volunteers to a training course"
+        ],
+        "answerIndex": 0,
+        "explanation": "The job combines care of the collection with bringing it to audiences."
+      },
+      {
+        "prompt": "What will the new archivist supervise?",
+        "category": "detail",
+        "choices": [
+          "A team of full-time cataloguers abroad",
+          "A school in the nearby town of Whitcombe",
+          "A photo digitizing project and two aides",
+          "An exhibition at a foreign museum"
+        ],
+        "answerIndex": 2,
+        "explanation": "They will oversee the digitization project and supervise two part-time assistants."
+      },
+      {
+        "prompt": "Why does the ad mention working 'in a small organization'?",
+        "category": "inference",
+        "choices": [
+          "The Society plans to hire several more staff",
+          "The post needs someone used to many jobs",
+          "The candidate will work only part-time",
+          "The Society is about to close down"
+        ],
+        "answerIndex": 1,
+        "explanation": "It wants experience where 'one person is expected to do the work of three'."
+      },
+      {
+        "prompt": "What does the ad imply about the volunteers?",
+        "category": "inference",
+        "choices": [
+          "They are paid by the Director each month",
+          "They will conduct the interviews in March",
+          "They oppose the digitizing project outright",
+          "Some know the collection better than staff"
+        ],
+        "answerIndex": 3,
+        "explanation": "Many have known the collection 'far longer than any employee'."
+      }
+    ]
+  },
+  {
+    "id": "p7-297",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Conversation about a delayed shipment",
+        "text": "Imran Qureshi [8:41]: Morning, Elise. Customs in Rotterdam have held the pallet of ceramic tiles. The paperwork lists the glaze as \"decorative\", but the inspector says it should have been classified as a chemical product.\n\nElise Garnier [8:44]: Does that mean a fine?\n\nImran Qureshi [8:46]: Not necessarily. The broker thinks that if we send a corrected declaration and a safety sheet from the manufacturer by noon tomorrow, they will release it without penalty. After that, storage charges begin at 90 euros a day.\n\nElise Garnier [8:48]: The manufacturer's office in Porto opens at nine. Can you ask for the sheet then?\n\nImran Qureshi [8:49]: I will, though they've been slow before. Meanwhile, the Hendricks hotel needs the tiles by the 14th for their lobby, and the shipping schedule gives us four working days at best.\n\nElise Garnier [8:52]: Then we cannot wait for the formal route. Tell the manufacturer we'll cover the cost of a courier for the sheet.\n\nImran Qureshi [8:53]: Agreed. I'll also warn Hendricks that the date is at risk.\n\nElise Garnier [8:54]: Do that, but don't promise a new one until the sheet arrives."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What has caused the delay?",
+        "category": "main_idea",
+        "choices": [
+          "The manufacturer sent the wrong tiles",
+          "The shipping company lost the whole pallet",
+          "Customs queried the glaze classification",
+          "The hotel changed its order at the last minute"
+        ],
+        "answerIndex": 2,
+        "explanation": "The inspector says the glaze should have been classified as a chemical product."
+      },
+      {
+        "prompt": "What deadline is mentioned to avoid charges?",
+        "category": "detail",
+        "choices": [
+          "Noon tomorrow, local time",
+          "The 14th of the following month",
+          "Nine o'clock this very morning",
+          "Four working days from today"
+        ],
+        "answerIndex": 0,
+        "explanation": "If documents are sent by noon tomorrow they will release it without penalty."
+      },
+      {
+        "prompt": "Why does Ms. Garnier want a courier?",
+        "category": "inference",
+        "choices": [
+          "The manufacturer has refused to help us",
+          "The broker cannot send the declaration",
+          "Customs demanded the sheet by hand today",
+          "The usual route may be too slow to help"
+        ],
+        "answerIndex": 3,
+        "explanation": "The manufacturer has been slow before and the hotel date is at risk."
+      },
+      {
+        "prompt": "What does she tell Mr. Qureshi about the hotel?",
+        "category": "inference",
+        "choices": [
+          "To cancel the order with Hendricks now",
+          "To warn them, but promise no new date",
+          "To promise delivery on the 14th",
+          "To transfer the order to another client"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Do that, but don't promise a new one until the sheet arrives.'"
+      }
+    ]
+  },
+  {
+    "id": "p7-298",
+    "documents": [
+      {
+        "type": "article",
+        "title": "An overlooked cause of employee burnout",
+        "text": "Discussions of workplace burnout usually focus on long hours, yet a recent survey of eight thousand employees suggests that the hours worked matter less than the degree of control that workers have over them. Those who were free to decide when and how to complete their tasks reported lower exhaustion than colleagues who worked fewer hours but under constant direction.\n\nThe finding helps to explain a puzzle that has troubled managers: why some departments with heavy workloads remain cheerful while others, with lighter ones, are on the verge of collapse. In the survey, the strongest predictor of burnout was not the number of tasks but the frequency of interruptions, particularly those imposed by supervisors who wanted an immediate answer to a question that could have waited.\n\nThe researchers caution that autonomy is not a universal remedy. Employees given freedom without guidance often feel lost, and a few reported more stress when they had to decide everything for themselves. The most satisfied workers, the survey suggests, are those who set their own methods within clear goals.\n\nFor managers, the implication is uncomfortable. It is easier to reduce hours than to relinquish control, but it is the latter that appears to make the greater difference."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main finding of the survey?",
+        "category": "main_idea",
+        "choices": [
+          "Long hours are the main cause of exhaustion",
+          "Control over work matters more than hours",
+          "Managers should reduce the number of tasks",
+          "Interruptions have no effect on stress"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article says hours matter less than the control workers have."
+      },
+      {
+        "prompt": "What was the strongest predictor of burnout?",
+        "category": "detail",
+        "choices": [
+          "The number of tasks assigned to staff",
+          "The size of the department concerned",
+          "The level of pay that employees receive",
+          "How often workers were interrupted"
+        ],
+        "answerIndex": 3,
+        "explanation": "The strongest predictor was the frequency of interruptions."
+      },
+      {
+        "prompt": "What does the article suggest about autonomy?",
+        "category": "inference",
+        "choices": [
+          "It helps most with clear objectives",
+          "It reduces stress in every single case",
+          "It should be avoided by new employees",
+          "It is only useful in a light workload"
+        ],
+        "answerIndex": 0,
+        "explanation": "The most satisfied workers set their own methods 'within clear goals'."
+      },
+      {
+        "prompt": "Why is the implication 'uncomfortable' for managers?",
+        "category": "inference",
+        "choices": [
+          "It requires them to cut their own hours",
+          "It shows their departments are failing",
+          "It asks them to give up some authority",
+          "It means hiring many more supervisors"
+        ],
+        "answerIndex": 2,
+        "explanation": "Reducing hours is easier than relinquishing control, which makes the greater difference."
+      }
+    ]
+  },
+  {
+    "id": "p7-299",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter accepting an invitation to speak, with conditions",
+        "text": "Dear Dr. Lindgren,\n\nThank you for your kind invitation to deliver the closing address at the Northern Hydrology Conference in June. I am honored to be asked, and I accept in principle, though I should like to raise two matters before the arrangement is final.\n\nThe first concerns the date. I understand that the address is planned for the Saturday afternoon, when I believe attendance will be at its lowest, since many delegates leave before the final session. I would be happier to speak on the Friday evening, when the whole audience is likely to be present, and I suspect that the subject, which concerns the failure of flood forecasts in 2019, deserves the largest room you can give it.\n\nThe second concerns the format. I had understood that the talk would be followed by a panel, but your letter suggests a formal question period only. I would prefer the panel, with at least two engineers from the regions affected, because their experience would complete my account in a way that I cannot.\n\nI appreciate that these requests may complicate your program, and if they prove impossible I shall still be glad to attend. Please let me know your thoughts at your convenience.\n\nWith kind regards,\nProf. Hamid Ansari"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To decline an invitation to speak",
+          "To request a refund of a conference fee",
+          "To report a failure in flood forecasts",
+          "To accept an invitation, with changes"
+        ],
+        "answerIndex": 3,
+        "explanation": "He accepts in principle and raises two matters about date and format."
+      },
+      {
+        "prompt": "Why does Prof. Ansari dislike the Saturday slot?",
+        "category": "detail",
+        "choices": [
+          "He is unavailable on that particular day",
+          "Many delegates will have gone home",
+          "The largest room has already been booked",
+          "The panel cannot meet at that time of day"
+        ],
+        "answerIndex": 1,
+        "explanation": "He believes attendance will be lowest, since many leave before the final session."
+      },
+      {
+        "prompt": "Why does he want engineers on the panel?",
+        "category": "inference",
+        "choices": [
+          "They will replace his own address",
+          "They have requested to speak themselves",
+          "They would add experience he lacks",
+          "They disagree with his main findings"
+        ],
+        "answerIndex": 2,
+        "explanation": "Their experience 'would complete my account in a way that I cannot'."
+      },
+      {
+        "prompt": "What does the last paragraph suggest about his attitude?",
+        "category": "inference",
+        "choices": [
+          "He is flexible and will still attend",
+          "He will withdraw if refused outright",
+          "He expects a very prompt reply from you",
+          "He considers the conference unimportant"
+        ],
+        "answerIndex": 0,
+        "explanation": "If the requests prove impossible he 'shall still be glad to attend'."
+      }
+    ]
+  }
+]
