@@ -1,522 +1,522 @@
 [
   {
-    "id": "p5-721",
-    "sentence": "To qualify for the discount, customers must ___ at least fifty units in a single order.",
+    "id": "p5-1259",
+    "sentence": "The consultant billed the client for ___ expenses incurred during the on-site assessment.",
     "choices": [
-      "purchase",
-      "purchasing",
-      "purchased",
-      "purchases of"
+      "coincidental",
+      "incidental",
+      "accidental",
+      "occasional"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Incidental expenses' are minor extra costs. 'Accidental' means unintended, 'coincidental' means by chance, and 'occasional' means infrequent."
+  },
+  {
+    "id": "p5-1260",
+    "sentence": "The promotion is ___ to staff who have completed at least two years with the firm.",
+    "choices": [
+      "resigned",
+      "restrained",
+      "restricted",
+      "resisted"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Restricted to' means limited to. 'Resigned', 'restrained' and 'resisted' do not fit 'to staff'."
+  },
+  {
+    "id": "p5-1261",
+    "sentence": "The firm's cash position was ___ by the unexpected delay in customer payments.",
+    "choices": [
+      "strained",
+      "stranded",
+      "strewn",
+      "strapped"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "After 'must', a bare infinitive is needed. The others are a gerund, a participle and a malformed noun phrase."
-  },
-  {
-    "id": "p5-722",
-    "sentence": "The legal department ___ the contract line by line before authorising the transaction.",
-    "choices": [
-      "revoked",
-      "revived",
-      "reviewed",
-      "revolved"
-    ],
-    "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Reviewed' means examined. 'Revived' means brought back, 'revoked' means cancelled, and 'revolved' means rotated."
+    "explanation": "'Strained' means put under pressure. 'Stranded' means left without help, 'strapped' means short of money (describing the firm, not the position), and 'strewn' means scattered."
   },
   {
-    "id": "p5-723",
-    "sentence": "Orders that are ___ after the cut-off time will be dispatched the following morning.",
+    "id": "p5-1262",
+    "sentence": "Auditors must remain ___ of the companies whose accounts they examine.",
     "choices": [
-      "receipt",
-      "receiving",
-      "received",
-      "receive"
+      "independent",
+      "indignant",
+      "indifferent",
+      "indulgent"
     ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "A past participle is needed for the reduced passive ('that are received'). The others are a gerund, a noun and a base verb."
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Independent of' means free from influence. 'Indifferent' means uninterested, 'indignant' means angry, and 'indulgent' means lenient."
   },
   {
-    "id": "p5-724",
-    "sentence": "The architect submitted a ___ plan that satisfied both the client and the planning authority.",
+    "id": "p5-1263",
+    "sentence": "The firm hopes to ___ a deal with the union before the current contract lapses.",
     "choices": [
-      "revising",
-      "revise",
-      "revision",
-      "revised"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "A past participle works as an adjective before 'plan'. 'revising' is active, and the others are a noun and a verb."
-  },
-  {
-    "id": "p5-725",
-    "sentence": "The tour operator ___ all responsibility for items lost or stolen during the excursion.",
-    "choices": [
-      "disputes",
-      "displaces",
-      "disowns",
-      "disclaims"
+      "stray",
+      "strive",
+      "stride",
+      "strike"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Disclaims responsibility' is a standard legal collocation meaning denies. 'Disowns' is for people, 'disputes' means argues, and 'displaces' means moves."
+    "explanation": "'Strike a deal' means reach an agreement. The others do not take 'deal' as an object."
   },
   {
-    "id": "p5-726",
-    "sentence": "The team worked ___ to meet the deadline set by the client.",
+    "id": "p5-1264",
+    "sentence": "The directors were ___ of any wrongdoing by the independent inquiry.",
     "choices": [
-      "tiredness",
-      "tiring",
-      "tirelessly",
-      "tireless"
+      "cleaned",
+      "cleaved",
+      "cleansed",
+      "cleared"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Cleared of wrongdoing' means found innocent. 'Cleaned' and 'cleansed' mean washed, and 'cleaved' means split."
+  },
+  {
+    "id": "p5-1265",
+    "sentence": "The airline has been ___ for failing to compensate passengers affected by the cancellations.",
+    "choices": [
+      "reprocessed",
+      "reprimanded",
+      "repatriated",
+      "reprieved"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Reprimanded' means formally criticised. 'Reprocessed' means treated again, 'repatriated' means sent home, and 'reprieved' means spared."
+  },
+  {
+    "id": "p5-1266",
+    "sentence": "The merger remains ___ regulatory approval in at least three jurisdictions.",
+    "choices": [
+      "conditioned",
+      "depending",
+      "subject to",
+      "contingent to"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "An adverb modifies 'worked'. The others are an adjective, a participle and a noun."
+    "explanation": "'Subject to approval' is the fixed phrase. 'contingent to' needs 'upon', 'depending' needs 'on', and 'conditioned' does not fit."
   },
   {
-    "id": "p5-727",
-    "sentence": "Neither of the two candidates ___ the required experience in international sales.",
+    "id": "p5-1267",
+    "sentence": "The manager chose to ___ the matter to head office rather than resolve it locally.",
     "choices": [
-      "were",
-      "have",
+      "escalate",
+      "exalt",
+      "elevate",
+      "embellish"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Escalate to' means refer to a higher authority. 'Elevate' means raise physically, 'exalt' means praise, and 'embellish' means decorate."
+  },
+  {
+    "id": "p5-1268",
+    "sentence": "The chairman proposed that the vote ___ deferred until the independent valuation had been completed.",
+    "choices": [
+      "is",
+      "be",
+      "was",
+      "being"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Proposed that' takes the subjunctive 'be'. The others are indicative or non-finite."
+  },
+  {
+    "id": "p5-1269",
+    "sentence": "Only after the regulator intervened ___ the company agree to publish the full audit report.",
+    "choices": [
       "has",
-      "are having"
+      "was",
+      "did",
+      "would to"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Neither of' is followed by a singular verb in formal usage. The other forms are plural or do not fit."
+    "explanation": "'Only after' at the start triggers inversion with 'did' plus a bare verb. 'has' needs a participle, 'was' does not fit, and 'would to' is malformed."
   },
   {
-    "id": "p5-728",
-    "sentence": "The audit revealed that the company had ___ understated its liabilities for three consecutive years.",
+    "id": "p5-1270",
+    "sentence": "Never before ___ so many applicants competed for so few senior posts in the logistics sector.",
     "choices": [
-      "consistent",
-      "consistency",
-      "consisting",
-      "consistently"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "An adverb modifies 'understated'. The others are an adjective, a participle and a noun."
-  },
-  {
-    "id": "p5-729",
-    "sentence": "The directors are ___ divided over whether to accept the takeover offer.",
-    "choices": [
-      "sharpness",
-      "sharp",
-      "sharply",
-      "sharpen"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "An adverb modifies the participle 'divided'. The others are an adjective, a verb and a noun."
-  },
-  {
-    "id": "p5-730",
-    "sentence": "As the sole ___ of the estate, Ms. Fournier was entitled to all outstanding royalties.",
-    "choices": [
-      "benefit",
-      "beneficiary",
-      "beneficial",
-      "benefactor"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A 'beneficiary' receives assets. A 'benefactor' gives them, a 'benefit' is an advantage, and 'beneficial' is an adjective."
-  },
-  {
-    "id": "p5-731",
-    "sentence": "The manufacturer has ___ a recall of all vehicles built between March and June.",
-    "choices": [
-      "issued",
-      "insisted",
-      "insured",
-      "installed"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Issued a recall' is the standard collocation. 'Insured' means covered by insurance, 'installed' means fitted, and 'insisted' needs a clause."
-  },
-  {
-    "id": "p5-732",
-    "sentence": "Staff turnover has fallen ___ since the introduction of flexible working hours.",
-    "choices": [
-      "consideration",
-      "considerate",
-      "considering",
-      "considerably"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "An adverb modifies the verb 'fallen'. The others are an adjective, a noun and a participle."
-  },
-  {
-    "id": "p5-733",
-    "sentence": "An independent consultant was hired to ___ the efficiency of the distribution network.",
-    "choices": [
-      "assign",
-      "assess",
-      "assert",
-      "assume"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Assess' means evaluate. 'Assert' means state firmly, 'assume' means suppose, and 'assign' means allocate."
-  },
-  {
-    "id": "p5-734",
-    "sentence": "The company ___ its competitors by offering free delivery on all orders.",
-    "choices": [
-      "undid",
-      "undertook",
-      "undercut",
-      "undermined"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Undercut' means charge less than rivals. 'Undertook' means began, 'undermined' means weakened, and 'undid' means reversed."
-  },
-  {
-    "id": "p5-735",
-    "sentence": "Participants must ___ to the instructions given by the safety officer at all times.",
-    "choices": [
-      "apply",
-      "accord",
-      "attach",
-      "adhere"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Adhere to' means follow strictly. 'Accord' needs 'with', 'attach' needs an object, and 'apply' needs 'for' or 'to' with a different meaning."
-  },
-  {
-    "id": "p5-736",
-    "sentence": "The finance team is looking ___ the discrepancy in the third-quarter figures.",
-    "choices": [
-      "into",
-      "upon",
-      "across",
-      "onto"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Look into' is a phrasal verb meaning investigate. 'Look onto' describes a view, 'look upon' means regard, and 'look across' means scan from one side."
-  },
-  {
-    "id": "p5-737",
-    "sentence": "The marketing director will ___ over the project once the current manager retires.",
-    "choices": [
-      "bring",
-      "carry",
-      "hold",
-      "take"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Take over' means assume control. 'Bring over', 'hold over' and 'carry over' have different meanings: deliver, postpone, and transfer to a later period."
-  },
-  {
-    "id": "p5-738",
-    "sentence": "The negotiations ___ down after both parties refused to alter their demands.",
-    "choices": [
-      "tore",
-      "broke",
-      "took",
-      "wore"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Broke down' means failed. 'Wore down' means exhausted, 'tore down' means demolished, and 'took down' means recorded or removed."
-  },
-  {
-    "id": "p5-739",
-    "sentence": "Please ___ out the attached questionnaire and send it to the survey team.",
-    "choices": [
-      "make",
-      "take",
-      "fill",
-      "write"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Fill out' a form is the standard phrasal verb. 'Make out' and 'take out' have other meanings, and 'write out' would mean write in full."
-  },
-  {
-    "id": "p5-740",
-    "sentence": "The company decided to ___ off its unprofitable subsidiary in Brazil.",
-    "choices": [
-      "cut",
-      "set",
-      "put",
-      "sell"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Sell off' means dispose of by selling. 'Set off' means begin a journey, 'put off' means postpone, and 'cut off' means disconnect."
-  },
-  {
-    "id": "p5-741",
-    "sentence": "We are ___ forward to welcoming the delegation from Osaka next week.",
-    "choices": [
-      "reaching",
-      "looking",
-      "aiming",
-      "moving"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Look forward to' is the fixed phrasal expression. The others do not combine with 'forward to' in this sense."
-  },
-  {
-    "id": "p5-742",
-    "sentence": "The project has been ___ back by a lack of qualified technicians.",
-    "choices": [
-      "held",
-      "pulled",
-      "kept",
-      "dragged"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Held back' means hindered. 'Kept back' is withheld, 'pulled back' means retreated, and 'dragged back' implies physical force."
-  },
-  {
-    "id": "p5-743",
-    "sentence": "The supplier has ___ up with a new proposal that satisfies all parties.",
-    "choices": [
-      "set",
-      "gone",
-      "come",
-      "put"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Come up with' means produce an idea. The other verbs do not form this phrasal verb."
-  },
-  {
-    "id": "p5-744",
-    "sentence": "It is essential to ___ track of all expenses incurred during a business trip.",
-    "choices": [
-      "keep",
-      "stay",
-      "hold",
-      "make"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Keep track of' is the fixed expression. 'Hold', 'stay' and 'make' do not collocate with 'track' in this sense."
-  },
-  {
-    "id": "p5-745",
-    "sentence": "The CEO ___ the blame for the failed product launch.",
-    "choices": [
-      "held",
-      "bore",
-      "took",
-      "put"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Took the blame' means accepted responsibility. 'Bore the blame' is unusual, and 'held' and 'put' have different meanings."
-  },
-  {
-    "id": "p5-746",
-    "sentence": "Talks between the unions and management ___ for eight hours without agreement.",
-    "choices": [
-      "held up",
-      "carried through",
-      "went by",
-      "dragged on"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Dragged on' means continued tediously. 'Held up' means delayed, 'carried through' means completed, and 'went by' is used for time passing."
-  },
-  {
-    "id": "p5-747",
-    "sentence": "The manager asked the assistant to ___ the minutes of the meeting for all attendees.",
-    "choices": [
-      "circumscribe",
-      "circulating",
-      "circumvent",
-      "circulate"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Circulate' means distribute. 'Circumvent' means avoid, 'circumscribe' means restrict, and 'circulating' is not a bare verb after 'to'."
-  },
-  {
-    "id": "p5-748",
-    "sentence": "Applicants with ___ experience in logistics are encouraged to apply.",
-    "choices": [
-      "earlier than",
-      "former",
-      "previously",
-      "prior"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Prior experience' is the standard collocation. 'Former' describes people or positions, 'previously' is an adverb, and 'earlier than' needs a comparison."
-  },
-  {
-    "id": "p5-749",
-    "sentence": "The new hires will be ___ by a senior colleague during their first month.",
-    "choices": [
-      "mingled",
-      "mentored",
-      "mended",
-      "mentioned"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Mentored' means guided by an experienced person. 'Mended' means repaired, 'mentioned' means referred to, and 'mingled' means mixed."
-  },
-  {
-    "id": "p5-750",
-    "sentence": "The lease will ___ automatically unless either party gives written notice.",
-    "choices": [
-      "reform",
-      "renovate",
-      "renew",
-      "revive"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "A lease 'renews' automatically. 'Renovate' means restore buildings, 'revive' means bring back, and 'reform' means improve a system."
-  },
-  {
-    "id": "p5-751",
-    "sentence": "The auditor's report ___ the company of any wrongdoing.",
-    "choices": [
-      "cleared",
-      "released",
-      "excused",
-      "exempted"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Cleared of wrongdoing' means declared not guilty. 'Exempted' and 'excused' are for duties, and 'released' means freed."
-  },
-  {
-    "id": "p5-752",
-    "sentence": "To ___ costs, the firm has frozen all recruitment until further notice.",
-    "choices": [
-      "conceal",
-      "contain",
-      "conceive",
-      "confide"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Contain costs' means keep them under control. 'Conceal' means hide, 'confide' means share secrets, and 'conceive' means imagine."
-  },
-  {
-    "id": "p5-753",
-    "sentence": "The vendor was ___ to supply replacement parts at no extra charge.",
-    "choices": [
-      "obliging",
-      "obligatory",
-      "obliged",
-      "obligation"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Be obliged to' is a passive meaning required to. The others are an adjective, a noun and an active participle."
-  },
-  {
-    "id": "p5-754",
-    "sentence": "The research team ___ a prototype that consumes half as much energy.",
-    "choices": [
-      "developing",
-      "has developed",
-      "develop",
-      "is developed"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "The present perfect active matches a completed result with a direct object. 'is developed' is passive, and the others are not finite."
-  },
-  {
-    "id": "p5-755",
-    "sentence": "By next spring, the company ___ its headquarters to a more central district.",
-    "choices": [
-      "is moving to",
-      "moved",
-      "will have moved",
-      "has moved"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "A future perfect matches 'By next spring'. The present perfect and past simple do not fit, and 'is moving to' needs a different structure."
-  },
-  {
-    "id": "p5-756",
-    "sentence": "The prices ___ since the new supplier took over the contract in January.",
-    "choices": [
-      "fell",
-      "have fallen",
-      "had fallen",
-      "are falling"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "The present perfect fits 'since' with a time starting in the past and continuing. 'fell' is past simple, and 'had fallen' needs a past reference."
-  },
-  {
-    "id": "p5-757",
-    "sentence": "If I ___ the budget manager, I would postpone the purchase until next year.",
-    "choices": [
-      "am",
-      "had been",
+      "have",
       "were",
-      "will be"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "A second conditional uses 'if + past subjunctive were'. 'am' and 'will be' are not used, and 'had been' is a third conditional form."
-  },
-  {
-    "id": "p5-758",
-    "sentence": "The proposal ___ by the board next week, so please prepare your presentation now.",
-    "choices": [
-      "has reviewed",
-      "will be reviewed",
-      "reviews",
-      "is reviewing"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "A future passive is needed because the proposal is acted upon. The others are active or present."
-  },
-  {
-    "id": "p5-759",
-    "sentence": "The letter, ___ was sent last Friday, has not yet been answered.",
-    "choices": [
-      "which",
-      "who",
-      "what",
-      "whose"
+      "has been",
+      "had been"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Which' refers to a thing in a non-restrictive clause. 'whose' is possessive, 'what' is not a relative here, and 'who' refers to people."
+    "explanation": "'Never before' at the start requires inversion; 'have so many applicants competed' uses the present perfect. The others do not agree or fit."
   },
   {
-    "id": "p5-760",
-    "sentence": "The clients ___ we met in Berlin have agreed to renew their contract.",
+    "id": "p5-1271",
+    "sentence": "So thorough ___ the investigation that not a single transaction escaped the auditors' attention.",
     "choices": [
-      "where",
+      "did",
+      "had",
+      "were",
+      "was"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'So + adjective' at the start requires inversion with 'be': 'was the investigation'. 'did' and 'had' do not fit the adjective, and 'were' is plural."
+  },
+  {
+    "id": "p5-1272",
+    "sentence": "The factory, ___ output had fallen sharply, was sold to a rival manufacturer at a steep discount.",
+    "choices": [
       "which",
       "whose",
+      "its",
       "whom"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Whom' is the object of 'met' and refers to people. 'whose' is possessive, 'which' refers to things, and 'where' refers to places."
+    "explanation": "'Whose' links the factory to its output in a relative clause. 'its' leaves two clauses unlinked, and 'which' and 'whom' are not possessive."
+  },
+  {
+    "id": "p5-1273",
+    "sentence": "The report identified several risks, the most serious of ___ was the dependence on a single supplier.",
+    "choices": [
+      "those",
+      "which",
+      "them",
+      "what"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Of which' joins the relative clause after a quantifier and refers to things. 'them' and 'those' leave the clauses unlinked, and 'what' is not relative here."
+  },
+  {
+    "id": "p5-1274",
+    "sentence": "The scheme was designed to ___ small enterprises against sudden fluctuations in raw-material prices.",
+    "choices": [
+      "insist",
+      "insulate",
+      "insinuate",
+      "inscribe"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Insulate against' means protect from. 'Insinuate' means hint, 'insist' needs 'on', and 'inscribe' means write on."
+  },
+  {
+    "id": "p5-1275",
+    "sentence": "The new director has pledged to ___ a culture of accountability throughout the organisation.",
+    "choices": [
+      "forgo",
+      "forfeit",
+      "foresee",
+      "foster"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Foster a culture' means encourage it. 'Foresee' means predict, 'forfeit' means lose through penalty, and 'forgo' means do without."
+  },
+  {
+    "id": "p5-1276",
+    "sentence": "The consortium's bid was ___ on the assumption that fuel prices would remain stable.",
+    "choices": [
+      "promoted",
+      "pursued",
+      "propelled",
+      "premised"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Premised on' means based on. 'Promoted' means advanced, 'propelled' means driven forward, and 'pursued' means chased."
+  },
+  {
+    "id": "p5-1277",
+    "sentence": "The manager's remarks were ___ as a veiled criticism of the previous leadership.",
+    "choices": [
+      "constrained",
+      "constructed",
+      "consumed",
+      "construed"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Construed as' means interpreted as. 'Constructed' means built, 'consumed' means used up, and 'constrained' means restricted."
+  },
+  {
+    "id": "p5-1278",
+    "sentence": "The regulator has the power to ___ any firm that persistently breaches the disclosure rules.",
+    "choices": [
+      "sanction",
+      "sanitise",
+      "salvage",
+      "sanctify"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Sanction a firm' means penalise it. 'Sanitise' means clean, 'sanctify' means make holy, and 'salvage' means rescue."
+  },
+  {
+    "id": "p5-1279",
+    "sentence": "The pay rise was ___ on the union accepting a revised schedule of working hours.",
+    "choices": [
+      "consistent",
+      "conducive",
+      "contingent",
+      "consequent"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Contingent on' means dependent on. 'Consequent' needs 'upon' or 'to', 'conducive' needs 'to', and 'consistent' needs 'with'."
+  },
+  {
+    "id": "p5-1280",
+    "sentence": "The two firms are expected to ___ operations in the Asian market by the end of the year.",
+    "choices": [
+      "merge",
+      "mingle",
+      "mesh up",
+      "marry"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Merge operations' means combine them formally. 'Mingle' means mix socially, 'marry' is figurative, and 'mesh up' is malformed."
+  },
+  {
+    "id": "p5-1281",
+    "sentence": "Protracted negotiations over the severance package ___ the closure of the plant by several months.",
+    "choices": [
+      "deferred of",
+      "dallied",
+      "deterred",
+      "delayed"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Delayed the closure' means postponed it. 'Deferred of' is malformed, 'dallied' is intransitive, and 'deterred' means discouraged."
+  },
+  {
+    "id": "p5-1282",
+    "sentence": "The merger was ___ off at the last minute when the lead investor withdrew its backing.",
+    "choices": [
+      "cut",
+      "coined",
+      "called",
+      "cast"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Called off' means cancelled. 'Cast off', 'cut off' and 'coined off' have different meanings or do not exist."
+  },
+  {
+    "id": "p5-1283",
+    "sentence": "The firm's survival will ___ largely on its ability to renegotiate the terms of its debt.",
+    "choices": [
+      "hitch",
+      "hang up",
+      "hook",
+      "hinge"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Hinge on' means depend on. 'Hang up', 'hook' and 'hitch' do not take 'on' in this meaning."
+  },
+  {
+    "id": "p5-1284",
+    "sentence": "The new rules aim to ___ the practice of backdating contracts to evade tax liabilities.",
+    "choices": [
+      "outgrow",
+      "outlaw",
+      "outplay",
+      "outbid"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Outlaw a practice' means ban it. 'Outplay', 'outbid' and 'outgrow' do not take 'practice' meaningfully."
+  },
+  {
+    "id": "p5-1285",
+    "sentence": "The firm's reluctance to ___ its pricing model prompted several loyal clients to switch suppliers.",
+    "choices": [
+      "rebuke",
+      "revise",
+      "revoke",
+      "retrieve"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Revise a model' means change it. 'Revoke' means cancel, 'rebuke' means scold, and 'retrieve' means recover."
+  },
+  {
+    "id": "p5-1286",
+    "sentence": "The agency's findings ___ serious doubt on the reliability of the manufacturer's safety data.",
+    "choices": [
+      "sank",
+      "cast",
+      "poured",
+      "cut"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Cast doubt on' is the fixed collocation. 'Cut', 'sank' and 'poured' do not collocate with 'doubt'."
+  },
+  {
+    "id": "p5-1287",
+    "sentence": "The board was ___ to approve the budget without having seen the revised projections.",
+    "choices": [
+      "lax",
+      "loose",
+      "liable",
+      "loath"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Loath to' means unwilling to. 'Liable' needs 'to' with a different meaning, and 'lax' and 'loose' do not take an infinitive."
+  },
+  {
+    "id": "p5-1288",
+    "sentence": "The firm's recovery was ___ by a sharp rise in demand from emerging markets.",
+    "choices": [
+      "underpinned",
+      "underwritten to",
+      "underlined",
+      "undermined"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Underpinned by' means supported by. 'Undermined' means weakened, 'underlined' means emphasised, and 'underwritten to' is malformed."
+  },
+  {
+    "id": "p5-1289",
+    "sentence": "The company was ___ to compensate customers affected by the faulty batch.",
+    "choices": [
+      "abided",
+      "abused",
+      "abetted",
+      "obliged"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Obliged to' means required to. The others do not fit the infinitive."
+  },
+  {
+    "id": "p5-1290",
+    "sentence": "The minister's statement ___ speculation that the sale of the airline would proceed this year.",
+    "choices": [
+      "fastened",
+      "furnished",
+      "fumbled",
+      "fuelled"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Fuelled speculation' means increased it. The others do not collocate with 'speculation'."
+  },
+  {
+    "id": "p5-1291",
+    "sentence": "The firm's decision to ___ its stake in the joint venture surprised industry observers.",
+    "choices": [
+      "relinquish",
+      "reverberate",
+      "relapse",
+      "relegate"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Relinquish a stake' means give it up. 'Relegate' means demote, 'relapse' means fall back, and 'reverberate' means echo."
+  },
+  {
+    "id": "p5-1292",
+    "sentence": "Strict ___ to the disclosure rules is a condition of the firm's operating licence.",
+    "choices": [
+      "adherence",
+      "adherents",
+      "adhesion",
+      "adhering"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Adherence to rules' means following them. 'Adhesion' refers to sticking, 'adherents' are followers, and 'adhering' is a participle."
+  },
+  {
+    "id": "p5-1293",
+    "sentence": "The committee found no evidence of ___ on the part of the managers involved in the sale.",
+    "choices": [
+      "improvement",
+      "impropriety",
+      "impatience",
+      "imprecision"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Impropriety' means improper conduct. The others are unrelated nouns."
+  },
+  {
+    "id": "p5-1294",
+    "sentence": "The company reported a ___ fall in profits as a result of currency movements.",
+    "choices": [
+      "precipitous",
+      "precocious",
+      "precarious",
+      "preposterous"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Precipitous' means sudden and steep. 'Precarious' means unstable, 'precocious' means advanced early, and 'preposterous' means absurd."
+  },
+  {
+    "id": "p5-1295",
+    "sentence": "The consultant's report was ___ and ruled out several options without consulting the staff.",
+    "choices": [
+      "cunning",
+      "cautious",
+      "cursory",
+      "courteous"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Cursory' means hasty and superficial. 'Cunning' means sly, 'cautious' means careful, and 'courteous' means polite."
+  },
+  {
+    "id": "p5-1296",
+    "sentence": "The board has ___ its commitment to maintaining the dividend despite weaker earnings.",
+    "choices": [
+      "reassured",
+      "reaffirmed",
+      "reassigned",
+      "reasserted to"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Reaffirmed its commitment' means stated again. 'Reasserted to' is malformed, 'reassigned' means reallocated, and 'reassured' needs a person."
+  },
+  {
+    "id": "p5-1297",
+    "sentence": "The new policy places the ___ of proof on the claimant rather than on the insurer.",
+    "choices": [
+      "burrow",
+      "burst",
+      "bureau",
+      "burden"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Burden of proof' is a fixed legal phrase. The others are unrelated nouns."
+  },
+  {
+    "id": "p5-1298",
+    "sentence": "Many analysts believe the retailer is ___ for a major restructuring.",
+    "choices": [
+      "poised",
+      "poured",
+      "posted",
+      "pitched"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Poised for' means ready for. 'Posted', 'poured' and 'pitched' do not fit."
   }
 ]
