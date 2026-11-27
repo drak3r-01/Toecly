@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p5-1615",
+    "sentence": "___ the applicant had met every criterion, the committee still declined to extend a formal offer.",
+    "choices": [
+      "Now that",
+      "Given that",
+      "Provided that",
+      "Even though"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Even though' introduces a concession matching 'still'. 'Given that' and 'Now that' give reasons, and 'Provided that' sets a condition."
+  },
+  {
+    "id": "p5-1616",
+    "sentence": "Managers reviewed the invoices twice ___ avoid any discrepancy at the annual audit.",
+    "choices": [
+      "such as to",
+      "so as to",
+      "so that",
+      "in order that"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'So as to' plus a bare infinitive expresses purpose. 'in order that' and 'so that' need a full clause, and 'such as to' expresses result."
+  },
+  {
+    "id": "p5-1617",
+    "sentence": "Revenue in Asia grew eleven percent, ___ European sales remained essentially flat throughout the fiscal year.",
+    "choices": [
+      "whereas",
+      "wherever",
+      "wherein",
+      "whereby"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whereas' contrasts two clauses. 'wherein' means 'in which', 'whereby' means 'by which' and 'wherever' means 'in any place'."
+  },
+  {
+    "id": "p5-1618",
+    "sentence": "___ shipping costs have doubled, we should reconsider our reliance on overseas suppliers for bulky components.",
+    "choices": [
+      "Whether",
+      "Unless",
+      "Given that",
+      "Rather than"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Given that' introduces an accepted reason. 'Unless' is a negative condition, 'Whether' offers alternatives and 'Rather than' needs a parallel form."
+  },
+  {
+    "id": "p5-1619",
+    "sentence": "___ the shipment is delayed beyond Friday, the vendor must refund the full delivery surcharge.",
+    "choices": [
+      "In the sense that",
+      "On the grounds that",
+      "In the event that",
+      "With the result that"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'In the event that' introduces a possible future condition. The others give a reason, a qualification or a result."
+  },
+  {
+    "id": "p5-1620",
+    "sentence": "___ the delay, the rollout remains on schedule and all pilot sites will be live by October.",
+    "choices": [
+      "Owing to",
+      "Because of",
+      "On account of",
+      "In spite of"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'In spite of' is concessive and fits the contrast. The other three express cause, which contradicts the sense."
+  },
+  {
+    "id": "p5-1621",
+    "sentence": "The warranty remains valid ___ the equipment is serviced annually by an authorized technician.",
+    "choices": [
+      "as though",
+      "so long as",
+      "as soon as",
+      "as far as"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'So long as' states a condition. 'as far as' marks extent, 'as soon as' marks time and 'as though' compares."
+  },
+  {
+    "id": "p5-1622",
+    "sentence": "___ or not the regulator approves the deal, we will proceed with the integration plan.",
+    "choices": [
+      "Whether",
+      "If",
+      "Although",
+      "Unless"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whether or not' is the fixed structure. 'If' cannot be separated from 'or not' here, 'Unless' and 'Although' do not allow 'or not'."
+  },
+  {
+    "id": "p5-1623",
+    "sentence": "The delay was caused ___ by the weather as by poor planning on the part of the contractor.",
+    "choices": [
+      "not so much",
+      "not only",
+      "not as many",
+      "no sooner"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Not so much ... as' compares two causes. The other options do not fit the correlative 'as by'."
+  },
+  {
+    "id": "p5-1624",
+    "sentence": "The bank restructured its debt with a view ___ its credit rating before the bond issue.",
+    "choices": [
+      "for improving",
+      "to improving",
+      "of improving",
+      "to improve"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'With a view to' takes a gerund. 'to improve' is an infinitive and 'of' and 'for' are not used with this phrase."
+  },
+  {
+    "id": "p5-1625",
+    "sentence": "___ an agreement by Friday, the dispute will be referred to independent arbitration.",
+    "choices": [
+      "Failed",
+      "Fail",
+      "Failing",
+      "Failure"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Failing' used as a preposition means 'in the absence of'. The other forms cannot introduce the phrase."
+  },
+  {
+    "id": "p5-1626",
+    "sentence": "___ the board been informed earlier, the share price would not have fallen so sharply.",
+    "choices": [
+      "Were",
+      "Having",
+      "Has",
+      "Had"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Inverted third conditional uses 'Had' plus a past participle. 'Has' is present perfect, 'Having' is a participle and 'Were' needs 'to'."
+  },
+  {
+    "id": "p5-1627",
+    "sentence": "___ any irregularities arise during installation, notify the site engineer at once.",
+    "choices": [
+      "Should",
+      "Would",
+      "Whether",
+      "Did"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Should' at the start inverts a possible conditional. 'Whether' gives alternatives, and 'Would' and 'Did' do not form this inversion."
+  },
+  {
+    "id": "p5-1628",
+    "sentence": "If she ___ the London offer last year, she would be heading our European division today.",
+    "choices": [
+      "would accept",
+      "had accepted",
+      "has accepted",
+      "were accepting"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "Mixed conditional: past perfect in the if-clause, 'would' in the result clause. The others do not fit an unreal past."
+  },
+  {
+    "id": "p5-1629",
+    "sentence": "But for the timely intervention of the auditors, the fraud ___ undetected for several more years.",
+    "choices": [
+      "would not go",
+      "had not gone",
+      "would have gone",
+      "would not have gone"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'But for' with a past event needs a third-conditional result clause. The others do not match."
+  },
+  {
+    "id": "p5-1630",
+    "sentence": "___ for the generous donation, the foundation would have been forced to close its doors.",
+    "choices": [
+      "Even",
+      "Only",
+      "Not",
+      "But"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'But for' means 'without'. The other words cannot form this phrase."
+  },
+  {
+    "id": "p5-1631",
+    "sentence": "If only the committee ___ more carefully before approving the acquisition last year.",
+    "choices": [
+      "were deliberating",
+      "had deliberated",
+      "has deliberated",
+      "would deliberate"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'If only' with a past regret needs the past perfect. The others refer to present or future."
+  },
+  {
+    "id": "p5-1632",
+    "sentence": "I wish the committee ___ us more time to review the proposal before yesterday's vote.",
+    "choices": [
+      "has given",
+      "gave",
+      "would give",
+      "had given"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A wish about the past needs the past perfect. 'gave' is for the present and 'would give' for the future."
+  },
+  {
+    "id": "p5-1633",
+    "sentence": "Provided the deposit ___ in full by the fifth, your reservation will be guaranteed.",
+    "choices": [
+      "is paid",
+      "has paid",
+      "was paid",
+      "pays"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "After 'provided' a present-tense passive refers to the future. 'was paid' has wrong tense, and the active forms do not fit."
+  },
+  {
+    "id": "p5-1634",
+    "sentence": "If the committee ___ the plan last month, construction would be under way by now.",
+    "choices": [
+      "would have approved",
+      "were approving",
+      "had approved",
+      "has approved"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "Mixed conditional: past perfect in the if-clause, 'would' plus base in the main clause. 'would' cannot appear in the if-clause."
+  },
+  {
+    "id": "p5-1635",
+    "sentence": "The contract will be terminated, ___ the supplier fail to remedy the breach within fourteen days.",
+    "choices": [
+      "should",
+      "would",
+      "might",
+      "whereas"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Should' at the start of an inverted conditional replaces 'if'. 'whereas' contrasts, and 'would' and 'might' do not make this inversion."
+  },
+  {
+    "id": "p5-1636",
+    "sentence": "Not only ___ the quarterly target, but it also secured two new long-term contracts.",
+    "choices": [
+      "the team did exceed",
+      "the team exceeded",
+      "did the team exceed",
+      "exceeded the team"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'Not only' at the start, the auxiliary comes before the subject. The other orders are not inverted."
+  },
+  {
+    "id": "p5-1637",
+    "sentence": "No sooner had the auditors left the building ___ the fire alarm sounded.",
+    "choices": [
+      "as",
+      "than",
+      "then",
+      "that"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'No sooner' is followed by 'than'. The others are not the correct correlative."
+  },
+  {
+    "id": "p5-1638",
+    "sentence": "Only by renegotiating the lease ___ been able to remain profitable.",
+    "choices": [
+      "did the firm",
+      "the firm has",
+      "does the firm",
+      "has the firm"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "After 'Only by' the auxiliary precedes the subject. The firm needs 'has' with 'been', so 'does' and 'did' fail and 'the firm has' is not inverted."
+  },
+  {
+    "id": "p5-1639",
+    "sentence": "It was only when the auditors reviewed the ledger ___ the discrepancy came to light.",
+    "choices": [
+      "which",
+      "when",
+      "then",
+      "that"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A cleft sentence 'It was only when ... that' needs 'that'. 'when' repeats the time word, 'which' and 'then' do not fit."
+  },
+  {
+    "id": "p5-1640",
+    "sentence": "___ as I respect the director, I cannot support her proposal to cut the research budget.",
+    "choices": [
+      "Much",
+      "Many",
+      "Most",
+      "Very"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Much as' introduces a concession meaning 'although'. The others are not used in this fixed pattern."
+  },
+  {
+    "id": "p5-1641",
+    "sentence": "___ in 1998, the firm now employs over four thousand people worldwide.",
+    "choices": [
+      "To found",
+      "Founding",
+      "Founded",
+      "Found"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past participle clause with passive meaning: the firm was founded. 'Founding' and 'To found' are active, and 'Found' is a different verb."
+  },
+  {
+    "id": "p5-1642",
+    "sentence": "___ by the sudden rise in raw material costs, the manufacturer postponed its expansion plans.",
+    "choices": [
+      "Surprise",
+      "Surprised",
+      "Surprising",
+      "To surprise"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The participle describes the manufacturer, who was surprised. The others do not form a passive participle clause."
+  },
+  {
+    "id": "p5-1643",
+    "sentence": "Anyone ___ to attend the workshop should register with the training department by Friday.",
+    "choices": [
+      "having wished",
+      "wish",
+      "wished",
+      "wishing"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A reduced relative clause with an active present participle: 'anyone who wishes'. 'wished' is passive or past, and the others are wrongly formed."
+  },
+  {
+    "id": "p5-1644",
+    "sentence": "The manager, ___ by the committee for exceptional performance, was promoted at the ceremony.",
+    "choices": [
+      "recognized",
+      "recognize",
+      "recognizing",
+      "to recognize"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A past participle gives a passive reduced clause: 'who was recognized'. The active forms cannot take 'by' here."
+  },
+  {
+    "id": "p5-1645",
+    "sentence": "Having ___ the invoices, the accountant realized that two payments were missing from the ledger.",
+    "choices": [
+      "been reviewed",
+      "reviewed",
+      "reviewing",
+      "review"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Having' plus a past participle forms a perfect participle clause. The other forms break the structure."
+  },
+  {
+    "id": "p5-1646",
+    "sentence": "The documents ___ at the meeting contained several errors that had to be corrected.",
+    "choices": [
+      "having distributed",
+      "distribute",
+      "distributed",
+      "distributing"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past participle makes a reduced relative clause: 'which were distributed'. The others do not work after a plural noun."
+  },
+  {
+    "id": "p5-1647",
+    "sentence": "Those ___ to the executive retreat must confirm their attendance by Monday.",
+    "choices": [
+      "invite",
+      "inviting",
+      "having invited",
+      "invited"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Those invited' is a reduced relative clause with passive meaning. 'inviting' and the others are active."
+  },
+  {
+    "id": "p5-1648",
+    "sentence": "___ with the original estimate, the final cost was nearly forty percent higher.",
+    "choices": [
+      "Compare",
+      "Having compared",
+      "Compared",
+      "To compare"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past participle with passive sense: the cost was compared. The other forms have a different meaning or subject."
+  },
+  {
+    "id": "p5-1649",
+    "sentence": "The report, ___ in haste, contained numerous factual errors that embarrassed the entire department.",
+    "choices": [
+      "writing",
+      "written",
+      "wrote",
+      "having written"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A past participle gives a passive reduced clause. 'writing' and 'having written' are active, and 'wrote' cannot start a reduced clause."
+  },
+  {
+    "id": "p5-1650",
+    "sentence": "The firm acquired three startups, two of ___ specialize in cybersecurity.",
+    "choices": [
+      "which",
+      "them",
+      "those",
+      "whom"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Two of which' is a non-defining relative. 'them' and 'those' would create a comma splice and 'whom' is for people."
+  },
+  {
+    "id": "p5-1651",
+    "sentence": "We look forward ___ you at the annual shareholders' meeting in Geneva next month.",
+    "choices": [
+      "seeing",
+      "to seeing",
+      "on seeing",
+      "to see"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Look forward to' is followed by a gerund because 'to' is a preposition. The others use the wrong form."
+  },
+  {
+    "id": "p5-1652",
+    "sentence": "The company is committed ___ its carbon emissions by thirty percent before the end of 2030.",
+    "choices": [
+      "reducing",
+      "in reducing",
+      "to reduce",
+      "to reducing"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Be committed to' takes a gerund. 'to reduce' and 'reducing' lack the preposition or use the wrong form and 'in' is the wrong preposition."
+  },
+  {
+    "id": "p5-1653",
+    "sentence": "Several staff objected to ___ asked to relocate without any notice or compensation.",
+    "choices": [
+      "be",
+      "having",
+      "being",
+      "been"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Object to' takes a gerund, and the passive needs 'being asked'. 'be' and 'been' are incomplete and 'having' makes an active form."
+  },
+  {
+    "id": "p5-1654",
+    "sentence": "Our new recruits are not accustomed ___ under such tight deadlines and frequent changes.",
+    "choices": [
+      "to working",
+      "to work",
+      "working",
+      "for working"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Be accustomed to' takes a gerund because 'to' is a preposition. 'to work' is an infinitive, 'working' lacks 'to' and 'for' is the wrong preposition."
+  }
+]

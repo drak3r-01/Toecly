@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p5-1815",
+    "sentence": "Whistleblower policies encourage staff to report irregularities without fear of ___.",
+    "choices": [
+      "repast",
+      "reprise",
+      "reprisal",
+      "reproduction"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Fear of reprisal is a fixed collocation. The others do not fit."
+  },
+  {
+    "id": "p5-1816",
+    "sentence": "The audit committee reviews the effectiveness of internal ___ over financial reporting.",
+    "choices": [
+      "contours",
+      "controls",
+      "contents",
+      "contests"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Internal controls are safeguards. The others do not."
+  },
+  {
+    "id": "p5-1817",
+    "sentence": "Directors who knowingly approve false accounts may be held personally ___ for the losses.",
+    "choices": [
+      "accountable",
+      "accommodating",
+      "accessible",
+      "acceptable"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Held accountable means made responsible. The others do not follow held."
+  },
+  {
+    "id": "p5-1818",
+    "sentence": "The merger needs approval from a ___ of shareholders holding at least seventy-five percent of voting shares.",
+    "choices": [
+      "supervision",
+      "superstructure",
+      "superintendent",
+      "supermajority"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A supermajority is a high threshold vote. The others do not."
+  },
+  {
+    "id": "p5-1819",
+    "sentence": "The new policy is ___ with the company's long-standing commitment to sustainability.",
+    "choices": [
+      "consistent",
+      "conclusive",
+      "conspicuous",
+      "conscientious"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Consistent with means in line with. The others do not take with."
+  },
+  {
+    "id": "p5-1820",
+    "sentence": "Her promotion was ___ upon completing the leadership certification within twelve months.",
+    "choices": [
+      "conclusive",
+      "congenital",
+      "conditional",
+      "confidential"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Conditional upon means dependent on. The others do not."
+  },
+  {
+    "id": "p5-1821",
+    "sentence": "The CEO resigned ___ allegations of insider trading, although he denied any wrongdoing.",
+    "choices": [
+      "atop",
+      "amid",
+      "alongside",
+      "aboard"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Amid means in the midst of. The others do not."
+  },
+  {
+    "id": "p5-1822",
+    "sentence": "Profit margins have been ___ by volatile raw material prices throughout the past year.",
+    "choices": [
+      "squabbled",
+      "squealed",
+      "squirmed",
+      "squeezed"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Squeezed means reduced under pressure. The others do not."
+  },
+  {
+    "id": "p5-1823",
+    "sentence": "The regulator is ___ to approve the merger provided certain assets are sold.",
+    "choices": [
+      "inept",
+      "inclined",
+      "inclusive",
+      "incidental"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Inclined to means disposed to. The others do not."
+  },
+  {
+    "id": "p5-1824",
+    "sentence": "Operating expenses were ___ by a one-off restructuring charge in the third quarter.",
+    "choices": [
+      "infested",
+      "inflicted",
+      "inflated",
+      "inflamed"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Inflated by means increased by. The others do not."
+  },
+  {
+    "id": "p5-1825",
+    "sentence": "The contract's indemnity clause is drafted in language barely ___ to non-specialists.",
+    "choices": [
+      "comprehensible",
+      "comprehensively",
+      "comprehension",
+      "comprehensive"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Comprehensible' (able to be understood) is the adjective that fits 'barely ___ to'. 'Comprehensive' means thorough and cannot take 'to'; 'comprehensively' and 'comprehension' do not fit the adjective slot."
+  },
+  {
+    "id": "p5-1826",
+    "sentence": "The consultancy delivered a ___ review of every subsidiary's internal controls, leaving no division unexamined.",
+    "choices": [
+      "comprehension",
+      "comprehensible",
+      "comprehending",
+      "comprehensive"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Comprehensive' means covering everything, matching 'leaving no division unexamined'. 'Comprehensible' means understandable; 'comprehending' is a participle and 'comprehension' a noun, neither fits before 'review' here."
+  },
+  {
+    "id": "p5-1827",
+    "sentence": "The new engine is remarkably ___ with fuel, cutting consumption by nearly a fifth.",
+    "choices": [
+      "economy",
+      "economic",
+      "economical",
+      "economically"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Economical' means careful with resources and takes 'with fuel'. 'Economic' concerns the economy; 'economy' is a noun; 'economically' is an adverb and cannot follow 'is remarkably' to describe the engine."
+  },
+  {
+    "id": "p5-1828",
+    "sentence": "Analysts expect ___ growth to slow markedly once the government stimulus package expires next spring.",
+    "choices": [
+      "economic",
+      "economical",
+      "economy",
+      "economically"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Economic growth' is the collocation for national output. 'Economical' means thrifty, 'economy' is a noun, and 'economically' is an adverb that cannot modify 'growth'."
+  },
+  {
+    "id": "p5-1829",
+    "sentence": "The tribunal ruled that the dismissal was ___ unfair because no warning had been issued beforehand.",
+    "choices": [
+      "proceeding",
+      "procedurally",
+      "procedural",
+      "proceduralism"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adverb is needed to modify the adjective 'unfair'. 'Procedural' is an adjective, while 'proceduralism' and 'proceeding' are nouns."
+  },
+  {
+    "id": "p5-1830",
+    "sentence": "The contractor was found ___ for the structural defects discovered shortly after handover.",
+    "choices": [
+      "liably",
+      "liability",
+      "liabilities",
+      "liable"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Found liable for' is a fixed adjective phrase meaning legally responsible. 'Liability' and 'liabilities' are nouns; 'liably' is not a standard adverb here."
+  },
+  {
+    "id": "p5-1831",
+    "sentence": "The merger agreement is ___ on regulatory approval being obtained within ninety days of signing.",
+    "choices": [
+      "contiguous",
+      "contingency",
+      "contingent",
+      "contingently"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Contingent on' means dependent on. 'Contiguous' means adjoining, 'contingency' is a noun, and 'contingently' is an adverb that cannot follow 'is' before 'on'."
+  },
+  {
+    "id": "p5-1832",
+    "sentence": "The two divisions are ___ different in how they recognise revenue from long-term contracts.",
+    "choices": [
+      "fundamentalism",
+      "fundamentals",
+      "fundamental",
+      "fundamentally"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adverb is required to modify the adjective 'different'. The other options are an adjective and nouns."
+  },
+  {
+    "id": "p5-1833",
+    "sentence": "The board ___ rejected the proposal, seeing no commercial merit in it whatsoever.",
+    "choices": [
+      "summarised",
+      "summarily",
+      "summarising",
+      "summary"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Summarily' means immediately and without discussion. 'Summary' is a noun or adjective, and 'summarised' and 'summarising' change the meaning and the verb pattern."
+  },
+  {
+    "id": "p5-1834",
+    "sentence": "Under the new rules, directors are held personally ___ for misstatements in the published accounts.",
+    "choices": [
+      "accountable",
+      "accountably",
+      "accounting",
+      "accountant"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Held accountable for' is the fixed adjective phrase. 'Accounting' is a noun or participle, 'accountably' is an adverb, and 'accountant' is a person."
+  },
+  {
+    "id": "p5-1835",
+    "sentence": "The new regulations apply ___ to companies with more than two hundred and fifty employees.",
+    "choices": [
+      "exclusively",
+      "exclusive",
+      "exclusion",
+      "exclusivity"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies the verb 'apply': 'exclusively'. 'Exclusive' is an adjective; 'exclusion' and 'exclusivity' are nouns."
+  },
+  {
+    "id": "p5-1836",
+    "sentence": "The tenants requested that each unit ___ its own separately metered water supply.",
+    "choices": [
+      "has",
+      "having",
+      "had",
+      "have"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Requested that' triggers the subjunctive 'have'. 'Has' and 'had' are indicative forms, and 'having' is not finite."
+  },
+  {
+    "id": "p5-1837",
+    "sentence": "No sooner had the merger been announced ___ the share price began to fall sharply.",
+    "choices": [
+      "that",
+      "then",
+      "than",
+      "while"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'No sooner' is paired with 'than'. 'Then', 'that' and 'while' cannot complete the correlative."
+  },
+  {
+    "id": "p5-1838",
+    "sentence": "___ the supplier's contract, the lawyers noticed several ambiguous clauses.",
+    "choices": [
+      "Reviewed",
+      "Reviewing",
+      "Being reviewed",
+      "Review"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The subject 'the lawyers' performs the action, so the active present participle 'Reviewing' is needed. 'Reviewed' and 'Being reviewed' are passive, and 'Review' is a base form."
+  },
+  {
+    "id": "p5-1839",
+    "sentence": "___ by a series of late deliveries, the retailer switched to a local supplier.",
+    "choices": [
+      "Frustrate",
+      "To frustrate",
+      "Frustrating",
+      "Frustrated"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "The retailer feels the frustration, so the past participle 'Frustrated' is used in the reduced clause. 'Frustrating' means causing frustration, and the other forms do not fit."
+  },
+  {
+    "id": "p5-1840",
+    "sentence": "Any employee ___ to have breached the code of conduct may face disciplinary action.",
+    "choices": [
+      "finding",
+      "finds",
+      "found",
+      "find"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Found to have breached' is a reduced passive relative clause. 'Finding' is active, and 'find' and 'finds' are finite verbs."
+  },
+  {
+    "id": "p5-1841",
+    "sentence": "___ the unfavourable exchange rate, the exporter increased its overseas revenue by eight percent.",
+    "choices": [
+      "Despite",
+      "Whereas",
+      "Although",
+      "However"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Despite' is a preposition taking a noun phrase. 'Although' and 'Whereas' need a clause, and 'However' is an adverb."
+  },
+  {
+    "id": "p5-1842",
+    "sentence": "___ the exporter's revenue rose, its margins narrowed because of higher shipping costs.",
+    "choices": [
+      "Owing to",
+      "Although",
+      "Because",
+      "Despite"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Although' introduces a clause of contrast. 'Despite' and 'Owing to' need a noun phrase, and 'Because' gives the wrong logical relation."
+  },
+  {
+    "id": "p5-1843",
+    "sentence": "The northern division exceeded its targets, ___ the southern division fell well short of its forecast.",
+    "choices": [
+      "such as",
+      "because of",
+      "whereas",
+      "despite"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Whereas' joins two contrasting clauses. 'Despite', 'because of' and 'such as' are prepositional and cannot introduce a clause."
+  },
+  {
+    "id": "p5-1844",
+    "sentence": "Sales fell sharply in the third quarter; ___, the company still managed to post a modest profit.",
+    "choices": [
+      "whereas",
+      "however",
+      "despite",
+      "although"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'However' is a conjunctive adverb that follows a semicolon. 'Although', 'whereas' and 'despite' cannot link two independent clauses this way."
+  },
+  {
+    "id": "p5-1845",
+    "sentence": "___ the contract expressly prohibits subletting, the tenant rented out part of the premises.",
+    "choices": [
+      "Because of",
+      "However",
+      "Despite",
+      "Although"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Although' introduces a concessive clause. 'Despite' and 'Because of' need noun phrases, and 'However' is an adverb."
+  },
+  {
+    "id": "p5-1846",
+    "sentence": "Neither the chief executive ___ the finance director was present when the covenant was breached.",
+    "choices": [
+      "nor",
+      "or",
+      "but",
+      "and"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Neither' is paired with 'nor'. 'Or', 'and' and 'but' do not complete the correlative."
+  },
+  {
+    "id": "p5-1847",
+    "sentence": "The tribunal dismissed the claim ___ the claimant had failed to submit the required evidence.",
+    "choices": [
+      "whereas",
+      "because of",
+      "because",
+      "despite"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Because' introduces a clause. 'Because of' and 'despite' need a noun phrase, and 'whereas' gives the wrong relation."
+  },
+  {
+    "id": "p5-1848",
+    "sentence": "Employees may work remotely, ___ they remain reachable during core hours.",
+    "choices": [
+      "although",
+      "provided",
+      "whereas",
+      "unless"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Provided (that)' states a condition that must be met. 'Unless' reverses the logic, and 'although' and 'whereas' express contrast."
+  },
+  {
+    "id": "p5-1849",
+    "sentence": "Few if ___ of the applicants met the minimum experience requirement for the senior position.",
+    "choices": [
+      "some",
+      "all",
+      "ever",
+      "any"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Few if any' is the fixed expression. 'Ever' is an adverb, and 'some' and 'all' do not fit the idiom."
+  },
+  {
+    "id": "p5-1850",
+    "sentence": "Only a ___ of shareholders attended the meeting, so the quorum was not reached.",
+    "choices": [
+      "handful",
+      "lot",
+      "amount",
+      "multitude"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'A handful of' means a very small number, matching 'only' and the missing quorum. 'Lot' and 'multitude' suggest large numbers, and 'amount' is used with uncountable nouns."
+  },
+  {
+    "id": "p5-1851",
+    "sentence": "The committee interviewed ___ the shortlisted candidates before announcing its decision.",
+    "choices": [
+      "all",
+      "every",
+      "no",
+      "each"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'All the' precedes plural nouns. 'Every' and 'each' are followed by a singular noun without 'the', and 'no' cannot precede 'the'."
+  },
+  {
+    "id": "p5-1852",
+    "sentence": "There is ___ evidence that the supplier falsified its safety certificates, despite repeated allegations.",
+    "choices": [
+      "several",
+      "many",
+      "little",
+      "few"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Evidence' is uncountable, so 'little' is correct. 'Few', 'many' and 'several' are used with countable plural nouns."
+  },
+  {
+    "id": "p5-1853",
+    "sentence": "Far ___ complaints were received this year than last, following the redesign of the online portal.",
+    "choices": [
+      "lesser",
+      "fewer",
+      "less",
+      "little"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Complaints' is countable, so 'fewer' is correct. 'Less' is for uncountables, 'lesser' is an adjective meaning smaller in importance, and 'little' does not fit."
+  },
+  {
+    "id": "p5-1854",
+    "sentence": "By the time the regulator intervened, the bank ___ most of its depositors' funds.",
+    "choices": [
+      "would lose",
+      "will lose",
+      "has lost",
+      "had lost"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Past perfect 'had lost' shows an action completed before another past event. 'Has lost' is present perfect, and 'will lose' and 'would lose' refer to the future."
+  }
+]

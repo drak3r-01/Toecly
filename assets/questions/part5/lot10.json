@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p5-1695",
+    "sentence": "Sales this quarter were roughly three times ___ they were in the same period last year.",
+    "choices": [
+      "what",
+      "as",
+      "than",
+      "those"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Three times what' is used for multiples. The others do not fit."
+  },
+  {
+    "id": "p5-1696",
+    "sentence": "The firm operates plants in Ohio and Texas; the former makes casings, while ___ produces the batteries.",
+    "choices": [
+      "the last one",
+      "the later",
+      "the latter",
+      "the next"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'The former ... the latter' refers back to two items. The other phrases do not refer to the second of two."
+  },
+  {
+    "id": "p5-1697",
+    "sentence": "The CFO warned that the firm would struggle to ___ its mounting debt if interest rates kept climbing.",
+    "choices": [
+      "serve",
+      "service",
+      "furnish",
+      "assist"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "To service debt means to keep up interest and repayments. Serve, furnish and assist do not collocate with debt."
+  },
+  {
+    "id": "p5-1698",
+    "sentence": "Management hopes that cost savings will ___ the heavy initial investment within three years.",
+    "choices": [
+      "repulse",
+      "recall",
+      "retrace",
+      "recoup"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Recoup means to earn back money spent. Recall, retrace and repulse have unrelated meanings (remember, follow back, drive away)."
+  },
+  {
+    "id": "p5-1699",
+    "sentence": "The company's quarterly earnings fell short of analysts' ___, sending its shares sharply lower.",
+    "choices": [
+      "suspicions",
+      "recommendations",
+      "hypotheses",
+      "expectations"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Earnings fall short of expectations. Recommendations, hypotheses and suspicions are not things earnings are measured against."
+  },
+  {
+    "id": "p5-1700",
+    "sentence": "The board approved a one-off ___ of $2 million to cover the unexpected legal settlement.",
+    "choices": [
+      "proviso",
+      "provenance",
+      "provision",
+      "provider"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A provision is money set aside for a future liability. A proviso is a condition, provenance is origin, a provider is a supplier."
+  },
+  {
+    "id": "p5-1701",
+    "sentence": "Interest on the loan will ___ at a rate of four percent per annum, compounded quarterly.",
+    "choices": [
+      "accrue",
+      "accuse",
+      "accede",
+      "accord"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Interest accrues, meaning it accumulates over time. Accede (agree), accuse and accord do not describe interest building up."
+  },
+  {
+    "id": "p5-1702",
+    "sentence": "Expense claims must be ___ by original receipts before they can be reimbursed by the finance department.",
+    "choices": [
+      "subcontracted",
+      "substantiated",
+      "substituted",
+      "subsidized"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Claims are substantiated, meaning proven, by receipts. Substituted, subcontracted and subsidized do not fit with by receipts."
+  },
+  {
+    "id": "p5-1703",
+    "sentence": "Analysts expect the acquisition to deliver significant cost ___ within eighteen months of closing.",
+    "choices": [
+      "synopses",
+      "sympathies",
+      "symmetries",
+      "synergies"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Cost synergies are savings from combining firms. Sympathies, symmetries and synopses are not financial benefits."
+  },
+  {
+    "id": "p5-1704",
+    "sentence": "The treasury department hedges against currency ___ by using forward contracts.",
+    "choices": [
+      "retaliations",
+      "fluctuations",
+      "fixtures",
+      "fractions"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Currency fluctuations are rate swings that hedging protects against. Fractions, retaliations and fixtures make no sense with currency here."
+  },
+  {
+    "id": "p5-1705",
+    "sentence": "The company's liabilities now ___ its assets by a considerable margin, raising serious insolvency concerns.",
+    "choices": [
+      "exceed",
+      "exempt",
+      "exhale",
+      "expel"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Liabilities exceed assets means they are greater. Exempt, expel and exhale cannot take assets as an object in this sense."
+  },
+  {
+    "id": "p5-1706",
+    "sentence": "Investors demanded greater ___ regarding how executive bonuses are calculated and approved.",
+    "choices": [
+      "transience",
+      "transition",
+      "transparency",
+      "transmission"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Transparency means openness. Transience (brevity), transmission and transition do not mean disclosure."
+  },
+  {
+    "id": "p5-1707",
+    "sentence": "The bank requires collateral to ___ the loan against the risk of default.",
+    "choices": [
+      "seclude",
+      "seduce",
+      "sever",
+      "secure"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "To secure a loan is to back it with collateral. Seclude, sever and seduce do not collocate with loan."
+  },
+  {
+    "id": "p5-1708",
+    "sentence": "The audit committee scrutinized the ___ between reported profits and actual cash flow.",
+    "choices": [
+      "discretion",
+      "discrepancy",
+      "distraction",
+      "disruption"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A discrepancy between two figures is a mismatch. Discretion, disruption and distraction do not take between X and Y in this sense."
+  },
+  {
+    "id": "p5-1709",
+    "sentence": "The bond will pay its full face value to investors on the ___ date.",
+    "choices": [
+      "mortality",
+      "maternity",
+      "maturity",
+      "majority"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Maturity date is when a bond is repaid. Majority, mortality and maternity are not bond terms."
+  },
+  {
+    "id": "p5-1710",
+    "sentence": "The settlement is ___ on approval by the court, so no payment will be made yet.",
+    "choices": [
+      "contingent",
+      "continual",
+      "contentious",
+      "contiguous"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Contingent on means dependent on. Continual, contiguous and contentious do not take on approval."
+  },
+  {
+    "id": "p5-1711",
+    "sentence": "The confidentiality clause shall remain in ___ even after the contract has expired.",
+    "choices": [
+      "fortress",
+      "fortune",
+      "fate",
+      "force"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "In force means legally valid. In fate, fortune and fortress are not idiomatic after remain."
+  },
+  {
+    "id": "p5-1712",
+    "sentence": "The court issued an ___ preventing the company from disclosing the trade secrets.",
+    "choices": [
+      "injunction",
+      "indictment",
+      "infraction",
+      "injection"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "An injunction is a court order to stop an act. An indictment is a charge, an injection is a shot, an infraction is a violation."
+  },
+  {
+    "id": "p5-1713",
+    "sentence": "Both parties agreed to submit the dispute to binding ___ rather than pursue lengthy litigation.",
+    "choices": [
+      "arbitrage",
+      "arbitration",
+      "abrogation",
+      "arbitrariness"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Binding arbitration is a private ruling procedure. Arbitrage is trading, arbitrariness is randomness, abrogation is repeal."
+  },
+  {
+    "id": "p5-1714",
+    "sentence": "The lawyer asked the court to ___ the evidence obtained without a valid warrant.",
+    "choices": [
+      "exclaim",
+      "exalt",
+      "exclude",
+      "exhale"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Exclude evidence means rule it inadmissible. Exclaim, exalt and exhale cannot take evidence as an object."
+  },
+  {
+    "id": "p5-1715",
+    "sentence": "The seller made several ___ about the property's condition that later proved to be false.",
+    "choices": [
+      "reparations",
+      "repercussions",
+      "representations",
+      "reconciliations"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Representations are statements of fact in a deal. Repercussions, reconciliations and reparations are not made about condition."
+  },
+  {
+    "id": "p5-1716",
+    "sentence": "The firm is seeking legal ___ after a competitor copied its patented design.",
+    "choices": [
+      "recourse",
+      "reprisal",
+      "recital",
+      "remorse"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Legal recourse means the right to seek a remedy in court. Remorse, recital and reprisal do not fit with seeking legal."
+  },
+  {
+    "id": "p5-1717",
+    "sentence": "Under the lease, the tenant may not ___ the premises without the landlord's written consent.",
+    "choices": [
+      "subvert",
+      "sublet",
+      "subtract",
+      "sue"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Sublet means rent to a third party. Sue, subvert and subtract do not take premises in this sense."
+  },
+  {
+    "id": "p5-1718",
+    "sentence": "The company was ordered to pay punitive ___ for deliberately misleading consumers.",
+    "choices": [
+      "dilemmas",
+      "dividends",
+      "deeds",
+      "damages"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Punitive damages are awarded to punish. Dividends, dilemmas and diplomas cannot be punitive."
+  },
+  {
+    "id": "p5-1719",
+    "sentence": "Failure to disclose the conflict of interest constituted a ___ of fiduciary duty.",
+    "choices": [
+      "brunt",
+      "breeze",
+      "breach",
+      "breadth"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A breach of duty is a violation. Breadth, breeze and brunt do not collocate with of duty."
+  },
+  {
+    "id": "p5-1720",
+    "sentence": "The agreement will ___ automatically for another year unless either party gives notice.",
+    "choices": [
+      "rent",
+      "renovate",
+      "renounce",
+      "renew"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "An agreement renews, meaning continues for a new term. Rent, renounce and renovate cannot describe an agreement automatically continuing."
+  },
+  {
+    "id": "p5-1721",
+    "sentence": "The witness was asked to ___ that the signature on the document was genuine.",
+    "choices": [
+      "attire",
+      "attest",
+      "attach",
+      "attend"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Attest that means confirm as true. Attend, attach and attire do not take a that-clause."
+  },
+  {
+    "id": "p5-1722",
+    "sentence": "The company plans to ___ a hiring freeze until the end of the fiscal year.",
+    "choices": [
+      "impose",
+      "impeach",
+      "impart",
+      "impair"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Impose a freeze means enforce it. Impart, impair and impeach do not collocate with freeze."
+  },
+  {
+    "id": "p5-1723",
+    "sentence": "Candidates must ___ at least five years of experience in supply chain management.",
+    "choices": [
+      "possess",
+      "preside",
+      "pester",
+      "posit"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Possess experience means have it. Posit, pester and preside do not take experience as an object."
+  },
+  {
+    "id": "p5-1724",
+    "sentence": "Following the restructuring, forty employees were made ___ and offered generous severance packages.",
+    "choices": [
+      "rebellious",
+      "reluctant",
+      "remedial",
+      "redundant"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Made redundant means dismissed as the job is no longer needed. The others do not explain severance."
+  },
+  {
+    "id": "p5-1725",
+    "sentence": "Her performance review highlighted a need to ___ more tasks to junior team members.",
+    "choices": [
+      "denounce",
+      "deprive",
+      "delegate",
+      "deplete"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Delegate tasks to means assign to others. Deplete, deprive and denounce do not fit tasks to team members."
+  },
+  {
+    "id": "p5-1726",
+    "sentence": "The recruitment agency will ___ a shortlist of qualified candidates by Friday.",
+    "choices": [
+      "complain",
+      "compile",
+      "compel",
+      "comply"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Compile a shortlist means assemble it. Compel, comply and complain do not take shortlist as object."
+  },
+  {
+    "id": "p5-1727",
+    "sentence": "The firm offers a competitive ___ package including health cover, a pension and stock options.",
+    "choices": [
+      "reparation",
+      "remuneration",
+      "renunciation",
+      "reiteration"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A remuneration package is total pay and benefits. The other nouns do not describe pay."
+  },
+  {
+    "id": "p5-1728",
+    "sentence": "Interviewers should avoid questions that could be construed as ___ against older applicants.",
+    "choices": [
+      "discretion",
+      "disapproval",
+      "discrimination",
+      "disillusionment"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Discrimination against is unfair treatment. Discretion, disillusionment and disapproval do not fit against applicants."
+  },
+  {
+    "id": "p5-1729",
+    "sentence": "New hires undergo a six-month ___ period during which either side can end the employment.",
+    "choices": [
+      "probationary",
+      "procedural",
+      "probabilistic",
+      "prohibitive"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "A probationary period is a trial. Prohibitive, procedural and promotional do not describe a trial period."
+  },
+  {
+    "id": "p5-1730",
+    "sentence": "The manager decided to ___ the underperforming employee to a less demanding role.",
+    "choices": [
+      "reprieve",
+      "reassure",
+      "resign",
+      "reassign"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Reassign to a role means move. Reassure, resign and reprieve cannot be followed by to a role."
+  },
+  {
+    "id": "p5-1731",
+    "sentence": "Companies are struggling to ___ talented engineers in a highly competitive labour market.",
+    "choices": [
+      "reclaim",
+      "retreat",
+      "retort",
+      "retain"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Retain engineers means keep them. Retort, retreat and reclaim do not take staff as objects here."
+  },
+  {
+    "id": "p5-1732",
+    "sentence": "All applicants are subject to a thorough ___ check before an offer is confirmed.",
+    "choices": [
+      "background",
+      "backlog",
+      "backpedalling",
+      "backdrop"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "A background check verifies history. Backdrop, backlog and backpedalling do not form this collocation."
+  },
+  {
+    "id": "p5-1733",
+    "sentence": "She was ___ from her duties pending the outcome of the internal investigation.",
+    "choices": [
+      "suspicious",
+      "suspected",
+      "suspended",
+      "suspenseful"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Suspended from duties means temporarily removed. Suspected, suspicious and suspenseful do not take from duties."
+  },
+  {
+    "id": "p5-1734",
+    "sentence": "Port strikes caused severe ___ to the global supply chain throughout the winter months.",
+    "choices": [
+      "dispositions",
+      "disruptions",
+      "distributions",
+      "disciplines"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Disruptions to a supply chain are breakdowns in flow. The others do not describe damage caused by strikes."
+  }
+]

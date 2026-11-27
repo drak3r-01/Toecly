@@ -1,0 +1,184 @@
+[
+  {
+    "id": "p5-1895",
+    "sentence": "The employer owes a ___ duty to provide a safe working environment, which cannot be waived by contract.",
+    "choices": [
+      "statistical",
+      "statutory",
+      "static",
+      "stationary"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Statutory' means required by law. 'Stationary' means not moving, 'statistical' relates to data, and 'static' means unchanging."
+  },
+  {
+    "id": "p5-1896",
+    "sentence": "Under the whistleblowing policy, staff who report wrongdoing in good faith are protected from ___.",
+    "choices": [
+      "retaliation",
+      "reflation",
+      "retardation",
+      "reclamation"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Retaliation' is punishment for reporting. 'Reclamation' is recovery, 'retardation' is delay, and 'reflation' is economic stimulus."
+  },
+  {
+    "id": "p5-1897",
+    "sentence": "The employer sought to enforce a ___ covenant preventing the former manager from soliciting clients for twelve months.",
+    "choices": [
+      "restricted",
+      "restorative",
+      "responsive",
+      "restrictive"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Restrictive covenant' is the legal term for such clauses. 'Restricted' means limited, 'restorative' means healing, and 'responsive' means reacting."
+  },
+  {
+    "id": "p5-1898",
+    "sentence": "A ___ dismissal occurs when an employer's conduct leaves the employee no reasonable option but to resign.",
+    "choices": [
+      "constrictive",
+      "construed",
+      "constructive",
+      "conclusive"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Constructive dismissal' is the legal term. 'Construed' means interpreted, 'constrictive' means tightening, and 'conclusive' means decisive."
+  },
+  {
+    "id": "p5-1899",
+    "sentence": "The claimant must pay the first five hundred dollars of any loss, known as the policy ___.",
+    "choices": [
+      "excess",
+      "excise",
+      "excerpt",
+      "exceed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "The 'excess' is the amount the policyholder pays first. 'Exceed' is a verb, 'excerpt' is an extract, and 'excise' is a tax."
+  },
+  {
+    "id": "p5-1900",
+    "sentence": "The insurer declined the claim for non-___ of a material fact when the policy was taken out.",
+    "choices": [
+      "discretion",
+      "discipline",
+      "disclosure",
+      "disclaimer"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Non-disclosure' means failing to reveal. 'Disclaimer' is a denial of liability, 'discipline' is control, and 'discretion' is judgement."
+  },
+  {
+    "id": "p5-1901",
+    "sentence": "The insurer used its right of ___ to pursue the negligent contractor for the repair costs it paid.",
+    "choices": [
+      "subtraction",
+      "subordination",
+      "subscription",
+      "subrogation"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Subrogation' lets an insurer pursue a third party after paying. 'Subscription' is a regular payment, 'subordination' is ranking lower, and 'subtraction' is deducting."
+  },
+  {
+    "id": "p5-1902",
+    "sentence": "Flood damage is covered only if the policyholder has purchased the relevant ___ to the standard policy.",
+    "choices": [
+      "enrolment",
+      "endorsement",
+      "encumbrance",
+      "endowment"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "An 'endorsement' is an addition to a policy. 'Endowment' is a gift or policy type, 'enrolment' is registration, and 'encumbrance' is a burden on property."
+  },
+  {
+    "id": "p5-1903",
+    "sentence": "To prevent scope ___, every change request must be approved in writing by the steering committee.",
+    "choices": [
+      "crawl",
+      "crest",
+      "creep",
+      "crop"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Scope creep' is the gradual uncontrolled growth of project scope. 'Crawl', 'crest' and 'crop' do not form the term."
+  },
+  {
+    "id": "p5-1904",
+    "sentence": "The team agreed to ___ the less critical tasks so the main deliverable could be finished on time.",
+    "choices": [
+      "decentralise",
+      "depreciate",
+      "demolish",
+      "deprioritise"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "To 'deprioritise' means to give lower priority. 'Decentralise' means to spread control, 'depreciate' means to lose value, and 'demolish' means to destroy."
+  },
+  {
+    "id": "p5-1905",
+    "sentence": "A project ___ outlines the objectives, scope, timeline and budget, and is signed off before work begins.",
+    "choices": [
+      "chapter",
+      "charter",
+      "charger",
+      "charity"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A 'project charter' is the document authorising a project. 'Chapter', 'charity' and 'charger' do not fit."
+  },
+  {
+    "id": "p5-1906",
+    "sentence": "Because the vendor's component arrived late, the project was ___ for three weeks and the launch was rescheduled.",
+    "choices": [
+      "stalled",
+      "stacked",
+      "stained",
+      "stunted"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Stalled' means halted. 'Stunted' means inhibited in growth, 'stacked' means piled up, and 'stained' means marked."
+  },
+  {
+    "id": "p5-1907",
+    "sentence": "To mitigate the risk of overrun, the project manager built a ten percent ___ into the budget.",
+    "choices": [
+      "contingency",
+      "contention",
+      "constituency",
+      "continuity"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "A 'contingency' is a reserve for unexpected costs. 'Continuity' is unbroken operation, 'constituency' is a body of voters, and 'contention' is a dispute."
+  },
+  {
+    "id": "p5-1908",
+    "sentence": "Team members were asked to ___ any risks they identified to the project manager as soon as possible.",
+    "choices": [
+      "exacerbate",
+      "evacuate",
+      "exaggerate",
+      "escalate"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "To 'escalate' means to pass up to a higher authority. 'Exaggerate' means to overstate, 'evacuate' means to leave, and 'exacerbate' means to worsen."
+  }
+]

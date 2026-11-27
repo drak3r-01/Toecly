@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p5-1655",
+    "sentence": "The firewall prevents unauthorized users ___ the confidential database from outside the network.",
+    "choices": [
+      "from having entered",
+      "from entering",
+      "of entering",
+      "to enter"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Prevent someone from doing' is the pattern. 'to enter' and 'of entering' are not used, and 'from having entered' changes the sense."
+  },
+  {
+    "id": "p5-1656",
+    "sentence": "Management has decided against ___ additional staff until the second-quarter results are published.",
+    "choices": [
+      "hiring",
+      "hire",
+      "to hire",
+      "having hired"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Decide against' takes a gerund. The others use an infinitive or a perfect gerund that changes the meaning."
+  },
+  {
+    "id": "p5-1657",
+    "sentence": "She suggested ___ the product launch until the regulatory approval had been confirmed.",
+    "choices": [
+      "postpone",
+      "postponed",
+      "postponing",
+      "to postpone"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Suggest' is followed by a gerund. 'to postpone' is not used after 'suggest' and the others are unmarked."
+  },
+  {
+    "id": "p5-1658",
+    "sentence": "It is not worth ___ more money on a project that has already exceeded its budget twice.",
+    "choices": [
+      "to spend",
+      "spend",
+      "spent",
+      "spending"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Not worth' takes a gerund. The infinitive and base form are wrong and 'spent' is a participle."
+  },
+  {
+    "id": "p5-1659",
+    "sentence": "The clients are used ___ detailed monthly reports, so any delay will be noticed immediately.",
+    "choices": [
+      "receiving",
+      "for receiving",
+      "to receive",
+      "to receiving"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Be used to' takes a gerund. 'to receive' means a different structure and the others do not fit."
+  },
+  {
+    "id": "p5-1660",
+    "sentence": "The audit team was reluctant ___ any conclusions before examining the remaining records.",
+    "choices": [
+      "drawing",
+      "to draw",
+      "to drawing",
+      "drawn"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Reluctant' is followed by an infinitive. The other forms are not used with this adjective."
+  },
+  {
+    "id": "p5-1661",
+    "sentence": "Employees are discouraged from ___ personal devices to connect to the corporate network.",
+    "choices": [
+      "use",
+      "having used",
+      "using",
+      "to use"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Discourage from' takes a gerund. The infinitive and base form do not fit and 'having used' alters the meaning."
+  },
+  {
+    "id": "p5-1662",
+    "sentence": "We are in the process of ___ our entire inventory management system before the peak season.",
+    "choices": [
+      "overhauling",
+      "to overhaul",
+      "overhauled",
+      "overhaul"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'In the process of' takes a gerund. The others are wrong forms after a preposition."
+  },
+  {
+    "id": "p5-1663",
+    "sentence": "The consultants were not able ___ the root cause of the recurring system failures.",
+    "choices": [
+      "identifying",
+      "to identify",
+      "identify",
+      "to identifying"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Be able' is followed by 'to' plus infinitive. The others use the wrong form."
+  },
+  {
+    "id": "p5-1664",
+    "sentence": "The board is considering ___ to a four-day week on a trial basis next spring.",
+    "choices": [
+      "move",
+      "moved",
+      "moving",
+      "to move"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Consider' takes a gerund. The infinitive is not used and the others do not fit."
+  },
+  {
+    "id": "p5-1665",
+    "sentence": "Please refrain from ___ company equipment for personal purposes during working hours.",
+    "choices": [
+      "to use",
+      "use",
+      "used",
+      "using"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Refrain from' takes a gerund. The infinitive and base form do not fit and the participle lacks the right meaning."
+  },
+  {
+    "id": "p5-1666",
+    "sentence": "We have no objection to your ___ the proposal to the board directly.",
+    "choices": [
+      "submitting",
+      "to submit",
+      "submit",
+      "submissions"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Objection to' is followed by a possessive plus gerund. The others do not follow 'to your'."
+  },
+  {
+    "id": "p5-1667",
+    "sentence": "The investors insisted on ___ informed of every material change to the project schedule.",
+    "choices": [
+      "being",
+      "to be",
+      "been",
+      "having"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Insist on' takes a gerund, here passive 'being informed'. 'to be' is wrong, 'having' needs a past participle and 'been' needs 'having'."
+  },
+  {
+    "id": "p5-1668",
+    "sentence": "The auditors were not allowed ___ the building until security had verified their credentials.",
+    "choices": [
+      "entering",
+      "to enter",
+      "enter",
+      "from entering"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Be allowed' takes 'to' plus infinitive. The others are not used with this passive."
+  },
+  {
+    "id": "p5-1669",
+    "sentence": "By the time the new system goes live in June, the team ___ it for eight months.",
+    "choices": [
+      "had been testing",
+      "would have been testing",
+      "has been testing",
+      "will have been testing"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'By the time' with a present verb requires the future perfect continuous. The others are past or present forms."
+  },
+  {
+    "id": "p5-1670",
+    "sentence": "By next March, we ___ all legacy servers and moved the data to the cloud.",
+    "choices": [
+      "have decommissioned",
+      "would have decommissioned",
+      "will have decommissioned",
+      "will decommission"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'By next March' with a completed action needs the future perfect. The others are simple or past forms."
+  },
+  {
+    "id": "p5-1671",
+    "sentence": "I would have called you earlier if I ___ that the deadline had been moved forward.",
+    "choices": [
+      "had known",
+      "would know",
+      "knew",
+      "have known"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "Third conditional: past perfect in the if-clause. 'knew' and 'would know' do not fit, and 'have known' is not a conditional form."
+  },
+  {
+    "id": "p5-1672",
+    "sentence": "Hardly anyone ___ the importance of cybersecurity before the data breach occurred last spring.",
+    "choices": [
+      "would recognize",
+      "had recognized",
+      "recognizes",
+      "has recognized"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The past perfect marks an earlier past before the breach. The others are present or conditional."
+  },
+  {
+    "id": "p5-1673",
+    "sentence": "The team ___ on the prototype for six months when the funding was suddenly withdrawn.",
+    "choices": [
+      "has been working",
+      "will have been working",
+      "had been working",
+      "have been working"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past perfect continuous shows a duration before a past event. The others use present or future tenses."
+  },
+  {
+    "id": "p5-1674",
+    "sentence": "The new director, who ___ the company since 2012, will chair the next steering committee.",
+    "choices": [
+      "had led",
+      "is leading",
+      "led",
+      "has led"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Since' with a present context needs the present perfect. The simple past, continuous and past perfect do not fit."
+  },
+  {
+    "id": "p5-1675",
+    "sentence": "By the end of this fiscal year, our logistics division ___ more than one million parcels.",
+    "choices": [
+      "had handled",
+      "has handled",
+      "will have handled",
+      "would have handled"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'By the end of' a future period needs the future perfect. The others are past or present."
+  },
+  {
+    "id": "p5-1676",
+    "sentence": "The invoice does not appear in the system, so the supplier ___ it to the wrong address.",
+    "choices": [
+      "had to send",
+      "must have sent",
+      "can't have sent",
+      "needn't have sent"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Must have' expresses a logical deduction about the past. The others deny, express no need or obligation."
+  },
+  {
+    "id": "p5-1677",
+    "sentence": "We ___ so many copies; the meeting was cancelled and nobody needed the handouts.",
+    "choices": [
+      "can't have printed",
+      "shouldn't print",
+      "mustn't have printed",
+      "needn't have printed"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Needn't have' means an action was unnecessary. The others express impossibility, a prohibition or advice for the future."
+  },
+  {
+    "id": "p5-1678",
+    "sentence": "That cannot be the final figure; someone ___ a decimal point when entering the data.",
+    "choices": [
+      "must have misplaced",
+      "should have misplaced",
+      "can't have misplaced",
+      "would misplace"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Must have' expresses a strong deduction. The others express obligation or impossibility."
+  },
+  {
+    "id": "p5-1679",
+    "sentence": "He ___ the meeting; I saw him board a flight to Singapore an hour before it began.",
+    "choices": [
+      "can't have attended",
+      "should have attended",
+      "needn't have attended",
+      "must have attended"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Can't have' expresses a logical impossibility. The others express certainty, a missed duty or lack of need."
+  },
+  {
+    "id": "p5-1680",
+    "sentence": "You ___ me about the delay; I had already been informed by the logistics department.",
+    "choices": [
+      "mustn't have told",
+      "oughtn't tell",
+      "can't have told",
+      "needn't have told"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Needn't have' means the action was unnecessary. The others express prohibition, impossibility or are wrongly formed."
+  },
+  {
+    "id": "p5-1681",
+    "sentence": "The new regulations ___ to take effect from the first of January, according to the ministry.",
+    "choices": [
+      "are expecting",
+      "are expected",
+      "have expected",
+      "expect"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A passive reporting verb is used with a thing subject. The active forms need a person subject."
+  },
+  {
+    "id": "p5-1682",
+    "sentence": "The document, believed ___ in 1987, has just been authenticated by independent experts.",
+    "choices": [
+      "to have been writing",
+      "to have written",
+      "to have been written",
+      "to be written"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past passive infinitive is needed for an earlier event. The others are present, active or continuous."
+  },
+  {
+    "id": "p5-1683",
+    "sentence": "Several executives are alleged ___ confidential data to a competitor before the merger was announced.",
+    "choices": [
+      "to be leaked",
+      "to have leaked",
+      "to have been leaked",
+      "to be leaking"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An earlier event needs the perfect infinitive. 'to leak' is simultaneous, 'to be leaked' is passive and 'having leaked' is not used with 'alleged'."
+  },
+  {
+    "id": "p5-1684",
+    "sentence": "The CEO had the contract ___ by an independent lawyer before signing it.",
+    "choices": [
+      "reviewed",
+      "reviewing",
+      "review",
+      "to review"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Have something done' needs a past participle. The other forms are active."
+  },
+  {
+    "id": "p5-1685",
+    "sentence": "She got the vendor ___ the delivery date by two weeks without any penalty.",
+    "choices": [
+      "postpone",
+      "to postponing",
+      "to postpone",
+      "postponed"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Get someone to do' takes an infinitive. 'postpone' is the wrong form and 'postponed' implies a passive."
+  },
+  {
+    "id": "p5-1686",
+    "sentence": "Management had all the equipment ___ before the new safety regulations took effect.",
+    "choices": [
+      "to inspect",
+      "inspect",
+      "inspecting",
+      "inspected"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Have something done' needs a past participle. The others are active forms."
+  },
+  {
+    "id": "p5-1687",
+    "sentence": "I will have my assistant ___ you the revised schedule this afternoon.",
+    "choices": [
+      "to send",
+      "sent",
+      "send",
+      "sending"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Have someone do' takes a bare infinitive. The others do not fit."
+  },
+  {
+    "id": "p5-1688",
+    "sentence": "We need to get the server ___ before the quarterly audit begins on Monday.",
+    "choices": [
+      "repaired",
+      "repairing",
+      "to repair",
+      "repair"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Get something done' takes a past participle. The others are active."
+  },
+  {
+    "id": "p5-1689",
+    "sentence": "She had her laptop ___ during the flight, so she could not finish the report.",
+    "choices": [
+      "steal",
+      "to steal",
+      "stealing",
+      "stolen"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Have something done' with an unfortunate event needs a past participle. The others are active."
+  },
+  {
+    "id": "p5-1690",
+    "sentence": "We were made ___ our security passes at the reception desk before entering the building.",
+    "choices": [
+      "shown",
+      "to show",
+      "show",
+      "showing"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "The passive of 'make someone do' takes 'to' plus infinitive. The others are not used in this pattern."
+  },
+  {
+    "id": "p5-1691",
+    "sentence": "There is ___ evidence that the new incentive scheme has improved productivity.",
+    "choices": [
+      "several",
+      "little",
+      "a few",
+      "few"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Evidence' is uncountable, so 'little' is used. 'a few', 'few' and 'many' are for countable nouns."
+  },
+  {
+    "id": "p5-1692",
+    "sentence": "___ of the two proposals meets our requirements, so we will invite new bids.",
+    "choices": [
+      "Both",
+      "Either",
+      "Neither",
+      "Another"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Neither of the two' means that none meets the requirements. The others contradict the sense or the singular verb."
+  },
+  {
+    "id": "p5-1693",
+    "sentence": "The more aggressively the firm expands, ___ it becomes to maintain consistent service quality.",
+    "choices": [
+      "the hardest",
+      "more hard",
+      "harder",
+      "the harder"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'The more ... the harder' is a comparative correlative needing 'the'. The others break the pattern."
+  },
+  {
+    "id": "p5-1694",
+    "sentence": "The longer the negotiations drag on, ___ likely a settlement becomes.",
+    "choices": [
+      "the less",
+      "less",
+      "the lesser",
+      "least"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "The correlative needs 'the' plus a comparative. 'less' lacks 'the', 'least' is superlative and 'the lesser' is not an adverb."
+  }
+]
