@@ -63,7 +63,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The gallery can safely accommodate only sixty visitors at any one time because of fire regulations.",
+          "The gallery can safely accommodate only sixty visitors at any one time because of the current fire regulations.",
           "The gallery has been closed on Mondays since March while the old roof is repaired by specialist contractors from abroad.",
           "The gallery's collection of nineteenth-century paintings is among the largest to be found in the whole country.",
           "The gallery is situated close to the central station and is accessible to visitors with reduced mobility and to families."
@@ -173,7 +173,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "We have now reviewed the delivery records and spoken to the driver who handled your order.",
+          "We have reviewed the delivery records and spoken to the driver who handled your order.",
           "We have now refunded the full cost of your order, including the delivery charge.",
           "We apologise sincerely for the inconvenience caused by the delay in dispatching your order.",
           "Your order was packed on 3 November and dispatched by courier on the following morning."
@@ -448,7 +448,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The venue is spacious, well equipped and conveniently located only a few minutes from the airport.",
+          "The venue is spacious, well equipped and conveniently located only a few minutes from the nearest airport terminal building.",
           "The booking process was slow and confusing, and several of our emails went unanswered by the staff for weeks.",
           "Our delegates arrived late because of serious delays on the national rail network on the first morning of the event.",
           "The rooms were cramped, poorly ventilated and located a long way from the nearest railway station or bus stop."
@@ -558,7 +558,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "We would raise our annual order volume by twenty percent if you agreed to reduce your unit prices.",
+          "We would raise our annual order volume by twenty percent if you reduced your unit prices.",
           "Your unit prices have risen by eight percent since our last contract was signed two years ago.",
           "We have received three quotations from alternative suppliers, all of which are below your current prices.",
           "Our annual order volume has remained stable for the past five years despite a rise in demand."

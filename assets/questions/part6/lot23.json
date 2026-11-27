@@ -8,7 +8,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Customers may choose between a courier service with tracked delivery and a postal service with standard handling.",
+          "Customers may choose between a courier service with tracked delivery and a postal service with standard handling fees.",
           "Customers may choose a courier service with tracked delivery, which is dispatched on the same day as the order.",
           "Customers may choose between standard packaging and gift wrapping, which is charged at a flat rate per parcel.",
           "Customers who need an item urgently should note that couriers do not operate on Sundays or public holidays."
@@ -63,7 +63,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Each of them has submitted a detailed program, and both have provided references from organizations similar to our own.",
+          "Each of them has submitted a detailed program, and both have provided references from organizations similar to ours.",
           "Neither of them has submitted a detailed program, and both have provided references from organizations unlike our own.",
           "Each of them has submitted a detailed program, and all three have provided references from our own organization.",
           "Several of them have submitted detailed programs, and the committee has provided references from similar organizations."

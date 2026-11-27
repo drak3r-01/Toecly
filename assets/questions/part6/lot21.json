@@ -8,7 +8,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Authentication will be performed by a code sent to a mobile device registered in advance with the IT department.",
+          "Authentication will be performed by a code sent to a mobile device registered with the IT department.",
           "Authentication will be performed by a code printed on a card issued in advance by the IT department.",
           "Authentication will be performed by a code sent to a device owned by the IT department.",
           "Authentication was performed by a code sent to a mobile device registered with the IT department."
@@ -63,7 +63,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The first six months of employment constitute a probationary period, during which either party may end the contract at two weeks' notice.",
+          "The first six months of employment constitute a probationary period, during which either party may end it at short notice.",
           "The first six months of employment constitute a period of training, during which the department will provide regular mentoring.",
           "The final six months of the contract constitute a period of notice, during which either party may end the arrangement.",
           "The first six months of employment were treated as a trial, during which the department provided mentoring."

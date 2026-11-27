@@ -76,7 +76,7 @@
         "category": "sentence_insertion",
         "choices": [
           "Implementing the requirement was welcomed by shipping lines that had already invested heavily in cleaner engines.",
-          "Implementing the requirement will nevertheless prove considerably more demanding in practice than the announcement suggests.",
+          "Implementing the requirement will nevertheless prove considerably more demanding in practice than the announcement suggests to many.",
           "The requirement applies to passenger ferries as well as freight vessels, which dock in the same quays.",
           "Compliance with the requirement will be checked by inspectors during routine visits to each of the quays."
         ],
@@ -241,7 +241,7 @@
         "category": "sentence_insertion",
         "choices": [
           "This central claim has been challenged repeatedly, and it is rejected by most contemporary scholars of the period.",
-          "This central claim is argued persuasively, and it is supported by a wealth of detail drawn from private correspondence.",
+          "This central claim is argued persuasively, and it is supported by a wealth of detail from private correspondence.",
           "This earlier claim was argued persuasively, and it was supported by detail drawn from private correspondence.",
           "This central claim is argued persuasively, yet it is supported by no detail drawn from private correspondence."
         ],
@@ -283,8 +283,8 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Delaying the repairs would, in the surveyor's judgment, expose both residents and passers-by to an unacceptable risk of falling masonry.",
-          "Delaying the repairs would, in the surveyor's judgment, have reduced the cost for residents and the freeholder alike.",
+          "Delaying the repairs would, in the surveyor's judgment, expose residents and passers-by to a serious risk of falling masonry.",
+          "Delaying the repairs would, in the surveyor's judgment, have reduced the final cost for residents and the freeholder alike.",
           "Postponing the repairs would, in the freeholder's view, lower the insurance premium for residents and passers-by.",
           "Beginning the repairs would, in the surveyor's judgment, expose both residents and passers-by to unacceptable noise levels."
         ],
@@ -393,7 +393,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Experience has shown that the cheapest offer rarely proves the most economical once defects and late deliveries are taken into account.",
+          "Experience has shown that the cheapest offer rarely proves the most economical once defects and late deliveries are counted.",
           "Experience has shown that the cheapest offer rarely proves the most reliable once prices and discounts are taken into account.",
           "Experience has shown that the most expensive offer rarely proves the most economical once defects and delays are ignored.",
           "Experience has shown that the cheapest supplier rarely proves the most economical until defects and delays are taken into account."

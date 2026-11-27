@@ -21,7 +21,7 @@
         "category": "sentence_insertion",
         "choices": [
           "Regular stock will continue to be shipped from the secondary warehouse in the northern region.",
-          "The affected merchandise includes winter apparel, gift sets, and decorative lighting for display windows.",
+          "The affected merchandise includes winter apparel, gift sets, and decorative lighting for the display windows.",
           "Several managers have already asked whether the strike could be extended into the following month.",
           "Carriers have been informed that late arrivals will no longer be accepted at the receiving docks after six p.m."
         ],
@@ -228,7 +228,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The new structure is intended to attract younger visitors while preserving the benefits that regular supporters value most.",
+          "The new structure is intended to attract younger visitors while preserving the benefits regular supporters value most.",
           "The museum has acquired a collection of eighteenth-century maps that will be displayed in the east gallery.",
           "Attendance last year was the highest recorded since the building was reopened following the major renovation.",
           "The board includes representatives from local universities, businesses, and several community organizations."
@@ -338,7 +338,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The aim of the changes is to separate vehicles from people wherever possible and to make each driver accountable.",
+          "The aim of the changes is to separate vehicles from people wherever possible and to make drivers accountable.",
           "The warehouse handles around four thousand pallets a week, a volume that has nearly doubled since last year.",
           "The company has ordered three new electric forklifts, which are expected to be delivered sometime next spring.",
           "Neither of the accidents resulted in a serious injury, though one pallet of goods was badly damaged."
@@ -448,7 +448,7 @@
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "This year, requests will be reviewed in a single round rather than in two stages as in the past.",
+          "This year, requests will be reviewed in a single round rather than in two stages as before.",
           "The research department has grown by almost a quarter since the previous fiscal year began.",
           "Last year's proposals were assessed by an external panel, whose report was shared with project leaders.",
           "Several grants from public agencies will expire at the end of December and will not be renewed."
@@ -461,7 +461,7 @@
         "category": "sentence_insertion",
         "choices": [
           "The board meets four times a year to review progress and approve changes to the research strategy.",
-          "Priority will be given to work that addresses sustainability and makes use of existing laboratory facilities.",
+          "Priority will be given to work that addresses sustainability and makes use of the existing laboratory facilities.",
           "Our partners include two universities and a hospital, all of which have contributed funding in the past.",
           "The finance department will be moving to the third floor of the building at the end of September."
         ],

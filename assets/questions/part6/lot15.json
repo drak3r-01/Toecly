@@ -131,7 +131,7 @@
         "category": "sentence_insertion",
         "choices": [
           "I recognize that every placement will coincide with the preference that you expressed in your application.",
-          "I recognize that not every placement will coincide with the preference that you expressed in your application.",
+          "I recognize that not every placement will coincide with the preference you expressed in your application.",
           "I recognized that not every placement would coincide with the preference that you had expressed.",
           "We recognize that not every candidate will coincide with the preference that the departments expressed."
         ],

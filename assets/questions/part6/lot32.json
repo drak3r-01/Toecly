@@ -76,7 +76,7 @@
         "category": "sentence_insertion",
         "choices": [
           "The results of the trial, which ended in September, have so far fallen short of the expectations of management.",
-          "The results of the trial, which ends in September, have so far exceeded the expectations of management.",
+          "The results of the trial, which ends in September, have so far greatly exceeded the expectations of management.",
           "The results of the staff, which ends in September, have so far exceeded the expectations of the trial.",
           "The cost of the trial, which ends in September, has so far exceeded the expectations of the staff."
         ],
