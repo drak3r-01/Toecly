@@ -26,7 +26,7 @@ Exercise _p5(int i) => Exercise(
     );
 
 Future<InMemoryStore> _openApp(WidgetTester tester, {InMemoryStore? store}) async {
-  tester.view.physicalSize = const Size(400, 900);
+  tester.view.physicalSize = const Size(400, 1300);
   tester.view.devicePixelRatio = 1;
   addTearDown(tester.view.reset);
   tester.platformDispatcher.localesTestValue = [const Locale('en')];

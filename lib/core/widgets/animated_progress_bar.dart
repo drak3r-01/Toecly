@@ -1,21 +1,38 @@
 import 'package:material_ui/material_ui.dart';
 
-/// Progress bar animating to its value (0.0 to 1.0).
+/// Rounded progress bar animating to its value (0.0 to 1.0), filled with a
+/// soft gradient of [color] (default: the theme's primary color).
 class AnimatedProgressBar extends StatelessWidget {
-  const AnimatedProgressBar({super.key, required this.value, this.height = 12});
+  const AnimatedProgressBar({super.key, required this.value, this.height = 12, this.color});
 
   final double value;
   final double height;
+  final Color? color;
 
   @override
   Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    final fill = color ?? scheme.primary;
     return TweenAnimationBuilder<double>(
       tween: Tween(begin: 0, end: value.clamp(0.0, 1.0)),
-      duration: const Duration(milliseconds: 700),
+      duration: const Duration(milliseconds: 900),
       curve: Curves.easeOutCubic,
-      builder: (context, animatedValue, _) => ClipRRect(
-        borderRadius: BorderRadius.circular(height),
-        child: LinearProgressIndicator(value: animatedValue, minHeight: height),
+      builder: (context, animated, _) => Container(
+        height: height,
+        decoration: BoxDecoration(
+          color: scheme.surfaceContainerHighest,
+          borderRadius: BorderRadius.circular(height),
+        ),
+        alignment: Alignment.centerLeft,
+        child: FractionallySizedBox(
+          widthFactor: animated,
+          child: DecoratedBox(
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(height),
+              gradient: LinearGradient(colors: [fill.withValues(alpha: 0.7), fill]),
+            ),
+          ),
+        ),
       ),
     );
   }

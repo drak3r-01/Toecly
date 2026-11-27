@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60 23.5 1120 1120" width="1120" height="1120">
+  <!-- Axe de symétrie x=620 ; toutes les obliques ont la même pente (0.44) -->
+  <defs>
+    <linearGradient id="cap" gradientUnits="userSpaceOnUse" x1="150" y1="150" x2="900" y2="450">
+      <stop offset="0" stop-color="#00CFFB"/>
+      <stop offset=".45" stop-color="#0090FF"/>
+      <stop offset="1" stop-color="#004BFD"/>
+    </linearGradient>
+    <linearGradient id="base" gradientUnits="userSpaceOnUse" x1="328" y1="0" x2="912" y2="0">
+      <stop offset="0" stop-color="#00B2FF"/>
+      <stop offset=".55" stop-color="#004AFB"/>
+      <stop offset="1" stop-color="#009BFF"/>
+    </linearGradient>
+    <linearGradient id="tassel" gradientUnits="userSpaceOnUse" x1="170" y1="350" x2="230" y2="590">
+      <stop offset="0" stop-color="#009CFF"/>
+      <stop offset="1" stop-color="#004BFD"/>
+    </linearGradient>
+    <linearGradient id="green" gradientUnits="userSpaceOnUse" x1="108" y1="0" x2="1139" y2="0">
+      <stop offset="0" stop-color="#7DF53A"/>
+      <stop offset=".5" stop-color="#05A88A"/>
+      <stop offset="1" stop-color="#23FA70"/>
+    </linearGradient>
+    <linearGradient id="orange" gradientUnits="userSpaceOnUse" x1="108" y1="0" x2="1139" y2="0">
+      <stop offset="0" stop-color="#FFAD08"/>
+      <stop offset=".5" stop-color="#FF3F0D"/>
+      <stop offset="1" stop-color="#FF8C03"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Pompon -->
+  <g fill="url(#tassel)">
+    <rect x="176" y="340" width="44" height="130"/>
+    <rect x="148" y="440" width="100" height="150" rx="38"/>
+  </g>
+
+  <!-- Plateau de la toque -->
+  <path fill="url(#cap)" d="M133.6 279.8 L537.6 102 Q620 65.8 702.4 102 L1106.4 279.8 Q1175 310 1106.4 340.2 L702.4 518 Q620 554.2 537.6 518 L133.6 340.2 Q65 310 133.6 279.8 Z"/>
+
+  <!-- Base de la toque -->
+  <path fill="url(#base)" d="M328 465.6 Q328 445.6 341 451.3 L583.4 564 Q620 580.1 656.6 564 L899 451.3 Q912 445.6 912 465.6 L912 590 Q912 625 880 639.1 L675 729.3 Q620 753.5 565 729.3 L360 639.1 Q328 625 328 590 Z"/>
+
+  <!-- Livre : deux branches identiques (même épaisseur, même longueur à droite) -->
+  <g fill="none" stroke-width="108" stroke-linejoin="round">
+    <path stroke="url(#green)" d="M1085 633.4 L650 824.8 Q620 838 590 824.8 L281.1 688.9 A90.6 90.6 0 0 0 161.7 735.3"/>
+    <path stroke="url(#orange)" d="M161.7 735.3 A90.6 90.6 0 0 0 208.1 854.8 L590 1022.8 Q620 1036 650 1022.8 L1085 831.4"/>
+  </g>
+  <circle cx="1085" cy="633.4" r="54" fill="url(#green)"/>
+  <circle cx="1085" cy="831.4" r="54" fill="url(#orange)"/>
+</svg>

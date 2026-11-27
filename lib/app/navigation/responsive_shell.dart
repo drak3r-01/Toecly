@@ -1,6 +1,8 @@
 import 'package:go_router/go_router.dart';
 import 'package:material_ui/material_ui.dart';
 
+import '../../core/widgets/brand_background.dart';
+import '../../core/widgets/toecly_logo.dart';
 import '../../l10n/app_localizations.dart';
 import 'app_destination.dart';
 
@@ -15,10 +17,17 @@ class ResponsiveShell extends StatelessWidget {
   static const double wideLayoutMinWidth = 600;
 
   void _goToDestination(int index) => navigationShell.goBranch(
-        index,
-        // Tapping the active tab again goes back to its root.
-        initialLocation: index == navigationShell.currentIndex,
-      );
+    index,
+    // Tapping the active tab again goes back to its root.
+    initialLocation: index == navigationShell.currentIndex,
+  );
+
+  Widget _withBackground(Widget child) => Stack(
+    children: [
+      const Positioned.fill(child: BrandBackground()),
+      Positioned.fill(child: child),
+    ],
+  );
 
   @override
   Widget build(BuildContext context) {
@@ -34,6 +43,10 @@ class ResponsiveShell extends StatelessWidget {
               selectedIndex: selectedIndex,
               onDestinationSelected: _goToDestination,
               labelType: NavigationRailLabelType.all,
+              leading: const Padding(
+                padding: EdgeInsets.symmetric(vertical: 16),
+                child: ToeclyLogo(size: 48),
+              ),
               destinations: [
                 for (final d in AppDestination.values)
                   NavigationRailDestination(
@@ -44,14 +57,14 @@ class ResponsiveShell extends StatelessWidget {
               ],
             ),
             const VerticalDivider(width: 1),
-            Expanded(child: navigationShell),
+            Expanded(child: _withBackground(navigationShell)),
           ],
         ),
       );
     }
 
     return Scaffold(
-      body: navigationShell,
+      body: _withBackground(navigationShell),
       bottomNavigationBar: NavigationBar(
         selectedIndex: selectedIndex,
         onDestinationSelected: _goToDestination,
