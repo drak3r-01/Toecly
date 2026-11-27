@@ -154,6 +154,10 @@
       }
     }
   },
+  "examResumeTitle": "Examen en cours",
+  "examResumeBody": "Tu as quitté un examen avant de le rendre. Le temps a continué de s'écouler.",
+  "examResume": "Reprendre",
+  "examDiscard": "Abandonner",
   "examQuitTitle": "Quitter l'examen ?",
   "examQuitMessage": "Votre progression sera perdue.",
   "examQuit": "Quitter",

@@ -17,11 +17,7 @@ void main() {
       problems.add('${part.assetFolder}: folder is missing');
       continue;
     }
-    final lots = folder
-        .listSync()
-        .whereType<File>()
-        .where((f) => f.path.endsWith('.json'))
-        .toList()
+    final lots = folder.listSync().whereType<File>().where((f) => f.path.endsWith('.json')).toList()
       ..sort((a, b) => a.path.compareTo(b.path));
     for (final file in lots) {
       files++;

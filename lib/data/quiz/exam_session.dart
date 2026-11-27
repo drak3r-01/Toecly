@@ -49,9 +49,27 @@ class ExamSession {
   void select(int choiceIndex) {
     if (_submitted) return;
     if (choiceIndex < 0 || choiceIndex >= current.question.choices.length) {
-      throw RangeError.index(choiceIndex, current.question.choices, 'choiceIndex');
+      throw RangeError.index(
+        choiceIndex,
+        current.question.choices,
+        'choiceIndex',
+      );
     }
     _answers[current.question.id] = choiceIndex;
+  }
+
+  /// Puts back answers and position saved by [ExamSnapshot]; unknown question ids are ignored.
+  void restore({required Map<String, int> answers, required int currentIndex}) {
+    final choiceCounts = {
+      for (final e in entries) e.question.id: e.question.choices.length,
+    };
+    for (final entry in answers.entries) {
+      final count = choiceCounts[entry.key];
+      if (count != null && entry.value >= 0 && entry.value < count) {
+        _answers[entry.key] = entry.value;
+      }
+    }
+    goTo(currentIndex);
   }
 
   void goTo(int index) {

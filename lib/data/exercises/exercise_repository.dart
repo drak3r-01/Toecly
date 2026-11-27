@@ -1,6 +1,7 @@
 import 'dart:math';
 
 import '../../core/toeic_part.dart';
+import '../quiz/exam_snapshot.dart';
 import 'mock_exam_blueprint.dart';
 import 'models.dart';
 
@@ -23,8 +24,10 @@ class ExerciseRepository {
       });
 
   /// Ids of every question currently in the bank.
-  Future<Set<String>> questionIds() async =>
-      {for (final e in await _all()) for (final q in e.questions) q.id};
+  Future<Set<String>> questionIds() async => {
+        for (final e in await _all())
+          for (final q in e.questions) q.id,
+      };
 
   Future<int> countQuestions(ToeicPart part) async => (await _all())
       .where((e) => e.part == part)
@@ -32,11 +35,18 @@ class ExerciseRepository {
 
   /// Draws exercises from [parts] until about [questionCount] questions are
   /// reached without exceeding it. Returns fewer if the stock is too small.
+  ///
+  /// Exercises holding questions listed in [seen] come last: questions never seen are
+  /// asked first, and the seen ones only once nothing new is left.
   Future<List<Exercise>> drawByQuestionCount({
     required Set<ToeicPart> parts,
     required int questionCount,
+    Set<String> seen = const {},
   }) async {
-    final pool = (await _all()).where((e) => parts.contains(e.part)).toList()..shuffle(_random);
+    final pool = _unseenFirst(
+      (await _all()).where((e) => parts.contains(e.part)).toList(),
+      seen,
+    );
     final drawn = <Exercise>[];
     var total = 0;
     for (final exercise in pool) {
@@ -53,10 +63,11 @@ class ExerciseRepository {
   /// Stock shortages give a shorter exam rather than an error.
   Future<List<Exercise>> drawMockExam([
     MockExamBlueprint blueprint = MockExamBlueprint.official,
+    Set<String> seen = const {},
   ]) async {
     final all = await _all();
     List<Exercise> pick(bool Function(Exercise) test, int count) =>
-        (all.where(test).toList()..shuffle(_random)).take(count).toList();
+        _unseenFirst(all.where(test).toList(), seen).take(count).toList();
     bool part7WithDocs(Exercise e, int docs) =>
         e.part == ToeicPart.part7 && e.documents.length == docs;
 
@@ -68,6 +79,10 @@ class ExerciseRepository {
       ...pick((e) => part7WithDocs(e, 3), blueprint.part7TripleExercises),
     ]);
   }
+
+  /// Rebuilds a saved exam, or null if the bank changed too much to reproduce it.
+  Future<List<Exercise>?> restoreExam(ExamSnapshot snapshot) async =>
+      snapshot.restore(await _all());
 
   /// Finds the exercises owning the given question ids (review mode).
   /// Unknown ids are ignored; each exercise appears once.
@@ -81,7 +96,10 @@ class ExerciseRepository {
   /// exercise may bring along questions that were not missed. Always returns
   /// something when there is something to review, even if the first exercise
   /// alone exceeds [questionCount].
-  Future<List<Exercise>> drawForReview(Iterable<String> questionIds, int questionCount) async {
+  Future<List<Exercise>> drawForReview(
+    Iterable<String> questionIds,
+    int questionCount,
+  ) async {
     final pool = (await findByQuestionIds(questionIds))..shuffle(_random);
     final drawn = <Exercise>[];
     var total = 0;
@@ -93,7 +111,16 @@ class ExerciseRepository {
     return _shuffleChoices(drawn);
   }
 
+  /// Random order, except that exercises with no seen question come before the others.
+  List<Exercise> _unseenFirst(List<Exercise> exercises, Set<String> seen) {
+    exercises.shuffle(_random);
+    if (seen.isEmpty) return exercises;
+    bool isNew(Exercise e) => !e.questions.any((q) => seen.contains(q.id));
+    return [...exercises.where(isNew), ...exercises.where((e) => !isNew(e))];
+  }
+
   /// Choices are shuffled at draw time so the data files and saved ids stay untouched.
-  List<Exercise> _shuffleChoices(List<Exercise> exercises) =>
-      [for (final e in exercises) e.shuffled(_random)];
+  List<Exercise> _shuffleChoices(List<Exercise> exercises) => [
+        for (final e in exercises) e.shuffled(_random),
+      ];
 }

@@ -10,6 +10,7 @@ import '../../app/providers.dart';
 import '../../data/exercises/mock_exam_blueprint.dart';
 import '../../data/exercises/models.dart';
 import '../../data/quiz/exam_session.dart';
+import '../../data/quiz/exam_snapshot.dart';
 import '../../core/widgets/animated_progress_bar.dart';
 import '../../l10n/app_localizations.dart';
 import '../quiz/exercise_page.dart';
@@ -17,9 +18,12 @@ import 'exam_result_view.dart';
 
 /// Draws a mock exam and runs it.
 class ExamScreen extends ConsumerStatefulWidget {
-  const ExamScreen({super.key});
+  const ExamScreen({super.key, this.resume = false});
 
   static const path = '/exam';
+
+  /// Resume the exam saved before the app was closed, if it can still be rebuilt.
+  final bool resume;
 
   @override
   ConsumerState<ExamScreen> createState() => _ExamScreenState();
@@ -27,18 +31,40 @@ class ExamScreen extends ConsumerStatefulWidget {
 
 class _ExamScreenState extends ConsumerState<ExamScreen> {
   // The draw is made once: a rebuild must never change the exam.
-  late final Future<List<Exercise>> _draw = ref.read(exerciseRepositoryProvider).drawMockExam();
+  late final Future<_ExamStart> _start = _prepare();
 
-  void _leave() =>
-      context.canPop() ? context.pop() : context.go(AppDestination.mockExam.path);
+  Future<_ExamStart> _prepare() async {
+    final repository = ref.read(exerciseRepositoryProvider);
+    final saved = widget.resume ? ref.read(examProgressProvider).load() : null;
+    if (saved != null) {
+      final exercises = await repository.restoreExam(saved);
+      if (exercises != null) return (exercises: exercises, saved: saved);
+    }
+    final seen = ref.read(seenQuestionsProvider).loadIds();
+    return (
+      exercises: await repository.drawMockExam(
+        MockExamBlueprint.official,
+        seen,
+      ),
+      saved: null,
+    );
+  }
+
+  /// Leaving for good (quit, or the result was read): nothing is left to resume.
+  Future<void> _leave() async {
+    await ref.read(examProgressProvider).clear();
+    ref.read(dataRevisionProvider.notifier).bump();
+    if (!mounted) return;
+    context.canPop() ? context.pop() : context.go(AppDestination.mockExam.path);
+  }
 
   @override
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context);
-    return FutureBuilder<List<Exercise>>(
-      future: _draw,
+    return FutureBuilder<_ExamStart>(
+      future: _start,
       builder: (context, snapshot) {
-        final exercises = snapshot.data;
+        final exercises = snapshot.data?.exercises;
         final Widget body;
         if (snapshot.hasError) {
           body = Center(child: Text(l10n.quizLoadError));
@@ -47,14 +73,24 @@ class _ExamScreenState extends ConsumerState<ExamScreen> {
         } else if (exercises.isEmpty) {
           body = Center(child: Text(l10n.quizEmpty));
         } else {
+          final saved = snapshot.data!.saved;
           return ExamView(
             exercises: exercises,
             onLeave: _leave,
             onSubmitted: _record,
+            onProgress: (session, endsAt, total) => ref.read(examProgressProvider).save(
+                  ExamSnapshot.capture(session, endsAt: endsAt, total: total),
+                ),
+            resumeFrom: saved,
           );
         }
         return Scaffold(
-          appBar: AppBar(leading: IconButton(icon: const Icon(Icons.close), onPressed: _leave)),
+          appBar: AppBar(
+            leading: IconButton(
+              icon: const Icon(Icons.close),
+              onPressed: _leave,
+            ),
+          ),
           body: body,
         );
       },
@@ -63,14 +99,19 @@ class _ExamScreenState extends ConsumerState<ExamScreen> {
 
   /// Saves the whole exam at once: nothing is revealed before, so nothing is lost by waiting.
   Future<void> _record(ExamSession session, Duration used) async {
+    await ref.read(examProgressProvider).clear();
     await ref.read(answerRecorderProvider).recordExam(
-          entries: [for (final e in session.entries) (exercise: e.exercise, question: e.question)],
-          answers: session.answers,
-          correctAnswers: session.correctCount,
-          duration: used,
-        );
+      entries: [
+        for (final e in session.entries) (exercise: e.exercise, question: e.question),
+      ],
+      answers: session.answers,
+      correctAnswers: session.correctCount,
+      duration: used,
+    );
   }
 }
+
+typedef _ExamStart = ({List<Exercise> exercises, ExamSnapshot? saved});
 
 /// The exam itself: countdown, free navigation, submission, then the result.
 class ExamView extends StatefulWidget {
@@ -79,13 +120,22 @@ class ExamView extends StatefulWidget {
     required this.exercises,
     required this.onLeave,
     this.onSubmitted,
+    this.onProgress,
+    this.resumeFrom,
     this.duration,
   });
 
   final List<Exercise> exercises;
   final VoidCallback onLeave;
+
   /// Defaults to the official exam duration.
   final Duration? duration;
+
+  /// Called when the exam starts and after each answer or move, so it can be saved.
+  final void Function(ExamSession session, DateTime endsAt, Duration total)? onProgress;
+
+  /// Answers, position and end time of an exam being resumed.
+  final ExamSnapshot? resumeFrom;
 
   /// Called once, when the exam is submitted (by the user or when time runs out).
   final FutureOr<void> Function(ExamSession session, Duration used)? onSubmitted;
@@ -96,24 +146,42 @@ class ExamView extends StatefulWidget {
 
 class _ExamViewState extends State<ExamView> {
   late final ExamSession _session = ExamSession(widget.exercises);
-  late final Duration _total = widget.duration ?? MockExamBlueprint.official.duration;
+  late final Duration _total = widget.resumeFrom == null
+      ? widget.duration ?? MockExamBlueprint.official.duration
+      : Duration(seconds: widget.resumeFrom!.totalSeconds);
   // The countdown follows the wall clock, not the number of ticks: ticks are late when the
   // app is in the background or the UI is busy.
-  final DateTime _started = clock.now();
-  late Duration _remaining = _total;
+  late final DateTime _endsAt = widget.resumeFrom?.endsAt ?? clock.now().add(_total);
+  late Duration _remaining = _endsAt.difference(clock.now());
   Timer? _timer;
   bool _timeUp = false;
 
   @override
   void initState() {
     super.initState();
+    final saved = widget.resumeFrom;
+    if (saved != null) {
+      _session.restore(answers: saved.answers, currentIndex: saved.currentIndex);
+    }
+    _saveProgress();
     _timer = Timer.periodic(const Duration(seconds: 1), (_) {
-      setState(() => _remaining = _total - clock.now().difference(_started));
+      setState(() => _remaining = _endsAt.difference(clock.now()));
       if (_remaining <= Duration.zero) {
         _timeUp = true;
         _submit();
       }
     });
+    // The app was closed past the deadline: the exam is over as soon as it reopens.
+    if (_remaining <= Duration.zero) {
+      _timeUp = true;
+      WidgetsBinding.instance.addPostFrameCallback(
+        (_) => mounted ? _submit() : null,
+      );
+    }
+  }
+
+  void _saveProgress() {
+    if (!_session.isSubmitted) widget.onProgress?.call(_session, _endsAt, _total);
   }
 
   @override
@@ -130,7 +198,11 @@ class _ExamViewState extends State<ExamView> {
     widget.onSubmitted?.call(_session, used);
   }
 
-  Future<bool> _confirm({required String title, String? message, required String action}) async {
+  Future<bool> _confirm({
+    required String title,
+    String? message,
+    required String action,
+  }) async {
     final l10n = AppLocalizations.of(context);
     return await showDialog<bool>(
           context: context,
@@ -142,7 +214,10 @@ class _ExamViewState extends State<ExamView> {
                 onPressed: () => Navigator.pop(context, false),
                 child: Text(l10n.examKeepWorking),
               ),
-              FilledButton(onPressed: () => Navigator.pop(context, true), child: Text(action)),
+              FilledButton(
+                onPressed: () => Navigator.pop(context, true),
+                child: Text(action),
+              ),
             ],
           ),
         ) ??
@@ -164,9 +239,17 @@ class _ExamViewState extends State<ExamView> {
     final l10n = AppLocalizations.of(context);
     if (_session.isSubmitted) return widget.onLeave();
     if (await _confirm(
-        title: l10n.examQuitTitle, message: l10n.examQuitMessage, action: l10n.examQuit)) {
+      title: l10n.examQuitTitle,
+      message: l10n.examQuitMessage,
+      action: l10n.examQuit,
+    )) {
       widget.onLeave();
     }
+  }
+
+  void _move(void Function() move) {
+    setState(move);
+    _saveProgress();
   }
 
   void _openGrid() {
@@ -176,18 +259,23 @@ class _ExamViewState extends State<ExamView> {
       builder: (context) => SafeArea(
         child: SingleChildScrollView(
           padding: const EdgeInsets.all(16),
-          child: Wrap(spacing: 8, runSpacing: 8, children: [
-            for (var i = 0; i < _session.totalQuestions; i++)
-              _GridCell(
-                number: i + 1,
-                answered: _session.answerFor(_session.entries[i].question) != null,
-                current: i == _session.currentIndex,
-                onTap: () {
-                  Navigator.pop(context);
-                  setState(() => _session.goTo(i));
-                },
-              ),
-          ]),
+          child: Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            children: [
+              for (var i = 0; i < _session.totalQuestions; i++)
+                _GridCell(
+                  number: i + 1,
+                  answered: _session.answerFor(_session.entries[i].question) != null,
+                  current: i == _session.currentIndex,
+                  onTap: () {
+                    Navigator.pop(context);
+                    setState(() => _session.goTo(i));
+                    _saveProgress();
+                  },
+                ),
+            ],
+          ),
         ),
       ),
     );
@@ -236,21 +324,28 @@ class _ExamViewState extends State<ExamView> {
           tooltip: l10n.quizClose,
           onPressed: _askQuit,
         ),
-        title: Row(children: [
-          Icon(Icons.timer_outlined, color: urgent ? scheme.error : null),
-          const SizedBox(width: 6),
-          Text(
-            _format(_remaining),
-            style: TextStyle(
-              fontFeatures: const [FontFeature.tabularFigures()],
-              color: urgent ? scheme.error : null,
+        title: Row(
+          children: [
+            Icon(Icons.timer_outlined, color: urgent ? scheme.error : null),
+            const SizedBox(width: 6),
+            Text(
+              _format(_remaining),
+              style: TextStyle(
+                fontFeatures: const [FontFeature.tabularFigures()],
+                color: urgent ? scheme.error : null,
+              ),
             ),
-          ),
-        ]),
+          ],
+        ),
         actions: [
           TextButton.icon(
             icon: const Icon(Icons.grid_view),
-            label: Text(l10n.quizQuestionCounter(_session.currentIndex + 1, _session.totalQuestions)),
+            label: Text(
+              l10n.quizQuestionCounter(
+                _session.currentIndex + 1,
+                _session.totalQuestions,
+              ),
+            ),
             onPressed: _openGrid,
           ),
           const SizedBox(width: 4),
@@ -259,46 +354,53 @@ class _ExamViewState extends State<ExamView> {
         ],
       ),
       body: SafeArea(
-        child: Column(children: [
-          Padding(
-            padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
-            child: AnimatedProgressBar(
-              value: _session.answeredCount / _session.totalQuestions,
-              height: 8,
-            ),
-          ),
-          Expanded(
-            child: ExercisePage(
-              exercise: entry.exercise,
-              questionIndex: entry.questionIndex,
-              answers: _session.answers,
-              revealed: false,
-              onSelect: (index) => setState(() => _session.select(index)),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(12),
-            child: Row(children: [
-              Expanded(
-                child: OutlinedButton.icon(
-                  icon: const Icon(Icons.chevron_left),
-                  label: Text(l10n.examPrevious),
-                  onPressed: _session.currentIndex == 0 ? null : () => setState(_session.previous),
-                ),
+        child: Column(
+          children: [
+            Padding(
+              padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
+              child: AnimatedProgressBar(
+                value: _session.answeredCount / _session.totalQuestions,
+                height: 8,
               ),
-              const SizedBox(width: 12),
-              Expanded(
-                child: FilledButton.icon(
-                  icon: const Icon(Icons.chevron_right),
-                  label: Text(l10n.quizNext),
-                  onPressed: _session.currentIndex == _session.totalQuestions - 1
-                      ? null
-                      : () => setState(_session.next),
-                ),
+            ),
+            Expanded(
+              child: ExercisePage(
+                exercise: entry.exercise,
+                questionIndex: entry.questionIndex,
+                answers: _session.answers,
+                revealed: false,
+                onSelect: (index) {
+                  setState(() => _session.select(index));
+                  _saveProgress();
+                },
               ),
-            ]),
-          ),
-        ]),
+            ),
+            Padding(
+              padding: const EdgeInsets.all(12),
+              child: Row(
+                children: [
+                  Expanded(
+                    child: OutlinedButton.icon(
+                      icon: const Icon(Icons.chevron_left),
+                      label: Text(l10n.examPrevious),
+                      onPressed: _session.currentIndex == 0 ? null : () => _move(_session.previous),
+                    ),
+                  ),
+                  const SizedBox(width: 12),
+                  Expanded(
+                    child: FilledButton.icon(
+                      icon: const Icon(Icons.chevron_right),
+                      label: Text(l10n.quizNext),
+                      onPressed: _session.currentIndex == _session.totalQuestions - 1
+                          ? null
+                          : () => _move(_session.next),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }

@@ -35,17 +35,32 @@ class InMemoryStore implements LocalStore {
   Future<void> write(String key, String value) async => values[key] = value;
 }
 
-/// Wraps stored data as `{"version": n, "data": ...}` so the format can evolve.
+/// Wraps stored data as `{"version": n, "data": ...}` so each key can evolve on its own:
+/// bump the version of one key and give [VersionedJson.readJson] a migration for it.
 extension VersionedJson on LocalStore {
-  static const currentVersion = 1;
+  static const defaultVersion = 1;
 
-  /// Returns the stored data, or null when absent, unreadable, or from an unknown version.
-  Object? readJson(String key) {
-    final raw = read(key);
-    if (raw == null) return null;
+  /// Returns the stored data brought up to [version] through [migrations] (`migrations[v]`
+  /// turns version v data into version v+1), or null when absent, unreadable, written by a
+  /// newer app, or older with no migration path.
+  Object? readJson(
+    String key, {
+    int version = defaultVersion,
+    Map<int, Object? Function(Object? data)> migrations = const {},
+  }) {
     try {
-      final decoded = jsonDecode(raw);
-      if (decoded is Map && decoded['version'] == currentVersion) return decoded['data'];
+      final decoded = _decode(read(key));
+      final storedVersion = decoded?['version'];
+      if (storedVersion is! int || storedVersion > version) return null;
+      var stored = storedVersion;
+      var data = decoded!['data'];
+      while (stored < version) {
+        final migrate = migrations[stored];
+        if (migrate == null) return null;
+        data = migrate(data);
+        stored++;
+      }
+      return data;
     } on FormatException {
       // Corrupted data is treated as absent rather than crashing the app.
     } on TypeError {
@@ -54,6 +69,25 @@ extension VersionedJson on LocalStore {
     return null;
   }
 
-  Future<void> writeJson(String key, Object data) =>
-      write(key, jsonEncode({'version': currentVersion, 'data': data}));
+  /// Writes [data] at [version]. Data stored by a newer app is never overwritten, so
+  /// going back to an older release cannot destroy the progress.
+  Future<void> writeJson(
+    String key,
+    Object data, {
+    int version = defaultVersion,
+  }) async {
+    final stored = _decode(read(key))?['version'];
+    if (stored is int && stored > version) return;
+    await write(key, jsonEncode({'version': version, 'data': data}));
+  }
+
+  Map<String, dynamic>? _decode(String? raw) {
+    if (raw == null) return null;
+    try {
+      final decoded = jsonDecode(raw);
+      return decoded is Map<String, dynamic> ? decoded : null;
+    } on FormatException {
+      return null;
+    }
+  }
 }

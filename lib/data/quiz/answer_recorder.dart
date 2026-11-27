@@ -2,6 +2,7 @@ import '../../core/toeic_part.dart';
 import '../exercises/models.dart';
 import '../storage/missed_questions_repository.dart';
 import '../storage/part_stats_repository.dart';
+import '../storage/seen_questions_repository.dart';
 import '../storage/session_history_repository.dart';
 import '../storage/session_record.dart';
 
@@ -12,6 +13,7 @@ class AnswerRecorder {
     required this.stats,
     required this.missed,
     required this.history,
+    this.seen,
     this.onChanged,
     DateTime Function()? now,
   }) : _now = now ?? DateTime.now;
@@ -19,6 +21,9 @@ class AnswerRecorder {
   final PartStatsRepository stats;
   final MissedQuestionsRepository missed;
   final SessionHistoryRepository history;
+
+  /// Remembers answered questions so draws can favour new ones. Optional.
+  final SeenQuestionsRepository? seen;
 
   /// Called after anything was saved, so screens showing statistics can refresh.
   final void Function()? onChanged;
@@ -32,7 +37,12 @@ class AnswerRecorder {
     required bool isCorrect,
     bool masterOnCorrect = false,
   }) async {
-    await stats.recordAnswer(exercise.part, isCorrect: isCorrect, category: question.category);
+    await stats.recordAnswer(
+      exercise.part,
+      isCorrect: isCorrect,
+      category: question.category,
+    );
+    await seen?.markSeen([question.id]);
     if (!isCorrect) {
       await missed.markMissed(question.id);
     } else if (masterOnCorrect) {
@@ -45,6 +55,7 @@ class AnswerRecorder {
   /// (nothing was answered) but kept for review.
   Future<void> recordSkipped(Question question) async {
     await missed.markMissed(question.id);
+    await seen?.markSeen([question.id]);
     onChanged?.call();
   }
 
@@ -77,6 +88,7 @@ class AnswerRecorder {
     }
     await stats.recordAnswers(answered);
     await missed.markMissedAll(missedIds);
+    await seen?.markSeen([for (final entry in entries) entry.question.id]);
     await recordSession(
       mode: SessionMode.mockExam,
       exercises: exercises.toList(),
@@ -93,14 +105,16 @@ class AnswerRecorder {
     required int correctAnswers,
     required Duration duration,
   }) async {
-    await history.add(SessionRecord(
-      mode: mode,
-      finishedAt: _now(),
-      parts: {for (final e in exercises) e.part},
-      totalQuestions: totalQuestions,
-      correctAnswers: correctAnswers,
-      durationSeconds: duration.inSeconds,
-    ));
+    await history.add(
+      SessionRecord(
+        mode: mode,
+        finishedAt: _now(),
+        parts: {for (final e in exercises) e.part},
+        totalQuestions: totalQuestions,
+        correctAnswers: correctAnswers,
+        durationSeconds: duration.inSeconds,
+      ),
+    );
     onChanged?.call();
   }
 }

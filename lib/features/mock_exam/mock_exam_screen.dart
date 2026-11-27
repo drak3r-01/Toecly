@@ -22,9 +22,12 @@ class MockExamScreen extends ConsumerWidget {
     final l10n = AppLocalizations.of(context);
     final theme = Theme.of(context);
     final counts = ref.watch(questionCountsProvider).value;
-    final largest = counts == null || counts.isEmpty
-        ? 0
-        : counts.values.reduce((a, b) => a > b ? a : b);
+    ref.watch(
+      dataRevisionProvider,
+    ); // the saved exam appears and disappears with the data
+    final unfinished = ref.read(examProgressProvider).load() != null;
+    final largest =
+        counts == null || counts.isEmpty ? 0 : counts.values.reduce((a, b) => a > b ? a : b);
 
     return Center(
       child: ConstrainedBox(
@@ -41,10 +44,17 @@ class MockExamScreen extends ConsumerWidget {
                       CircleAvatar(
                         radius: 36,
                         backgroundColor: theme.colorScheme.primaryContainer,
-                        child: Icon(Icons.timer, size: 36, color: theme.colorScheme.primary),
+                        child: Icon(
+                          Icons.timer,
+                          size: 36,
+                          color: theme.colorScheme.primary,
+                        ),
                       ),
                       const SizedBox(height: 16),
-                      Text(l10n.navMockExam, style: theme.textTheme.headlineSmall),
+                      Text(
+                        l10n.navMockExam,
+                        style: theme.textTheme.headlineSmall,
+                      ),
                       const SizedBox(height: 8),
                       Text(
                         l10n.mockExamDescription(
@@ -65,6 +75,46 @@ class MockExamScreen extends ConsumerWidget {
                 ),
               ),
             ),
+            if (unfinished) ...[
+              const SizedBox(height: 16),
+              FadeSlideIn(
+                child: Card(
+                  color: theme.colorScheme.secondaryContainer,
+                  child: Padding(
+                    padding: const EdgeInsets.all(20),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          l10n.examResumeTitle,
+                          style: theme.textTheme.titleMedium,
+                        ),
+                        const SizedBox(height: 8),
+                        Text(l10n.examResumeBody),
+                        const SizedBox(height: 16),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.end,
+                          children: [
+                            TextButton(
+                              onPressed: () async {
+                                await ref.read(examProgressProvider).clear();
+                                ref.read(dataRevisionProvider.notifier).bump();
+                              },
+                              child: Text(l10n.examDiscard),
+                            ),
+                            const SizedBox(width: 8),
+                            FilledButton(
+                              onPressed: () => context.push('${ExamScreen.path}?resume=1'),
+                              child: Text(l10n.examResume),
+                            ),
+                          ],
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
+              ),
+            ],
             if (counts != null) ...[
               const SizedBox(height: 16),
               FadeSlideIn(
@@ -75,7 +125,10 @@ class MockExamScreen extends ConsumerWidget {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(l10n.questionBankTitle, style: theme.textTheme.titleMedium),
+                        Text(
+                          l10n.questionBankTitle,
+                          style: theme.textTheme.titleMedium,
+                        ),
                         const SizedBox(height: 12),
                         for (final (i, part) in ToeicPart.readingParts.indexed)
                           Padding(
@@ -87,7 +140,9 @@ class MockExamScreen extends ConsumerWidget {
                                   children: [
                                     Expanded(child: Text(l10n.partTitle(part))),
                                     Text(
-                                      l10n.questionsAvailable(counts[part] ?? 0),
+                                      l10n.questionsAvailable(
+                                        counts[part] ?? 0,
+                                      ),
                                       style: theme.textTheme.labelMedium?.copyWith(
                                         fontWeight: FontWeight.w700,
                                       ),
@@ -104,7 +159,10 @@ class MockExamScreen extends ConsumerWidget {
                               ],
                             ),
                           ),
-                        Text(l10n.questionBankHint, style: theme.textTheme.bodySmall),
+                        Text(
+                          l10n.questionBankHint,
+                          style: theme.textTheme.bodySmall,
+                        ),
                       ],
                     ),
                   ),
