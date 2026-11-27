@@ -1,0 +1,482 @@
+[
+  {
+    "id": "p7-343",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The strange economics of free concerts",
+        "text": "In many cities, summer brings a season of free outdoor concerts, funded by councils that regard them as a gift to residents. Yet the arrangement is less simple than it appears, and a recent study of twelve such programs suggests that the benefits are distributed rather differently from what organizers assume.\n\nThe authors found that the audiences were not, in the main, the poorer residents for whom free events are often justified. Attendees were typically older, better educated and more likely to live near the venue than the city as a whole. Surveys suggested that many were drawn less by the music than by the pleasure of an unplanned evening in good company, which is not something that price alone can create.\n\nThe programs, however, delivered other returns. Restaurants within walking distance reported a rise in evening trade of around fifteen percent on concert nights, and the council's own accounts suggested that the extra spending more than offset the cost of the event. Organizers who had hoped to broaden the audience therefore faced an awkward finding: the concerts were good for business, though less successful as a social program.\n\nThe researchers do not recommend ending the events. They suggest instead that councils spend part of the budget on transport and publicity aimed at neighborhoods that currently stay away."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main finding of the study?",
+        "category": "main_idea",
+        "choices": [
+          "Free concerts attract mainly younger residents",
+          "Concerts lose money for nearby restaurants",
+          "Free concerts reach a narrower audience",
+          "Residents dislike outdoor evening events"
+        ],
+        "answerIndex": 2,
+        "explanation": "The audience was older, better educated and local, not the poorer residents."
+      },
+      {
+        "prompt": "What economic benefit did the programs bring?",
+        "category": "detail",
+        "choices": [
+          "Higher evening takings at nearby cafes",
+          "Lower costs for the council's transport",
+          "Rising ticket sales for later concerts",
+          "More jobs in the local music industry"
+        ],
+        "answerIndex": 0,
+        "explanation": "Restaurants reported evening trade up around fifteen percent."
+      },
+      {
+        "prompt": "What can be inferred about the audience's motives?",
+        "category": "inference",
+        "choices": [
+          "Most came for the free refreshments on offer",
+          "Few of them knew the concerts were free",
+          "Most were paid by the event organizers",
+          "Many came for the evening more than the music"
+        ],
+        "answerIndex": 3,
+        "explanation": "Many were drawn by an unplanned evening in good company."
+      },
+      {
+        "prompt": "What do the researchers recommend?",
+        "category": "inference",
+        "choices": [
+          "Charging a modest fee to all attendees",
+          "Keep the events but reach other areas",
+          "Cancelling the concerts altogether",
+          "Moving the events to the city center"
+        ],
+        "answerIndex": 1,
+        "explanation": "They suggest spending on transport and publicity for neighborhoods that stay away."
+      }
+    ]
+  },
+  {
+    "id": "p7-344",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Declining an invitation to join an advisory board",
+        "text": "To: Professor Margaret Oduya, Chair, Advisory Board\nFrom: Rafael Domínguez\nSubject: Your invitation to join the board\n\nDear Professor Oduya,\n\nThank you very much for your invitation to join the advisory board of the Institute. I am honored by the offer, and I have given it more thought than my brief reply on Monday may have suggested.\n\nAfter considering the matter carefully, I have concluded that I cannot accept at present. The reasons are practical, not a reflection on the Institute's work, which I greatly admire. In January I will assume the directorship of my own organization, and I expect that my first year will require nearly all of my attention. To join your board and attend only half the meetings would, I feel, be unfair to you and a poor use of the seat.\n\nI should like to suggest that you consider my colleague, Dr. Ingrid Salomonsen, who has the expertise in public finance that your board has said it lacks. I have already mentioned the possibility to her, and she has expressed interest, though she has not yet seen the details.\n\nIf the invitation could be renewed in two years, I would be delighted to reconsider. In the meantime, I hope I may remain in touch, and I would be happy to help informally if the Institute should need advice.\n\nWith sincere thanks,\nRafael Domínguez"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the email?",
+        "category": "purpose",
+        "choices": [
+          "To accept a seat on the advisory board",
+          "To refuse politely and name a substitute",
+          "To ask for a change in meeting dates",
+          "To resign from his own directorship"
+        ],
+        "answerIndex": 1,
+        "explanation": "He declines the invitation and proposes Dr. Salomonsen."
+      },
+      {
+        "prompt": "Why does Mr. Domínguez decline?",
+        "category": "detail",
+        "choices": [
+          "He disagrees with the Institute's work",
+          "He lacks experience in public finance",
+          "He has joined another advisory board",
+          "He will be too busy with a new job"
+        ],
+        "answerIndex": 3,
+        "explanation": "His first year as director will need nearly all his attention."
+      },
+      {
+        "prompt": "What does he imply about attending half the meetings?",
+        "category": "inference",
+        "choices": [
+          "It would not be fair to the Institute",
+          "It would satisfy the Institute's rules",
+          "It would be his preferred choice",
+          "It would allow him to keep the seat"
+        ],
+        "answerIndex": 0,
+        "explanation": "He thinks joining and attending only half would be unfair and a poor use of the seat."
+      },
+      {
+        "prompt": "What does he offer for the future?",
+        "category": "inference",
+        "choices": [
+          "To join the board immediately in January",
+          "To nominate Dr. Salomonsen as chair",
+          "To reconsider if asked again later",
+          "To end contact with the Institute"
+        ],
+        "answerIndex": 2,
+        "explanation": "If the invitation could be renewed in two years, he would reconsider."
+      }
+    ]
+  },
+  {
+    "id": "p7-345",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Introduction of a new expense card system",
+        "text": "MEMORANDUM\nTo: All managers\nFrom: Ibrahim Nasser, Chief Financial Officer\nSubject: Replacement of the petty cash system by company cards\n\nFrom 1 November, petty cash boxes will be withdrawn from all offices and replaced by company expense cards, which will be issued to team leaders and to employees who travel regularly.\n\nThe decision follows an internal review which found that handling cash consumed roughly two hours of administrative time per office each week and that discrepancies, though small, occurred in almost every audit. Cards will make each purchase traceable and will allow the finance team to see spending as it happens, rather than at the end of the month.\n\nEach card will carry a monthly limit set by the department head, and purchases will be restricted to approved categories such as travel, meals and office supplies. Cardholders must photograph each receipt and upload it to the expense app within five working days; transactions without receipts will be deducted from the cardholder's next salary payment.\n\nI recognize that some staff will find the new rules more demanding than the old arrangement. A short training session will be offered in every office during October, and a help desk will operate until the end of the year. Questions about eligibility should be sent to my assistant, Ms. Quill."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main change described in the memo?",
+        "category": "main_idea",
+        "choices": [
+          "Receipts will no longer be required",
+          "Managers will lose all spending authority",
+          "Travel will be banned for most staff",
+          "Cash boxes give way to company cards"
+        ],
+        "answerIndex": 3,
+        "explanation": "Petty cash is replaced by expense cards."
+      },
+      {
+        "prompt": "Why did the review recommend the change?",
+        "category": "detail",
+        "choices": [
+          "Cash had been stolen from several offices",
+          "Cash handling was slow and error-prone",
+          "Employees demanded much higher limits",
+          "The bank had raised its handling fees"
+        ],
+        "answerIndex": 1,
+        "explanation": "Handling cash took about two hours a week and discrepancies occurred in almost every audit."
+      },
+      {
+        "prompt": "What happens to a purchase without a receipt?",
+        "category": "inference",
+        "choices": [
+          "The card will be cancelled immediately",
+          "The purchase will be approved later on",
+          "Its cost may come out of the holder's pay",
+          "The department head will pay for it"
+        ],
+        "answerIndex": 2,
+        "explanation": "Transactions without receipts will be deducted from the next salary payment."
+      },
+      {
+        "prompt": "What can be inferred about employees who rarely travel?",
+        "category": "inference",
+        "choices": [
+          "They may not get a card automatically",
+          "They must go on using petty cash instead",
+          "They will receive larger monthly limits",
+          "They will train staff in every office"
+        ],
+        "answerIndex": 0,
+        "explanation": "Cards go to team leaders and to employees who travel regularly; eligibility questions go to Ms. Quill."
+      }
+    ]
+  },
+  {
+    "id": "p7-346",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Ferndale Language Institute: learn by living the language",
+        "text": "Most language courses promise fluency and deliver a vocabulary list. At the Ferndale Language Institute, we begin from a different assumption: that a language is learned by using it, and that the best classroom is a conversation.\n\nOur intensive courses, offered in six languages, run for four weeks and are limited to eight students per group. Mornings are devoted to structured lessons, but afternoons are spent on projects in the real world: ordering at a market, negotiating a rental, or interviewing a local resident for a short film. Teachers are native speakers, and all instruction after the first week takes place in the target language.\n\nWe do not pretend that the method is easy. Students who have followed our courses report that the first fortnight can be tiring, since it demands constant concentration. Our records, however, show that three quarters of participants advance a full level on the international scale within a month, compared with the usual two or three months in a conventional course.\n\nFees start at 1,900 dollars and include lodging with a local host family. Scholarships covering up to forty percent of the fee are awarded each term to applicants under twenty-five. To book a place, or to arrange a trial lesson, visit our office or write to admissions."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the advertisement?",
+        "category": "main_idea",
+        "choices": [
+          "The school teaches by real use of language",
+          "The school offers cheap courses online",
+          "The school specializes in written grammar",
+          "The school employs only very young teachers"
+        ],
+        "answerIndex": 0,
+        "explanation": "It stresses conversation and real-world projects."
+      },
+      {
+        "prompt": "How are afternoons spent?",
+        "category": "detail",
+        "choices": [
+          "In silence, reading grammar books",
+          "In lectures by visiting professors",
+          "On practical projects outside class",
+          "In travel between host family homes"
+        ],
+        "answerIndex": 2,
+        "explanation": "Afternoons are devoted to projects such as ordering at a market or interviewing residents."
+      },
+      {
+        "prompt": "What does the advertisement admit about the method?",
+        "category": "inference",
+        "choices": [
+          "It works only for advanced learners",
+          "The early weeks can be tiring for students",
+          "It takes longer than conventional courses",
+          "It is unsuitable for young people"
+        ],
+        "answerIndex": 1,
+        "explanation": "The first fortnight can be tiring because it demands constant concentration."
+      },
+      {
+        "prompt": "Who may receive a scholarship?",
+        "category": "detail",
+        "choices": [
+          "All students on their second course",
+          "Students who stay with a hotel",
+          "Teachers of foreign languages",
+          "Applicants younger than twenty-five"
+        ],
+        "answerIndex": 3,
+        "explanation": "Scholarships are awarded to applicants under twenty-five."
+      }
+    ]
+  },
+  {
+    "id": "p7-347",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Maintenance schedule for the east wing, week 12",
+        "text": "EAST WING — MAINTENANCE SCHEDULE, WEEK 12\n(Issued by Facilities Management; supersedes the schedule of 3 March)\n\nMonday: Replacement of corridor lighting, floors 1–2 (7:00 a.m.–1:00 p.m.). Corridors remain accessible, but lights will be off in sections.\nTuesday: Fire alarm test, whole wing (10:00–10:30 a.m.). Alarms will sound; no evacuation is required.\nWednesday: Lift 2 out of service all day for servicing. Lifts 1 and 3 will remain in operation; staff with mobility needs should use Lift 1, which is nearest to the main entrance.\nThursday: Water supply to floor 3 interrupted from 8:00 a.m. to noon for pipe repairs. Bottled water will be provided at the third-floor kitchen.\nFriday: No planned works.\n\nChanges from the previous schedule: the alarm test, originally planned for Wednesday, has been moved to Tuesday because the engineer is unavailable on Wednesday. The lighting work, previously scheduled for Friday, has been brought forward to Monday to avoid interfering with the Friday client visit.\n\nPlease report any problems to the facilities help desk on extension 4400."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the document?",
+        "category": "main_idea",
+        "choices": [
+          "To announce the closing of the whole wing",
+          "To report the results of an alarm test",
+          "To inform staff of planned works this week",
+          "To describe the details of a client's visit"
+        ],
+        "answerIndex": 2,
+        "explanation": "It lists maintenance tasks day by day."
+      },
+      {
+        "prompt": "What will happen on Thursday?",
+        "category": "detail",
+        "choices": [
+          "Water to the third floor will be cut",
+          "Lift 2 will be taken out of service",
+          "The corridor lights will be replaced",
+          "The fire alarm will be tested loudly"
+        ],
+        "answerIndex": 0,
+        "explanation": "Water supply to floor 3 is interrupted from 8 a.m. to noon."
+      },
+      {
+        "prompt": "Why was the lighting work moved?",
+        "category": "inference",
+        "choices": [
+          "Because the engineer was unavailable",
+          "Because the alarms needed testing",
+          "Because the lift required servicing",
+          "To avoid disturbing a visit on Friday"
+        ],
+        "answerIndex": 3,
+        "explanation": "It was brought forward to avoid interfering with the Friday client visit."
+      },
+      {
+        "prompt": "Which statement is NOT true?",
+        "category": "not_true",
+        "choices": [
+          "Bottled water will be provided on Thursday",
+          "Staff must leave during the alarm test",
+          "Lift 1 is the nearest to the main entrance",
+          "The schedule replaces an earlier version"
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice says 'no evacuation is required'."
+      }
+    ]
+  },
+  {
+    "id": "p7-348",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter responding to a student's appeal",
+        "text": "Dear Ms. Varga,\n\nI write on behalf of the Examinations Board in response to your appeal, received on 12 June, against the grade awarded for your dissertation. I have read your submission carefully, together with the original markers' reports and the comments of the external examiner.\n\nThe Board has concluded that the mark of sixty-two percent should stand. You argue that the first marker failed to take account of the difficulty of obtaining interview data from a hospital that withdrew its cooperation midway through your research. I accept that this was a serious obstacle, and the Board has noted that you handled it with considerable resourcefulness. However, the regulations do not permit the mark to be adjusted for circumstances of this kind; they allow adjustment only where there has been an error in the process or evidence of bias, and the Board found neither.\n\nI should add that both markers praised the clarity of your argument and the quality of your analysis, and that the lower mark reflects chiefly the small size of the sample, which limited the strength of your conclusions.\n\nIf you wish, you may ask for a written explanation of how the mark was calculated, and you may also apply for a further review, within twenty-eight days, on the ground that the process was irregular. I am sorry that I cannot give you a more favorable outcome.\n\nYours sincerely,\nDr. Leonie Whitcombe, Secretary to the Board"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To announce a new dissertation topic",
+          "To tell a student the appeal has failed",
+          "To offer a place on a hospital program",
+          "To change the student's final degree"
+        ],
+        "answerIndex": 1,
+        "explanation": "The Board concludes that the mark should stand."
+      },
+      {
+        "prompt": "On what ground does the Board refuse an adjustment?",
+        "category": "detail",
+        "choices": [
+          "The student had missed the deadline",
+          "The external examiner had objected",
+          "The hospital had refused every interview",
+          "Rules allow change only for error or bias"
+        ],
+        "answerIndex": 3,
+        "explanation": "The regulations allow adjustment only for an error in the process or evidence of bias."
+      },
+      {
+        "prompt": "What does the letter suggest about the markers' view of the work?",
+        "category": "inference",
+        "choices": [
+          "They liked the analysis, not the sample",
+          "They found the argument unclear overall",
+          "They accused the student of some bias",
+          "They ignored the hospital's withdrawal"
+        ],
+        "answerIndex": 0,
+        "explanation": "Both praised clarity and analysis; the lower mark reflects the small sample."
+      },
+      {
+        "prompt": "What option remains open to Ms. Varga?",
+        "category": "inference",
+        "choices": [
+          "A new dissertation within a month's time",
+          "A retake of the whole degree course here",
+          "A further review if process was irregular",
+          "A direct appeal to the hospital itself"
+        ],
+        "answerIndex": 2,
+        "explanation": "She may apply for a further review within twenty-eight days on the ground of irregular process."
+      }
+    ]
+  },
+  {
+    "id": "p7-349",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The unfinished business of the paperless ballot",
+        "text": "Several countries have in recent years moved toward electronic voting, attracted by the promise of faster counts and fewer spoiled ballots. The experience of the northern republic, which introduced touch-screen machines three elections ago, suggests that the transition is less straightforward than advocates predicted.\n\nThe machines have indeed reduced the time taken to announce results, from about nine hours to two. Spoiled ballots have almost disappeared, since the machines warn voters of errors. But security specialists have raised a serious objection: the machines produce no paper record, so that, in the event of a dispute, there is nothing to recount. An audit commissioned by the electoral commission found no evidence of tampering, but it also admitted that, without a paper trail, such evidence could not easily have been found.\n\nThe government has promised a modification that will print a receipt, which the voter can check and deposit in a box. Critics welcome the idea but note that the change will cost more than the original machines, and that it may not be ready before the next election. Meanwhile, public trust, according to one poll, has fallen: sixty percent of voters say that they are not sure that their vote is counted accurately."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main point of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Electronic voting has made elections unfair",
+          "Paper ballots are being abolished everywhere",
+          "Voters have welcomed the machines with delight",
+          "Electronic voting is quick but hard to verify"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article weighs faster counts against the lack of a paper record."
+      },
+      {
+        "prompt": "What improvement did the machines bring?",
+        "category": "detail",
+        "choices": [
+          "Elections cost much less to run",
+          "Results are announced far sooner",
+          "Fewer people chose to vote",
+          "More ballots were being spoiled"
+        ],
+        "answerIndex": 1,
+        "explanation": "The time fell from about nine hours to two."
+      },
+      {
+        "prompt": "What does the audit's admission suggest?",
+        "category": "inference",
+        "choices": [
+          "Tampering was clearly proven in some cases",
+          "The machines are fully secure against attack",
+          "Tampering would be hard to detect",
+          "Paper records were destroyed after the vote"
+        ],
+        "answerIndex": 2,
+        "explanation": "Without a paper trail, such evidence could not easily have been found."
+      },
+      {
+        "prompt": "What does the poll indicate?",
+        "category": "inference",
+        "choices": [
+          "Many voters doubt their vote is counted",
+          "Most voters want a return to paper ballots",
+          "Most voters fully trust the commission",
+          "Few voters use the touch-screen machines"
+        ],
+        "answerIndex": 0,
+        "explanation": "Sixty percent are not sure their vote is counted accurately."
+      }
+    ]
+  },
+  {
+    "id": "p7-350",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Returns and exchanges at Lindqvist Outdoor",
+        "text": "Can I return an item? Yes. Unworn and unused items may be returned within thirty days of delivery for a full refund, provided that they are in their original packaging and that all tags are attached. Footwear that has been worn outdoors cannot be accepted.\n\nWho pays for the return? If the item is faulty or was sent in error, we cover the cost of postage and will email you a prepaid label. In all other cases, the customer pays the return postage, which is deducted from the refund unless the order exceeded 150 dollars.\n\nHow long does a refund take? Once the parcel reaches our warehouse, we inspect the goods within three working days and refund the payment within a further five. The time that the money takes to appear in your account depends on your bank.\n\nCan I exchange an item for a different size? Yes, provided the new size is in stock. Exchanges are shipped free of charge, but we cannot reserve a size before we have received the original item. If you are in a hurry, you may prefer to return the item for a refund and place a fresh order.\n\nSale items are final and cannot be returned unless they are faulty."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the page?",
+        "category": "purpose",
+        "choices": [
+          "To explain the rules for returning goods",
+          "To advertise the items in the clearance sale",
+          "To announce a change of the store's address",
+          "To describe how to place an order online"
+        ],
+        "answerIndex": 0,
+        "explanation": "The page answers questions about returns, refunds and exchanges."
+      },
+      {
+        "prompt": "Who pays the postage for a faulty item?",
+        "category": "detail",
+        "choices": [
+          "The customer",
+          "The bank",
+          "The company",
+          "The courier"
+        ],
+        "answerIndex": 2,
+        "explanation": "If the item is faulty, the company covers postage and provides a prepaid label."
+      },
+      {
+        "prompt": "What can be inferred about a large order of 200 dollars?",
+        "category": "inference",
+        "choices": [
+          "The order cannot be returned at all",
+          "Return postage would not be deducted",
+          "The order will be refunded within a day",
+          "The order must be exchanged for another"
+        ],
+        "answerIndex": 1,
+        "explanation": "Postage is deducted unless the order exceeded 150 dollars."
+      },
+      {
+        "prompt": "Why might a customer prefer a refund to an exchange?",
+        "category": "inference",
+        "choices": [
+          "Exchanges cost extra postage to the buyer",
+          "Refunds are always processed instantly",
+          "Exchanges are limited to sale items only",
+          "A size cannot be reserved before it ships"
+        ],
+        "answerIndex": 3,
+        "explanation": "They cannot reserve a size before receiving the original, so a fresh order may be faster."
+      }
+    ]
+  }
+]
