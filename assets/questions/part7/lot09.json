@@ -1,0 +1,483 @@
+[
+  {
+    "id": "p7-189",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Press release: Veritas Analytics acquires Dunmore Data",
+        "text": "MILAN – Veritas Analytics, a provider of business intelligence software, announced on Tuesday that it has agreed to acquire Dunmore Data, a Dublin-based start-up specializing in the analysis of customer feedback. The transaction, whose value was not disclosed, is expected to close in the first quarter of next year, subject to regulatory approval.\n\nDunmore Data, founded six years ago by two former university researchers, employs forty-five people and counts several European retailers among its clients. Its software, which can classify thousands of customer comments within minutes, will be integrated into Veritas's existing platform and offered to its 2,300 corporate customers. \"Our clients have told us that they are drowning in unstructured feedback,\" said Veritas chief executive Silvia Romano. \"Dunmore's technology turns it into decisions.\"\n\nVeritas said that all Dunmore employees will be offered positions, and that the Dublin office will remain open and become the company's European center for language technology. The founders, Dr. Aoife Brennan and Dr. Callum Reid, will stay for at least two years to oversee the integration. Analysts have welcomed the deal but note that integrating a small, research-driven team into a larger company can be difficult. Veritas said it would invest 8 million dollars over three years to expand the Dublin team."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the press release?",
+        "category": "purpose",
+        "choices": [
+          "To report the closing of an office in Dublin",
+          "To announce a planned purchase of a company",
+          "To present the results of a research study",
+          "To recruit employees for a start-up"
+        ],
+        "answerIndex": 1,
+        "explanation": "It announces that Veritas has agreed to acquire Dunmore Data."
+      },
+      {
+        "prompt": "What does Dunmore Data's software do?",
+        "category": "detail",
+        "choices": [
+          "It predicts changes in the prices of retail goods",
+          "It translates business documents between languages",
+          "It stores sales data on behalf of European retailers",
+          "It sorts many customer comments in minutes"
+        ],
+        "answerIndex": 3,
+        "explanation": "It can classify thousands of customer comments within minutes."
+      },
+      {
+        "prompt": "What is indicated about the Dublin office?",
+        "category": "inference",
+        "choices": [
+          "It will gain a more important role",
+          "It will be moved to the city of Milan next year",
+          "It will be closed once two years have passed",
+          "It will be run by the chief executive herself"
+        ],
+        "answerIndex": 0,
+        "explanation": "It will remain open and become the European center for language technology, with investment."
+      },
+      {
+        "prompt": "What is NOT mentioned about the acquisition?",
+        "category": "not_true",
+        "choices": [
+          "The conditions needed before completion",
+          "The plans for the staff of the start-up",
+          "The price Veritas has agreed to pay",
+          "The role of the founders after the sale"
+        ],
+        "answerIndex": 2,
+        "explanation": "The value of the transaction was not disclosed; the other points are covered."
+      }
+    ]
+  },
+  {
+    "id": "p7-190",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "SkyBridge Airlines: Baggage allowance",
+        "text": "Economy passengers may bring one cabin bag (maximum 8 kg, 55 x 40 x 20 cm) and one personal item that fits under the seat. A checked bag of up to 23 kg is included on international routes but not on domestic ones, where it costs 25 dollars if added online at least 24 hours before departure and 40 dollars at the airport. Business class passengers receive two checked bags of 32 kg each.\n\nSports equipment such as bicycles and skis counts as a checked bag, provided it is packed in a protective case; the fee is 60 dollars per item on all routes. Musical instruments smaller than a cello may travel in the cabin if they fit in the overhead locker. Larger instruments require an additional seat to be purchased.\n\nLiquids in the cabin are limited to 100 ml per container. Items exceeding the allowance will be charged at 15 dollars per kilogram at the airport. Passengers traveling with infants may bring a stroller and a car seat free of charge in addition to their allowance. To avoid delays, please check the size of your cabin bag using the gauge at the gate before boarding."
+      },
+      {
+        "type": "email",
+        "title": "Question about baggage",
+        "text": "Dear SkyBridge,\n\nI am booked on flight SB 218 from Chicago to Denver on 14 May in economy. I intend to bring a suitcase weighing about 20 kg and my violin, which is in a standard case. I have not yet added any baggage online. Also, my colleague is bringing a folding bicycle in a hard case. Could you confirm what we would need to pay and whether the violin can be taken into the cabin?\n\nThank you,\nYuki Tanabe"
+      },
+      {
+        "type": "email",
+        "title": "Re: Question about baggage",
+        "text": "Dear Ms. Tanabe,\n\nFlight SB 218 is a domestic service, so the 23 kg bag is not included. If you add it online by 13 May, you pay 25 dollars; otherwise 40 dollars at the airport. Your violin may be carried in the cabin, as long as it fits in the overhead locker, so you will not pay for it. Your colleague's bicycle counts as a checked bag, and the fee is 60 dollars per item, regardless of the route.\n\nPlease note that if your suitcase turns out heavier than 23 kg, 15 dollars is charged for each additional kilogram. Safe travels.\n\nRegards,\nCustomer Support"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Ms. Tanabe's main concern in her e-mail?",
+        "category": "main_idea",
+        "choices": [
+          "Whether she is able to upgrade to business class",
+          "How to make a claim for a lost suitcase in Denver",
+          "What she will owe for baggage on a domestic flight",
+          "Which airport is the closest one to her hotel"
+        ],
+        "answerIndex": 2,
+        "explanation": "She asks what she would need to pay for a suitcase, a violin and a colleague's bicycle."
+      },
+      {
+        "prompt": "What does the reply indicate about her violin?",
+        "category": "detail",
+        "choices": [
+          "It may go in the cabin without extra cost",
+          "It requires that an additional seat is purchased",
+          "It must be checked in the same way as a bicycle",
+          "It is limited to a weight of eight kilograms in total"
+        ],
+        "answerIndex": 0,
+        "explanation": "Instruments smaller than a cello may travel in the cabin if they fit in the overhead locker."
+      },
+      {
+        "prompt": "How much will Ms. Tanabe pay for her suitcase if she adds it on 12 May?",
+        "category": "inference",
+        "choices": [
+          "15 dollars",
+          "40 dollars",
+          "60 dollars",
+          "25 dollars"
+        ],
+        "answerIndex": 3,
+        "explanation": "Adding it online at least 24 hours before departure costs 25 dollars on domestic routes."
+      },
+      {
+        "prompt": "What total will the two travelers pay if they follow the cheapest option?",
+        "category": "inference",
+        "choices": [
+          "60 dollars",
+          "85 dollars",
+          "65 dollars",
+          "100 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "Suitcase online: 25 dollars; bicycle: 60 dollars; the violin is free. Total: 85 dollars."
+      },
+      {
+        "prompt": "What is true about the 23 kg bag on international routes?",
+        "category": "detail",
+        "choices": [
+          "It costs 25 dollars when it is booked online",
+          "It comes with an economy ticket",
+          "It is available only to business class passengers",
+          "It is charged by weight at the airport desk"
+        ],
+        "answerIndex": 1,
+        "explanation": "A checked bag of up to 23 kg is included on international routes."
+      }
+    ]
+  },
+  {
+    "id": "p7-191",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter to tenants about rent adjustment",
+        "text": "Dear Tenant,\n\nI am writing on behalf of Redfern Property Management to inform you of an adjustment to the rent for your apartment at Marlowe Court, which will take effect on 1 January. Under the terms of your lease, rents may be reviewed once a year in line with the regional index of housing costs. This year the index has risen by 3.8 percent, and the owners have decided to apply an increase of 3 percent, which is below the permitted level.\n\nYour new monthly rent will be shown on the attached statement. If you pay by standing order, please note that you will need to update the amount with your bank by 15 December; the management company will not do this on your behalf. Tenants who have lived in their apartment for more than five years will receive a one-time credit of 100 dollars toward the January payment in recognition of their loyalty.\n\nIn the coming spring, the owners also intend to replace the elevators, a project that is expected to take three months. We will give you at least four weeks' notice before work begins, and we will arrange for a temporary service for residents with limited mobility. If you have any questions, you are welcome to attend a residents' meeting in the lobby on 27 November at 6:30 p.m.\n\nYours faithfully,\nLeila Mansour, Property Manager"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To invite the tenants to move out of their apartments",
+          "To announce the sale of the whole building shortly",
+          "To remind the tenants to pay their overdue rent",
+          "To tell tenants about a change in housing costs"
+        ],
+        "answerIndex": 3,
+        "explanation": "It informs tenants of the rent increase and related matters."
+      },
+      {
+        "prompt": "What will tenants of five or more years receive?",
+        "category": "detail",
+        "choices": [
+          "A single reduction on their next payment",
+          "A permanent reduction in their monthly rent amount",
+          "A new lease based on a lower housing index",
+          "A free upgrade of the apartment they live in"
+        ],
+        "answerIndex": 0,
+        "explanation": "They receive a one-time credit of 100 dollars toward the January payment."
+      },
+      {
+        "prompt": "Why is it important for tenants who pay by standing order to act by 15 December?",
+        "category": "inference",
+        "choices": [
+          "The management will cancel the old payments for them",
+          "The new rent will be higher after that particular date",
+          "The tenants must tell the bank themselves",
+          "The owners will review the lease terms once again"
+        ],
+        "answerIndex": 2,
+        "explanation": "The management company will not update the amount on their behalf."
+      },
+      {
+        "prompt": "The word \"permitted\" in paragraph 1 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "requested",
+          "calculated",
+          "allowed",
+          "promised"
+        ],
+        "answerIndex": 2,
+        "explanation": "The rise applied is below the level that the lease allows."
+      }
+    ]
+  },
+  {
+    "id": "p7-192",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Exhibition review: \"Salt and Light\" at the Corvin Gallery",
+        "text": "The Corvin Gallery's new exhibition, devoted to the coastal photography of the late Marta Illes, is at once a triumph of curation and a missed opportunity. The first three rooms are superb. Hung with unusual restraint, the black-and-white prints of fishing villages gain a quiet power from the generous spacing; each image seems to wait for the viewer rather than demand attention. The wall texts are brief and informative, resisting the temptation to explain what is already visible.\n\nThe fourth room is where the show falters. Here, the curators have added a looping video of waves with a soundtrack of recorded interviews, presumably to bring Illes's world to life. In practice, the audio spills into the adjoining space and distracts from the prints, which are, in any case, the artist's real achievement. [A] The final room, containing her little-known color work from the 1980s, deserves a larger audience; it is tucked away behind the gift shop and can easily be missed. [B]\n\nFor visitors, a few practical notes. Admission is 12 dollars, free on the first Sunday of the month, and the exhibition runs until 3 March. The catalog, at 38 dollars, is handsomely produced but contains few of the color images, which seems a pity. Overall, the show is worth a visit, ideally on a quiet weekday morning, when the silence suits the work."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall opinion?",
+        "category": "main_idea",
+        "choices": [
+          "Strongly negative because of the high admission prices",
+          "Completely positive without any reservation at all",
+          "Unable to decide because of the poor lighting",
+          "Mostly positive, with some criticism of later rooms"
+        ],
+        "answerIndex": 3,
+        "explanation": "The reviewer praises the first rooms and objects to the video and the hidden final room, but still recommends a visit."
+      },
+      {
+        "prompt": "What criticism is made of the fourth room?",
+        "category": "detail",
+        "choices": [
+          "The prints are hung too close to one another",
+          "Noise from the video disturbs other parts of the show",
+          "The wall texts explain far too much about the images",
+          "The room is too dark for visitors to see the pictures"
+        ],
+        "answerIndex": 1,
+        "explanation": "The audio spills into the adjoining space and distracts from the prints."
+      },
+      {
+        "prompt": "What can be inferred about the color photographs?",
+        "category": "inference",
+        "choices": [
+          "They were taken after the photographer's death",
+          "They are less famous than her black-and-white work",
+          "They are all reproduced in the exhibition catalog",
+          "They are displayed in the first room of the gallery"
+        ],
+        "answerIndex": 1,
+        "explanation": "The review calls them 'little-known' work and says they are tucked away."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"A quieter presentation of the interviews, perhaps on headphones, would have solved the problem.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence offers a remedy for the audio problem that has just been described, so it fits at [A] immediately after the criticism of the distracting sound."
+      }
+    ]
+  },
+  {
+    "id": "p7-193",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice: Changes to the Harbor Ferry timetable",
+        "text": "From Monday 2 March, the Harbor Ferry will operate a revised winter timetable. Departures from the Eastside terminal will leave at 6:45, 7:30 and 8:15 a.m., then hourly from 9:00 a.m. until 4:00 p.m., and at 5:15 and 6:00 p.m. The crossing takes twenty-five minutes. Because of low demand, there will be no service after 6:00 p.m. on weekdays, and weekend departures will begin at 9:00 a.m.\n\nSeason ticket holders may use their existing passes until their expiration date. The single fare increases from 3.20 to 3.60 dollars, while the monthly pass rises from 78 to 84 dollars. Bicycles may be carried free outside peak hours (7:00 to 9:00 a.m. and 4:30 to 6:30 p.m.)."
+      },
+      {
+        "type": "email",
+        "title": "Complaint about the new timetable",
+        "text": "Dear Harbor Ferry,\n\nI read the notice about the new schedule with dismay. I work at the Westside hospital and finish my shift at 7:30 p.m. on weekdays, and until now I have been able to return on the 8:00 p.m. ferry. With no service after 6:00 p.m., I would have to take a bus that takes more than an hour. I also use a monthly pass, and I would like to know whether the price change affects me immediately.\n\nI do not understand why a service so important to health workers is being reduced.\n\nMateo Ruiz"
+      },
+      {
+        "type": "email",
+        "title": "Re: Complaint about the new timetable",
+        "text": "Dear Mr. Ruiz,\n\nThank you for your message. We understand the difficulty for people working late shifts. Our passenger counts showed fewer than ten people per evening on the 8:00 p.m. sailing, but after your message and those of other hospital staff, the operator will examine a late departure at 7:45 p.m. on weekdays. The decision will be announced by 20 February, before the new timetable begins.\n\nYour pass is valid until its end date, so you would pay the new price of 84 dollars only at renewal. In the meantime, a bus line 12 stops opposite the hospital, but we accept that this is not a satisfactory solution.\n\nSincerely,\nCustomer Relations"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of Mr. Ruiz's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To request a refund for a ferry ticket he bought",
+          "To ask for a job at the Westside hospital",
+          "To suggest a new route to a different terminal",
+          "To protest against a cut in a service he uses"
+        ],
+        "answerIndex": 3,
+        "explanation": "He is unhappy that service ends at 6:00 p.m., which would affect his journey home."
+      },
+      {
+        "prompt": "Why did the operator remove the evening sailing?",
+        "category": "detail",
+        "choices": [
+          "Few travelers were using it",
+          "The ferry needed repairs each evening",
+          "The hospital changed its working hours",
+          "Fuel prices had increased sharply"
+        ],
+        "answerIndex": 0,
+        "explanation": "Fewer than ten people per evening used the 8:00 p.m. sailing, and the notice cites low demand."
+      },
+      {
+        "prompt": "What might happen to the late service?",
+        "category": "inference",
+        "choices": [
+          "It will be canceled for the whole year",
+          "It will be moved to the weekend",
+          "A new weekday sailing might be introduced",
+          "It will remain exactly as planned"
+        ],
+        "answerIndex": 2,
+        "explanation": "The operator will examine a 7:45 p.m. departure and announce its decision by 20 February."
+      },
+      {
+        "prompt": "When will Mr. Ruiz probably pay the higher pass price?",
+        "category": "inference",
+        "choices": [
+          "On 2 March",
+          "On 20 February",
+          "When his current pass runs out",
+          "As soon as the notice was issued"
+        ],
+        "answerIndex": 2,
+        "explanation": "His pass is valid until its end date, so the new price applies only at renewal."
+      },
+      {
+        "prompt": "What can be concluded about the 7:45 p.m. departure, if it is introduced?",
+        "category": "inference",
+        "choices": [
+          "It would let Mr. Ruiz travel home after work",
+          "It would carry bicycles free of charge at any time",
+          "It would start from the Westside terminal at night",
+          "It would replace the 6:00 p.m. departure entirely"
+        ],
+        "answerIndex": 0,
+        "explanation": "He finishes at 7:30 p.m., and a 7:45 p.m. crossing would fit; the other details are not mentioned."
+      }
+    ]
+  },
+  {
+    "id": "p7-194",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Retail returns: updated procedure",
+        "text": "To: Store managers\nFrom: Fiona Garrity, Customer Experience\nDate: 5 October\n\nEffective 1 November, the return period for most products will be extended from 14 to 30 days. The decision follows a customer survey in which 62 percent of respondents named the short return window as their main frustration. The only exceptions are underwear, perishable goods and personalized items, which cannot be returned unless faulty.\n\nStaff should continue to ask for a receipt, but a purchase can now be traced through the loyalty card or the payment card used. Where no proof of purchase is available, the item may be exchanged but not refunded, and store credit should be issued at the lowest price at which the item has been sold in the past ninety days. Refunds must always be made to the original payment method; cash refunds above 50 dollars require manager approval.\n\nManagers are asked to brief their teams before 25 October and to display the new poster by the entrance. Training materials will be sent next week. Please note that during the first month, we will monitor the number of returns closely, since the longer period may increase them; a review will take place in December."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What change does the memo announce?",
+        "category": "main_idea",
+        "choices": [
+          "A new refund method that applies to cash payments",
+          "The closing of the customer service desk in stores",
+          "A ban on any returns made without a receipt",
+          "A longer time during which goods may be returned"
+        ],
+        "answerIndex": 3,
+        "explanation": "The return period is extended from 14 to 30 days."
+      },
+      {
+        "prompt": "What can staff do for a customer without a receipt?",
+        "category": "detail",
+        "choices": [
+          "Give a full refund in cash",
+          "Offer a swap or credit but not money back",
+          "Refuse the return in all cases",
+          "Trace the item only by its serial number"
+        ],
+        "answerIndex": 1,
+        "explanation": "Items may be exchanged but not refunded, with store credit at the lowest recent price."
+      },
+      {
+        "prompt": "Which item could be returned only if it is damaged?",
+        "category": "detail",
+        "choices": [
+          "A pair of shoes",
+          "A customized mug",
+          "A winter coat",
+          "A kitchen appliance"
+        ],
+        "answerIndex": 1,
+        "explanation": "Personalized items cannot be returned unless faulty."
+      },
+      {
+        "prompt": "What is suggested about the company's expectations?",
+        "category": "inference",
+        "choices": [
+          "It expects customers to stop using loyalty cards",
+          "It plans to close several stores in December",
+          "It believes the survey results are unreliable",
+          "It anticipates that more goods may come back"
+        ],
+        "answerIndex": 3,
+        "explanation": "The memo says the longer period may increase returns and will be monitored."
+      }
+    ]
+  },
+  {
+    "id": "p7-195",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Invitation to speak at the Annual Safety Forum",
+        "text": "Dear Dr. Mbeki,\n\nOn behalf of the Northern Industrial Safety Association, I am delighted to invite you to give a keynote address at our Annual Safety Forum on 11 November at the Clarendon Conference Center. Your recent study on fatigue and workplace accidents has generated considerable interest among our members, many of whom manage shift-based operations in manufacturing and mining.\n\nWe would be grateful if you could speak for forty-five minutes, followed by fifteen minutes for questions. The session would take place at 9:30 a.m. on the first day, immediately after the welcome address. We are able to offer an honorarium of 1,500 dollars and to cover your travel and one night's accommodation. Should you wish to bring a colleague to assist with the presentation, we could include a second registration at no charge.\n\nThe forum usually attracts around 400 delegates, and we will record the sessions for later distribution to members, unless you prefer otherwise. We would be happy to discuss any particular requirements for the technical setup. If you are able to accept, please confirm by 30 September, so that we can include your name in the printed program, which goes to press on 5 October.\n\nWith best regards,\nHannah Lowell, Program Chair"
+      },
+      {
+        "type": "email",
+        "title": "Re: Invitation",
+        "text": "Dear Ms. Lowell,\n\nThank you for the kind invitation, which I am pleased to accept. I should point out that I am committed to a project in Nairobi until 8 November and will land in the country on the morning of the 10th, so I would prefer not to stay overnight beforehand. I would also appreciate it if my talk were scheduled in the afternoon in case of flight delays. Regarding the recording, I would be glad to have it shared with members, provided that the slides containing unpublished data are removed.\n\nMy colleague, Dr. Sipho Dlamini, would join me for the question session.\n\nKind regards,\nDr. Amara Mbeki"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was Dr. Mbeki invited?",
+        "category": "detail",
+        "choices": [
+          "Her research interests the association's members",
+          "She is a former member of the safety association",
+          "She currently manages a large mining operation",
+          "She was given an award for safety last year"
+        ],
+        "answerIndex": 0,
+        "explanation": "Her recent study on fatigue and workplace accidents has generated considerable interest."
+      },
+      {
+        "prompt": "What is NOT offered to Dr. Mbeki in the invitation?",
+        "category": "not_true",
+        "choices": [
+          "Payment for her speech at the forum",
+          "A hotel room for the night of her stay",
+          "Space in a published article",
+          "A free place for an assistant to attend"
+        ],
+        "answerIndex": 2,
+        "explanation": "The invitation offers an honorarium, accommodation and a second registration, but no article contribution."
+      },
+      {
+        "prompt": "What is Dr. Mbeki's concern about the schedule?",
+        "category": "inference",
+        "choices": [
+          "She prefers to speak on the second day",
+          "She dislikes answering questions",
+          "She wants a margin in case her flight is late",
+          "She will be unable to attend until the 12th"
+        ],
+        "answerIndex": 2,
+        "explanation": "She asks for an afternoon slot in case of flight delays since she arrives only on the morning of the 10th."
+      },
+      {
+        "prompt": "What condition does Dr. Mbeki attach to the recording?",
+        "category": "detail",
+        "choices": [
+          "Data not yet published must be removed",
+          "Only members of the association may watch it",
+          "It must be released before the end of December",
+          "Her colleague's name must appear on every slide"
+        ],
+        "answerIndex": 0,
+        "explanation": "She agrees if the slides with unpublished data are removed."
+      },
+      {
+        "prompt": "What can be inferred about Dr. Mbeki's journey?",
+        "category": "inference",
+        "choices": [
+          "She will fly from Nairobi on 8 November",
+          "She has already spoken at the Clarendon Center",
+          "She will remain abroad until after the forum",
+          "She will arrive in the country the day before the forum"
+        ],
+        "answerIndex": 3,
+        "explanation": "She lands on the morning of the 10th and the forum is on the 11th."
+      }
+    ]
+  }
+]
