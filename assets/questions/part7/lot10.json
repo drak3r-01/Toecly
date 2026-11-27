@@ -14,9 +14,9 @@
         "category": "main_idea",
         "choices": [
           "Online shoppers are buying fewer clothes than before",
-          "Free returns are becoming too costly for sellers to maintain",
-          "Stores have started to accept returns from other firms",
-          "Carbon emissions from airlines are falling quickly"
+          "Free returns are growing too costly for sellers",
+          "Stores have started accepting returns from other firms",
+          "Emissions from airlines are falling at a rapid rate"
         ],
         "answerIndex": 1,
         "explanation": "The article explains why retailers are starting to charge for returns, given high processing and environmental costs."
@@ -56,66 +56,6 @@
         ],
         "answerIndex": 2,
         "explanation": "Fees may make low-income shoppers less willing to order, so they 'discourage' them."
-      }
-    ]
-  },
-  {
-    "id": "p7-197",
-    "documents": [
-      {
-        "type": "email",
-        "title": "Reminder: Quarterly inventory count",
-        "text": "To: Warehouse and store supervisors\nFrom: Ivana Petrov, Inventory Control\nSubject: Quarterly count on Saturday 14 June\n\nDear colleagues,\n\nThis is a reminder that the quarterly inventory count will take place on Saturday 14 June. All stores will close at 3 p.m. on Friday 13 June, and the warehouse will not dispatch any orders after noon on that day. Counting will begin at 7 a.m. on Saturday and should be completed by 4 p.m.\n\nPlease remember the following points. Teams of two will count each aisle, one person counting and the other recording, and the teams will be rotated after lunch so that every section is counted by two different pairs. Any difference of more than two percent between the system and the physical count must be recounted before a team leaves the aisle. Damaged goods should be placed in the yellow cages and not counted, as they will be assessed separately by quality control.\n\nOvertime for the day will be paid at one and a half times the normal rate, and a meal will be provided at noon. Supervisors who have not yet submitted their staffing plans should send them to me by Wednesday so that I can confirm the assignments. Please note that annual leave is not available for the count day except in an emergency."
-      }
-    ],
-    "questions": [
-      {
-        "prompt": "What is the purpose of the e-mail?",
-        "category": "purpose",
-        "choices": [
-          "To announce the opening of another large warehouse",
-          "To report a loss of goods noticed in the system",
-          "To prepare supervisors for a stock count",
-          "To change the pay rates that apply to overtime"
-        ],
-        "answerIndex": 2,
-        "explanation": "It reminds supervisors of arrangements for the quarterly count."
-      },
-      {
-        "prompt": "Why are the teams rotated after lunch?",
-        "category": "detail",
-        "choices": [
-          "So each aisle is checked by two pairs",
-          "To give each worker a different task to perform",
-          "To prevent people from working too long in one place",
-          "To make it easy to count the damaged goods apart"
-        ],
-        "answerIndex": 0,
-        "explanation": "Every section is counted by two different pairs."
-      },
-      {
-        "prompt": "What should happen to goods that are damaged?",
-        "category": "detail",
-        "choices": [
-          "They should be counted twice",
-          "They should be sent back to suppliers",
-          "They should be sold at a discount",
-          "They should be put aside and not included"
-        ],
-        "answerIndex": 3,
-        "explanation": "They go into the yellow cages and are not counted."
-      },
-      {
-        "prompt": "What is NOT stated about Saturday's work?",
-        "category": "not_true",
-        "choices": [
-          "Workers will be given a meal at midday",
-          "Employees will receive a day off in exchange",
-          "Extra hours will be paid at a higher rate",
-          "Staff leave is generally not allowed"
-        ],
-        "answerIndex": 1,
-        "explanation": "Overtime is paid at one and a half times the rate; no day off is mentioned."
       }
     ]
   },

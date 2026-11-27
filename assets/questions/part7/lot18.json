@@ -13,10 +13,10 @@
         "prompt": "What is the purpose of the e-mail?",
         "category": "purpose",
         "choices": [
-          "To announce the purchase of a new program",
+          "To announce the purchase of a new booking program",
           "To ask the team to use a tool more carefully",
-          "To criticize a client for late payment",
-          "To cancel a training day"
+          "To criticize a client for paying late this month",
+          "To cancel a training day planned for the team"
         ],
         "answerIndex": 1,
         "explanation": "He sets out three rules for using the shared calendar properly."
@@ -25,10 +25,10 @@
         "prompt": "What problem happened last Thursday?",
         "category": "detail",
         "choices": [
-          "Two meetings used one room",
+          "Two meetings were booked into one room",
           "A client call was set in the wrong week",
-          "The calendar was unavailable all day",
-          "A delivery had nobody to contact about it"
+          "The calendar was unavailable all day long",
+          "A delivery was left with nobody to contact"
         ],
         "answerIndex": 3,
         "explanation": "Nobody had recorded Mr. Ivanov's absence, so a delivery was left without a contact."
@@ -98,8 +98,8 @@
         "category": "inference",
         "choices": [
           "Local people are refusing to buy any apartments",
-          "Flights to the town had always been expensive",
-          "Property prices will soon rise sharply again",
+          "Flights to the town were always very costly",
+          "Property prices will soon rise sharply once again",
           "Many owners bought homes mainly for the cheap flights"
         ],
         "answerIndex": 3,

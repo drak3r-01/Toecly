@@ -25,10 +25,10 @@
         "prompt": "What is the largest cost for the scheme?",
         "category": "detail",
         "choices": [
-          "Paying for the docking stations",
-          "Repairing damage caused by users",
-          "Advertising the service to residents",
-          "Moving bicycles from one area to another"
+          "Paying for the docking stations in the center",
+          "Repairing damage caused by careless users",
+          "Advertising the service to all residents",
+          "Moving bicycles from one district to another"
         ],
         "answerIndex": 3,
         "explanation": "Collecting and redistributing bicycles accounts for nearly half of the operating budget."
@@ -73,9 +73,9 @@
         "prompt": "What is the main purpose of the memo?",
         "category": "purpose",
         "choices": [
-          "To warn employees about a rise in parking fees",
-          "To request volunteers for a building project",
-          "To explain how staff can manage while work is done",
+          "To warn employees about a rise in parking fees now",
+          "To ask for volunteers for a building project",
+          "To explain how staff can cope while work is done",
           "To announce a new bus route to the campus"
         ],
         "answerIndex": 2,
@@ -85,10 +85,10 @@
         "prompt": "Which part of the car park will be closed in April?",
         "category": "inference",
         "choices": [
-          "Central first, then the southern one",
+          "The central section first, then the southern one",
           "The northern section for the whole of the month",
           "Only the section located near the visitor spaces",
-          "All three sections of the car park at the same time"
+          "All three sections of the car park at once"
         ],
         "answerIndex": 0,
         "explanation": "Phase 2 (central) ends on 17 April and Phase 3 (southern) starts on 20 April."
@@ -97,10 +97,10 @@
         "prompt": "How much could a staff member receive for using public transport?",
         "category": "detail",
         "choices": [
-          "20 dollars each week",
-          "A complete monthly pass",
+          "20 dollars for every week of the trial",
+          "A complete monthly pass paid in full",
           "100 dollars for the whole period",
-          "Up to 60 dollars in total"
+          "No more than 60 dollars in total"
         ],
         "answerIndex": 3,
         "explanation": "The reimbursement is 20 dollars toward the monthly pass, up to a maximum of 60 dollars."

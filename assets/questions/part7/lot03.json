@@ -14,9 +14,9 @@
         "category": "purpose",
         "choices": [
           "To report that the building has been damaged",
-          "To suggest a way of dealing with a late delivery",
-          "To request a larger budget for new scanners",
-          "To announce the replacement of a supplier"
+          "To propose a way of handling a late delivery",
+          "To ask for a bigger budget for new scanners",
+          "To announce that a supplier will be replaced"
         ],
         "answerIndex": 1,
         "explanation": "Ms. Petrenko explains a delayed shipment and proposes a staged opening. The building is not damaged, no budget increase is requested, and no supplier is replaced."
@@ -55,7 +55,7 @@
           "[D]"
         ],
         "answerIndex": 1,
-        "explanation": "'These services' refers to the clinic, laboratory and pharmacy mentioned just before [B]. At [A], [C] and [D] the sentence would have no clear referent."
+        "explanation": "'These services' can only refer to the clinic, laboratory and pharmacy named in the immediately preceding sentence; anywhere else the phrase would have no clear referent."
       }
     ]
   },
@@ -87,7 +87,7 @@
         "choices": [
           "Students who need help with their schoolwork",
           "Staff members of the county council offices",
-          "Older residents and recent arrivals in the country",
+          "Older residents and people new to the country",
           "Local business owners who file tax returns"
         ],
         "answerIndex": 2,
@@ -133,10 +133,10 @@
         "prompt": "Why is the site visit being rescheduled?",
         "category": "detail",
         "choices": [
-          "Mr. Brandt has a conflict with another client",
-          "A representative of the client is unable to arrive",
-          "The floor plans have not yet been approved",
-          "Ms. Okoye has no transport tomorrow"
+          "Mr. Brandt has a clash with another client",
+          "A representative of the client cannot be there",
+          "The floor plans have not been approved yet",
+          "Ms. Okoye has no means of transport tomorrow"
         ],
         "answerIndex": 1,
         "explanation": "The client's engineer is stuck at the airport, so the visit moves to Thursday."
@@ -145,10 +145,10 @@
         "prompt": "At 2:46 p.m., what does Ms. Okoye mean when she writes, \"the train times are awkward\"?",
         "category": "inference",
         "choices": [
-          "The trains have been canceled this week",
-          "She does not think rail travel would be convenient",
-          "She intends to go to the airport by train",
-          "She is late for an appointment this afternoon"
+          "The trains have been canceled for the week",
+          "She does not find rail travel convenient",
+          "She plans to take the train to the airport",
+          "She is already late for an appointment today"
         ],
         "answerIndex": 1,
         "explanation": "She explains that she would drive because the train timetable does not suit the plan."
@@ -160,7 +160,7 @@
           "Book a room for the debrief meeting",
           "Collect the revised plans from the client",
           "Move the safety audit to the next day",
-          "Work out a price for an enlargement of the site"
+          "Calculate a price for enlarging the site"
         ],
         "answerIndex": 3,
         "explanation": "He says he will prepare the cost estimate for the extension so figures can be presented on the day."
@@ -204,9 +204,9 @@
         "category": "purpose",
         "choices": [
           "To complain about the interest rate she was charged",
-          "To close her current account with the bank",
-          "To find out whether she can obtain financing for a project",
-          "To ask for a contractor to be recommended"
+          "To close the current account she holds with the bank",
+          "To find out if she can get financing for a project",
+          "To ask the bank to recommend a contractor to her"
         ],
         "answerIndex": 2,
         "explanation": "She describes her project and asks whether she is eligible and what rate she would receive."
@@ -292,10 +292,10 @@
         "prompt": "What experience of Mr. Achebe matches the ad's preference?",
         "category": "detail",
         "choices": [
-          "A period spent as an external auditor",
-          "Several years in a medical clinic",
-          "A qualification obtained in the pharmaceutical sector",
-          "Work for a company in aerospace manufacturing"
+          "A period spent working as an external auditor",
+          "Several years of service in a medical clinic",
+          "A qualification gained in the drug industry",
+          "Employment in an aerospace manufacturer"
         ],
         "answerIndex": 3,
         "explanation": "The ad prefers medical or aerospace environments, and he works at Kestrel Aerospace."
@@ -316,10 +316,10 @@
         "prompt": "Why might the rotating shift system be a difficulty for Mr. Achebe?",
         "category": "inference",
         "choices": [
-          "He is unable to wear protective clothing",
-          "He has no experience of night work",
-          "It could clash with a family obligation he has",
-          "He lives a long way from the plant"
+          "He is unable to wear the protective clothing",
+          "He has never done any night work before",
+          "It could conflict with a family commitment of his",
+          "He lives a long way from the production plant"
         ],
         "answerIndex": 2,
         "explanation": "He cares for a relative on alternate Saturdays, which may conflict with the every-third-weekend rota."
@@ -429,10 +429,10 @@
         "prompt": "What is the notice mainly about?",
         "category": "main_idea",
         "choices": [
-          "A suggested alteration to a transit service",
-          "A reduction in the price of bus fares",
-          "The opening of a new university campus",
-          "The closing of a hospital stop"
+          "A proposed alteration to a transit service",
+          "A cut in the price of bus fares in the city",
+          "The opening of a new university campus nearby",
+          "The closing of one of the hospital's bus stops"
         ],
         "answerIndex": 0,
         "explanation": "The notice describes a proposed change to route 14 and invites comments. Fares, campus openings and hospital closures are not mentioned."
@@ -454,9 +454,9 @@
         "category": "inference",
         "choices": [
           "It was approved before the notice was published",
-          "It will start on the same day as the final vote",
-          "It could be changed after the public has given views",
-          "It is intended to reduce the number of riders"
+          "It starts on the same day as the final vote",
+          "It may be modified once the public has commented",
+          "It is meant to reduce the number of riders"
         ],
         "answerIndex": 2,
         "explanation": "The board may adopt it in modified form or reject it after reviewing the comments, so it is not final."

@@ -51,8 +51,8 @@
         "choices": [
           "He wants the town's portal to be improved quickly",
           "He supported the plan to keep a telephone helpline",
-          "He is concerned for residents who lack technology skills",
-          "He is the one who proposed the savings in the plan"
+          "He worries about residents who lack digital skills",
+          "He is the person who proposed the savings plan"
         ],
         "answerIndex": 2,
         "explanation": "He argued that older and non-native residents rely on face-to-face help."
@@ -109,10 +109,10 @@
         "prompt": "What will Ms. Fernandes have to do at the next stage?",
         "category": "inference",
         "choices": [
-          "Answer questions on her references",
-          "Show how she would organize a study abroad",
-          "Negotiate her salary with the director",
-          "Visit the company's laboratory"
+          "Answer detailed questions about her references",
+          "Explain how she would organize a study abroad",
+          "Negotiate her salary package with the director",
+          "Tour the company's laboratory with senior staff"
         ],
         "answerIndex": 1,
         "explanation": "She will propose how she would organize a trial in a new country."
@@ -133,10 +133,10 @@
         "prompt": "What is the main problem reported by Mr. Webb?",
         "category": "detail",
         "choices": [
-          "The boiler makes a loud noise at night",
+          "The boiler makes a loud noise during the night",
           "The apartment is not being heated properly",
-          "The pipes in the kitchen are leaking",
-          "The cat has damaged the radiators"
+          "The pipes in the kitchen are leaking badly",
+          "The cat has damaged the radiators in the flat"
         ],
         "answerIndex": 1,
         "explanation": "The living room radiator does not heat and the bedroom one is lukewarm."
@@ -157,10 +157,10 @@
         "prompt": "What will the contractor do first?",
         "category": "detail",
         "choices": [
-          "Let air out of the radiators and test the pressure",
-          "Replace the whole boiler with a new model",
+          "Release trapped air and test the system pressure",
+          "Replace the whole boiler with a brand new model",
           "Order a missing part for the heating system",
-          "Install electric heaters in each of the rooms"
+          "Install some electric heaters in every room"
         ],
         "answerIndex": 0,
         "explanation": "Delmar will bleed all radiators and check the system's pressure."
@@ -169,9 +169,9 @@
         "prompt": "What is NOT promised to Mr. Webb?",
         "category": "not_true",
         "choices": [
-          "A visit within two days",
-          "News about parts within a day",
-          "Payment for electric heaters he buys",
+          "A visit from the contractor within two days",
+          "News about spare parts within a day",
+          "Payment for electric heaters he buys himself",
           "A possible rent reduction after five days"
         ],
         "answerIndex": 2,
@@ -193,10 +193,10 @@
         "prompt": "What is the reviewer's overall verdict?",
         "category": "main_idea",
         "choices": [
-          "The book is a complete failure",
+          "The book is a complete literary failure",
           "The book is better than the author's first two",
-          "The book is flawed but worth reading",
-          "The book is only suitable for experts on maps"
+          "The book has flaws but deserves to be read",
+          "The book is of interest only to map experts"
         ],
         "answerIndex": 2,
         "explanation": "The reviewer criticizes the middle but calls the novel intelligent, ambitious and moving."

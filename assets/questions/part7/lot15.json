@@ -13,8 +13,8 @@
         "prompt": "What is the main idea of the article?",
         "category": "main_idea",
         "choices": [
-          "A shop that sells secondhand electrical appliances",
-          "A community project that mends goods and unites people",
+          "A shop that sells secondhand electrical appliances only",
+          "A community project that mends goods and links people",
           "A factory that produces tools for local tailors",
           "A school that trains engineers for nearby firms"
         ],
@@ -98,9 +98,9 @@
         "category": "detail",
         "choices": [
           "Return the goods that had been received",
-          "Replace the stands with another model",
-          "Pay for the express freight",
-          "Reduce the price to make up for the delay"
+          "Replace the stands with a different model",
+          "Pay for the express freight themselves",
+          "Lower the price to make up for the delay"
         ],
         "answerIndex": 3,
         "explanation": "They offered Vesper a discount of 5 percent as compensation."
@@ -109,73 +109,13 @@
         "prompt": "What can be inferred about the writer's attitude?",
         "category": "inference",
         "choices": [
-          "She will contact another supplier straight away",
-          "She would like to keep working with him if it is solved",
-          "She is happy with the answer she has been given",
-          "She intends to take the matter to a court of law"
+          "She will contact another supplier immediately",
+          "She wants to keep trading with him if it is settled",
+          "She is satisfied with the reply that she was given",
+          "She means to take the matter to a court of law"
         ],
         "answerIndex": 1,
         "explanation": "She mentions six years of work together and values the relationship, asking for a reply to decide how to proceed."
-      }
-    ]
-  },
-  {
-    "id": "p7-226",
-    "documents": [
-      {
-        "type": "email",
-        "title": "Welcome to the team",
-        "text": "To: Ruben Castillo\nFrom: Joanna Pike, Office Manager\nSubject: Your first week at Tidewater Consulting\n\nDear Ruben,\n\nWe are delighted that you will be joining us as a junior analyst on Monday 8 September. Here is what to expect on your first day. Please arrive at 9:00 a.m. at the main reception on the third floor, where you will be met by your mentor, Dilnoza Rahimova. She will give you your badge, show you the office and introduce you to the team. At 10:30, you will meet with Human Resources to sign your contract and complete the necessary forms; please bring your passport and bank details.\n\nYour laptop will be set up in advance, but you will need to change your password when you log in. On Tuesday morning, there is a training session on our reporting tools, and on Thursday, the whole company will gather for the monthly lunch, at which new colleagues are traditionally introduced. [A] We do not expect you to prepare anything, though many people find it helpful to say a few words about themselves. [B]\n\nThe office is open from 8 a.m. to 6 p.m., and flexible hours can be arranged with your manager after the probation period. If you drive, please note that the car park is only for senior staff; there is a bicycle shed and the 14 bus stops directly outside. [C] If you have any questions before Monday, do not hesitate to contact me. [D]\n\nWarm regards,\nJoanna"
-      }
-    ],
-    "questions": [
-      {
-        "prompt": "What is the purpose of the e-mail?",
-        "category": "purpose",
-        "choices": [
-          "To confirm a job offer by telephone",
-          "To prepare a new employee for the first days",
-          "To explain the company's pension plan",
-          "To invite a candidate to an interview"
-        ],
-        "answerIndex": 1,
-        "explanation": "It describes what Ruben should expect on his first days."
-      },
-      {
-        "prompt": "Who will welcome Mr. Castillo on his first morning?",
-        "category": "detail",
-        "choices": [
-          "The head of Human Resources",
-          "The managing director of the company",
-          "A member of the IT department",
-          "A colleague assigned to guide him"
-        ],
-        "answerIndex": 3,
-        "explanation": "His mentor, Dilnoza Rahimova, will meet him at reception."
-      },
-      {
-        "prompt": "What is Mr. Castillo asked to bring on Monday?",
-        "category": "detail",
-        "choices": [
-          "Proof of identity and his bank details",
-          "A laptop that will then be set up by the IT staff",
-          "A written reference signed by his future mentor",
-          "A summary of his previous experience at work"
-        ],
-        "answerIndex": 0,
-        "explanation": "He should bring his passport and bank details to the HR meeting."
-      },
-      {
-        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Employees who travel by public transport may also apply for a monthly subsidy.\"",
-        "category": "sentence_insertion",
-        "choices": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
-        ],
-        "answerIndex": 2,
-        "explanation": "The sentence belongs with the transport information at the end of the paragraph; [C] follows the mention of the bus and bicycle shed, so it adds to that list."
       }
     ]
   },
@@ -264,7 +204,7 @@
         "category": "main_idea",
         "choices": [
           "Finding a place where she can learn Mandarin",
-          "Becoming more involved in the group's activities",
+          "Taking a bigger part in the group's activities",
           "Complaining about the monthly cost of the club",
           "Booking a table at the cafe for a group dinner"
         ],
@@ -345,9 +285,9 @@
         "prompt": "Which sessions does Ms. Costa receive advice to attend?",
         "category": "detail",
         "choices": [
-          "A session on data and a session on educational games",
-          "Two different sessions held in Room 101",
-          "A session on dyslexia and a session on multilingual learners",
+          "A session on data analysis and one on educational games",
+          "Two sessions held in the same room, number 101",
+          "A session on dyslexia and one on multilingual learners",
           "The opening keynote and the closing panel only"
         ],
         "answerIndex": 2,
@@ -370,9 +310,9 @@
         "category": "detail",
         "choices": [
           "She has another session in Room 101",
-          "She does not wish to hear employers",
+          "She does not want to hear employers",
           "She has to leave the conference at lunchtime",
-          "She has to pick up her child"
+          "She must collect her child from school"
         ],
         "answerIndex": 3,
         "explanation": "She leaves at 3 p.m. to collect her son, and the panel is at 3:15."

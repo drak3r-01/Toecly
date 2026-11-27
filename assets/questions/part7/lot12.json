@@ -74,9 +74,9 @@
         "category": "purpose",
         "choices": [
           "To explain how to apply for a job at the hospital",
-          "To advertise services in the maternity ward",
+          "To advertise the services of the maternity ward now",
           "To announce new rules for people visiting patients",
-          "To ask the public to donate to the hospital"
+          "To ask the public to give money to the hospital"
         ],
         "answerIndex": 2,
         "explanation": "It describes new visiting hours and conditions from 1 September."
@@ -97,9 +97,9 @@
         "prompt": "Who may visit before 2:00 p.m.?",
         "category": "inference",
         "choices": [
-          "A friend of a patient staying in a general ward",
-          "A child under twelve with a grandparent",
-          "A person who has the first symptoms of flu",
+          "A friend visiting a patient in a general ward",
+          "A child under twelve with a grandparent along",
+          "A person who has the first signs of flu now",
           "A parent coming to see a child in the pediatric unit"
         ],
         "answerIndex": 3,
@@ -175,7 +175,7 @@
           "[D]"
         ],
         "answerIndex": 0,
-        "explanation": "The sentence continues the cost comparison and the break-even point mentioned just before [A], describing the savings after that point."
+        "explanation": "'This difference' refers to the break-even point and cost comparison just described, so the sentence follows them directly. The risk discussion that comes later is about data storage."
       }
     ]
   },
@@ -207,8 +207,8 @@
         "choices": [
           "The company card she used had already expired",
           "The deadline for the early-bird rate had passed",
-          "The address she gave differs from the bank's records",
-          "Her e-mail address had been spelled incorrectly"
+          "The address she gave differs from the bank's file",
+          "Her e-mail address had been typed incorrectly"
         ],
         "answerIndex": 2,
         "explanation": "Greg says it happens when the billing address doesn't match the issuer's records; she entered her home address."

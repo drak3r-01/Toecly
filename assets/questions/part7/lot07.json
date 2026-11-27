@@ -13,10 +13,10 @@
         "prompt": "What is the article mainly about?",
         "category": "main_idea",
         "choices": [
-          "A bank's decision to lend money to local farmers",
+          "A bank's decision to lend large sums to local farmers",
           "Residents who built and now profit from a power plant",
           "A dispute between a parish and a large energy firm",
-          "A new design for roof-mounted solar panels at home"
+          "A new design for solar panels fixed to roofs"
         ],
         "answerIndex": 1,
         "explanation": "Villagers formed a cooperative that built a solar park and now earn income and lower bills."
@@ -55,7 +55,7 @@
           "[D]"
         ],
         "answerIndex": 0,
-        "explanation": "'As a result' needs the fourteen-month connection delay immediately before it, which is the sentence preceding [A]. At [B] the text has moved on to the chair's comments."
+        "explanation": "'As a result' needs the fourteen-month connection delay immediately before it. The later slot comes after the chair's comments, where a consequence about payments no longer follows logically."
       }
     ]
   },
@@ -203,10 +203,10 @@
         "prompt": "What is the purpose of Ms. Verma's e-mail?",
         "category": "purpose",
         "choices": [
-          "To complain about a recent rise in meeting room prices",
-          "To cancel an event that was held on an earlier date",
-          "To book a venue for a training session",
-          "To ask for a refund for the catering already supplied"
+          "To complain about a rise in meeting room prices",
+          "To cancel an event that took place earlier",
+          "To reserve a venue for a training session",
+          "To ask for a refund for the catering supplied"
         ],
         "answerIndex": 2,
         "explanation": "She requests a room for a workshop and asks about accessibility and early access."
