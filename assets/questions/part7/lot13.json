@@ -1,65 +1,5 @@
 [
   {
-    "id": "p7-212",
-    "documents": [
-      {
-        "type": "article",
-        "title": "Translators fear the rise of machine drafts",
-        "text": "For decades, literary translator Camille Ferrand worked from a blank page. Today, she is more likely to start with a draft produced by software, which she then reworks line by line. [A] The change, she says, has not made her work easier; it has merely altered its nature. \"Correcting a machine's confident mistakes,\" she explains, \"is more tiring than inventing a sentence yourself.\"\n\nPublishers, however, have seen an opportunity. Several now offer lower rates for \"post-editing\" than for translation from scratch, arguing that the machine has done part of the work. [B] The Society of Literary Translators has objected, noting that post-editing can take nearly as long as translating and demands the same linguistic skill. Its survey of 600 members found that a third had been asked to accept reduced fees in the past year.\n\nNot every translator is hostile to the technology. Some use it to handle technical passages or to produce rough versions of lengthy documents, reserving their energy for the passages that matter. [C] Younger translators, in particular, see little point in resisting a tool that clients are likely to adopt anyway. The real danger, according to Ms. Ferrand, is subtler: texts that are accurate but lifeless. \"The software rarely makes a mistake that a reader would notice,\" she says. \"It simply flattens the voice, and no one complains about what they never saw.\" [D]"
-      }
-    ],
-    "questions": [
-      {
-        "prompt": "What is the article mainly about?",
-        "category": "main_idea",
-        "choices": [
-          "The decline in the number of novels published each year",
-          "How software is changing the work of professional translators",
-          "A new language that is spreading across the world",
-          "A court case between a publisher and an author"
-        ],
-        "answerIndex": 1,
-        "explanation": "It describes translators' use of machine drafts and the effects on their pay, work and style."
-      },
-      {
-        "prompt": "What is Ms. Ferrand's view of correcting machine drafts?",
-        "category": "detail",
-        "choices": [
-          "It is quicker than translating from scratch",
-          "It is possible only for technical passages",
-          "It has improved the quality of her translations",
-          "It is more tiring than writing the sentence herself"
-        ],
-        "answerIndex": 3,
-        "explanation": "She says that correcting a machine's confident mistakes is more tiring than inventing a sentence."
-      },
-      {
-        "prompt": "The word \"flattens\" in paragraph 3 is closest in meaning to",
-        "category": "vocabulary_in_context",
-        "choices": [
-          "strips away the individuality of",
-          "makes the meaning more precise in",
-          "speeds up the pace of reading in",
-          "adds a touch of humor to"
-        ],
-        "answerIndex": 0,
-        "explanation": "The software produces accurate but lifeless texts, so it removes the individuality of the writer's voice."
-      },
-      {
-        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"The software, in other words, does not so much replace the translator as change what the translator is paid to do.\"",
-        "category": "sentence_insertion",
-        "choices": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
-        ],
-        "answerIndex": 1,
-        "explanation": "The sentence summarizes the publishers' approach described just before: lower rates for post-editing. [B] follows the sentence about offering lower rates and logically precedes the objection from the Society."
-      }
-    ]
-  },
-  {
     "id": "p7-213",
     "documents": [
       {
@@ -86,8 +26,8 @@
         "category": "detail",
         "choices": [
           "The tiles were damaged in transport",
-          "The distributor has run out of stock",
-          "The producer's equipment stopped working",
+          "The distributor ran out of stock",
+          "The supplier's kiln stopped working",
           "The architect rejected the color"
         ],
         "answerIndex": 2,
@@ -145,10 +85,10 @@
         "prompt": "What is NOT affected by the quiet hour?",
         "category": "not_true",
         "choices": [
-          "The scheduling of meetings",
-          "The client support desk's working hours",
-          "Instant messaging between colleagues",
-          "Visits to colleagues' desks"
+          "The scheduling of meetings during that hour",
+          "The working hours of the client support desk",
+          "Instant messaging between colleagues in the office",
+          "Visits to colleagues' desks unless urgent"
         ],
         "answerIndex": 1,
         "explanation": "The memo restricts meetings, chat and desk visits; support desk staff may adopt another hour."
@@ -205,10 +145,10 @@
         "prompt": "What does the reviewer say about the manager?",
         "category": "detail",
         "choices": [
-          "A free bottle of wine was offered to the table",
-          "The delay was not apologized for at any point",
+          "A free bottle of wine was brought to the table",
+          "The delay was never apologized for at any point",
           "The bill was lowered but the evening stayed spoiled",
-          "The missing dish was served to them by hand"
+          "The missing dish was carried to them by hand"
         ],
         "answerIndex": 2,
         "explanation": "The manager apologized and removed the dish from the bill, though dinner was already spoiled."
@@ -357,10 +297,10 @@
         "prompt": "Why is Mr. Reid entitled to ask for this leave?",
         "category": "inference",
         "choices": [
-          "He has worked for the company for more than two years",
-          "He is employed in the human resources department",
+          "He has been with the company for over two years",
+          "He is employed in the human resources team",
           "He has taken no annual leave at all this year",
-          "He has been appointed to cover a colleague"
+          "He has been appointed to cover for a colleague"
         ],
         "answerIndex": 0,
         "explanation": "The policy is for employees with more than two years of service, and Ms. Whitlock mentions his three years."
@@ -369,9 +309,9 @@
         "prompt": "Which cost will Mr. Reid have to cover himself?",
         "category": "detail",
         "choices": [
-          "His travel to his father's home",
-          "His contribution to the company's pension fund",
-          "The wages of his replacement",
+          "His journey to his father's house",
+          "His contribution to the company pension fund",
+          "The salary of the person covering for him",
           "His health insurance after the first month"
         ],
         "answerIndex": 3,
@@ -381,10 +321,10 @@
         "prompt": "What can be inferred about the length of the leave requested?",
         "category": "inference",
         "choices": [
-          "It is shorter than the usual leave",
-          "It is the longest period the policy permits",
-          "It is longer than the policy allows",
-          "It is paid by the company"
+          "It is shorter than the leave usually granted",
+          "It is the longest leave the policy permits",
+          "It is longer than the policy would allow",
+          "It is paid for in full by the company"
         ],
         "answerIndex": 1,
         "explanation": "The request covers 1 March to 25 April, which is eight weeks, exactly the maximum under the policy."

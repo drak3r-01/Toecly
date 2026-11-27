@@ -13,10 +13,10 @@
         "prompt": "What is the main purpose of the notice?",
         "category": "purpose",
         "choices": [
-          "To announce a redesigned model that is now on sale",
-          "To ask owners of a product to stop using it and claim a remedy",
-          "To report injuries linked to the use of a kitchen product",
-          "To thank customers who returned a faulty appliance"
+          "To announce a redesigned model now sold in many stores",
+          "To tell owners to stop using a cooker and get a remedy",
+          "To report injuries connected with a kitchen appliance",
+          "To thank customers who sent back a faulty cooker"
         ],
         "answerIndex": 1,
         "explanation": "The notice recalls the BC-6 cooker, tells owners to stop using affected units and offers a lid or a refund. No injuries are reported and no new model is announced."
@@ -73,10 +73,10 @@
         "prompt": "What is the article mainly about?",
         "category": "main_idea",
         "choices": [
-          "The cost of renovating a historic maritime building",
-          "A new type of guide used by industry professionals",
-          "A museum's decision to reduce technology in its galleries",
-          "A survey comparing visitors from different countries"
+          "The expense of renovating a historic maritime building",
+          "A new kind of guide used by industry professionals",
+          "A museum's choice to cut technology from its galleries",
+          "A survey comparing visitors from several countries"
         ],
         "answerIndex": 2,
         "explanation": "The article explains why Calder Maritime Museum removed audio commentary and screens and describes the results. Renovation costs and international surveys are not discussed."
@@ -85,10 +85,10 @@
         "prompt": "According to Ms. Voss, why were the changes introduced?",
         "category": "detail",
         "choices": [
-          "Visitors said gadgets distracted them from what was on display",
-          "Staff were unwilling to explain exhibits to the public",
+          "Visitors said devices pulled attention from the exhibits",
+          "Staff were unwilling to explain the objects to visitors",
           "The museum could not afford to maintain the equipment",
-          "The reopening required a lower noise level in the rooms"
+          "The reopening called for a lower noise level in the rooms"
         ],
         "answerIndex": 0,
         "explanation": "The survey showed people remembered the devices more than the objects; Ms. Voss says the museum was 'competing with the exhibits'."
@@ -203,10 +203,10 @@
         "prompt": "What is the purpose of Mr. Delgado's e-mail?",
         "category": "purpose",
         "choices": [
-          "To complain about the way the forum is scheduled",
+          "To complain about the way the forum is scheduled now",
           "To cancel his registration for the second day",
           "To check if he can fit in sessions with a colleague",
-          "To propose a topic for a future workshop speaker"
+          "To propose a subject for a future workshop speaker"
         ],
         "answerIndex": 2,
         "explanation": "He asks about attending both a workshop and the panel, whether Hana can join, and whether slides will be available."
@@ -297,10 +297,10 @@
         "prompt": "Which apartment would best meet Ms. Odell's wish about location?",
         "category": "inference",
         "choices": [
-          "Unit 704",
-          "Unit 811",
-          "A ground-floor unit",
-          "The unit with a terrace"
+          "Unit 704, which faces the garden",
+          "Unit 811, which faces the street",
+          "A ground-floor unit near the lobby",
+          "The unit that has a large terrace"
         ],
         "answerIndex": 0,
         "explanation": "She wants to avoid the railway; unit 704 faces the garden, whereas 811 faces the street."
@@ -309,10 +309,10 @@
         "prompt": "What does Mr. Haddad indicate about the nine-month lease?",
         "category": "detail",
         "choices": [
-          "It is the usual option for all new residents",
-          "It is offered only for the one-bedroom units",
+          "It is the normal choice for every new resident here",
+          "It is offered only on the one-bedroom units here",
           "It is possible but costs more than a standard one",
-          "It is not possible to begin before September"
+          "It cannot begin before the month of September"
         ],
         "answerIndex": 2,
         "explanation": "He says it is available at a supplement of 8 percent on the rent."
@@ -381,10 +381,10 @@
         "prompt": "What can be inferred about purchases of fifteen dollars?",
         "category": "inference",
         "choices": [
-          "They are no longer reimbursed by the company",
-          "They can be claimed with just a short explanation",
-          "They must be approved by a department head",
-          "They require the same photo as larger items"
+          "They are no longer repaid by the company",
+          "They can be claimed with a brief description only",
+          "They need the approval of a department head",
+          "They require the same photo as the larger items"
         ],
         "answerIndex": 1,
         "explanation": "For purchases below twenty dollars a receipt is not required but a brief description is."
@@ -393,10 +393,10 @@
         "prompt": "The word \"exception\" in paragraph 2 is closest in meaning to",
         "category": "vocabulary_in_context",
         "choices": [
-          "promotional discount",
-          "financial penalty",
-          "booking error",
-          "departure from the rule"
+          "promotional price reduction",
+          "financial penalty for lateness",
+          "error made when booking tickets",
+          "departure from the usual rule"
         ],
         "answerIndex": 3,
         "explanation": "Booking outside the approved agency is an exception that needs prior approval, that is a departure from the rule."
@@ -417,10 +417,10 @@
         "prompt": "What is the article mainly about?",
         "category": "main_idea",
         "choices": [
-          "The effects of an employer's policy on a small community",
-          "The rise of a software firm in a large city",
+          "How an employer's policy has changed a small town",
+          "The growth of a software firm in a very large city",
           "Plans to build a new shopping area in a town",
-          "The difficulty of finding skilled computer workers"
+          "The difficulty of finding skilled computer staff"
         ],
         "answerIndex": 0,
         "explanation": "The article describes how Tallis Analytics' remote-work policy affected Brackley, with both benefits and rising property prices."

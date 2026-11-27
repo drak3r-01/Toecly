@@ -1,65 +1,5 @@
 [
   {
-    "id": "p7-161",
-    "documents": [
-      {
-        "type": "email",
-        "title": "Concerns about the Westbrook warehouse lease",
-        "text": "To: Leonard Pike, Chief Operating Officer\nFrom: Sofia Marchetti, Real Estate Manager\nSubject: Westbrook warehouse: options before the lease deadline\n\nDear Leonard,\n\nAs discussed on Monday, our lease on the Westbrook warehouse expires on 31 March, and the landlord has asked for our decision on renewal by 15 January. I have reviewed the figures and would like to set out the position. [A]\n\nThe landlord is proposing a five-year renewal at 14.50 dollars per square foot, an increase of nearly twelve percent. In return, the roof, which has leaked twice in the past year, would be replaced at the landlord's expense. [B] A comparable facility in Harlan Park, which I visited last week, is offered at 12.80 dollars but is twenty minutes farther from the port, and our drivers estimate that this would add roughly forty minutes to each round trip. [C]\n\nMy recommendation is to renew but to negotiate a break clause after three years, which would give us flexibility if volumes decline. I would also ask for a commitment on the roof by a fixed date rather than \"within the first year\". [D] If the landlord refuses, we should consider Harlan Park seriously, since relocation costs would be recovered within about two years.\n\nBest regards,\nSofia"
-      }
-    ],
-    "questions": [
-      {
-        "prompt": "What is the main purpose of the e-mail?",
-        "category": "purpose",
-        "choices": [
-          "To report a problem with a delivery company",
-          "To recommend a course of action about premises",
-          "To request approval for a much larger budget",
-          "To announce the sale of a warehouse building"
-        ],
-        "answerIndex": 1,
-        "explanation": "Ms. Marchetti reviews the renewal and the alternative site and recommends renewing with conditions."
-      },
-      {
-        "prompt": "What is a drawback of the Harlan Park site?",
-        "category": "detail",
-        "choices": [
-          "It has a roof that needs replacing",
-          "It costs more per square foot",
-          "It is smaller than the current building",
-          "It would make trips from the port longer"
-        ],
-        "answerIndex": 3,
-        "explanation": "It is twenty minutes farther from the port, adding roughly forty minutes to each round trip."
-      },
-      {
-        "prompt": "What does Ms. Marchetti want to change in the landlord's proposal?",
-        "category": "detail",
-        "choices": [
-          "The timing of repairs and length of commitment",
-          "The rent per square foot for each year of it",
-          "The size of the area that is currently leased",
-          "The date on which the present lease expires"
-        ],
-        "answerIndex": 0,
-        "explanation": "She asks for a break clause after three years and a fixed date for the roof, instead of 'within the first year'."
-      },
-      {
-        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Both options carry risks, so it is worth comparing them before the deadline.\"",
-        "category": "sentence_insertion",
-        "choices": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
-        ],
-        "answerIndex": 0,
-        "explanation": "The sentence summarizes the situation described as 'the position' and sets up the comparison that follows; [A] directly follows her announcement that she will set out the position."
-      }
-    ]
-  },
-  {
     "id": "p7-162",
     "documents": [
       {
@@ -73,10 +13,10 @@
         "prompt": "What is the article mainly about?",
         "category": "main_idea",
         "choices": [
-          "A new fire safety rule for temporary buildings",
-          "The expansion of the city's container port area",
-          "A project that reuses surplus freight boxes as workplaces",
-          "A bakery that has moved to a larger building"
+          "A new fire safety rule for temporary buildings here",
+          "The expansion of the city's container port area now",
+          "A project that turns spare freight boxes into workplaces",
+          "A bakery that has moved into a much larger building"
         ],
         "answerIndex": 2,
         "explanation": "The article describes Crateworks, built from discarded containers. Fire rules are a minor detail and the port is only background."
@@ -97,10 +37,10 @@
         "prompt": "What can be inferred about the tenants?",
         "category": "inference",
         "choices": [
-          "They accept some discomfort because of low rent",
-          "They plan to leave after the first year",
-          "They own their units outright",
-          "They pay more than for brick premises"
+          "They put up with some heat because rent is low",
+          "They plan to leave the site after the first year",
+          "They own their units outright, without any rent",
+          "They pay more than they would for brick premises"
         ],
         "answerIndex": 0,
         "explanation": "Mr. Thomas says cooling costs more than expected but the low rent more than compensates."
@@ -203,10 +143,10 @@
         "prompt": "What is Ms. Roux's main question?",
         "category": "main_idea",
         "choices": [
-          "Whether the course is suitable for beginners",
-          "How to obtain a visa to study abroad",
-          "Whether she can attend for less than the full course",
-          "Which language is most useful for nurses"
+          "Whether the course is suitable for complete beginners",
+          "How to obtain a visa in order to study abroad",
+          "Whether she can attend a shorter part of the course",
+          "Which language is the most useful for nurses"
         ],
         "answerIndex": 2,
         "explanation": "She can be away only three weeks and asks about enrolling in part of the program."
@@ -215,10 +155,10 @@
         "prompt": "What does the advertisement say about the program that the reply modifies?",
         "category": "inference",
         "choices": [
-          "The cost of tuition has been reduced this year",
+          "The tuition fee has been cut this year",
           "The classes will be larger than first stated",
-          "The reply adds shorter options the ad does not mention",
-          "Japanese will no longer be offered at the school"
+          "The reply offers shorter options the ad omits",
+          "Japanese will no longer be taught at the school"
         ],
         "answerIndex": 2,
         "explanation": "The ad mentions only the four-week course, but the reply adds two-week and three-week options."
@@ -285,10 +225,10 @@
         "prompt": "What is the main purpose of Dr. Voss's e-mail?",
         "category": "purpose",
         "choices": [
-          "To cancel a meeting with a client",
-          "To confirm a visit and update arrival arrangements",
-          "To describe the results of a test",
-          "To request a change of host"
+          "To cancel a meeting that was planned with a client",
+          "To confirm a visit and update the arrival details",
+          "To describe the results of a test that was made",
+          "To request a change of host for the visit made"
         ],
         "answerIndex": 1,
         "explanation": "She confirms the visit and tells him about the closed gate, parking and shuttle."
@@ -321,10 +261,10 @@
         "prompt": "Why does Mr. Kapoor plan to make notes on site?",
         "category": "inference",
         "choices": [
-          "His phone will not work on the site",
-          "His colleague will share a camera",
-          "Taking pictures in the lab is forbidden",
-          "The host will give him a report"
+          "His phone will not work at the site at all",
+          "His colleague will lend him a camera to use",
+          "Photography inside the laboratories is not permitted",
+          "The host will hand him a written report there"
         ],
         "answerIndex": 2,
         "explanation": "The form states photography is not permitted within the laboratories, and he says he cannot take photos."
@@ -369,10 +309,10 @@
         "prompt": "What must a host do under the new policy?",
         "category": "detail",
         "choices": [
-          "Collect a badge from reception in person",
-          "Accompany the visitor through the gate",
-          "Send parcels to the security office",
-          "Register a guest through an online system in advance"
+          "Collect a badge from the reception desk in person",
+          "Accompany the visitor through the gate at all times",
+          "Send any parcels to the security office first",
+          "Register a guest on the staff portal beforehand"
         ],
         "answerIndex": 3,
         "explanation": "Hosts must pre-register guests through the staff portal at least one business day before the visit."
@@ -417,10 +357,10 @@
         "prompt": "What is the reviewer's overall opinion?",
         "category": "main_idea",
         "choices": [
-          "Entirely negative because of the noise level",
-          "Enthusiastic about it without any complaints",
-          "Undecided because of the rather high price",
-          "Generally positive but with a few reservations"
+          "Entirely negative because of the motor noise",
+          "Enthusiastic, with no complaints to make at all",
+          "Undecided because of the high price paid",
+          "Mostly favorable, with a few reservations"
         ],
         "answerIndex": 3,
         "explanation": "The reviewer gives four stars and recommends the desk 'with reservations'."
@@ -429,10 +369,10 @@
         "prompt": "What problem occurred during assembly?",
         "category": "detail",
         "choices": [
-          "A fixing was not the right size",
-          "The instructions were missing pages",
-          "The motor failed to start",
-          "The surface was scratched"
+          "One of the screws was the wrong length",
+          "The instructions had some pages missing",
+          "The motor failed to start up at all",
+          "The surface arrived with deep scratches"
         ],
         "answerIndex": 0,
         "explanation": "One screw was too short and had to be replaced."
@@ -441,10 +381,10 @@
         "prompt": "What is suggested about the desk's stability?",
         "category": "inference",
         "choices": [
-          "It cannot be adjusted to full height",
-          "It was improved by the bamboo surface",
-          "It is weaker when carrying heavy equipment",
-          "It is unsuitable for use with a laptop"
+          "It cannot be raised to its full height at all",
+          "It was improved by the bamboo work surface",
+          "It is less steady when loaded with heavy gear",
+          "It is unsuitable for working with a laptop"
         ],
         "answerIndex": 2,
         "explanation": "The wobble is irritating with a heavy monitor, and the reviewer recommends a steel frame for two large screens."
@@ -477,10 +417,10 @@
         "prompt": "What is the document mainly about?",
         "category": "main_idea",
         "choices": [
-          "The events planned for a two-day festival",
-          "The history of a restored sailing ship",
-          "A new regulation for small boats",
-          "The opening of a seafood market"
+          "The program of events for a two-day festival",
+          "The history of a restored sailing ship in port",
+          "A new regulation covering all small boats",
+          "The opening of a seafood market on the quay"
         ],
         "answerIndex": 0,
         "explanation": "It is a schedule of events for Saturday and Sunday."
@@ -490,9 +430,9 @@
         "category": "detail",
         "choices": [
           "Sail small boats in the regatta",
-          "Go on board the schooner alone",
-          "Attend a film for free",
-          "Learn to tie knots on a pier"
+          "Board the schooner without an adult",
+          "Watch a film at no charge",
+          "Learn how to tie knots on a pier"
         ],
         "answerIndex": 3,
         "explanation": "A knot-tying workshop for ages 6 to 12 is held at Pier 4."
@@ -515,7 +455,7 @@
         "choices": [
           "The talk on navigation",
           "The film screening",
-          "The regatta",
+          "The sailing regatta",
           "The awards ceremony"
         ],
         "answerIndex": 1,

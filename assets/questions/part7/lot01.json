@@ -37,10 +37,10 @@
         "prompt": "What are staff with poor internet access invited to do?",
         "category": "detail",
         "choices": [
-          "Ask for a temporary place to work by a set date",
-          "Move to the second floor without delay",
-          "Order their packing materials in advance",
-          "Use the print room as an alternative site"
+          "Request a temporary desk by a deadline",
+          "Move to the second floor right away",
+          "Order packing materials ahead of time",
+          "Use the print room as a substitute"
         ],
         "answerIndex": 0,
         "explanation": "The memo says to contact the coordinator before 21 March so that a temporary desk can be reserved in the library."
@@ -73,10 +73,10 @@
         "prompt": "What is the article mainly about?",
         "category": "main_idea",
         "choices": [
-          "The decline of supermarkets in small towns",
-          "A new technique for baking bread more efficiently",
-          "A tentative recovery among independent bread-makers",
-          "A dispute over public support for local farmers"
+          "The slow decline of supermarkets in small towns",
+          "A cleverer method of baking bread in bulk",
+          "A tentative recovery among small bakers",
+          "A row over public aid for regional farmers"
         ],
         "answerIndex": 2,
         "explanation": "The article reports a modest comeback of neighborhood bakeries after years of dominance by industrial producers. Supermarkets, baking methods and farmers are not the focus."
@@ -85,10 +85,10 @@
         "prompt": "What has helped small bakers deal with energy costs?",
         "category": "detail",
         "choices": [
-          "Public money for buying more economical machinery",
-          "A fall in the price of flour on the market",
-          "An agreement with a supplier of electricity",
-          "Longer opening hours at the weekend"
+          "Public money for buying efficient machinery",
+          "A drop in the market price of flour",
+          "A deal agreed with an electricity supplier",
+          "Extended weekend trading hours for shops"
         ],
         "answerIndex": 0,
         "explanation": "A subsidy program for efficient ovens eased the burden, allowing bakers to replace old equipment."
@@ -120,66 +120,6 @@
     ]
   },
   {
-    "id": "p7-133",
-    "documents": [
-      {
-        "type": "notice",
-        "title": "Notice to residents of Fenwick Court",
-        "text": "Notice to all residents of Fenwick Court\n\nFollowing the inspection carried out in February, the management company has scheduled the replacement of the building's central water heating system. [A] The work will be carried out between 9 a.m. and 4 p.m. on weekdays from 8 to 19 May, and hot water will be unavailable on the days indicated below for each wing. [B] Residents of the east wing will be affected on 8, 9 and 12 May, while those in the west wing will be without hot water on 13, 14 and 15 May. The north wing will be done last, on 16 and 19 May.\n\nBecause the contractor will need access to the boiler room in the basement, the bicycle storage area will be closed for the entire period. [C] Owners are asked to remove their bicycles by 5 May; any bicycle remaining after that date will be moved to the courtyard, and the management company cannot be held liable for damage or theft.\n\nA free shower facility will be available at the Lindqvist Sports Center, a five-minute walk from the building, upon presentation of a resident card. [D] Residents who are elderly or have limited mobility may request a portable water heater by calling the office before 30 April. We apologize for the inconvenience and thank you for your patience."
-      }
-    ],
-    "questions": [
-      {
-        "prompt": "Why was the notice written?",
-        "category": "purpose",
-        "choices": [
-          "To invite residents to attend a safety inspection",
-          "To warn residents of a planned service interruption",
-          "To announce a rise in the monthly charges",
-          "To recruit volunteers for a building committee"
-        ],
-        "answerIndex": 1,
-        "explanation": "The notice schedules the replacement of the heating system and lists the days when hot water will be unavailable."
-      },
-      {
-        "prompt": "When will the north wing be without hot water?",
-        "category": "detail",
-        "choices": [
-          "During the first week of the work",
-          "Only at the weekend, outside work hours",
-          "Between 13 and 15 May, with the west wing",
-          "On the final two days of the project"
-        ],
-        "answerIndex": 3,
-        "explanation": "The north wing will be done last, on 16 and 19 May, which are the final days of the schedule."
-      },
-      {
-        "prompt": "What are bicycle owners asked to do?",
-        "category": "detail",
-        "choices": [
-          "Clear the storage area before a deadline",
-          "Pay a fee for leaving bikes in the courtyard",
-          "Register their bicycles at the management office",
-          "Wait until the contractor has left the boiler room"
-        ],
-        "answerIndex": 0,
-        "explanation": "Owners must remove bicycles by 5 May because the storage area will be closed."
-      },
-      {
-        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Anyone with a health condition should make arrangements with the office in advance.\"",
-        "category": "sentence_insertion",
-        "choices": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
-        ],
-        "answerIndex": 3,
-        "explanation": "The sentence fits after the shower facility information, just before the text about residents with limited mobility who must call before 30 April. [D] is the only position where it introduces that point."
-      }
-    ]
-  },
-  {
     "id": "p7-134",
     "documents": [
       {
@@ -193,10 +133,10 @@
         "prompt": "Why did Mr. Mizuno contact the support team?",
         "category": "purpose",
         "choices": [
-          "He wants to cancel a subscription he no longer needs",
-          "He needs to change the address printed on an invoice",
-          "Some of the people he paid for cannot use the program",
-          "He was charged twice for the same purchase"
+          "He wants to cancel a subscription he dislikes",
+          "He needs to alter the address on an invoice",
+          "Some people he paid for cannot use it",
+          "He was billed twice for one single purchase"
         ],
         "answerIndex": 2,
         "explanation": "Only three of ten colleagues can sign in even though ten seats were bought."
@@ -275,10 +215,10 @@
         "prompt": "What does Mr. Brandt say about his current employer?",
         "category": "detail",
         "choices": [
-          "It works only with sea transport",
-          "It operates from a different city than Corvane",
+          "It works exclusively with sea transport only",
+          "It is based in a different city from Corvane",
           "It recently reduced the size of its fleet",
-          "It introduced its planning tool in 2019"
+          "It brought in its planning tool in 2019"
         ],
         "answerIndex": 1,
         "explanation": "He works at Nordhaven Shipping in Hamburg, whereas Corvane's operations team is in Rotterdam."
@@ -381,10 +321,10 @@
         "prompt": "What can be inferred about the 12 percent discount?",
         "category": "inference",
         "choices": [
-          "It lasts for the first month of membership only",
-          "It will not lower the price of the Orchard Harvest box",
-          "It is given to every visitor who enters the store",
-          "It is doubled for all of the boxes in November"
+          "It applies during the first month of membership only",
+          "It will not reduce the price of the Orchard Harvest box",
+          "It is offered to every visitor who walks into the store",
+          "It is doubled for every box sold in November"
         ],
         "answerIndex": 1,
         "explanation": "The web page states that the member discount does not apply to boxes, so members pay the special box price instead."
@@ -427,10 +367,10 @@
         "prompt": "What is the purpose of the first letter?",
         "category": "purpose",
         "choices": [
-          "To request a progress report on a project",
-          "To invite artists to a ceramics workshop",
-          "To advertise a workspace that is for rent",
-          "To notify an applicant of a funding decision"
+          "To ask for a progress report on a project",
+          "To invite artists to a pottery workshop",
+          "To advertise a studio space that is available",
+          "To tell an applicant about a funding decision"
         ],
         "answerIndex": 3,
         "explanation": "The letter begins by telling Mr. Chen that his application was successful and then explains the terms."
@@ -463,10 +403,10 @@
         "prompt": "What is suggested about paying a studio assistant?",
         "category": "inference",
         "choices": [
-          "It is possible only after the progress report",
+          "It is possible only once the progress report is in",
           "It requires a separate application to the Council",
-          "It is allowed if the money does not come from the grant",
-          "It is impossible under any circumstances"
+          "It is permitted if the money comes from another source",
+          "It is forbidden whatever the source of the money"
         ],
         "answerIndex": 2,
         "explanation": "The grant excludes salaries, but Ms. Hatcher confirms wages can come from separate income, provided accounts are kept apart."
@@ -509,10 +449,10 @@
         "prompt": "What problem does Mr. Reyes describe?",
         "category": "main_idea",
         "choices": [
-          "The deposit is higher than he had expected",
-          "The requested room is closed throughout June",
+          "The deposit is higher than the borrower expected",
+          "The requested room is closed during the whole of June",
           "The device was damaged by another research group",
-          "The requested device is not free for the whole loan"
+          "The device cannot be lent for the whole period"
         ],
         "answerIndex": 3,
         "explanation": "The PS-40 is booked from 20 June, so it cannot be lent for all twelve days."
@@ -545,10 +485,10 @@
         "prompt": "What is Mr. Petrov considering?",
         "category": "detail",
         "choices": [
-          "Borrowing both models at the same time",
-          "Choosing another research site",
-          "Paying the deposit in two parts",
-          "Making the field trip shorter than planned"
+          "Borrowing both models of spectrometer at once",
+          "Choosing a different research site for sampling",
+          "Paying the deposit in two separate parts",
+          "Making the field trip shorter than he planned"
         ],
         "answerIndex": 3,
         "explanation": "In the text message he says he is thinking of cutting the trip to a week."

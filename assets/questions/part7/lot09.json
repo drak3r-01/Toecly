@@ -83,10 +83,10 @@
         "prompt": "What is Ms. Tanabe's main concern in her e-mail?",
         "category": "main_idea",
         "choices": [
-          "Whether she is able to upgrade to business class",
-          "How to make a claim for a lost suitcase in Denver",
+          "Whether she can upgrade to business class on it",
+          "How to claim for a suitcase that was lost in Denver",
           "What she will owe for baggage on a domestic flight",
-          "Which airport is the closest one to her hotel"
+          "Which airport lies closest to her hotel there"
         ],
         "answerIndex": 2,
         "explanation": "She asks what she would need to pay for a suitcase, a violin and a colleague's bicycle."
@@ -131,10 +131,10 @@
         "prompt": "What is true about the 23 kg bag on international routes?",
         "category": "detail",
         "choices": [
-          "It costs 25 dollars when it is booked online",
-          "It comes with an economy ticket",
-          "It is available only to business class passengers",
-          "It is charged by weight at the airport desk"
+          "It costs 25 dollars when booked online",
+          "It is part of an economy ticket",
+          "It is available to business passengers only",
+          "It is charged by the kilo at the airport"
         ],
         "answerIndex": 1,
         "explanation": "A checked bag of up to 23 kg is included on international routes."
@@ -257,7 +257,7 @@
           "[D]"
         ],
         "answerIndex": 0,
-        "explanation": "The sentence offers a remedy for the audio problem that has just been described, so it fits at [A] immediately after the criticism of the distracting sound."
+        "explanation": "The sentence offers a remedy for the audio problem, so it must follow the criticism of the distracting sound in the fourth room. The other slots follow praise or comments on other rooms."
       }
     ]
   },
@@ -321,10 +321,10 @@
         "prompt": "When will Mr. Ruiz probably pay the higher pass price?",
         "category": "inference",
         "choices": [
-          "On 2 March",
-          "On 20 February",
-          "When his current pass runs out",
-          "As soon as the notice was issued"
+          "On 2 March, the date of the change",
+          "On 20 February, when the decision is made",
+          "When his current pass expires",
+          "As soon as the notice was published"
         ],
         "answerIndex": 2,
         "explanation": "His pass is valid until its end date, so the new price applies only at renewal."
@@ -369,10 +369,10 @@
         "prompt": "What can staff do for a customer without a receipt?",
         "category": "detail",
         "choices": [
-          "Give a full refund in cash",
-          "Offer a swap or credit but not money back",
-          "Refuse the return in all cases",
-          "Trace the item only by its serial number"
+          "Give a full refund in cash to the customer",
+          "Offer an exchange or credit but no refund",
+          "Refuse the return in every single case",
+          "Trace the item by its serial number only"
         ],
         "answerIndex": 1,
         "explanation": "Items may be exchanged but not refunded, with store credit at the lowest recent price."
@@ -382,9 +382,9 @@
         "category": "detail",
         "choices": [
           "A pair of shoes",
-          "A customized mug",
+          "A personalized mug",
           "A winter coat",
-          "A kitchen appliance"
+          "A kitchen blender"
         ],
         "answerIndex": 1,
         "explanation": "Personalized items cannot be returned unless faulty."
@@ -470,10 +470,10 @@
         "prompt": "What can be inferred about Dr. Mbeki's journey?",
         "category": "inference",
         "choices": [
-          "She will fly from Nairobi on 8 November",
+          "She will fly out of Nairobi on 8 November",
           "She has already spoken at the Clarendon Center",
-          "She will remain abroad until after the forum",
-          "She will arrive in the country the day before the forum"
+          "She will stay abroad until after the forum ends",
+          "She will reach the country the day before the forum"
         ],
         "answerIndex": 3,
         "explanation": "She lands on the morning of the 10th and the forum is on the 11th."

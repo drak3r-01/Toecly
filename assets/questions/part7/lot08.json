@@ -37,10 +37,10 @@
         "prompt": "What can be inferred about the two directors?",
         "category": "inference",
         "choices": [
-          "One of them will have a role different from the current one",
-          "Both will be leaving the company shortly",
+          "One of them will take on a role unlike the present one",
+          "Both of them will be leaving the company soon",
           "They will share the leadership of the new region",
-          "They have already been told which post they will take"
+          "They have already learned which post they will fill"
         ],
         "answerIndex": 0,
         "explanation": "One will lead the new region while the other will take a national role; the decision is announced on 20 June."
@@ -133,10 +133,10 @@
         "prompt": "What is the purpose of the e-mail?",
         "category": "purpose",
         "choices": [
-          "To confirm a reservation made for the summer season",
-          "To reply to a guest's complaints and offer compensation",
-          "To ask the guest to write a review of the hotel online",
-          "To announce changes to the hotel's check-in policy"
+          "To confirm a reservation for the coming summer season",
+          "To answer a guest's complaints and offer compensation",
+          "To ask the guest to review the hotel online soon",
+          "To announce a change to the check-in policy"
         ],
         "answerIndex": 1,
         "explanation": "The manager answers each complaint and offers a voucher or refund."

@@ -14,8 +14,8 @@
         "category": "main_idea",
         "choices": [
           "A fall in the number of claims made by customers",
-          "The limited continuation of a shorter working week",
-          "A company's plan to hire more telephone advisers",
+          "The limited extension of a shorter working week",
+          "A company plan to hire more telephone advisers",
           "A dispute over pay between managers and staff"
         ],
         "answerIndex": 1,
@@ -55,7 +55,7 @@
           "[D]"
         ],
         "answerIndex": 2,
-        "explanation": "The sentence generalizes the point about clients' habits made in the sentence before [C]; elsewhere it would break the argument about managers or staff opinions."
+        "explanation": "The sentence generalizes the analysts' advice about clients' habits and so belongs right after that advice; at the other slots it would interrupt the discussion of the company or its managers."
       }
     ]
   },
@@ -109,10 +109,10 @@
         "prompt": "What are staff required to do on 28 October?",
         "category": "detail",
         "choices": [
-          "Fill in the online registration form",
-          "Return their laboratory keys to security",
-          "Attend a meeting of the Safety Committee",
-          "Take part in a training session on emergencies"
+          "Complete the online registration form for a companion",
+          "Hand their laboratory keys over to the security desk",
+          "Go to a meeting of the Safety Committee in person",
+          "Attend a training session on emergency procedures"
         ],
         "answerIndex": 3,
         "explanation": "Mandatory refresher training on emergency procedures will be held that day."
@@ -193,10 +193,10 @@
         "prompt": "What is the purpose of the notice?",
         "category": "purpose",
         "choices": [
-          "To announce the opening of a new pool for all",
-          "To increase the fee for casual visitors only",
-          "To tell users about a temporary change to services",
-          "To invite parents to a swimming contest"
+          "To announce the opening of a second swimming pool",
+          "To raise the fee paid by casual visitors in winter",
+          "To tell users about a temporary change in services",
+          "To invite parents to a children's swimming contest"
         ],
         "answerIndex": 2,
         "explanation": "The notice describes a closure and the alternative arrangements."
@@ -229,10 +229,10 @@
         "prompt": "Who will be able to visit the training pool on a Wednesday afternoon at 6 p.m.?",
         "category": "inference",
         "choices": [
-          "Casual visitors only",
-          "Nobody, because it is closed",
-          "Both members and casual visitors",
-          "Members only"
+          "Casual visitors, but not members",
+          "Nobody, since the pool is closed then",
+          "Members and casual visitors alike",
+          "Members, but not casual visitors"
         ],
         "answerIndex": 3,
         "explanation": "The pool is open on weekdays from 5:00 to 8:00 p.m., but casual visitors may use the facility only on weekends."
@@ -358,8 +358,8 @@
         "category": "inference",
         "choices": [
           "The online option is currently out of order",
-          "She has already used her six weeks",
-          "She did not give notice before Sunday",
+          "She has already used her six weeks of pause",
+          "She did not give notice before the Sunday",
           "Her account has been closed by mistake"
         ],
         "answerIndex": 0,
@@ -404,66 +404,6 @@
     ]
   },
   {
-    "id": "p7-175",
-    "documents": [
-      {
-        "type": "article",
-        "title": "Council to review night-time economy rules",
-        "text": "A committee of the Marburn City Council will meet on Thursday to consider changes to the licensing rules that govern bars and clubs in the Old Quarter. The review follows a petition signed by 1,200 residents who complain of noise and litter after midnight. Under the existing rules, venues may remain open until 3 a.m. on Fridays and Saturdays; the petition calls for a 1 a.m. closing time.\n\nBusiness owners have responded with alarm. The Old Quarter Business Association says that the area's nightlife contributes an estimated 14 million dollars to the local economy each year and that an earlier closing time would force several venues to shut down. Association chair Ravi Nair argues that the problem lies with enforcement rather than opening hours. \"A handful of premises cause most of the trouble,\" he says. \"Punish them, not everyone.\"\n\nA compromise is under discussion. Councillor Irene Falk has proposed that venues be allowed to open until 2 a.m. provided that they join a scheme under which they contribute to extra street cleaning and security patrols. The scheme, which has operated successfully in the neighboring town of Lisle, would be reviewed after a year. Residents' spokesperson Anneke Visser says that she is open to the idea but wants strict penalties for venues that break the terms. The committee is expected to vote in January."
-      }
-    ],
-    "questions": [
-      {
-        "prompt": "What is the main subject of the article?",
-        "category": "main_idea",
-        "choices": [
-          "The opening of a new club in the Old Quarter",
-          "A cleaning program carried out by the council",
-          "The cost of police patrols in neighboring towns",
-          "A debate about the closing times of nightlife venues"
-        ],
-        "answerIndex": 3,
-        "explanation": "The article reports on a review of licensing rules, residents' petition, business objections and a compromise."
-      },
-      {
-        "prompt": "What is Mr. Nair's view?",
-        "category": "detail",
-        "choices": [
-          "Only troublesome venues should be penalized",
-          "All venues should close at 1 a.m. sharp",
-          "Residents should simply accept the noise",
-          "The council should pay for extra patrols itself"
-        ],
-        "answerIndex": 0,
-        "explanation": "He says a handful of premises cause most trouble and asks to punish them, not everyone."
-      },
-      {
-        "prompt": "Which closing time would the proposal by Ms. Falk introduce?",
-        "category": "detail",
-        "choices": [
-          "1 a.m. for all venues",
-          "3 a.m. for venues in neighboring towns",
-          "2 a.m. for venues that join the scheme",
-          "Midnight on weekdays only"
-        ],
-        "answerIndex": 2,
-        "explanation": "Venues would be allowed to open until 2 a.m. provided that they join a scheme paying for cleaning and security."
-      },
-      {
-        "prompt": "The word \"alarm\" in paragraph 2 is closest in meaning to",
-        "category": "vocabulary_in_context",
-        "choices": [
-          "noise",
-          "excitement",
-          "concern",
-          "warning device"
-        ],
-        "answerIndex": 2,
-        "explanation": "Business owners are worried that an earlier closing time would harm them."
-      }
-    ]
-  },
-  {
     "id": "p7-176",
     "documents": [
       {
@@ -482,10 +422,10 @@
         "prompt": "What is the purpose of Ms. Sandoval's e-mail?",
         "category": "purpose",
         "choices": [
-          "To answer a client's concerns about the work",
-          "To request an advance on a future project",
-          "To announce a rise in the price of paving",
-          "To cancel the contract for the courtyard"
+          "To respond to a client's concerns about the work",
+          "To ask for an advance on a future project order",
+          "To announce a rise in the price of paving stone",
+          "To cancel the contract for the courtyard project"
         ],
         "answerIndex": 0,
         "explanation": "She responds to concerns about the trees and the paving area."

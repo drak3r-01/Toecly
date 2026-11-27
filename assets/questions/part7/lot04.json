@@ -1,125 +1,5 @@
 [
   {
-    "id": "p7-154",
-    "documents": [
-      {
-        "type": "article",
-        "title": "Harbour restaurant bets on slow service",
-        "text": "When Tomas Lindgren opened Tideline, a seafood restaurant on the old fish quay, he made a decision that most of his peers thought reckless: there would be no lunch service, no takeaway counter and no more than thirty covers each evening. [A] Two years on, the restaurant has a waiting list of several weeks and was recently named the best new venue in the county guide.\n\nMr. Lindgren explains that the limit on customers is deliberate. \"If you only serve thirty people, you can buy everything the same morning from the boats and throw nothing away,\" he says. [B] The menu changes daily according to the catch, and the kitchen employs only five people, all of whom are paid above the industry average. He believes that well-rested staff make fewer mistakes and stay longer, which offsets the loss of revenue from shorter opening hours.\n\nNot everyone approves. Some local residents had hoped for an affordable place where families could eat after school, and the restaurant's tasting menu, at 85 dollars, is out of reach for many. [C] Mr. Lindgren acknowledges the criticism and has begun offering a limited number of half-price tables on Monday evenings to residents of the quay district. [D] He insists, however, that he will not expand. \"Growth was never the goal,\" he says. \"Doing a small thing properly was.\""
-      }
-    ],
-    "questions": [
-      {
-        "prompt": "What is the main idea of the article?",
-        "category": "main_idea",
-        "choices": [
-          "A fishing industry is struggling to find new customers",
-          "A small restaurant has succeeded by deliberately staying small",
-          "A chef has opened several venues along the coast",
-          "A county guide has changed its way of rating places"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article shows how Tideline's limits on customers and hours have contributed to its success. The other options are not discussed."
-      },
-      {
-        "prompt": "According to Mr. Lindgren, what is the advantage of serving few customers?",
-        "category": "detail",
-        "choices": [
-          "Prices can be reduced for local families",
-          "The kitchen can stay open during lunchtime",
-          "Fewer boats are needed to supply the menu",
-          "Ingredients can be purchased fresh each day with no waste"
-        ],
-        "answerIndex": 3,
-        "explanation": "He says that with thirty people he can buy everything the same morning and throw nothing away."
-      },
-      {
-        "prompt": "The word \"offsets\" in paragraph 2 is closest in meaning to",
-        "category": "vocabulary_in_context",
-        "choices": [
-          "compensates for",
-          "adds to",
-          "comes before",
-          "moves away from"
-        ],
-        "answerIndex": 0,
-        "explanation": "Better-rested, longer-serving staff balance out the money lost because of shorter hours, so 'offsets' means compensates for."
-      },
-      {
-        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"This price, he admits, puts the restaurant beyond the budget of many who live nearby.\"",
-        "category": "sentence_insertion",
-        "choices": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
-        ],
-        "answerIndex": 2,
-        "explanation": "The sentence refers to a price, which is the 85-dollar tasting menu mentioned just before [C]. It also leads naturally into his acknowledgement of the criticism."
-      }
-    ]
-  },
-  {
-    "id": "p7-155",
-    "documents": [
-      {
-        "type": "memo",
-        "title": "Employee engagement survey: key findings",
-        "text": "To: Department heads\nFrom: Priyanka Desai, Human Resources\nRe: Results of the annual survey\n\nThe annual engagement survey closed on 30 September with a response rate of 78 percent, up from 64 percent last year. The increase is largely attributable to the decision to allow staff to complete the questionnaire during working hours. Overall satisfaction stands at 71 percent, a modest improvement, but the results vary considerably between departments.\n\nThree findings deserve your attention. First, employees in Customer Service and Logistics were markedly less positive about workload than other staff; more than half stated that they regularly work beyond their contracted hours. Second, respondents across the company welcomed the introduction of flexible start times, which was the single most praised policy. Third, only 39 percent agreed that they had received useful feedback in the past six months, the lowest score in the survey and a decline from last year.\n\nHR will meet each department head in the first two weeks of November to agree on priorities. We ask that you do not share departmental figures with your teams before these meetings, as we wish to present a consistent message. A summary for all staff will be published on the intranet on 20 November, and a pilot scheme for quarterly feedback conversations will be proposed for the first half of next year."
-      }
-    ],
-    "questions": [
-      {
-        "prompt": "What is the main purpose of the memo?",
-        "category": "purpose",
-        "choices": [
-          "To ask employees to complete a questionnaire",
-          "To announce a reduction in working hours",
-          "To report survey outcomes and prepare managers for follow-up",
-          "To propose changes to flexible start times"
-        ],
-        "answerIndex": 2,
-        "explanation": "The memo summarizes results to department heads and arranges meetings. The survey is already closed, and flexible start times are praised, not changed."
-      },
-      {
-        "prompt": "Why did more people take part this year?",
-        "category": "detail",
-        "choices": [
-          "They were offered a reward for taking part",
-          "The questionnaire was made shorter than before",
-          "They were allowed to respond while at work",
-          "Managers reminded them of it every single week"
-        ],
-        "answerIndex": 2,
-        "explanation": "The increase is attributed to allowing staff to complete the questionnaire during working hours."
-      },
-      {
-        "prompt": "What is NOT stated about the survey?",
-        "category": "not_true",
-        "choices": [
-          "Satisfaction fell in most departments",
-          "Feedback received a low score",
-          "Flexible hours were popular with respondents",
-          "Some teams reported working extra hours"
-        ],
-        "answerIndex": 0,
-        "explanation": "Overall satisfaction improved modestly; it is not said to have fallen in most departments. The other statements are in the memo."
-      },
-      {
-        "prompt": "What are department heads asked to do?",
-        "category": "detail",
-        "choices": [
-          "Hold feedback conversations every quarter",
-          "Publish the summary on the intranet",
-          "Review the workload of Logistics employees",
-          "Wait before telling staff about their own results"
-        ],
-        "answerIndex": 3,
-        "explanation": "They must not share departmental figures with teams before the HR meetings."
-      }
-    ]
-  },
-  {
     "id": "p7-156",
     "documents": [
       {
@@ -133,10 +13,10 @@
         "prompt": "What is the notice mainly about?",
         "category": "main_idea",
         "choices": [
-          "A temporary shutdown of a mobile network",
-          "The arrival of an upgraded version of a program",
-          "A change in the support team's opening hours",
-          "The end of a subscription for all customers"
+          "A temporary shutdown of a mobile phone network",
+          "The release of an upgraded version of a program",
+          "A change to the opening hours of the help team",
+          "The end of a subscription for all customers soon"
         ],
         "answerIndex": 1,
         "explanation": "The notice announces version 5.2, describing new features, changes and downtime."
@@ -169,10 +49,10 @@
         "prompt": "Which is the fastest way to receive help after the update?",
         "category": "detail",
         "choices": [
-          "Writing to support in the app",
-          "Sending an e-mail to the support team",
+          "Messaging the support team inside the app",
+          "Sending an e-mail to the support address",
           "Reading the detailed release notes online",
-          "Contacting an administrator of the account"
+          "Asking the administrator of the account"
         ],
         "answerIndex": 0,
         "explanation": "In-app chat is available around the clock, whereas e-mail replies may take two days."
@@ -203,10 +83,10 @@
         "prompt": "What is the purpose of Ms. Moreno's first e-mail?",
         "category": "purpose",
         "choices": [
-          "To complain about the service at a dinner",
+          "To complain about service received at a dinner",
           "To invite a caterer to a partners' dinner",
-          "To ask a company to propose a price for an event",
-          "To cancel a reservation made earlier"
+          "To ask a company to quote a price for an event",
+          "To cancel a reservation that was made earlier"
         ],
         "answerIndex": 2,
         "explanation": "She requests a quotation for the partners' dinner, giving numbers, menu requirements and a budget."
@@ -362,22 +242,22 @@
         "prompt": "What is the main purpose of the letter?",
         "category": "purpose",
         "choices": [
-          "To support a person's application for a new job",
+          "To back a person's application for a new job",
           "To announce the promotion of an employee",
-          "To describe changes to a production line",
+          "To describe changes made to a production line",
           "To explain why a supplier made a mistake"
         ],
         "answerIndex": 0,
-        "explanation": "Mr. Berg recommends Ms. Karim for the Production Supervisor position."
+        "explanation": "The letter opens by recommending Ms. Karim for the Production Supervisor position and goes on to justify the recommendation; it is not an announcement, a production report or an explanation of a supplier error."
       },
       {
         "prompt": "What example does Mr. Berg give of Ms. Karim's calmness?",
         "category": "detail",
         "choices": [
-          "She resolved a dispute between two operators",
-          "She trained a replacement for a colleague",
-          "She negotiated a better price with a supplier",
-          "She quickly rearranged production after a wrong delivery"
+          "She settled a dispute between two operators quietly",
+          "She trained a replacement for an absent colleague",
+          "She negotiated a better price with a new supplier",
+          "She swiftly reorganized the line after a wrong delivery"
         ],
         "answerIndex": 3,
         "explanation": "When a supplier delivered the wrong materials, she reorganized the line within hours."
@@ -458,10 +338,10 @@
         "prompt": "What does Ms. Haddad admit about the trial?",
         "category": "inference",
         "choices": [
-          "It was carried out without council approval",
+          "It was carried out without the council's approval",
           "It increased traffic at several intersections",
-          "Its positive result may not hold throughout the year",
-          "It was too short to produce any data"
+          "Its positive result may not last all year",
+          "It was too short to produce any usable data"
         ],
         "answerIndex": 2,
         "explanation": "She concedes that the 40 percent increase was recorded in summer and might be lower in winter."

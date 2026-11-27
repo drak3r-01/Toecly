@@ -1,0 +1,264 @@
+[
+  {
+    "id": "p7-251",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why cities are rethinking the minimum parking rule",
+        "text": "For half a century, municipal planners across the region have required developers to provide a fixed number of parking spaces for every apartment or shop they build. The rule was devised at a time when car ownership was rising steadily and street parking was regarded as a nuisance to be eliminated. Increasingly, however, economists argue that the requirement has produced precisely the congestion it was meant to prevent, by making driving the cheapest and most convenient option and by spreading destinations so far apart that walking becomes impractical.\n\nThe financial consequences are considerable. A study commissioned by the Calloway planning office estimated that each underground space adds between 30,000 and 50,000 dollars to the cost of a development, a burden that is ultimately passed on to residents, including those who own no vehicle. Tenants without cars are therefore, in effect, subsidizing their neighbors' parking.\n\nSeveral cities have begun to abolish the minimums altogether, leaving developers to decide how much to build. Early results are mixed. In some districts, new housing has been delivered more cheaply; in others, residents complain that nearby streets have filled with vehicles. Councilor Mateo Ruiz, who voted for the reform, concedes that it was introduced without adequate provision for permits. \"Abolishing the requirement was the easy part,\" he says. \"Managing the street is where the real policy begins.\""
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Developers are lobbying for larger underground car parks everywhere",
+          "Car ownership has fallen so sharply that parking has become redundant",
+          "A long-held planning rule is being challenged on cost grounds",
+          "A council has been criticized for rejecting a proposed housing project"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explains that economists argue the minimum parking rule has raised costs and encouraged driving, and that cities are starting to scrap it."
+      },
+      {
+        "prompt": "What does the article imply about residents who do not own a car?",
+        "category": "inference",
+        "choices": [
+          "They bear costs for facilities they do not use",
+          "They are the main beneficiaries of the reform of the rule",
+          "They have been offered cheaper rents by developers",
+          "They support the abolition of the minimum requirement"
+        ],
+        "answerIndex": 0,
+        "explanation": "The study says costs are 'passed on to residents, including those who own no vehicle', so carless tenants are 'subsidizing their neighbors' parking'."
+      },
+      {
+        "prompt": "What does Mr. Ruiz admit about the reform?",
+        "category": "detail",
+        "choices": [
+          "The changes have raised the price of new housing",
+          "The vote was taken without any discussion in council",
+          "Developers have declined to build any new spaces",
+          "Street management was not planned thoroughly enough"
+        ],
+        "answerIndex": 3,
+        "explanation": "He concedes it was introduced 'without adequate provision for permits' and says managing the street is where policy begins."
+      },
+      {
+        "prompt": "The word \"burden\" in the second paragraph is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "reward",
+          "load",
+          "delay",
+          "measure"
+        ],
+        "answerIndex": 1,
+        "explanation": "The extra construction cost is something developers and later residents must carry, so 'load' fits."
+      }
+    ]
+  },
+  {
+    "id": "p7-252",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Reassessment of the Lindqvist logistics contract",
+        "text": "To: Executive Committee\nFrom: Priyanka Deshmukh, Head of Procurement\nSubject: Recommendation concerning the Lindqvist logistics contract\n\nDear colleagues,\n\nThe three-year contract with Lindqvist Freight expires on 31 December, and I should like to set out the case for not renewing it on its current terms. Over the past eighteen months, on-time delivery has averaged 91 percent against a contractual target of 96, and although penalty payments have offset part of the shortfall, they have not compensated for the damage to relationships with two of our largest customers. [A]\n\nIt would be unfair to attribute these results solely to Lindqvist. Our own order volumes have been far less predictable than forecast, which has made it difficult for any carrier to plan capacity. [B] Nevertheless, the pattern of recurring delays in the northern region suggests that the problem is structural rather than seasonal.\n\nI therefore propose that we invite tenders from at least three carriers, while offering Lindqvist the opportunity to bid on revised terms, including a lower penalty threshold and quarterly performance reviews. [C] A change of provider carries risk, particularly during the peak period, so I would recommend that any transition be scheduled for the first quarter. [D] I would be grateful for the Committee's decision by 15 October, so that the tender documents can be issued before the end of the month.\n\nRegards,\nPriyanka Deshmukh"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To report a breach of contract by a major customer",
+          "To propose a change to a supplier agreement",
+          "To announce that a carrier has gone out of business",
+          "To request approval for a larger transport budget"
+        ],
+        "answerIndex": 1,
+        "explanation": "Ms. Deshmukh recommends not renewing the contract on current terms and inviting tenders."
+      },
+      {
+        "prompt": "What does the e-mail suggest about the cause of the delays?",
+        "category": "inference",
+        "choices": [
+          "The carrier alone is at fault for each late shipment",
+          "Customers have caused the delays by changing orders",
+          "Seasonal weather has affected all regions equally",
+          "Neither party can be held entirely responsible"
+        ],
+        "answerIndex": 3,
+        "explanation": "She says it would be 'unfair to attribute these results solely to Lindqvist' because the company's own volumes were unpredictable, yet the problem looks structural."
+      },
+      {
+        "prompt": "What is Ms. Deshmukh's view on the timing of any change of provider?",
+        "category": "inference",
+        "choices": [
+          "It should avoid the busiest part of the year",
+          "It should take place before the contract ends",
+          "It should wait until the penalty threshold is lowered",
+          "It should be decided after the tender documents are issued"
+        ],
+        "answerIndex": 0,
+        "explanation": "A change 'carries risk, particularly during the peak period', so she recommends the first quarter."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"This is not a position that the company can afford to maintain for another contract term.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence sums up the damage to customer relationships described just before it and prepares the acknowledgement of other factors that follows; at the later slots it would interrupt the proposal or the discussion of timing."
+      }
+    ]
+  },
+  {
+    "id": "p7-253",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Meridian Biosciences: Postdoctoral fellowship in microbial ecology",
+        "text": "The Meridian Institute invites applications for a two-year postdoctoral fellowship, renewable for a third year subject to review, to study how soil microbial communities respond to repeated drought. The fellow will join a team of eight led by Dr. Sunita Rao and will have access to long-term field plots, a sequencing facility and a modest travel budget of 4,000 euros per year.\n\nCandidates should hold, or expect to obtain before the start date, a doctorate in ecology, microbiology or a related field, and should be able to demonstrate proficiency in the statistical analysis of large datasets. Experience with field sampling is advantageous but not essential. The successful applicant will be expected to publish in peer-reviewed journals and to contribute to the supervision of two doctoral students.\n\nThe annual salary is 52,000 euros before tax, with a relocation grant of 3,000 euros for candidates moving from abroad. Applications should include a curriculum vitae, a research statement of no more than 1,000 words and the names of two referees, and be submitted through the Institute's portal by 15 April. Interviews will be held remotely in the first half of May. The Institute is committed to equal opportunities and particularly welcomes applications from candidates returning to research after a career break."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the posting?",
+        "category": "purpose",
+        "choices": [
+          "To announce the results of a study on droughts",
+          "To request funding for a team of eight researchers",
+          "To recruit candidates for a temporary research job",
+          "To advertise a course in statistical analysis"
+        ],
+        "answerIndex": 2,
+        "explanation": "The page invites applications for a two-year postdoctoral fellowship."
+      },
+      {
+        "prompt": "What can be inferred about the field experience requirement?",
+        "category": "inference",
+        "choices": [
+          "It is demanded of every successful applicant",
+          "It replaces the need for a doctorate",
+          "It matters more than statistical knowledge",
+          "Candidates lacking it are not ruled out"
+        ],
+        "answerIndex": 3,
+        "explanation": "Experience with field sampling is 'advantageous but not essential', so lacking it does not rule candidates out."
+      },
+      {
+        "prompt": "Which of the following is NOT required in an application?",
+        "category": "not_true",
+        "choices": [
+          "A research statement of limited length",
+          "A letter from the Institute's director",
+          "The names of two academic referees",
+          "A curriculum vitae and a short biography"
+        ],
+        "answerIndex": 1,
+        "explanation": "The page lists a curriculum vitae, a research statement and two referees; it does not mention a letter from the head of the Institute."
+      },
+      {
+        "prompt": "What does the final sentence suggest about the Institute?",
+        "category": "inference",
+        "choices": [
+          "It rejects applicants who completed a doctorate abroad",
+          "It offers a longer contract to those with a career break",
+          "It hopes to attract applicants with interrupted careers",
+          "It prefers candidates who have worked in industry"
+        ],
+        "answerIndex": 2,
+        "explanation": "It 'particularly welcomes applications from candidates returning to research after a career break'."
+      }
+    ]
+  },
+  {
+    "id": "p7-254",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Fenmore Conservatory: Masterclass series",
+        "text": "The Fenmore Conservatory is delighted to announce a series of three masterclasses given by the cellist Ingrid Solheim, taking place on 6, 13 and 20 June. Each session will be devoted to a single work from the standard repertoire, and participants will have the opportunity to perform for Ms. Solheim and receive individual feedback. Places for performers are limited to six per session and are allocated after a short recorded audition. Listeners may attend without audition. Performers pay 120 dollars per session; listeners pay 25 dollars, or 60 dollars for the full series. Early applications received before 10 May will qualify for a ten percent reduction."
+      },
+      {
+        "type": "email",
+        "title": "Audition application",
+        "text": "Dear Conservatory Office,\n\nI am a final-year student at the Halvorsen Academy, and I wish to apply to perform in the masterclass on 13 June. I recorded my audition yesterday and enclose the link. Since I am unable to be present on 20 June owing to examinations, I would like to attend the first masterclass on 6 June as a listener. I shall also be bringing my accompanist, Daniel Osei, who would like to attend as a listener at the same session.\n\nI should be grateful if you could confirm the total cost, including the early-application reduction, since I am submitting this on 8 May.\n\nYours faithfully,\nMaya Lindgren"
+      },
+      {
+        "type": "email",
+        "title": "Re: Audition application",
+        "text": "Dear Ms. Lindgren,\n\nThank you for your application and for the recording, which the panel has now reviewed. We are pleased to offer you a place as a performer on 13 June. Please note that the work chosen for that session is the Dvořák concerto, and your recording features a different piece; we would therefore ask you to prepare the first movement of the Dvořák.\n\nAs you applied before 10 May, the ten percent reduction applies to everything you book, including your accompanist's place as a listener. A listener's place for a single session is available at the standard rate. Payment is due within ten days of this message.\n\nKind regards,\nHelena Brandt, Conservatory Office"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does the reply reveal about Ms. Lindgren's audition?",
+        "category": "inference",
+        "choices": [
+          "She sent in a different piece from the one required",
+          "She failed to meet the standard needed for a place",
+          "She applied after the date for early applications",
+          "She was asked to play for the full series of sessions"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ms. Brandt notes that the session's work is the Dvořák concerto while 'your recording features a different piece'."
+      },
+      {
+        "prompt": "How much will Ms. Lindgren pay for her place as a performer on 13 June?",
+        "category": "inference",
+        "choices": [
+          "108 dollars",
+          "25 dollars",
+          "120 dollars",
+          "132 dollars"
+        ],
+        "answerIndex": 0,
+        "explanation": "The performer fee is 120 dollars; with the ten percent early reduction it is 108 dollars."
+      },
+      {
+        "prompt": "How much will Mr. Osei pay for the single session as a listener?",
+        "category": "inference",
+        "choices": [
+          "25 dollars",
+          "54 dollars",
+          "22.50 dollars",
+          "60 dollars"
+        ],
+        "answerIndex": 2,
+        "explanation": "A single-session listener pays 25 dollars, reduced by ten percent to 22.50."
+      },
+      {
+        "prompt": "What can be inferred about Ms. Lindgren's attendance at the series?",
+        "category": "inference",
+        "choices": [
+          "She will take part in all three as a performer",
+          "She will miss the last of the three sessions",
+          "She will attend only the session on 13 June",
+          "She will miss the first of the three sessions"
+        ],
+        "answerIndex": 1,
+        "explanation": "She cannot attend on 20 June because of examinations, will listen on 6 June and perform on 13 June."
+      },
+      {
+        "prompt": "What can be concluded from all three documents about the masterclass of 13 June?",
+        "category": "inference",
+        "choices": [
+          "It is the only session open to listeners",
+          "It will be taught by the Conservatory Office",
+          "It will take place after the early application date",
+          "It centers on a work she must now prepare for"
+        ],
+        "answerIndex": 3,
+        "explanation": "The advertisement says each session is devoted to one work, the reply names the Dvořák for that session and asks her to prepare the first movement, and she performs on 13 June."
+      }
+    ]
+  }
+]

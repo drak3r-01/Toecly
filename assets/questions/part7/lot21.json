@@ -1,0 +1,204 @@
+[
+  {
+    "id": "p7-255",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The slow erosion of the office kitchen",
+        "text": "Few spaces in a workplace attract as much quiet resentment as the shared kitchen, and organizational psychologists have begun to treat the phenomenon seriously. A recent study of nine mid-sized firms found that disputes over communal areas, ranging from unwashed cups to the fate of unlabeled food, were cited more often in exit interviews than disagreements over pay.\n\nThe researchers, led by Dr. Naomi Eze, do not suggest that departing staff leave over a stolen yogurt. Rather, they argue that the kitchen functions as a barometer. Because it is the one place where employees from different departments encounter one another without an agenda, tensions there reveal how much goodwill exists elsewhere. Where colleagues trusted one another, minor lapses were absorbed; where they did not, the same lapse provoked memos.\n\nThe practical implications are less obvious than they might appear. Several firms in the study responded to complaints by introducing cleaning rosters, which Dr. Eze found to be counterproductive, since they replaced a sense of shared responsibility with a ledger of obligations. Companies that fared better tended to address the underlying friction, for example by rotating teams so that staff worked beside unfamiliar colleagues. \"The cups are a symptom,\" she says. \"Washing them is not the cure.\""
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "Why firms should spend more on kitchen equipment",
+          "The reasons staff change jobs in mid-sized companies",
+          "How a petty quarrel can mirror deeper tensions",
+          "A survey of how often employees wash their cups"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article argues that disputes over the kitchen act as a barometer of the goodwill (or lack of it) elsewhere in the firm."
+      },
+      {
+        "prompt": "Why does Dr. Eze consider cleaning rosters unhelpful?",
+        "category": "inference",
+        "choices": [
+          "They turn shared duty into a tally of chores",
+          "They make the kitchen look less attractive to visitors",
+          "They are expensive to organize in a mid-sized firm",
+          "They are ignored by employees from other departments"
+        ],
+        "answerIndex": 0,
+        "explanation": "Rosters 'replaced a sense of shared responsibility with a ledger of obligations'."
+      },
+      {
+        "prompt": "The word \"barometer\" in the second paragraph is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "obstacle",
+          "reward",
+          "dispute",
+          "indicator"
+        ],
+        "answerIndex": 3,
+        "explanation": "The kitchen reveals how much goodwill exists elsewhere, so it is an indicator of the wider climate."
+      },
+      {
+        "prompt": "What is NOT mentioned as a finding of the study?",
+        "category": "not_true",
+        "choices": [
+          "Exit interviews referred to communal areas frequently",
+          "Pay quarrels outnumbered kitchen ones in every firm",
+          "Firms that moved teams around tended to fare better",
+          "Minor lapses caused more reaction where trust was low"
+        ],
+        "answerIndex": 1,
+        "explanation": "The study found disputes were cited more often than pay disagreements in exit interviews overall, not 'in every firm'; the other points appear in the article."
+      }
+    ]
+  },
+  {
+    "id": "p7-256",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice of proposed amendment to the Articles of the Harwell Residents' Association",
+        "text": "At its meeting of 12 March, the committee resolved to place before members a proposal to amend Article 9 of the Association's constitution, which currently requires that any change to the annual subscription be approved by a two-thirds majority of members present at a general meeting. The committee proposes that, in future, an increase not exceeding the rate of inflation as published by the national statistics office may be approved by a simple majority.\n\nThe reasoning, as set out in the committee's report, is that the present threshold has made modest adjustments disproportionately difficult. In the past six years the subscription has been raised only once, by an amount that failed to cover the increase in running costs, and the Association now relies on a reserve that will be exhausted within two years. Opponents may reasonably argue that lowering the threshold weakens the protection of members on fixed incomes, and the committee has therefore proposed that any increase above inflation continue to require a two-thirds majority.\n\nThe amendment will be put to a vote at the annual general meeting on 24 April at 7:00 p.m. in the Parish Hall. Members unable to attend may submit a proxy form, available from the secretary, by 17 April. Written comments on the proposal are invited and should reach the secretary by 3 April, so that they can be summarized in the papers circulated before the meeting."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the notice?",
+        "category": "purpose",
+        "choices": [
+          "To announce an increase in the annual subscription",
+          "To outline a change to the rules on fee votes",
+          "To report the outcome of a vote held on 12 March",
+          "To invite members to stand for the committee"
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice proposes amending Article 9 so that small subscription increases can be approved by simple majority."
+      },
+      {
+        "prompt": "Why does the committee consider the amendment necessary?",
+        "category": "detail",
+        "choices": [
+          "Members on fixed incomes have asked for lower fees",
+          "The national statistics office has changed its method",
+          "A reserve fund has recently been spent on repairs",
+          "Modest rises were hard to pass as costs grew"
+        ],
+        "answerIndex": 3,
+        "explanation": "The present threshold 'has made modest adjustments disproportionately difficult' and the single rise did not cover running costs."
+      },
+      {
+        "prompt": "What is implied about increases larger than inflation?",
+        "category": "inference",
+        "choices": [
+          "They would still need strong member backing",
+          "They would be banned under the new article",
+          "They would be approved by the committee alone",
+          "They would be discussed only at the next meeting"
+        ],
+        "answerIndex": 0,
+        "explanation": "The committee proposes that 'any increase above inflation continue to require a two-thirds majority'."
+      },
+      {
+        "prompt": "By which date must a member who wants to comment in writing act?",
+        "category": "detail",
+        "choices": [
+          "12 March",
+          "17 April",
+          "3 April",
+          "24 April"
+        ],
+        "answerIndex": 2,
+        "explanation": "Written comments 'should reach the secretary by 3 April'; 17 April is the proxy deadline and 24 April the meeting."
+      }
+    ]
+  },
+  {
+    "id": "p7-257",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Request for a supplier audit",
+        "text": "To: Marcus Heller, Operations Director\nFrom: Fatima Idowu, Quality Manager\nSubject: Proposal to audit Borealis Components\n\nDear Marcus,\n\nYou will recall that rejected batches from Borealis Components rose from two to seven during the third quarter. The supplier attributes the increase to a change in raw material, but our inspection reports suggest otherwise: the defects, which are almost invariably dimensional, appear to originate with a machine that has drifted out of calibration. I would like to propose a two-day audit at their plant, to be carried out by myself and one engineer during the week of 3 November.\n\nThe cost of the visit would be modest, approximately 1,800 euros, against an estimated 24,000 euros lost on scrapped batches in the quarter. Borealis has been cooperative in the past and has offered no objection in principle, though they have asked that we give two weeks' notice and refrain from photographing the production line.\n\nI should add that the audit carries a diplomatic risk. If it confirms that the fault lies with the supplier, we shall have grounds to renegotiate terms; if it does not, we shall have implied a lack of trust in a partner on whom we depend for a third of our components. I believe the risk is worth taking, but the decision is yours."
+      },
+      {
+        "type": "memo",
+        "title": "Supplier audit policy (extract)",
+        "text": "Audits of key suppliers (those providing more than 25 percent of a component category) require written approval from the Operations Director. Notice of at least ten working days must be given. Auditors may take samples with the supplier's consent but may not remove documents. Findings must be reported to the supplier within five working days of the visit, with a request for a corrective action plan within thirty days. If the supplier fails to provide such a plan, procurement may initiate a review of the contract."
+      },
+      {
+        "type": "email",
+        "title": "Re: Proposal to audit Borealis Components",
+        "text": "Fatima,\n\nThank you for the clear case. I approve the audit and suggest that we give Borealis notice today, which would satisfy both their request and our own policy. Please prepare a short briefing for the engineer, and let me have your findings by the end of the following week, so that Gabriela in procurement can decide whether to open a contract review.\n\nOne point: I would rather we describe the visit to Borealis as a joint review of calibration procedures than as an audit of their quality. It conveys the same intention without the accusation.\n\nMarcus"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Ms. Idowu's main reason for proposing the audit?",
+        "category": "detail",
+        "choices": [
+          "Borealis changed its raw material without informing her",
+          "She wants to renegotiate prices with the supplier",
+          "The engineer needs training in calibration",
+          "She suspects faulty equipment is behind the rejections"
+        ],
+        "answerIndex": 3,
+        "explanation": "She believes the defects originate with 'a machine that has drifted out of calibration', contrary to the supplier's explanation."
+      },
+      {
+        "prompt": "Why does the audit require Mr. Heller's approval?",
+        "category": "inference",
+        "choices": [
+          "The visit will cost more than a fixed amount",
+          "Borealis provides a big share of its parts",
+          "Borealis has refused to allow photographs",
+          "The engineer has never visited a supplier"
+        ],
+        "answerIndex": 1,
+        "explanation": "The policy covers suppliers providing over 25 percent of a component category; Borealis supplies 'a third of our components'."
+      },
+      {
+        "prompt": "What can be inferred about how Borealis is likely to respond?",
+        "category": "inference",
+        "choices": [
+          "It will almost certainly refuse any inspection of the plant",
+          "It will demand payment for the time that staff spend",
+          "It will probably accept, provided its conditions are met",
+          "It will insist that photographs be taken of every machine"
+        ],
+        "answerIndex": 2,
+        "explanation": "Borealis has been cooperative and has offered no objection in principle, asking only for two weeks notice and no photographs."
+      },
+      {
+        "prompt": "Why does Mr. Heller prefer a different description of the visit?",
+        "category": "inference",
+        "choices": [
+          "To avoid hinting that the supplier is blamed",
+          "To keep the visit secret from the procurement team",
+          "To shorten the period of notice required by policy",
+          "To justify the cost of the engineer's travel"
+        ],
+        "answerIndex": 0,
+        "explanation": "He says a joint review 'conveys the same intention without the accusation', echoing Ms. Idowu's concern about implied distrust."
+      },
+      {
+        "prompt": "What happens after the visit, according to the documents together?",
+        "category": "inference",
+        "choices": [
+          "A contract review may follow if no plan is given",
+          "The engineer must remove documents as evidence",
+          "Borealis must photograph its production line",
+          "Ms. Idowu decides whether the contract continues"
+        ],
+        "answerIndex": 0,
+        "explanation": "Findings go to the supplier, who has thirty days to submit a plan; Mr. Heller wants the findings so that procurement can decide on a review, which the policy allows if no plan is provided."
+      }
+    ]
+  }
+]

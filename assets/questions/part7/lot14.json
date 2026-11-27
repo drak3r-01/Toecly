@@ -109,7 +109,7 @@
         "prompt": "What is NOT mentioned in the notice?",
         "category": "not_true",
         "choices": [
-          "The time the supply will be cut",
+          "The time the supply will be cut off",
           "A reduction in the water bill after the work",
           "The location of an emergency water supply",
           "Help for older people living in the area"
@@ -133,10 +133,10 @@
         "prompt": "What is the main purpose of the e-mail?",
         "category": "purpose",
         "choices": [
-          "To ask for money from the city council",
-          "To withdraw an application for a project",
+          "To ask for more money from the city council",
+          "To withdraw an application for the whole project",
           "To announce the sale of the Eastgate site",
-          "To present changes made after public comments"
+          "To present changes made after public feedback"
         ],
         "answerIndex": 3,
         "explanation": "The e-mail describes revisions made following the consultation."
@@ -145,10 +145,10 @@
         "prompt": "What was the main objection raised by the public?",
         "category": "detail",
         "choices": [
-          "The height of the buildings",
-          "The cost of the apartments",
-          "The loss of an existing market",
-          "The length of the construction period"
+          "How tall the new buildings would be",
+          "How much the apartments would cost",
+          "The loss of an existing market hall",
+          "How long the construction would last"
         ],
         "answerIndex": 0,
         "explanation": "Critics said that the two towers would dominate the skyline."
@@ -175,7 +175,7 @@
           "[D]"
         ],
         "answerIndex": 1,
-        "explanation": "'These changes' refers to the reduced height and the public square just described, and the sentence prepares the move to cost matters in the next paragraph; [B] follows the description of the square."
+        "explanation": "'These changes' refers to the reduced height and the new public square, and the sentence prepares the move to cost matters in the next paragraph. It cannot appear before those changes are described."
       }
     ]
   },
@@ -264,7 +264,7 @@
         "category": "detail",
         "choices": [
           "A letter from a hotel in Porto",
-          "A description of a large event she managed",
+          "A description of a large event she ran",
           "A list of her professional certificates",
           "A budget plan for a wedding"
         ],
@@ -287,10 +287,10 @@
         "prompt": "How does Mr. Mendes respond to her concern about weekends?",
         "category": "inference",
         "choices": [
-          "He offers a compromise",
-          "He rejects her application",
-          "He agrees to all of her wishes",
-          "He asks her to choose a different job"
+          "He suggests a middle path",
+          "He turns down her application",
+          "He accepts all of her wishes",
+          "He asks her to choose another post"
         ],
         "answerIndex": 0,
         "explanation": "Weekend work cannot be avoided, but it could be limited to two weekends a month with compensation days."
@@ -345,10 +345,10 @@
         "prompt": "Why does Mr. Reuter wish to cancel his membership?",
         "category": "detail",
         "choices": [
-          "A move to another place for his job",
-          "He is unhappy with the quality of the swimming pool",
+          "He is relocating because of his job",
+          "He is unhappy with the quality of the pool",
           "He has hurt himself and cannot exercise",
-          "He has found a cheaper gym close to his home"
+          "He has found a cheaper gym near his home"
         ],
         "answerIndex": 0,
         "explanation": "His employer is moving him to another city."
@@ -381,10 +381,10 @@
         "prompt": "Why can't Mr. Reuter freeze his membership?",
         "category": "inference",
         "choices": [
-          "He did not provide a note from a doctor",
-          "His absence will last longer than allowed",
-          "He is not a student",
-          "He joined in August"
+          "He did not send in a note from his doctor",
+          "He will be away for longer than a freeze allows",
+          "He is not currently enrolled as a student there",
+          "He first joined the gym back in the month of August"
         ],
         "answerIndex": 1,
         "explanation": "A freeze is limited to two months per year and he will be away more than that."
