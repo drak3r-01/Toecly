@@ -35,7 +35,6 @@ flutter run -d chrome           # aperçu navigateur
 flutter run                     # appareil / émulateur Android connecté
 ```
 
-Aperçu navigateur sans rien installer (Docker) : `docker compose up web-preview` puis http://localhost:8080
 
 ## Compiler l'APK avec Docker (sans Android Studio)
 
