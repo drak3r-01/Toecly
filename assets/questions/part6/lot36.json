@@ -1,0 +1,662 @@
+[
+  {
+    "id": "p6-498",
+    "documentType": "memo",
+    "text": "To: All employees\nFrom: Human Resources\nSubject: Remote working policy\n\nFollowing consultation with department heads, the company is introducing a formal remote working policy from 1 February. [1] Requests will be considered in the order in which they are received, and a decision will be communicated within five working days.\n\nManagers are expected to [2] requests fairly, taking into account the nature of the role and the needs of the team. [3] a request is declined, the manager must explain the reasons in writing and discuss alternative arrangements. Employees who work remotely remain [4] to the same performance standards as colleagues based in the office, and their objectives will be reviewed every quarter.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Employees wishing to work from home must apply to their line manager using the new online form.",
+          "Employees working from home will be reimbursed for the cost of a suitable desk and an ergonomic chair.",
+          "The new policy replaces the informal guidelines that were circulated to all departments last September.",
+          "Managers have been trained to recognise the early signs of overwork among colleagues who work remotely."
+        ],
+        "answerIndex": 0,
+        "explanation": "'Requests will be considered in the order received' presupposes that employees submit requests, which only the first sentence describes."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "access",
+          "assess",
+          "assert",
+          "assist"
+        ],
+        "answerIndex": 1,
+        "explanation": "Managers 'assess' (evaluate) requests; the other verbs do not fit with 'requests fairly'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "In spite of",
+          "In view of",
+          "In the event that",
+          "On account of"
+        ],
+        "answerIndex": 2,
+        "explanation": "'In the event that a request is declined' introduces a conditional clause with a verb; the others are prepositional phrases."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "subjected",
+          "subjecting",
+          "subjective",
+          "subject"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Remain subject to the same standards' is the fixed adjectival structure."
+      }
+    ]
+  },
+  {
+    "id": "p6-499",
+    "documentType": "web_page",
+    "text": "Visiting the Hartley Gallery\n\nThe Hartley Gallery is open from Tuesday to Sunday, between 10 a.m. and 5 p.m. [1] For this reason, tickets must be booked online at least 24 hours in advance. Visitors who arrive without a booking will be admitted only if space [2].\n\nGroup visits are welcome, [3] the number of participants does not exceed fifteen. Large bags and umbrellas must be left in the cloakroom, and photography is permitted [4] flash is not used, since it can damage the older paintings.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The gallery can safely accommodate only sixty visitors at any one time because of fire regulations.",
+          "The gallery has been closed on Mondays since March while the old roof is repaired by specialist contractors from abroad.",
+          "The gallery's collection of nineteenth-century paintings is among the largest to be found in the whole country.",
+          "The gallery is situated close to the central station and is accessible to visitors with reduced mobility and to families."
+        ],
+        "answerIndex": 0,
+        "explanation": "'For this reason' needs a cause for compulsory booking, which is the limited capacity stated in the first sentence."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "permit",
+          "permits",
+          "is permitted",
+          "permitting"
+        ],
+        "answerIndex": 1,
+        "explanation": "'If space permits' is the fixed expression; 'space' is the subject and takes the third-person singular."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as far as",
+          "as much as",
+          "as long as",
+          "as soon as"
+        ],
+        "answerIndex": 2,
+        "explanation": "'As long as' expresses condition; the others do not fit the logic of a limit on group size."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "on condition of",
+          "in condition that",
+          "at condition that",
+          "on condition that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'On condition that' is the only valid conjunction with a following clause."
+      }
+    ]
+  },
+  {
+    "id": "p6-500",
+    "documentType": "article",
+    "text": "Europe's energy sector is undergoing a profound transformation. [1] This trend has been driven largely by falling installation costs, [2] grid capacity has not kept pace, which has led to the curtailment of wind farms on particularly windy days. Regulators are now under pressure to [3] the approval process for new transmission lines, which currently takes up to ten years in some countries.\n\nIndustry groups argue that unless investment in the grid increases substantially, the gains already achieved will be [4]. Governments, for their part, point out that public budgets are already stretched.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Over the past decade, the share of electricity generated from renewable sources has doubled in most member states.",
+          "Over the past decade, several member states have postponed the construction of new nuclear power plants for budget reasons.",
+          "Last year, the European Commission published a report on energy prices in the most industrialised regions.",
+          "Electricity consumption per household has declined in most member states because of tighter efficiency standards."
+        ],
+        "answerIndex": 0,
+        "explanation": "'This trend ... driven by falling installation costs' refers to the growth of renewable generation; only the first sentence names such a trend."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "since",
+          "although",
+          "hence",
+          "thereby"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Although' contrasts the success of renewables with the lagging grid; the others do not express concession."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "straighten",
+          "strengthen",
+          "streamline",
+          "stream"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Streamline' means simplify and speed up a process; 'straighten' does not collocate with 'approval process'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "undermine",
+          "undermining",
+          "to undermine",
+          "undermined"
+        ],
+        "answerIndex": 3,
+        "explanation": "After 'will be' the past participle is needed to form the passive."
+      }
+    ]
+  },
+  {
+    "id": "p6-501",
+    "documentType": "letter",
+    "text": "Dear Mr Lindqvist,\n\nThank you for your message regarding the missing parcel. [1] Our findings confirm that the parcel was left with a neighbour without a signature, which is a breach of our delivery procedures.\n\nWe sincerely [2] the distress this has caused you. [3] the parcel has not been located, we have arranged for a replacement to be sent by express courier at no charge. The driver concerned will receive additional training, and we will [4] our procedures to ensure that this does not happen again.\n\nYours sincerely,\nMaria Lopes\nCustomer Relations",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "We have now reviewed the delivery records and spoken to the driver who handled your order.",
+          "We have now refunded the full cost of your order, including the delivery charge.",
+          "We apologise sincerely for the inconvenience caused by the delay in dispatching your order.",
+          "Your order was packed on 3 November and dispatched by courier on the following morning."
+        ],
+        "answerIndex": 0,
+        "explanation": "'Our findings' presupposes an investigation, which only the first sentence reports."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "resent",
+          "regret",
+          "reject",
+          "resist"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Regret' fits an apology; the others convey the opposite or unrelated meanings."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Whereas",
+          "Since",
+          "Lest"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Since the parcel has not been located' gives the reason for sending a replacement."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "tight",
+          "tightened",
+          "tightening",
+          "tighten"
+        ],
+        "answerIndex": 3,
+        "explanation": "After 'will' the base verb is required."
+      }
+    ]
+  },
+  {
+    "id": "p6-502",
+    "documentType": "advertisement",
+    "text": "Brookside Language Institute\n\nImprove your professional English this spring with our evening courses, designed for working adults. [1] Those who enrol before the end of January will receive a reduction of fifteen percent, which cannot be [2] with any other offer.\n\nOur courses cover business writing, presentation skills and negotiation. [3] you are a newcomer to the language or an experienced speaker, a short placement test, which can be completed online [4] a time that suits you, will assign you to the most appropriate group.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Registration for the spring term opens on 3 January and closes on 28 February.",
+          "Courses are taught by qualified instructors who have taught adult learners for at least five years.",
+          "The institute moved to its new premises on Harbour Street at the start of the previous term.",
+          "Classes are limited to twelve students so that every participant receives individual attention."
+        ],
+        "answerIndex": 0,
+        "explanation": "'Those who enrol before the end of January' needs a registration period to refer to."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "compiled",
+          "combined",
+          "composed",
+          "comprised"
+        ],
+        "answerIndex": 1,
+        "explanation": "An offer is 'combined with' another; the others do not fit."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "If",
+          "Although",
+          "Whether",
+          "Unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Whether ... or' links two alternatives; the others cannot introduce 'a newcomer ... or an experienced speaker'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "by",
+          "in",
+          "on",
+          "at"
+        ],
+        "answerIndex": 3,
+        "explanation": "'At a time that suits you' is the standard preposition."
+      }
+    ]
+  },
+  {
+    "id": "p6-503",
+    "documentType": "letter",
+    "text": "Dear Mr and Mrs Osei,\n\nI am writing regarding the lease of your apartment at 14 Marlowe Street. [1] Under this clause, the rent will rise by 3.4 percent from 1 April, which corresponds to the official inflation figure published last month.\n\nIt would be [2] if you could sign and return the enclosed renewal form by 15 March. [3] you wish to terminate the lease, you must give three months' written notice, as set out in Clause 12. If you have any questions, please do not [4] to contact our office.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Clause 7 of the lease allows the landlord to raise the rent annually in line with inflation.",
+          "Clause 7 of the lease obliges the tenant to maintain the garden and all external fixtures.",
+          "The lease for the second-floor apartment expires on 31 March and has not yet been renewed by either party.",
+          "The landlord has recently replaced the old boiler and repaired the damaged roof at considerable expense."
+        ],
+        "answerIndex": 0,
+        "explanation": "'Under this clause' needs a clause that governs rent increases, which only the first sentence names."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "helping",
+          "helpful",
+          "helped",
+          "helpfully"
+        ],
+        "answerIndex": 1,
+        "explanation": "'It would be helpful if' needs the adjective."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whether",
+          "Since",
+          "Should",
+          "Despite"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Should you wish' is an inverted conditional; the others do not fit the structure."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "hesitation",
+          "hesitant",
+          "hesitated",
+          "hesitate"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Do not hesitate to contact' is the fixed expression requiring the base verb."
+      }
+    ]
+  },
+  {
+    "id": "p6-504",
+    "documentType": "article",
+    "text": "Harbour Bank has announced that it will acquire Delmar Insurance in a transaction that would create the largest financial services group in the region. [1] This timetable, [2], depends on regulatory approval, which has yet to be granted. Competition authorities are expected to [3] the proposal closely, since the merged group would control more than a third of the domestic market.\n\nExecutives have stated that they will cooperate fully with the review. [4] the bank has pledged that jobs will be protected for at least two years after the merger.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The acquisition, valued at 2.4 billion euros, is expected to be completed by the end of the third quarter.",
+          "Delmar Insurance has operated since 1952 and employs about three thousand people in offices across the whole region.",
+          "Harbour Bank's shares rose by four percent in early trading on the stock exchange following the announcement.",
+          "Analysts had predicted that a deal of this kind would be announced by one of the two firms before the end of the year."
+        ],
+        "answerIndex": 0,
+        "explanation": "'This timetable' needs a stated completion date, found only in the first sentence."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "however",
+          "hence",
+          "accordingly"
+        ],
+        "answerIndex": 1,
+        "explanation": "The regulatory condition contrasts with the expected completion date, so 'however' is needed."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "scrutiny",
+          "scrutinised",
+          "scrutinise",
+          "scrutinising"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'expected to' the base verb is required."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Otherwise",
+          "Instead",
+          "Nevertheless",
+          "Furthermore"
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence adds a further commitment, so 'Furthermore' fits; the others imply contrast or alternative."
+      }
+    ]
+  },
+  {
+    "id": "p6-505",
+    "documentType": "memo",
+    "text": "To: Warehouse staff\nFrom: Safety Committee\nSubject: New safety measures\n\nFollowing a review of last year's incident reports, the Safety Committee has decided to strengthen safety procedures. [1] These measures will take effect on 1 June, and every employee will be required to attend a short training session beforehand.\n\nSupervisors will [2] compliance on a daily basis and will report any breaches to the committee. [3] a breach is repeated, disciplinary action may follow, [4] the committee wishes to stress that the aim is prevention, not punishment.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Three new measures will be introduced in the warehouse: mandatory helmets, marked walkways and a speed limit for forklifts.",
+          "Two accidents occurred in the warehouse last month, one of which resulted in a serious injury to an employee on night shift.",
+          "The warehouse was extended last year and now covers more than twelve thousand square metres of floor space in total.",
+          "All employees completed the annual safety training before the end of the previous financial year without exception."
+        ],
+        "answerIndex": 0,
+        "explanation": "'These measures' needs measures to be listed first, which only the first sentence does."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "mentor",
+          "monitor",
+          "mention",
+          "mourn"
+        ],
+        "answerIndex": 1,
+        "explanation": "Supervisors 'monitor' compliance; the others do not fit."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Whereby",
+          "Where",
+          "Wherein"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Where a breach is repeated' introduces a specific condition."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "whereby",
+          "although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Although' concedes that action may follow while stressing the aim; the others contradict the logic."
+      }
+    ]
+  },
+  {
+    "id": "p6-506",
+    "documentType": "review",
+    "text": "We hired the Meridian Conference Centre for a two-day sales meeting involving 120 delegates. [1] Nevertheless, the catering fell short of our expectations, with long queues at lunchtime and a limited choice for vegetarians.\n\nStaff were [2] to complaints and replaced several dishes promptly, [3] this did not fully compensate for the delays. We would recommend the venue [4] the organisers improve the catering arrangements before the next season.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The venue is spacious, well equipped and conveniently located only a few minutes from the airport.",
+          "The booking process was slow and confusing, and several of our emails went unanswered by the staff for weeks.",
+          "Our delegates arrived late because of serious delays on the national rail network on the first morning of the event.",
+          "The rooms were cramped, poorly ventilated and located a long way from the nearest railway station or bus stop."
+        ],
+        "answerIndex": 0,
+        "explanation": "'Nevertheless' requires a preceding positive assessment; only the first sentence is positive."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "receivable",
+          "receptive",
+          "receptible",
+          "receipt"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Receptive to complaints' means open to them."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "because",
+          "unless",
+          "although",
+          "so that"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although' concedes that staff responded yet the delays remained."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "on the understanding of",
+          "in the understanding that",
+          "under the understanding that",
+          "on the understanding that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'On the understanding that' is the standard conditional phrase."
+      }
+    ]
+  },
+  {
+    "id": "p6-507",
+    "documentType": "email",
+    "text": "To: Department heads\nFrom: Priya Menon, Training Coordinator\nSubject: Compliance workshops\n\nThe compliance workshops that were announced last month have now been scheduled. [1] Both sessions will run from 9 a.m. to noon in the main conference room, and attendance is compulsory for all staff who handle customer data.\n\nPlease ensure that your team members [2] their places by 30 April. [3] staff are unable to attend on either date, they should contact me so that an alternative can be arranged. A certificate will be issued to each participant, [4] must be retained for audit purposes.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The first workshop, on data protection, is on 9 May, and the second, on cybersecurity, is on 16 May.",
+          "A workshop on data protection was held last year, and attendance exceeded all of our expectations by far.",
+          "The workshop on cybersecurity will take place on 16 May in the main conference room at headquarters.",
+          "Participants must bring a laptop to the workshop on data protection which has been scheduled for 9 May in the annexe."
+        ],
+        "answerIndex": 0,
+        "explanation": "'Both sessions' requires two sessions to be mentioned, as in the first sentence."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "assure",
+          "secure",
+          "insure",
+          "ensure"
+        ],
+        "answerIndex": 1,
+        "explanation": "One 'secures' a place; the others do not take 'places'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Whereby",
+          "Where",
+          "Whilst"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Where staff are unable to attend' introduces the specific case."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "whose",
+          "who",
+          "which"
+        ],
+        "answerIndex": 3,
+        "explanation": "The non-defining relative 'which' refers to the certificate."
+      }
+    ]
+  },
+  {
+    "id": "p6-508",
+    "documentType": "letter",
+    "text": "Dear Mr Haddad,\n\nThank you for your letter of 3 September regarding the proposed revision of unit prices. We understand that raw material costs have risen significantly. [1] This offer remains valid until 31 October, after which we will approach alternative suppliers.\n\nWe would be [2] to discuss the proposal in person at your earliest convenience. [3] your company has been a reliable partner for many years, we cannot accept an increase of this magnitude without a corresponding commitment. We trust that a mutually [4] solution can be found.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "We would raise our annual order volume by twenty percent if you agreed to reduce your unit prices.",
+          "Your unit prices have risen by eight percent since our last contract was signed two years ago.",
+          "We have received three quotations from alternative suppliers, all of which are below your current prices.",
+          "Our annual order volume has remained stable for the past five years despite a rise in demand."
+        ],
+        "answerIndex": 0,
+        "explanation": "'This offer' needs an offer stated just before; only the first sentence makes one."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "pleasant",
+          "pleased",
+          "pleasing",
+          "pleasurable"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Would be pleased to discuss' is the polite formula."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Although",
+          "Whereby"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although' concedes the long partnership while refusing the increase."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "beneficiary",
+          "benefiting",
+          "benefited",
+          "beneficial"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Mutually beneficial solution' is the collocation."
+      }
+    ]
+  },
+  {
+    "id": "p6-509",
+    "documentType": "article",
+    "text": "Urban planners have long debated how best to reduce traffic in city centres. [1] Such figures, however, do not reveal who bears the cost of these schemes. Low-income households, which are [2] to live in outer districts and depend on cars, often pay proportionally more than wealthier residents.\n\nCritics therefore argue that revenue from the charges should be [3] to improving public transport in those areas. [4] the benefits are shared fairly, they warn, public support for such schemes is likely to erode.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Cities with congestion charges generally report a drop in traffic of between ten and twenty percent.",
+          "Many cities have also invested heavily in cycling lanes and in the expansion of their electric bus fleets.",
+          "Public transport in most large cities is operated by municipal companies that receive substantial subsidies.",
+          "Traffic congestion has become a major source of frustration for commuters in most European capitals."
+        ],
+        "answerIndex": 0,
+        "explanation": "'Such figures' needs figures to have been given; only the first sentence gives one."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "liable",
+          "likely",
+          "prone",
+          "apt"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Are likely to live' is the correct structure."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "allocate",
+          "allocating",
+          "allocated",
+          "allocation"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'should be' the past participle is required."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Although",
+          "Whether",
+          "Unless"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Unless the benefits are shared fairly' states the condition for losing support."
+      }
+    ]
+  }
+]
