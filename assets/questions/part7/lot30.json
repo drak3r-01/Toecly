@@ -1,0 +1,302 @@
+[
+  {
+    "id": "p7-313",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why museums are rethinking their night openings",
+        "text": "Late-evening openings were once a reliable way for museums to attract young visitors who could not come during the day. Cocktails in the sculpture hall, a live band in the atrium and a ticket price that included a drink drew crowds, and several institutions reported that their under-thirty audience had doubled. Yet a number of directors now admit that the events were less successful than the attendance figures suggested.\n\nSurveys carried out by two museums found that most guests spent barely twenty minutes in the galleries, with the rest of the evening given over to the bar. Relatively few returned during the day. Staff also reported that the noise and crowding made it difficult for those who did wish to look at the works, and that spilled drinks had caused damage to floors and, on one occasion, to a loan from another institution.\n\nSome museums have therefore changed course. Instead of a party, they now offer smaller, quieter evenings built around a single exhibition, with a curator speaking for half an hour and the galleries otherwise left open. Numbers are lower, but the proportion of visitors who return is markedly higher. A director in the north described the shift as \"trading a crowd for an audience\".\n\nCritics note that the new format is more expensive per head, and that it may be affordable only to larger museums with substantial staff."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main point of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Museums have stopped opening in the evening",
+          "Young visitors no longer care for art",
+          "Museums are swapping parties for calm evenings",
+          "Cocktail events have raised museum profits"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article describes why party-style openings are being replaced."
+      },
+      {
+        "prompt": "What did the surveys discover about guests?",
+        "category": "detail",
+        "choices": [
+          "Most spent little time at the works",
+          "Most were over thirty years old",
+          "Most returned during the daytime",
+          "Most complained about the ticket price"
+        ],
+        "answerIndex": 0,
+        "explanation": "Most guests spent barely twenty minutes in the galleries."
+      },
+      {
+        "prompt": "What does 'trading a crowd for an audience' suggest?",
+        "category": "inference",
+        "choices": [
+          "The museum wants larger crowds again",
+          "Audiences prefer music to exhibitions",
+          "Curators dislike speaking to crowds",
+          "Fewer attend, but more deeply"
+        ],
+        "answerIndex": 3,
+        "explanation": "Numbers are lower, but the proportion of visitors who return is higher."
+      },
+      {
+        "prompt": "What limitation of the new format is mentioned?",
+        "category": "inference",
+        "choices": [
+          "It cannot be used for loans of art",
+          "Smaller museums may find it too costly",
+          "It requires a live band each night",
+          "It drives away the younger visitors"
+        ],
+        "answerIndex": 1,
+        "explanation": "It is more expensive per head and may be affordable only to larger museums."
+      }
+    ]
+  },
+  {
+    "id": "p7-314",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Concerning the transfer of the Medina account",
+        "text": "To: Rosalind Achebe, Regional Director\nFrom: Felix Dunmore, Account Manager\nSubject: Transfer of the Medina Textiles account: handover plan\n\nDear Rosalind,\n\nAs discussed on Tuesday, I am sending the proposed plan for transferring the Medina Textiles account to Chloe Barrow when I move to the Singapore office on 1 April. I have tried to arrange matters so that the client notices as little disruption as possible.\n\nMedina has been a customer for nine years and is our third largest, but it has also been the most demanding. Its buyer, Mr. Ibrahim, expects replies within a few hours and becomes impatient when he is passed from one person to another. For that reason, I propose that Chloe and I attend his next two monthly calls together, so that he can become accustomed to her before I leave. I also suggest that I introduce her at the spring trade fair, which he attends every year.\n\nThere is one risk I should flag. Medina's contract is up for renewal in September, and Mr. Ibrahim has hinted that he is considering a competitor's offer. Chloe is capable, but she has not yet handled a renewal. I would therefore ask that you join the negotiations in person, and that I remain available by telephone throughout the summer.\n\nI would be glad to go through the plan with you before Friday.\n\nBest wishes,\nFelix"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the email?",
+        "category": "purpose",
+        "choices": [
+          "To ask for a promotion in Singapore",
+          "To outline a client's handover to a colleague",
+          "To warn that a client has left the company",
+          "To criticize the buyer's behavior"
+        ],
+        "answerIndex": 1,
+        "explanation": "He proposes a handover plan for the Medina account."
+      },
+      {
+        "prompt": "What does Mr. Dunmore propose to help Mr. Ibrahim adjust?",
+        "category": "detail",
+        "choices": [
+          "A cut in the contract price offered",
+          "A visit to the Singapore office soon",
+          "Weekly reports written by Chloe Barrow",
+          "Shared calls and a fair introduction"
+        ],
+        "answerIndex": 3,
+        "explanation": "Both attend the next two calls, and he introduces her at the trade fair."
+      },
+      {
+        "prompt": "Why does he want the director involved in the renewal?",
+        "category": "inference",
+        "choices": [
+          "His successor lacks experience with renewals",
+          "The client has already cancelled the contract",
+          "The director negotiates all contracts personally",
+          "Chloe Barrow will be on holiday in September"
+        ],
+        "answerIndex": 0,
+        "explanation": "Chloe 'has not yet handled a renewal' and the client is considering a competitor."
+      },
+      {
+        "prompt": "What is suggested about Mr. Ibrahim?",
+        "category": "inference",
+        "choices": [
+          "He plans to cancel the account immediately",
+          "He dislikes attending trade fairs",
+          "He wants one contact who replies fast",
+          "He rarely contacts the company"
+        ],
+        "answerIndex": 2,
+        "explanation": "He expects quick replies and is impatient when passed between people."
+      }
+    ]
+  },
+  {
+    "id": "p7-315",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Notice of a public consultation on the Riverside development",
+        "text": "CITY OF BELLMOOR — NOTICE OF PUBLIC CONSULTATION\nProposed redevelopment of the Riverside depot site\n\nThe Planning Department invites residents and business owners to comment on a proposal to redevelop the former Riverside bus depot. The applicant, Halcyon Properties, proposes a mixed-use scheme comprising 210 apartments, a supermarket, a small public square and a bicycle hub, with an underground car park of 180 spaces.\n\nThe consultation runs from 3 March to 28 March. Documents, including drawings, traffic assessments and a study of the effect on light to neighboring houses, are available at the Planning Office, at the Central Library and on the city's website. Printed copies can be provided on request, though a small charge applies for the traffic assessment, which exceeds four hundred pages.\n\nComments should be submitted in writing, by post or electronically, and must include the sender's name and address, as anonymous submissions cannot be considered. Comments that concern matters outside the Council's planning powers, such as the effect of the scheme on property values, will be recorded but cannot influence the decision.\n\nTwo public meetings will be held, on 11 March at the Riverside Community Hall and on 19 March at the Central Library, both beginning at 7 p.m. The Planning Committee is expected to decide on the application in June."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the notice?",
+        "category": "main_idea",
+        "choices": [
+          "To announce the approval of a development",
+          "To advertise apartments for sale",
+          "To report a traffic study's results",
+          "To invite views on a proposed scheme"
+        ],
+        "answerIndex": 3,
+        "explanation": "The Planning Department invites comments on the redevelopment proposal."
+      },
+      {
+        "prompt": "Why might someone pay a charge for documents?",
+        "category": "detail",
+        "choices": [
+          "The library keeps no printed copies",
+          "The traffic assessment is very long",
+          "Drawings must be ordered from Halcyon",
+          "The website is closed to residents"
+        ],
+        "answerIndex": 1,
+        "explanation": "A small charge applies for the traffic assessment, which exceeds four hundred pages."
+      },
+      {
+        "prompt": "What can be inferred about a comment on property values?",
+        "category": "inference",
+        "choices": [
+          "It will be rejected immediately",
+          "It will be sent to Halcyon Properties",
+          "It is noted, but cannot sway the result",
+          "It will decide the application"
+        ],
+        "answerIndex": 2,
+        "explanation": "Such comments 'will be recorded but cannot influence the decision'."
+      },
+      {
+        "prompt": "Which statement is NOT supported by the notice?",
+        "category": "not_true",
+        "choices": [
+          "Comments may be sent without a name",
+          "The scheme includes a public square",
+          "Two public meetings are planned",
+          "The decision is expected in June"
+        ],
+        "answerIndex": 0,
+        "explanation": "Anonymous submissions cannot be considered."
+      }
+    ]
+  },
+  {
+    "id": "p7-316",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Clinical Data Manager, Northgate Biomedical",
+        "text": "Northgate Biomedical, an independent research organization conducting clinical trials for new treatments in cardiology, seeks a Clinical Data Manager to join its growing operations team. You will be responsible for the quality and integrity of the data generated by our trials, from the design of collection forms to the final database lock.\n\nThe post demands rigor, but also diplomacy. You will work closely with doctors at participating hospitals, many of whom regard data entry as an interruption of patient care, and you will need to persuade them that accurate records are essential to the trial's success. You will also liaise with statisticians, who depend on the cleanliness of your work, and with regulators, who may ask to inspect it.\n\nCandidates should hold a degree in life sciences or a related field and have at least four years' experience of clinical trials, ideally with knowledge of the electronic systems used to capture trial data. Candidates with experience of the regulations governing trials in more than one country will be at an advantage. Because the role involves occasional travel to hospitals, a full driving license is desirable.\n\nWe offer a competitive salary, generous leave and the chance to contribute to work that matters. To apply, send your CV and a short statement explaining how you would handle a physician who persistently submits late records."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main challenge of the job?",
+        "category": "main_idea",
+        "choices": [
+          "Keeping data strict and winning doctors over",
+          "Designing new treatments for heart disease",
+          "Managing a large team of statisticians",
+          "Traveling to hospitals in many countries"
+        ],
+        "answerIndex": 0,
+        "explanation": "The post demands rigor but also diplomacy with doctors."
+      },
+      {
+        "prompt": "Why will the manager need diplomacy with hospital doctors?",
+        "category": "detail",
+        "choices": [
+          "They are all employed directly by Northgate",
+          "They dislike electronic systems entirely",
+          "They see data entry as a patient distraction",
+          "They are openly hostile to regulators"
+        ],
+        "answerIndex": 2,
+        "explanation": "Many regard data entry as an interruption of patient care."
+      },
+      {
+        "prompt": "What does the application statement reveal about the role?",
+        "category": "inference",
+        "choices": [
+          "Physicians never submit their records",
+          "Late records from doctors recur often",
+          "The firm seeks to dismiss careless doctors",
+          "Statisticians review each applicant's statement"
+        ],
+        "answerIndex": 1,
+        "explanation": "Applicants are asked how they would handle a physician who persistently submits late records."
+      },
+      {
+        "prompt": "Which qualification is described as a possible advantage?",
+        "category": "detail",
+        "choices": [
+          "A degree in cardiology or nursing",
+          "Experience of managing a hospital",
+          "A background in applied statistics",
+          "Knowledge of rules in several nations"
+        ],
+        "answerIndex": 3,
+        "explanation": "Experience of regulations in more than one country 'will be at an advantage'."
+      }
+    ]
+  },
+  {
+    "id": "p7-317",
+    "documents": [
+      {
+        "type": "article",
+        "title": "A lighthouse keeper's last winter",
+        "text": "When the lighthouse at Cape Merrow was automated in 1998, it ended a tradition of continuous human watch that had lasted since 1847. The last keeper, Anders Holm, who had served there for twenty-two years, describes the final winter as the loneliest and, to his surprise, the most contented of his life.\n\n\"People imagine that a keeper's work was about the light,\" he said, \"but the light looked after itself, more or less. What we really did was watch the weather, record it and be ready.\" Holm kept a daily log of wind, swell and visibility, which has since been used by climate researchers because it covers a stretch of coast with almost no other measurements. One scientist described the log as \"a gift from a man who never knew it would be useful\".\n\nAutomation brought obvious savings, and nobody now argues for returning to manned stations. Yet Holm believes that something was lost. The keepers, he says, were the only people who noticed when a fishing boat did not return, and on three occasions in his career he raised the alarm before anyone else knew a vessel was missing. A machine, however reliable, does not wonder where a boat has gone.\n\nThe tower is now a museum, and Holm, aged seventy-one, occasionally leads visitors up its stairs."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The rise of venture investors in software",
+          "A decline in profits among small firms",
+          "Founders who prefer independence to growth",
+          "The difficulty of hiring for new companies"
+        ],
+        "answerIndex": 2,
+        "explanation": "It describes Holm's last winter and what automation changed."
+      },
+      {
+        "prompt": "How has Holm's log been useful?",
+        "category": "detail",
+        "choices": [
+          "It gives weather data for climate study",
+          "It has helped locate a missing vessel",
+          "It was displayed in the museum's lobby",
+          "It proved that the light was reliable"
+        ],
+        "answerIndex": 0,
+        "explanation": "Researchers use it because the coast has almost no other measurements."
+      },
+      {
+        "prompt": "What does Holm mean by 'does not wonder where a boat has gone'?",
+        "category": "inference",
+        "choices": [
+          "Machines are less reliable than keepers",
+          "Boats rarely go missing today",
+          "Keepers were paid to search for boats",
+          "Machines do not notice what is absent"
+        ],
+        "answerIndex": 3,
+        "explanation": "Keepers noticed when a boat did not return; a machine does not wonder."
+      },
+      {
+        "prompt": "What is implied about Holm's view of automation?",
+        "category": "inference",
+        "choices": [
+          "He wants every lighthouse manned again",
+          "He accepts its gains but sees a loss",
+          "He believes it was unnecessary",
+          "He regrets leaving the profession"
+        ],
+        "answerIndex": 1,
+        "explanation": "Nobody argues for return to manned stations, yet he believes something was lost."
+      }
+    ]
+  }
+]
