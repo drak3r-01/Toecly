@@ -1,0 +1,222 @@
+[
+  {
+    "id": "p6-439",
+    "documentType": "advertisement",
+    "text": "Hartley & Moss Chartered Accountants\n\nRunning a growing business leaves little time for tax planning, yet [1] decisions taken early in a company's life can determine its liabilities for years to come. Hartley & Moss has advised owner-managed firms for more than three decades, and our partners combine technical expertise with a practical understanding of commercial pressures.\n\n[2] We do not offer generic packages; instead, each client is assigned a partner who becomes familiar with the business and anticipates problems before they arise. [3] you are preparing for a sale, a succession or a period of rapid expansion, we shall tailor our advice accordingly. Contact us before 31 March to arrange a complimentary review, [4] which we shall outline the savings that may be available to you.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "seemingly",
+          "supposedly",
+          "arguably",
+          "apparently"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Seemingly minor decisions' are decisions that appear minor but are not; the others suggest doubt about whether the decisions are made or minor in ways that do not fit."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our approach is deliberately automated, which is why many of our clients have remained with us for more than twenty years.",
+          "Our approach is deliberately personal, which is why many of our clients have remained with us for more than twenty years.",
+          "Our approach was deliberately personal, which is why many of our clients have remained with us for more than twenty years.",
+          "Our fees are deliberately modest, which is why many of our clients have complained to us about more than twenty items."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says 'We do not offer generic packages', contrasting with a personal approach; only the first option announces it. The others describe automation, use a past tense, or refer to fees and complaints."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Although",
+          "Because",
+          "Whether",
+          "Unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Whether you are preparing for a sale, a succession or a period of rapid expansion' introduces alternatives; the others cannot present options."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "within",
+          "upon",
+          "beside",
+          "during"
+        ],
+        "answerIndex": 3,
+        "explanation": "'During which we shall outline' needs the relative 'which' with a preposition meaning in the course of; 'during' fits, whereas 'within', 'upon' and 'beside' do not match the time sense."
+      }
+    ]
+  },
+  {
+    "id": "p6-440",
+    "documentType": "schedule",
+    "text": "Annual Conference of the Regional Planning Association\nProgram Notes for Delegates\n\nThe opening plenary will begin at 9.30 a.m. on Thursday, [1] registration will open at 8.30. Parallel sessions will follow at 11.00, and delegates are asked to indicate their choices on the form provided so that rooms of appropriate size can be allocated.\n\n[2] Sessions on housing and transport are expected to attract the largest audiences, and places will therefore be offered on a first-come basis. Lunch will be served between 1.00 and 2.00 p.m.; delegates with dietary requirements should [3] the organizers in advance. The conference dinner, [4] will take place at the Guildhall, requires a separate booking.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "therefore",
+          "moreover",
+          "hence"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whereas registration will open at 8.30' sets the earlier registration against the later plenary; the others do not express contrast."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Some sessions are likely to be canceled, so delegates are advised to submit their luggage as early as possible.",
+          "Some sessions are likely to be oversubscribed, so delegates are advised to submit their choices as early as possible.",
+          "All sessions are likely to be undersubscribed, so delegates are advised to submit their choices as late as possible.",
+          "Some sessions were oversubscribed, so delegates were advised to submit their choices as early as possible."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says that sessions on housing and transport will attract the largest audiences and that places will be offered first-come, so the previous one must warn about oversubscription; the others contradict or are irrelevant."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "notice",
+          "notion",
+          "notify",
+          "nominate"
+        ],
+        "answerIndex": 2,
+        "explanation": "Delegates should 'notify' the organizers, meaning inform them; 'notice' means observe, 'notion' is a noun, and 'nominate' means propose."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "who",
+          "where",
+          "which"
+        ],
+        "answerIndex": 3,
+        "explanation": "'The conference dinner, which will take place at the Guildhall' needs a non-defining relative pronoun referring to a thing."
+      }
+    ]
+  },
+  {
+    "id": "p6-441",
+    "documentType": "online_chat",
+    "text": "Isabel Moreno [10:02]: Have the auditors replied about the revised schedule?\nGareth Pugh [10:05]: They have. They can begin on the 14th, [1] they would need access to the accounts ledger by the preceding Friday.\nIsabel Moreno [10:06]: That is feasible. [2]\nGareth Pugh [10:08]: Agreed. I'll also ask whether they would [3] a joint session with the tax team on the first morning.\nIsabel Moreno [10:09]: Good idea. Please make sure they understand that the migration to the new system is still [4] to be completed by the 10th.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "provided that",
+          "as though",
+          "even if",
+          "whereas"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Provided that' states the condition: they can begin on the 14th on condition of access by Friday; the others misstate the relation."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "However, the migration of the ledger will have to be postponed after then, otherwise the data may be incomplete.",
+          "However, the migration of the ledger will have to be finished before then, otherwise the data may be incomplete.",
+          "Therefore, the migration of the ledger is finished, otherwise the auditors would have no data to examine.",
+          "However, the migration of the ledger has been finished since then, so the data may be incomplete."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next message ('Agreed') accepts a condition about migration, so the previous message must set it: the ledger migration must be finished before the auditors need access. The others reverse the timing, use 'therefore' wrongly, or contradict the facts."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "accumulate",
+          "accompany",
+          "accommodate",
+          "acquaint"
+        ],
+        "answerIndex": 2,
+        "explanation": "A schedule can 'accommodate' a joint session, meaning make room for it; 'accumulate' means gather, 'accompany' means go with, and 'acquaint' means make familiar."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "scheduling",
+          "schedule",
+          "schedules",
+          "scheduled"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Is still scheduled to be completed' needs the past participle after 'is'; the other forms do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-442",
+    "documentType": "invoice",
+    "text": "Statement of Account – Harcourt Industrial Supplies\n\nCustomer: Brandt Engineering Ltd\nPeriod: 1 April to 30 June\n\nThe total below reflects all goods supplied during the period and credit notes issued up to 30 June. [1] Items returned after that date will be credited on the next statement. The balance is payable within thirty days of the statement date; amounts outstanding beyond that period will [2] interest at 2 percent per month.\n\nWe would draw your attention to the following. [3] the volume discount agreed in January, invoice 20871 has been issued at the standard rate, and a credit note will follow. Should you disagree with any entry, please notify us in writing [4] fourteen days of receipt.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Credit notes issued after 30 June are not included in this statement and will appear on the next one.",
+          "Credit notes issued before 30 June are not included in this statement and will be shown separately.",
+          "Credit notes issued after 30 June have been included in this statement, as the balance below shows.",
+          "Goods supplied after 30 June are not included in this statement and will be credited on the next one."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says 'Items returned after that date will be credited on the next statement', so 'that date' must be 30 June and the previous sentence must say what falls after it. The others contradict the first sentence (credit notes issued up to 30 June) or confuse goods and credits."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "accrete",
+          "accrue",
+          "accede",
+          "accuse"
+        ],
+        "answerIndex": 1,
+        "explanation": "Overdue amounts 'accrue' interest, meaning it accumulates; 'accrete', 'accede' and 'accuse' do not fit."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "Pursuant to",
+          "Owing to",
+          "Contrary to",
+          "Thanks to"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Contrary to the volume discount agreed in January, invoice 20871 has been issued at the standard rate' shows the invoice departs from the agreement; 'pursuant to' would mean in accordance with it, and the others give causes that do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "by",
+          "since",
+          "within"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Notify us in writing within fourteen days of receipt' gives a time limit measured from receipt; 'by' would need a date, and the others do not fit."
+      }
+    ]
+  }
+]

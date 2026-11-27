@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p6-446",
+    "documentType": "email",
+    "text": "To: Regional Sales Directors\nFrom: Octavia Brandt, Head of Customer Strategy\nSubject: Key account review\n\nThe annual review of our twenty largest accounts has now been completed, and the findings are attached. In summary, nine accounts have increased their spending, six have remained [1], and five have reduced it, in three cases because of consolidation within the customer's own industry.\n\n[2] Retention, rather than acquisition, will therefore be our priority in the coming year. Directors are asked to prepare a recovery plan for each account that has declined, [3] the specific reasons given by the customer. These plans should be submitted by 20 January, [4] the strategy meeting on 3 February can consider them in full.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "static",
+          "stationary",
+          "steadfast",
+          "stagnant"
+        ],
+        "answerIndex": 0,
+        "explanation": "Spending that has 'remained static' has stayed at the same level; 'stationary' describes objects that are not moving, 'steadfast' means loyal, and 'stagnant' implies decline."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The pattern suggests that our greatest opportunity lies not in keeping existing customers but in winning new ones.",
+          "The pattern suggests that our greatest exposure lies not in winning new customers but in losing existing ones.",
+          "The pattern suggests that our greatest exposure lies not in losing existing customers but in winning new ones.",
+          "The pattern suggested that our greatest exposure had lain in losing customers that were acquired last year."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence states that retention rather than acquisition will be the priority, so the previous one must say the main risk is losing customers. The others reverse the priority or use a past perfect."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "taking on",
+          "taking over",
+          "taking into account",
+          "taking after"
+        ],
+        "answerIndex": 2,
+        "explanation": "Plans should be prepared 'taking into account' the reasons given, meaning considering them; the others have different meanings."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "provided",
+          "in case",
+          "lest",
+          "so that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'So that the strategy meeting can consider them' states the purpose of the deadline; 'provided' needs 'that', 'in case' suggests a precaution, and 'lest' requires a negative idea."
+      }
+    ]
+  },
+  {
+    "id": "p6-447",
+    "documentType": "notice",
+    "text": "NOTICE OF ANNUAL ELECTION\nThe Greenfield Allotment Society\n\nNominations are invited for the three vacancies on the management committee, which will be filled at the annual general meeting on 18 September. [1] Candidates must be paid-up members of at least twelve months' standing and must be proposed and seconded by two other members.\n\nNomination forms are available from the secretary and must be returned [2] 4 September. Any member who is unable to attend the meeting may appoint a proxy, [3] the proxy's authority must be notified in writing before the start of proceedings. Should the number of nominations not exceed the number of vacancies, those nominated will be declared elected [4] a vote.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The committee is responsible for the allocation of plots, the maintenance of shared facilities and the control of the society's finances.",
+          "The committee is responsible for the allocation of members, the maintenance of private facilities and the control of the neighbors' finances.",
+          "The committee was responsible for the allocation of plots, the maintenance of shared facilities and the control of the society's finances.",
+          "The committee is elected by the allocation of plots, the maintenance of shared facilities and the control of members."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence sets conditions for candidates, so the previous one should describe the role; only the first describes it coherently. The others use incorrect objects, a past tense, or confuse election and responsibility."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "at",
+          "by",
+          "on",
+          "until"
+        ],
+        "answerIndex": 1,
+        "explanation": "A deadline for returning forms is 'by 4 September'; 'until' would mean continuing up to that date."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as though",
+          "whereas",
+          "provided that",
+          "albeit"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Provided that' states the condition: a proxy may be appointed provided that their authority is notified; the others distort the logic."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "within",
+          "through",
+          "beyond",
+          "without"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Declared elected without a vote' means no ballot is needed because nominations do not exceed vacancies; the others do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-448",
+    "documentType": "review",
+    "text": "Review: Corporate Governance in Practice by Jonas Lindqvist\n\nLindqvist's new book is billed as a practical guide for non-executive directors, and for much of its length it lives up to that promise. [1] Its early chapters set out, in clear and unpretentious prose, the duties that directors owe to shareholders and the means by which those duties can be enforced.\n\nThe middle section is less successful. Case studies are presented [2] sufficient analysis, and the reader is left to draw conclusions that the author has not [3]. The final chapters, [4], recover much of the lost ground, offering a persuasive account of how boards can resist pressure from dominant executives.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The strongest sections are those in which the author draws on his own experience of sitting on the boards of listed companies.",
+          "The weakest sections are those in which the author draws on his own experience of sitting on the boards of private companies.",
+          "The strongest sections are those in which the author draws on the experience of the companies that appoint directors.",
+          "The strongest sections were those in which the author drew on his experience of sitting on the boards of listed companies."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'Its early chapters set out, in clear and unpretentious prose', which praises the book; only the first option introduces praise. The others describe weak sections, shift the source of experience, or use a past tense."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "with",
+          "without",
+          "despite",
+          "following"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Without sufficient analysis' matches the criticism that readers are left to draw their own conclusions; the others suggest the opposite."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "subsidized",
+          "subordinated",
+          "substantiated",
+          "substituted"
+        ],
+        "answerIndex": 2,
+        "explanation": "The author has not 'substantiated' (supported with evidence) the conclusions; the others do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "in short",
+          "for example",
+          "as a result",
+          "by contrast"
+        ],
+        "answerIndex": 3,
+        "explanation": "The final chapters recover ground after a weak middle, a contrast marked by 'by contrast'; the others do not mark that relation."
+      }
+    ]
+  }
+]

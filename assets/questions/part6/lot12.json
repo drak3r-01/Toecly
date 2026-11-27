@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p6-443",
+    "documentType": "letter",
+    "text": "Dear Ms. Karlsson,\n\nI am delighted to confirm that the Board of Trustees has approved your nomination as a member of the Advisory Council of the Linden Arts Foundation. The Council meets four times a year, and members are expected to attend at least three meetings annually. [1] Your term will run for three years, after which you will be eligible for reappointment for a second term.\n\nAlthough the position is unremunerated, the Foundation will [2] reasonable travel expenses on production of receipts. [3] a member is unable to attend a meeting, apologies should be sent to the secretary at least forty-eight hours beforehand. Members are also asked to declare any interest that might [4] with their duties.\n\nYours sincerely,\nOlivier Bastien\nChair of Trustees",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your experience in the museum sector will be particularly valuable as the Foundation reviews its acquisitions policy.",
+          "Your experience in the museum sector will be particularly valued by the staff who reviewed your acquisitions application.",
+          "Your experience in the museum sector would be particularly valuable if the Foundation had reviewed its policy last year.",
+          "Your absence from the museum sector will be particularly regretted as the Foundation reviews its acquisitions policy."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence sets out the length of the term, so the previous sentence should explain the invitation positively; only the first does so coherently. The others refer to an application, use a hypothetical past, or regret an absence."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "reinforce",
+          "reimburse",
+          "reinstate",
+          "reiterate"
+        ],
+        "answerIndex": 1,
+        "explanation": "A foundation 'reimburses' expenses, meaning repays them; 'reinforce', 'reinstate' and 'reiterate' do not take 'expenses' sensibly."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Notwithstanding that",
+          "Inasmuch as",
+          "In the event that",
+          "Albeit"
+        ],
+        "answerIndex": 2,
+        "explanation": "'In the event that a member is unable to attend' introduces a possible situation; 'inasmuch as' would give a reason, and the others express concession."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "confront",
+          "confine",
+          "confess",
+          "conflict"
+        ],
+        "answerIndex": 3,
+        "explanation": "An interest that might 'conflict with' duties is the fixed collocation; 'confront' takes no 'with', 'confine' means restrict, and 'confess' means admit."
+      }
+    ]
+  },
+  {
+    "id": "p6-444",
+    "documentType": "article",
+    "text": "Retailers Wrestle With the Cost of Returns\n\nOnline retailers are discovering that the convenience they offer customers has a price. Around a fifth of goods bought on the internet are returned, [1] the proportion in physical stores is closer to one in twenty. The expense of collecting, inspecting and restocking these items now weighs heavily on margins.\n\n[2] Several fashion chains have begun to charge customers for returns, a step that was unthinkable only two years ago. Others are experimenting with so-called returnless refunds, [3] shoppers are allowed to keep low-value items rather than send them back. Analysts caution that the strategy may prove [4] if it encourages customers to order more than they intend to keep.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "because",
+          "unless",
+          "so"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whereas the proportion in physical stores is closer to one in twenty' contrasts online and store returns; the others do not express contrast."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The financial pressure has encouraged companies to extend policies that, until recently, were treated as a competitive disadvantage.",
+          "The financial pressure has forced companies to reconsider policies that, until recently, were treated as a competitive advantage.",
+          "The financial pressure has forced customers to reconsider policies that, until recently, were treated as a company secret.",
+          "The financial pressure had forced companies to reconsider policies that, until recently, would have been treated as an advantage."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence reports chains starting to charge for returns, which reverses a previously generous policy; only the first option introduces that reversal. The others describe extension, shift the subject to customers, or use an unsuitable past perfect."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "whereas",
+          "wherein",
+          "whereby",
+          "whereupon"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Whereby shoppers are allowed to keep low-value items' defines how the refund scheme works (by which); 'whereas' contrasts, 'wherein' means in which, and 'whereupon' means after which."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "counterfeit",
+          "counterintuitive",
+          "counterbalanced",
+          "counterproductive"
+        ],
+        "answerIndex": 3,
+        "explanation": "A strategy that encourages over-ordering would be 'counterproductive', defeating its own purpose; the others do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-445",
+    "documentType": "web_page",
+    "text": "Valmont Technical Institute – Admissions Requirements\n\nApplicants for the Higher Diploma in Mechanical Engineering must hold either a recognized upper-secondary qualification or equivalent professional experience. [1] Those who do not meet the standard entry criteria may nevertheless be considered, [2] they can demonstrate relevant achievement through a portfolio of work.\n\nAll applicants are required to submit two references, at least one of which should be from a [3] employer or teacher. [4] we receive a large number of applications each year, interviews are offered only to those whose submissions meet the published criteria.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Proficiency in mathematics is regarded as essential, and a grade equivalent to a B is normally expected in that subject.",
+          "Proficiency in mathematics is regarded as optional, and a grade equivalent to a D is normally accepted in that subject.",
+          "Proficiency in literature is regarded as essential, and a grade equivalent to a B is normally expected in that subject.",
+          "Proficiency in mathematics was regarded as essential, and a grade equivalent to a B had normally been expected."
+        ],
+        "answerIndex": 0,
+        "explanation": "The following sentence refers to those who 'do not meet the standard entry criteria', so the previous one must state a criterion; the first does. The others make mathematics optional, name another subject, or use a past perfect."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "as though",
+          "provided that",
+          "even if",
+          "so that"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Provided that they can demonstrate relevant achievement' sets the condition for considering them; the others do not."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "forward",
+          "formal",
+          "former",
+          "formidable"
+        ],
+        "answerIndex": 2,
+        "explanation": "A 'former employer' is a previous one; 'forward', 'formal' and 'formidable' do not fit."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Whereas",
+          "Albeit",
+          "Because"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Because we receive a large number of applications' gives the reason for restricting interviews; the others do not fit."
+      }
+    ]
+  }
+]
