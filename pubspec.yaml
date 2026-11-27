@@ -39,6 +39,7 @@ dependencies:
   go_router: ^18.1.4
   flutter_riverpod: ^3.5.0
   intl: ^0.20.3
+  flutter_svg: ^2.2.0
   flutter_localizations:
     sdk: flutter
 
@@ -71,6 +72,17 @@ flutter:
     - assets/questions/part5/
     - assets/questions/part6/
     - assets/questions/part7/
+    - assets/brand/
+
+  # Variable fonts (SIL OFL 1.1, licenses next to the files). Weight, width and
+  # optical size are driven by FontVariation, e.g. in the animated splash.
+  fonts:
+    - family: BricolageGrotesque
+      fonts:
+        - asset: assets/fonts/BricolageGrotesque-VF.ttf
+    - family: Figtree
+      fonts:
+        - asset: assets/fonts/Figtree-VF.ttf
 
   # To add assets to your application, add an assets section, like this:
   # assets:

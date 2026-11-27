@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60 23.5 1120 1120" width="1120" height="1120">
+  <!-- Axe de symétrie x=620 ; toutes les obliques ont la même pente (0.44) -->
+  <defs>
+    <linearGradient id="cap" gradientUnits="userSpaceOnUse" x1="150" y1="150" x2="900" y2="450">
+      <stop offset="0" stop-color="#00CFFB"/>
+      <stop offset=".45" stop-color="#0090FF"/>
+      <stop offset="1" stop-color="#004BFD"/>
+    </linearGradient>
+    <linearGradient id="base" gradientUnits="userSpaceOnUse" x1="328" y1="0" x2="912" y2="0">
+      <stop offset="0" stop-color="#00B2FF"/>
+      <stop offset=".55" stop-color="#004AFB"/>
+      <stop offset="1" stop-color="#009BFF"/>
+    </linearGradient>
+    <linearGradient id="tassel" gradientUnits="userSpaceOnUse" x1="170" y1="350" x2="230" y2="590">
+      <stop offset="0" stop-color="#009CFF"/>
+      <stop offset="1" stop-color="#004BFD"/>
+    </linearGradient>
+    <linearGradient id="green" gradientUnits="userSpaceOnUse" x1="108" y1="0" x2="1139" y2="0">
+      <stop offset="0" stop-color="#7DF53A"/>
+      <stop offset=".5" stop-color="#05A88A"/>
+      <stop offset="1" stop-color="#23FA70"/>
+    </linearGradient>
+    <linearGradient id="orange" gradientUnits="userSpaceOnUse" x1="108" y1="0" x2="1139" y2="0">
+      <stop offset="0" stop-color="#FFAD08"/>
+      <stop offset=".5" stop-color="#FF3F0D"/>
+      <stop offset="1" stop-color="#FF8C03"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Pompon -->
+  <g fill="url(#tassel)">
+    <rect x="176" y="340" width="44" height="130"/>
+    <rect x="148" y="440" width="100" height="150" rx="38"/>
+  </g>
+</svg>

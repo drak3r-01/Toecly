@@ -5,10 +5,14 @@ import 'package:material_ui/material_ui.dart';
 import '../l10n/app_localizations.dart';
 import 'app_router.dart';
 import 'settings/settings_providers.dart';
+import 'splash/splash_overlay.dart';
 import 'theme/app_theme.dart';
 
 class ToeclyApp extends ConsumerStatefulWidget {
-  const ToeclyApp({super.key});
+  const ToeclyApp({super.key, this.showSplash = false});
+
+  /// Plays the animated splash over the app (off in tests).
+  final bool showSplash;
 
   @override
   ConsumerState<ToeclyApp> createState() => _ToeclyAppState();
@@ -32,12 +36,10 @@ class _ToeclyAppState extends ConsumerState<ToeclyApp> {
       darkTheme: AppTheme.dark(),
       themeMode: ref.watch(themeModeProvider),
       locale: ref.watch(localeProvider),
-      localizationsDelegates: [
-        AppLocalizations.delegate,
-        ...GlobalMaterialLocalizations.delegates,
-      ],
+      localizationsDelegates: [AppLocalizations.delegate, ...GlobalMaterialLocalizations.delegates],
       supportedLocales: AppLocalizations.supportedLocales,
       routerConfig: _router,
+      builder: (context, child) => widget.showSplash ? SplashOverlay(child: child!) : child!,
     );
   }
 }
