@@ -1,522 +1,522 @@
 [
   {
-    "id": "p5-081",
-    "sentence": "Ms. Hart ___ the report by the time the meeting starts.",
+    "id": "p5-681",
+    "sentence": "Delegates were asked to ___ their questions until the end of the presentation.",
     "choices": [
-      "finished",
-      "has finish",
-      "will have finished",
-      "is finishing"
+      "retire",
+      "reserve",
+      "resign",
+      "refuse"
     ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'By the time' with a future event calls for the future perfect."
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Reserve' means keep for later. 'Refuse' means decline, 'retire' means stop working, and 'resign' means leave a post."
   },
   {
-    "id": "p5-082",
-    "sentence": "The board ___ the proposal yesterday afternoon.",
+    "id": "p5-682",
+    "sentence": "The new inventory system has ___ the time needed to process incoming orders.",
     "choices": [
-      "approves",
-      "will approve",
-      "approved",
-      "has approved"
+      "cultivated",
+      "curbed to",
+      "curtailed",
+      "contested"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Yesterday afternoon' is a finished past time, so the simple past is needed."
+    "category": "vocabulary",
+    "explanation": "'Curtailed' means shortened. 'Curbed to' is malformed, 'cultivated' means developed, and 'contested' means disputed."
   },
   {
-    "id": "p5-083",
-    "sentence": "Our team ___ on this project since last March.",
+    "id": "p5-683",
+    "sentence": "The marketing team has ___ a series of workshops to boost customer engagement.",
     "choices": [
-      "works",
-      "worked",
-      "has been working",
-      "is working"
+      "imitated",
+      "inhibited",
+      "initiated",
+      "indicated"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Since last March' calls for the present perfect (continuous)."
+    "category": "vocabulary",
+    "explanation": "'Initiated' means launched. 'Inhibited' means restrained, 'imitated' means copied, and 'indicated' means pointed out."
   },
   {
-    "id": "p5-084",
-    "sentence": "If the shipment arrives late, we ___ the customer immediately.",
+    "id": "p5-684",
+    "sentence": "Under the terms of the lease, the landlord must ___ the property in good condition.",
     "choices": [
-      "would have notified",
-      "notifying",
-      "will notify",
-      "notified"
+      "maintain",
+      "retain",
+      "contain",
+      "obtain"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Maintain' means keep in good condition. 'Contain' means hold inside, 'retain' means keep possession, and 'obtain' means acquire."
+  },
+  {
+    "id": "p5-685",
+    "sentence": "The negotiators finally reached a ___ after three days of difficult discussions.",
+    "choices": [
+      "compromise",
+      "conclusion",
+      "comparison",
+      "complication"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Reach a compromise' is a fixed collocation. 'Conclusion' is not usually 'reached' in a negotiation, 'comparison' is a contrast, and 'complication' is a difficulty."
+  },
+  {
+    "id": "p5-686",
+    "sentence": "Sales figures for the third quarter ___ expectations by a comfortable margin.",
+    "choices": [
+      "extended",
+      "expired",
+      "exhausted",
+      "exceeded"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Exceeded' means surpassed. 'Extended' means lengthened, 'expired' means ended, and 'exhausted' means used up."
+  },
+  {
+    "id": "p5-687",
+    "sentence": "The sudden resignation of the finance director left the company in a ___ position.",
+    "choices": [
+      "variable",
+      "valuable",
+      "vigorous",
+      "vulnerable"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Vulnerable' means exposed to harm. 'Variable' means changeable, 'valuable' means precious, and 'vigorous' means energetic."
+  },
+  {
+    "id": "p5-688",
+    "sentence": "Applicants must ___ proof of residence along with their completed forms.",
+    "choices": [
+      "fulfil",
+      "foster",
+      "furnish",
+      "fasten"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "First conditional: 'if' + present simple, then 'will' + base form."
+    "category": "vocabulary",
+    "explanation": "'Furnish' means supply or provide. 'Fasten' means attach, 'foster' means encourage, and 'fulfil' means satisfy a requirement."
   },
   {
-    "id": "p5-085",
-    "sentence": "If Mr. Dean had checked the schedule, he ___ the train.",
+    "id": "p5-689",
+    "sentence": "The merger is ___ upon approval from the competition authority.",
     "choices": [
-      "will not miss",
-      "does not miss",
-      "would not miss",
-      "would not have missed"
+      "dependable",
+      "responsive",
+      "accountable",
+      "contingent"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Contingent upon' means dependent on a condition. 'Dependable' means reliable, 'accountable' means responsible, and 'responsive' means reacting readily."
+  },
+  {
+    "id": "p5-690",
+    "sentence": "A ___ number of complaints were received after the introduction of the new return policy.",
+    "choices": [
+      "subtle",
+      "subsequent",
+      "substantial",
+      "substantive"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Substantial' means large in amount. 'Substantive' means real or meaningful, 'subsequent' means following, and 'subtle' means delicate."
+  },
+  {
+    "id": "p5-691",
+    "sentence": "In order to ___ the risk of fraud, all payments over ten thousand dollars require two signatures.",
+    "choices": [
+      "manipulate",
+      "maximise",
+      "motivate",
+      "mitigate"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Mitigate the risk' means reduce it. 'Motivate' means inspire, 'manipulate' means handle unfairly, and 'maximise' is the opposite of the intended effect."
+  },
+  {
+    "id": "p5-692",
+    "sentence": "The training session will ___ both theoretical principles and hands-on exercises.",
+    "choices": [
+      "incorporating",
+      "incorporation",
+      "incorporated",
+      "incorporate"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "Third conditional: 'had' + past participle, then 'would have' + past participle."
+    "explanation": "After 'will', the base form is required. The other forms are a participle, a gerund and a noun."
   },
   {
-    "id": "p5-086",
-    "sentence": "The new menu ___ in the restaurant next week.",
+    "id": "p5-693",
+    "sentence": "The proposal has been ___ by several senior managers as unrealistic given current market conditions.",
     "choices": [
-      "is introducing",
-      "introduces",
-      "will be introduced",
-      "will introduce"
+      "dismissed",
+      "disposed",
+      "dispersed",
+      "dispensed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Dismissed as' means rejected as. 'Dispensed' means distributed, 'dispersed' means scattered, and 'disposed' needs 'of' to mean 'discarded'."
+  },
+  {
+    "id": "p5-694",
+    "sentence": "Our supplier has ___ a ten percent discount on orders placed before the end of the month.",
+    "choices": [
+      "afforded",
+      "offered",
+      "enabled",
+      "granted to"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Offered a discount' fits an unconfirmed proposal on future orders. 'Afforded' and 'enabled' do not take a discount as an object, and 'granted to' is malformed."
+  },
+  {
+    "id": "p5-695",
+    "sentence": "The survey results ___ that most customers prefer online ordering to telephone ordering.",
+    "choices": [
+      "indicating",
+      "indicated to",
+      "indicates",
+      "indicate"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "The plural subject 'results' needs the plural verb 'indicate'. 'indicates' is singular, and the others are malformed or non-finite."
+  },
+  {
+    "id": "p5-696",
+    "sentence": "The CEO described the new strategy as a ___ shift away from traditional retail.",
+    "choices": [
+      "fundamentals",
+      "fundamental",
+      "fundament",
+      "fundamentally"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before the noun 'shift'. The others are an adverb and nouns."
+  },
+  {
+    "id": "p5-697",
+    "sentence": "Employees who ___ the company's code of conduct may face disciplinary action.",
+    "choices": [
+      "vacate",
+      "violate",
+      "validate",
+      "verify"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Violate' means break a rule. 'Vacate' means leave, 'validate' means confirm, and 'verify' means check truth."
+  },
+  {
+    "id": "p5-698",
+    "sentence": "The warehouse was ___ with boxes after the unexpected arrival of two extra shipments.",
+    "choices": [
+      "overdrawn",
+      "overwhelmed",
+      "overruled",
+      "overturned"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Overwhelmed with' means overloaded. 'Overturned' means flipped, 'overdrawn' is for bank accounts, and 'overruled' means reversed by authority."
+  },
+  {
+    "id": "p5-699",
+    "sentence": "The retailer's decision to ___ its loyalty programme surprised many analysts.",
+    "choices": [
+      "discharge",
+      "disclose",
+      "disappear",
+      "discontinue"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Discontinue' means stop providing. 'Disappear' is intransitive, 'disclose' means reveal, and 'discharge' means release or dismiss."
+  },
+  {
+    "id": "p5-700",
+    "sentence": "The committee has been ___ with reviewing every application received before the deadline.",
+    "choices": [
+      "tested",
+      "tied",
+      "taxed",
+      "tasked"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Be tasked with' means be given a responsibility. 'Taxed' means charged, 'tested' means examined, and 'tied' does not combine with 'with' in this sense."
+  },
+  {
+    "id": "p5-701",
+    "sentence": "Mr. Alvarez was ___ by the board to negotiate the terms of the acquisition on its behalf.",
+    "choices": [
+      "authorising",
+      "authenticated",
+      "authorised",
+      "authored"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "The subject 'menu' receives the action, so the passive is needed."
+    "category": "vocabulary",
+    "explanation": "'Authorised to' means given official permission. 'Authored' means wrote, 'authenticated' means proved genuine, and 'authorising' is active."
   },
   {
-    "id": "p5-087",
-    "sentence": "The accounting department ___ all invoices every Friday.",
+    "id": "p5-702",
+    "sentence": "The restaurant chain has ___ its menu in response to growing demand for vegetarian options.",
     "choices": [
-      "processes",
-      "processing",
-      "process",
-      "is process"
+      "divided",
+      "digressed",
+      "diverted",
+      "diversified"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Diversified' means broadened the range. 'Diverted' means redirected, 'digressed' means strayed from a topic, and 'divided' means separated."
+  },
+  {
+    "id": "p5-703",
+    "sentence": "The sales director ___ the team's success to better communication with clients.",
+    "choices": [
+      "assumed",
+      "admitted",
+      "assigned",
+      "attributed"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Attribute X to Y' means credit Y as the cause. 'Assigned' takes a person to a task, 'assumed' means took on, and 'admitted' means confessed."
+  },
+  {
+    "id": "p5-704",
+    "sentence": "The product launch was ___ until the final safety tests could be completed.",
+    "choices": [
+      "deferred",
+      "deprived",
+      "deterred",
+      "deprecated"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Deferred' means postponed. 'Deterred' means discouraged, 'deprived' means denied, and 'deprecated' means criticised."
+  },
+  {
+    "id": "p5-705",
+    "sentence": "The supplier's late deliveries have ___ our ability to meet customer deadlines.",
+    "choices": [
+      "jeopardised",
+      "justified",
+      "jettisoned",
+      "juxtaposed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Jeopardised' means put at risk. 'Justified' means defended, 'juxtaposed' means placed side by side, and 'jettisoned' means discarded."
+  },
+  {
+    "id": "p5-706",
+    "sentence": "A ___ review of the safety procedures revealed several outdated practices.",
+    "choices": [
+      "thorough",
+      "thoroughly",
+      "throughout",
+      "through"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "Singular subject with a routine action: simple present with -es."
+    "explanation": "An adjective is needed before the noun 'review'. 'through' is a preposition, 'thoroughly' is an adverb, and 'throughout' is a preposition or adverb."
   },
   {
-    "id": "p5-088",
-    "sentence": "Each of the employees ___ required to wear an identification badge.",
+    "id": "p5-707",
+    "sentence": "The retailer expects a ___ increase in online orders during the holiday season.",
     "choices": [
-      "were being",
-      "have been",
-      "is",
-      "are"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Each of' takes a singular verb."
-  },
-  {
-    "id": "p5-089",
-    "sentence": "The results of the survey ___ surprising to the entire team.",
-    "choices": [
-      "is being",
-      "were",
-      "has",
-      "was"
+      "marking",
+      "marked",
+      "markedly",
+      "mark"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "The plural subject 'results' takes a plural verb; the past fits the context."
+    "explanation": "'A marked increase' is a collocation with a past-participle adjective meaning noticeable. The others are a gerund, a noun and an adverb."
   },
   {
-    "id": "p5-090",
-    "sentence": "Neither the manager nor the assistants ___ aware of the change.",
+    "id": "p5-708",
+    "sentence": "The software company agreed to ___ the licence for another three years at the same rate.",
     "choices": [
-      "were",
-      "was",
-      "is",
-      "has been"
+      "resume",
+      "renew",
+      "repeat",
+      "revive"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Renew a licence' is the fixed collocation. 'Resume' means continue after a break, 'revive' means bring back to life, and 'repeat' means do again."
+  },
+  {
+    "id": "p5-709",
+    "sentence": "The factory's output has ___ markedly since the introduction of automated assembly lines.",
+    "choices": [
+      "surged",
+      "surrendered",
+      "surfaced",
+      "survived"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "With 'neither ... nor', the verb agrees with the nearer subject, 'assistants'."
+    "category": "vocabulary",
+    "explanation": "'Surged' means rose sharply. 'Surfaced' means appeared, 'surrendered' means gave up, and 'survived' means continued to exist."
   },
   {
-    "id": "p5-091",
-    "sentence": "Mr. Fox ___ in the Tokyo office when the fire alarm went off.",
+    "id": "p5-710",
+    "sentence": "Because the report contained confidential data, access was ___ to senior management only.",
     "choices": [
-      "has worked",
-      "works",
-      "was working",
-      "will work"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "Past continuous describes an action in progress when another event interrupted."
-  },
-  {
-    "id": "p5-092",
-    "sentence": "By next June, the company ___ twenty years in business.",
-    "choices": [
-      "has completed",
-      "is completing",
-      "will have completed",
-      "completes"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'By next June' calls for the future perfect."
-  },
-  {
-    "id": "p5-093",
-    "sentence": "The assistant ___ the documents when the printer stopped working.",
-    "choices": [
-      "will copy",
-      "had copy",
-      "copies",
-      "was copying"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "Past continuous for an action interrupted by a past event."
-  },
-  {
-    "id": "p5-094",
-    "sentence": "All applicants ___ contacted by e-mail within two weeks.",
-    "choices": [
-      "are being",
-      "will be",
-      "have",
-      "will"
+      "resolved",
+      "restricted",
+      "reserved",
+      "resisted"
     ],
     "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "The passive future 'will be contacted' is needed after the subject 'applicants'."
+    "category": "vocabulary",
+    "explanation": "'Restricted to' means limited to. 'Resisted' and 'resolved' do not fit with 'to', and 'reserved' would imply booking."
   },
   {
-    "id": "p5-095",
-    "sentence": "We ___ the contract yet, so please do not announce the deal.",
+    "id": "p5-711",
+    "sentence": "The new tax law will have a ___ effect on small family-run businesses.",
     "choices": [
-      "did not sign",
-      "have not signed",
-      "do not sign",
-      "were not signing"
+      "disagreeable",
+      "dispensable",
+      "disposable",
+      "disproportionate"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Disproportionate' means out of proportion. 'Disposable' means designed to be thrown away, 'dispensable' means unnecessary, and 'disagreeable' means unpleasant."
+  },
+  {
+    "id": "p5-712",
+    "sentence": "The ceremony will ___ the achievements of employees who have served the company for twenty years.",
+    "choices": [
+      "compensate",
+      "commemorate",
+      "contribute",
+      "communicate"
     ],
     "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Yet' goes with the present perfect."
+    "category": "vocabulary",
+    "explanation": "'Commemorate' means honour the memory or achievement of. 'Communicate' means convey information, 'compensate' means repay, and 'contribute' needs 'to'."
   },
   {
-    "id": "p5-096",
-    "sentence": "Ms. Park ___ the keynote speech at last year's convention.",
+    "id": "p5-713",
+    "sentence": "The board is reluctant to ___ the company's reserves on such a risky venture.",
     "choices": [
-      "delivers",
-      "will deliver",
-      "has delivered",
-      "delivered"
+      "commence",
+      "commend",
+      "commute",
+      "commit"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Last year's convention' is a finished past time: simple past."
+    "category": "vocabulary",
+    "explanation": "'Commit reserves to' means dedicate funds. 'Commute' means travel regularly, 'commend' means praise, and 'commence' means begin."
   },
   {
-    "id": "p5-097",
-    "sentence": "The printer ___ whenever the paper runs out.",
+    "id": "p5-714",
+    "sentence": "Several shareholders have voiced ___ about the proposed changes to executive pay.",
     "choices": [
-      "stopping",
-      "to stop",
-      "stop",
-      "stops"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "Singular subject with a general truth: simple present with -s."
-  },
-  {
-    "id": "p5-098",
-    "sentence": "I would appreciate it if you ___ me the revised schedule today.",
-    "choices": [
-      "sending",
-      "could send",
-      "have send",
-      "to send"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "A polite request after 'would appreciate it if' uses 'could'."
-  },
-  {
-    "id": "p5-099",
-    "sentence": "The factory ___ since the equipment failure on Monday.",
-    "choices": [
-      "was closing",
-      "is closing",
-      "has been closed",
-      "closes"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Since Monday' needs the present perfect passive."
-  },
-  {
-    "id": "p5-100",
-    "sentence": "Customers ___ to fill out the satisfaction survey before leaving.",
-    "choices": [
-      "have ask",
-      "asking",
-      "ask",
-      "are asked"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "Customers receive the action, so the passive is needed."
-  },
-  {
-    "id": "p5-101",
-    "sentence": "Having reviewed the budget, the director ___ to approve the project.",
-    "choices": [
-      "is decide",
-      "to decide",
-      "decided",
-      "deciding"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "The main verb of the sentence needs a finite past form."
-  },
-  {
-    "id": "p5-102",
-    "sentence": "Ms. Vega ___ in sales for five years before she became a manager.",
-    "choices": [
-      "is working",
-      "has worked",
-      "had worked",
-      "works"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "Past perfect shows an action completed before another past action."
-  },
-  {
-    "id": "p5-103",
-    "sentence": "We ___ you to attend the training session on Thursday.",
-    "choices": [
-      "to encourage",
-      "encourage",
-      "encouraging",
-      "are encourage"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "After the subject 'We', a finite verb is needed."
-  },
-  {
-    "id": "p5-104",
-    "sentence": "The technician told us that the problem ___ easy to fix.",
-    "choices": [
-      "is being",
-      "will be",
-      "has been",
-      "was"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "In reported speech after 'told', the verb moves back to the past."
-  },
-  {
-    "id": "p5-105",
-    "sentence": "Anyone who ___ to join the club should contact Ms. Abbott.",
-    "choices": [
-      "wishes",
-      "to wish",
-      "wishing",
-      "wish"
+      "misgivings",
+      "misconduct",
+      "mistakes",
+      "mishaps"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Anyone' is singular, so the verb takes -es."
+    "category": "vocabulary",
+    "explanation": "'Voice misgivings about' means express doubts. 'Mishaps' are accidents, 'misconduct' is improper behaviour, and 'mistakes' are errors."
   },
   {
-    "id": "p5-106",
-    "sentence": "The cost of the repairs ___ higher than we expected.",
+    "id": "p5-715",
+    "sentence": "Passengers are advised to arrive early, ___ security checks may cause delays.",
     "choices": [
-      "have been",
-      "were",
-      "was",
-      "are being"
+      "whereas",
+      "despite",
+      "unless",
+      "since"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "category": "grammar",
-    "explanation": "The singular subject 'cost' takes a singular verb."
+    "explanation": "'Since' introduces a reason with a clause. 'Despite' needs a noun, 'whereas' expresses contrast, and 'unless' expresses a negative condition."
   },
   {
-    "id": "p5-107",
-    "sentence": "Once the inspection ___, the plant will reopen.",
+    "id": "p5-716",
+    "sentence": "The accounting software automatically ___ any entries that do not match the bank statement.",
     "choices": [
-      "will complete",
-      "completes",
-      "is completed",
-      "has complete"
+      "flows",
+      "flags",
+      "fixes to",
+      "flaps"
     ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "After 'once' a present tense is used for the future, and the inspection receives the action."
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Flags' means marks for attention. 'Fixes to' is malformed, and 'flows' and 'flaps' do not take entries as objects."
   },
   {
-    "id": "p5-108",
-    "sentence": "The delegates, along with their interpreter, ___ arrived at the airport.",
+    "id": "p5-717",
+    "sentence": "Management has been ___ about the plan to cut the research budget in half.",
     "choices": [
-      "was having",
-      "have",
-      "is",
-      "has"
+      "adjacent",
+      "abundant",
+      "arbitrary",
+      "adamant"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Adamant about' means firmly insistent. 'Abundant' means plentiful, 'adjacent' means next to, and 'arbitrary' means random."
+  },
+  {
+    "id": "p5-718",
+    "sentence": "The two firms have agreed to ___ their resources to develop a cleaner engine.",
+    "choices": [
+      "pave",
+      "pour",
+      "plunge",
+      "pool"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Pool resources' means combine them. 'Pour', 'pave' and 'plunge' do not collocate with 'resources'."
+  },
+  {
+    "id": "p5-719",
+    "sentence": "The report was ___ criticised for failing to consider the long-term costs of the project.",
+    "choices": [
+      "wide",
+      "widely",
+      "width",
+      "widen"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "The plural subject 'delegates' takes 'have' ('along with' does not change the subject)."
+    "explanation": "An adverb modifies the participle 'criticised'. The others are an adjective, a verb and a noun."
   },
   {
-    "id": "p5-109",
-    "sentence": "Mr. Singh ___ his own coffee every morning at 8 A.M.",
+    "id": "p5-720",
+    "sentence": "The company's performance was ___ by a prolonged strike at its main assembly plant.",
     "choices": [
-      "making",
-      "has make",
-      "make",
-      "makes"
+      "hammered out",
+      "hatched",
+      "harnessed",
+      "hampered"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "Habitual action with a singular subject: simple present with -s."
-  },
-  {
-    "id": "p5-110",
-    "sentence": "The documents ___ to the client by courier yesterday.",
-    "choices": [
-      "have sent",
-      "were sent",
-      "sent",
-      "are sending"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "The documents receive the action and the time is finished: simple past passive."
-  },
-  {
-    "id": "p5-111",
-    "sentence": "While the team ___ the problem, the customers waited patiently.",
-    "choices": [
-      "was solving",
-      "will solve",
-      "has solved",
-      "solves"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "Past continuous matches the past 'waited' and an ongoing action."
-  },
-  {
-    "id": "p5-112",
-    "sentence": "Ms. Moreau ___ the company since it was founded in 2008.",
-    "choices": [
-      "has led",
-      "leads",
-      "led",
-      "is leading"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Since' with a past starting point calls for the present perfect."
-  },
-  {
-    "id": "p5-113",
-    "sentence": "The shop ___ more customers if it had extended its opening hours.",
-    "choices": [
-      "would attract",
-      "attracts",
-      "would have attracted",
-      "will attract"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "Third conditional: 'had extended' needs 'would have' + participle."
-  },
-  {
-    "id": "p5-114",
-    "sentence": "The lecture was so long that several guests ___ asleep.",
-    "choices": [
-      "falling",
-      "have fallen",
-      "fall",
-      "fell"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "A completed past result after 'so ... that' takes the simple past."
-  },
-  {
-    "id": "p5-115",
-    "sentence": "It is essential that every employee ___ the safety manual.",
-    "choices": [
-      "reads",
-      "read",
-      "has read to",
-      "reading"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "After 'it is essential that', the subjunctive uses the base form."
-  },
-  {
-    "id": "p5-116",
-    "sentence": "Our supervisor suggested that the meeting ___ until Friday.",
-    "choices": [
-      "postpones",
-      "was postponing",
-      "is postponed",
-      "be postponed"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "After 'suggested that', the subjunctive uses 'be' + past participle."
-  },
-  {
-    "id": "p5-117",
-    "sentence": "The employees ___ for the delay in the payroll system by next week.",
-    "choices": [
-      "will compensate",
-      "compensates",
-      "will be compensated",
-      "are compensate"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "The employees receive the compensation: passive future."
-  },
-  {
-    "id": "p5-118",
-    "sentence": "Mr. Oda ___ to the airport right now to pick up the clients.",
-    "choices": [
-      "is driving",
-      "drives",
-      "has driven",
-      "drove"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Right now' calls for the present continuous."
-  },
-  {
-    "id": "p5-119",
-    "sentence": "Please remember ___ the lights before you leave the office.",
-    "choices": [
-      "turn off",
-      "turned off",
-      "to turn off",
-      "turning off"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Remember to' + base verb refers to something that must be done."
-  },
-  {
-    "id": "p5-120",
-    "sentence": "Ms. Lee regrets ___ you that the position has been filled.",
-    "choices": [
-      "informed",
-      "inform",
-      "to have inform",
-      "to inform"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Regret to inform' is a formal fixed expression for announcing bad news."
+    "category": "vocabulary",
+    "explanation": "'Hampered' means hindered. 'Hammered out' is for agreements, 'harnessed' means controlled for use, and 'hatched' means devised or emerged."
   }
 ]

@@ -1,535 +1,522 @@
 [
   {
-    "id": "p5-161",
-    "sentence": "The meeting was canceled ___ the director was ill.",
+    "id": "p5-761",
+    "sentence": "The office ___ the meeting took place has since been renovated.",
     "choices": [
-      "although",
-      "whether",
-      "because",
-      "unless"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Because' introduces a reason."
-  },
-  {
-    "id": "p5-162",
-    "sentence": "We will begin the presentation ___ everyone has arrived.",
-    "choices": [
-      "so that",
-      "as soon as",
-      "in case of",
-      "even though"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'As soon as' introduces the moment that triggers the action."
-  },
-  {
-    "id": "p5-163",
-    "sentence": "___ the project was difficult, the team finished it on time.",
-    "choices": [
-      "Whereas of",
-      "Although",
-      "Unless",
-      "Because"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Although' introduces a contrast between difficulty and success."
-  },
-  {
-    "id": "p5-164",
-    "sentence": "You will not receive a refund ___ you have the original receipt.",
-    "choices": [
-      "whereas",
-      "as if",
-      "unless",
-      "although"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Unless' means 'if not'."
-  },
-  {
-    "id": "p5-165",
-    "sentence": "Mr. Reyes was late for work ___ his train was delayed.",
-    "choices": [
-      "so",
-      "although",
-      "because",
-      "but"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "The second clause explains why he was late: 'because'."
-  },
-  {
-    "id": "p5-166",
-    "sentence": "The printer is out of paper, ___ please refill it.",
-    "choices": [
-      "because",
-      "whereas",
-      "so",
-      "although"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'So' introduces a consequence or request following a fact."
-  },
-  {
-    "id": "p5-167",
-    "sentence": "Ms. Adams wants to hire two assistants, ___ the budget allows only one.",
-    "choices": [
-      "but",
-      "because of",
-      "so",
-      "or"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'But' links two contrasting ideas."
-  },
-  {
-    "id": "p5-168",
-    "sentence": "You may pay by credit card ___ in cash.",
-    "choices": [
-      "but",
-      "and",
-      "so",
-      "or"
+      "whose",
+      "what",
+      "which",
+      "where"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Or' offers two alternatives."
+    "explanation": "'Where' refers to a place and replaces 'in which'. 'which' alone needs a preposition, 'what' is not a relative, and 'whose' is possessive."
   },
   {
-    "id": "p5-169",
-    "sentence": "Both the sales team ___ the design team will attend the meeting.",
+    "id": "p5-762",
+    "sentence": "We hired a consultant ___ expertise in supply chains is widely recognised.",
     "choices": [
-      "but",
-      "and",
-      "nor",
-      "or"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Both ... and' is a correlative pair."
-  },
-  {
-    "id": "p5-170",
-    "sentence": "Neither the printer ___ the scanner is working today.",
-    "choices": [
-      "and",
-      "nor",
-      "or",
-      "but"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Neither ... nor' is a correlative pair."
-  },
-  {
-    "id": "p5-171",
-    "sentence": "You can reach us either by phone ___ by e-mail.",
-    "choices": [
-      "but",
-      "nor",
-      "or",
-      "and"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Either ... or' is a correlative pair."
-  },
-  {
-    "id": "p5-172",
-    "sentence": "The new model is not only faster ___ also cheaper.",
-    "choices": [
-      "and",
-      "but",
-      "or",
-      "so"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Not only ... but also' is a correlative pair."
-  },
-  {
-    "id": "p5-173",
-    "sentence": "The manager ___ office is on the third floor will meet you now.",
-    "choices": [
-      "whom",
       "whose",
       "which",
-      "who"
+      "who",
+      "whom"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Whose' shows possession: 'the manager's office'."
+    "explanation": "'Whose' expresses possession and links to 'expertise'. The other pronouns cannot precede a possessed noun."
   },
   {
-    "id": "p5-174",
-    "sentence": "The employee ___ submitted the report is on vacation.",
+    "id": "p5-763",
+    "sentence": "The assistant ___ was hired last week has already learned the filing system.",
     "choices": [
       "whom",
-      "whose",
-      "who",
-      "what"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Who' is the subject of 'submitted' and refers to a person."
-  },
-  {
-    "id": "p5-175",
-    "sentence": "The software ___ we installed last week is already out of date.",
-    "choices": [
-      "that",
       "who",
       "what",
       "whose"
     ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'That' refers to a thing and acts as the object of 'installed'."
-  },
-  {
-    "id": "p5-176",
-    "sentence": "Ms. Chen, ___ I met at the conference, has joined our firm.",
-    "choices": [
-      "whom",
-      "which",
-      "whose",
-      "what"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Whom' is the object of 'met' and refers to a person."
-  },
-  {
-    "id": "p5-177",
-    "sentence": "The conference room, ___ was recently renovated, can hold fifty people.",
-    "choices": [
-      "whom",
-      "which",
-      "whose",
-      "who"
-    ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "A non-defining clause for a thing uses 'which'."
+    "explanation": "'Who' is the subject of 'was hired' and refers to a person. 'whose' is possessive, 'whom' is the object, and 'what' is not relative."
   },
   {
-    "id": "p5-178",
-    "sentence": "I wonder ___ the delivery will arrive before noon.",
+    "id": "p5-764",
+    "sentence": "He is the only employee ___ has received three consecutive performance awards.",
     "choices": [
-      "if",
-      "that",
-      "what",
-      "whose"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'If' introduces an indirect yes/no question after 'wonder'."
-  },
-  {
-    "id": "p5-179",
-    "sentence": "The director asked ___ the budget had been approved.",
-    "choices": [
-      "whether",
-      "which",
-      "that",
-      "what"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Whether' introduces an indirect yes/no question."
-  },
-  {
-    "id": "p5-180",
-    "sentence": "Please call me ___ you have any questions about the contract.",
-    "choices": [
-      "during",
-      "although",
-      "unless",
-      "if"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'If' introduces a condition."
-  },
-  {
-    "id": "p5-181",
-    "sentence": "We upgraded the servers ___ the system could handle more users.",
-    "choices": [
-      "because of",
-      "so that",
-      "in order",
-      "even"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'So that' introduces a purpose clause."
-  },
-  {
-    "id": "p5-182",
-    "sentence": "The firm hired more staff ___ to improve customer service.",
-    "choices": [
-      "so that",
-      "in order",
-      "because",
-      "although"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'In order to' + base verb expresses purpose."
-  },
-  {
-    "id": "p5-183",
-    "sentence": "___ you finish the report, please send it to Mr. Kato.",
-    "choices": [
-      "Among",
-      "Despite",
-      "After",
-      "During"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'After' introduces a clause of time."
-  },
-  {
-    "id": "p5-184",
-    "sentence": "Please stay seated ___ the plane has come to a complete stop.",
-    "choices": [
-      "until",
-      "whereas",
-      "unless",
-      "during"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Until' shows how long the action continues."
-  },
-  {
-    "id": "p5-185",
-    "sentence": "The company has grown quickly, ___ its competitors have struggled.",
-    "choices": [
-      "unless",
-      "whereas",
-      "because",
-      "so that"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Whereas' contrasts two situations."
-  },
-  {
-    "id": "p5-186",
-    "sentence": "___ you are traveling for business or pleasure, we offer the best rates.",
-    "choices": [
-      "Which",
-      "Because",
-      "Whether",
-      "Unless"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Whether ... or' presents two possibilities."
-  },
-  {
-    "id": "p5-187",
-    "sentence": "The store opens at nine; ___, customers often wait outside from eight thirty.",
-    "choices": [
-      "because",
-      "although",
-      "however",
-      "unless"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'However' is a conjunctive adverb used after a semicolon to show contrast."
-  },
-  {
-    "id": "p5-188",
-    "sentence": "The sales figures were low. ___, the company remained optimistic.",
-    "choices": [
-      "Therefore",
-      "Because",
-      "Nevertheless",
-      "In case"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Nevertheless' signals a contrast with the previous sentence."
-  },
-  {
-    "id": "p5-189",
-    "sentence": "The warehouse flooded. ___, all shipments were delayed.",
-    "choices": [
-      "Unless",
-      "As a result",
-      "Even if",
-      "In spite"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'As a result' signals a consequence."
-  },
-  {
-    "id": "p5-190",
-    "sentence": "Ms. Ford is an excellent speaker. ___, she was chosen to give the opening address.",
-    "choices": [
-      "Whether",
-      "Otherwise",
-      "Although",
-      "Therefore"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Therefore' signals a consequence of the previous sentence."
-  },
-  {
-    "id": "p5-191",
-    "sentence": "Please back up your files. ___, you may lose important data.",
-    "choices": [
-      "Besides of",
-      "Therefore",
-      "Otherwise",
-      "Moreover"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Otherwise' means 'if you do not'."
-  },
-  {
-    "id": "p5-192",
-    "sentence": "The software is easy to use. ___, it is very affordable.",
-    "choices": [
-      "Otherwise",
-      "Moreover",
-      "Whereas",
-      "Unless"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Moreover' adds a further point to the previous sentence."
-  },
-  {
-    "id": "p5-193",
-    "sentence": "___ the late hour, the staff continued working on the proposal.",
-    "choices": [
-      "In spite of",
-      "In case of",
-      "Even so of",
-      "As soon as"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'In spite of' is followed by a noun phrase and shows contrast."
-  },
-  {
-    "id": "p5-194",
-    "sentence": "Take an umbrella ___ it rains during the outdoor event.",
-    "choices": [
-      "in case of",
-      "despite",
-      "in case",
-      "unless"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'In case' + clause means as a precaution."
-  },
-  {
-    "id": "p5-195",
-    "sentence": "The seminar was both informative ___ entertaining.",
-    "choices": [
-      "and",
-      "yet",
-      "nor",
-      "or"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Both ... and' links two adjectives."
-  },
-  {
-    "id": "p5-196",
-    "sentence": "It is important to arrive early ___ you can find a good seat.",
-    "choices": [
-      "although",
-      "whereas",
-      "despite",
-      "so that"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'So that' introduces the purpose of arriving early."
-  },
-  {
-    "id": "p5-197",
-    "sentence": "___ the proposal was rejected, the team will submit a revised version.",
-    "choices": [
-      "Despite",
-      "Since",
-      "During",
-      "Besides"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Since' here means 'because'; 'despite' and 'during' need noun phrases."
-  },
-  {
-    "id": "p5-198",
-    "sentence": "The employee handbook explains ___ benefits you are entitled to.",
-    "choices": [
-      "what",
-      "that",
       "who",
-      "whose"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'What benefits' is an indirect question word modifying the noun 'benefits'."
-  },
-  {
-    "id": "p5-199",
-    "sentence": "The customer wanted to know ___ the package would arrive.",
-    "choices": [
+      "whose",
       "whom",
-      "what",
-      "whose",
-      "when"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'When' introduces an indirect question about time."
-  },
-  {
-    "id": "p5-200",
-    "sentence": "Mr. Haas is the person ___ you should speak about the invoice.",
-    "choices": [
-      "what",
-      "to whom",
-      "whose",
       "which"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'To whom' is a formal relative construction with a preposition."
+    "explanation": "'Who' is the subject of 'has received' and refers to a person. 'whom' is the object, 'whose' is possessive, and 'which' refers to things."
   },
   {
-    "id": "p5-201",
-    "sentence": "The firm will not hire anyone ___ has no relevant experience.",
+    "id": "p5-765",
+    "sentence": "The sales team exceeded ___ target for the third consecutive quarter.",
     "choices": [
-      "who",
-      "which",
-      "whom",
-      "whose"
+      "itself",
+      "its",
+      "it's",
+      "their own"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Its' is the possessive of a singular collective noun. 'it's' means 'it is', 'their own' conflicts with the singular, and 'itself' is reflexive."
+  },
+  {
+    "id": "p5-766",
+    "sentence": "The directors reviewed the report ___ before the meeting began.",
+    "choices": [
+      "their",
+      "them",
+      "each other",
+      "themselves"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A reflexive pronoun emphasises that the directors did it personally. 'them' and 'their' do not fit, and 'each other' implies reciprocity."
+  },
+  {
+    "id": "p5-767",
+    "sentence": "The two departments rely on ___ for accurate sales forecasts.",
+    "choices": [
+      "one another's",
+      "their own",
+      "themselves",
+      "each other"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Each other' is the object of 'rely on' for two parties. 'one another's' is possessive, and the others do not give a reciprocal meaning."
+  },
+  {
+    "id": "p5-768",
+    "sentence": "___ of the three applicants had the necessary qualifications for the senior post.",
+    "choices": [
+      "None",
+      "Any",
+      "Neither",
+      "Nobody"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Who' is the subject of 'has' and refers to a person."
+    "explanation": "'None' is used for three or more. 'Neither' is for two, 'Nobody' is followed by no 'of', and 'Any' needs a negative verb."
+  },
+  {
+    "id": "p5-769",
+    "sentence": "There were ___ spare seats, so the organisers cancelled the extra bus.",
+    "choices": [
+      "a few",
+      "a little",
+      "little",
+      "few"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Few' means almost none and suits countable nouns. 'A few' means some, and 'little' and 'a little' are for uncountable nouns."
+  },
+  {
+    "id": "p5-770",
+    "sentence": "The company has ___ time to complete the audit before the filing deadline.",
+    "choices": [
+      "many",
+      "little",
+      "few",
+      "a few"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Little' means almost none and is used with uncountable 'time'. 'few', 'a few' and 'many' are for countable nouns."
+  },
+  {
+    "id": "p5-771",
+    "sentence": "Neither the invoice nor the receipts ___ attached to the claim form.",
+    "choices": [
+      "was",
+      "has",
+      "is",
+      "were"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "With 'neither... nor', the verb agrees with the nearer subject 'receipts', which is plural. 'was', 'is' and 'has' are singular."
+  },
+  {
+    "id": "p5-772",
+    "sentence": "The committee ___ divided on whether to approve the plan, and the vote was postponed.",
+    "choices": [
+      "are",
+      "have been",
+      "was",
+      "were being"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "As a single body in the past, the committee takes a singular verb. The other forms do not match the past singular."
+  },
+  {
+    "id": "p5-773",
+    "sentence": "Her presentation was ___ more convincing than the one delivered by her predecessor.",
+    "choices": [
+      "much of",
+      "too",
+      "very",
+      "far"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Far' intensifies a comparative ('far more convincing'). 'very' cannot modify a comparative, and 'much of' and 'too' do not fit."
+  },
+  {
+    "id": "p5-774",
+    "sentence": "This printer is ___ of the two models tested by our technical department.",
+    "choices": [
+      "fastest",
+      "more fast",
+      "the faster",
+      "the most fast"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "When comparing two items, 'the + comparative' is used. 'fastest' is for three or more, and 'more fast' and 'the most fast' are incorrect."
+  },
+  {
+    "id": "p5-775",
+    "sentence": "The new software is not as complex ___ the previous version.",
+    "choices": [
+      "that",
+      "than",
+      "as",
+      "like"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Not as... as' is the comparative of equality. 'than' goes with comparatives, 'like' is a preposition, and 'that' is not used."
+  },
+  {
+    "id": "p5-776",
+    "sentence": "___ his lack of experience, Mr. Oyelaran was appointed regional manager.",
+    "choices": [
+      "Thanks to",
+      "On behalf of",
+      "In spite of",
+      "Because of"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'In spite of' introduces a contrast. 'Because of' and 'Thanks to' give causes, and 'On behalf of' means representing."
+  },
+  {
+    "id": "p5-777",
+    "sentence": "The conference was a success ___ the poor weather on the opening day.",
+    "choices": [
+      "in case",
+      "owing to",
+      "despite",
+      "whereas"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Despite' is a preposition of contrast. 'Owing to' gives a cause, 'whereas' needs a clause, and 'in case' needs a clause."
+  },
+  {
+    "id": "p5-778",
+    "sentence": "The flights were cancelled ___ the heavy snowfall across the region.",
+    "choices": [
+      "owing to",
+      "regardless",
+      "as if",
+      "in spite of"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Owing to' gives a cause and takes a noun phrase. 'In spite of' gives contrast, and the others do not fit."
+  },
+  {
+    "id": "p5-779",
+    "sentence": "___ the project was behind schedule, the team worked through the weekend.",
+    "choices": [
+      "As",
+      "During",
+      "Without",
+      "Despite"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'As' can introduce a reason clause. The other options are prepositions that need nouns."
+  },
+  {
+    "id": "p5-780",
+    "sentence": "___ you arrive before nine, the reception desk will be closed.",
+    "choices": [
+      "Would",
+      "Should",
+      "Might",
+      "Could"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Should you arrive' is the inverted conditional meaning 'if you arrive'. 'Would', 'Could' and 'Might' are not used in this inversion."
+  },
+  {
+    "id": "p5-781",
+    "sentence": "___ the weather improved, the construction crew would have finished on time.",
+    "choices": [
+      "Has",
+      "Had",
+      "Did",
+      "Were"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Had + subject + past participle' is the inverted third conditional. 'Has', 'Were' and 'Did' do not form it."
+  },
+  {
+    "id": "p5-782",
+    "sentence": "The CEO, ___ speech lasted over an hour, left without answering questions.",
+    "choices": [
+      "whose",
+      "that",
+      "of which",
+      "whom"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whose' links a person to the possessed noun 'speech'. 'whom' and 'that' cannot be possessive, and 'of which' refers to things."
+  },
+  {
+    "id": "p5-783",
+    "sentence": "___ the budget is approved, the project will not be able to start.",
+    "choices": [
+      "During",
+      "Since",
+      "Despite",
+      "Until"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Until' fits a condition that must be reached first. 'Since', 'Despite' and 'During' do not give this meaning."
+  },
+  {
+    "id": "p5-784",
+    "sentence": "The investors demanded that the CEO ___ down immediately.",
+    "choices": [
+      "steps",
+      "stepping",
+      "step",
+      "stepped"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Demanded that' requires the subjunctive base form. The others are indicative or non-finite."
+  },
+  {
+    "id": "p5-785",
+    "sentence": "Customers can ___ their orders online and track them in real time.",
+    "choices": [
+      "pitch",
+      "plant",
+      "place",
+      "pose"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Place an order' is the standard collocation. 'Pose', 'plant' and 'pitch' do not collocate with 'orders'."
+  },
+  {
+    "id": "p5-786",
+    "sentence": "The company ___ a loss of four million dollars in the first quarter.",
+    "choices": [
+      "induced",
+      "inflicted",
+      "incurring",
+      "incurred"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Incur a loss' means suffer it. 'Inflicted' needs a victim, 'incurring' is non-finite, and 'induced' means caused to happen."
+  },
+  {
+    "id": "p5-787",
+    "sentence": "The seminar is ___ to graduates with at least two years of professional experience.",
+    "choices": [
+      "opening",
+      "open",
+      "opened",
+      "openly"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Open to' means available to. The others are a participle, a gerund and an adverb."
+  },
+  {
+    "id": "p5-788",
+    "sentence": "The press office ___ a statement regarding the recall at noon yesterday.",
+    "choices": [
+      "released",
+      "relieved",
+      "relayed to",
+      "relied"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Released a statement' means published it. 'Relieved' means eased, 'relayed to' is malformed, and 'relied' needs 'on'."
+  },
+  {
+    "id": "p5-789",
+    "sentence": "Her ___ for detail made her an excellent proofreader.",
+    "choices": [
+      "sight",
+      "look",
+      "view",
+      "eye"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'An eye for detail' is the fixed phrase. 'Sight', 'view' and 'look' do not collocate with 'detail' in this sense."
+  },
+  {
+    "id": "p5-790",
+    "sentence": "The firm has built a ___ reputation for punctual deliveries over the last decade.",
+    "choices": [
+      "solitary",
+      "solid",
+      "soluble",
+      "solvent"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Solid reputation' means strong. 'Solvent' means able to pay debts, 'solitary' means alone, and 'soluble' means able to dissolve."
+  },
+  {
+    "id": "p5-791",
+    "sentence": "Our offices are ___ located, within five minutes of the central station.",
+    "choices": [
+      "conveniently",
+      "convening",
+      "convenience",
+      "convenient"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies the participle 'located'. The others are an adjective, a noun and a gerund."
+  },
+  {
+    "id": "p5-792",
+    "sentence": "The tenant is obliged to ___ the landlord of any damage immediately.",
+    "choices": [
+      "announce",
+      "notice",
+      "notify",
+      "note"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Notify someone of something' is the structure. 'Notice' and 'note' do not take a person plus 'of', and 'announce' is not used with a person as object."
+  },
+  {
+    "id": "p5-793",
+    "sentence": "Access to the server room is ___ to authorised personnel.",
+    "choices": [
+      "limited",
+      "lacking",
+      "laden",
+      "lapsed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Limited to' means restricted to. 'Lapsed' means expired, 'lacking' means missing, and 'laden' means loaded."
+  },
+  {
+    "id": "p5-794",
+    "sentence": "The arbitration panel ruled that the supplier had ___ the terms of the exclusivity clause.",
+    "choices": [
+      "branded",
+      "bridged",
+      "braced",
+      "breached"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Breached' means broke a contractual term. 'Bridged' means spanned a gap, 'braced' means supported, and 'branded' means marked with a brand."
+  },
+  {
+    "id": "p5-795",
+    "sentence": "Shareholders approved a ___ dividend after the unexpectedly strong half-year results.",
+    "choices": [
+      "spacious",
+      "specious",
+      "specific",
+      "special"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A 'special dividend' is a one-off payment. 'Spacious' means roomy, 'specious' means misleadingly plausible, and 'specific' means precise."
+  },
+  {
+    "id": "p5-796",
+    "sentence": "The bank will ___ the loan only if the applicant provides adequate collateral.",
+    "choices": [
+      "expel",
+      "extend",
+      "expose",
+      "expand"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Extend a loan' means grant credit. 'Expand' means enlarge, 'expose' means reveal, and 'expel' means force out."
+  },
+  {
+    "id": "p5-797",
+    "sentence": "Interest on the overdue balance will ___ at a rate of two percent per month.",
+    "choices": [
+      "accede",
+      "accrue",
+      "accuse",
+      "accost"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Interest 'accrues' when it accumulates over time. 'Accede' means agree, 'accost' means approach aggressively, and 'accuse' means blame."
+  },
+  {
+    "id": "p5-798",
+    "sentence": "The retailer was fined for failing to ___ its customers of the product's known defects.",
+    "choices": [
+      "apprehend",
+      "apprise",
+      "appraise",
+      "approximate"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Apprise someone of' means inform them. 'Appraise' means evaluate, 'apprehend' means arrest or grasp, and 'approximate' means estimate."
+  },
+  {
+    "id": "p5-799",
+    "sentence": "The new accounting standards require companies to ___ all lease obligations on their balance sheets.",
+    "choices": [
+      "reclaim",
+      "reproach",
+      "resemble",
+      "recognise"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Recognise' in accounting means record formally. 'Resemble' means look like, 'reproach' means blame, and 'reclaim' means recover."
+  },
+  {
+    "id": "p5-800",
+    "sentence": "The treasurer's report showed that expenditure had ___ revenue for the second year running.",
+    "choices": [
+      "outlasted",
+      "outlined",
+      "outranked",
+      "outpaced"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Outpaced' means grew faster than. 'Outlined' means summarised, 'outlasted' means survived longer, and 'outranked' means held a higher rank."
   }
 ]

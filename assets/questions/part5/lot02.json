@@ -1,535 +1,522 @@
 [
   {
-    "id": "p5-040",
-    "sentence": "The conference will be held ___ the Grand Hotel in downtown Chicago.",
+    "id": "p5-641",
+    "sentence": "The company would have won the contract if it ___ its bid a week earlier.",
     "choices": [
-      "by",
-      "for",
-      "at",
-      "on"
+      "submitted",
+      "would submit",
+      "has submitted",
+      "had submitted"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'At' is used with a specific venue."
+    "explanation": "A third conditional requires 'if + past perfect'. The simple past, 'would submit' and the present perfect do not match 'would have won'."
   },
   {
-    "id": "p5-041",
-    "sentence": "Please submit your travel receipts ___ Friday at the latest.",
+    "id": "p5-642",
+    "sentence": "If the shipment ___ delayed again, the client will cancel the entire order.",
     "choices": [
-      "among",
-      "by",
-      "since",
-      "until"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'By' marks a deadline: no later than Friday."
-  },
-  {
-    "id": "p5-042",
-    "sentence": "The warehouse will be closed ___ the holiday weekend.",
-    "choices": [
-      "between",
-      "during",
-      "while",
-      "since"
+      "will be",
+      "is",
+      "was being",
+      "would be"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'During' is a preposition followed by a noun phrase; 'while' needs a clause."
+    "explanation": "A first conditional uses the present simple in the 'if' clause. 'will be' and 'would be' cannot follow 'if' here, and 'was being' implies a past event."
   },
   {
-    "id": "p5-043",
-    "sentence": "Flights to Osaka depart ___ the morning and the evening.",
+    "id": "p5-643",
+    "sentence": "The supervisor would rather the interns ___ their reports in person than by email.",
     "choices": [
-      "at",
-      "to",
-      "in",
-      "on"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "Times of day like 'the morning' and 'the evening' take 'in'."
-  },
-  {
-    "id": "p5-044",
-    "sentence": "The seminar runs ___ 9 A.M. and 4 P.M. every Thursday.",
-    "choices": [
-      "among",
-      "within",
-      "between",
-      "from"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Between ... and' links two points in time."
-  },
-  {
-    "id": "p5-045",
-    "sentence": "Ms. Ito has worked at the bank ___ ten years.",
-    "choices": [
-      "for",
-      "from",
-      "since",
-      "during"
+      "submitted",
+      "submit",
+      "submitting",
+      "will submit"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'For' is used with a length of time."
+    "explanation": "'Would rather + subject' takes the past simple to express a preference about others. The base form, 'will submit' and the -ing form are not used."
   },
   {
-    "id": "p5-046",
-    "sentence": "Mr. Baker has lived in Seoul ___ 2015.",
+    "id": "p5-644",
+    "sentence": "Little ___ the directors realise that the rival bid had already been accepted.",
     "choices": [
-      "from",
-      "during",
-      "for",
-      "since"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Since' is used with a starting point in time and the present perfect."
-  },
-  {
-    "id": "p5-047",
-    "sentence": "The shipment should arrive ___ three business days.",
-    "choices": [
-      "between",
-      "among",
-      "along",
-      "within"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Within' means before the end of a period."
-  },
-  {
-    "id": "p5-048",
-    "sentence": "Ms. Berg was stuck ___ traffic for two hours this morning.",
-    "choices": [
-      "at",
-      "between",
-      "in",
-      "by"
+      "do",
+      "were",
+      "did",
+      "have"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Stuck in traffic' is the fixed expression."
+    "explanation": "'Little' at the beginning triggers inversion with 'did' for the past. 'do' is present, and 'were' and 'have' do not fit 'realise'."
   },
   {
-    "id": "p5-049",
-    "sentence": "Our branch office is located ___ Main Street.",
+    "id": "p5-645",
+    "sentence": "The branch manager, together with her two assistants, ___ attending the regional summit.",
+    "choices": [
+      "are",
+      "have been",
+      "is",
+      "were being"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Together with' does not make the subject plural, so the verb agrees with 'The branch manager' (singular). The other forms are plural or do not fit."
+  },
+  {
+    "id": "p5-646",
+    "sentence": "The unusually high turnout was ___ attributed to the free parking offered during the event.",
+    "choices": [
+      "largeness",
+      "large",
+      "largely",
+      "largest"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adverb is needed to modify 'attributed'; 'largely' means 'mainly'. 'largest' is a superlative adjective, 'large' an adjective, 'largeness' a noun."
+  },
+  {
+    "id": "p5-647",
+    "sentence": "The proposal is ___ different from the one the board rejected last spring.",
+    "choices": [
+      "significant",
+      "significance",
+      "signify",
+      "significantly"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adverb modifies the adjective 'different'. The other forms are an adjective, a noun and a verb."
+  },
+  {
+    "id": "p5-648",
+    "sentence": "The company's ___ to environmental standards has earned it several industry awards.",
+    "choices": [
+      "adherence",
+      "adhering",
+      "adhesive",
+      "adherent"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A noun is needed after 'The company's', and 'adherence to' is a standard collocation. 'adhering' is a gerund, 'adhesive' and 'adherent' are different word types."
+  },
+  {
+    "id": "p5-649",
+    "sentence": "Staff are asked to submit ___ requests for leave at least ten days in advance.",
+    "choices": [
+      "writes",
+      "writing",
+      "written",
+      "wrote"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past participle works as an adjective before 'requests' ('written requests'). 'writing' would change the meaning, and 'wrote' and 'writes' are verbs."
+  },
+  {
+    "id": "p5-650",
+    "sentence": "The advisory board expressed strong ___ about the sudden change in the project's scope.",
+    "choices": [
+      "reservoirs",
+      "reserves",
+      "reservations",
+      "reserved"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Express reservations about' means 'express doubts'. 'reserves' and 'reservoirs' have unrelated meanings, and 'reserved' is an adjective."
+  },
+  {
+    "id": "p5-651",
+    "sentence": "Any ___ in the delivery date must be reported to the logistics coordinator immediately.",
+    "choices": [
+      "deviating",
+      "deviation",
+      "deviate",
+      "deviated"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A noun is needed after 'Any' and before 'in the delivery date'. The other forms are verbs or participles."
+  },
+  {
+    "id": "p5-652",
+    "sentence": "Several analysts have questioned the ___ of the company's latest earnings forecast.",
+    "choices": [
+      "reliably",
+      "reliability",
+      "reliable",
+      "relying"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A noun is needed after 'the' and before 'of'. 'reliable' is an adjective, 'relying' a participle, 'reliably' an adverb."
+  },
+  {
+    "id": "p5-653",
+    "sentence": "The new regulations are designed to make the procurement process more ___ to outside scrutiny.",
+    "choices": [
+      "transparency",
+      "transparent",
+      "transpire",
+      "transparently"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'make' and 'more', an adjective is needed ('make it more transparent'). The adverb, the noun and the verb do not fit."
+  },
+  {
+    "id": "p5-654",
+    "sentence": "Several applicants were ___ qualified for the senior analyst position, so the panel extended the search.",
+    "choices": [
+      "insufficiently",
+      "insufficiency",
+      "insufficiencies",
+      "insufficient"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies the participle 'qualified'. 'insufficient' is an adjective, and the others are nouns."
+  },
+  {
+    "id": "p5-655",
+    "sentence": "The legal team has made a ___ effort to resolve the dispute before it reaches court.",
+    "choices": [
+      "concern",
+      "concerted",
+      "concerned",
+      "concerting"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'A concerted effort' is a collocation meaning a coordinated effort. 'concerning' and 'concerned' are different adjectives, and 'concern' is a noun."
+  },
+  {
+    "id": "p5-656",
+    "sentence": "The warehouse manager is ___ for coordinating inbound shipments and managing the staff rota.",
+    "choices": [
+      "accountable",
+      "accountably",
+      "accounting",
+      "accounted"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Accountable for' is a fixed adjective + preposition. The other forms are participles or an adverb."
+  },
+  {
+    "id": "p5-657",
+    "sentence": "Applicants must demonstrate proficiency ___ at least two programming languages.",
     "choices": [
       "with",
-      "of",
-      "on",
-      "to"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "Street names take 'on' in American usage."
-  },
-  {
-    "id": "p5-050",
-    "sentence": "Employees may park ___ the visitor lot until noon.",
-    "choices": [
       "in",
-      "among",
-      "toward",
-      "between"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'In' is used for an enclosed or bounded area such as a parking lot."
-  },
-  {
-    "id": "p5-051",
-    "sentence": "The sales team is meeting ___ Monday to discuss the new targets.",
-    "choices": [
-      "at",
-      "by",
-      "in",
-      "on"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "Days of the week take 'on'."
-  },
-  {
-    "id": "p5-052",
-    "sentence": "Registration for the course begins ___ April 1.",
-    "choices": [
-      "at",
-      "by",
-      "in",
-      "on"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "Specific dates take 'on'."
-  },
-  {
-    "id": "p5-053",
-    "sentence": "The report is due ___ the end of the week.",
-    "choices": [
-      "at",
-      "in",
-      "on",
-      "by"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'By the end of' expresses a deadline."
-  },
-  {
-    "id": "p5-054",
-    "sentence": "The company plans to open a new store ___ the next two years.",
-    "choices": [
-      "among",
-      "within",
-      "against",
-      "beside"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Within the next two years' means before two years have passed."
-  },
-  {
-    "id": "p5-055",
-    "sentence": "We will deliver the furniture ___ your address free of charge.",
-    "choices": [
-      "at",
-      "with",
-      "to",
-      "on"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Deliver to' indicates the destination."
-  },
-  {
-    "id": "p5-056",
-    "sentence": "Passengers must show their passports ___ boarding the plane.",
-    "choices": [
-      "before",
-      "between",
-      "during",
-      "among"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Before' fits a sequence of events: showing passports comes first."
-  },
-  {
-    "id": "p5-057",
-    "sentence": "The meeting was postponed ___ the manager's illness.",
-    "choices": [
-      "because of",
-      "despite of",
-      "although",
-      "because"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Because of' is followed by a noun phrase; 'because' needs a clause."
-  },
-  {
-    "id": "p5-058",
-    "sentence": "___ the heavy rain, the outdoor event went ahead as planned.",
-    "choices": [
-      "Although of",
-      "Despite",
-      "Because",
-      "However"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Despite' is followed by a noun phrase and shows contrast."
-  },
-  {
-    "id": "p5-059",
-    "sentence": "The new office is within walking distance ___ the train station.",
-    "choices": [
-      "on",
-      "of",
-      "at",
-      "by"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Within walking distance of' is the standard expression."
-  },
-  {
-    "id": "p5-060",
-    "sentence": "Mr. Wu is responsible ___ training all new sales representatives.",
-    "choices": [
-      "at",
-      "for",
-      "of",
-      "with"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Responsible for' is a fixed collocation."
-  },
-  {
-    "id": "p5-061",
-    "sentence": "The company is known ___ its excellent customer service.",
-    "choices": [
-      "at",
-      "for",
-      "on",
-      "with"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Known for' means famous because of."
-  },
-  {
-    "id": "p5-062",
-    "sentence": "Ms. Silva was appointed ___ chief financial officer last year.",
-    "choices": [
-      "by",
-      "as",
-      "to be as",
-      "like"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Appointed as' introduces a role."
-  },
-  {
-    "id": "p5-063",
-    "sentence": "All visitors are required to comply ___ the safety regulations.",
-    "choices": [
-      "by",
-      "for",
-      "to",
-      "with"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Comply with' is a fixed collocation."
-  },
-  {
-    "id": "p5-064",
-    "sentence": "Several employees attended the workshop ___ their own initiative.",
-    "choices": [
-      "for",
-      "at",
-      "by",
-      "on"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'On one's own initiative' is a fixed expression."
-  },
-  {
-    "id": "p5-065",
-    "sentence": "The tickets can be purchased ___ our Web site or at the box office.",
-    "choices": [
-      "by",
-      "within",
-      "on",
-      "in"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'On a Web site' is the standard preposition."
-  },
-  {
-    "id": "p5-066",
-    "sentence": "Our new product line differs ___ our competitors' offerings in several ways.",
-    "choices": [
-      "with",
-      "from",
-      "by",
-      "to"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Differ from' is the standard collocation."
-  },
-  {
-    "id": "p5-067",
-    "sentence": "The bridge was closed ___ repairs for most of the summer.",
-    "choices": [
-      "at",
-      "against",
-      "for",
-      "by"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Closed for repairs' indicates the reason."
-  },
-  {
-    "id": "p5-068",
-    "sentence": "Customers can pay ___ credit card or by bank transfer.",
-    "choices": [
-      "by",
-      "on",
-      "in",
-      "at"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Pay by credit card' is the standard expression."
-  },
-  {
-    "id": "p5-069",
-    "sentence": "The hotel is situated ___ a river and a large park.",
-    "choices": [
-      "across of",
-      "between",
-      "during",
-      "among"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Between' is used for two distinct things."
-  },
-  {
-    "id": "p5-070",
-    "sentence": "Tickets are available ___ the information desk.",
-    "choices": [
-      "in",
-      "at",
-      "to",
-      "until"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'At the desk' indicates a point of service."
-  },
-  {
-    "id": "p5-071",
-    "sentence": "The company's profits rose ___ 12 percent last quarter.",
-    "choices": [
-      "with",
-      "by",
-      "from",
+      "at to",
       "of"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Rose by 12 percent' shows the amount of change."
+    "explanation": "'Proficiency in' is the standard preposition. 'with' and 'of' are not used after 'proficiency', and 'at to' is malformed."
   },
   {
-    "id": "p5-072",
-    "sentence": "Sales increased from 2 million dollars ___ 3 million dollars this year.",
+    "id": "p5-658",
+    "sentence": "Ms. Okafor was promoted in ___ of her outstanding contribution to the Asian expansion.",
     "choices": [
-      "for",
-      "to",
-      "by",
-      "at"
+      "recognising",
+      "recognition",
+      "recognised",
+      "recognise"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'From ... to' shows the start and end of a change."
+    "explanation": "'In recognition of' is a fixed prepositional phrase that needs a noun. The other forms are verbs or participles."
   },
   {
-    "id": "p5-073",
-    "sentence": "The new policy will take effect ___ January 1.",
+    "id": "p5-659",
+    "sentence": "The employees' complaints were addressed ___ the personnel committee at its monthly meeting.",
     "choices": [
-      "for",
-      "in",
+      "with",
+      "through to",
       "at",
-      "on"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "A specific date takes 'on'."
-  },
-  {
-    "id": "p5-074",
-    "sentence": "Ms. Ricci is in charge ___ the marketing campaign.",
-    "choices": [
-      "for",
-      "to",
-      "of",
-      "at"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'In charge of' is a fixed expression."
-  },
-  {
-    "id": "p5-075",
-    "sentence": "The product is available ___ three colors.",
-    "choices": [
-      "at",
-      "to",
-      "in",
       "by"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Available in' is used for colors, sizes and versions."
+    "explanation": "The agent of a passive verb is introduced by 'by'. 'with' and 'at' do not mark the agent, and 'through to' is malformed."
   },
   {
-    "id": "p5-076",
-    "sentence": "Free shipping is offered ___ orders over fifty dollars.",
+    "id": "p5-660",
+    "sentence": "Revenues from the overseas division have been ___ to the parent company since the acquisition.",
     "choices": [
-      "at",
-      "for",
-      "in",
-      "on"
+      "remitting",
+      "remitted",
+      "remit",
+      "remittance"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A past participle is needed after 'have been' to form the passive. The other forms are not participles."
+  },
+  {
+    "id": "p5-661",
+    "sentence": "The restructuring plan, ___ at last month's shareholder meeting, will take effect in January.",
+    "choices": [
+      "unveiling",
+      "unveiled",
+      "unveils",
+      "to unveil"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A past participle reduces the passive relative clause ('which was unveiled'). 'unveiling' is active, 'to unveil' is an infinitive, and 'unveils' is a finite verb."
+  },
+  {
+    "id": "p5-662",
+    "sentence": "Candidates ___ the minimum requirements will not be considered for an interview.",
+    "choices": [
+      "to lack",
+      "lacked",
+      "lack",
+      "lacking"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'On orders' is the standard collocation."
+    "explanation": "A present participle reduces the active relative clause ('who lack'). 'lacked' would be passive, and 'lack' and 'to lack' do not fit."
   },
   {
-    "id": "p5-077",
-    "sentence": "The manager walked ___ the factory floor with the visiting inspectors.",
+    "id": "p5-663",
+    "sentence": "The manager has asked that all expense reports ___ before the end of the month.",
     "choices": [
-      "across",
-      "until",
-      "between",
-      "among"
+      "filed",
+      "to be filed",
+      "be filed",
+      "are filed"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'asked that', the subjunctive passive 'be filed' is used. 'are filed' is indicative, and 'filed' and 'to be filed' do not form a correct clause."
+  },
+  {
+    "id": "p5-664",
+    "sentence": "It is imperative that the board ___ the amendments before the regulator's deadline.",
+    "choices": [
+      "approving",
+      "approve",
+      "approves",
+      "to approve"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'It is imperative that' triggers the subjunctive: the base form. 'approves' is indicative, and the others are not finite."
+  },
+  {
+    "id": "p5-665",
+    "sentence": "She suggested that the meeting ___ until all department heads were available.",
+    "choices": [
+      "to be postponed",
+      "be postponed",
+      "postpones",
+      "was postponed"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Suggested that' takes the subjunctive passive. 'was postponed' is indicative, and the others are not valid."
+  },
+  {
+    "id": "p5-666",
+    "sentence": "Not until the audit was completed ___ the extent of the losses become clear.",
+    "choices": [
+      "was",
+      "did",
+      "does",
+      "had"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Not until' at the start of a sentence triggers inversion: 'did the extent... become'. 'was' and 'had' do not fit 'become', and 'does' is present."
+  },
+  {
+    "id": "p5-667",
+    "sentence": "So severe ___ the shortage of components that the plant suspended production.",
+    "choices": [
+      "was",
+      "is to",
+      "had",
+      "were"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Across' describes movement over a surface or area."
+    "explanation": "'So + adjective' at the start requires inversion, and 'shortage' is singular, so 'was'. 'were' is plural, and the others do not fit."
   },
   {
-    "id": "p5-078",
-    "sentence": "Please keep your receipt ___ proof of purchase.",
+    "id": "p5-668",
+    "sentence": "The company is not only expanding abroad but also ___ its domestic operations.",
     "choices": [
-      "by",
-      "with",
-      "as",
-      "on"
+      "modernised for",
+      "to modernise",
+      "modernising",
+      "modernise"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'As' introduces the function or role of something."
+    "explanation": "After 'not only... but also', the structures must be parallel. 'is expanding' is matched by 'modernising'. The other forms break the parallelism."
   },
   {
-    "id": "p5-079",
-    "sentence": "The package was sent ___ mistake to the wrong department.",
+    "id": "p5-669",
+    "sentence": "Applicants should be able either to work independently ___ to collaborate within a large team.",
     "choices": [
-      "in",
-      "on",
-      "by",
-      "at"
+      "but",
+      "and",
+      "or",
+      "nor"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'By mistake' is a fixed expression."
+    "explanation": "'Either... or' is the correlative pair. 'nor' goes with 'neither', and 'and' and 'but' do not complete 'either'."
   },
   {
-    "id": "p5-080",
-    "sentence": "Dr. Chen will be out of the office ___ next Wednesday.",
+    "id": "p5-670",
+    "sentence": "The conference will be held in Lisbon ___ in Madrid, depending on the venue's availability.",
     "choices": [
-      "by",
-      "until",
-      "during",
-      "among"
+      "but",
+      "nor",
+      "so",
+      "or"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Or' links the alternative locations. 'nor' requires a negative, and 'but' and 'so' do not express alternatives."
+  },
+  {
+    "id": "p5-671",
+    "sentence": "He has been with the firm for fifteen years, ___ makes him the longest-serving employee.",
+    "choices": [
+      "that",
+      "which",
+      "who",
+      "what"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Until' shows how long a situation continues."
+    "explanation": "A non-restrictive 'which' refers to the entire previous clause. 'what' and 'that' cannot follow a comma this way, and 'who' refers to a person."
+  },
+  {
+    "id": "p5-672",
+    "sentence": "The auditors flagged several ___ in the quarterly accounts that required immediate correction.",
+    "choices": [
+      "discrepancies",
+      "amendments",
+      "fluctuations",
+      "deficiencies"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Discrepancies' means mismatches between figures. 'Deficiencies' are shortfalls, 'fluctuations' are variations over time, and 'amendments' are formal changes, none of which are 'flagged' as errors in accounts."
+  },
+  {
+    "id": "p5-673",
+    "sentence": "Mr. Tanaka was asked to ___ the department's budget before presenting it to the board.",
+    "choices": [
+      "scrutinise",
+      "resemble",
+      "contemplate",
+      "accommodate"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Scrutinise' means examine closely. 'Resemble' and 'accommodate' do not take a budget as an object in this sense, and 'contemplate' means consider thoughtfully, not check details."
+  },
+  {
+    "id": "p5-674",
+    "sentence": "The two companies signed a ___ agreement to share research facilities for five years.",
+    "choices": [
+      "reciprocal",
+      "tentative",
+      "compulsory",
+      "redundant"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Reciprocal' means mutual, which fits an agreement to share. 'Redundant' means unnecessary, 'tentative' means provisional, and 'compulsory' means obligatory."
+  },
+  {
+    "id": "p5-675",
+    "sentence": "Because of the ___ in demand, the factory was forced to cut its weekend shifts.",
+    "choices": [
+      "outcome",
+      "upgrade",
+      "guideline",
+      "downturn"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Downturn' is a decline in activity. An 'outcome' is a result, an 'upgrade' is an improvement, and a 'guideline' is a recommended rule."
+  },
+  {
+    "id": "p5-676",
+    "sentence": "The firm's new director intends to ___ resources from underperforming divisions to promising ventures.",
+    "choices": [
+      "reinstate",
+      "reallocate",
+      "reiterate",
+      "reimburse"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Reallocate' means redistribute. 'Reiterate' is to repeat, 'reimburse' is to repay, and 'reinstate' is to restore someone or something."
+  },
+  {
+    "id": "p5-677",
+    "sentence": "The tenant is ___ for any damage caused to the premises during the lease period.",
+    "choices": [
+      "liable",
+      "compatible",
+      "susceptible",
+      "eligible"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Liable for' means legally responsible. 'Eligible' is followed by 'for' with benefits, 'susceptible' means easily affected, and 'compatible' means able to work together."
+  },
+  {
+    "id": "p5-678",
+    "sentence": "Employees are ___ to a pension plan after they complete six months of service.",
+    "choices": [
+      "obliged",
+      "entitled",
+      "committed",
+      "qualified"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Entitled to' means having a right to something. 'Obliged' needs an infinitive, 'qualified' requires 'for', and 'committed' means dedicated."
+  },
+  {
+    "id": "p5-679",
+    "sentence": "The consultant's proposal was ___ in its approach, covering every stage from planning to evaluation.",
+    "choices": [
+      "conclusive",
+      "considerable",
+      "comprehensive",
+      "compliant"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Comprehensive' means covering everything. 'Considerable' means large, 'conclusive' means decisive, and 'compliant' means obeying rules."
+  },
+  {
+    "id": "p5-680",
+    "sentence": "The shipping company will ___ the cost of repairs if the goods are damaged in transit.",
+    "choices": [
+      "bear",
+      "raise",
+      "hold",
+      "stand"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Bear the cost' is the standard collocation meaning 'pay'. 'Hold', 'raise' and 'stand' do not collocate with 'cost' in this meaning."
   }
 ]

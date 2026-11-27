@@ -1,509 +1,522 @@
 [
   {
-    "id": "p5-319",
-    "sentence": "The new office is ___ than the old one.",
+    "id": "p5-921",
+    "sentence": "The supplier's quotation is ___ of tax and delivery charges.",
     "choices": [
-      "largest",
-      "larger",
-      "more large",
-      "large"
+      "excluded to",
+      "exclusion",
+      "exclusive",
+      "excluding"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Exclusive of' means not including. The others are a noun, a gerund and a malformed phrase."
+  },
+  {
+    "id": "p5-922",
+    "sentence": "Employees may ___ their holiday entitlement to the following year, up to a maximum of five days.",
+    "choices": [
+      "carry off",
+      "carry on",
+      "carry over",
+      "carry out"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Carry over' means transfer to a later period. 'Carry on' means continue, 'carry out' means perform, and 'carry off' means succeed."
+  },
+  {
+    "id": "p5-923",
+    "sentence": "The chief engineer was ___ with ensuring that the plant met all environmental standards.",
+    "choices": [
+      "chased",
+      "charted",
+      "changed",
+      "charged"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Charged with' means given responsibility for. 'Chased', 'changed' and 'charted' do not fit this structure."
+  },
+  {
+    "id": "p5-924",
+    "sentence": "Bonuses are ___ on individual performance as well as on the results of the whole department.",
+    "choices": [
+      "set",
+      "laid",
+      "based",
+      "built"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Based on' means determined by. 'Built', 'laid' and 'set' do not take 'on' in this sense."
+  },
+  {
+    "id": "p5-925",
+    "sentence": "The company's accounts were ___ by an independent firm of chartered accountants.",
+    "choices": [
+      "auditor",
+      "audited",
+      "auditing",
+      "audible"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Than' calls for the comparative form 'larger'."
+    "explanation": "A passive past participle is needed. 'audible' is an adjective meaning able to be heard, 'auditing' is a gerund, and 'auditor' is a noun."
   },
   {
-    "id": "p5-320",
-    "sentence": "This is the ___ report we have received this year.",
+    "id": "p5-926",
+    "sentence": "Following the product recall, sales ___ by more than a third in the following quarter.",
     "choices": [
-      "most detailed",
-      "detail",
-      "more detailed",
-      "detailedly"
+      "plummeted",
+      "plunged to",
+      "plotted",
+      "planted"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'The' + superlative: 'most detailed' for a long adjective."
+    "category": "vocabulary",
+    "explanation": "'Plummeted' means fell steeply. 'Plunged to' is malformed here, 'planted' means placed in soil, and 'plotted' means planned or marked."
   },
   {
-    "id": "p5-321",
-    "sentence": "Ms. Kwon is the ___ experienced of all the candidates.",
+    "id": "p5-927",
+    "sentence": "The firm's earnings have ___ a steady recovery since the start of the year.",
     "choices": [
-      "much",
-      "very",
-      "most",
-      "more"
+      "resolved",
+      "retracted",
+      "registered",
+      "resigned"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "The superlative 'most experienced' follows 'the' and 'of all'."
+    "category": "vocabulary",
+    "explanation": "'Registered a recovery' means recorded one. 'Resigned' means quit, 'resolved' means settled, and 'retracted' means withdrew."
   },
   {
-    "id": "p5-322",
-    "sentence": "The train was ___ crowded than usual this morning.",
+    "id": "p5-928",
+    "sentence": "The new director's priorities include ___ productivity and reducing waste.",
     "choices": [
-      "most",
-      "much",
-      "more",
-      "mostly"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'More crowded than' is the comparative structure."
-  },
-  {
-    "id": "p5-323",
-    "sentence": "Of the two models, the second is the ___ expensive.",
-    "choices": [
-      "less",
-      "lesser of",
-      "least",
-      "little"
+      "enhancing",
+      "enhancement to",
+      "enhance",
+      "enhanced"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "With two items, the comparative 'less' is used."
+    "explanation": "A gerund is needed after 'include', parallel with 'reducing'. The others are not parallel."
   },
   {
-    "id": "p5-324",
-    "sentence": "Our new printer is not as ___ as the old one.",
+    "id": "p5-929",
+    "sentence": "The goods will be ___ from customs as soon as the import duties have been paid.",
     "choices": [
-      "fast",
-      "faster",
-      "fastly",
-      "fastest"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'As ... as' takes the base adjective."
-  },
-  {
-    "id": "p5-325",
-    "sentence": "The sooner you submit the form, the ___ you will receive the refund.",
-    "choices": [
-      "soon",
-      "soonest",
-      "more soon",
-      "sooner"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'The sooner ..., the sooner ...' is a double comparative."
-  },
-  {
-    "id": "p5-326",
-    "sentence": "Mr. Chang is ___ interested in transferring to the Paris office.",
-    "choices": [
-      "very",
-      "too many",
-      "most",
-      "much"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Very' modifies the adjective 'interested'."
-  },
-  {
-    "id": "p5-327",
-    "sentence": "The results were ___ better than we had predicted.",
-    "choices": [
-      "more",
-      "very",
-      "most",
-      "much"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Much' strengthens the comparative 'better'."
-  },
-  {
-    "id": "p5-328",
-    "sentence": "The seminar was ___ long to hold everyone's attention.",
-    "choices": [
-      "enough",
-      "so as",
-      "very much",
-      "too"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Too ... to' expresses an excessive degree."
-  },
-  {
-    "id": "p5-329",
-    "sentence": "The room was not large ___ to hold all the guests.",
-    "choices": [
-      "so",
-      "very",
-      "enough",
-      "too"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Adjective + enough to' follows the adjective."
-  },
-  {
-    "id": "p5-330",
-    "sentence": "The presentation was so ___ that everyone asked questions afterward.",
-    "choices": [
-      "interesting",
-      "interestingly",
-      "interest",
-      "interested"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Interesting' describes the presentation; 'interested' describes people."
-  },
-  {
-    "id": "p5-331",
-    "sentence": "The audience was ___ by the speaker's final remarks.",
-    "choices": [
-      "impressive",
-      "impressed",
-      "impressing",
-      "impression"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "A participle describing people's feeling is needed: 'impressed'."
-  },
-  {
-    "id": "p5-332",
-    "sentence": "We were ___ to hear that the factory would stay open.",
-    "choices": [
-      "relief",
+      "relented",
+      "relayed",
       "relieved",
-      "relieve",
-      "relieving"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "A participle for the feeling of people: 'relieved'."
-  },
-  {
-    "id": "p5-333",
-    "sentence": "The ___ guests were seated at the main table.",
-    "choices": [
-      "inviting",
-      "invitation",
-      "invited",
-      "invites"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "A past participle with a passive meaning modifies 'guests'."
-  },
-  {
-    "id": "p5-334",
-    "sentence": "Employees ___ in the program will receive a certificate.",
-    "choices": [
-      "enrolled",
-      "enroll",
-      "enrollment",
-      "enrolling"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "A past participle phrase meaning 'who are enrolled'."
-  },
-  {
-    "id": "p5-335",
-    "sentence": "The ___ employees were rewarded with a free lunch.",
-    "choices": [
-      "hardly work",
-      "hardworker",
-      "hardworking",
-      "hardworked"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Hardworking' is a compound adjective before a noun."
-  },
-  {
-    "id": "p5-336",
-    "sentence": "Anyone ___ in the position should contact Human Resources.",
-    "choices": [
-      "interests",
-      "interest",
-      "interested",
-      "interesting"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Anyone interested' means anyone who is interested."
-  },
-  {
-    "id": "p5-337",
-    "sentence": "Passengers ___ for the 9:15 train should go to platform 4.",
-    "choices": [
-      "waited",
-      "waits",
-      "waiting",
-      "wait"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "A present participle phrase meaning 'who are waiting'."
-  },
-  {
-    "id": "p5-338",
-    "sentence": "___ the contract carefully, Mr. Ito noticed several errors.",
-    "choices": [
-      "To reading",
-      "Reads",
-      "Read",
-      "Reading"
+      "released"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "A participle phrase with the same subject as the main clause."
+    "category": "vocabulary",
+    "explanation": "'Released from customs' means cleared. 'Relieved' means eased, 'relented' means gave in, and 'relayed' means passed on."
   },
   {
-    "id": "p5-339",
-    "sentence": "The firm hired more workers ___ the production deadline.",
+    "id": "p5-930",
+    "sentence": "Our firm specialises in ___ small businesses with their accounting and tax filing.",
     "choices": [
-      "to meet",
-      "meeting to",
-      "met",
-      "meets"
+      "assisting",
+      "assisted",
+      "assist",
+      "assistance"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "An infinitive of purpose."
+    "explanation": "After the preposition 'in', a gerund is needed. The others are a participle, a base verb and a noun."
   },
   {
-    "id": "p5-340",
-    "sentence": "It is important ___ all safety rules at all times.",
+    "id": "p5-931",
+    "sentence": "The firm is ___ for its prompt and reliable after-sales service.",
     "choices": [
-      "following",
-      "to follow",
+      "noting",
+      "noted",
+      "noticing",
+      "notable"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Noted for' means known for. 'Notable' would need 'be notable for' with a different structure in this sentence, and the others are active forms."
+  },
+  {
+    "id": "p5-932",
+    "sentence": "The court ruled that the clause was ___ and therefore could not be enforced.",
+    "choices": [
+      "unenforcing",
+      "unenforcement",
+      "unenforceable",
+      "unenforced"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Unenforceable' means impossible to enforce. The others are a participle, a gerund and a non-word."
+  },
+  {
+    "id": "p5-933",
+    "sentence": "The new rules have ___ the number of complaints about delivery times.",
+    "choices": [
+      "lessened",
+      "lightened",
+      "lengthened",
+      "limited to"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Lessened' means reduced. 'Lengthened' means made longer, 'lightened' means made lighter, and 'limited to' is malformed."
+  },
+  {
+    "id": "p5-934",
+    "sentence": "The reporter ___ that the company was planning to cut two thousand jobs.",
+    "choices": [
+      "claimed",
+      "clarified to",
+      "claimed to",
+      "claiming"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Claimed that' introduces a statement. The other forms are malformed or non-finite."
+  },
+  {
+    "id": "p5-935",
+    "sentence": "The factory was shut down ___ the discovery of toxic waste in the nearby river.",
+    "choices": [
       "followed",
-      "follows"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'It is important to' + base verb."
-  },
-  {
-    "id": "p5-341",
-    "sentence": "Ms. Ortiz is looking forward to ___ the new team.",
-    "choices": [
-      "met",
-      "meet",
-      "meeting",
-      "to meet"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Look forward to' is followed by a gerund."
-  },
-  {
-    "id": "p5-342",
-    "sentence": "The firm is considering ___ a second branch in Dallas.",
-    "choices": [
-      "to open",
-      "open",
-      "opening",
-      "opened"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Consider' is followed by a gerund."
-  },
-  {
-    "id": "p5-343",
-    "sentence": "We decided ___ the meeting until next week.",
-    "choices": [
-      "postponing",
-      "postponed",
-      "postpone",
-      "to postpone"
+      "follows",
+      "follow",
+      "following"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Decide' is followed by an infinitive."
+    "explanation": "'Following' is a preposition meaning after. The others are verb forms."
   },
   {
-    "id": "p5-344",
-    "sentence": "Mr. Nash avoided ___ the manager about the delay.",
+    "id": "p5-936",
+    "sentence": "The airline was ___ to compensate passengers whose flights had been cancelled at short notice.",
     "choices": [
-      "telling",
-      "told",
-      "to tell",
-      "tell"
+      "requisite",
+      "requiring",
+      "required",
+      "required to"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A passive past participle is needed before 'to compensate'. 'required to' would repeat 'to'; 'requisite' is an adjective."
+  },
+  {
+    "id": "p5-937",
+    "sentence": "The consultant's recommendations were ___ with scepticism by the senior managers.",
+    "choices": [
+      "reproached",
+      "received",
+      "resumed",
+      "reserved"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Received with scepticism' means met with doubt. 'Reserved' means booked, 'reproached' means blamed, and 'resumed' means restarted."
+  },
+  {
+    "id": "p5-938",
+    "sentence": "The proposed merger is ___ to cause considerable disruption in the retail sector.",
+    "choices": [
+      "apt in",
+      "likely",
+      "liable to",
+      "probably"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Likely to' fits the structure 'is likely to cause'. 'Probably' is an adverb, and the others do not fit the structure."
+  },
+  {
+    "id": "p5-939",
+    "sentence": "Work on the bridge was ___ owing to a shortage of steel.",
+    "choices": [
+      "suspicious",
+      "suspended",
+      "suspending",
+      "suspected"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Suspended' means temporarily stopped. 'Suspected' means doubted, 'suspicious' means distrustful, and 'suspending' is active."
+  },
+  {
+    "id": "p5-940",
+    "sentence": "The company's ___ debts amounted to more than twelve million euros at the end of the year.",
+    "choices": [
+      "outstanding",
+      "outlying",
+      "outgoing",
+      "outspoken"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Outstanding debts' are unpaid ones. 'Outgoing' means leaving, 'outspoken' means frank, and 'outlying' means remote."
+  },
+  {
+    "id": "p5-941",
+    "sentence": "The firm will ___ a new warehouse in the northern suburbs next spring.",
+    "choices": [
+      "commute",
+      "commission",
+      "commit",
+      "commend"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Commission a warehouse' means order its construction. 'Commit' means promise, 'commend' means praise, and 'commute' means travel to work."
+  },
+  {
+    "id": "p5-942",
+    "sentence": "Tickets are ___ on a first-come, first-served basis.",
+    "choices": [
+      "allocated",
+      "alleviated",
+      "allotted to",
+      "altered"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Allocated on a basis' means distributed. 'Alleviated' means eased, 'allotted to' is malformed, and 'altered' means changed."
+  },
+  {
+    "id": "p5-943",
+    "sentence": "The company had to ___ its plans after the main investor withdrew.",
+    "choices": [
+      "scale out of",
+      "scale for",
+      "scale over",
+      "scale back"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Scale back' means reduce. The other phrases are not standard."
+  },
+  {
+    "id": "p5-944",
+    "sentence": "The negotiators hope to ___ an agreement before the strike begins on Monday.",
+    "choices": [
+      "bribe",
+      "broker",
+      "brush",
+      "break"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Broker an agreement' means arrange one between parties. 'Break' needs a different object, 'brush' means touch lightly, and 'bribe' is illegal payment."
+  },
+  {
+    "id": "p5-945",
+    "sentence": "The manager praised the team for its ___ response to the sudden surge in orders.",
+    "choices": [
+      "prompted",
+      "promptly",
+      "prompting",
+      "prompt"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'response'. 'promptly' is an adverb, and the others are participles."
+  },
+  {
+    "id": "p5-946",
+    "sentence": "The company's financial ___ is published in its annual report each March.",
+    "choices": [
+      "station",
+      "statement",
+      "statue",
+      "stature"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A 'financial statement' is a formal record of finances. The other nouns look similar but have unrelated meanings."
+  },
+  {
+    "id": "p5-947",
+    "sentence": "To avoid penalties, all invoices must be settled ___ thirty days of issue.",
+    "choices": [
+      "within",
+      "throughout",
+      "among",
+      "inside to"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Within thirty days' marks a time limit. 'inside to' is malformed, 'among' is for groups, and 'throughout' means for the whole of."
+  },
+  {
+    "id": "p5-948",
+    "sentence": "The proposed legislation would ___ stricter controls on the sale of tobacco products.",
+    "choices": [
+      "expose",
+      "compose",
+      "impose",
+      "oppose"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Impose controls' means put them in force. 'Expose' means reveal, 'oppose' means resist, and 'compose' means create."
+  },
+  {
+    "id": "p5-949",
+    "sentence": "Although the product was cheaper, buyers still chose the more ___ brand.",
+    "choices": [
+      "establishing",
+      "establishment",
+      "establish",
+      "established"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A past-participle adjective is needed before 'brand'. The others are a gerund, a verb and a noun."
+  },
+  {
+    "id": "p5-950",
+    "sentence": "The board has asked for a ___ of the proposal before it makes a final decision.",
+    "choices": [
+      "reproach",
+      "retraction",
+      "reappraisal",
+      "reimbursement"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A 'reappraisal' is a fresh evaluation. A 'reproach' is blame, a 'retraction' is a withdrawal, and a 'reimbursement' is a repayment."
+  },
+  {
+    "id": "p5-951",
+    "sentence": "The carrier cannot be held ___ for delays caused by extreme weather conditions.",
+    "choices": [
+      "accountable",
+      "accounting",
+      "account",
+      "accounted"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Avoid' is followed by a gerund."
+    "explanation": "'Held accountable' is the fixed expression. The others are participles or a noun."
   },
   {
-    "id": "p5-345",
-    "sentence": "The company agreed ___ the damaged goods.",
+    "id": "p5-952",
+    "sentence": "Her resignation came as a ___ to colleagues who had not expected it.",
     "choices": [
-      "replace",
-      "to replace",
-      "replaced",
-      "replacing"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Agree' is followed by an infinitive."
-  },
-  {
-    "id": "p5-346",
-    "sentence": "Staff are not permitted ___ personal calls during meetings.",
-    "choices": [
-      "making",
-      "made",
-      "to make",
-      "make"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Permit someone to' + base verb."
-  },
-  {
-    "id": "p5-347",
-    "sentence": "She is accustomed ___ long hours at the office.",
-    "choices": [
-      "to work",
-      "work",
-      "working",
-      "to working"
+      "shiver",
+      "shake",
+      "shudder",
+      "shock"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Be accustomed to' is followed by a gerund."
+    "category": "vocabulary",
+    "explanation": "'Come as a shock' is the fixed phrase. The other nouns do not collocate."
   },
   {
-    "id": "p5-348",
-    "sentence": "Thank you for ___ us with such quick service.",
+    "id": "p5-953",
+    "sentence": "The airline's aggressive pricing has ___ its rivals into offering similar discounts.",
     "choices": [
-      "provided",
-      "provide",
-      "providing",
-      "to provide"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "A gerund follows the preposition 'for'."
-  },
-  {
-    "id": "p5-349",
-    "sentence": "Using the new system is much ___ than using the old one.",
-    "choices": [
-      "easiest",
-      "easy",
-      "easier",
-      "ease"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Than' calls for a comparative adjective."
-  },
-  {
-    "id": "p5-350",
-    "sentence": "The proposal was ___ rejected by the board.",
-    "choices": [
-      "unanimousness",
-      "unanimously",
-      "unanimous",
-      "unanimity"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "An adverb is needed between 'was' and the participle 'rejected'."
-  },
-  {
-    "id": "p5-351",
-    "sentence": "The assistant worked ___ to finish the report on time.",
-    "choices": [
-      "hardness",
-      "hard",
-      "hardly",
-      "harder of"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Hard' is both adjective and adverb; 'hardly' means 'almost not'."
-  },
-  {
-    "id": "p5-352",
-    "sentence": "The results were ___ different from what we expected.",
-    "choices": [
-      "completes",
-      "complete",
-      "completely",
-      "completion"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "An adverb is needed to modify the adjective 'different'."
-  },
-  {
-    "id": "p5-353",
-    "sentence": "Mr. Barnes is ___ the most qualified applicant.",
-    "choices": [
-      "by much",
-      "so far as",
-      "far by",
-      "by far"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'By far the most' is a fixed intensifier before a superlative."
-  },
-  {
-    "id": "p5-354",
-    "sentence": "The team has worked ___ on this project for six months.",
-    "choices": [
-      "consistently",
-      "consistent",
-      "consistency",
-      "consist"
+      "forced",
+      "founded",
+      "fostered",
+      "framed"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "An adverb is needed after the verb phrase 'has worked'."
+    "category": "vocabulary",
+    "explanation": "'Forced into' means compelled. 'Fostered' means encouraged, 'founded' means established, and 'framed' means enclosed."
   },
   {
-    "id": "p5-355",
-    "sentence": "The restaurant is ___ open until midnight.",
+    "id": "p5-954",
+    "sentence": "A ___ sum was paid to the former employee in settlement of her claim.",
     "choices": [
-      "use",
-      "usualness",
-      "usual",
-      "usually"
+      "lump",
+      "loose",
+      "lean",
+      "lone"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'A lump sum' is a single payment. The other adjectives do not collocate with 'sum'."
+  },
+  {
+    "id": "p5-955",
+    "sentence": "Only members of the executive committee are ___ to the minutes of the closed session.",
+    "choices": [
+      "privy",
+      "privileged to",
+      "prior",
+      "private"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Privy to' means having access to confidential information. 'Private' and 'prior' do not fit with 'to', and 'privileged to' changes the meaning."
+  },
+  {
+    "id": "p5-956",
+    "sentence": "The workers called a ___ strike in protest at the dismissal of two colleagues.",
+    "choices": [
+      "tidy",
+      "tacit",
+      "token",
+      "tense"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A 'token strike' is a short strike to show protest. The other adjectives do not collocate with 'strike'."
+  },
+  {
+    "id": "p5-957",
+    "sentence": "Interest rates are expected to remain ___ for the foreseeable future.",
+    "choices": [
+      "unchanges",
+      "unchange",
+      "unchanging to",
+      "unchanged"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "An adverb of frequency is needed before the adjective 'open'."
+    "explanation": "A participial adjective is needed after 'remain'. The others are malformed."
   },
   {
-    "id": "p5-356",
-    "sentence": "The new copier is ___ twice as fast as the old one.",
+    "id": "p5-958",
+    "sentence": "The firm's ___ operations in Eastern Europe account for forty percent of its revenue.",
     "choices": [
-      "most",
-      "almost",
-      "mostly",
-      "almost of"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Almost' means nearly and modifies 'twice as fast'."
-  },
-  {
-    "id": "p5-357",
-    "sentence": "Ms. Sanders arrived ___ for the interview, so she had time to review her notes.",
-    "choices": [
-      "earlier on",
-      "earliest",
-      "earlily",
-      "early"
+      "overdue",
+      "overall",
+      "overhead",
+      "overseas"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Early' is an adverb (without -ly) after the verb 'arrived'."
+    "category": "vocabulary",
+    "explanation": "'Overseas operations' are abroad. 'Overhead' refers to costs, 'overall' means total, and 'overdue' means late."
+  },
+  {
+    "id": "p5-959",
+    "sentence": "Under the terms of the contract, all intellectual property ___ to the client upon completion.",
+    "choices": [
+      "retreats",
+      "retains",
+      "resides",
+      "reverts"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Reverts to' means returns to a former owner. 'Resides' needs 'in', 'retreats' means withdraws, and 'retains' needs an object."
+  },
+  {
+    "id": "p5-960",
+    "sentence": "The company ___ a series of cost-cutting measures to stay afloat during the recession.",
+    "choices": [
+      "adopting",
+      "adapted",
+      "adjusted",
+      "adopted"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Adopted measures' means introduced them. 'Adapted' means modified, 'adjusted' means altered slightly, and 'adopting' is non-finite."
   }
 ]

@@ -1,509 +1,522 @@
 [
   {
-    "id": "p5-358",
-    "sentence": "Guests should ___ their rooms by 11 A.M. on the day of departure.",
+    "id": "p5-961",
+    "sentence": "The shareholders were ___ about the lack of transparency in the executive pay structure.",
     "choices": [
-      "vacation",
-      "validate",
-      "vaccinate",
-      "vacate"
+      "dispersed",
+      "dismissed",
+      "disbanded",
+      "dismayed"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Vacate' means to leave a room or building."
+    "explanation": "'Dismayed' means disappointed. 'Dismissed' means rejected or fired, 'dispersed' means scattered, and 'disbanded' means broken up."
   },
   {
-    "id": "p5-359",
-    "sentence": "The hotel offers a ___ breakfast to all guests.",
+    "id": "p5-962",
+    "sentence": "The firm's management structure is ___ and hampers swift decision-making.",
     "choices": [
-      "complimentary",
+      "commendable",
+      "cumbersome",
+      "competent",
+      "considerate"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Cumbersome' means unwieldy. 'Considerate', 'competent' and 'commendable' are positive and do not fit 'hampers'."
+  },
+  {
+    "id": "p5-963",
+    "sentence": "Delivery will take ten working days ___ a stock shortage.",
+    "choices": [
+      "beating",
+      "bearing",
+      "banning",
+      "barring"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Barring' means unless there is. 'Bearing' and 'banning' do not fit, and 'beating' means defeating."
+  },
+  {
+    "id": "p5-964",
+    "sentence": "The government is expected to ___ new rules on data privacy by the end of the year.",
+    "choices": [
+      "enable",
+      "enclose",
+      "endure",
+      "enact"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Enact rules' means pass them into law. 'Enable' means make possible, 'enclose' means put inside, and 'endure' means tolerate."
+  },
+  {
+    "id": "p5-965",
+    "sentence": "The law firm's ___ clients include several multinational corporations.",
+    "choices": [
+      "promising",
+      "prominent",
+      "prompt",
+      "prolonged"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Prominent' means important and well known. 'Promising' means showing potential, 'prolonged' means lengthy, and 'prompt' means immediate."
+  },
+  {
+    "id": "p5-966",
+    "sentence": "The company was ___ in a legal dispute with a former supplier for over three years.",
+    "choices": [
+      "embroiled",
+      "embarked",
+      "embraced",
+      "embedded"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Embroiled in' means entangled in. 'Embedded' means fixed in, 'embarked' needs 'on', and 'embraced' means welcomed."
+  },
+  {
+    "id": "p5-967",
+    "sentence": "The decision to ___ the contract was taken after months of poor service.",
+    "choices": [
+      "terminate",
+      "tolerate",
+      "temper",
+      "tempt"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Terminate a contract' means end it. 'Tolerate' means accept, 'tempt' means entice, and 'temper' means moderate."
+  },
+  {
+    "id": "p5-968",
+    "sentence": "She was ___ to the post of finance director after the sudden departure of her predecessor.",
+    "choices": [
+      "promised",
+      "prompted",
+      "promoted",
+      "promulgated"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Promoted to' means raised in rank. 'Promised' means pledged, 'prompted' means caused, and 'promulgated' means officially announced."
+  },
+  {
+    "id": "p5-969",
+    "sentence": "The warehouse manager must ___ that all incoming goods match the delivery notes.",
+    "choices": [
+      "vary",
+      "venture",
+      "verify",
+      "vanish"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Verify' means check. 'Vary' means change, 'vanish' means disappear, and 'venture' means risk."
+  },
+  {
+    "id": "p5-970",
+    "sentence": "Costs are expected to ___ as a result of the planned expansion into new markets.",
+    "choices": [
+      "emulate",
+      "evacuate",
+      "escalate",
+      "elevate"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Escalate' means rise rapidly. 'Elevate' means raise something, 'emulate' means imitate, and 'evacuate' means empty."
+  },
+  {
+    "id": "p5-971",
+    "sentence": "The manager's ___ for punctuality is well known throughout the company.",
+    "choices": [
+      "insistent",
+      "insistence",
+      "insisting",
+      "insistently"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A noun is needed after the possessive. The others are an adjective, a gerund and an adverb."
+  },
+  {
+    "id": "p5-972",
+    "sentence": "The audit was ___ by the discovery of several undisclosed accounts.",
+    "choices": [
+      "complicit",
+      "complemented",
       "complicated",
-      "compliant",
-      "complementary"
+      "compliant"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Complicated' means made more difficult. 'Compliant' means obeying, 'complicit' means involved in wrongdoing, and 'complemented' means added to."
+  },
+  {
+    "id": "p5-973",
+    "sentence": "The manufacturer is ___ to issue a refund if the product is found to be faulty.",
+    "choices": [
+      "obligatory",
+      "obligation",
+      "obliging",
+      "obliged"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Is obliged to' means is required to. 'obligatory' needs 'it is obligatory', 'obligation' is a noun, and 'obliging' means helpful."
+  },
+  {
+    "id": "p5-974",
+    "sentence": "The central bank has ___ interest rates three times this year to contain inflation.",
+    "choices": [
+      "raised",
+      "rose",
+      "arisen",
+      "risen"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Raised' is a transitive past participle taking 'interest rates'. 'risen' and 'arisen' are intransitive, and 'rose' is past simple."
+  },
+  {
+    "id": "p5-975",
+    "sentence": "The firm ___ lost the contract because its bid was submitted after the deadline.",
+    "choices": [
+      "narrow",
+      "narrowly",
+      "narrows",
+      "narrowing"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adverb modifies 'lost'. The others are an adjective and verb forms."
+  },
+  {
+    "id": "p5-976",
+    "sentence": "The proposed site is ___ to public transport, which will be a benefit to employees.",
+    "choices": [
+      "adjusted",
+      "adjoining to",
+      "adjourned",
+      "adjacent"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Adjacent to' means next to. 'Adjoining to' repeats the preposition, 'adjourned' means postponed, and 'adjusted' means altered."
+  },
+  {
+    "id": "p5-977",
+    "sentence": "Discussions are ___ and no final decision has yet been taken.",
+    "choices": [
+      "onerous",
+      "obsolete",
+      "ongoing",
+      "opaque"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Ongoing' means in progress. 'Onerous' means burdensome, 'opaque' means unclear, and 'obsolete' means outdated."
+  },
+  {
+    "id": "p5-978",
+    "sentence": "The investor insisted on a ___ to withdraw from the agreement at any time.",
+    "choices": [
+      "right",
+      "wright",
+      "write",
+      "rite"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Complimentary' means free of charge."
+    "explanation": "'A right to' means a legal entitlement. 'Rite' means ritual, and 'write' and 'wright' are other words."
   },
   {
-    "id": "p5-360",
-    "sentence": "We would like to ___ a table for six at eight o'clock.",
+    "id": "p5-979",
+    "sentence": "Few of the proposals were as ___ as the one submitted by the engineering team.",
     "choices": [
-      "reveal",
-      "reserve",
-      "reverse",
-      "resume"
+      "viable",
+      "vivid",
+      "visible",
+      "vital"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Viable' means workable. 'Vital' means essential, 'vivid' means bright or lifelike, and 'visible' means able to be seen."
+  },
+  {
+    "id": "p5-980",
+    "sentence": "We apologise for any ___ caused by the temporary closure of the main entrance.",
+    "choices": [
+      "incident",
+      "inconvenience",
+      "inclination",
+      "incompetence"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Reserve a table' means to book one."
+    "explanation": "'Inconvenience' is the standard apology noun. The others describe an event, a tendency and a lack of skill."
   },
   {
-    "id": "p5-361",
-    "sentence": "The flight was ___ due to bad weather.",
+    "id": "p5-981",
+    "sentence": "The consultant advised against ___ the contract until the liability clause had been clarified.",
     "choices": [
-      "delayed",
-      "delivered",
-      "declined",
-      "deleted"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Delayed' means happening later than planned."
-  },
-  {
-    "id": "p5-362",
-    "sentence": "Travelers must present a valid ___ at airport security.",
-    "choices": [
-      "passport",
-      "pastime",
-      "passenger",
-      "passage"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "A 'passport' is the official travel document."
-  },
-  {
-    "id": "p5-363",
-    "sentence": "The conference ___ desk will provide you with a name badge and a program.",
-    "choices": [
-      "registered",
-      "registrar",
-      "registration",
-      "registering"
+      "signed",
+      "having sign",
+      "signing",
+      "to sign"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Registration desk' is the standard noun phrase for the sign-in point."
+    "category": "grammar",
+    "explanation": "'Advise against' is followed by a gerund. The others are an infinitive, a participle and a malformed form."
   },
   {
-    "id": "p5-364",
-    "sentence": "All ___ must be made at least forty-eight hours in advance.",
+    "id": "p5-982",
+    "sentence": "Had the invoices ___ checked earlier, the error would have been spotted before payment.",
     "choices": [
-      "cancelled",
-      "cancelers",
-      "cancellations",
-      "cancel"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Cancellations' is the plural noun that fits 'All ___ must be made'."
-  },
-  {
-    "id": "p5-365",
-    "sentence": "The hotel is ___ located near the airport and the convention center.",
-    "choices": [
-      "convenience",
-      "convening",
-      "convenient",
-      "conveniently"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "An adverb is needed to modify the participle 'located'."
-  },
-  {
-    "id": "p5-366",
-    "sentence": "Our tour guide will ___ you of any changes to the schedule.",
-    "choices": [
-      "information",
-      "informal",
-      "informer",
-      "inform"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Inform someone of' is a verb structure."
-  },
-  {
-    "id": "p5-367",
-    "sentence": "The ___ for the trip includes meals but not airfare.",
-    "choices": [
-      "price",
-      "prise",
-      "prize",
-      "priest"
+      "been",
+      "be",
+      "being",
+      "have been"
     ],
     "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Price' is the amount charged."
+    "category": "grammar",
+    "explanation": "Inverted third conditional: 'Had + subject + been + participle'. The others do not form this pattern."
   },
   {
-    "id": "p5-368",
-    "sentence": "Please keep your boarding pass ___ you reach the destination.",
+    "id": "p5-983",
+    "sentence": "Bonuses will be paid only to employees who have ___ the probation period.",
     "choices": [
-      "during",
-      "while",
-      "since",
-      "until"
+      "completed",
+      "been complete",
+      "complete",
+      "completing"
     ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Until' shows how long you should keep it."
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "Present perfect needs a past participle. The others are a gerund, a base form and a malformed passive."
   },
   {
-    "id": "p5-369",
-    "sentence": "The company will ___ all travel expenses incurred during the conference.",
+    "id": "p5-984",
+    "sentence": "The directors, most of ___ had served for over a decade, voted to retire together.",
     "choices": [
-      "reinforce",
-      "reimburse",
-      "release",
-      "rehearse"
+      "which",
+      "whom",
+      "who",
+      "them"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Reimburse' means to pay back."
+    "category": "grammar",
+    "explanation": "'Most of whom' joins the relative clause and refers to people. 'them' would leave the clauses unlinked, 'who' cannot follow 'of', and 'which' refers to things."
   },
   {
-    "id": "p5-370",
-    "sentence": "Business-class passengers may ___ the airline's executive lounge.",
+    "id": "p5-985",
+    "sentence": "The team could hardly ___ the scale of the problem until the audit was finished.",
     "choices": [
-      "access",
-      "assert",
-      "excess",
-      "assess"
+      "have anticipated",
+      "anticipating",
+      "been anticipating",
+      "anticipate to"
     ],
     "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Access' as a verb means to enter or use."
+    "category": "grammar",
+    "explanation": "'Could hardly have anticipated' expresses an unrealised past ability. The others are malformed."
   },
   {
-    "id": "p5-371",
-    "sentence": "The hotel's ___ includes a pool, a gym and a business center.",
+    "id": "p5-986",
+    "sentence": "The manager would have approved the leave request had she ___ of the family emergency.",
     "choices": [
-      "facilitators",
-      "faculties",
-      "facilities",
-      "fixtures"
+      "knew",
+      "been known",
+      "know",
+      "known"
     ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Facilities' are services and equipment available."
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "Third conditional: 'had + past participle'. The others do not complete the inverted conditional."
   },
   {
-    "id": "p5-372",
-    "sentence": "Visitors to the museum are ___ to take photographs without a flash.",
+    "id": "p5-987",
+    "sentence": "No sooner had the contract been signed ___ the client requested several changes.",
     "choices": [
-      "permission",
-      "permitting",
-      "permitted",
-      "permit"
+      "that",
+      "then",
+      "when",
+      "than"
     ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Are permitted to' is the passive structure."
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'No sooner... than' is the fixed correlative. 'when' goes with 'hardly', and 'that' and 'then' are incorrect."
   },
   {
-    "id": "p5-373",
-    "sentence": "Our shuttle bus runs ___ every thirty minutes between the hotel and the station.",
+    "id": "p5-988",
+    "sentence": "Hardly had the presentation started ___ the projector failed.",
     "choices": [
-      "regular",
-      "regularly",
-      "regulate",
-      "regularity"
+      "when",
+      "than",
+      "as",
+      "that"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Hardly... when' is the correlative pair. 'than' goes with 'no sooner'."
+  },
+  {
+    "id": "p5-989",
+    "sentence": "Were the company ___ its prices, it would lose its most loyal customers.",
+    "choices": [
+      "raises",
+      "to raise",
+      "raised",
+      "raising"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "An adverb modifies the verb 'runs'."
+    "category": "grammar",
+    "explanation": "'Were + subject + to + infinitive' is the inverted hypothetical conditional. The others are not valid here."
   },
   {
-    "id": "p5-374",
-    "sentence": "The ___ of the event has been moved to the Garden Room.",
+    "id": "p5-990",
+    "sentence": "The more the firm invests in training, ___ its staff become.",
     "choices": [
-      "locate",
-      "locally",
-      "location",
-      "local"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "A noun is needed after 'the', and 'location of the event' is standard."
-  },
-  {
-    "id": "p5-375",
-    "sentence": "Participants are ___ to arrive fifteen minutes before the session.",
-    "choices": [
-      "adviser",
-      "advising",
-      "advised",
-      "advice"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Are advised to' is the passive structure meaning recommended."
-  },
-  {
-    "id": "p5-376",
-    "sentence": "We regret that the ___ room is no longer available at that rate.",
-    "choices": [
-      "doubtful",
-      "doubly",
-      "doublet",
-      "double"
+      "the most productively",
+      "more productive",
+      "most productive",
+      "the more productive"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Double room' is a standard hotel phrase."
+    "category": "grammar",
+    "explanation": "Double comparative: 'the more... the more productive'. The others lack the correct pattern."
   },
   {
-    "id": "p5-377",
-    "sentence": "The itinerary ___ visits to three historic sites.",
+    "id": "p5-991",
+    "sentence": "The report is not expected ___ before the end of the month.",
     "choices": [
-      "incurs",
-      "incites",
-      "includes",
-      "inclines"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Includes' means contains as a part."
-  },
-  {
-    "id": "p5-378",
-    "sentence": "The restaurant requires ___ for parties of more than eight.",
-    "choices": [
-      "reservists",
-      "reserves",
-      "reservoirs",
-      "reservations"
+      "to finish",
+      "finishing",
+      "finished to be",
+      "to be finished"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Reservations' means bookings."
+    "category": "grammar",
+    "explanation": "A passive infinitive is needed because the report is the thing finished. The others are active or malformed."
   },
   {
-    "id": "p5-379",
-    "sentence": "After a long delay, the flight finally ___ at midnight.",
+    "id": "p5-992",
+    "sentence": "The company's success is largely due ___ the dedication of its employees.",
     "choices": [
-      "landed",
-      "lacked",
-      "lauded",
-      "latched"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Landed' means touched down."
-  },
-  {
-    "id": "p5-380",
-    "sentence": "The lodge is surrounded by ___ scenery that attracts many photographers.",
-    "choices": [
-      "spectator",
-      "speculative",
-      "spectacular",
-      "specialty"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Spectacular' means impressive to look at."
-  },
-  {
-    "id": "p5-381",
-    "sentence": "The luggage was ___ at the baggage claim area.",
-    "choices": [
-      "unclaims",
-      "unclaim",
-      "unclaiming",
-      "unclaimed"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Unclaimed' is a participial adjective meaning not taken by its owner."
-  },
-  {
-    "id": "p5-382",
-    "sentence": "Guests may extend their stay ___ prior notice to the front desk.",
-    "choices": [
-      "at",
-      "by",
-      "with",
-      "of"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'With prior notice' is a fixed expression."
-  },
-  {
-    "id": "p5-383",
-    "sentence": "The ticket is ___ and cannot be exchanged for another date.",
-    "choices": [
-      "nonresident",
-      "nonreligious",
-      "nonrefundable",
-      "nonreflective"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Nonrefundable' means money cannot be returned."
-  },
-  {
-    "id": "p5-384",
-    "sentence": "The organizers expect about five hundred ___ at the trade fair.",
-    "choices": [
-      "attendants",
-      "attendees",
-      "attending",
-      "attendance on"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Attendees' are people present at an event."
-  },
-  {
-    "id": "p5-385",
-    "sentence": "The shuttle will ___ passengers at Terminal 2.",
-    "choices": [
-      "drop off",
-      "drop out",
-      "drop in",
-      "drop on"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Drop off' means to let someone out at a destination."
-  },
-  {
-    "id": "p5-386",
-    "sentence": "The company chartered a bus to ___ employees to the retreat.",
-    "choices": [
-      "transit",
-      "transact",
-      "transport",
-      "transfer of"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Transport' means to carry people from place to place."
-  },
-  {
-    "id": "p5-387",
-    "sentence": "The hotel staff did their best to make our stay ___.",
-    "choices": [
-      "pleasant",
-      "pleasantness",
-      "pleasure",
-      "pleasantly"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Make + object + adjective' needs 'pleasant'."
-  },
-  {
-    "id": "p5-388",
-    "sentence": "Please ___ your seat belt until the sign is turned off.",
-    "choices": [
-      "fasting",
-      "fatten",
-      "fasten",
-      "fast"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Fasten a seat belt' is the standard phrase."
-  },
-  {
-    "id": "p5-389",
-    "sentence": "Our agency specializes ___ customized tours for business travelers.",
-    "choices": [
-      "at",
-      "in",
+      "to",
+      "of",
       "for",
-      "on"
+      "at"
     ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Specialize in' is the standard collocation."
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Due to' is the fixed preposition. The others are incorrect."
   },
   {
-    "id": "p5-390",
-    "sentence": "The ___ will begin at 7 P.M. with a welcome speech from the director.",
+    "id": "p5-993",
+    "sentence": "Please remind everyone ___ the deadline for expense claims is Friday.",
     "choices": [
-      "banker",
-      "banner",
-      "banquet",
-      "bandit"
+      "that",
+      "what",
+      "which",
+      "whom"
     ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "A 'banquet' is a formal dinner event."
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Remind someone that' introduces a clause. 'what' and 'which' do not introduce this clause, and 'whom' is an object pronoun."
   },
   {
-    "id": "p5-391",
-    "sentence": "Visitors may choose between a guided tour and a ___ walk through the gardens.",
+    "id": "p5-994",
+    "sentence": "The manager asked ___ the printer had been repaired.",
     "choices": [
-      "self-guidance",
-      "self-guide",
-      "self-guiding",
-      "self-guided"
+      "whether",
+      "what",
+      "unless",
+      "that"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Asked whether' introduces an indirect yes/no question. The others do not."
+  },
+  {
+    "id": "p5-995",
+    "sentence": "It remains unclear ___ the delay was caused by a technical fault or by human error.",
+    "choices": [
+      "that",
+      "if only",
+      "unless",
+      "whether"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Self-guided' is a compound adjective for a tour without a guide."
+    "category": "grammar",
+    "explanation": "'Whether... or' introduces alternatives. 'if only' expresses a wish, 'that' does not take 'or', and 'unless' does not fit."
   },
   {
-    "id": "p5-392",
-    "sentence": "The ___ will be announced at the closing ceremony tomorrow.",
+    "id": "p5-996",
+    "sentence": "She is by far the ___ candidate we have interviewed this year.",
     "choices": [
-      "wins",
-      "wining",
-      "winners",
-      "wineries"
+      "more qualified",
+      "qualifiedest",
+      "most qualified",
+      "most qualify"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Winners' fits the announcement of results."
+    "category": "grammar",
+    "explanation": "A superlative is needed with 'by far the'. The others are comparative or malformed."
   },
   {
-    "id": "p5-393",
-    "sentence": "The resort's popularity peaks ___ the summer months.",
+    "id": "p5-997",
+    "sentence": "The new printer is twice as fast ___ the old one.",
     "choices": [
-      "beside",
-      "during",
-      "among",
-      "along"
+      "like",
+      "as",
+      "than",
+      "that"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'During' is used with a period of time."
+    "category": "grammar",
+    "explanation": "'Twice as... as' is the fixed comparison. 'than' is for comparatives."
   },
   {
-    "id": "p5-394",
-    "sentence": "The agency will ___ you with a full refund if the tour is canceled.",
+    "id": "p5-998",
+    "sentence": "The firm has not yet decided ___ to open a branch in Warsaw or in Prague.",
     "choices": [
-      "prosper",
-      "provide",
-      "prohibit",
-      "provoke"
+      "how",
+      "whether",
+      "what",
+      "that"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Provide someone with' is the standard structure."
+    "category": "grammar",
+    "explanation": "'Whether... or' presents alternatives. The others do not."
   },
   {
-    "id": "p5-395",
-    "sentence": "The airline will give priority ___ to families with small children.",
+    "id": "p5-999",
+    "sentence": "There is little doubt ___ the new strategy will increase market share.",
     "choices": [
-      "boards of",
-      "board",
-      "boarding",
-      "boarded"
+      "if",
+      "what",
+      "that",
+      "whether to"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Priority boarding' is a standard noun phrase."
+    "category": "grammar",
+    "explanation": "'No doubt that' introduces a clause after 'doubt'. 'whether to' and 'what' do not fit, and 'if' is non-standard after 'doubt'."
   },
   {
-    "id": "p5-396",
-    "sentence": "The exhibition ___ many visitors from overseas every year.",
+    "id": "p5-1000",
+    "sentence": "The CEO regretted ___ the staff about the closure so late.",
     "choices": [
-      "draft",
-      "draws",
-      "drags",
-      "drains"
+      "informing",
+      "inform",
+      "to inform",
+      "to informing"
     ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Draws visitors' means attracts them."
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Regret + gerund' refers to a past action. 'to inform' means regret that one must inform now."
   }
 ]

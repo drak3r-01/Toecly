@@ -1,509 +1,522 @@
 [
   {
-    "id": "p5-202",
-    "sentence": "The ___ campaign will target young professionals in major cities.",
+    "id": "p5-801",
+    "sentence": "The investor withdrew ___ the deal when the due-diligence review uncovered unreported debts.",
     "choices": [
-      "advertise",
-      "advertising",
-      "advertisement of",
-      "advertised by"
+      "from",
+      "away",
+      "out to",
+      "off"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Withdraw from a deal' is the fixed structure. 'off' and 'away' do not take the object directly, and 'out to' is malformed."
+  },
+  {
+    "id": "p5-802",
+    "sentence": "The contract may be ___ by either party with thirty days' written notice.",
+    "choices": [
+      "tabulated",
+      "terminated",
+      "terrified",
+      "tempered"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Advertising campaign' is the standard noun phrase."
+    "explanation": "'Terminated' means ended. 'Terrified' means frightened, 'tempered' means moderated, and 'tabulated' means arranged in a table."
   },
   {
-    "id": "p5-203",
-    "sentence": "Our sales representatives will ___ the new product at the trade show.",
+    "id": "p5-803",
+    "sentence": "A ___ clause in the agreement prevents the former employee from joining a competitor for two years.",
     "choices": [
-      "deliberate",
-      "determine",
-      "decorate",
-      "demonstrate"
+      "regretful",
+      "restrictive",
+      "resistant",
+      "reflective"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A 'restrictive' clause limits activity. 'Resistant' means opposed, 'reflective' means thoughtful, and 'regretful' means sorry."
+  },
+  {
+    "id": "p5-804",
+    "sentence": "The company has set aside funds to cover ___ liabilities arising from the pending lawsuit.",
+    "choices": [
+      "constant",
+      "continuous",
+      "considerate",
+      "contingent"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Demonstrate' means to show how something works."
+    "explanation": "'Contingent liabilities' may arise depending on an outcome. 'Constant' and 'continuous' mean unchanging, and 'considerate' means thoughtful."
   },
   {
-    "id": "p5-204",
-    "sentence": "The survey results will help us ___ customer preferences.",
+    "id": "p5-805",
+    "sentence": "The takeover bid was ___ by the board as significantly undervaluing the company.",
     "choices": [
-      "idle",
-      "identity",
-      "identify",
-      "ideal"
+      "rebounded",
+      "rebuilt",
+      "recalled",
+      "rebuffed"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Rebuffed' means rejected abruptly. 'Rebounded' means bounced back, 'rebuilt' means constructed again, and 'recalled' means remembered or summoned back."
+  },
+  {
+    "id": "p5-806",
+    "sentence": "To ___ a refund, customers must submit the original invoice within fourteen days.",
+    "choices": [
+      "clam",
+      "claimed",
+      "claim",
+      "claiming"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'To', a base verb is needed. 'clam' is a noun or a rare verb, and the others are participles."
+  },
+  {
+    "id": "p5-807",
+    "sentence": "Thanks to prudent budgeting, the department managed to ___ a surplus of fifty thousand euros.",
+    "choices": [
+      "generous",
+      "generate",
+      "generation",
+      "generating"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'to', the base verb 'generate' is needed. The others are an adjective, a noun and a gerund."
+  },
+  {
+    "id": "p5-808",
+    "sentence": "The pilot scheme proved ___ successful that the company extended it to all branches.",
+    "choices": [
+      "very much",
+      "too",
+      "so",
+      "such"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'So + adjective + that' expresses result. 'too' implies excess, 'such' needs a noun, and 'very much' does not fit."
+  },
+  {
+    "id": "p5-809",
+    "sentence": "It was such a persuasive presentation ___ the board approved the plan immediately.",
+    "choices": [
+      "as",
+      "that",
+      "than",
+      "which"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Such a + noun + that' expresses result. 'than' and 'as' do not complete this structure, and 'which' is relative."
+  },
+  {
+    "id": "p5-810",
+    "sentence": "The delay was ___ to a shortage of skilled labour in the region.",
+    "choices": [
+      "attributed",
+      "attributive",
+      "attributable",
+      "attribution"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Attributable to' is an adjective meaning caused by. The others are a participle, a noun and a grammatical term."
+  },
+  {
+    "id": "p5-811",
+    "sentence": "The inspector found that the premises were ___ with fire regulations.",
+    "choices": [
+      "non-comply",
+      "non-compliant",
+      "non-compliance",
+      "non-complying to"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed after 'were'. The others are a noun and malformed forms."
+  },
+  {
+    "id": "p5-812",
+    "sentence": "Shareholders are ___ invited to attend the annual general meeting on the fifth of May.",
+    "choices": [
+      "cordially",
+      "cordiality",
+      "cordial",
+      "cordialness"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies 'invited'. The others are an adjective and nouns."
+  },
+  {
+    "id": "p5-813",
+    "sentence": "The proposal was approved ___ amendments proposed by the legal department.",
+    "choices": [
+      "owing to",
+      "due to",
+      "subject to",
+      "according"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Identify' means to recognize and name."
+    "explanation": "'Subject to amendments' means conditional upon them. 'Owing to' and 'due to' give causes, and 'according' needs 'to' with a source."
   },
   {
-    "id": "p5-205",
-    "sentence": "Customers may return any item that does not ___ their expectations.",
+    "id": "p5-814",
+    "sentence": "The new tax regulations take effect ___ January 1.",
     "choices": [
-      "fill",
-      "match to",
-      "meet",
-      "reach to"
+      "in",
+      "by",
+      "at",
+      "on"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'On' is used with specific dates. 'at', 'in' and 'by' do not take a date this way."
+  },
+  {
+    "id": "p5-815",
+    "sentence": "Please submit the application ___ the end of the working day on Friday.",
+    "choices": [
+      "through to",
+      "by",
+      "during",
+      "until"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'By' marks a deadline. 'until' implies continuing up to a time, 'during' needs a period, and 'through to' is malformed."
+  },
+  {
+    "id": "p5-816",
+    "sentence": "The agreement shall remain in force ___ December 31 of the following year.",
+    "choices": [
+      "by",
+      "within",
+      "for",
+      "until"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Until' marks the end of a continuing state. 'by' marks a deadline, and 'within' and 'for' do not suit a date."
+  },
+  {
+    "id": "p5-817",
+    "sentence": "The firm has been operating ___ a loss since the loss of its largest client.",
+    "choices": [
+      "under",
+      "by",
+      "with",
+      "at"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Operate at a loss' is the fixed phrase. The other prepositions do not collocate."
+  },
+  {
+    "id": "p5-818",
+    "sentence": "Revenue grew ___ eighty million dollars, up from sixty million last year.",
+    "choices": [
+      "to",
+      "at",
+      "by",
+      "of"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Grew to' gives the final figure; 'by' would give the amount of the change. 'of' and 'at' do not fit."
+  },
+  {
+    "id": "p5-819",
+    "sentence": "The new model is superior ___ the previous one in terms of durability.",
+    "choices": [
+      "to",
+      "from",
+      "over",
+      "than"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Superior to' is the fixed adjective + preposition. 'than' is used with comparatives, and 'from' and 'over' are incorrect."
+  },
+  {
+    "id": "p5-820",
+    "sentence": "The manager was reluctant to ___ the new procedure without first consulting the staff.",
+    "choices": [
+      "imply",
+      "implement",
+      "implicate",
+      "implant"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Implement' means put into effect. 'Implant' is to insert, 'implicate' is to involve in wrongdoing, and 'imply' is to suggest."
+  },
+  {
+    "id": "p5-821",
+    "sentence": "The intern's ___ contribution to the project was acknowledged in the final report.",
+    "choices": [
+      "indifferent",
+      "invalid",
+      "invaluable",
+      "inevitable"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Meet expectations' is the standard collocation."
+    "explanation": "'Invaluable' means extremely useful. 'Invalid' means not valid, 'inevitable' means unavoidable, and 'indifferent' means uninterested."
   },
   {
-    "id": "p5-206",
-    "sentence": "The store is offering a limited-time ___ on all winter coats.",
+    "id": "p5-822",
+    "sentence": "The company reported a ___ rise in profits, well above analysts' predictions.",
     "choices": [
-      "promotional of",
-      "promoter",
-      "promotion",
-      "promote"
+      "steep",
+      "stiff",
+      "steer",
+      "steamy"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "A 'steep rise' is a sharp one. 'Steer' is a verb, 'steamy' means full of steam, and 'stiff' means rigid."
+  },
+  {
+    "id": "p5-823",
+    "sentence": "All visitors must ___ at the security desk and obtain an identification badge.",
+    "choices": [
+      "check in",
+      "check off",
+      "check on",
+      "check up"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Check in' means register on arrival. 'Check up' means examine, 'check off' means mark on a list, and 'check on' means verify."
+  },
+  {
+    "id": "p5-824",
+    "sentence": "The consultant advised the firm to ___ its dependence on a single supplier.",
+    "choices": [
+      "reproduce",
+      "redress",
+      "reassure",
+      "reduce"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Reduce dependence' is the collocation. 'Reproduce' means copy, 'reassure' means comfort, and 'redress' means correct."
+  },
+  {
+    "id": "p5-825",
+    "sentence": "Strict ___ to deadlines is a key requirement for the project coordinator role.",
+    "choices": [
+      "adherence",
+      "adhering",
+      "adhesion",
+      "adherent"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Adherence to' means faithful observance. 'Adhesion' means sticking physically, 'adherent' is a supporter, and 'adhering' is a participle."
+  },
+  {
+    "id": "p5-826",
+    "sentence": "The company's dismissal procedures must ___ with employment law at all times.",
+    "choices": [
+      "compile",
+      "comprise",
+      "comply",
+      "complement"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "A noun is needed after 'a limited-time'."
+    "explanation": "'Comply with' is the fixed collocation. 'Compile' means gather, 'comprise' means include, and 'complement' means add to."
   },
   {
-    "id": "p5-207",
-    "sentence": "Ms. Torres was ___ for her outstanding customer service.",
+    "id": "p5-827",
+    "sentence": "Costs ___ from the project's expansion exceeded the original estimates by thirty percent.",
     "choices": [
-      "commended",
-      "committed",
-      "commanded",
-      "commented"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Commended for' means praised for."
-  },
-  {
-    "id": "p5-208",
-    "sentence": "We value your ___, so please complete the online questionnaire.",
-    "choices": [
-      "feedback",
-      "feature",
-      "feeble",
-      "feeding"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Feedback' means opinions about a product or service."
-  },
-  {
-    "id": "p5-209",
-    "sentence": "The company hopes to ___ its market share in Southeast Asia.",
-    "choices": [
-      "explain",
-      "expand",
-      "extend to",
-      "expire"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Expand market share' means to make it larger."
-  },
-  {
-    "id": "p5-210",
-    "sentence": "The new brochure highlights the main ___ of our latest model.",
-    "choices": [
-      "failures",
-      "features",
-      "fortunes",
-      "fixtures"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Features' are notable characteristics of a product."
-  },
-  {
-    "id": "p5-211",
-    "sentence": "To ___ customer loyalty, the store introduced a points program.",
-    "choices": [
-      "enclose",
-      "enable of",
-      "endure",
-      "encourage"
+      "results",
+      "resulted",
+      "result",
+      "resulting"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Encourage loyalty' means to promote it."
+    "category": "grammar",
+    "explanation": "A present participle reduces the relative clause ('that resulted'). 'resulted' is past tense, and 'result' and 'results' are not reduced forms."
   },
   {
-    "id": "p5-212",
-    "sentence": "Sales of the new smartphone have exceeded all ___.",
+    "id": "p5-828",
+    "sentence": "The proposal, ___ initially, was later revised in light of customers' feedback.",
     "choices": [
-      "expectations",
-      "expressions",
-      "expeditions",
-      "exceptions"
+      "to approve",
+      "approving",
+      "approves",
+      "approved"
     ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Exceeded expectations' is a standard collocation."
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A past participle reduces a passive clause ('which was approved'). The others are active, infinitive, or finite."
   },
   {
-    "id": "p5-213",
-    "sentence": "The marketing team is ___ a survey to gather customer opinions.",
+    "id": "p5-829",
+    "sentence": "The documents ___ below must be submitted with your application.",
     "choices": [
-      "conducted",
-      "conducting",
-      "conducing",
-      "conductor"
+      "listing",
+      "listed",
+      "to list",
+      "lists"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A past participle reduces the passive relative clause. The others are active or finite."
+  },
+  {
+    "id": "p5-830",
+    "sentence": "The man ___ the company's marketing division has been with the firm for twenty years.",
+    "choices": [
+      "led",
+      "to lead",
+      "leads",
+      "leading"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A present participle reduces an active relative ('who leads'). 'led' would be passive, 'leads' is finite, and 'to lead' is an infinitive."
+  },
+  {
+    "id": "p5-831",
+    "sentence": "___ in 1985, the firm has grown from a local workshop to a multinational group.",
+    "choices": [
+      "To found",
+      "Having found",
+      "Founded",
+      "Founding"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past participle at the start of the sentence shows a passive meaning ('The firm was founded'). The others are active or incorrect."
+  },
+  {
+    "id": "p5-832",
+    "sentence": "___ the contract carefully, Ms. Hamid noticed a clause that had not been discussed.",
+    "choices": [
+      "Having read to",
+      "To be read",
+      "Reading",
+      "Read"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A present participle expresses simultaneous action by the same subject. 'Read' is passive, and the others are malformed."
+  },
+  {
+    "id": "p5-833",
+    "sentence": "___ the deadline had passed, the committee refused to consider further submissions.",
+    "choices": [
+      "Between",
+      "Because",
+      "Except",
+      "Despite"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Because' introduces a clause of reason. The others are prepositions that need nouns."
+  },
+  {
+    "id": "p5-834",
+    "sentence": "The package arrived ___ a week later than the courier had promised.",
+    "choices": [
+      "near",
+      "nearly",
+      "nearing",
+      "nearness"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adverb modifies 'a week later'. The others are an adjective, a noun and a gerund."
+  },
+  {
+    "id": "p5-835",
+    "sentence": "Several of the applicants ___ for the post have previously worked in the industry.",
+    "choices": [
+      "applies",
+      "applying",
+      "applied",
+      "to apply"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A present participle reduces 'who are applying'. 'applied' is passive, and the others are finite or infinitive."
+  },
+  {
+    "id": "p5-836",
+    "sentence": "The firm's reputation ___ largely on the quality of its customer service.",
+    "choices": [
+      "rushes",
+      "rests",
+      "reaches",
+      "rises"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Conduct a survey' means to carry one out; the progressive form needs 'conducting'."
+    "explanation": "'Rests on' means depends on. 'Rises' and 'reaches' do not take 'on', and 'rushes' means moves hurriedly."
   },
   {
-    "id": "p5-214",
-    "sentence": "This offer is ___ to new customers only.",
+    "id": "p5-837",
+    "sentence": "Mr. Vasquez was ___ to the manager's post after the previous holder retired.",
     "choices": [
-      "restriction",
-      "restrict",
-      "restricted",
-      "restricting"
+      "approved",
+      "applied",
+      "appointed",
+      "appealed"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Restricted to' means limited to."
+    "explanation": "'Appointed to a post' means officially selected. 'Approved' needs 'of' for people, 'applied' needs 'for', and 'appealed' needs 'to' with a different meaning."
   },
   {
-    "id": "p5-215",
-    "sentence": "We guarantee ___ delivery within two days of your order.",
+    "id": "p5-838",
+    "sentence": "Everything necessary has been done to ___ the integrity of the data.",
     "choices": [
-      "promptly",
-      "prompt",
-      "promptness",
-      "prompting"
+      "safeguard",
+      "safely",
+      "saved",
+      "safety"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A verb is needed after 'to'. The others are a noun, an adverb and a participle."
+  },
+  {
+    "id": "p5-839",
+    "sentence": "The terms of the offer are ___ and cannot be changed after signature.",
+    "choices": [
+      "bonding",
+      "binding",
+      "bound to",
+      "bounded"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "An adjective is needed before the noun 'delivery'."
+    "explanation": "'Binding' means legally enforceable. 'Bound to' needs an object, 'bonding' means forming links, and 'bounded' means limited."
   },
   {
-    "id": "p5-216",
-    "sentence": "The shop is well known for its wide ___ of imported cheeses.",
+    "id": "p5-840",
+    "sentence": "The charity relies ___ donations from private individuals to fund its programmes.",
     "choices": [
-      "selective",
-      "selected",
-      "select",
-      "selection"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'A wide selection of' means a large variety."
-  },
-  {
-    "id": "p5-217",
-    "sentence": "Customers who sign up before June 30 will ___ a free gift.",
-    "choices": [
-      "receive",
-      "reflect",
-      "reserve",
-      "resolve"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Receive a gift' is the natural collocation."
-  },
-  {
-    "id": "p5-218",
-    "sentence": "The ___ of our products is checked by a team of inspectors.",
-    "choices": [
-      "quality",
-      "quantify",
-      "qualify",
-      "quarrel"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Quality' is what is inspected; 'quality of products' is standard."
-  },
-  {
-    "id": "p5-219",
-    "sentence": "The cosmetics firm launched an ___ range of organic skin-care products.",
-    "choices": [
-      "extension",
-      "extend",
-      "expensively",
-      "extensive"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Extensive' means wide in scope, and an adjective is needed before 'range'."
-  },
-  {
-    "id": "p5-220",
-    "sentence": "Please allow ten days for the order to ___.",
-    "choices": [
-      "arrive",
-      "array",
-      "arise",
-      "arrange"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Arrive' fits an order reaching the customer."
-  },
-  {
-    "id": "p5-221",
-    "sentence": "The restaurant's popularity ___ after it was reviewed in a national newspaper.",
-    "choices": [
-      "soaked",
-      "soared",
-      "soured",
-      "sorted"
+      "in",
+      "on",
+      "at",
+      "for"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Soared' means rose sharply."
-  },
-  {
-    "id": "p5-222",
-    "sentence": "We apologize for the ___ and will refund the full price.",
-    "choices": [
-      "incidence",
-      "inconsistency",
-      "incompetence",
-      "inconvenience"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'We apologize for the inconvenience' is a standard phrase."
-  },
-  {
-    "id": "p5-223",
-    "sentence": "A satisfied customer is more ___ to recommend our services to friends.",
-    "choices": [
-      "likely",
-      "likeness",
-      "liked",
-      "likable"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Be likely to' + verb means probable."
-  },
-  {
-    "id": "p5-224",
-    "sentence": "The company ___ a loyal customer base over many years.",
-    "choices": [
-      "built",
-      "has build",
-      "built up of",
-      "building"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "The simple past 'built' fits with a direct object; the other options are not grammatical here."
-  },
-  {
-    "id": "p5-225",
-    "sentence": "The coupon is ___ for use until the end of the year.",
-    "choices": [
-      "vacant",
-      "valid",
-      "vital",
-      "vague"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Valid' means legally acceptable or usable."
-  },
-  {
-    "id": "p5-226",
-    "sentence": "Our store provides free ___ for all furniture purchases.",
-    "choices": [
-      "assembled",
-      "assembly",
-      "assembling of",
-      "assemble"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Assembly' is a noun for putting together; 'free assembly' is a standard offer."
-  },
-  {
-    "id": "p5-227",
-    "sentence": "The new ad shows the product in a ___ light.",
-    "choices": [
-      "favorable",
-      "favoritism",
-      "favored",
-      "favoring"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'In a favorable light' is a fixed expression."
-  },
-  {
-    "id": "p5-228",
-    "sentence": "The company launched a ___ to attract more online customers.",
-    "choices": [
-      "campaign",
-      "cancel",
-      "campus",
-      "canvas"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "A 'campaign' is a planned set of marketing activities."
-  },
-  {
-    "id": "p5-229",
-    "sentence": "Representatives are available to ___ any questions about your order.",
-    "choices": [
-      "answer",
-      "reply",
-      "respond",
-      "answer to"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Answer' takes a direct object ('questions') without a preposition."
-  },
-  {
-    "id": "p5-230",
-    "sentence": "Customer complaints are ___ handled by our support department.",
-    "choices": [
-      "prompt",
-      "promptly",
-      "prompted",
-      "prompts"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "An adverb is needed before the past participle 'handled'."
-  },
-  {
-    "id": "p5-231",
-    "sentence": "The mall's new tenants will ___ more shoppers to the area.",
-    "choices": [
-      "attempt",
-      "attract",
-      "attend",
-      "attach"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Attract shoppers' means to draw them in."
-  },
-  {
-    "id": "p5-232",
-    "sentence": "A well-known actor will ___ our new line of sports shoes.",
-    "choices": [
-      "endure",
-      "engage in",
-      "enroll",
-      "endorse"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Endorse a product' means to publicly support it for promotion."
-  },
-  {
-    "id": "p5-233",
-    "sentence": "Sales ___ at the store have increased since the new manager arrived.",
-    "choices": [
-      "figures",
-      "figurines",
-      "figured",
-      "figuring"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Sales figures' is a standard noun phrase."
-  },
-  {
-    "id": "p5-234",
-    "sentence": "Our product is ___ to last for at least ten years.",
-    "choices": [
-      "design",
-      "designed",
-      "designer",
-      "designing"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Is designed to' means intended or built to."
-  },
-  {
-    "id": "p5-235",
-    "sentence": "Orders placed after 5 P.M. will be ___ the next business day.",
-    "choices": [
-      "processed",
-      "produced",
-      "pursued",
-      "proceeded"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Orders are 'processed', meaning handled administratively."
-  },
-  {
-    "id": "p5-236",
-    "sentence": "The brand's ___ image has helped it win a loyal following.",
-    "choices": [
-      "distinguish",
-      "distinction",
-      "distinctive",
-      "distinctively"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "An adjective is needed before 'image'; 'distinctive' means unique and recognizable."
-  },
-  {
-    "id": "p5-237",
-    "sentence": "The retailer plans to ___ an online store next spring.",
-    "choices": [
-      "laugh",
-      "lunch",
-      "lurch",
-      "launch"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Launch a store' means to start it."
-  },
-  {
-    "id": "p5-238",
-    "sentence": "Because of ___ demand, the product is currently out of stock.",
-    "choices": [
-      "heighten",
-      "highly",
-      "height",
-      "high"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "An adjective is needed before the noun 'demand'."
-  },
-  {
-    "id": "p5-239",
-    "sentence": "Those who purchase a laptop will ___ a free carrying case.",
-    "choices": [
-      "be given",
-      "have given",
-      "give",
-      "gift to"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Be given' is the passive form that fits 'will' + a free item."
-  },
-  {
-    "id": "p5-240",
-    "sentence": "The store clerk was ___ to help us find the right size.",
-    "choices": [
-      "happen",
-      "happily",
-      "happy",
-      "happiness"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Was happy to' is a standard adjective + infinitive structure."
+    "category": "grammar",
+    "explanation": "'Rely on' is the fixed phrasal verb. The other prepositions are incorrect."
   }
 ]

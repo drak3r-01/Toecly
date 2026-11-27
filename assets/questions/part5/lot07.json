@@ -1,509 +1,522 @@
 [
   {
-    "id": "p5-241",
-    "sentence": "The assembly line will be ___ for maintenance on Saturday.",
+    "id": "p5-841",
+    "sentence": "The company is accountable ___ its shareholders for the decisions of its board.",
     "choices": [
-      "shut down",
-      "shut up",
-      "shut for",
-      "shut in of"
+      "with",
+      "of",
+      "at",
+      "to"
     ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Shut down' means to stop operating."
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Accountable to' a person and 'for' a thing is the correct pattern. The other prepositions are not used."
   },
   {
-    "id": "p5-242",
-    "sentence": "All employees must ___ their passwords every ninety days.",
+    "id": "p5-842",
+    "sentence": "She was commended ___ her outstanding handling of the merger negotiations.",
     "choices": [
-      "channel",
-      "chance",
-      "charge",
-      "change"
+      "with",
+      "for",
+      "by",
+      "on to"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Commended for' is the correct pairing. 'with' and 'by' do not fit, and 'on to' is malformed."
+  },
+  {
+    "id": "p5-843",
+    "sentence": "The new policy is aimed ___ reducing paperwork across all branches.",
+    "choices": [
+      "for to",
+      "on",
+      "with",
+      "at"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Aimed at' + gerund is the correct structure. The other options are wrong."
+  },
+  {
+    "id": "p5-844",
+    "sentence": "The workers were ___ of their right to appeal against the decision.",
+    "choices": [
+      "acquainted",
+      "advised on",
+      "announced",
+      "informed"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Change a password' is the natural collocation."
+    "explanation": "'Informed of' means told about. 'Acquainted' needs 'with', 'announced' is not used with a person as subject, and 'advised on' changes the structure."
   },
   {
-    "id": "p5-243",
-    "sentence": "The technician will ___ the broken printer this afternoon.",
+    "id": "p5-845",
+    "sentence": "Mr. Sato is highly ___ of the proposed changes to the pay structure.",
     "choices": [
-      "repeat",
-      "repel",
-      "repair",
-      "replicate"
+      "critically",
+      "criticised",
+      "criticism",
+      "critical"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Critical of' is an adjective meaning disapproving. The others are a participle, a noun and an adverb."
+  },
+  {
+    "id": "p5-846",
+    "sentence": "Applicants are required to be ___ in at least one foreign language.",
+    "choices": [
+      "fluency",
+      "fluently",
+      "fluent",
+      "fluid"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Repair' means to fix something broken."
+    "category": "grammar",
+    "explanation": "An adjective is needed after 'be'. 'fluency' is a noun, 'fluently' is an adverb, and 'fluid' means flowing."
   },
   {
-    "id": "p5-244",
-    "sentence": "A ___ in the power supply caused the factory to close for two hours.",
+    "id": "p5-847",
+    "sentence": "The new head office is ___ the corner from the central bank.",
     "choices": [
-      "failure",
-      "failed",
-      "fail",
-      "failing of"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'A failure in' is a noun phrase meaning breakdown."
-  },
-  {
-    "id": "p5-245",
-    "sentence": "Please ___ your files to the shared drive before leaving today.",
-    "choices": [
-      "upload",
-      "upset",
-      "uphold",
-      "uproot"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Upload' means to transfer files to a server."
-  },
-  {
-    "id": "p5-246",
-    "sentence": "The plant manager decided to ___ production to meet the rising demand.",
-    "choices": [
-      "increase",
-      "incline",
-      "inquire",
-      "include"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Increase production' means to make more."
-  },
-  {
-    "id": "p5-247",
-    "sentence": "The software update is ___ to improve security.",
-    "choices": [
-      "intensive",
-      "intention",
-      "intending",
-      "intended"
+      "between",
+      "amid",
+      "among",
+      "around"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Is intended to' means is meant to."
+    "explanation": "'Around the corner' is the fixed phrase. The others do not collocate with 'corner'."
   },
   {
-    "id": "p5-248",
-    "sentence": "Users must ___ the new version before the old one expires.",
+    "id": "p5-848",
+    "sentence": "Visitors are ___ to remain within the designated area at all times.",
     "choices": [
+      "requested",
+      "request",
+      "requests",
+      "requesting"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A passive with 'be requested to' is needed. The others are not passive forms."
+  },
+  {
+    "id": "p5-849",
+    "sentence": "The proposal has ___ to be discussed by the board.",
+    "choices": [
+      "just",
+      "yet",
+      "still",
+      "already"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Has yet to be' means has not been so far. 'already', 'still' and 'just' do not fit with 'has... to be'."
+  },
+  {
+    "id": "p5-850",
+    "sentence": "The team has ___ completed the first phase of the construction project.",
+    "choices": [
+      "succeed",
+      "successfully",
+      "successful",
+      "success"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adverb modifies the verb 'completed'. The others are an adjective, a verb and a noun."
+  },
+  {
+    "id": "p5-851",
+    "sentence": "The firm's heavy ___ on a single client left it exposed when that contract ended.",
+    "choices": [
+      "relying",
+      "reliable",
+      "reliance",
+      "reliably"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A noun is required after the adjective 'heavy' and before 'on'. 'reliable' is an adjective, 'reliably' is an adverb, and 'relying' is a participle that cannot follow 'heavy' here."
+  },
+  {
+    "id": "p5-852",
+    "sentence": "Applicants must be able to work ___ with minimal supervision.",
+    "choices": [
+      "independents",
+      "independent",
+      "independently",
+      "independence"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adverb modifies the verb 'work'. 'independent' is an adjective, and 'independence' and 'independents' are nouns."
+  },
+  {
+    "id": "p5-853",
+    "sentence": "The committee's ___ is expected by the end of the week.",
+    "choices": [
+      "decisive",
+      "decisively",
+      "deciding",
+      "decision"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A noun is the subject after the possessive 'committee's'. The others are an adjective, an adverb and a participle."
+  },
+  {
+    "id": "p5-854",
+    "sentence": "Mr. Ahn is widely regarded as the most ___ negotiator in the sector.",
+    "choices": [
+      "skill",
+      "skilfully",
+      "skilful",
+      "skilled to"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A superlative adjective phrase needs an adjective before 'negotiator'. 'skilfully' is an adverb, 'skill' is a noun, and 'skilled to' is malformed."
+  },
+  {
+    "id": "p5-855",
+    "sentence": "The company has shown a strong ___ to sustainable sourcing over the last five years.",
+    "choices": [
+      "commit",
+      "committing",
+      "committed",
+      "commitment"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A noun is needed after 'a strong'. The others are a participle, a gerund and a verb."
+  },
+  {
+    "id": "p5-856",
+    "sentence": "The warranty becomes ___ if the device is opened by an unauthorised technician.",
+    "choices": [
+      "voiding",
+      "avoid",
+      "void",
+      "voided to"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Void' is an adjective meaning invalid after 'becomes'. 'voided to' is malformed, 'voiding' is a gerund, and 'avoid' is a different verb."
+  },
+  {
+    "id": "p5-857",
+    "sentence": "The agency provides ___ advice on tax planning for small enterprises.",
+    "choices": [
+      "experts",
+      "expert",
+      "expertly",
+      "expertise"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'advice'. 'expertly' is an adverb, 'expertise' is a noun, and 'experts' is a plural noun."
+  },
+  {
+    "id": "p5-858",
+    "sentence": "Customers who experience ___ should contact the service line immediately.",
+    "choices": [
+      "difficult",
+      "difficulties",
+      "difficultness",
+      "difficultly"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A plural noun is needed as the object of 'experience'. The others are an adjective, an adverb and a rare noun."
+  },
+  {
+    "id": "p5-859",
+    "sentence": "The audit team's ___ findings led to a complete overhaul of the procedures.",
+    "choices": [
+      "preliminary",
+      "prelude",
+      "preliminaries to",
+      "preliminarily"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'findings'. 'preliminarily' is an adverb, and the others are not adjectives."
+  },
+  {
+    "id": "p5-860",
+    "sentence": "The agreement was reached after ___ negotiations that lasted nearly two months.",
+    "choices": [
+      "protracting",
+      "protraction",
+      "protracted",
+      "protract"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past-participle adjective before 'negotiations' means long and drawn out. The others are a verb, a gerund and a noun."
+  },
+  {
+    "id": "p5-861",
+    "sentence": "The firm is proud of its ___ record in workplace safety.",
+    "choices": [
+      "exemplified",
+      "exemplification",
+      "exemplary",
+      "exemplify"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'record'. The others are a verb, a participle and a noun."
+  },
+  {
+    "id": "p5-862",
+    "sentence": "The merger will result in a ___ larger workforce than either company had before.",
+    "choices": [
+      "significantly",
+      "signify",
+      "significance",
+      "significant"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies the comparative adjective 'larger'. The others are an adjective, a verb and a noun."
+  },
+  {
+    "id": "p5-863",
+    "sentence": "The firm hopes to ___ its share of the Asian market within three years.",
+    "choices": [
+      "expansively",
+      "expansive",
+      "expansion",
+      "expand"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A base verb follows 'to'. The others are an adjective, a noun and an adverb."
+  },
+  {
+    "id": "p5-864",
+    "sentence": "The ___ of the new equipment was delayed by customs clearance problems.",
+    "choices": [
+      "installing",
+      "installation",
       "install",
-      "instruct",
-      "insulate",
-      "instill"
+      "installed"
     ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Install' software means to set it up on a computer."
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A noun is the subject after 'the' and before 'of'. 'install' is a verb, 'installed' a participle, and 'installing' a gerund that cannot take 'the' this way."
   },
   {
-    "id": "p5-249",
-    "sentence": "The factory complies with all environmental ___.",
+    "id": "p5-865",
+    "sentence": "Participants found the workshop highly ___ and asked for a follow-up session.",
     "choices": [
-      "regulations",
-      "regulators",
-      "regulating",
-      "regulars"
+      "informatively",
+      "informer",
+      "informative",
+      "informed to"
     ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Regulations' are official rules."
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adjective follows 'highly' and describes the workshop. The others are an adverb, a noun and a malformed phrase."
   },
   {
-    "id": "p5-250",
-    "sentence": "Inspectors check each product to make sure it ___ safety standards.",
+    "id": "p5-866",
+    "sentence": "The manager was ___ about the delays and demanded an explanation from the contractor.",
     "choices": [
-      "melts",
+      "concerned",
+      "concerning",
+      "concern",
+      "concernedly"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Concerned about' is an adjective meaning worried. 'concerning' means regarding, 'concern' is a noun, and 'concernedly' is rare."
+  },
+  {
+    "id": "p5-867",
+    "sentence": "The department's new ___ system has halved the time needed to process invoices.",
+    "choices": [
+      "automation",
+      "automatically",
+      "automated",
+      "automatic to"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A participial adjective is needed before 'system'. 'automatic to' is malformed, 'automation' is a noun, and 'automatically' is an adverb."
+  },
+  {
+    "id": "p5-868",
+    "sentence": "An ___ review of the safety record is carried out each spring.",
+    "choices": [
+      "anniversary",
+      "annual",
+      "annually",
+      "annals"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'review'. 'annually' is an adverb, 'annals' are records, and 'anniversary' is a noun."
+  },
+  {
+    "id": "p5-869",
+    "sentence": "Several suppliers have failed to ___ the revised specifications.",
+    "choices": [
+      "meet",
+      "meeting",
       "meets",
-      "moves",
-      "means"
+      "met with"
     ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Meets standards' is the standard collocation."
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'To' is followed by the base form. 'met with' and 'meeting' are not base forms, and 'meets' is third person singular."
   },
   {
-    "id": "p5-251",
-    "sentence": "Our new machine can ___ one thousand units per hour.",
+    "id": "p5-870",
+    "sentence": "The firm gave the staff a ___ explanation for the sudden change in schedule.",
     "choices": [
-      "provoke",
-      "profess",
-      "produce",
-      "prove"
+      "plausibilities",
+      "plausibility",
+      "plausibly",
+      "plausible"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'explanation'. The others are an adverb and nouns."
+  },
+  {
+    "id": "p5-871",
+    "sentence": "Mr. Nakamura has been ___ for the company's overseas expansion since 2019.",
+    "choices": [
+      "responsive",
+      "responsible",
+      "responsibly",
+      "responsibility"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Responsible for' is the fixed adjective + preposition. 'responsibly' is an adverb, 'responsibility' is a noun, and 'responsive' means reacting quickly."
+  },
+  {
+    "id": "p5-872",
+    "sentence": "The speaker gave a ___ account of the changes in the global textile market.",
+    "choices": [
+      "conciseness of",
+      "concisely",
+      "concision to",
+      "concise"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'account'. The others are an adverb and malformed nouns."
+  },
+  {
+    "id": "p5-873",
+    "sentence": "The company's ___ in the Asian market has increased steadily since 2018.",
+    "choices": [
+      "presenting",
+      "presently",
+      "presence",
+      "present"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Produce' means to make."
+    "category": "grammar",
+    "explanation": "A noun is required after 'The company's'. The others are an adjective/verb, an adverb and a gerund."
   },
   {
-    "id": "p5-252",
-    "sentence": "The IT department will ___ a backup of the entire database tonight.",
+    "id": "p5-874",
+    "sentence": "Detailed ___ of every transaction must be kept for at least seven years.",
     "choices": [
-      "crease",
-      "credit",
-      "create",
-      "creep"
+      "recorded",
+      "records",
+      "recording to",
+      "recordable"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A plural noun is needed after 'Detailed'. The others are not nouns that fit with 'of every transaction'."
+  },
+  {
+    "id": "p5-875",
+    "sentence": "The firm gave a ___ discount to customers who paid in advance.",
+    "choices": [
+      "generate",
+      "generously",
+      "generous",
+      "generosity"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Create a backup' is the standard collocation."
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'discount'. The others are an adverb, a noun and a verb."
   },
   {
-    "id": "p5-253",
-    "sentence": "The ___ of the machinery requires specialized training.",
+    "id": "p5-876",
+    "sentence": "The agency offers ___ guidance to graduates entering the job market.",
     "choices": [
-      "operation",
-      "operate",
-      "operator's",
-      "operatively"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "After 'the', a noun is needed; 'operation of machinery' is a standard phrase."
-  },
-  {
-    "id": "p5-254",
-    "sentence": "Visitors are not allowed in the ___ area without protective helmets.",
-    "choices": [
-      "restricted",
-      "restrictive",
-      "restricting",
-      "restraint"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Restricted area' means an area with limited access."
-  },
-  {
-    "id": "p5-255",
-    "sentence": "The plant is equipped with the most ___ technology available.",
-    "choices": [
-      "advancement",
-      "advancer",
-      "advancing",
-      "advanced"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Advanced technology' means modern and sophisticated."
-  },
-  {
-    "id": "p5-256",
-    "sentence": "The meeting room is equipped with a ___ so that remote staff can join.",
-    "choices": [
-      "projector",
-      "proctor",
-      "professor",
-      "prospector"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "A 'projector' displays images on a screen."
-  },
-  {
-    "id": "p5-257",
-    "sentence": "Employees should ___ any equipment problems to the maintenance team.",
-    "choices": [
-      "report",
-      "reject",
-      "resort",
-      "retort"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Report a problem' means to tell the responsible person."
-  },
-  {
-    "id": "p5-258",
-    "sentence": "The server was down for two hours, causing a serious ___ to our work.",
-    "choices": [
-      "disruption",
-      "disposal",
-      "distinction",
-      "disrepair"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Disruption' means interruption."
-  },
-  {
-    "id": "p5-259",
-    "sentence": "We have recently ___ our entire network to improve speed.",
-    "choices": [
-      "upheld",
-      "upright",
-      "uplifted",
-      "upgraded"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Upgraded' means improved to a higher standard."
-  },
-  {
-    "id": "p5-260",
-    "sentence": "Please ___ the equipment manual before operating the new drill.",
-    "choices": [
-      "consume",
-      "consult",
-      "console",
-      "consist"
+      "practise",
+      "practical",
+      "practicality",
+      "practically"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Consult a manual' means to refer to it."
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'guidance'. The others are an adverb, a noun and a verb."
   },
   {
-    "id": "p5-261",
-    "sentence": "The new filing system will make documents easier to ___.",
+    "id": "p5-877",
+    "sentence": "Our ___ goal is to increase customer satisfaction by twenty percent this year.",
     "choices": [
-      "retrieve",
-      "retire",
-      "retreat",
-      "retail"
+      "primacy to",
+      "primary",
+      "prime of",
+      "primarily"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adjective is needed before 'goal'. 'primarily' is an adverb, and the others are malformed."
+  },
+  {
+    "id": "p5-878",
+    "sentence": "The research was conducted ___ by a team of external economists.",
+    "choices": [
+      "independently",
+      "independent",
+      "independents",
+      "independence"
     ],
     "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Retrieve documents' means to get them back from storage."
+    "category": "grammar",
+    "explanation": "An adverb modifies 'conducted'. The others are an adjective and nouns."
   },
   {
-    "id": "p5-262",
-    "sentence": "To ___ costs, the factory switched to energy-efficient lighting.",
+    "id": "p5-879",
+    "sentence": "She was ___ to find that the report had been completed ahead of schedule.",
     "choices": [
-      "deduce",
-      "redeem",
-      "reduce",
-      "produce"
+      "delighting",
+      "delightful",
+      "delighted",
+      "delight"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Reduce costs' means to make them lower."
+    "category": "grammar",
+    "explanation": "'Delighted' is a participial adjective describing a person's feeling. 'delightful' describes things, 'delight' is a noun, and 'delighting' is active."
   },
   {
-    "id": "p5-263",
-    "sentence": "The company is ___ a new warehouse near the port.",
+    "id": "p5-880",
+    "sentence": "The restaurant is ___ for its attentive service and seasonal menu.",
     "choices": [
-      "construction",
-      "constructing",
-      "constructive",
-      "constructor"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Is constructing' is the present continuous of a direct-object verb."
-  },
-  {
-    "id": "p5-264",
-    "sentence": "Because the part was ___, the shipment was sent back to the supplier.",
-    "choices": [
-      "defect",
-      "defective",
-      "defection",
-      "defending"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Defective' means faulty."
-  },
-  {
-    "id": "p5-265",
-    "sentence": "The printing machine is ___ for producing large posters.",
-    "choices": [
-      "idol",
-      "ideal",
-      "idle",
-      "ideally"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Ideal for' means perfectly suited to."
-  },
-  {
-    "id": "p5-266",
-    "sentence": "All new employees must attend a ___ session on workplace safety.",
-    "choices": [
-      "mandating",
-      "mandate",
-      "mandarin",
-      "mandatory"
+      "renowning",
+      "renowns",
+      "renown to",
+      "renowned"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Mandatory session' means a required session."
-  },
-  {
-    "id": "p5-267",
-    "sentence": "Only authorized personnel may ___ the control room.",
-    "choices": [
-      "entering",
-      "entrance",
-      "entry to",
-      "enter"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Enter' is a transitive verb needing no preposition; 'may' needs a base verb."
-  },
-  {
-    "id": "p5-268",
-    "sentence": "The company's ___ of new materials has lowered production costs.",
-    "choices": [
-      "usable",
-      "use",
-      "user",
-      "useful"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'The use of' is a noun phrase meaning employment of."
-  },
-  {
-    "id": "p5-269",
-    "sentence": "The assembly team works in ___ shifts to keep the plant running day and night.",
-    "choices": [
-      "rotary",
-      "rotation",
-      "rotating",
-      "rotated by"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Rotating shifts' means shifts that change regularly."
-  },
-  {
-    "id": "p5-270",
-    "sentence": "After the ___ was completed, the machine was returned to service.",
-    "choices": [
-      "inspect",
-      "inspector",
-      "inspective",
-      "inspection"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "After 'the', a noun naming the event is needed."
-  },
-  {
-    "id": "p5-271",
-    "sentence": "Please ___ the box carefully because it contains fragile items.",
-    "choices": [
-      "hamper",
-      "handy",
-      "hang",
-      "handle"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Handle' means to touch or move with care."
-  },
-  {
-    "id": "p5-272",
-    "sentence": "Employees must ___ the manufacturer's instructions when using the equipment.",
-    "choices": [
-      "fellow",
-      "following to",
-      "follower",
-      "follow"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Follow instructions' is a standard collocation."
-  },
-  {
-    "id": "p5-273",
-    "sentence": "The factory's output has remained ___ over the past three years.",
-    "choices": [
-      "steadily",
-      "stead",
-      "steadiness",
-      "steady"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "After 'has remained', an adjective is needed."
-  },
-  {
-    "id": "p5-274",
-    "sentence": "The company uses ___ materials whenever possible to protect the environment.",
-    "choices": [
-      "recycles",
-      "recycle",
-      "recycling",
-      "recycled"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Recycled materials' means materials that have been reused."
-  },
-  {
-    "id": "p5-275",
-    "sentence": "The data ___ was caused by an outdated security system.",
-    "choices": [
-      "breadth",
-      "breach",
-      "breed",
-      "breath"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A 'data breach' is an unauthorized access to information."
-  },
-  {
-    "id": "p5-276",
-    "sentence": "The warehouse is organized so that goods can be ___ easily.",
-    "choices": [
-      "locating",
-      "locations",
-      "locates",
-      "located"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Be located' is a passive form meaning found."
-  },
-  {
-    "id": "p5-277",
-    "sentence": "All shipments must be ___ with the correct address labels.",
-    "choices": [
-      "marking",
-      "mark of",
-      "markedly",
-      "marked"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Be marked with' means labeled."
-  },
-  {
-    "id": "p5-278",
-    "sentence": "The system will automatically ___ a warning when the temperature rises too high.",
-    "choices": [
-      "issuing",
-      "issued by",
-      "issue",
-      "issues"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "After 'will', the base form 'issue' (to give out) is needed."
-  },
-  {
-    "id": "p5-279",
-    "sentence": "The new ___ will allow staff to access the files from home.",
-    "choices": [
-      "softer",
-      "software",
-      "softly",
-      "softness"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Software' is the noun that fits 'the new ___ will allow'."
+    "category": "grammar",
+    "explanation": "'Renowned for' is a participial adjective meaning famous. The others are malformed or the wrong form."
   }
 ]
