@@ -1,0 +1,483 @@
+[
+  {
+    "id": "p7-154",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Harbour restaurant bets on slow service",
+        "text": "When Tomas Lindgren opened Tideline, a seafood restaurant on the old fish quay, he made a decision that most of his peers thought reckless: there would be no lunch service, no takeaway counter and no more than thirty covers each evening. [A] Two years on, the restaurant has a waiting list of several weeks and was recently named the best new venue in the county guide.\n\nMr. Lindgren explains that the limit on customers is deliberate. \"If you only serve thirty people, you can buy everything the same morning from the boats and throw nothing away,\" he says. [B] The menu changes daily according to the catch, and the kitchen employs only five people, all of whom are paid above the industry average. He believes that well-rested staff make fewer mistakes and stay longer, which offsets the loss of revenue from shorter opening hours.\n\nNot everyone approves. Some local residents had hoped for an affordable place where families could eat after school, and the restaurant's tasting menu, at 85 dollars, is out of reach for many. [C] Mr. Lindgren acknowledges the criticism and has begun offering a limited number of half-price tables on Monday evenings to residents of the quay district. [D] He insists, however, that he will not expand. \"Growth was never the goal,\" he says. \"Doing a small thing properly was.\""
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "A fishing industry is struggling to find new customers",
+          "A small restaurant has succeeded by deliberately staying small",
+          "A chef has opened several venues along the coast",
+          "A county guide has changed its way of rating places"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article shows how Tideline's limits on customers and hours have contributed to its success. The other options are not discussed."
+      },
+      {
+        "prompt": "According to Mr. Lindgren, what is the advantage of serving few customers?",
+        "category": "detail",
+        "choices": [
+          "Prices can be reduced for local families",
+          "The kitchen can stay open during lunchtime",
+          "Fewer boats are needed to supply the menu",
+          "Ingredients can be purchased fresh each day with no waste"
+        ],
+        "answerIndex": 3,
+        "explanation": "He says that with thirty people he can buy everything the same morning and throw nothing away."
+      },
+      {
+        "prompt": "The word \"offsets\" in paragraph 2 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "compensates for",
+          "adds to",
+          "comes before",
+          "moves away from"
+        ],
+        "answerIndex": 0,
+        "explanation": "Better-rested, longer-serving staff balance out the money lost because of shorter hours, so 'offsets' means compensates for."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"This price, he admits, puts the restaurant beyond the budget of many who live nearby.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence refers to a price, which is the 85-dollar tasting menu mentioned just before [C]. It also leads naturally into his acknowledgement of the criticism."
+      }
+    ]
+  },
+  {
+    "id": "p7-155",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Employee engagement survey: key findings",
+        "text": "To: Department heads\nFrom: Priyanka Desai, Human Resources\nRe: Results of the annual survey\n\nThe annual engagement survey closed on 30 September with a response rate of 78 percent, up from 64 percent last year. The increase is largely attributable to the decision to allow staff to complete the questionnaire during working hours. Overall satisfaction stands at 71 percent, a modest improvement, but the results vary considerably between departments.\n\nThree findings deserve your attention. First, employees in Customer Service and Logistics were markedly less positive about workload than other staff; more than half stated that they regularly work beyond their contracted hours. Second, respondents across the company welcomed the introduction of flexible start times, which was the single most praised policy. Third, only 39 percent agreed that they had received useful feedback in the past six months, the lowest score in the survey and a decline from last year.\n\nHR will meet each department head in the first two weeks of November to agree on priorities. We ask that you do not share departmental figures with your teams before these meetings, as we wish to present a consistent message. A summary for all staff will be published on the intranet on 20 November, and a pilot scheme for quarterly feedback conversations will be proposed for the first half of next year."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the memo?",
+        "category": "purpose",
+        "choices": [
+          "To ask employees to complete a questionnaire",
+          "To announce a reduction in working hours",
+          "To report survey outcomes and prepare managers for follow-up",
+          "To propose changes to flexible start times"
+        ],
+        "answerIndex": 2,
+        "explanation": "The memo summarizes results to department heads and arranges meetings. The survey is already closed, and flexible start times are praised, not changed."
+      },
+      {
+        "prompt": "Why did more people take part this year?",
+        "category": "detail",
+        "choices": [
+          "They were offered a reward for taking part",
+          "The questionnaire was made shorter than before",
+          "They were allowed to respond while at work",
+          "Managers reminded them of it every single week"
+        ],
+        "answerIndex": 2,
+        "explanation": "The increase is attributed to allowing staff to complete the questionnaire during working hours."
+      },
+      {
+        "prompt": "What is NOT stated about the survey?",
+        "category": "not_true",
+        "choices": [
+          "Satisfaction fell in most departments",
+          "Feedback received a low score",
+          "Flexible hours were popular with respondents",
+          "Some teams reported working extra hours"
+        ],
+        "answerIndex": 0,
+        "explanation": "Overall satisfaction improved modestly; it is not said to have fallen in most departments. The other statements are in the memo."
+      },
+      {
+        "prompt": "What are department heads asked to do?",
+        "category": "detail",
+        "choices": [
+          "Hold feedback conversations every quarter",
+          "Publish the summary on the intranet",
+          "Review the workload of Logistics employees",
+          "Wait before telling staff about their own results"
+        ],
+        "answerIndex": 3,
+        "explanation": "They must not share departmental figures with teams before the HR meetings."
+      }
+    ]
+  },
+  {
+    "id": "p7-156",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Software update notice: TaskFlow version 5.2",
+        "text": "Version 5.2 of TaskFlow will be released on Tuesday 9 June between 1 a.m. and 4 a.m. (Eastern Time), during which the service will be unavailable. We recommend that you save your work and log out by midnight on Monday.\n\nWhat is new: a redesigned calendar view that shows deadlines from several projects in a single screen; the option to assign one task to multiple people; and a faster search tool that also looks inside attached files. The mobile application has been updated to support these features and should be installed through your usual app store once the release is complete.\n\nWhat is changing: the old \"Reports\" menu has been merged into \"Insights,\" and some saved reports may appear under new names. Reports will not be lost, but you may need to recreate any filters that used custom fields. Integration with the Calibre calendar tool will end on 30 June; customers who rely on it should switch to the standard calendar export described in our help center.\n\nIf you encounter problems after the update, please contact support through the in-app chat, which is available around the clock, rather than by e-mail, where replies may take up to two days. Administrators can find a detailed list of changes in the release notes."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the notice mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "A temporary shutdown of a mobile network",
+          "The arrival of an upgraded version of a program",
+          "A change in the support team's opening hours",
+          "The end of a subscription for all customers"
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice announces version 5.2, describing new features, changes and downtime."
+      },
+      {
+        "prompt": "What are users advised to do before the update?",
+        "category": "detail",
+        "choices": [
+          "Download the release notes in advance",
+          "Save what they are working on and sign out",
+          "Install the new mobile application first",
+          "Recreate all of their custom filters"
+        ],
+        "answerIndex": 1,
+        "explanation": "They are told to save their work and log out by midnight on Monday."
+      },
+      {
+        "prompt": "What will users of the Calibre tool eventually have to do?",
+        "category": "inference",
+        "choices": [
+          "Ask support to extend the integration for them",
+          "Pay an additional fee to keep the service",
+          "Wait for a special version to be released later",
+          "Find another way to use their calendar data"
+        ],
+        "answerIndex": 3,
+        "explanation": "The integration ends on 30 June and customers should use the standard calendar export."
+      },
+      {
+        "prompt": "Which is the fastest way to receive help after the update?",
+        "category": "detail",
+        "choices": [
+          "Writing to support in the app",
+          "Sending an e-mail to the support team",
+          "Reading the detailed release notes online",
+          "Contacting an administrator of the account"
+        ],
+        "answerIndex": 0,
+        "explanation": "In-app chat is available around the clock, whereas e-mail replies may take two days."
+      }
+    ]
+  },
+  {
+    "id": "p7-157",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Request for catering quotation",
+        "text": "To: Seaview Catering\nFrom: Beatriz Moreno, Events Coordinator, Altura Biotech\nSubject: Quotation for annual partners' dinner\n\nDear Seaview Catering,\n\nWe are organizing our annual partners' dinner on Saturday 18 October at the Harbour Pavilion and would like a quotation for approximately 120 guests. We would like a three-course menu with a vegetarian option and at least two dishes that are free of gluten. Service should begin at 7:30 p.m., and the venue will be available for setup from 3 p.m. We would also appreciate a recommendation for non-alcoholic drinks, since several guests do not drink alcohol. Our budget is around 55 dollars per person, including service.\n\nCould you let us know by 15 September whether you are available and what you would propose?\n\nKind regards,\nBeatriz Moreno"
+      },
+      {
+        "type": "email",
+        "title": "Quotation: Altura Biotech partners' dinner",
+        "text": "Dear Ms. Moreno,\n\nThank you for thinking of Seaview Catering. We are available on 18 October and would be delighted to cater your dinner. Our proposal is a three-course menu: a roasted pumpkin soup or smoked trout to begin, a main course of herb-crusted lamb, sea bass or a mushroom and chestnut wellington, and a choice of two desserts. Both the soup and the sea bass are gluten-free, and the wellington is vegetarian.\n\nThe price is 58 dollars per person for the set menu, including service, plus 9 dollars per person for a package of non-alcoholic cocktails and juices. Because the Pavilion's kitchen is small, we would need to bring our own equipment, which carries a flat charge of 600 dollars. A deposit of 30 percent is required to confirm the booking.\n\nIf you would like to adjust the price, we could replace the lamb with a chicken dish, which would reduce the cost by 4 dollars per person.\n\nSincerely,\nLuca Ferraro, Seaview Catering"
+      },
+      {
+        "type": "email",
+        "title": "Re: Quotation",
+        "text": "Dear Mr. Ferraro,\n\nThank you for the proposal. We would like to proceed with the chicken option and the non-alcoholic package, but the guest list is now 110 rather than 120. Could you confirm the new total and send the details of the deposit? Please also note that setup will now begin at 2 p.m., since the venue has asked us to vacate by 11 p.m. instead of midnight.\n\nRegards,\nBeatriz Moreno"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of Ms. Moreno's first e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To complain about the service at a dinner",
+          "To invite a caterer to a partners' dinner",
+          "To ask a company to propose a price for an event",
+          "To cancel a reservation made earlier"
+        ],
+        "answerIndex": 2,
+        "explanation": "She requests a quotation for the partners' dinner, giving numbers, menu requirements and a budget."
+      },
+      {
+        "prompt": "What will be different about the event in the final arrangements?",
+        "category": "inference",
+        "choices": [
+          "The dinner will begin an hour later than planned",
+          "The venue will open from the morning onward",
+          "The evening will have to finish an hour earlier",
+          "More guests than planned will be present"
+        ],
+        "answerIndex": 2,
+        "explanation": "The venue now asks the group to leave by 11 p.m. instead of midnight, and the guest list has fallen to 110."
+      },
+      {
+        "prompt": "By how much does the set menu alone exceed Ms. Moreno's budget in the first quotation?",
+        "category": "inference",
+        "choices": [
+          "3 dollars",
+          "4 dollars",
+          "9 dollars",
+          "12 dollars"
+        ],
+        "answerIndex": 0,
+        "explanation": "The set menu costs 58 dollars per person including service, while her budget is 55 dollars, so it is 3 dollars over."
+      },
+      {
+        "prompt": "What will be the cost per person after Ms. Moreno's choices?",
+        "category": "inference",
+        "choices": [
+          "54 dollars",
+          "58 dollars",
+          "67 dollars",
+          "63 dollars"
+        ],
+        "answerIndex": 3,
+        "explanation": "The set menu with chicken costs 58 - 4 = 54 dollars, plus 9 dollars for the non-alcoholic package, giving 63 dollars."
+      },
+      {
+        "prompt": "What is mentioned about the preparation of food at the venue?",
+        "category": "detail",
+        "choices": [
+          "The kitchen has been closed for repairs",
+          "The caterer must bring its own cooking equipment",
+          "The Pavilion will provide the staff for service",
+          "Guests must bring their own drinks"
+        ],
+        "answerIndex": 1,
+        "explanation": "The Pavilion's kitchen is small, so Seaview must bring equipment, which carries a flat charge of 600 dollars."
+      }
+    ]
+  },
+  {
+    "id": "p7-158",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Ridgeway Outdoor Supplies: Return policy",
+        "text": "We want you to be satisfied with every purchase. Most items may be returned within 45 days of delivery for a full refund, provided they are unused and in their original packaging. Footwear may be tried indoors, but shoes showing signs of outdoor wear cannot be accepted. Tents and sleeping bags must be returned unwashed and free of odors; items that have been used for camping are not eligible for a refund but may be considered for repair under our warranty.\n\nTo return an item, log in to your account and print the prepaid label. Refunds are made to the original payment method within seven working days of receiving the parcel. Return shipping is free for orders over 100 dollars; for smaller orders a fee of 6 dollars is deducted from the refund. Custom-engraved products and clearance items marked 'final sale' cannot be returned."
+      },
+      {
+        "type": "email",
+        "title": "Problem with my order #44-3190",
+        "text": "Dear Ridgeway,\n\nI received my hiking boots, size 43, three weeks ago. After wearing them indoors for a few days, I realize that they are too narrow. Unfortunately, I also wore them for a short walk to the post office, and they have some mud on the soles. The order total was 94 dollars. I would like to return them, or exchange them for the wide version if you have it.\n\nThank you,\nEvelyn Cho"
+      },
+      {
+        "type": "online_chat",
+        "title": "Ridgeway live chat",
+        "text": "Customer service (Joel): Hello, Ms. Cho. I've read your message. Unfortunately, because the boots have been worn outdoors, we cannot offer a refund. However, I can offer something for you. We have the wide version in size 43 in stock. If you send the narrow pair back, I can arrange an exchange at a 20 percent discount on the wide pair as a courtesy, given that the walk was brief.\nEvelyn Cho: That's generous. Will I need to pay for shipping?\nCustomer service (Joel): Since this is an exchange rather than a return for refund, the label will be free of charge. I'll e-mail it now. The new boots will be sent when we receive the old ones, which usually takes four to five days."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Ms. Cho's main problem?",
+        "category": "main_idea",
+        "choices": [
+          "Her order was delivered to the wrong address",
+          "Her new boots do not fit properly",
+          "The boots she received are the wrong color",
+          "She was charged twice for her purchase"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says the boots are too narrow and wants to return or exchange them."
+      },
+      {
+        "prompt": "Why can Ms. Cho NOT receive a refund?",
+        "category": "detail",
+        "choices": [
+          "Her order was below 100 dollars",
+          "She did not log in to her account",
+          "More than 45 days have passed",
+          "She has used the footwear outside"
+        ],
+        "answerIndex": 3,
+        "explanation": "Shoes showing outdoor wear cannot be accepted; she has worn them outside, and three weeks is within the 45-day limit."
+      },
+      {
+        "prompt": "What does Joel propose?",
+        "category": "detail",
+        "choices": [
+          "Swapping them for a wider pair at a discount",
+          "Repairing the boots under the warranty plan",
+          "Refunding half of the price they were paid",
+          "Sending a new pair of exactly the same size"
+        ],
+        "answerIndex": 0,
+        "explanation": "He offers an exchange for the wide version at a 20 percent discount as a courtesy."
+      },
+      {
+        "prompt": "How much will Ms. Cho most likely pay for the wide pair, if its price equals the narrow pair's?",
+        "category": "inference",
+        "choices": [
+          "About 6 dollars",
+          "About 94 dollars",
+          "About 75 dollars",
+          "About 100 dollars"
+        ],
+        "answerIndex": 2,
+        "explanation": "A 20 percent discount on 94 dollars is about 18.80, leaving about 75 dollars."
+      },
+      {
+        "prompt": "What does Joel imply about the offer?",
+        "category": "inference",
+        "choices": [
+          "It applies to all customers who return footwear",
+          "It is available only for orders over 100 dollars",
+          "It goes beyond what the written policy requires",
+          "It has to be approved by a warranty department"
+        ],
+        "answerIndex": 2,
+        "explanation": "He calls it a courtesy, given that the policy does not allow refunds for boots worn outdoors."
+      }
+    ]
+  },
+  {
+    "id": "p7-159",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter of recommendation",
+        "text": "To whom it may concern,\n\nI am pleased to recommend Ayesha Karim for the position of Production Supervisor at your Dunmore facility. I have been Ms. Karim's manager at Westfield Packaging for six years, during which she rose from machine operator to shift leader, and I can say without hesitation that she is one of the most dependable people I have supervised.\n\nMs. Karim's greatest strength is her ability to remain calm when schedules are disrupted. Last winter, when a supplier delivered the wrong materials during our busiest month, she reorganized the line within hours and avoided any delay to our customers. She also took the initiative to introduce a weekly briefing in which operators identify safety hazards, and the number of minor accidents in her unit has fallen by a third as a result.\n\nIf I have one reservation, it is that Ms. Karim sometimes hesitates to delegate, preferring to check details herself. She is aware of this and has recently completed a course in team leadership. I believe a role with a larger team will help her develop further. We will be sorry to lose her, but she deserves the opportunity.\n\nSincerely,\nThomas Berg, Operations Manager"
+      },
+      {
+        "type": "job_ad",
+        "title": "Production Supervisor, Dunmore",
+        "text": "Hartley Foods seeks a Production Supervisor to manage a team of 25 operators on rotating shifts. The ideal candidate has five years of experience in a manufacturing environment, including two in a leadership role, and a proven record in health and safety. The supervisor will be responsible for scheduling, monitoring output and handling disputes. Applicants should be able to demonstrate how they have improved efficiency or reduced incidents. Applications close on 3 November, and interviews will take place in the week of 17 November at the Dunmore facility. Candidates will be asked to describe a situation in which they had to manage a conflict within a team, and to explain what they learned from it. The company offers a relocation allowance, a pension plan and thirty days of paid annual leave."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To support a person's application for a new job",
+          "To announce the promotion of an employee",
+          "To describe changes to a production line",
+          "To explain why a supplier made a mistake"
+        ],
+        "answerIndex": 0,
+        "explanation": "Mr. Berg recommends Ms. Karim for the Production Supervisor position."
+      },
+      {
+        "prompt": "What example does Mr. Berg give of Ms. Karim's calmness?",
+        "category": "detail",
+        "choices": [
+          "She resolved a dispute between two operators",
+          "She trained a replacement for a colleague",
+          "She negotiated a better price with a supplier",
+          "She quickly rearranged production after a wrong delivery"
+        ],
+        "answerIndex": 3,
+        "explanation": "When a supplier delivered the wrong materials, she reorganized the line within hours."
+      },
+      {
+        "prompt": "What does Mr. Berg suggest about Ms. Karim?",
+        "category": "inference",
+        "choices": [
+          "She is unwilling to move to a new facility",
+          "She likes to supervise tasks closely",
+          "She has little experience of safety procedures",
+          "She has been asked to leave Westfield Packaging"
+        ],
+        "answerIndex": 1,
+        "explanation": "He says she hesitates to delegate and prefers to check details herself."
+      },
+      {
+        "prompt": "Which requirement in the ad does Ms. Karim's accident record best match?",
+        "category": "inference",
+        "choices": [
+          "Experience with scheduling rotating shifts",
+          "A proven record in health and safety",
+          "Five years in a manufacturing environment",
+          "Management of a team of 25 operators"
+        ],
+        "answerIndex": 1,
+        "explanation": "The fall of one third in minor accidents from her weekly briefings shows a record in health and safety. The other points are not evidenced."
+      },
+      {
+        "prompt": "Why does Mr. Berg mention the course in team leadership?",
+        "category": "inference",
+        "choices": [
+          "To explain why she wants to leave her post",
+          "To prove she can manage a team of 25 people",
+          "To suggest she has already been promoted",
+          "To show she is addressing a weakness he noted"
+        ],
+        "answerIndex": 3,
+        "explanation": "He mentions her hesitation to delegate and then says she has recently completed a leadership course, showing she is working on the problem."
+      }
+    ]
+  },
+  {
+    "id": "p7-160",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Cycling commuters set to gain a new route",
+        "text": "The city council has approved funding for a two-kilometer protected cycle path along Ferris Road, one of the busiest arteries in the northern suburbs. Construction is due to start in March and will be completed by September, provided the winter is not unusually harsh. The path will be separated from motor traffic by a raised curb and will include dedicated signals at five intersections.\n\nThe project has drawn support from a coalition of employers, including the hospital and two large insurance firms, who argue that safer cycling will ease parking pressure on their sites. Opponents, mainly shop owners along the road, fear that the loss of twenty-six on-street parking spaces will harm trade. The council has responded by promising a review after twelve months and by offering to extend deliveries hours for affected businesses.\n\nTransport officer Mina Haddad says that a trial last year, in which a temporary lane was marked with paint, increased the number of cyclists by forty percent. She concedes, however, that the figure was recorded in summer and that numbers might be lower during winter months. \"We are not trying to force anyone out of their car,\" she says. \"We are trying to make the alternative more attractive.\""
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "According to the article, who has backed the project?",
+        "category": "detail",
+        "choices": [
+          "Several large organizations in the area",
+          "Most of the shop owners on the road",
+          "The drivers who use the road each day",
+          "A group of residents of the northern suburbs"
+        ],
+        "answerIndex": 0,
+        "explanation": "A coalition of employers including the hospital and two insurance firms support it; shop owners oppose it."
+      },
+      {
+        "prompt": "What is a concern of the shop owners?",
+        "category": "detail",
+        "choices": [
+          "Delivery vehicles will be banned from the road",
+          "The path will be built far too slowly",
+          "Customers may have fewer places to leave cars",
+          "Cyclists will not use the new protected lane"
+        ],
+        "answerIndex": 2,
+        "explanation": "They fear the loss of twenty-six parking spaces will harm trade."
+      },
+      {
+        "prompt": "What does Ms. Haddad admit about the trial?",
+        "category": "inference",
+        "choices": [
+          "It was carried out without council approval",
+          "It increased traffic at several intersections",
+          "Its positive result may not hold throughout the year",
+          "It was too short to produce any data"
+        ],
+        "answerIndex": 2,
+        "explanation": "She concedes that the 40 percent increase was recorded in summer and might be lower in winter."
+      },
+      {
+        "prompt": "The phrase \"drawn support\" in paragraph 2 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "attracted backing",
+          "pulled apart",
+          "taken money",
+          "sketched out"
+        ],
+        "answerIndex": 0,
+        "explanation": "The project has gained the support of a group of employers, so it has 'attracted backing'."
+      }
+    ]
+  }
+]

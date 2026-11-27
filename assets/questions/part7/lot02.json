@@ -1,0 +1,548 @@
+[
+  {
+    "id": "p7-139",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Voluntary recall: Brightcook pressure cookers, model BC-6",
+        "text": "Brightcook Appliances is issuing a voluntary recall of its six-liter BC-6 pressure cooker, sold between January and August of this year. During routine testing, our engineers discovered that the locking mechanism on a small number of units may not fully engage when the lid is closed, which could allow steam to escape unexpectedly. No injuries have been reported, but we are taking this step as a precaution.\n\nAffected units can be identified by the batch code printed on the underside of the base, which begins with the letters KR. Customers who own a cooker with this code should stop using it immediately. Owners may choose between a free replacement lid with a redesigned lock or a full refund of the purchase price; proof of purchase is not required for either option, although customers who bought through a retailer will be asked to give the store's name.\n\nTo arrange a replacement or refund, visit the recall page on our Web site or call our dedicated line, open weekdays from 8 a.m. to 8 p.m. Replacement lids will be shipped within ten working days of the request. Units with batch codes beginning with other letters are not affected and may continue to be used normally. We sincerely regret the inconvenience."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the notice?",
+        "category": "purpose",
+        "choices": [
+          "To announce a redesigned model that is now on sale",
+          "To ask owners of a product to stop using it and claim a remedy",
+          "To report injuries linked to the use of a kitchen product",
+          "To thank customers who returned a faulty appliance"
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice recalls the BC-6 cooker, tells owners to stop using affected units and offers a lid or a refund. No injuries are reported and no new model is announced."
+      },
+      {
+        "prompt": "How can a customer know whether a cooker is affected?",
+        "category": "detail",
+        "choices": [
+          "By checking the date written on the original receipt",
+          "By testing whether the lid closes on the first attempt",
+          "By looking for a stamp on the side of the handle",
+          "By reading a code located on the bottom of the base"
+        ],
+        "answerIndex": 3,
+        "explanation": "Affected units carry a batch code beginning with KR printed on the underside of the base."
+      },
+      {
+        "prompt": "What is NOT mentioned as a possible solution for owners?",
+        "category": "not_true",
+        "choices": [
+          "A voucher to be used on other Brightcook products",
+          "Receiving a new lid with a different locking system",
+          "Getting back the money spent on the appliance",
+          "Contacting the company by telephone on weekdays"
+        ],
+        "answerIndex": 0,
+        "explanation": "The remedies are a redesigned lid or a refund. A voucher is never offered."
+      },
+      {
+        "prompt": "What is implied about customers who lost their receipt?",
+        "category": "inference",
+        "choices": [
+          "They must first return the cooker to the retailer",
+          "They are not covered by the recall offer",
+          "They can still obtain a replacement or a refund",
+          "They will wait longer than ten working days"
+        ],
+        "answerIndex": 2,
+        "explanation": "The notice states that proof of purchase is not required for either option, so a missing receipt is not an obstacle."
+      }
+    ]
+  },
+  {
+    "id": "p7-140",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why the museum went quiet",
+        "text": "When the Calder Maritime Museum reopened last spring after a two-year closure, its director, Elena Voss, took an unusual decision: the galleries would no longer play recorded commentary or background music. Instead, visitors are handed a small booklet and invited to look slowly. The move surprised many in the industry, where audio guides and interactive screens have become standard features of any ambitious exhibition.\n\nMs. Voss says the idea grew out of a visitor survey conducted before the renovation. Respondents had complained that they left the museum remembering the devices more than the objects, and several admitted that they had spent most of their visit looking at a screen. \"We were competing with the exhibits ourselves,\" she says. Staff were retrained as \"gallery companions,\" available to answer questions but instructed not to lecture.\n\nEarly figures are encouraging. Average visits have lengthened from fifty to seventy minutes, and sales in the shop have risen by nine percent, although the museum acknowledges that the increase may partly reflect ticket price reductions introduced at the same time. Critics point out that visitors with hearing or sight difficulties may feel less supported. The museum has said it will keep large-print booklets and a limited number of audio devices available on request, and will review the policy after twelve months."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The cost of renovating a historic maritime building",
+          "A new type of guide used by industry professionals",
+          "A museum's decision to reduce technology in its galleries",
+          "A survey comparing visitors from different countries"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explains why Calder Maritime Museum removed audio commentary and screens and describes the results. Renovation costs and international surveys are not discussed."
+      },
+      {
+        "prompt": "According to Ms. Voss, why were the changes introduced?",
+        "category": "detail",
+        "choices": [
+          "Visitors said gadgets distracted them from what was on display",
+          "Staff were unwilling to explain exhibits to the public",
+          "The museum could not afford to maintain the equipment",
+          "The reopening required a lower noise level in the rooms"
+        ],
+        "answerIndex": 0,
+        "explanation": "The survey showed people remembered the devices more than the objects; Ms. Voss says the museum was 'competing with the exhibits'."
+      },
+      {
+        "prompt": "The word \"acknowledges\" in paragraph 3 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "announces",
+          "denies",
+          "requires",
+          "admits"
+        ],
+        "answerIndex": 3,
+        "explanation": "The museum recognizes that the rise in sales may be partly due to cheaper tickets, so it admits a possible alternative explanation."
+      },
+      {
+        "prompt": "What can be inferred about the museum's new policy?",
+        "category": "inference",
+        "choices": [
+          "It has been withdrawn after complaints from critics",
+          "It is regarded as an experiment that may be altered",
+          "It applies only to visitors who do not buy tickets",
+          "It was copied from a policy adopted abroad"
+        ],
+        "answerIndex": 1,
+        "explanation": "The museum will review the policy after twelve months and keeps some devices on request, which implies it can still be changed."
+      }
+    ]
+  },
+  {
+    "id": "p7-141",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Review: Aldermere Conference Hotel",
+        "text": "Posted by Karin W. · Three stars\n\nI organized a three-day sales meeting for sixty people at the Aldermere and, overall, the experience was mixed. The hotel's location near the airport was a real asset, since half of our guests arrived by plane and the free shuttle ran every twenty minutes. Check-in for the group was handled efficiently by the front desk, and the rooms were spotless, if rather small.\n\nThe conference facilities were another matter. The main hall had excellent acoustics, but the projector failed twice on the first morning and it took more than half an hour for a technician to appear. When I raised the problem with the events manager, the response was polite but vague; no compensation was offered until I asked for it directly, at which point we were given a modest discount on the coffee breaks.\n\nFood was a highlight. The chef adapted menus at short notice for guests with dietary restrictions, and the lunches were varied and generous. Where the hotel could improve is in the evening: the restaurant closed at nine, leaving guests who attended late sessions with few options. I would consider returning, but only if the technical support team were reorganized and a written guarantee on equipment was included in the contract."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the review?",
+        "category": "purpose",
+        "choices": [
+          "To compare several hotels located near an airport",
+          "To assess a venue after holding a business event",
+          "To complain about the cost of a large group booking",
+          "To advise future guests on arriving by plane"
+        ],
+        "answerIndex": 1,
+        "explanation": "Karin W. describes strengths and weaknesses of the hotel after organizing a three-day meeting. She does not compare hotels or focus on cost."
+      },
+      {
+        "prompt": "What does Karin W. say about the first morning?",
+        "category": "detail",
+        "choices": [
+          "The shuttle service arrived late at the airport",
+          "The rooms were not ready for the sixty guests",
+          "The chef refused to adapt the breakfast menu",
+          "A piece of equipment broke down and help was slow"
+        ],
+        "answerIndex": 3,
+        "explanation": "The projector failed twice and it took more than half an hour for a technician to arrive."
+      },
+      {
+        "prompt": "What is suggested about the hotel's management?",
+        "category": "inference",
+        "choices": [
+          "It acted on a complaint only after being pressed",
+          "It gave an immediate refund to the group",
+          "It rejected the complaint without any discussion",
+          "It had received the same complaint earlier"
+        ],
+        "answerIndex": 0,
+        "explanation": "Compensation was not offered until Karin W. asked directly, and then only a modest discount."
+      },
+      {
+        "prompt": "Which condition does Karin W. set for staying at the hotel again?",
+        "category": "detail",
+        "choices": [
+          "A larger conference hall with better acoustics",
+          "A free shuttle that runs through the whole night",
+          "Better technical support and a written promise",
+          "A reduced price for the meals served at lunch"
+        ],
+        "answerIndex": 2,
+        "explanation": "She would return only if technical support were reorganized and a written guarantee on equipment were included in the contract."
+      }
+    ]
+  },
+  {
+    "id": "p7-142",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Fernhill Regional Logistics Forum: Day 2",
+        "text": "9:00 Keynote: \"The resilient supply chain\" – Dr. Lucia Ferrante (Main Hall)\n10:15 Workshop A: Forecasting demand with limited data – Ravi Menon (Room 2)\n10:15 Workshop B: Warehouse robotics in practice – Ingrid Solberg (Room 3)\n11:30 Panel: Sustainable packaging, regulation and cost (Main Hall)\n12:30 Lunch (Atrium)\n14:00 Case study: Rebuilding a distribution network after flooding – Paulo Ribeiro (Room 2)\n15:15 Roundtable: Hiring and retaining warehouse staff (Room 3)\n16:30 Closing remarks and prize draw (Main Hall)\nNote: Workshops are limited to forty participants; registration is required at the information desk by 9:30."
+      },
+      {
+        "type": "email",
+        "title": "Question about the forum",
+        "text": "Dear Forum Team,\n\nI registered for both days and have a small problem with Day 2. I would like to attend the demand forecasting workshop in the morning, but I also need to hear the afternoon case study, as my company suffered flood damage last year. Is it possible to attend the workshop and still be on time for the panel? Also, my colleague Hana cannot be present before 11:00 and would like to join us for the panel on packaging. Finally, will the presentations be available to download afterward?\n\nThank you,\nMarcus Delgado\nOrbis Components"
+      },
+      {
+        "type": "email",
+        "title": "Re: Question about the forum",
+        "text": "Dear Mr. Delgado,\n\nThank you for your questions. Workshops finish at 11:15, so you should have no difficulty joining the panel. I would advise you to register for the workshop as early as possible, as Room 2 has fewer chairs than Room 3. Your colleague is welcome at the panel, and she needs no separate registration since it takes place in the main hall.\n\nSlides will be uploaded to the forum's participant area within five working days, although the keynote speaker has asked that her presentation be shared only with registered delegates. The case study you mention is not part of the downloadable material, because it includes confidential figures.\n\nBest regards,\nAnneke Brandt, Forum Coordinator"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of Mr. Delgado's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To complain about the way the forum is scheduled",
+          "To cancel his registration for the second day",
+          "To check if he can fit in sessions with a colleague",
+          "To propose a topic for a future workshop speaker"
+        ],
+        "answerIndex": 2,
+        "explanation": "He asks about attending both a workshop and the panel, whether Hana can join, and whether slides will be available."
+      },
+      {
+        "prompt": "Which session does Mr. Delgado want to attend in the morning?",
+        "category": "detail",
+        "choices": [
+          "The one led by Ravi Menon",
+          "The one led by Ingrid Solberg",
+          "The one led by Dr. Lucia Ferrante",
+          "The one led by Paulo Ribeiro"
+        ],
+        "answerIndex": 0,
+        "explanation": "The workshop on forecasting demand is Workshop A, run by Ravi Menon."
+      },
+      {
+        "prompt": "Why is Mr. Delgado interested in the 14:00 session?",
+        "category": "inference",
+        "choices": [
+          "He has hired the speaker for his company already",
+          "He is a former colleague of the case presenter",
+          "His firm makes packaging for large warehouses",
+          "His employer recently experienced a similar problem"
+        ],
+        "answerIndex": 3,
+        "explanation": "He says his company suffered flood damage last year, and the case study concerns rebuilding after flooding."
+      },
+      {
+        "prompt": "What is Hana most likely to attend with Mr. Delgado?",
+        "category": "inference",
+        "choices": [
+          "The warehouse robotics workshop in Room 3",
+          "The packaging discussion in the Main Hall",
+          "The closing remarks and prize draw",
+          "The keynote at the start of the day"
+        ],
+        "answerIndex": 1,
+        "explanation": "She cannot arrive before 11:00 and wants the panel on packaging, which starts at 11:30 in the Main Hall."
+      },
+      {
+        "prompt": "What is true about the downloadable material?",
+        "category": "detail",
+        "choices": [
+          "It will be available on the day of the forum",
+          "One of the presentations will not be posted",
+          "It includes every session of the schedule",
+          "It can be viewed only after paying a fee"
+        ],
+        "answerIndex": 1,
+        "explanation": "Ms. Brandt says the case study will not be part of the downloadable material because of confidential figures."
+      }
+    ]
+  },
+  {
+    "id": "p7-143",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Larkspur Residences: Apartments for rent",
+        "text": "Welcome to Larkspur Residences, a development of 120 modern apartments five minutes from Central Station. One-bedroom units start at 1,150 dollars per month and two-bedroom units at 1,600 dollars, with a twelve-month lease. All apartments include a dishwasher, in-unit laundry and a balcony or terrace. Residents enjoy a rooftop garden, a fitness room and a covered bicycle park. Pets are welcome, subject to a monthly fee of 35 dollars per animal. Underground parking is available for 120 dollars per month. Viewings are by appointment only, on weekdays and on Saturday mornings, and our leasing team will gladly show you both the building and the surrounding neighborhood, including the nearby market, the library and two supermarkets. Mention reference code LR-22 when you book to receive a free first month of parking."
+      },
+      {
+        "type": "email",
+        "title": "Request for a viewing",
+        "text": "Dear Larkspur Residences,\n\nMy partner and I are relocating for work in September and are interested in a two-bedroom apartment. We would like to see one on the upper floors, ideally facing away from the railway. We have one dog and one car. Could you tell us whether the lease can be shorter than twelve months, since my contract is limited to nine months? We are available on Saturday 14 August between 10 and noon.\n\nBest wishes,\nPatricia Odell"
+      },
+      {
+        "type": "email",
+        "title": "Re: Request for a viewing",
+        "text": "Dear Ms. Odell,\n\nThank you for your interest. We have two apartments that match your wishes: unit 704, which faces the garden, and unit 811, which faces the street but has double glazing. Both are available from 1 September and can be seen on Saturday at 10:30 or 11:15.\n\nA twelve-month lease is our standard, although we can offer nine months at a supplement of 8 percent on the rent. For your dog, the usual pet fee applies. Because you mentioned parking, please quote the reference code from our advertisement and your first month will be free.\n\nKind regards,\nSamir Haddad, Leasing Office"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does Ms. Odell want to know in her e-mail?",
+        "category": "detail",
+        "choices": [
+          "Whether pets are allowed in the building",
+          "How far the apartments are from the station",
+          "If a viewing can take place in the evening",
+          "If she can sign a contract of shorter duration"
+        ],
+        "answerIndex": 3,
+        "explanation": "She asks whether the lease can be shorter than twelve months because her contract lasts nine months."
+      },
+      {
+        "prompt": "Which apartment would best meet Ms. Odell's wish about location?",
+        "category": "inference",
+        "choices": [
+          "Unit 704",
+          "Unit 811",
+          "A ground-floor unit",
+          "The unit with a terrace"
+        ],
+        "answerIndex": 0,
+        "explanation": "She wants to avoid the railway; unit 704 faces the garden, whereas 811 faces the street."
+      },
+      {
+        "prompt": "What does Mr. Haddad indicate about the nine-month lease?",
+        "category": "detail",
+        "choices": [
+          "It is the usual option for all new residents",
+          "It is offered only for the one-bedroom units",
+          "It is possible but costs more than a standard one",
+          "It is not possible to begin before September"
+        ],
+        "answerIndex": 2,
+        "explanation": "He says it is available at a supplement of 8 percent on the rent."
+      },
+      {
+        "prompt": "How much would Ms. Odell pay for pet and parking in the first month?",
+        "category": "inference",
+        "choices": [
+          "120 dollars",
+          "155 dollars",
+          "35 dollars",
+          "1,600 dollars"
+        ],
+        "answerIndex": 2,
+        "explanation": "Quoting reference code LR-22 gives a free first month of parking, so only the 35-dollar monthly dog fee remains."
+      },
+      {
+        "prompt": "What can be concluded about the building?",
+        "category": "inference",
+        "choices": [
+          "Some apartments are located close to a street",
+          "It does not allow any pets on its upper floors",
+          "It lacks any parking space for its residents",
+          "Every apartment in the complex faces the garden"
+        ],
+        "answerIndex": 0,
+        "explanation": "Unit 811 faces the street and has double glazing, so some units are close to traffic."
+      }
+    ]
+  },
+  {
+    "id": "p7-144",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Revised expense reporting procedure",
+        "text": "To: All employees\nFrom: Chandra Rao, Finance Director\nSubject: New process for travel expenses, effective 1 February\n\nFollowing a review of last year's claims, which found that nearly a quarter were submitted more than sixty days after the trip, the company is changing the way travel expenses are reported. From 1 February, all claims must be filed within thirty days of the end of the trip through the new online portal. Paper forms will no longer be accepted, except in the case of employees who are on extended leave, who may request an extension from their manager.\n\nReceipts must be photographed and attached to each item. For purchases below twenty dollars, a receipt is no longer required, but a brief description is. Rail and air tickets should be booked through the approved agency, whose fares are lower than those found online; any exception requires prior approval from a department head. Meals will be reimbursed up to a daily limit, which has been raised from 55 to 65 dollars to reflect higher prices.\n\nEmployees who are unable to attend the training session on 25 January will find a ten-minute video on the intranet. Questions should be addressed to the finance helpdesk rather than to individual accountants."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the new procedure introduced?",
+        "category": "detail",
+        "choices": [
+          "The cost of travel increased sharply last year",
+          "The old paper forms contained frequent errors",
+          "An outside firm recommended a new portal",
+          "Too many claims were being submitted late"
+        ],
+        "answerIndex": 3,
+        "explanation": "A review found that nearly a quarter of claims came in more than sixty days after the trip, so the deadline is now thirty days."
+      },
+      {
+        "prompt": "Who may continue to file a claim on paper?",
+        "category": "detail",
+        "choices": [
+          "Staff who travel by train rather than by plane",
+          "Employees who are away from work for a long period",
+          "Department heads and finance accountants",
+          "People spending less than twenty dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "Paper forms are accepted only for employees on extended leave, who may request an extension from their manager."
+      },
+      {
+        "prompt": "What can be inferred about purchases of fifteen dollars?",
+        "category": "inference",
+        "choices": [
+          "They are no longer reimbursed by the company",
+          "They can be claimed with just a short explanation",
+          "They must be approved by a department head",
+          "They require the same photo as larger items"
+        ],
+        "answerIndex": 1,
+        "explanation": "For purchases below twenty dollars a receipt is not required but a brief description is."
+      },
+      {
+        "prompt": "The word \"exception\" in paragraph 2 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "promotional discount",
+          "financial penalty",
+          "booking error",
+          "departure from the rule"
+        ],
+        "answerIndex": 3,
+        "explanation": "Booking outside the approved agency is an exception that needs prior approval, that is a departure from the rule."
+      }
+    ]
+  },
+  {
+    "id": "p7-145",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Remote hiring reshapes a small-town economy",
+        "text": "When the software firm Tallis Analytics announced that it would let employees work from anywhere, few expected the news to alter the economy of Brackley, a town of nine thousand people two hours from the nearest large city. Yet over the past year, forty-two of the firm's staff have relocated there, drawn by lower rents and quicker access to the countryside.\n\nThe newcomers have brought both opportunities and tension. Local cafes report a steady daytime clientele that did not exist before, and a vacant shop on the high street has been converted into a shared office space. Property prices, however, have risen by fourteen percent, and some long-term residents fear that younger families will be priced out. \"My daughter would love to settle here,\" says retired teacher Helen Marsh, \"but she can no longer afford the kind of house she grew up in.\"\n\nThe town council is now considering a plan to reserve part of a new housing development for buyers who work locally. Council member Dev Anand supports the measure but admits that it will not solve the problem on its own. \"Newcomers are welcome,\" he says. \"We simply need to ensure that the town remains a place where everyone can afford to live.\" Tallis Analytics has said it will contribute to a community fund, though it has not specified an amount."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The effects of an employer's policy on a small community",
+          "The rise of a software firm in a large city",
+          "Plans to build a new shopping area in a town",
+          "The difficulty of finding skilled computer workers"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article describes how Tallis Analytics' remote-work policy affected Brackley, with both benefits and rising property prices."
+      },
+      {
+        "prompt": "Why did the employees choose Brackley?",
+        "category": "detail",
+        "choices": [
+          "Their employer opened a new office in the town",
+          "The local council offered them financial support",
+          "Housing costs are cheaper and the countryside is close",
+          "Public transport to the city is quick and frequent"
+        ],
+        "answerIndex": 2,
+        "explanation": "They were drawn by lower rents and quicker access to the countryside."
+      },
+      {
+        "prompt": "What is Ms. Marsh's concern?",
+        "category": "inference",
+        "choices": [
+          "Her pension is not enough to cover her rent",
+          "The cafes on the high street may soon close",
+          "Her daughter may not be able to live in the town",
+          "Newcomers dislike the peace and quiet of the town"
+        ],
+        "answerIndex": 2,
+        "explanation": "She says her daughter would love to settle but can no longer afford a house like the one she grew up in."
+      },
+      {
+        "prompt": "What does Mr. Anand say about the council's plan?",
+        "category": "inference",
+        "choices": [
+          "It is a useful step but not a complete answer",
+          "It is an attempt to reduce the number of newcomers",
+          "It will be funded entirely by Tallis Analytics staff",
+          "It has already solved the local housing problem"
+        ],
+        "answerIndex": 0,
+        "explanation": "He supports the measure but admits it will not solve the problem on its own."
+      }
+    ]
+  },
+  {
+    "id": "p7-146",
+    "documents": [
+      {
+        "type": "invoice",
+        "title": "Invoice 20871: Halvorsen Print & Design",
+        "text": "Client: Rosemont Community Theater\nDate: 3 October · Payment due: 2 November\n\nItem / Quantity / Unit price / Total\nSeason brochures, A5, 24 pages / 1,500 / 1.40 / 2,100.00\nPosters, A2, gloss / 200 / 3.50 / 700.00\nRush delivery to venue / 1 / 150.00 / 150.00\nDesign revisions beyond the two included / 3 hours / 60.00 / 180.00\nSubtotal: 3,130.00 · Early-payment discount (3 percent if paid before 20 October): -93.90\nPayment may be made by bank transfer or by check to the address above; please quote the invoice number on all payments. Notes: The quantity of posters ordered was 200, as agreed in the quotation of 12 September. Our terms state that complaints about quality must be made within seven days of delivery."
+      },
+      {
+        "type": "email",
+        "title": "Query about invoice 20871",
+        "text": "Dear Ms. Halvorsen,\n\nThank you for the invoice. We are pleased with the brochures, but I have two points to raise. The quotation of 12 September mentioned only 1,200 brochures, whereas the invoice shows 1,500. Also, we were told the first two design revisions were free; I believe we requested only four hours in total, and I would like to check how three extra hours were counted.\n\nIf the figures are correct, we will pay before 20 October. Kind regards,\nTomas Reyes, Rosemont Community Theater"
+      },
+      {
+        "type": "email",
+        "title": "Re: Query about invoice 20871",
+        "text": "Dear Mr. Reyes,\n\nYou are right about the brochures: the printer produced 1,500 because you telephoned on 24 September asking for 300 more, which I should have noted in writing. I attach a confirmation of that call. As for revisions, the two included ones were counted per round, not per hour, and your team requested five rounds, of which three were chargeable at one hour each.\n\nShould you prefer 1,200 copies, the extra 300 can be donated to the theater's school program, but they will remain on the invoice. I will extend the early-payment discount to 25 October.\n\nRegards,\nGreta Halvorsen"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does Mr. Reyes question in his e-mail?",
+        "category": "detail",
+        "choices": [
+          "The quality of the brochures that were printed",
+          "The date on which the payment is due again",
+          "The cost of the rush delivery to the theater",
+          "The number of items billed and the time charged"
+        ],
+        "answerIndex": 3,
+        "explanation": "He says the invoice shows 1,500 brochures rather than 1,200 and queries the three extra hours of design revisions."
+      },
+      {
+        "prompt": "According to Ms. Halvorsen, why were 1,500 brochures printed?",
+        "category": "detail",
+        "choices": [
+          "The printer made a mistake in the quotation",
+          "The theater asked for an increase by phone",
+          "The posters were replaced by brochures",
+          "A school requested copies for its program"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says Mr. Reyes telephoned on 24 September asking for 300 more brochures."
+      },
+      {
+        "prompt": "How were the design revisions charged?",
+        "category": "inference",
+        "choices": [
+          "By the hour, after the first two hours spent",
+          "By the round, after the two in the quotation",
+          "By the page, for each brochure that was designed",
+          "As a flat amount that was included in the posters"
+        ],
+        "answerIndex": 1,
+        "explanation": "The two included revisions were counted per round; five rounds were requested and three were chargeable at one hour each, giving 180 dollars."
+      },
+      {
+        "prompt": "What will happen if Mr. Reyes pays on 24 October?",
+        "category": "inference",
+        "choices": [
+          "He will pay an additional late fee for delay",
+          "He will be asked to cancel the order of posters",
+          "He will receive 300 fewer brochures than before",
+          "He will still receive the 3 percent reduction"
+        ],
+        "answerIndex": 3,
+        "explanation": "The invoice offers 3 percent before 20 October, and Ms. Halvorsen extends it to 25 October, so 24 October qualifies."
+      },
+      {
+        "prompt": "What is the correct amount to pay if the discount applies?",
+        "category": "inference",
+        "choices": [
+          "3,036.10 dollars",
+          "3,130.00 dollars",
+          "2,100.00 dollars",
+          "3,223.90 dollars"
+        ],
+        "answerIndex": 0,
+        "explanation": "The subtotal is 3,130.00 and the 3 percent discount is 93.90, so 3,130.00 - 93.90 = 3,036.10."
+      }
+    ]
+  }
+]

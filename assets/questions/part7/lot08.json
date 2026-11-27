@@ -1,0 +1,526 @@
+[
+  {
+    "id": "p7-181",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Reorganization of the sales regions",
+        "text": "To: All Sales Department staff\nFrom: Victor Almeida, Vice President of Sales\nSubject: New regional structure from 1 July\n\nAfter several months of consultation, the executive team has approved a reorganization of our sales regions. Until now, the country has been divided into four geographic regions, each with its own director. From 1 July, there will be three regions, with the central and eastern areas merged under a single director. The purpose is to reduce duplication of administrative work and to give key accounts a single point of contact.\n\nI want to be clear that no positions will be eliminated. Account managers will keep their current clients, although approximately fifteen accounts in the border zone will be reassigned to balance workloads. Affected employees will be informed individually by 10 June. The two current directors of the central and eastern regions will both remain: one will lead the new region, while the other will take on a national role in charge of strategic accounts. The decision about who takes which post will be announced on 20 June.\n\nTargets for the second half of the year will be recalculated to reflect the changes, and no one will be penalized if the transition causes short-term disruption. A question-and-answer session will take place on 12 June at 3 p.m. in the main auditorium and will also be available online."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main reason for the change?",
+        "category": "detail",
+        "choices": [
+          "To cut the number of employees in the department",
+          "To avoid doing the same administrative tasks twice",
+          "To open sales offices in several new cities",
+          "To respond to complaints from key customers"
+        ],
+        "answerIndex": 1,
+        "explanation": "The purpose is to reduce duplication of administrative work and to give key accounts a single contact."
+      },
+      {
+        "prompt": "What will happen to employees whose accounts are moved?",
+        "category": "detail",
+        "choices": [
+          "They will lose their positions in the department",
+          "They will be asked to apply for a completely different job",
+          "They will be transferred to the strategic accounts team",
+          "They will be told personally before the change"
+        ],
+        "answerIndex": 3,
+        "explanation": "Affected employees will be informed individually by 10 June."
+      },
+      {
+        "prompt": "What can be inferred about the two directors?",
+        "category": "inference",
+        "choices": [
+          "One of them will have a role different from the current one",
+          "Both will be leaving the company shortly",
+          "They will share the leadership of the new region",
+          "They have already been told which post they will take"
+        ],
+        "answerIndex": 0,
+        "explanation": "One will lead the new region while the other will take a national role; the decision is announced on 20 June."
+      },
+      {
+        "prompt": "What is NOT stated in the memo?",
+        "category": "not_true",
+        "choices": [
+          "Targets will be adjusted for the second half",
+          "A meeting will be held for questions",
+          "Bonuses will be paid in advance of the change",
+          "The number of regions will fall to three"
+        ],
+        "answerIndex": 2,
+        "explanation": "Targets are recalculated and a Q&A is planned; nothing is said about advance bonuses."
+      }
+    ]
+  },
+  {
+    "id": "p7-182",
+    "documents": [
+      {
+        "type": "article",
+        "title": "A town's gamble on the night train",
+        "text": "Passengers who board the 21:40 sleeper from Varnholt to the capital are treated to something that has become rare in European travel: a berth, a breakfast tray and a morning arrival in the city center. Three years ago, the service was on the verge of being scrapped, with fewer than a third of its seats occupied. Today, it runs full on most weekends, and the regional transport authority is considering adding a second weekly departure.\n\nThe turnaround owes much to a change in marketing rather than in engineering. Instead of presenting the sleeper as a cheap alternative to flying, the operator began to promote it as a way to save a working day: travelers can work until six, sleep on the train and arrive refreshed for an 8 a.m. meeting. Corporate bookings now account for about a quarter of sales, a figure that was negligible before.\n\nYet challenges remain. The carriages are more than forty years old, and replacement parts are increasingly difficult to find. A new fleet would cost about 90 million dollars, which the authority admits it cannot fund alone. Transport analyst Pavel Dvorak thinks the service's success is fragile. \"It has proven there is demand,\" he says, \"but demand without investment ends in a breakdown at the wrong moment.\""
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "The decline of air travel across the whole continent",
+          "A dispute between a train operator and its drivers",
+          "A rail service has recovered but still faces risks",
+          "The construction of a new railway line to the capital"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sleeper train recovered through new marketing, but its old carriages and funding gaps threaten it."
+      },
+      {
+        "prompt": "What led to the improved results of the service?",
+        "category": "detail",
+        "choices": [
+          "A different way of promoting it to travelers",
+          "The purchase of new carriages that are faster and quieter",
+          "A significant cut in the price of the tickets sold",
+          "A partnership agreement signed with a major airline"
+        ],
+        "answerIndex": 0,
+        "explanation": "The operator promoted it as a way to save a working day rather than a cheap alternative to flying."
+      },
+      {
+        "prompt": "The phrase \"on the verge of\" in paragraph 1 is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "far away from",
+          "responsible for",
+          "pleased about",
+          "very close to"
+        ],
+        "answerIndex": 3,
+        "explanation": "The service was nearly canceled, so 'on the verge of' means very close to."
+      },
+      {
+        "prompt": "What does Mr. Dvorak imply?",
+        "category": "inference",
+        "choices": [
+          "Corporate customers will soon stop using the train",
+          "The service could fail if the equipment is not renewed",
+          "The authority should increase the price of tickets",
+          "A second departure would be unnecessary"
+        ],
+        "answerIndex": 1,
+        "explanation": "He says demand without investment ends in a breakdown at the wrong moment, referring to old carriages."
+      }
+    ]
+  },
+  {
+    "id": "p7-183",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Reply to complaint about a hotel stay",
+        "text": "Dear Ms. Lindqvist,\n\nThank you for taking the time to write about your stay at the Hotel Meridiana from 3 to 6 June. I was sorry to read that your experience fell short of what we strive to provide, and I wish to respond to each of your points.\n\nYou mentioned that your room had not been cleaned when you arrived at 2 p.m. Our standard check-in time is 3 p.m., and rooms are normally ready by then; however, I have checked the records and the housekeeping team was short-staffed that day owing to illness. We should have told you at the desk and offered you a place to wait, and I apologize that this did not happen. With regard to the noise from the terrace on the second night, we have confirmed that a private event ran until 1 a.m., which is later than our policy allows. We have spoken to the events team about this.\n\nAs a gesture of goodwill, I would like to offer you a voucher worth 120 dollars, valid for twelve months and usable in our restaurant or toward a future stay. If you prefer a partial refund of your room charge instead, please let me know and I will arrange this within ten working days.\n\nSincerely,\nGiorgio Pellegrini, General Manager"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To confirm a reservation made for the summer season",
+          "To reply to a guest's complaints and offer compensation",
+          "To ask the guest to write a review of the hotel online",
+          "To announce changes to the hotel's check-in policy"
+        ],
+        "answerIndex": 1,
+        "explanation": "The manager answers each complaint and offers a voucher or refund."
+      },
+      {
+        "prompt": "According to Mr. Pellegrini, why was the room not ready?",
+        "category": "detail",
+        "choices": [
+          "The guest had arrived on the wrong day of the week",
+          "A private event had been scheduled in the same room",
+          "The hotel's cleaning policy had been changed recently",
+          "Too few housekeepers were at work that day"
+        ],
+        "answerIndex": 3,
+        "explanation": "The housekeeping team was short-staffed that day because of illness."
+      },
+      {
+        "prompt": "What does Mr. Pellegrini admit?",
+        "category": "inference",
+        "choices": [
+          "The hotel should have treated her arrival better",
+          "The room had been given to another guest by mistake",
+          "The terrace noise was within the hotel's own rules",
+          "Ms. Lindqvist had arrived later than she had stated"
+        ],
+        "answerIndex": 0,
+        "explanation": "He says they should have told her at the desk and offered a place to wait, and the event ran later than allowed."
+      },
+      {
+        "prompt": "What choice does Ms. Lindqvist have?",
+        "category": "detail",
+        "choices": [
+          "A free night to be taken during the summer season",
+          "A full refund of everything she paid for the stay",
+          "A voucher or a partial repayment of her room cost",
+          "A discount to use at another hotel of the group"
+        ],
+        "answerIndex": 2,
+        "explanation": "She can take a 120-dollar voucher or a partial refund of the room charge."
+      }
+    ]
+  },
+  {
+    "id": "p7-184",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Call for papers: Regional Symposium on Water Management",
+        "text": "The Eastern Water Association invites submissions for its tenth symposium, to be held in Karlsburg from 14 to 16 October. This year's theme is \"Resilience under pressure,\" and we welcome contributions that examine how utilities, municipalities and farmers are adapting to irregular rainfall and aging infrastructure. Papers from practitioners are as welcome as academic work.\n\nAbstracts of no more than 300 words should be sent by 1 May through the online portal. Authors will be notified by 15 June, and full papers of up to 6,000 words are due on 31 August. Each paper will be reviewed anonymously by two experts. Accepted contributors will be offered a 30 percent reduction on the registration fee of 450 dollars; students may attend for 120 dollars.\n\nSelected papers will be published in the symposium proceedings, and the three best will be invited to submit their work to the Journal of Applied Hydrology. Presentations are limited to twenty minutes, followed by ten minutes of questions. Please note that we are unable to cover travel or accommodation costs, although a list of nearby hotels with special rates is available on our Web site."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who may submit a paper?",
+        "category": "detail",
+        "choices": [
+          "Only members of the Association",
+          "Only students of hydrology",
+          "Both professionals and researchers",
+          "Only authors from Karlsburg"
+        ],
+        "answerIndex": 2,
+        "explanation": "Papers from practitioners are as welcome as academic work."
+      },
+      {
+        "prompt": "What must authors do by 31 August?",
+        "category": "detail",
+        "choices": [
+          "Send the finished version of an accepted paper",
+          "Pay the registration fee in full by bank transfer",
+          "Present their abstract at the opening of the symposium",
+          "Book a hotel room at one of the special rates"
+        ],
+        "answerIndex": 0,
+        "explanation": "Full papers are due on 31 August after notification of acceptance in June."
+      },
+      {
+        "prompt": "How much will an accepted contributor pay for registration?",
+        "category": "inference",
+        "choices": [
+          "120 dollars",
+          "135 dollars",
+          "450 dollars",
+          "315 dollars"
+        ],
+        "answerIndex": 3,
+        "explanation": "A 30 percent reduction on 450 dollars gives 315 dollars."
+      },
+      {
+        "prompt": "What is NOT offered to participants?",
+        "category": "not_true",
+        "choices": [
+          "Possible publication of their work",
+          "Payment of their travel costs",
+          "Reviews of their paper by experts",
+          "Hotels at special prices"
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice says they cannot cover travel or accommodation costs."
+      }
+    ]
+  },
+  {
+    "id": "p7-185",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Warehouse Operations Supervisor, Tandem Logistics",
+        "text": "Tandem Logistics is expanding its Birchwood distribution center and needs a Warehouse Operations Supervisor to lead a team of thirty on the night shift (10 p.m. to 6 a.m.). You will be responsible for goods receipt, order picking, dispatch and compliance with safety rules. We are looking for someone with at least four years of warehouse experience, including one in a supervisory role, and a forklift license. Knowledge of warehouse management systems is essential. The salary is 38,000 to 43,000 dollars, with a night-shift allowance of 15 percent. Applicants must be prepared to complete a skills test and a medical examination. Send applications to recruit@tandemlogistics.example by 9 August."
+      },
+      {
+        "type": "email",
+        "title": "Application: Warehouse Operations Supervisor",
+        "text": "Dear Sir or Madam,\n\nI am applying for the position advertised on your Web site. I have worked in warehouses for six years, the last two as a team leader at Pennant Retail, where I supervise twelve people on the afternoon shift. I hold a valid forklift license and have used two warehouse management systems, including the one you use, according to your ad.\n\nI would like to ask about the night shift. I have worked nights before and am comfortable with them, but my current employer pays a 20 percent premium. Would Tandem consider a higher allowance? I should also mention that I would be available to start only on 1 October, due to a three-month notice period.\n\nKind regards,\nMikhail Orlov"
+      },
+      {
+        "type": "email",
+        "title": "Re: Application",
+        "text": "Dear Mr. Orlov,\n\nThank you for your application. We would like to invite you to a skills test and interview on Friday 22 August. The test, which lasts about ninety minutes, includes a practical task on the warehouse floor, so please wear sturdy shoes.\n\nWith respect to the allowance, 15 percent is fixed for the night shift, but salary within the stated range is negotiable and depends on experience; given your six years, we could discuss a figure at the upper end. The start date of 1 October is acceptable, although we would have preferred 1 September.\n\nRegards,\nEsther Kamau, Recruitment Manager"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Mr. Orlov's main question in his e-mail?",
+        "category": "detail",
+        "choices": [
+          "Whether he could work on the day shift instead",
+          "Whether the extra pay for night work could rise",
+          "Whether the company would pay for his notice period",
+          "Whether he may bring a colleague along to the test"
+        ],
+        "answerIndex": 1,
+        "explanation": "He asks whether Tandem would consider a higher allowance than his current 20 percent premium."
+      },
+      {
+        "prompt": "Which requirement from the ad does Mr. Orlov fully meet?",
+        "category": "inference",
+        "choices": [
+          "Previous experience of night work at Tandem Logistics",
+          "A degree in logistics management from a university",
+          "A medical certificate signed by his own doctor",
+          "Time as a team leader and a forklift license"
+        ],
+        "answerIndex": 3,
+        "explanation": "He has two years as team leader and a valid forklift license; the other items are not mentioned."
+      },
+      {
+        "prompt": "How does Ms. Kamau respond to his question?",
+        "category": "detail",
+        "choices": [
+          "The night allowance is fixed but the salary can change",
+          "She offers him a night allowance of 20 percent",
+          "She refuses to discuss any amount of money with him",
+          "She proposes that he takes a day-shift position instead"
+        ],
+        "answerIndex": 0,
+        "explanation": "She says 15 percent is fixed but the salary within the range is negotiable."
+      },
+      {
+        "prompt": "What can be inferred about Mr. Orlov's start date?",
+        "category": "inference",
+        "choices": [
+          "It falls later than the closing date for applications",
+          "It depends on the outcome of the medical examination",
+          "Tandem would have welcomed an earlier start",
+          "It was imposed on him by the recruitment manager"
+        ],
+        "answerIndex": 2,
+        "explanation": "She says that 1 October is acceptable although 1 September would have been preferred."
+      },
+      {
+        "prompt": "What will Mr. Orlov most likely do on 22 August?",
+        "category": "inference",
+        "choices": [
+          "Begin work on the night shift as a supervisor",
+          "Sign his employment contract with the company",
+          "Do a practical test at the warehouse",
+          "Pass a medical examination at the distribution center"
+        ],
+        "answerIndex": 2,
+        "explanation": "The invitation is for a skills test and interview including a practical task on the warehouse floor."
+      }
+    ]
+  },
+  {
+    "id": "p7-186",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Willowbrook Dental Clinic: Appointment policy",
+        "text": "We kindly ask patients to arrive ten minutes before their appointment to complete any paperwork. Appointments can be rescheduled free of charge up to 24 hours beforehand. Late cancellations or missed appointments will incur a fee of 40 dollars, which cannot be claimed from insurance. Patients who arrive more than fifteen minutes late may be asked to rebook so that other patients are not kept waiting.\n\nFirst visits last 60 minutes and include a full examination and X-rays if required. Routine check-ups last 30 minutes. Emergency appointments are kept free each morning for patients in pain; call us at 8:00 a.m. to be seen the same day. Children under twelve must be accompanied by an adult."
+      },
+      {
+        "type": "email",
+        "title": "Missed appointment fee",
+        "text": "Dear Willowbrook,\n\nI received a message charging me 40 dollars for missing my appointment on Tuesday at 4 p.m. I did not miss it: I arrived at 4:20 because of an accident on the bridge, and the receptionist told me I had to leave and rebook. I called the clinic at 3:50 to say I would be late, but nobody answered. I do not believe the fee is fair. I would like it removed and my appointment rescheduled for next week, in the morning if possible.\n\nSincerely,\nBrian Cole"
+      },
+      {
+        "type": "email",
+        "title": "Re: Missed appointment fee",
+        "text": "Dear Mr. Cole,\n\nI have reviewed your case. Our records show that our receptionist asked you to rebook because of the lateness; the system registered this as a missed appointment, which was an error. We have canceled the fee and apologize for the confusion. I could not find a record of your call, but it may have reached the line at a time when it was being serviced.\n\nI have reserved a 30-minute check-up for Wednesday at 9:00 a.m. Please remember to arrive ten minutes early. If you cannot attend, tell us by Tuesday morning.\n\nBest wishes,\nDr. Laura Nikolaidis"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Mr. Cole's complaint?",
+        "category": "main_idea",
+        "choices": [
+          "He was charged a fee he thinks is unfair",
+          "The dentist did not turn up for the appointment",
+          "A procedure was not properly explained to him",
+          "He was refused an emergency visit on the same day"
+        ],
+        "answerIndex": 0,
+        "explanation": "He says he arrived late rather than missing the appointment, and he disputes the fee."
+      },
+      {
+        "prompt": "According to the clinic's policy, why did the receptionist ask Mr. Cole to rebook?",
+        "category": "inference",
+        "choices": [
+          "His insurance did not cover the planned treatment",
+          "The dentist had been called away to an emergency",
+          "He had not completed the paperwork on arrival",
+          "He arrived over a quarter of an hour late"
+        ],
+        "answerIndex": 3,
+        "explanation": "Patients who arrive more than fifteen minutes late may be asked to rebook; he arrived twenty minutes late."
+      },
+      {
+        "prompt": "What does Dr. Nikolaidis admit?",
+        "category": "detail",
+        "choices": [
+          "The receptionist deliberately ignored his telephone call",
+          "The booking system logged the visit wrongly",
+          "The clinic had already closed its doors at 3:50",
+          "The fee had been applied to his account twice"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says the system registered the rebooking as a missed appointment, which was an error."
+      },
+      {
+        "prompt": "How long will the new appointment last?",
+        "category": "inference",
+        "choices": [
+          "Ten minutes",
+          "Half an hour",
+          "Sixty minutes",
+          "Ninety minutes"
+        ],
+        "answerIndex": 1,
+        "explanation": "A routine check-up lasts 30 minutes."
+      },
+      {
+        "prompt": "What does Mr. Cole's request show about his preference?",
+        "category": "inference",
+        "choices": [
+          "He wants an emergency visit on the very same day",
+          "He would prefer to have an appointment on a weekend",
+          "He prefers a longer first visit with a full examination",
+          "He would rather be seen before lunchtime"
+        ],
+        "answerIndex": 3,
+        "explanation": "He asks for a morning appointment if possible, and she offers Wednesday at 9:00."
+      }
+    ]
+  },
+  {
+    "id": "p7-187",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Request for approval: Conference attendance",
+        "text": "To: Gloria Navarro, Director of Engineering\nFrom: Samuel Ito, Senior Developer\nSubject: Request to attend the DevSummit in Porto\n\nDear Gloria,\n\nI would like to request approval to attend DevSummit in Porto from 21 to 23 September. The program includes sessions on cloud security and automated testing, both of which are directly relevant to the platform migration that we will begin in the fourth quarter. I believe the knowledge gained would shorten our learning curve considerably.\n\nThe total cost is estimated at 2,350 dollars: 780 for the registration, 940 for flights, and the rest for three nights in a hotel and meals. Early registration ends on 15 July, after which the fee rises to 980 dollars. I have checked my calendar and my current project will be at a stable stage, with no release planned for that week. Maria Costa has kindly agreed to handle any urgent issues in my absence.\n\nI would be pleased to present a summary of what I learn to the whole team within two weeks of my return, and to write a short report for the department. Should it not be possible to approve the full amount, I am willing to cover the cost of my own meals.\n\nThank you for considering my request.\n\nSamuel"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To ask for permission and funds to attend an event",
+          "To announce that he is changing to another employer",
+          "To report on a conference he has recently attended",
+          "To propose a new project to one of the clients"
+        ],
+        "answerIndex": 0,
+        "explanation": "He asks for approval to attend DevSummit and explains costs and benefits."
+      },
+      {
+        "prompt": "Why does Mr. Ito think the conference is valuable?",
+        "category": "detail",
+        "choices": [
+          "It is organized by the company he previously worked for",
+          "It will allow him to meet some potential new clients",
+          "It deals with subjects linked to a coming project",
+          "It is held in a country he has always wanted to visit"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sessions are relevant to the platform migration to begin in the fourth quarter."
+      },
+      {
+        "prompt": "What does Mr. Ito suggest about the registration fee?",
+        "category": "inference",
+        "choices": [
+          "It is the largest single part of the total costs",
+          "It includes the price of three nights in a hotel",
+          "It goes up for those who register late",
+          "It has already been paid by the organizers of the event"
+        ],
+        "answerIndex": 2,
+        "explanation": "Early registration ends on 15 July, after which the fee rises to 980 dollars."
+      },
+      {
+        "prompt": "What does Mr. Ito offer to do after the conference?",
+        "category": "detail",
+        "choices": [
+          "Share what he learned with colleagues",
+          "Train the staff of another department in Porto",
+          "Pay for a replacement to cover his work",
+          "Repay the registration fee in monthly installments"
+        ],
+        "answerIndex": 0,
+        "explanation": "He offers to present a summary to the whole team and write a short report for the department."
+      }
+    ]
+  },
+  {
+    "id": "p7-188",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Westlake Community Center: Autumn courses",
+        "text": "Monday 6:30-8:00 p.m. – Beginner Photography (Studio 2) – 8 weeks – 96 dollars\nTuesday 10:00-11:30 a.m. – Watercolor Painting (Room 5) – 6 weeks – 78 dollars\nWednesday 7:00-8:30 p.m. – Conversational Italian, level 2 (Room 3) – 10 weeks – 120 dollars\nThursday 6:00-7:30 p.m. – Introduction to Bookkeeping (Room 1) – 8 weeks – 110 dollars\nSaturday 9:00-12:00 a.m. – Woodworking Basics (Workshop) – 5 weeks – 150 dollars, materials included\nRegistration for the autumn term opens on 1 September, and early registration is recommended since the photography and woodworking courses are usually full within a week of opening. Each class is taught by a qualified local instructor, and a certificate of attendance is given to students who attend at least seven sessions out of eight. Notes: Classes with fewer than eight registrations by 20 September will be canceled and fees refunded. Residents of Westlake receive a 15 percent discount; seniors over sixty-five may attend any daytime course at half price (this cannot be combined with the resident discount). Registration is available online or at the front desk. Course materials are not included unless stated. Photography students must bring their own camera."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the schedule?",
+        "category": "main_idea",
+        "choices": [
+          "To announce the closing of the community center",
+          "To compare the fees of several different centers",
+          "To advertise vacant positions for part-time teachers",
+          "To list the courses and the terms for joining"
+        ],
+        "answerIndex": 3,
+        "explanation": "It lists courses, times, prices and registration conditions."
+      },
+      {
+        "prompt": "Which course is NOT held in the evening?",
+        "category": "detail",
+        "choices": [
+          "Beginner Photography",
+          "Watercolor Painting",
+          "Introduction to Bookkeeping",
+          "Conversational Italian"
+        ],
+        "answerIndex": 1,
+        "explanation": "Watercolor Painting is on Tuesday from 10 a.m.; the others are in the evening (Woodworking is Saturday morning)."
+      },
+      {
+        "prompt": "How much would a 70-year-old non-resident pay for Watercolor Painting?",
+        "category": "inference",
+        "choices": [
+          "66.30 dollars",
+          "39 dollars",
+          "78 dollars",
+          "68.40 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "Seniors attend any daytime course at half price, so 78 / 2 = 39 dollars."
+      },
+      {
+        "prompt": "What could cause a class to be canceled?",
+        "category": "detail",
+        "choices": [
+          "A lack of available teachers on the day of the class",
+          "Bad weather conditions in the area that week",
+          "Students asking for a refund in the first weeks",
+          "Too few people registering before a given date"
+        ],
+        "answerIndex": 3,
+        "explanation": "Classes with fewer than eight registrations by 20 September are canceled."
+      }
+    ]
+  }
+]

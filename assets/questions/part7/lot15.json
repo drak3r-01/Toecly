@@ -1,0 +1,406 @@
+[
+  {
+    "id": "p7-224",
+    "documents": [
+      {
+        "type": "article",
+        "title": "The quiet success of the repair café",
+        "text": "Every second Saturday, the community hall in Aldwick fills with the whir of sewing machines and the smell of solder. Volunteers sit at tables piled with broken toasters, torn jackets and wobbly chairs, and visitors bring items they might otherwise have thrown away. Since the Aldwick Repair Café opened three years ago, its volunteers estimate that they have mended more than 2,000 objects, preventing about nine tonnes of waste.\n\nThe idea is not new; similar events have appeared in hundreds of towns. What distinguishes Aldwick's café is the number of retired engineers and tailors it has attracted. Founder Rosa Delgado says that the project gave many of them a role they feared they had lost. \"Several volunteers told me they had not felt useful since they stopped working,\" she says. Visitors are asked to stay and watch, so that they learn how to carry out simple repairs themselves.\n\nNot every item can be saved. Modern electronics, with glued casings and unavailable parts, defeat even the most patient volunteers, and the café now keeps a list of products that are, in its view, designed to be discarded. Ms. Delgado hopes that such records will support campaigns for a legal \"right to repair.\" The regional government is currently consulting on a proposal that would require manufacturers to supply spare parts for ten years, a measure the café has publicly endorsed."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "A shop that sells secondhand electrical appliances",
+          "A community project that mends goods and unites people",
+          "A factory that produces tools for local tailors",
+          "A school that trains engineers for nearby firms"
+        ],
+        "answerIndex": 1,
+        "explanation": "The repair café mends objects and also gives volunteers a purpose."
+      },
+      {
+        "prompt": "What does Ms. Delgado say about the volunteers?",
+        "category": "detail",
+        "choices": [
+          "They are paid a small wage by the regional government",
+          "They had all worked together before they retired",
+          "They prefer repairing clothes to repairing electronics",
+          "It gave them back a sense of being useful"
+        ],
+        "answerIndex": 3,
+        "explanation": "Several volunteers said they had not felt useful since they stopped working."
+      },
+      {
+        "prompt": "Why are some items impossible to repair?",
+        "category": "detail",
+        "choices": [
+          "Their design makes the parts impossible to reach",
+          "The volunteers refuse to work on any machine",
+          "The owners do not stay to watch the repair",
+          "They are far too old for anyone to repair"
+        ],
+        "answerIndex": 0,
+        "explanation": "Glued casings and unavailable parts defeat the volunteers."
+      },
+      {
+        "prompt": "What can be inferred about the proposal being considered by the government?",
+        "category": "inference",
+        "choices": [
+          "It would force the café to shut down its work",
+          "It was drafted by Ms. Delgado and her volunteers",
+          "The café would be glad to see it adopted",
+          "It applies only to clothing and household textiles"
+        ],
+        "answerIndex": 2,
+        "explanation": "The café has publicly endorsed the proposal for manufacturers to supply spare parts for ten years."
+      }
+    ]
+  },
+  {
+    "id": "p7-225",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter regarding a late shipment",
+        "text": "Dear Mr. Lopez,\n\nI write in reference to purchase order 5521, placed on 3 May for 200 units of the Hartley adjustable stand, which you confirmed would be delivered by 24 May. As of today, 2 June, our warehouse has received only 80 units, and we have heard nothing from your sales team about the remaining 120.\n\nThe delay has serious consequences. We promised delivery to our own customers, among them the Vesper chain of stores, by the end of last week, and we have been obliged to offer them a discount of 5 percent as compensation. We are therefore asking that the remaining units be shipped by express freight, at your cost, so as to arrive no later than 6 June. If this is not possible, we would accept a partial refund covering the missing units and the costs we have incurred, which amount to 1,150 dollars.\n\nWe have worked with Lopez Components for six years and have valued the relationship. I would be grateful for a reply within two working days, so that we can decide how to proceed with our customers.\n\nYours sincerely,\nIngrid Haugen, Purchasing Manager"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To place a further order for the same stands",
+          "To end a contract that has lasted several years",
+          "To press for a solution to a late delivery",
+          "To request a discount on a purchase already made"
+        ],
+        "answerIndex": 2,
+        "explanation": "Ms. Haugen complains about the late shipment and asks for express delivery or a partial refund."
+      },
+      {
+        "prompt": "How many items are still missing?",
+        "category": "detail",
+        "choices": [
+          "120",
+          "80",
+          "200",
+          "1,150"
+        ],
+        "answerIndex": 0,
+        "explanation": "200 units were ordered and 80 received, so 120 are missing."
+      },
+      {
+        "prompt": "What did Ms. Haugen's company have to do for the Vesper stores?",
+        "category": "detail",
+        "choices": [
+          "Return the goods that had been received",
+          "Replace the stands with another model",
+          "Pay for the express freight",
+          "Reduce the price to make up for the delay"
+        ],
+        "answerIndex": 3,
+        "explanation": "They offered Vesper a discount of 5 percent as compensation."
+      },
+      {
+        "prompt": "What can be inferred about the writer's attitude?",
+        "category": "inference",
+        "choices": [
+          "She will contact another supplier straight away",
+          "She would like to keep working with him if it is solved",
+          "She is happy with the answer she has been given",
+          "She intends to take the matter to a court of law"
+        ],
+        "answerIndex": 1,
+        "explanation": "She mentions six years of work together and values the relationship, asking for a reply to decide how to proceed."
+      }
+    ]
+  },
+  {
+    "id": "p7-226",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Welcome to the team",
+        "text": "To: Ruben Castillo\nFrom: Joanna Pike, Office Manager\nSubject: Your first week at Tidewater Consulting\n\nDear Ruben,\n\nWe are delighted that you will be joining us as a junior analyst on Monday 8 September. Here is what to expect on your first day. Please arrive at 9:00 a.m. at the main reception on the third floor, where you will be met by your mentor, Dilnoza Rahimova. She will give you your badge, show you the office and introduce you to the team. At 10:30, you will meet with Human Resources to sign your contract and complete the necessary forms; please bring your passport and bank details.\n\nYour laptop will be set up in advance, but you will need to change your password when you log in. On Tuesday morning, there is a training session on our reporting tools, and on Thursday, the whole company will gather for the monthly lunch, at which new colleagues are traditionally introduced. [A] We do not expect you to prepare anything, though many people find it helpful to say a few words about themselves. [B]\n\nThe office is open from 8 a.m. to 6 p.m., and flexible hours can be arranged with your manager after the probation period. If you drive, please note that the car park is only for senior staff; there is a bicycle shed and the 14 bus stops directly outside. [C] If you have any questions before Monday, do not hesitate to contact me. [D]\n\nWarm regards,\nJoanna"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To confirm a job offer by telephone",
+          "To prepare a new employee for the first days",
+          "To explain the company's pension plan",
+          "To invite a candidate to an interview"
+        ],
+        "answerIndex": 1,
+        "explanation": "It describes what Ruben should expect on his first days."
+      },
+      {
+        "prompt": "Who will welcome Mr. Castillo on his first morning?",
+        "category": "detail",
+        "choices": [
+          "The head of Human Resources",
+          "The managing director of the company",
+          "A member of the IT department",
+          "A colleague assigned to guide him"
+        ],
+        "answerIndex": 3,
+        "explanation": "His mentor, Dilnoza Rahimova, will meet him at reception."
+      },
+      {
+        "prompt": "What is Mr. Castillo asked to bring on Monday?",
+        "category": "detail",
+        "choices": [
+          "Proof of identity and his bank details",
+          "A laptop that will then be set up by the IT staff",
+          "A written reference signed by his future mentor",
+          "A summary of his previous experience at work"
+        ],
+        "answerIndex": 0,
+        "explanation": "He should bring his passport and bank details to the HR meeting."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Employees who travel by public transport may also apply for a monthly subsidy.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence belongs with the transport information at the end of the paragraph; [C] follows the mention of the bus and bicycle shed, so it adds to that list."
+      }
+    ]
+  },
+  {
+    "id": "p7-227",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Group chat: Marketing team",
+        "text": "Helen Marsh (9:15): Quick update on the autumn campaign. The agency has sent the first version of the video, and I think it's too long. It's two minutes and the brief said ninety seconds.\nKofi Mensah (9:17): I watched it. The first twenty seconds are just a logo animation. We can cut that without losing anything.\nYuna Park (9:19): Careful. The legal team insisted that the product claims at the end remain on screen for at least ten seconds, so we can't shorten the last section.\nHelen Marsh (9:21): Understood. Then let's ask the agency to trim the opening and the middle part. Kofi, can you write the feedback?\nKofi Mensah (9:22): Sure, I'll send it by noon. Should I mention the music? It's quite loud compared with the voice-over.\nYuna Park (9:24): Yes, and ask for two versions: one with the current track and one with something softer. We can test both with the focus group on Thursday.\nHelen Marsh (9:26): Good plan. If the agency can return the new cut by Wednesday evening, we'll be able to use the test results before the budget meeting on Friday."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main problem with the video?",
+        "category": "detail",
+        "choices": [
+          "It makes no mention of the product on sale",
+          "It has neither music nor a voice-over at all",
+          "It is longer than the agreed brief",
+          "It was sent to the wrong team in the company"
+        ],
+        "answerIndex": 2,
+        "explanation": "It is two minutes long, but the brief asked for ninety seconds."
+      },
+      {
+        "prompt": "Why can't the last part of the video be shortened?",
+        "category": "detail",
+        "choices": [
+          "The agency has refused to change that section",
+          "The music ends at precisely that moment",
+          "Legal staff insist some text stays on screen",
+          "The company logo appears in the last section"
+        ],
+        "answerIndex": 2,
+        "explanation": "Product claims at the end must remain on screen for at least ten seconds."
+      },
+      {
+        "prompt": "What does Ms. Park suggest about the music?",
+        "category": "inference",
+        "choices": [
+          "The team should compare two possible soundtracks",
+          "The track should be removed from the video completely",
+          "The voice-over should be recorded again by the agency",
+          "The legal team should be the one to choose the music"
+        ],
+        "answerIndex": 0,
+        "explanation": "She asks for two versions, one with the current track and one with something softer, to test with a focus group."
+      },
+      {
+        "prompt": "Why does Ms. Marsh want the new version by Wednesday evening?",
+        "category": "inference",
+        "choices": [
+          "The agency is closed for business on Thursday",
+          "The campaign is due to be launched on Friday",
+          "The legal team will give its approval on Wednesday",
+          "Results are needed before a budget meeting"
+        ],
+        "answerIndex": 3,
+        "explanation": "Results of the Thursday test will be used before the Friday budget meeting."
+      }
+    ]
+  },
+  {
+    "id": "p7-228",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Whitby Language Exchange",
+        "text": "Practice your Spanish, French or Mandarin with native speakers in a relaxed atmosphere. The Whitby Language Exchange meets every Tuesday and Thursday at the Harbour Cafe from 7 p.m. to 9 p.m. Each evening begins with a short presentation on a cultural topic, followed by conversation tables organized by language and level. Membership costs 12 dollars per month, and your first visit is free. Members who volunteer to host a table receive a free drink each time. Our monthly Saturday outing, which ranges from museum tours to hiking, is open to members and a guest."
+      },
+      {
+        "type": "email",
+        "title": "Joining the exchange",
+        "text": "Hello,\n\nI came to my first session last Tuesday and enjoyed it very much. I have a few questions. I am an advanced speaker of French and would like to practice, but my Spanish is only at beginner level. Can I attend conversation tables in both? I would also like to bring my cousin, who is visiting from Canada, to the next hiking trip. And I wonder whether I could become a host, as I have taught French for three years.\n\nThanks,\nAlba Mendes"
+      },
+      {
+        "type": "email",
+        "title": "Re: Joining the exchange",
+        "text": "Dear Alba,\n\nThank you for coming and for your message. You may join any table you like, and beginners are very welcome at the Spanish table, where we often pair them with patient speakers. Guests may join a Saturday outing if the member registers them in advance and pays a small fee for transport, usually 8 dollars. The next hike is on 16 November.\n\nWe would love you to host the French table on Thursdays; our current host is moving away at the end of the month. Hosts receive a free drink as well as free membership for any month in which they run at least six sessions. Come a few minutes early on your first evening so I can show you how it works.\n\nBest wishes,\nTomas Lindqvist, Organizer"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is Ms. Mendes's main interest in her e-mail?",
+        "category": "main_idea",
+        "choices": [
+          "Finding a place where she can learn Mandarin",
+          "Becoming more involved in the group's activities",
+          "Complaining about the monthly cost of the club",
+          "Booking a table at the cafe for a group dinner"
+        ],
+        "answerIndex": 1,
+        "explanation": "She asks about attending different tables, bringing a guest and hosting."
+      },
+      {
+        "prompt": "What will Ms. Mendes receive as a host?",
+        "category": "detail",
+        "choices": [
+          "A payment for each of the sessions she runs",
+          "A free drink and sometimes a free month",
+          "A guest pass to use for every single outing",
+          "A discount on everything sold at the Harbour Cafe"
+        ],
+        "answerIndex": 1,
+        "explanation": "Hosts receive a free drink and, with at least six sessions in a month, free membership for that month."
+      },
+      {
+        "prompt": "How much extra will Ms. Mendes's cousin usually pay to join an outing?",
+        "category": "inference",
+        "choices": [
+          "12 dollars",
+          "16 dollars",
+          "Nothing at all",
+          "8 dollars"
+        ],
+        "answerIndex": 3,
+        "explanation": "A guest pays a small transport fee, usually 8 dollars."
+      },
+      {
+        "prompt": "What can be inferred about the French table?",
+        "category": "inference",
+        "choices": [
+          "It currently needs a new host",
+          "It is full on Thursday evenings",
+          "It is reserved for advanced speakers",
+          "It meets only once a month"
+        ],
+        "answerIndex": 0,
+        "explanation": "The current host is moving away at the end of the month, and Mr. Lindqvist invites her to take over."
+      },
+      {
+        "prompt": "What is NOT mentioned about the Saturday outing?",
+        "category": "not_true",
+        "choices": [
+          "The date on which the next hike will take place",
+          "The need to register guests before the outing",
+          "Where the group will meet before the hike",
+          "The cost of the transport that a guest must pay"
+        ],
+        "answerIndex": 2,
+        "explanation": "The e-mail gives the date, registration rule and fee, but not where to meet."
+      }
+    ]
+  },
+  {
+    "id": "p7-229",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Regional Teachers' Conference: Friday program",
+        "text": "8:30 Registration (Atrium)\n9:15 Opening keynote: \"Learning in the age of distraction\" – Prof. Sinead Brophy (Auditorium)\n10:30 Session A (choose one): Assessment without exams (Room 101) · Teaching students with dyslexia (Room 102) · Using data to guide teaching (Room 103)\n12:00 Lunch (Atrium)\n13:15 Session B (choose one): Classroom management for beginners (Room 101) · Supporting multilingual learners (Room 102) · Educational games (Room 103)\n14:45 Coffee break\n15:15 Panel discussion: \"What do employers expect from graduates?\" (Auditorium)\n16:30 Closing and prize draw\nRegistration is included in the delegate fee of 180 dollars, which also covers lunch and refreshments, and a limited number of places at the reduced rate of 90 dollars remain for trainee teachers and students on presentation of a valid card. Parking is available at the college car park on Mill Road, five minutes from the venue. Note: Rooms 101 and 103 hold 60 people; Room 102 holds 40. Attendees should arrive ten minutes early for popular sessions. Slides of all sessions will be sent to registered delegates within one week."
+      },
+      {
+        "type": "email",
+        "title": "Question about sessions",
+        "text": "Dear Organizers,\n\nI am a language teacher at a school with many students from immigrant families, and I would like to follow the sessions most relevant to my situation. I also support a few students with dyslexia. Because I have to leave at 3 p.m. to collect my son from school, I may miss the panel. Will the discussion be recorded? Also, is it possible to swap sessions if the room is full?\n\nThank you,\nMartina Costa"
+      },
+      {
+        "type": "email",
+        "title": "Re: Question about sessions",
+        "text": "Dear Ms. Costa,\n\nThank you for your message. Considering your interests, I would suggest Session A on dyslexia and Session B on multilingual learners, both in Room 102. As Room 102 holds only forty people, I recommend arriving early. Sessions are not recorded, but the panel will be broadcast live and made available online the following week. If a room is full, you may go to another session; ushers will be present to help.\n\nWe look forward to seeing you.\n\nBest wishes,\nConference Office"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Which sessions does Ms. Costa receive advice to attend?",
+        "category": "detail",
+        "choices": [
+          "A session on data and a session on educational games",
+          "Two different sessions held in Room 101",
+          "A session on dyslexia and a session on multilingual learners",
+          "The opening keynote and the closing panel only"
+        ],
+        "answerIndex": 2,
+        "explanation": "The reply recommends the dyslexia session (A) and the multilingual one (B)."
+      },
+      {
+        "prompt": "Why does the Conference Office advise Ms. Costa to arrive early?",
+        "category": "inference",
+        "choices": [
+          "The room for those sessions has few seats",
+          "The keynote speaker will start earlier than planned",
+          "The registration desk closes at 8:30 in the morning",
+          "The sessions are recorded for the general public"
+        ],
+        "answerIndex": 0,
+        "explanation": "Room 102 holds only forty people, smaller than the others."
+      },
+      {
+        "prompt": "Why will Ms. Costa miss the panel?",
+        "category": "detail",
+        "choices": [
+          "She has another session in Room 101",
+          "She does not wish to hear employers",
+          "She has to leave the conference at lunchtime",
+          "She has to pick up her child"
+        ],
+        "answerIndex": 3,
+        "explanation": "She leaves at 3 p.m. to collect her son, and the panel is at 3:15."
+      },
+      {
+        "prompt": "How can Ms. Costa still hear the panel discussion?",
+        "category": "detail",
+        "choices": [
+          "By reading the slides sent within a week",
+          "By watching an online broadcast afterward",
+          "By attending a repeat of it on Saturday",
+          "By asking a colleague to record it"
+        ],
+        "answerIndex": 1,
+        "explanation": "The panel will be broadcast live and made available online the following week."
+      },
+      {
+        "prompt": "What can be said about Room 103 on Friday?",
+        "category": "inference",
+        "choices": [
+          "It is the largest room in the building",
+          "It hosts sessions on data and on games",
+          "It is used for the closing event",
+          "It is reserved for the keynote speaker"
+        ],
+        "answerIndex": 1,
+        "explanation": "Session A in Room 103 is on data, and Session B in Room 103 is on educational games."
+      }
+    ]
+  }
+]

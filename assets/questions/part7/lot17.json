@@ -1,0 +1,543 @@
+[
+  {
+    "id": "p7-236",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why the corner shop is not dead",
+        "text": "Predictions that the neighborhood convenience store would disappear were common a decade ago, when supermarkets expanded and online delivery grew. Yet the number of independent shops in the Harlan region has fallen by only four percent since then, far less than analysts expected. Those that remain have changed in ways that owners are only now beginning to describe.\n\nMany have shifted from selling basic groceries to providing services that large chains find unprofitable. Anita Das, who runs a shop in the Bellfield district, now receives parcels for neighbors who are out at work, sells hot meals prepared by a local cook, and lets customers pay by weekly account. \"People are not coming for the cheapest milk,\" she says. \"They are coming because someone knows their name.\" Parcel handling alone, for which she receives a small fee, has added around a tenth to her income.\n\nThe trade body representing independent retailers reports that stores in lower-income areas have fared worst. Rents there are lower, but so is spending, and the cost of stocking fresh produce can be prohibitive. A regional program offering shopkeepers interest-free loans to install refrigeration is due to begin next spring. Researcher Colm Egan cautions, however, that survival is not the same as prosperity. \"Many owners work eighty hours a week for less than they would earn in a warehouse,\" he says. \"The shop is a way of life, but it is not always a living.\""
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "Why supermarkets are building smaller shops",
+          "How small stores have adapted instead of disappearing",
+          "The effect of online delivery on food prices",
+          "A decline in the number of independent retailers"
+        ],
+        "answerIndex": 1,
+        "explanation": "The number of shops fell only slightly, and owners adapted by providing services."
+      },
+      {
+        "prompt": "What does Ms. Das say customers value?",
+        "category": "detail",
+        "choices": [
+          "Cheap milk and fresh vegetables sold every day",
+          "Hot meals sold at much reduced prices",
+          "Longer opening hours that continue into the night",
+          "Being known by name more than saving money"
+        ],
+        "answerIndex": 3,
+        "explanation": "She says people come because someone knows their name, not for the cheapest milk."
+      },
+      {
+        "prompt": "What is true about shops in poorer districts?",
+        "category": "inference",
+        "choices": [
+          "Offering fresh food is harder for them",
+          "They earn much more from handling parcels for neighbors",
+          "They pay higher rents than shops in other districts",
+          "They are the first to be given the new refrigeration loans"
+        ],
+        "answerIndex": 0,
+        "explanation": "They have fared worst, and the cost of stocking fresh produce can be prohibitive."
+      },
+      {
+        "prompt": "What does Mr. Egan imply with \"it is not always a living\"?",
+        "category": "inference",
+        "choices": [
+          "Owners have little interest in their shops",
+          "The shops are about to close next year",
+          "Owners often do not earn enough for their work",
+          "The shops are mainly run as hobbies"
+        ],
+        "answerIndex": 2,
+        "explanation": "He says many owners work eighty hours a week for less than a warehouse job would pay."
+      }
+    ]
+  },
+  {
+    "id": "p7-237",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Reminder: Data protection training",
+        "text": "To: All employees\nFrom: Rhea Kapoor, Compliance Officer\nDate: 8 January\n\nAll employees must complete the annual data protection course by 28 February. The course, which takes about forty minutes online, has been updated this year to reflect the new rules on the transfer of customer data between countries. It includes a short test, and a score of at least 80 percent is required to pass; participants who fail may repeat the test twice.\n\nLast year, 14 percent of staff completed the course after the deadline, and in four cases, access to the customer database had to be suspended until the training was finished. This year, a reminder will be sent to employees and their managers on 15 February, and any employee who has not completed the course by the deadline will lose access to the database on 1 March, until a certificate has been uploaded to the personnel portal.\n\nPlease note that employees on leave at the time of the deadline should complete the training within one week of their return. New employees who joined after 1 November are exempt from this year's course, as they have already received a similar introduction. If you have difficulty accessing the course or have questions on the content, write to the compliance team rather than to the IT department."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the memo?",
+        "category": "purpose",
+        "choices": [
+          "To announce a change of supplier for the database",
+          "To report a breach of customer data last year",
+          "To remind staff of a compulsory training course",
+          "To introduce a new member of the compliance team"
+        ],
+        "answerIndex": 2,
+        "explanation": "It reminds employees to complete the annual data protection course by a deadline."
+      },
+      {
+        "prompt": "What happens to staff who do not finish the course on time?",
+        "category": "detail",
+        "choices": [
+          "They are cut off from a system until they are certified",
+          "They have to repeat the whole course twice more",
+          "They must pay a fee for taking a second test",
+          "They are asked to leave the company at once"
+        ],
+        "answerIndex": 0,
+        "explanation": "They lose access to the database on 1 March until a certificate has been uploaded."
+      },
+      {
+        "prompt": "Who does NOT need to take the course this year?",
+        "category": "not_true",
+        "choices": [
+          "Employees who are away on 28 February",
+          "Staff members with access to customer data",
+          "Managers of departments",
+          "People who started work after 1 November"
+        ],
+        "answerIndex": 3,
+        "explanation": "New employees who joined after 1 November are exempt; people on leave must complete it after returning."
+      },
+      {
+        "prompt": "What can be inferred about last year's course?",
+        "category": "inference",
+        "choices": [
+          "It was much shorter than this year's version",
+          "Quite a few people missed the deadline",
+          "It did not include a test at the end of it",
+          "It was completed by all staff well in advance"
+        ],
+        "answerIndex": 1,
+        "explanation": "14 percent completed it late, and in four cases database access was suspended."
+      }
+    ]
+  },
+  {
+    "id": "p7-238",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Request to extend the exhibition",
+        "text": "To: Dr. Imogen Hale, Director, Fairfield Museum\nFrom: Tobias Renner, Exhibitions Manager\nSubject: Proposal to extend \"Bridges of the Industrial Age\"\n\nDear Dr. Hale,\n\nI am writing to propose that we extend the run of the current exhibition, \"Bridges of the Industrial Age,\" from its scheduled closing date of 30 April to 30 June. Attendance has exceeded our forecast by 35 percent, and the guided tours have been fully booked on every weekend since February. Several school groups have also asked whether they could visit after the Easter holidays, when their syllabus reaches the topic.\n\nThe main obstacle is that the gallery is promised from 1 May to the photography exhibition, for which the lenders have already signed their agreements. [A] We could, however, move the bridge models into the smaller Hartley Room, which can accommodate about two thirds of the display. [B] The cost of the move and of extending the insurance cover would be approximately 14,000 dollars, which would be recovered if attendance remains at the current level for even five weeks. [C]\n\nThe lenders of the objects must agree to an extension, and I have already written to the two largest. If they accept, I would need your approval by 15 March to reprint the leaflets and update our Web site. [D] I would be glad to discuss this with you at your convenience.\n\nBest regards,\nTobias"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To cancel an exhibition that has been planned",
+          "To propose keeping a show open for longer",
+          "To ask for more money for the photography show",
+          "To report a drop in the number of visitors"
+        ],
+        "answerIndex": 1,
+        "explanation": "He proposes extending the exhibition until 30 June."
+      },
+      {
+        "prompt": "What is the main difficulty with the proposal?",
+        "category": "detail",
+        "choices": [
+          "The lenders of the objects have withdrawn them",
+          "School groups are unable to visit during May",
+          "The guided tours are no longer being offered",
+          "The main gallery is promised to a different show"
+        ],
+        "answerIndex": 3,
+        "explanation": "The gallery is promised from 1 May to the photography exhibition."
+      },
+      {
+        "prompt": "What does Mr. Renner suggest as a solution?",
+        "category": "detail",
+        "choices": [
+          "Moving part of the display to a smaller room",
+          "Closing the exhibition at the end of April",
+          "Asking the photographers to change their dates",
+          "Charging visitors more for tickets"
+        ],
+        "answerIndex": 0,
+        "explanation": "He proposes moving the bridge models into the Hartley Room, which holds about two thirds of the display."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"In this way, the museum could keep the most popular items on show without cancelling any commitment.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence explains the benefit of moving the models into the smaller room, so it follows the description of that solution at [B]."
+      }
+    ]
+  },
+  {
+    "id": "p7-239",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Messages between Jun Matsuda and Rosa Delgado",
+        "text": "Jun Matsuda (1:05 p.m.): Rosa, the caterer just called. They can't do the vegan option for the sales dinner because their supplier let them down. They offered a vegetarian alternative with cheese.\nRosa Delgado (1:08 p.m.): That doesn't work for the three people who don't eat dairy. How many are vegan altogether?\nJun Matsuda (1:09 p.m.): Three, plus one who has a nut allergy.\nRosa Delgado (1:11 p.m.): The allergy has to be taken seriously. I'd rather ask the hotel restaurant if they can prepare four special meals. They did something similar for the conference last spring.\nJun Matsuda (1:14 p.m.): Good thinking. But the dinner is in six days and the hotel's kitchen needs notice of at least forty-eight hours for dietary requests.\nRosa Delgado (1:15 p.m.): Then there's time. Call them now and ask for a quote. If it's under 25 dollars per person, accept; if not, send me the details.\nJun Matsuda (1:17 p.m.): Will do. I'll also tell the caterer we won't need the vegetarian dish, so they can reduce the order and the bill."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What problem does Mr. Matsuda report?",
+        "category": "detail",
+        "choices": [
+          "The hotel is fully booked on that night",
+          "Four guests have canceled their attendance",
+          "The caterer cannot provide a promised meal",
+          "The dinner has been moved to another day"
+        ],
+        "answerIndex": 2,
+        "explanation": "The caterer cannot do the vegan option because of a supplier failure."
+      },
+      {
+        "prompt": "Why is the vegetarian alternative unsuitable?",
+        "category": "detail",
+        "choices": [
+          "It costs more than the other dishes",
+          "It was served at last spring's conference",
+          "It contains an ingredient some guests avoid",
+          "It cannot be made in six days"
+        ],
+        "answerIndex": 2,
+        "explanation": "It includes cheese, but three guests do not eat dairy."
+      },
+      {
+        "prompt": "What does Ms. Delgado authorize Mr. Matsuda to do?",
+        "category": "inference",
+        "choices": [
+          "Accept an offer below a fixed price on her own",
+          "Choose a different hotel for the sales dinner",
+          "Cancel the sales dinner for all the guests",
+          "Order some extra dishes from the original caterer"
+        ],
+        "answerIndex": 0,
+        "explanation": "If the quote is under 25 dollars per person, he should accept."
+      },
+      {
+        "prompt": "What can be inferred about the hotel's notice requirement?",
+        "category": "inference",
+        "choices": [
+          "The hotel cannot cook for guests with allergies",
+          "The hotel refuses short notice orders",
+          "The dinner has to be postponed",
+          "The request can be made in time for the dinner"
+        ],
+        "answerIndex": 3,
+        "explanation": "The dinner is in six days and the hotel needs forty-eight hours, so there is time."
+      }
+    ]
+  },
+  {
+    "id": "p7-240",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Review: Aero 7 laptop",
+        "text": "Rating: 3 out of 5 · Verified purchase · Used for four months\n\nI bought the Aero 7 for work that involves a lot of travel, and in some respects it is the ideal machine. At 1.1 kilograms, it is easy to carry, and the battery lasts about eleven hours of ordinary use, which comfortably covers a long-haul flight. The screen is bright enough to be read outdoors and the keyboard is among the most comfortable I have used on a thin laptop.\n\nMy difficulties began after a software update in the second month, after which the fan started to run constantly, even when I was only writing e-mails. The noise is not loud, but in a quiet room, it is distracting, and the underside of the laptop became noticeably hot. The manufacturer's support suggested reinstalling the system, which improved matters for a week before the problem returned. I have since read that others have reported similar behavior.\n\nThe machine also has only two ports, so anyone who needs to connect a monitor, a mouse and a memory card at the same time will need an adapter. Taking everything into account, I would recommend the Aero 7 to someone who travels a lot and writes rather than edits video, and who is prepared to wait for a firmware update that may or may not fix the cooling issue."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall opinion?",
+        "category": "main_idea",
+        "choices": [
+          "Disappointed by the short life of the battery",
+          "Great for travel but let down by a heat issue",
+          "Impressed by the speed when editing video",
+          "Unhappy with the quality of the screen in daylight"
+        ],
+        "answerIndex": 1,
+        "explanation": "Positives are weight, battery, screen and keyboard; the fan and heat problem lower the rating."
+      },
+      {
+        "prompt": "What happened after the update?",
+        "category": "detail",
+        "choices": [
+          "The battery stopped working",
+          "The fan began to run all the time",
+          "The keyboard became uncomfortable",
+          "The screen lost brightness"
+        ],
+        "answerIndex": 1,
+        "explanation": "The fan started to run constantly, even for simple tasks."
+      },
+      {
+        "prompt": "What does the reviewer suggest about the manufacturer's solution?",
+        "category": "inference",
+        "choices": [
+          "It solved the issue completely",
+          "It made the problem worse",
+          "It was refused by the support team",
+          "It gave only temporary relief"
+        ],
+        "answerIndex": 3,
+        "explanation": "Reinstalling the system improved matters for a week before the problem returned."
+      },
+      {
+        "prompt": "Who would the reviewer advise to buy the laptop?",
+        "category": "inference",
+        "choices": [
+          "A traveler who mostly writes documents",
+          "A designer who edits video",
+          "A student who uses many accessories",
+          "A gamer who needs a fast screen"
+        ],
+        "answerIndex": 0,
+        "explanation": "They recommend it to someone who travels a lot and writes rather than edits video."
+      }
+    ]
+  },
+  {
+    "id": "p7-241",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Maintenance Technician, Coastal Brewing Company",
+        "text": "Coastal Brewing Company, a craft brewery with 85 employees, is looking for a Maintenance Technician to keep its brewing and bottling lines in perfect working order. You will carry out routine inspections, repair mechanical and electrical faults, and keep records of all interventions. The post involves some on-call duty: one week in every six, you must be able to reach the brewery within thirty minutes.\n\nRequirements: an electrical or mechanical qualification, at least three years of experience in a food or beverage plant, and the ability to read technical drawings. Familiarity with automated filling machines is a strong advantage. We offer 36,000 to 41,000 dollars, a bonus for on-call weeks, free beer allowance and a training budget. Apply with a résumé to jobs@coastalbrewing.example by 14 November. Please state your earliest start date."
+      },
+      {
+        "type": "email",
+        "title": "Application: Maintenance Technician",
+        "text": "Dear Hiring Team,\n\nI would like to apply for the Maintenance Technician position. I have an electrical engineering diploma and have worked for five years at a dairy plant, where I maintain filling and packaging machines. Last year, I led the replacement of a bottling line motor during a weekend shutdown, which meant production restarted on Monday as planned.\n\nI live forty minutes from your brewery, which I understand is further than your on-call requirement. However, I would be willing to move closer if I were offered the job. I could start on 2 January, after the month of notice that my current contract demands. I would also appreciate it if you could tell me whether the training budget could be used for a course on automated control systems.\n\nSincerely,\nDennis Okafor"
+      },
+      {
+        "type": "email",
+        "title": "Re: Application: Maintenance Technician",
+        "text": "Dear Mr. Okafor,\n\nThank you for your application. Your experience with filling machines is very relevant. The thirty-minute rule is firm for safety reasons, but we are able to offer a relocation payment of 2,000 dollars if you move before beginning on-call duty, which would not start until your second month. The training budget can certainly be used for a course on control systems, provided that it is linked to your duties.\n\nWe would like to meet you on 20 November at the brewery, and you will be shown the bottling line. Please bring documentation of your qualifications.\n\nBest wishes,\nEleanor Marsh, Production Manager"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Which requirement of the ad does Mr. Okafor satisfy?",
+        "category": "detail",
+        "choices": [
+          "A qualification in mechanical engineering",
+          "Residence within thirty minutes of the brewery",
+          "Experience in a food plant and with filling machines",
+          "Experience of working in a brewery"
+        ],
+        "answerIndex": 2,
+        "explanation": "He worked in a dairy plant on filling and packaging machines; he lives forty minutes away."
+      },
+      {
+        "prompt": "What difficulty does Mr. Okafor raise?",
+        "category": "detail",
+        "choices": [
+          "He cannot start before the new year",
+          "He has no experience of beer",
+          "He lives too far away to be on call",
+          "He needs a higher salary"
+        ],
+        "answerIndex": 2,
+        "explanation": "He lives forty minutes away, further than the on-call requirement."
+      },
+      {
+        "prompt": "How does Ms. Marsh respond to his concern?",
+        "category": "inference",
+        "choices": [
+          "She promises money if he moves nearer",
+          "She excuses him from on-call duty completely",
+          "She asks him to look for a different job",
+          "She extends the length of the on-call period"
+        ],
+        "answerIndex": 0,
+        "explanation": "The thirty-minute rule is firm, but a relocation payment of 2,000 dollars is offered."
+      },
+      {
+        "prompt": "What can be inferred about his on-call duties?",
+        "category": "inference",
+        "choices": [
+          "They would occur every single week of the year",
+          "They would be paid by the hour as overtime",
+          "They would not be required of him at all",
+          "They would not start on his first day"
+        ],
+        "answerIndex": 3,
+        "explanation": "On-call duty would not start until his second month."
+      },
+      {
+        "prompt": "What will Mr. Okafor probably have to do before the on-call duty begins?",
+        "category": "inference",
+        "choices": [
+          "Complete a course on control systems",
+          "Find a home nearer to the brewery",
+          "Attend an interview in his second month",
+          "Return the relocation payment"
+        ],
+        "answerIndex": 1,
+        "explanation": "The thirty-minute rule is firm and on-call duty starts only in his second month, so he must move closer first."
+      }
+    ]
+  },
+  {
+    "id": "p7-242",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Eastport Ferry: Bicycle and vehicle policy",
+        "text": "Bicycles may be taken on all sailings for a fee of 4 dollars each way, payable on boarding. There is space for twenty bicycles per sailing; they cannot be reserved. Cars must be booked in advance online and cost 38 dollars each way in the summer season (1 June to 30 September) and 29 dollars out of season. Motorcycles pay 18 dollars. Vehicles must arrive at least thirty minutes before departure, or the booking will be canceled without refund. Foot passengers pay 7 dollars each way, and children under five travel free. Pets may travel on the outer deck."
+      },
+      {
+        "type": "email",
+        "title": "Question about my trip",
+        "text": "Dear Eastport Ferry,\n\nFour of us plan to visit Marsh Island on Saturday 26 July, two adults and two children aged four and nine. We would like to take one car and two bicycles on the 9:30 sailing and return on the 6 p.m. departure. Could you tell me the total cost? I also have a small dog. Also, last year we arrived twenty minutes before departure and were allowed on board; is the thirty-minute rule new?\n\nRegards,\nFatima Aziz"
+      },
+      {
+        "type": "email",
+        "title": "Re: Question about my trip",
+        "text": "Dear Ms. Aziz,\n\nThank you for your message. Since 26 July falls in the summer season, the car costs 38 dollars each way. Two bicycles cost 4 dollars each way, per bicycle. The children pay as follows: the four-year-old travels free, and the nine-year-old pays the foot passenger rate. The adults and children traveling by car do not pay a separate foot passenger fare; only the vehicle fee applies, with one exception: passengers traveling without a vehicle pay the fare.\n\nThe thirty-minute rule was introduced in March, as last year's last-minute arrivals caused delays. Dogs are welcome on the outer deck. Please book the car online as soon as you can, since the 9:30 sailing is almost full.\n\nKind regards,\nPassenger Services"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of Ms. Aziz's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To cancel a journey that she has already booked",
+          "To learn the price and rules for a family day out",
+          "To complain about a sailing that left late",
+          "To ask for a refund for the cost of a bicycle"
+        ],
+        "answerIndex": 1,
+        "explanation": "She asks about total cost, the dog and the arrival rule."
+      },
+      {
+        "prompt": "What can be said about the thirty-minute rule?",
+        "category": "detail",
+        "choices": [
+          "It applies only to bicycles",
+          "It has always been in effect",
+          "It does not apply in summer",
+          "It is a recent change"
+        ],
+        "answerIndex": 3,
+        "explanation": "It was introduced in March because of delays caused by last-minute arrivals."
+      },
+      {
+        "prompt": "What is the cost of the two bicycles for the round trip?",
+        "category": "inference",
+        "choices": [
+          "16 dollars",
+          "8 dollars",
+          "4 dollars",
+          "76 dollars"
+        ],
+        "answerIndex": 0,
+        "explanation": "Each bicycle costs 4 dollars each way, so two bicycles over two crossings cost 4 x 2 x 2 = 16 dollars."
+      },
+      {
+        "prompt": "What is the cost of the car for the round trip in July?",
+        "category": "inference",
+        "choices": [
+          "38 dollars",
+          "58 dollars",
+          "76 dollars",
+          "29 dollars"
+        ],
+        "answerIndex": 2,
+        "explanation": "The summer rate is 38 dollars each way, so 76 dollars return."
+      },
+      {
+        "prompt": "What can be inferred about booking the car?",
+        "category": "inference",
+        "choices": [
+          "Bicycles must be booked online in advance as well",
+          "The dog needs its own separate reservation",
+          "The morning sailing may soon be fully booked",
+          "The thirty-minute rule is waived for private cars"
+        ],
+        "answerIndex": 2,
+        "explanation": "Passenger Services says the 9:30 sailing is almost full and asks her to book as soon as possible."
+      }
+    ]
+  },
+  {
+    "id": "p7-243",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter confirming a scholarship",
+        "text": "Dear Ms. Aydin,\n\nOn behalf of the Pembroke Scholarship Fund, I am delighted to confirm that you have been awarded a scholarship of 6,000 dollars for the coming academic year. The selection panel considered 340 applications and was especially struck by your project proposal on water conservation in coastal towns.\n\nThe scholarship will be paid in two equal installments: the first on 1 October, and the second on 1 February, provided that you maintain a grade average of at least 70 percent in your first semester. The money may be used for tuition, books or living costs, but not for travel abroad unless it is part of your program.\n\nAs a condition of the award, you are asked to write a short report at the end of the year and to attend our annual dinner on 12 May, where recipients meet donors. We also hope that you will consider acting as a mentor to a future applicant. Previous recipients have described the dinner as a valuable opportunity to meet people working in their chosen field, and several have been offered summer placements through contacts made on the evening. The Fund also publishes a short profile of each recipient in its annual newsletter, unless you tell us that you would prefer not to appear.\n\nPlease sign and return the enclosed acceptance form by 15 September. If we do not hear from you by then, the scholarship will be offered to the next candidate on our list.\n\nYours sincerely,\nEvelyn Pryce, Secretary"
+      },
+      {
+        "type": "email",
+        "title": "Acceptance and a question",
+        "text": "Dear Ms. Pryce,\n\nThank you for the wonderful news. I will return the signed form this week. I have one question: my program includes a two-week field study in Portugal in March, for which I will need to cover flights and accommodation. Since the study is a required part of the course, I assume the funds could be used for it. Could you confirm? Also, I will be on a placement abroad on 12 May and may not be able to attend the dinner; may I send a video message instead?\n\nBest regards,\nSelin Aydin"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of Ms. Pryce's letter?",
+        "category": "purpose",
+        "choices": [
+          "To confirm that a student will receive funding",
+          "To announce an increase in the cost of tuition",
+          "To invite students to apply for a new grant",
+          "To explain how to become a mentor next year"
+        ],
+        "answerIndex": 0,
+        "explanation": "The letter confirms the scholarship and sets out its conditions."
+      },
+      {
+        "prompt": "What must Ms. Aydin do to receive the second payment?",
+        "category": "detail",
+        "choices": [
+          "Write a report on her project to the Fund",
+          "Attend the annual dinner of donors in May",
+          "Find another student whom she can mentor",
+          "Reach a minimum average grade in term one"
+        ],
+        "answerIndex": 3,
+        "explanation": "The second installment depends on a grade average of at least 70 percent in the first semester."
+      },
+      {
+        "prompt": "Why does Ms. Aydin think the money may be used for her trip to Portugal?",
+        "category": "inference",
+        "choices": [
+          "The field study takes place close to her home",
+          "The trip is a required part of her course",
+          "The Fund has promised to pay for her flights",
+          "Her tutor has approved the trip in writing"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says the study is a required part of the course, and the letter allows travel abroad if it is part of the program."
+      },
+      {
+        "prompt": "How much will Ms. Aydin receive on 1 October?",
+        "category": "inference",
+        "choices": [
+          "2,000 dollars",
+          "3,000 dollars",
+          "4,000 dollars",
+          "6,000 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "The scholarship of 6,000 dollars is paid in two equal installments."
+      },
+      {
+        "prompt": "What is NOT mentioned in Ms. Aydin's reply?",
+        "category": "not_true",
+        "choices": [
+          "A question about permitted expenses",
+          "A promise to return a form",
+          "A possible absence from the dinner",
+          "A request to receive the money earlier"
+        ],
+        "answerIndex": 3,
+        "explanation": "She mentions the form, the field study expenses and the dinner, but not an early payment."
+      }
+    ]
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "id": "p7-177",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Solar cooperative lights up a rural valley",
+        "text": "In the Alder Valley, where winters are long and electricity bills are among the highest in the region, eighty households have taken matters into their own hands. Two years ago they formed a cooperative, raised 1.6 million dollars from members and local banks, and built a solar park on a neglected hillside owned by the parish. The park began feeding power into the grid in May, and members now receive a dividend and a reduction on their bills.\n\nThe project was far from straightforward. Obtaining a grid connection took fourteen months, much longer than anticipated, because the local network operator had to reinforce a transformer. [A] Cooperative chair Hana Beaumont says that the delay almost caused members to lose faith. \"Several people asked for their money back,\" she recalls. \"What kept us going was a handful of volunteers who knew how to read the technical reports.\" [B]\n\nCritics argue that the model cannot easily be copied. The valley's unusually sunny slopes and the parish's willingness to lease land cheaply were, in their view, strokes of luck. Ms. Beaumont does not entirely disagree, but she points out that a regional fund now offers advice to communities planning similar schemes. [C] Three other villages have already contacted the cooperative, and a second park, double the size of the first, is under consideration. [D]"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "A bank's decision to lend money to local farmers",
+          "Residents who built and now profit from a power plant",
+          "A dispute between a parish and a large energy firm",
+          "A new design for roof-mounted solar panels at home"
+        ],
+        "answerIndex": 1,
+        "explanation": "Villagers formed a cooperative that built a solar park and now earn income and lower bills."
+      },
+      {
+        "prompt": "What caused the delay mentioned in the article?",
+        "category": "detail",
+        "choices": [
+          "A lack of money among the cooperative's members",
+          "A disagreement with the parish over the land lease",
+          "A shortage of volunteers with technical knowledge",
+          "A network upgrade that had to come first"
+        ],
+        "answerIndex": 3,
+        "explanation": "The network operator had to reinforce a transformer before the connection."
+      },
+      {
+        "prompt": "What does Ms. Beaumont suggest about the volunteers?",
+        "category": "inference",
+        "choices": [
+          "Their technical skills kept the scheme alive",
+          "They were paid for their work by the regional fund",
+          "They asked other members to withdraw their money",
+          "They disagreed with the opinion of the project's critics"
+        ],
+        "answerIndex": 0,
+        "explanation": "She says that a handful of volunteers who understood the technical reports kept them going."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"As a result, the first payments to members arrived almost a year later than promised.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 0,
+        "explanation": "'As a result' needs the fourteen-month connection delay immediately before it, which is the sentence preceding [A]. At [B] the text has moved on to the chair's comments."
+      }
+    ]
+  },
+  {
+    "id": "p7-178",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Letter regarding an overdue library item",
+        "text": "Dear Mr. Fischer,\n\nOur records show that the book \"Principles of Urban Planning\" (item no. 3318-77), which you borrowed on 4 September, was due for return on 25 September and has not yet been returned. In accordance with our lending policy, a fine of 0.40 dollars per day has been applied since that date, up to a maximum of 12 dollars.\n\nIf you have already returned the book, please let us know, as it may have been mislaid in our system. Otherwise, we ask you to bring it back to any branch of the Rowan Library service within the next fourteen days. After that time, we will send a final notice and your borrowing privileges will be suspended; if the book is not returned within sixty days, you will be charged its replacement cost of 48 dollars, in addition to any fines.\n\nWe understand that circumstances sometimes prevent timely returns. If this is the case, you may request a waiver of the fine by writing to the address below, explaining the reason. Requests are considered individually and are usually answered within a week. Please note that you may also renew items online up to two days before the due date, a service we encourage borrowers to use.\n\nYours sincerely,\nMarta Eliasson, Circulation Services"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To announce the closing of a branch of the library",
+          "To thank Mr. Fischer for a recent donation of books",
+          "To remind a borrower of a book and its consequences",
+          "To invite him to join a reading group in the area"
+        ],
+        "answerIndex": 2,
+        "explanation": "The letter notifies of an overdue book, fines and next steps."
+      },
+      {
+        "prompt": "What will happen if Mr. Fischer does nothing for two weeks?",
+        "category": "detail",
+        "choices": [
+          "He will be charged the replacement cost of the book",
+          "He will automatically be granted a waiver of the fine",
+          "He will receive a last warning and lose lending rights",
+          "He will be banned from every branch of the service"
+        ],
+        "answerIndex": 2,
+        "explanation": "After fourteen days a final notice is sent and borrowing privileges suspended; the replacement fee applies only after sixty days."
+      },
+      {
+        "prompt": "What is the largest amount Mr. Fischer could owe in fines?",
+        "category": "detail",
+        "choices": [
+          "12 dollars",
+          "0.40 dollars",
+          "48 dollars",
+          "60 dollars"
+        ],
+        "answerIndex": 0,
+        "explanation": "The fine is 0.40 per day up to a maximum of 12 dollars; 48 is the replacement cost."
+      },
+      {
+        "prompt": "What is suggested about the library's attitude?",
+        "category": "inference",
+        "choices": [
+          "It refuses to accept any request for a waiver of fines",
+          "It will replace the book at no cost to the borrower",
+          "It no longer allows borrowers to renew items online",
+          "It is ready to consider individual explanations"
+        ],
+        "answerIndex": 3,
+        "explanation": "It says circumstances sometimes prevent returns and that waiver requests are considered individually."
+      }
+    ]
+  },
+  {
+    "id": "p7-179",
+    "documents": [
+      {
+        "type": "online_chat",
+        "title": "Team chat: Product launch planning",
+        "text": "Rita Alvarez (9:02): Morning all. Quick update on the Sorrel blender launch. The packaging supplier says the printed boxes will arrive on the 14th, not the 10th as planned.\nTom Becker (9:04): That puts us in a tough spot. The retail partners expect stock in their warehouses by the 16th at the latest, and shipping takes two days.\nRita Alvarez (9:05): Exactly. Which means the earliest we could ship is the 14th, and we'd barely make it if the boxes are packed the same day.\nNina Osei (9:08): What if we use the plain boxes we have in storage for the first batch and add a printed sleeve afterward? The retailers could attach them in the stores.\nTom Becker (9:09): Risky. The sleeves carry the safety instructions, and I'm not sure we are allowed to sell without them.\nNina Osei (9:11): Good point. I'll check with legal. In the meantime, can the supplier prioritize our order if we pay an express fee?\nRita Alvarez (9:13): I asked. They can deliver on the 12th for an additional 900 dollars. I'd say it's worth it. A week's delay would cost us more in lost promotion.\nTom Becker (9:14): Agreed. Let's approve it and I'll tell the retailers we're on track."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What problem is the team discussing?",
+        "category": "main_idea",
+        "choices": [
+          "A fault discovered in the motor of the blender",
+          "A late delivery that endangers the launch date",
+          "A disagreement with one of the retail partners",
+          "A rise in the price of the materials for boxes"
+        ],
+        "answerIndex": 1,
+        "explanation": "The boxes will arrive on the 14th instead of the 10th, which endangers delivery to stores by the 16th."
+      },
+      {
+        "prompt": "Why does Mr. Becker reject Ms. Osei's suggestion?",
+        "category": "detail",
+        "choices": [
+          "The sleeves would cost more than the printed boxes",
+          "Safety information might not reach the buyers",
+          "The retailers have refused to attach anything to goods",
+          "The boxes kept in storage are much too small to use"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sleeves carry safety instructions and he doubts they can sell without them."
+      },
+      {
+        "prompt": "What decision do the team members reach?",
+        "category": "detail",
+        "choices": [
+          "To postpone the launch by a week",
+          "To ship the products without packaging",
+          "To ask legal to approve the sleeves",
+          "To pay extra so the boxes arrive earlier"
+        ],
+        "answerIndex": 3,
+        "explanation": "They approve the express fee of 900 dollars for delivery on the 12th."
+      },
+      {
+        "prompt": "What does Ms. Alvarez mean by \"we'd barely make it\" at 9:05?",
+        "category": "inference",
+        "choices": [
+          "There would be almost no margin for any problem",
+          "The shipment would be too large for the truck",
+          "The retailers might refuse to take the stock",
+          "Packing would take several days to complete"
+        ],
+        "answerIndex": 0,
+        "explanation": "If boxes arrive on the 14th and shipping takes two days, the stock would reach stores exactly on the 16th deadline."
+      }
+    ]
+  },
+  {
+    "id": "p7-180",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Greystone Business Centre: Meeting rooms to hire",
+        "text": "Greystone Business Centre offers fully equipped meeting rooms in the heart of the financial district. The Aspen room seats ten and costs 60 dollars per hour; the Birch room seats twenty-five and costs 110 dollars per hour; and the Cedar boardroom seats sixteen at 85 dollars per hour. All rooms include a projector, video-conference equipment and complimentary Wi-Fi. Catering is available at 12 dollars per person for lunch and 5 dollars per person for coffee and pastries. Bookings must be made at least forty-eight hours in advance, and cancellations less than twenty-four hours before the event are charged in full."
+      },
+      {
+        "type": "email",
+        "title": "Booking request",
+        "text": "Dear Greystone,\n\nI would like to reserve a room for a training workshop on Thursday 12 March from 9 a.m. to 1 p.m. for twenty guests. We will need the projector and would like coffee on arrival and a light lunch at noon. One of our participants uses a wheelchair, so I would appreciate confirmation that the room and restrooms are accessible. Could you also tell me whether we could arrive early at 8:30 to arrange the tables?\n\nBest regards,\nKamala Verma\nNorthlight Training"
+      },
+      {
+        "type": "email",
+        "title": "Re: Booking request",
+        "text": "Dear Ms. Verma,\n\nThe Birch room is available on that date and is on the ground floor, with step-free access and an accessible restroom directly opposite. You are welcome to enter at 8:30; we do not charge for the half hour as long as the room is not used by another client.\n\nThe total quote is as follows: four hours' room hire, coffee and pastries for twenty, and lunch for twenty. Because you are a returning customer, we are pleased to offer you a discount of 10 percent on the room hire only. Please confirm by Monday, as there is interest in the room from another company.\n\nThe room is equipped with a whiteboard as well as the projector, and our reception team can help distribute printed materials if you send them to us the day before. Parking is available in the underground garage at a reduced rate for your guests.\n\nKind regards,\nJamal Haddad, Greystone Business Centre"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the purpose of Ms. Verma's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To complain about a recent rise in meeting room prices",
+          "To cancel an event that was held on an earlier date",
+          "To book a venue for a training session",
+          "To ask for a refund for the catering already supplied"
+        ],
+        "answerIndex": 2,
+        "explanation": "She requests a room for a workshop and asks about accessibility and early access."
+      },
+      {
+        "prompt": "Why is the Birch room chosen?",
+        "category": "inference",
+        "choices": [
+          "It is the cheapest of the three rooms on offer",
+          "It is the only room that has a projector installed",
+          "It is the only one big enough for twenty people",
+          "It is the room that is closest to the main entrance"
+        ],
+        "answerIndex": 2,
+        "explanation": "Aspen seats ten, Cedar sixteen and Birch twenty-five."
+      },
+      {
+        "prompt": "What is NOT mentioned in Mr. Haddad's reply?",
+        "category": "not_true",
+        "choices": [
+          "A discount on the catering",
+          "Step-free access to the room",
+          "A reduction for a returning client",
+          "An early start to prepare the tables"
+        ],
+        "answerIndex": 0,
+        "explanation": "The 10 percent discount applies to room hire only."
+      },
+      {
+        "prompt": "What is the total cost Ms. Verma will pay?",
+        "category": "inference",
+        "choices": [
+          "840 dollars",
+          "1,012 dollars",
+          "1,128 dollars",
+          "736 dollars"
+        ],
+        "answerIndex": 3,
+        "explanation": "Room: 4 x 110 = 440, less 10 percent = 396; coffee 20 x 5 = 100; lunch 20 x 12 = 240; total 736."
+      },
+      {
+        "prompt": "Why does Mr. Haddad ask for confirmation by Monday?",
+        "category": "detail",
+        "choices": [
+          "The period for canceling begins on the following Monday",
+          "Another company may want to book the same room",
+          "The event has been moved to the Tuesday of that week",
+          "The catering has to be ordered several days in advance"
+        ],
+        "answerIndex": 1,
+        "explanation": "He says there is interest in the room from another company."
+      }
+    ]
+  }
+]

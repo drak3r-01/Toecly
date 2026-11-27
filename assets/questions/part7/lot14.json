@@ -1,0 +1,406 @@
+[
+  {
+    "id": "p7-218",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Why small airports are betting on cargo",
+        "text": "Across the region, small airports that once depended on holiday charter flights are quietly rebuilding themselves around freight. At Lorring Field, a runway that handled fewer than twenty passenger departures a day now receives six cargo flights each night, carrying everything from medical supplies to fresh flowers destined for city markets. Airport manager Beatrix Nyman says the change saved the airport from closure. \"Passengers come and go with the season,\" she says. \"Packages do not mind the weather or the calendar.\"\n\nThe logic is compelling. Cargo operators prefer airports with few delays and low landing fees, and small fields offer both. They are also less restricted in the hours they may operate, since residents live farther away than they do from major airports. Online retail has done the rest: parcel volume at regional airports has risen by almost forty percent in three years.\n\nThere are drawbacks. Night flights bring noise to nearby villages, and a recent survey found that a majority of local residents oppose any further expansion. Freight is also notoriously cyclical, and an airport that relies on a single carrier may find itself exposed if the carrier moves its business elsewhere. Aviation consultant Piotr Lindgren advises airports to diversify: \"The ones that survive are those that combine freight with training schools, maintenance services and perhaps a small number of passenger routes.\" Ms. Nyman agrees, adding that Lorring Field hopes to open a pilot academy next year."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main subject of the article?",
+        "category": "main_idea",
+        "choices": [
+          "A rise in the number of flights taken on holiday",
+          "Small airports are reinventing themselves to survive",
+          "A dispute about landing fees at the large airports",
+          "The opening of a flying school for new pilots in town"
+        ],
+        "answerIndex": 1,
+        "explanation": "Small airports are shifting from passenger charters to freight."
+      },
+      {
+        "prompt": "Why do cargo companies like small airports?",
+        "category": "detail",
+        "choices": [
+          "They are closer to city markets",
+          "They have longer runways than big airports",
+          "They do not need staff at night",
+          "They suffer fewer delays and charge less"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article says operators prefer airports with few delays and low landing fees."
+      },
+      {
+        "prompt": "What does Mr. Lindgren recommend?",
+        "category": "detail",
+        "choices": [
+          "Offering several services from the same site",
+          "Moving all of their flights to the daytime hours",
+          "Depending on one large and loyal customer",
+          "Closing down the passenger terminal completely"
+        ],
+        "answerIndex": 0,
+        "explanation": "He advises diversifying with training schools, maintenance and some passenger routes."
+      },
+      {
+        "prompt": "What is suggested about local residents?",
+        "category": "inference",
+        "choices": [
+          "They are employed at the airport during the night",
+          "They have campaigned for new passenger routes",
+          "Many of them would not welcome further growth",
+          "They own the businesses that grow flowers for sale"
+        ],
+        "answerIndex": 2,
+        "explanation": "A recent survey found a majority oppose further expansion because of noise."
+      }
+    ]
+  },
+  {
+    "id": "p7-219",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Planned water shutdown: Eastbrook district",
+        "text": "Eastbrook Water Services will carry out essential work on the main supply pipe along Quarry Road and Chapel Lane on Wednesday 9 April. The water supply will be interrupted between 9:00 a.m. and 3:00 p.m. for homes and businesses on the following streets: Quarry Road (numbers 1 to 80), Chapel Lane, Mill Court and the northern end of Bridge Street. Residents on other streets may notice reduced pressure or slightly discolored water for a short time afterward; if this occurs, run the cold tap for a few minutes until the water runs clear.\n\nWe recommend that customers store enough water for drinking, cooking and washing before the work begins. Households that depend on medical equipment requiring a continuous supply of water should contact us before 4 April on 0800 555 0147 so that alternative arrangements can be made. A water tanker will be positioned at the junction of Quarry Road and Mill Court from 9:00 a.m. until the supply is restored, and bottled water will be distributed to elderly residents.\n\nBusinesses that handle food should be aware that they must not resume operations until the supply has been checked and the water confirmed safe, which could take up to an hour after restoration. We apologize for the inconvenience and thank customers for their cooperation."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who should call the company before 4 April?",
+        "category": "detail",
+        "choices": [
+          "People whose medical devices use running water",
+          "Restaurants that are located on Bridge Street",
+          "Anyone who lives on the length of Quarry Road",
+          "Customers who will need to collect bottled water"
+        ],
+        "answerIndex": 0,
+        "explanation": "Households depending on medical equipment requiring water must contact the company."
+      },
+      {
+        "prompt": "What can be inferred about a cafe on Chapel Lane?",
+        "category": "inference",
+        "choices": [
+          "It will be given a free tanker of clean water",
+          "It will not be affected by the pipe repair at all",
+          "It must stay closed for the entire working day",
+          "It will have to wait before it can reopen"
+        ],
+        "answerIndex": 3,
+        "explanation": "Food businesses must not resume until the water is checked, which may take an hour after restoration."
+      },
+      {
+        "prompt": "What is advised for homes on streets not directly affected?",
+        "category": "detail",
+        "choices": [
+          "Storing enough drinking water for the whole week",
+          "Letting the tap run if the water looks cloudy",
+          "Collecting several bottles directly from the tanker",
+          "Calling the water company immediately about it"
+        ],
+        "answerIndex": 1,
+        "explanation": "If water is discolored, run the cold tap for a few minutes until it is clear."
+      },
+      {
+        "prompt": "What is NOT mentioned in the notice?",
+        "category": "not_true",
+        "choices": [
+          "The time the supply will be cut",
+          "A reduction in the water bill after the work",
+          "The location of an emergency water supply",
+          "Help for older people living in the area"
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice covers the timing, the tanker and bottled water for elderly residents, but no billing change."
+      }
+    ]
+  },
+  {
+    "id": "p7-220",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Revised proposal for the Eastgate redevelopment",
+        "text": "To: Planning Committee\nFrom: Louisa Hartmann, Development Director, Calloway Properties\nSubject: Eastgate redevelopment: revised proposal\n\nDear members of the Committee,\n\nFollowing the public consultation held on 12 and 13 May, we have revised our proposal for the Eastgate site. The most frequent criticism was that the original plan, which included two towers of twenty-two floors, would dominate the skyline of the old town. We have therefore reduced the height of the taller tower to fourteen floors and replaced the second with a block of six floors. As a result, the number of apartments falls from 410 to 290.\n\nTo offset this loss, we have increased the share of affordable housing from fifteen to twenty-five percent, which means that seventy-two apartments will be offered at below-market rents. [A] We have also redesigned the ground floor to include a public square of 2,500 square meters and a covered market, in response to calls for more shared space. [B]\n\nThe revisions will increase our construction cost by an estimated eight percent, which we are willing to bear. However, a further reduction in the number of apartments would make the project financially unworkable. [C] We would be glad to present the changes at the Committee's meeting on 24 June and to answer any questions. [D]\n\nSincerely,\nLouisa Hartmann"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To ask for money from the city council",
+          "To withdraw an application for a project",
+          "To announce the sale of the Eastgate site",
+          "To present changes made after public comments"
+        ],
+        "answerIndex": 3,
+        "explanation": "The e-mail describes revisions made following the consultation."
+      },
+      {
+        "prompt": "What was the main objection raised by the public?",
+        "category": "detail",
+        "choices": [
+          "The height of the buildings",
+          "The cost of the apartments",
+          "The loss of an existing market",
+          "The length of the construction period"
+        ],
+        "answerIndex": 0,
+        "explanation": "Critics said that the two towers would dominate the skyline."
+      },
+      {
+        "prompt": "How many apartments will be below-market rent?",
+        "category": "inference",
+        "choices": [
+          "29",
+          "103",
+          "72",
+          "290"
+        ],
+        "answerIndex": 2,
+        "explanation": "25 percent of 290 apartments is 72.5, stated as seventy-two."
+      },
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Together, these changes make the plan smaller but, we believe, more useful to the neighborhood.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 1,
+        "explanation": "'These changes' refers to the reduced height and the public square just described, and the sentence prepares the move to cost matters in the next paragraph; [B] follows the description of the square."
+      }
+    ]
+  },
+  {
+    "id": "p7-221",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Messages between Wei Zhang and Alicia Torres",
+        "text": "Wei Zhang (6:12 p.m.): Alicia, are you still at the office? I just realized the printer isn't working and the client handouts for tomorrow haven't been printed.\nAlicia Torres (6:14 p.m.): I'm in the car, about to leave. The printer is jammed again. There's a printing shop on Hartley Road that stays open until 8, though.\nWei Zhang (6:15 p.m.): Good idea. I'll send the file now. It's 40 copies of the 12-page report, in color. Do you think they can do it today?\nAlicia Torres (6:19 p.m.): They usually take an hour for that quantity, but I'd call first. If they're busy, you could print the black-and-white version and add a color cover.\nWei Zhang (6:22 p.m.): I called. They can do it in 45 minutes for 128 dollars. That's more than I'd like, since the company would normally pay about 90.\nAlicia Torres (6:23 p.m.): True, but the meeting is at nine and the client is flying in specially. I'd keep the color. Save the receipt and I'll sign the expense form in the morning.\nWei Zhang (6:24 p.m.): Okay, ordering now. Thanks. I'll go and collect them on my way home."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What problem does Mr. Zhang describe?",
+        "category": "detail",
+        "choices": [
+          "The report itself has not yet been written",
+          "A client has just canceled the meeting for tomorrow",
+          "Papers for a meeting have not been produced",
+          "His car has broken down on the way to the office"
+        ],
+        "answerIndex": 2,
+        "explanation": "The handouts for tomorrow haven't been printed because the printer isn't working."
+      },
+      {
+        "prompt": "Why does Ms. Torres advise him to call the shop first?",
+        "category": "inference",
+        "choices": [
+          "The order might not be ready in time",
+          "The shop is closed on Mondays",
+          "The file may be too large to send",
+          "The price will depend on the time"
+        ],
+        "answerIndex": 0,
+        "explanation": "They usually take an hour for that quantity, and the shop might be busy."
+      },
+      {
+        "prompt": "Why does Ms. Torres recommend the more expensive option?",
+        "category": "detail",
+        "choices": [
+          "The print shop gives a large discount for color copies",
+          "The handouts must match the design of the website",
+          "The cost will be repaid by the client afterward",
+          "The meeting matters to a visiting customer"
+        ],
+        "answerIndex": 3,
+        "explanation": "The meeting is at nine and the client is flying in specially."
+      },
+      {
+        "prompt": "How much more than usual will the printing cost?",
+        "category": "inference",
+        "choices": [
+          "22 dollars",
+          "38 dollars",
+          "90 dollars",
+          "128 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "The shop charges 128 dollars, while the company normally pays about 90."
+      }
+    ]
+  },
+  {
+    "id": "p7-222",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Event Coordinator, Marlowe Hotel Group",
+        "text": "Marlowe Hotel Group seeks an Event Coordinator for its flagship hotel in Lisbon. The coordinator will plan conferences, weddings and private events for up to 400 guests, working closely with catering, technical and housekeeping teams. You will also prepare quotations, negotiate with suppliers and ensure each event meets the client's expectations and budget.\n\nRequirements: three years' experience in event or hotel management; fluency in English and Portuguese; knowledge of a third language is an advantage; proficiency with event management software. Flexibility is essential, since the role often involves evening and weekend work, for which time off is given in return. We offer a competitive salary, staff discounts at our hotels worldwide, and support for professional certifications. Send your résumé and a one-page description of an event you organized to careers@marlowehotels.example by 30 September."
+      },
+      {
+        "type": "email",
+        "title": "Application: Event Coordinator",
+        "text": "Dear Hiring Manager,\n\nI am applying for the Event Coordinator position. For four years, I have been responsible for corporate events at a conference center in Porto, where I coordinate about sixty events a year. The most challenging was an international medical congress for 350 delegates, which I organized with a budget of 220,000 euros, finishing 4 percent under budget. A description of this event is attached, as requested.\n\nMy languages are Portuguese, English and Italian. I use the software Eventra every day, but I have not used the one mentioned in your advertisement, Plannix, although I learn new systems quickly. My only question concerns hours: I have a young child and would be available for evening work but would need weekends off. Would this be a problem?\n\nKind regards,\nMarta Oliveira"
+      },
+      {
+        "type": "email",
+        "title": "Re: Application: Event Coordinator",
+        "text": "Dear Ms. Oliveira,\n\nThank you for your application and the description of your congress, which impressed the team. Your experience and languages are an excellent match. Concerning software, Plannix is similar to Eventra, and we offer a week of training.\n\nRegarding weekends, I am afraid that weddings, which provide a significant part of our revenue, take place mostly on Saturdays, so the post cannot be performed without some weekend work. However, we could limit it to two weekends per month, and you would receive the following Monday and Tuesday off. If that is acceptable, we would like to invite you to an interview next week.\n\nBest regards,\nCarlos Mendes, Human Resources"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does Ms. Oliveira include in her application that the ad requested?",
+        "category": "detail",
+        "choices": [
+          "A letter from a hotel in Porto",
+          "A description of a large event she managed",
+          "A list of her professional certificates",
+          "A budget plan for a wedding"
+        ],
+        "answerIndex": 1,
+        "explanation": "The ad asks for a one-page description of an event; she attaches the description of the medical congress."
+      },
+      {
+        "prompt": "Which requirement does Ms. Oliveira NOT fully meet?",
+        "category": "not_true",
+        "choices": [
+          "Several years of experience in managing events",
+          "Fluency in the two languages that are required",
+          "A willingness to work in the evenings and at night",
+          "Familiarity with the exact event software"
+        ],
+        "answerIndex": 3,
+        "explanation": "She uses Eventra but not Plannix."
+      },
+      {
+        "prompt": "How does Mr. Mendes respond to her concern about weekends?",
+        "category": "inference",
+        "choices": [
+          "He offers a compromise",
+          "He rejects her application",
+          "He agrees to all of her wishes",
+          "He asks her to choose a different job"
+        ],
+        "answerIndex": 0,
+        "explanation": "Weekend work cannot be avoided, but it could be limited to two weekends a month with compensation days."
+      },
+      {
+        "prompt": "Why does Mr. Mendes mention weddings?",
+        "category": "detail",
+        "choices": [
+          "To show that the hotel is expanding",
+          "To describe the largest events",
+          "To explain why weekend work is needed",
+          "To reduce the number of applicants"
+        ],
+        "answerIndex": 2,
+        "explanation": "Weddings take place mostly on Saturdays and bring significant revenue."
+      },
+      {
+        "prompt": "What will the company probably do if Ms. Oliveira accepts the conditions?",
+        "category": "inference",
+        "choices": [
+          "Send her a contract immediately",
+          "Train her before the interview",
+          "Arrange an interview for her",
+          "Offer her a managerial role"
+        ],
+        "answerIndex": 2,
+        "explanation": "If acceptable, they would invite her to an interview next week."
+      }
+    ]
+  },
+  {
+    "id": "p7-223",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Brightwater Fitness: Membership options",
+        "text": "Basic (29 dollars per month): access to the gym floor and group classes from Monday to Friday, 6 a.m. to 4 p.m. Standard (45 dollars): all hours, plus swimming pool. Premium (69 dollars): everything in Standard, with two personal training sessions each month and a free guest pass each week. A joining fee of 40 dollars applies to all new members, waived for those who join in January. Memberships have a minimum term of six months; after this they continue monthly and may be canceled with 30 days' notice. Students receive 20 percent off Basic and Standard with valid ID. Members may freeze their membership for up to two months per year for medical reasons or travel, with a note from a doctor in the first case."
+      },
+      {
+        "type": "email",
+        "title": "Cancellation request",
+        "text": "Dear Brightwater,\n\nI joined in August on the Standard plan and I would like to cancel my membership, as I am relocating for work. I realize that six months have not yet passed, but my employer is moving me to another city at the end of December. Is it possible to cancel without paying until February? I also paid a joining fee and would like to know if it can be refunded. Alternatively, I could freeze my membership, but I will be away more than two months.\n\nRegards,\nJulian Reuter"
+      },
+      {
+        "type": "email",
+        "title": "Re: Cancellation request",
+        "text": "Dear Mr. Reuter,\n\nI am sorry to hear that you are leaving. I have reviewed your account. The six-month term ends on 31 January. If you can send proof of your relocation, such as a letter from your employer, we can waive the remaining payments; this applies to relocations of more than fifty kilometers. The joining fee is non-refundable in all cases.\n\nA freeze is not appropriate here, as it is limited to two months per year. We would be glad to give you a transfer to our branch in your new city if one exists; please tell me where you are moving.\n\nKind regards,\nSara Lindholm, Membership Services"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Mr. Reuter wish to cancel his membership?",
+        "category": "detail",
+        "choices": [
+          "A move to another place for his job",
+          "He is unhappy with the quality of the swimming pool",
+          "He has hurt himself and cannot exercise",
+          "He has found a cheaper gym close to his home"
+        ],
+        "answerIndex": 0,
+        "explanation": "His employer is moving him to another city."
+      },
+      {
+        "prompt": "What can Mr. Reuter obtain by sending proof of relocation?",
+        "category": "detail",
+        "choices": [
+          "A refund of the fee he paid when he joined",
+          "A freeze of the membership for three months",
+          "A free guest pass for each week of the month",
+          "Cancellation of the remaining payments"
+        ],
+        "answerIndex": 3,
+        "explanation": "Ms. Lindholm offers to waive the remaining payments, but the joining fee is non-refundable."
+      },
+      {
+        "prompt": "How much does Mr. Reuter pay each month?",
+        "category": "inference",
+        "choices": [
+          "29 dollars",
+          "45 dollars",
+          "36 dollars",
+          "69 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "He is on the Standard plan, which costs 45 dollars; student discounts are not mentioned."
+      },
+      {
+        "prompt": "Why can't Mr. Reuter freeze his membership?",
+        "category": "inference",
+        "choices": [
+          "He did not provide a note from a doctor",
+          "His absence will last longer than allowed",
+          "He is not a student",
+          "He joined in August"
+        ],
+        "answerIndex": 1,
+        "explanation": "A freeze is limited to two months per year and he will be away more than that."
+      },
+      {
+        "prompt": "What has Ms. Lindholm suggested that is NOT in the web page?",
+        "category": "inference",
+        "choices": [
+          "Canceling the membership with thirty days' notice",
+          "Paying a joining fee when starting at a new gym",
+          "Using a guest pass once each week of the month",
+          "A transfer to a branch in another city"
+        ],
+        "answerIndex": 3,
+        "explanation": "The transfer to a branch in his new city is an offer made only in her e-mail."
+      }
+    ]
+  }
+]
