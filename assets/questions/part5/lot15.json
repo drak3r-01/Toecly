@@ -1,184 +1,80 @@
 [
   {
-    "id": "p5-1895",
-    "sentence": "The employer owes a ___ duty to provide a safe working environment, which cannot be waived by contract.",
+    "id": "p5-1698",
+    "sentence": "Management hopes that cost savings will ___ the heavy initial investment within three years.",
     "choices": [
-      "statistical",
-      "statutory",
-      "static",
-      "stationary"
+      "repulse",
+      "recall",
+      "retrace",
+      "recoup"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Recoup means to earn back money spent. Recall, retrace and repulse have unrelated meanings (remember, follow back, drive away)."
+  },
+  {
+    "id": "p5-2098",
+    "sentence": "The agency will ___ the findings through its network of local offices and trade newsletters.",
+    "choices": [
+      "disseminate",
+      "dissipate",
+      "dissolve",
+      "disintegrate"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "To disseminate information is to spread it widely. Dissipate means to disappear or waste, disintegrate means to break into pieces, and dissolve means to melt or end, so none describes spreading findings."
+  },
+  {
+    "id": "p5-929",
+    "sentence": "The goods will be ___ from customs as soon as the import duties have been paid.",
+    "choices": [
+      "relayed",
+      "released",
+      "relieved",
+      "relented"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Statutory' means required by law. 'Stationary' means not moving, 'statistical' relates to data, and 'static' means unchanging."
+    "explanation": "'Released from customs' means cleared. 'Relieved' means eased, 'relented' means gave in, and 'relayed' means passed on."
   },
   {
-    "id": "p5-1896",
-    "sentence": "Under the whistleblowing policy, staff who report wrongdoing in good faith are protected from ___.",
+    "id": "p5-2174",
+    "sentence": "The retailer's generous returns policy is intended to ___ customers' fears about buying online for the first time.",
     "choices": [
-      "retaliation",
-      "reflation",
-      "retardation",
-      "reclamation"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Retaliation' is punishment for reporting. 'Reclamation' is recovery, 'retardation' is delay, and 'reflation' is economic stimulus."
-  },
-  {
-    "id": "p5-1897",
-    "sentence": "The employer sought to enforce a ___ covenant preventing the former manager from soliciting clients for twelve months.",
-    "choices": [
-      "restricted",
-      "restorative",
-      "responsive",
-      "restrictive"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Restrictive covenant' is the legal term for such clauses. 'Restricted' means limited, 'restorative' means healing, and 'responsive' means reacting."
-  },
-  {
-    "id": "p5-1898",
-    "sentence": "A ___ dismissal occurs when an employer's conduct leaves the employee no reasonable option but to resign.",
-    "choices": [
-      "constrictive",
-      "construed",
-      "constructive",
-      "conclusive"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Constructive dismissal' is the legal term. 'Construed' means interpreted, 'constrictive' means tightening, and 'conclusive' means decisive."
-  },
-  {
-    "id": "p5-1899",
-    "sentence": "The claimant must pay the first five hundred dollars of any loss, known as the policy ___.",
-    "choices": [
-      "excess",
-      "excise",
-      "excerpt",
-      "exceed"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "The 'excess' is the amount the policyholder pays first. 'Exceed' is a verb, 'excerpt' is an extract, and 'excise' is a tax."
-  },
-  {
-    "id": "p5-1900",
-    "sentence": "The insurer declined the claim for non-___ of a material fact when the policy was taken out.",
-    "choices": [
-      "discretion",
-      "discipline",
-      "disclosure",
-      "disclaimer"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Non-disclosure' means failing to reveal. 'Disclaimer' is a denial of liability, 'discipline' is control, and 'discretion' is judgement."
-  },
-  {
-    "id": "p5-1901",
-    "sentence": "The insurer used its right of ___ to pursue the negligent contractor for the repair costs it paid.",
-    "choices": [
-      "subtraction",
-      "subordination",
-      "subscription",
-      "subrogation"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Subrogation' lets an insurer pursue a third party after paying. 'Subscription' is a regular payment, 'subordination' is ranking lower, and 'subtraction' is deducting."
-  },
-  {
-    "id": "p5-1902",
-    "sentence": "Flood damage is covered only if the policyholder has purchased the relevant ___ to the standard policy.",
-    "choices": [
-      "enrolment",
-      "endorsement",
-      "encumbrance",
-      "endowment"
+      "stoke",
+      "allay",
+      "provoke",
+      "fuel"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "An 'endorsement' is an addition to a policy. 'Endowment' is a gift or policy type, 'enrolment' is registration, and 'encumbrance' is a burden on property."
+    "explanation": "To allay fears is to calm or reduce them. Stoke, fuel and provoke all mean to increase or cause feelings, which would defeat the purpose of a generous returns policy."
   },
   {
-    "id": "p5-1903",
-    "sentence": "To prevent scope ___, every change request must be approved in writing by the steering committee.",
+    "id": "p5-1883",
+    "sentence": "The deal values the target at a ___ of thirty percent above its undisturbed share price.",
     "choices": [
-      "crawl",
-      "crest",
-      "creep",
-      "crop"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Scope creep' is the gradual uncontrolled growth of project scope. 'Crawl', 'crest' and 'crop' do not form the term."
-  },
-  {
-    "id": "p5-1904",
-    "sentence": "The team agreed to ___ the less critical tasks so the main deliverable could be finished on time.",
-    "choices": [
-      "decentralise",
-      "depreciate",
-      "demolish",
-      "deprioritise"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "To 'deprioritise' means to give lower priority. 'Decentralise' means to spread control, 'depreciate' means to lose value, and 'demolish' means to destroy."
-  },
-  {
-    "id": "p5-1905",
-    "sentence": "A project ___ outlines the objectives, scope, timeline and budget, and is signed off before work begins.",
-    "choices": [
-      "chapter",
-      "charter",
-      "charger",
-      "charity"
+      "dividend",
+      "premium",
+      "discount",
+      "deficit"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "A 'project charter' is the document authorising a project. 'Chapter', 'charity' and 'charger' do not fit."
+    "explanation": "A 'premium' is an amount above the market value. A 'discount' is below, a 'deficit' is a shortfall, and a 'dividend' is a payout."
   },
   {
-    "id": "p5-1906",
-    "sentence": "Because the vendor's component arrived late, the project was ___ for three weeks and the launch was rescheduled.",
+    "id": "p5-1707",
+    "sentence": "The bank requires collateral to ___ the loan against the risk of default.",
     "choices": [
-      "stalled",
-      "stacked",
-      "stained",
-      "stunted"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Stalled' means halted. 'Stunted' means inhibited in growth, 'stacked' means piled up, and 'stained' means marked."
-  },
-  {
-    "id": "p5-1907",
-    "sentence": "To mitigate the risk of overrun, the project manager built a ten percent ___ into the budget.",
-    "choices": [
-      "contingency",
-      "contention",
-      "constituency",
-      "continuity"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "A 'contingency' is a reserve for unexpected costs. 'Continuity' is unbroken operation, 'constituency' is a body of voters, and 'contention' is a dispute."
-  },
-  {
-    "id": "p5-1908",
-    "sentence": "Team members were asked to ___ any risks they identified to the project manager as soon as possible.",
-    "choices": [
-      "exacerbate",
-      "evacuate",
-      "exaggerate",
-      "escalate"
+      "seclude",
+      "seduce",
+      "sever",
+      "secure"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "To 'escalate' means to pass up to a higher authority. 'Exaggerate' means to overstate, 'evacuate' means to leave, and 'exacerbate' means to worsen."
+    "explanation": "To secure a loan is to back it with collateral. Seclude, sever and seduce do not collocate with loan."
   }
 ]

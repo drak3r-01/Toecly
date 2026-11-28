@@ -22,3 +22,11 @@
 ## What to remove or rewrite
 - B1-level questions in the current corpus, and any question whose correct answer is clearly the longest.
 - The validation (`dart run tool/validate_questions.dart`) must stay green.
+
+## Second C1 pass (2026-11-28)
+- A level audit found the bank mostly B2 with few real C1 items. 185 of the 574 questions were removed: B1/B2 grammar (basic gerund/infinitive patterns, simple tenses, `no sooner` repeats, comparatives), items with malformed distractors (`curbed to`, `lodged in`, `siezed`), homophone gimmicks (`gauge/gauze/gaze`) and items with a second defensible answer (`held to the view`, `not until` vs `only after`).
+- 10 items were repaired (malformed distractor replaced, explanation updated).
+- 177 new C1 questions were added (ids p5-2001 and above): 190 grammar and 376 vocabulary in total. Every new item was solved blind by an independent reviewer; items with a double key or a trivial form were dropped. Next free id: p5-2200.
+- Explanations name the words instead of referring to option positions, since choices are shuffled at draw time.
+- Length bias check: in all 566 questions, the correct answer is never the only longest or only shortest choice.
+- Known gap: grammar is about a third of the bank, less than on the real test. Add grammar items first next time (inversion, mandative subjunctive, reduced clauses, word forms with long derived nouns).

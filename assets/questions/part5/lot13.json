@@ -1,263 +1,445 @@
 [
   {
-    "id": "p5-1815",
-    "sentence": "Whistleblower policies encourage staff to report irregularities without fear of ___.",
+    "id": "p5-1878",
+    "sentence": "Auditors are required to remain ___ throughout the engagement and avoid any conflict of interest.",
     "choices": [
-      "repast",
-      "reprise",
-      "reprisal",
-      "reproduction"
+      "impartial",
+      "imperative",
+      "impatient",
+      "immaterial"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "Fear of reprisal is a fixed collocation. The others do not fit."
+    "explanation": "'Impartial' means unbiased. 'Immaterial' means unimportant, 'imperative' means essential, and 'impatient' means unwilling to wait."
   },
   {
-    "id": "p5-1816",
-    "sentence": "The audit committee reviews the effectiveness of internal ___ over financial reporting.",
+    "id": "p5-800",
+    "sentence": "The treasurer's report showed that expenditure had ___ revenue for the second year running.",
     "choices": [
-      "contours",
-      "controls",
-      "contents",
-      "contests"
+      "outpaced",
+      "outranked",
+      "outlined",
+      "outlasted"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Outpaced' means grew faster than. 'Outlined' means summarised, 'outlasted' means survived longer, and 'outranked' means held a higher rank."
+  },
+  {
+    "id": "p5-1650",
+    "sentence": "The firm acquired three startups, two of ___ specialize in cybersecurity.",
+    "choices": [
+      "which",
+      "them",
+      "those",
+      "whom"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Two of which' is a non-defining relative. 'them' and 'those' would create a comma splice and 'whom' is for people."
+  },
+  {
+    "id": "p5-624",
+    "sentence": "This year's revenue is nearly twice ___ it was in the previous fiscal year.",
+    "choices": [
+      "which",
+      "that",
+      "how much",
+      "what"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Twice what it was' uses the free relative 'what'. 'that' and 'which' need an antecedent, and 'how much' is a question word."
+  },
+  {
+    "id": "p5-2051",
+    "sentence": "Global demand for lithium has begun to ___ supply, pushing contract prices sharply higher.",
+    "choices": [
+      "outlast",
+      "outsell",
+      "outperform",
+      "outstrip"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Outstrip means to grow faster than or exceed. Outlast means to endure longer, outperform describes doing better than a rival, and outsell means to sell more than a rival, so none takes 'supply' naturally here."
+  },
+  {
+    "id": "p5-2164",
+    "sentence": "I would rather the committee ___ the proposal before the vote than leave it until afterwards.",
+    "choices": [
+      "reviewed",
+      "reviews",
+      "to review",
+      "would review"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Would rather' + new subject takes the past simple to refer to a preference about the present or future. 'Reviews', 'would review' and 'to review' do not fit this pattern."
+  },
+  {
+    "id": "p5-1449",
+    "sentence": "Owing to recent staff shortages, the department has had to ___ on temporary workers.",
+    "choices": [
+      "draft",
+      "draw",
+      "drag",
+      "drift"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "Internal controls are safeguards. The others do not."
+    "explanation": "'Draw on' means use as a resource. The others do not fit."
   },
   {
-    "id": "p5-1817",
-    "sentence": "Directors who knowingly approve false accounts may be held personally ___ for the losses.",
+    "id": "p5-1435",
+    "sentence": "Several of the proposals, ___ the most ambitious, were rejected outright by the board.",
+    "choices": [
+      "included",
+      "includes",
+      "to include",
+      "including"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Including' is a preposition-like participle. The others do not fit."
+  },
+  {
+    "id": "p5-2168",
+    "sentence": "Only in the final quarter ___ the division return to profitability after two years of losses.",
+    "choices": [
+      "did",
+      "was",
+      "had",
+      "has"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Only in the final quarter' triggers inversion: 'did the division return' uses the bare infinitive. 'Had', 'was' and 'has' cannot take 'return' as the following verb."
+  },
+  {
+    "id": "p5-2017",
+    "sentence": "Airline staff will ___ passengers whose connecting flights were cancelled onto the first available service.",
+    "choices": [
+      "reserve",
+      "reschedule",
+      "rebook",
+      "retain"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "To rebook passengers is to assign them new reservations. Reschedule applies to events or flights rather than people, reserve means to set aside in advance, and retain means to keep, so none of them moves people onto another service."
+  },
+  {
+    "id": "p5-1733",
+    "sentence": "She was ___ from her duties pending the outcome of the internal investigation.",
+    "choices": [
+      "suspicious",
+      "suspected",
+      "suspended",
+      "suspenseful"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Suspended from duties means temporarily removed. Suspected, suspicious and suspenseful do not take from duties."
+  },
+  {
+    "id": "p5-689",
+    "sentence": "The merger is ___ upon approval from the competition authority.",
     "choices": [
       "accountable",
-      "accommodating",
-      "accessible",
-      "acceptable"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Held accountable means made responsible. The others do not follow held."
-  },
-  {
-    "id": "p5-1818",
-    "sentence": "The merger needs approval from a ___ of shareholders holding at least seventy-five percent of voting shares.",
-    "choices": [
-      "supervision",
-      "superstructure",
-      "superintendent",
-      "supermajority"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "A supermajority is a high threshold vote. The others do not."
-  },
-  {
-    "id": "p5-1819",
-    "sentence": "The new policy is ___ with the company's long-standing commitment to sustainability.",
-    "choices": [
-      "consistent",
-      "conclusive",
-      "conspicuous",
-      "conscientious"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Consistent with means in line with. The others do not take with."
-  },
-  {
-    "id": "p5-1820",
-    "sentence": "Her promotion was ___ upon completing the leadership certification within twelve months.",
-    "choices": [
-      "conclusive",
-      "congenital",
-      "conditional",
-      "confidential"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Conditional upon means dependent on. The others do not."
-  },
-  {
-    "id": "p5-1821",
-    "sentence": "The CEO resigned ___ allegations of insider trading, although he denied any wrongdoing.",
-    "choices": [
-      "atop",
-      "amid",
-      "alongside",
-      "aboard"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Amid means in the midst of. The others do not."
-  },
-  {
-    "id": "p5-1822",
-    "sentence": "Profit margins have been ___ by volatile raw material prices throughout the past year.",
-    "choices": [
-      "squabbled",
-      "squealed",
-      "squirmed",
-      "squeezed"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Squeezed means reduced under pressure. The others do not."
-  },
-  {
-    "id": "p5-1823",
-    "sentence": "The regulator is ___ to approve the merger provided certain assets are sold.",
-    "choices": [
-      "inept",
-      "inclined",
-      "inclusive",
-      "incidental"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Inclined to means disposed to. The others do not."
-  },
-  {
-    "id": "p5-1824",
-    "sentence": "Operating expenses were ___ by a one-off restructuring charge in the third quarter.",
-    "choices": [
-      "infested",
-      "inflicted",
-      "inflated",
-      "inflamed"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Inflated by means increased by. The others do not."
-  },
-  {
-    "id": "p5-1825",
-    "sentence": "The contract's indemnity clause is drafted in language barely ___ to non-specialists.",
-    "choices": [
-      "comprehensible",
-      "comprehensively",
-      "comprehension",
-      "comprehensive"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Comprehensible' (able to be understood) is the adjective that fits 'barely ___ to'. 'Comprehensive' means thorough and cannot take 'to'; 'comprehensively' and 'comprehension' do not fit the adjective slot."
-  },
-  {
-    "id": "p5-1826",
-    "sentence": "The consultancy delivered a ___ review of every subsidiary's internal controls, leaving no division unexamined.",
-    "choices": [
-      "comprehension",
-      "comprehensible",
-      "comprehending",
-      "comprehensive"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Comprehensive' means covering everything, matching 'leaving no division unexamined'. 'Comprehensible' means understandable; 'comprehending' is a participle and 'comprehension' a noun, neither fits before 'review' here."
-  },
-  {
-    "id": "p5-1827",
-    "sentence": "The new engine is remarkably ___ with fuel, cutting consumption by nearly a fifth.",
-    "choices": [
-      "economy",
-      "economic",
-      "economical",
-      "economically"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Economical' means careful with resources and takes 'with fuel'. 'Economic' concerns the economy; 'economy' is a noun; 'economically' is an adverb and cannot follow 'is remarkably' to describe the engine."
-  },
-  {
-    "id": "p5-1828",
-    "sentence": "Analysts expect ___ growth to slow markedly once the government stimulus package expires next spring.",
-    "choices": [
-      "economic",
-      "economical",
-      "economy",
-      "economically"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Economic growth' is the collocation for national output. 'Economical' means thrifty, 'economy' is a noun, and 'economically' is an adverb that cannot modify 'growth'."
-  },
-  {
-    "id": "p5-1829",
-    "sentence": "The tribunal ruled that the dismissal was ___ unfair because no warning had been issued beforehand.",
-    "choices": [
-      "proceeding",
-      "procedurally",
-      "procedural",
-      "proceduralism"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "An adverb is needed to modify the adjective 'unfair'. 'Procedural' is an adjective, while 'proceduralism' and 'proceeding' are nouns."
-  },
-  {
-    "id": "p5-1830",
-    "sentence": "The contractor was found ___ for the structural defects discovered shortly after handover.",
-    "choices": [
-      "liably",
-      "liability",
-      "liabilities",
-      "liable"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Found liable for' is a fixed adjective phrase meaning legally responsible. 'Liability' and 'liabilities' are nouns; 'liably' is not a standard adverb here."
-  },
-  {
-    "id": "p5-1831",
-    "sentence": "The merger agreement is ___ on regulatory approval being obtained within ninety days of signing.",
-    "choices": [
-      "contiguous",
-      "contingency",
       "contingent",
-      "contingently"
+      "responsive",
+      "dependable"
     ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Contingent on' means dependent on. 'Contiguous' means adjoining, 'contingency' is a noun, and 'contingently' is an adverb that cannot follow 'is' before 'on'."
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Contingent upon' means dependent on a condition. 'Dependable' means reliable, 'accountable' means responsible, and 'responsive' means reacting readily."
   },
   {
-    "id": "p5-1832",
-    "sentence": "The two divisions are ___ different in how they recognise revenue from long-term contracts.",
+    "id": "p5-1616",
+    "sentence": "Managers reviewed the invoices twice ___ avoid any discrepancy at the annual audit.",
     "choices": [
-      "fundamentalism",
-      "fundamentals",
-      "fundamental",
-      "fundamentally"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "An adverb is required to modify the adjective 'different'. The other options are an adjective and nouns."
-  },
-  {
-    "id": "p5-1833",
-    "sentence": "The board ___ rejected the proposal, seeing no commercial merit in it whatsoever.",
-    "choices": [
-      "summarised",
-      "summarily",
-      "summarising",
-      "summary"
+      "such as to",
+      "so as to",
+      "so that",
+      "in order that"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Summarily' means immediately and without discussion. 'Summary' is a noun or adjective, and 'summarised' and 'summarising' change the meaning and the verb pattern."
+    "explanation": "'So as to' plus a bare infinitive expresses purpose. 'in order that' and 'so that' need a full clause, and 'such as to' expresses result."
   },
   {
-    "id": "p5-1834",
-    "sentence": "Under the new rules, directors are held personally ___ for misstatements in the published accounts.",
+    "id": "p5-2053",
+    "sentence": "After seven years, minor convictions will be ___ from the applicant's record under the rehabilitation rules.",
     "choices": [
-      "accountable",
-      "accountably",
-      "accounting",
-      "accountant"
+      "evicted",
+      "expelled",
+      "expunged",
+      "extradited"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Expunge means to erase completely, especially from a record. Expelled, evicted and extradited apply to people removed from an institution, a property or a country, so none can describe erasing convictions."
+  },
+  {
+    "id": "p5-1419",
+    "sentence": "The firm has been ___ to bankruptcy by years of mismanagement and unwise acquisitions.",
+    "choices": [
+      "fallen",
+      "lowered",
+      "dropped",
+      "reduced"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Reduced to bankruptcy' is the fixed phrase. 'lowered' and 'dropped' do not collocate, and 'fallen' is intransitive."
+  },
+  {
+    "id": "p5-1902",
+    "sentence": "Flood damage is covered only if the policyholder has purchased the relevant ___ to the standard policy.",
+    "choices": [
+      "enrolment",
+      "endorsement",
+      "encumbrance",
+      "endowment"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "An 'endorsement' is an addition to a policy. 'Endowment' is a gift or policy type, 'enrolment' is registration, and 'encumbrance' is a burden on property."
+  },
+  {
+    "id": "p5-2109",
+    "sentence": "The auditors challenged the ___ of the assumptions used to value the intangible assets.",
+    "choices": [
+      "plausibility",
+      "plausibilities",
+      "plausible",
+      "plausibly"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Held accountable for' is the fixed adjective phrase. 'Accounting' is a noun or participle, 'accountably' is an adverb, and 'accountant' is a person."
+    "explanation": "A noun is needed after 'the' and before 'of'. 'Plausible' is an adjective, 'plausibly' an adverb, and 'plausibilities' is an unnatural plural here."
+  },
+  {
+    "id": "p5-700",
+    "sentence": "The committee has been ___ with reviewing every application received before the deadline.",
+    "choices": [
+      "tasked",
+      "tied",
+      "tested",
+      "taxed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Be tasked with' means be given a responsibility. 'Taxed' means charged, 'tested' means examined, and 'tied' does not combine with 'with' in this sense."
+  },
+  {
+    "id": "p5-2187",
+    "sentence": "The apartment is sold on a ___ basis, meaning the buyer owns the land outright.",
+    "choices": [
+      "tenancy",
+      "sublease",
+      "freehold",
+      "leasehold"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Freehold means outright ownership of property and the land. Leasehold, tenancy and sublease all describe rights to use property for a limited time, which contradicts owning it outright."
+  },
+  {
+    "id": "p5-1299",
+    "sentence": "The legislation seeks to ___ the loophole that allowed firms to avoid paying tax abroad.",
+    "choices": [
+      "clip",
+      "close",
+      "clasp",
+      "clamp"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Close a loophole' is the fixed collocation. The others do not collocate."
+  },
+  {
+    "id": "p5-2195",
+    "sentence": "The agent's ___ tone only inflamed the customer further, as it sounded dismissive of her complaint.",
+    "choices": [
+      "premeditated",
+      "placid",
+      "plaintive",
+      "patronising"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A patronising tone is condescending and treats the listener as inferior. Premeditated means planned in advance, plaintive means sadly complaining, and placid means calm, so none of them would sound dismissive and inflame a customer."
+  },
+  {
+    "id": "p5-1254",
+    "sentence": "The firm's executives have come under ___ to explain the sudden drop in the share price.",
+    "choices": [
+      "press",
+      "pressure",
+      "pressing",
+      "presser"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Come under pressure to' is the fixed collocation. The others are not nouns that fit."
+  },
+  {
+    "id": "p5-1876",
+    "sentence": "The audit uncovered a material ___ in the inventory records that had gone unnoticed for years.",
+    "choices": [
+      "disbursement",
+      "discrepancy",
+      "discount",
+      "discretion"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A 'discrepancy' is a mismatch between records. 'Discretion' is judgement, 'discount' is a price reduction, and 'disbursement' is a payment out."
+  },
+  {
+    "id": "p5-1677",
+    "sentence": "We ___ so many copies; the meeting was cancelled and nobody needed the handouts.",
+    "choices": [
+      "can't have printed",
+      "shouldn't print",
+      "mustn't have printed",
+      "needn't have printed"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Needn't have' means an action was unnecessary. The others express impossibility, a prohibition or advice for the future."
+  },
+  {
+    "id": "p5-2135",
+    "sentence": "She spent six months on ___ at the Singapore subsidiary before returning to head office.",
+    "choices": [
+      "secondment",
+      "tenure",
+      "suspension",
+      "furlough"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Secondment is a temporary transfer to another part of an organisation. Suspension means being barred from work, tenure means security of a post, and furlough means leave from work, so none describes working at a subsidiary before returning."
+  },
+  {
+    "id": "p5-1258",
+    "sentence": "The proposed levy is ___ to hit smaller exporters hardest.",
+    "choices": [
+      "bounded",
+      "bind",
+      "binding",
+      "bound"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Is bound to' means is certain to. The others do not fit the structure."
+  },
+  {
+    "id": "p5-1362",
+    "sentence": "The agency has ___ its estimate of annual growth from two percent to just under one.",
+    "choices": [
+      "revised",
+      "revoked",
+      "resumed",
+      "reversed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Revised an estimate' means changed it. The others do not fit."
+  },
+  {
+    "id": "p5-1868",
+    "sentence": "The offer remains valid ___ board approval and the completion of satisfactory due diligence.",
+    "choices": [
+      "subject to",
+      "regardless of",
+      "apart from",
+      "instead of"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Subject to' makes validity conditional. 'Regardless of' ignores the conditions, 'instead of' replaces them, and 'apart from' excludes them."
+  },
+  {
+    "id": "p5-1682",
+    "sentence": "The document, believed ___ in 1987, has just been authenticated by independent experts.",
+    "choices": [
+      "to have been writing",
+      "to have written",
+      "to have been written",
+      "to be written"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A past passive infinitive is needed for an earlier event. The others are present, active or continuous."
+  },
+  {
+    "id": "p5-1355",
+    "sentence": "The analyst described the company's strategy as ___ given the current market volatility.",
+    "choices": [
+      "prodigious",
+      "prudent",
+      "prudish",
+      "pretentious"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Prudent' means wise and careful. 'Prudish' means easily shocked, 'pretentious' means showy, and 'prodigious' means enormous."
+  },
+  {
+    "id": "p5-2039",
+    "sentence": "The customs agent asked for the bill of ___ before releasing the cargo from the port.",
+    "choices": [
+      "freight",
+      "cargo",
+      "lading",
+      "haulage"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A bill of lading is the transport document issued for goods being shipped, and the phrase is fixed. Freight, cargo and haulage name goods or transport costs but cannot replace lading in this term."
+  },
+  {
+    "id": "p5-1879",
+    "sentence": "The audit committee commissioned a forensic review after finding evidence of ___ in the procurement process.",
+    "choices": [
+      "collation",
+      "collision",
+      "collusion",
+      "collection"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Collusion' is a secret agreement to cheat. 'Collision' is a crash, 'collation' is the gathering of information, and 'collection' is a set of items."
+  },
+  {
+    "id": "p5-1785",
+    "sentence": "Rigorous quality ___ procedures ensure that every unit is tested before leaving the plant.",
+    "choices": [
+      "insurance",
+      "assistance",
+      "assurance",
+      "endurance"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Quality assurance is a fixed term. The others do not form it."
+  },
+  {
+    "id": "p5-1226",
+    "sentence": "After lengthy talks, the unions agreed to ___ the strike pending a revised pay offer.",
+    "choices": [
+      "call up",
+      "call on",
+      "call for",
+      "call off"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Call off' means cancel. 'Call on' means visit or urge, 'call up' means summon, and 'call for' means demand."
   },
   {
     "id": "p5-1835",
@@ -273,250 +455,68 @@
     "explanation": "An adverb modifies the verb 'apply': 'exclusively'. 'Exclusive' is an adjective; 'exclusion' and 'exclusivity' are nouns."
   },
   {
-    "id": "p5-1836",
-    "sentence": "The tenants requested that each unit ___ its own separately metered water supply.",
+    "id": "p5-617",
+    "sentence": "The manager approved the plan ___ of the objections raised by the finance department.",
     "choices": [
-      "has",
-      "having",
-      "had",
-      "have"
+      "on behalf",
+      "by means",
+      "in view",
+      "in spite"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Requested that' triggers the subjunctive 'have'. 'Has' and 'had' are indicative forms, and 'having' is not finite."
+    "explanation": "'In spite of' is the fixed expression meaning 'despite'. 'On behalf of' means 'representing', 'in view of' means 'considering', 'by means of' means 'using'; none gives the contrast."
   },
   {
-    "id": "p5-1837",
-    "sentence": "No sooner had the merger been announced ___ the share price began to fall sharply.",
+    "id": "p5-1771",
+    "sentence": "The rebranding exercise proved ___ when sales failed to improve despite the heavy spending.",
     "choices": [
-      "that",
-      "then",
-      "than",
-      "while"
+      "feeble",
+      "fertile",
+      "futile",
+      "fragile"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'No sooner' is paired with 'than'. 'Then', 'that' and 'while' cannot complete the correlative."
+    "category": "vocabulary",
+    "explanation": "Futile means pointless. Fertile, fragile and feeble do not fit proved when sales failed."
   },
   {
-    "id": "p5-1838",
-    "sentence": "___ the supplier's contract, the lawyers noticed several ambiguous clauses.",
+    "id": "p5-1825",
+    "sentence": "The contract's indemnity clause is drafted in language barely ___ to non-specialists.",
     "choices": [
-      "Reviewed",
-      "Reviewing",
-      "Being reviewed",
-      "Review"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "The subject 'the lawyers' performs the action, so the active present participle 'Reviewing' is needed. 'Reviewed' and 'Being reviewed' are passive, and 'Review' is a base form."
-  },
-  {
-    "id": "p5-1839",
-    "sentence": "___ by a series of late deliveries, the retailer switched to a local supplier.",
-    "choices": [
-      "Frustrate",
-      "To frustrate",
-      "Frustrating",
-      "Frustrated"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "The retailer feels the frustration, so the past participle 'Frustrated' is used in the reduced clause. 'Frustrating' means causing frustration, and the other forms do not fit."
-  },
-  {
-    "id": "p5-1840",
-    "sentence": "Any employee ___ to have breached the code of conduct may face disciplinary action.",
-    "choices": [
-      "finding",
-      "finds",
-      "found",
-      "find"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Found to have breached' is a reduced passive relative clause. 'Finding' is active, and 'find' and 'finds' are finite verbs."
-  },
-  {
-    "id": "p5-1841",
-    "sentence": "___ the unfavourable exchange rate, the exporter increased its overseas revenue by eight percent.",
-    "choices": [
-      "Despite",
-      "Whereas",
-      "Although",
-      "However"
+      "comprehensible",
+      "comprehensively",
+      "comprehension",
+      "comprehensive"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Despite' is a preposition taking a noun phrase. 'Although' and 'Whereas' need a clause, and 'However' is an adverb."
+    "explanation": "'Comprehensible' (able to be understood) is the adjective that fits 'barely ___ to'. 'Comprehensive' means thorough and cannot take 'to'; 'comprehensively' and 'comprehension' do not fit the adjective slot."
   },
   {
-    "id": "p5-1842",
-    "sentence": "___ the exporter's revenue rose, its margins narrowed because of higher shipping costs.",
+    "id": "p5-1221",
+    "sentence": "The retailer has ___ a rigorous inspection regime to detect counterfeit goods before they reach the shelves.",
     "choices": [
-      "Owing to",
-      "Although",
-      "Because",
-      "Despite"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Although' introduces a clause of contrast. 'Despite' and 'Owing to' need a noun phrase, and 'Because' gives the wrong logical relation."
-  },
-  {
-    "id": "p5-1843",
-    "sentence": "The northern division exceeded its targets, ___ the southern division fell well short of its forecast.",
-    "choices": [
-      "such as",
-      "because of",
-      "whereas",
-      "despite"
+      "insinuated",
+      "instigated",
+      "instituted",
+      "instructed"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Whereas' joins two contrasting clauses. 'Despite', 'because of' and 'such as' are prepositional and cannot introduce a clause."
+    "category": "vocabulary",
+    "explanation": "'Instituted a regime' means established it. 'Instigated' means provoked, 'instructed' means directed, and 'insinuated' means hinted."
   },
   {
-    "id": "p5-1844",
-    "sentence": "Sales fell sharply in the third quarter; ___, the company still managed to post a modest profit.",
+    "id": "p5-1719",
+    "sentence": "Failure to disclose the conflict of interest constituted a ___ of fiduciary duty.",
     "choices": [
-      "whereas",
-      "however",
-      "despite",
-      "although"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'However' is a conjunctive adverb that follows a semicolon. 'Although', 'whereas' and 'despite' cannot link two independent clauses this way."
-  },
-  {
-    "id": "p5-1845",
-    "sentence": "___ the contract expressly prohibits subletting, the tenant rented out part of the premises.",
-    "choices": [
-      "Because of",
-      "However",
-      "Despite",
-      "Although"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Although' introduces a concessive clause. 'Despite' and 'Because of' need noun phrases, and 'However' is an adverb."
-  },
-  {
-    "id": "p5-1846",
-    "sentence": "Neither the chief executive ___ the finance director was present when the covenant was breached.",
-    "choices": [
-      "nor",
-      "or",
-      "but",
-      "and"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Neither' is paired with 'nor'. 'Or', 'and' and 'but' do not complete the correlative."
-  },
-  {
-    "id": "p5-1847",
-    "sentence": "The tribunal dismissed the claim ___ the claimant had failed to submit the required evidence.",
-    "choices": [
-      "whereas",
-      "because of",
-      "because",
-      "despite"
+      "brunt",
+      "breeze",
+      "breach",
+      "breadth"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Because' introduces a clause. 'Because of' and 'despite' need a noun phrase, and 'whereas' gives the wrong relation."
-  },
-  {
-    "id": "p5-1848",
-    "sentence": "Employees may work remotely, ___ they remain reachable during core hours.",
-    "choices": [
-      "although",
-      "provided",
-      "whereas",
-      "unless"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Provided (that)' states a condition that must be met. 'Unless' reverses the logic, and 'although' and 'whereas' express contrast."
-  },
-  {
-    "id": "p5-1849",
-    "sentence": "Few if ___ of the applicants met the minimum experience requirement for the senior position.",
-    "choices": [
-      "some",
-      "all",
-      "ever",
-      "any"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Few if any' is the fixed expression. 'Ever' is an adverb, and 'some' and 'all' do not fit the idiom."
-  },
-  {
-    "id": "p5-1850",
-    "sentence": "Only a ___ of shareholders attended the meeting, so the quorum was not reached.",
-    "choices": [
-      "handful",
-      "lot",
-      "amount",
-      "multitude"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'A handful of' means a very small number, matching 'only' and the missing quorum. 'Lot' and 'multitude' suggest large numbers, and 'amount' is used with uncountable nouns."
-  },
-  {
-    "id": "p5-1851",
-    "sentence": "The committee interviewed ___ the shortlisted candidates before announcing its decision.",
-    "choices": [
-      "all",
-      "every",
-      "no",
-      "each"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'All the' precedes plural nouns. 'Every' and 'each' are followed by a singular noun without 'the', and 'no' cannot precede 'the'."
-  },
-  {
-    "id": "p5-1852",
-    "sentence": "There is ___ evidence that the supplier falsified its safety certificates, despite repeated allegations.",
-    "choices": [
-      "several",
-      "many",
-      "little",
-      "few"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Evidence' is uncountable, so 'little' is correct. 'Few', 'many' and 'several' are used with countable plural nouns."
-  },
-  {
-    "id": "p5-1853",
-    "sentence": "Far ___ complaints were received this year than last, following the redesign of the online portal.",
-    "choices": [
-      "lesser",
-      "fewer",
-      "less",
-      "little"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Complaints' is countable, so 'fewer' is correct. 'Less' is for uncountables, 'lesser' is an adjective meaning smaller in importance, and 'little' does not fit."
-  },
-  {
-    "id": "p5-1854",
-    "sentence": "By the time the regulator intervened, the bank ___ most of its depositors' funds.",
-    "choices": [
-      "would lose",
-      "will lose",
-      "has lost",
-      "had lost"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "Past perfect 'had lost' shows an action completed before another past event. 'Has lost' is present perfect, and 'will lose' and 'would lose' refer to the future."
+    "category": "vocabulary",
+    "explanation": "A breach of duty is a violation. Breadth, breeze and brunt do not collocate with of duty."
   }
 ]

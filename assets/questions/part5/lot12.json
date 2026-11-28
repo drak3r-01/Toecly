@@ -1,55 +1,120 @@
 [
   {
-    "id": "p5-1775",
-    "sentence": "Sellers must ___ any known defects in the property before the sale is finalised.",
+    "id": "p5-1856",
+    "sentence": "The merger, which ___ for over a year, was finally completed in March.",
     "choices": [
-      "dispatch",
-      "disarm",
-      "disclose",
-      "disperse"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Disclose defects means reveal them. Disperse, disarm and dispatch do not take defects."
-  },
-  {
-    "id": "p5-1776",
-    "sentence": "The landlord served the tenant with an ___ notice after months of unpaid rent.",
-    "choices": [
-      "evocation",
-      "evaluation",
-      "evasion",
-      "eviction"
+      "would be negotiated",
+      "has been negotiated",
+      "will have been negotiated",
+      "had been negotiated"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "An eviction notice orders a tenant out. The others are not notices to tenants."
+    "category": "grammar",
+    "explanation": "The past perfect passive shows negotiation before the completion in March. 'Has been negotiated' is present perfect, and the other forms are future-oriented."
   },
   {
-    "id": "p5-1777",
-    "sentence": "The vacant office tower is being ___ into luxury apartments by a London developer.",
+    "id": "p5-1358",
+    "sentence": "The regulator has ___ the firm's request for an extension of the filing deadline.",
     "choices": [
-      "converged",
-      "converted",
-      "contorted",
-      "conveyed"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Converted into means changed to a new use. The others do not fit into apartments."
-  },
-  {
-    "id": "p5-1778",
-    "sentence": "The mortgage was ___ against the property, giving the lender a claim if repayments stop.",
-    "choices": [
-      "secured",
-      "sequenced",
-      "secreted",
-      "sealed"
+      "rejected",
+      "relayed",
+      "rebuked",
+      "rectified"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "Secured against property means backed by it. The others do not fit."
+    "explanation": "'Rejected a request' means refused it. 'Rebuked' means criticised, 'rectified' means corrected, and 'relayed' means passed on."
+  },
+  {
+    "id": "p5-1066",
+    "sentence": "Access to the archive is ___ to staff who have been granted clearance.",
+    "choices": [
+      "confined",
+      "conferred",
+      "confused",
+      "confirmed"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Confined to' means limited to. 'Confused' means mixed up, 'confirmed' means verified, and 'conferred' means bestowed."
+  },
+  {
+    "id": "p5-1730",
+    "sentence": "The manager decided to ___ the underperforming employee to a less demanding role.",
+    "choices": [
+      "reprieve",
+      "reassure",
+      "resign",
+      "reassign"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Reassign to a role means move. Reassure, resign and reprieve cannot be followed by to a role."
+  },
+  {
+    "id": "p5-1875",
+    "sentence": "The external auditors confirmed that the accounts present a true and ___ view of the group's finances.",
+    "choices": [
+      "frank",
+      "fond",
+      "fine",
+      "fair"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'True and fair view' is the fixed audit-opinion phrase. 'Frank', 'fine' and 'fond' do not form the idiom."
+  },
+  {
+    "id": "p5-1330",
+    "sentence": "Production was halted ___ safety inspections that revealed several structural defects.",
+    "choices": [
+      "ahead of to",
+      "in spite",
+      "owing to",
+      "in view"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Owing to' gives the cause. The others are incomplete or contrastive."
+  },
+  {
+    "id": "p5-2072",
+    "sentence": "Staggered board terms can ___ incumbent management and make hostile takeovers harder.",
+    "choices": [
+      "enclose",
+      "enlist",
+      "enshrine",
+      "entrench"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Entrench means to establish something so firmly that it is hard to remove. Enshrine means to preserve as sacred or in law, enlist means to recruit, and enclose means to surround, so none suits the effect on incumbent management."
+  },
+  {
+    "id": "p5-1236",
+    "sentence": "The conglomerate intends to ___ its non-core assets to fund the acquisition.",
+    "choices": [
+      "diverge",
+      "devote",
+      "divest",
+      "deplete"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Divest assets' means sell them off. 'Devote' needs 'to', 'diverge' is intransitive, and 'deplete' means use up."
+  },
+  {
+    "id": "p5-1426",
+    "sentence": "The firm's accountants were unaware ___ the tax authority had opened an inquiry.",
+    "choices": [
+      "of that",
+      "whether to",
+      "that",
+      "what"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Unaware that' introduces a clause. The others are malformed."
   },
   {
     "id": "p5-1779",
@@ -65,95 +130,368 @@
     "explanation": "Foreclose on means seize for unpaid debt. Forgive, forage and forfeit do not combine with on."
   },
   {
-    "id": "p5-1780",
-    "sentence": "The tenants' ___ for the damaged premises was capped at three months' rent.",
+    "id": "p5-2091",
+    "sentence": "The report ___ that the company had misrepresented its earnings for two consecutive quarters.",
     "choices": [
-      "liability",
-      "literacy",
-      "legibility",
-      "likelihood"
+      "allocates",
+      "alerts",
+      "alleges",
+      "alleviates"
     ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Liability is legal responsibility. The others cannot be capped at an amount of rent."
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Allege that' means claim without proof. 'Alleviates' means eases, 'allocates' means assigns, and 'alerts' needs a person as its object."
   },
   {
-    "id": "p5-1781",
-    "sentence": "The council granted the developer a ___ from the usual height restrictions.",
+    "id": "p5-1407",
+    "sentence": "Invoices are payable within thirty days; ___, a late fee of two percent will be applied.",
     "choices": [
-      "waterway",
-      "wafer",
-      "waiver",
-      "warrant"
+      "therefore",
+      "moreover",
+      "likewise",
+      "otherwise"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Otherwise' means if not. 'Therefore' gives result, 'moreover' adds, and 'likewise' means similarly."
+  },
+  {
+    "id": "p5-1271",
+    "sentence": "So thorough ___ the investigation that not a single transaction escaped the auditors' attention.",
+    "choices": [
+      "did",
+      "had",
+      "were",
+      "was"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'So + adjective' at the start requires inversion with 'be': 'was the investigation'. 'did' and 'had' do not fit the adjective, and 'were' is plural."
+  },
+  {
+    "id": "p5-1060",
+    "sentence": "The airline was forced to ___ the flight owing to a technical fault.",
+    "choices": [
+      "deviate",
+      "delegate",
+      "divert",
+      "denote"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "A waiver exempts from a rule. A warrant authorizes action; the others are unrelated."
+    "explanation": "'Divert a flight' means redirect it. 'Deviate' is intransitive, 'delegate' means assign, and 'denote' means signify."
   },
   {
-    "id": "p5-1782",
-    "sentence": "The group plans to ___ its non-core property holdings over the next two years.",
+    "id": "p5-2181",
+    "sentence": "The new policy will take effect ___ the legal team's final review of the revised text.",
     "choices": [
-      "dissect",
-      "divorce",
-      "divert",
-      "divest"
+      "pended",
+      "depending",
+      "pending on",
+      "pending"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Pending' is a preposition meaning until or while awaiting. 'Pended' is not used here, 'pending on' is incorrect, and 'depending' requires 'on'."
+  },
+  {
+    "id": "p5-725",
+    "sentence": "The tour operator ___ all responsibility for items lost or stolen during the excursion.",
+    "choices": [
+      "disclaims",
+      "displaces",
+      "disowns",
+      "disputes"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Disclaims responsibility' is a standard legal collocation meaning denies. 'Disowns' is for people, 'disputes' means argues, and 'displaces' means moves."
+  },
+  {
+    "id": "p5-1346",
+    "sentence": "The firm's expansion has been ___ by delays in obtaining planning permission.",
+    "choices": [
+      "implied",
+      "impelled",
+      "imputed",
+      "impeded"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "Divest means sell off. Divert, divorce and dissect do not take holdings."
+    "explanation": "'Impeded' means obstructed. 'Imputed' means attributed, 'implied' means suggested, and 'impelled' means driven."
   },
   {
-    "id": "p5-1783",
-    "sentence": "Buyers should conduct due ___ before committing to a large commercial acquisition.",
+    "id": "p5-2061",
+    "sentence": "All attendees must ___ to the event's code of conduct, which prohibits recording any session.",
     "choices": [
-      "diligence",
-      "diffusion",
-      "dilemma",
-      "dignity"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Due diligence is the fixed phrase for pre-deal investigation. The others do not follow due."
-  },
-  {
-    "id": "p5-1784",
-    "sentence": "The factory installed sensors to detect ___ in the assembly line before they cause breakdowns.",
-    "choices": [
-      "analogies",
-      "anomalies",
-      "anecdotes",
-      "anthems"
+      "obey",
+      "adhere",
+      "comply",
+      "abide"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "Anomalies are irregularities. Anecdotes, analogies and anthems cannot be detected by sensors."
+    "explanation": "To adhere to rules is to follow them, and the verb takes 'to'. Comply takes 'with', abide takes 'by', and obey takes no preposition, so none of them can be followed by 'to'."
   },
   {
-    "id": "p5-1785",
-    "sentence": "Rigorous quality ___ procedures ensure that every unit is tested before leaving the plant.",
+    "id": "p5-1440",
+    "sentence": "Applicants ___ for senior roles are expected to hold a recognised professional qualification.",
     "choices": [
-      "insurance",
-      "assistance",
-      "assurance",
-      "endurance"
+      "applied",
+      "applying",
+      "who applies",
+      "to apply"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A present participle reduces an active relative clause. The others do not fit."
+  },
+  {
+    "id": "p5-2024",
+    "sentence": "The influencer's post gave the unknown brand instant ___ among teenage shoppers.",
+    "choices": [
+      "inertia",
+      "leverage",
+      "friction",
+      "traction"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "To gain traction is to start being accepted and popular. Friction means conflict, inertia means resistance to movement, and leverage means bargaining power, so none of them describes sudden popularity."
+  },
+  {
+    "id": "p5-2012",
+    "sentence": "The minister issued a ___ denial, insisting that no such talks had ever taken place.",
+    "choices": [
+      "cosmetic",
+      "catastrophic",
+      "categorical",
+      "chronic"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "Quality assurance is a fixed term. The others do not form it."
+    "explanation": "A categorical denial is absolute and without exception. Catastrophic means disastrous, cosmetic means superficial, and chronic means long-lasting, so none of them describes the strength of a denial."
   },
   {
-    "id": "p5-1786",
-    "sentence": "The plant must ___ its machinery regularly to avoid unplanned downtime.",
+    "id": "p5-2120",
+    "sentence": "Because the borrower had no ___ to offer, the lender required a personal guarantee from the founder.",
     "choices": [
-      "overturn",
-      "overrule",
+      "counterpart",
+      "precedent",
+      "equivalent",
+      "collateral"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Collateral is an asset pledged to secure a loan. A counterpart is a person in a similar role, an equivalent is something of equal value, and a precedent is an earlier example, so none of them secures a loan."
+  },
+  {
+    "id": "p5-1762",
+    "sentence": "The company hired an influencer to ___ its new range of sustainable sportswear.",
+    "choices": [
+      "endorse",
+      "endow",
+      "enclose",
+      "endure"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Endorse a product means publicly support it. Endow, endure and enclose do not fit."
+  },
+  {
+    "id": "p5-1207",
+    "sentence": "Only when the invoice was countersigned ___ the finance department release the payment.",
+    "choices": [
+      "was",
+      "had",
+      "has",
+      "could to"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Only when' at the start triggers inversion: 'did the department release' is the past-simple form. 'was' and 'has' do not fit the bare verb that follows, and 'had' would need a past participle."
+  },
+  {
+    "id": "p5-2093",
+    "sentence": "The retailer decided to ___ its pricing strategy after customers complained about frequent, confusing promotions.",
+    "choices": [
       "overlook",
+      "overtake",
+      "overrule",
       "overhaul"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "Overhaul machinery means thoroughly service it. The others would not avoid downtime."
+    "explanation": "To overhaul is to revise something thoroughly. Overlook means to fail to notice, overrule means to reverse a decision by authority, and overtake means to pass or surpass, so none of them describes redesigning a strategy."
+  },
+  {
+    "id": "p5-2009",
+    "sentence": "The consultants will advise on ___ the company should enter the Asian market at all.",
+    "choices": [
+      "whereby",
+      "wherein",
+      "whereas",
+      "whether"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Whether ... at all' expresses the yes-or-no decision. 'Whereas' contrasts two clauses, 'wherein' means in which, and 'whereby' means by which."
+  },
+  {
+    "id": "p5-1295",
+    "sentence": "The consultant's report was ___ and ruled out several options without consulting the staff.",
+    "choices": [
+      "cunning",
+      "cautious",
+      "cursory",
+      "courteous"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Cursory' means hasty and superficial. 'Cunning' means sly, 'cautious' means careful, and 'courteous' means polite."
+  },
+  {
+    "id": "p5-1717",
+    "sentence": "Under the lease, the tenant may not ___ the premises without the landlord's written consent.",
+    "choices": [
+      "subvert",
+      "sublet",
+      "subtract",
+      "sue"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Sublet means rent to a third party. Sue, subvert and subtract do not take premises in this sense."
+  },
+  {
+    "id": "p5-2078",
+    "sentence": "Property values in the area have ___ steadily since the new rail link opened.",
+    "choices": [
+      "appreciated",
+      "capitalized",
+      "appraised",
+      "enhanced"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "To appreciate is to rise in value, and it needs no object. Appraised and enhanced need an object, and capitalized is not used for values that rise on their own."
+  },
+  {
+    "id": "p5-1415",
+    "sentence": "The company had its accounts ___ by an independent firm before the flotation.",
+    "choices": [
+      "auditing",
+      "audit",
+      "to audit",
+      "audited"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Have + object + past participle' is the passive causative. The others do not fit."
+  },
+  {
+    "id": "p5-1709",
+    "sentence": "The bond will pay its full face value to investors on the ___ date.",
+    "choices": [
+      "mortality",
+      "maternity",
+      "maturity",
+      "majority"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Maturity date is when a bond is repaid. Majority, mortality and maternity are not bond terms."
+  },
+  {
+    "id": "p5-1409",
+    "sentence": "The scheme is open to all staff; ___, preference will be given to those with the longest service.",
+    "choices": [
+      "thereby",
+      "however",
+      "hence",
+      "whereas"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'However' contrasts within a semicolon structure. 'Thereby' and 'hence' show result, and 'whereas' needs a clause."
+  },
+  {
+    "id": "p5-1667",
+    "sentence": "The investors insisted on ___ informed of every material change to the project schedule.",
+    "choices": [
+      "being",
+      "to be",
+      "been",
+      "having"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Insist on' takes a gerund, here passive 'being informed'. 'to be' is wrong, 'having' needs a past participle and 'been' needs 'having'."
+  },
+  {
+    "id": "p5-2138",
+    "sentence": "The cloud contract guarantees ninety-nine point nine percent ___ , meaning the service is almost always available.",
+    "choices": [
+      "turnover",
+      "downtime",
+      "lag",
+      "uptime"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Uptime is the share of time a service is operating. Downtime would mean the service is unavailable, turnover is sales or staff change, and lag is a delay, none of which a provider can promise as availability."
+  },
+  {
+    "id": "p5-1292",
+    "sentence": "Strict ___ to the disclosure rules is a condition of the firm's operating licence.",
+    "choices": [
+      "adherence",
+      "adherents",
+      "adhesion",
+      "adhering"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Adherence to rules' means following them. 'Adhesion' refers to sticking, 'adherents' are followers, and 'adhering' is a participle."
+  },
+  {
+    "id": "p5-1905",
+    "sentence": "A project ___ outlines the objectives, scope, timeline and budget, and is signed off before work begins.",
+    "choices": [
+      "chapter",
+      "charter",
+      "charger",
+      "charity"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A 'project charter' is the document authorising a project. 'Chapter', 'charity' and 'charger' do not fit."
+  },
+  {
+    "id": "p5-1213",
+    "sentence": "The company's balance sheet ___ a significant exposure to foreign-exchange fluctuations.",
+    "choices": [
+      "relays",
+      "retains",
+      "reveals",
+      "refuses"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Reveals' means shows something previously hidden. 'Relays' means passes on, 'retains' means keeps, and 'refuses' means declines."
+  },
+  {
+    "id": "p5-1264",
+    "sentence": "The directors were ___ of any wrongdoing by the independent inquiry.",
+    "choices": [
+      "cleaned",
+      "cleaved",
+      "cleansed",
+      "cleared"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Cleared of wrongdoing' means found innocent. 'Cleaned' and 'cleansed' mean washed, and 'cleaved' means split."
   },
   {
     "id": "p5-1787",
@@ -169,354 +507,16 @@
     "explanation": "Isolated batches are set apart. The others cannot describe batches."
   },
   {
-    "id": "p5-1788",
-    "sentence": "Automation has significantly improved ___ on the production line, with output per worker doubling.",
+    "id": "p5-1256",
+    "sentence": "The negotiators insisted ___ a binding commitment before they would sign anything.",
     "choices": [
-      "proclivity",
-      "proportionality",
-      "proximity",
-      "productivity"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Productivity is output per worker. The others do not describe output."
-  },
-  {
-    "id": "p5-1789",
-    "sentence": "Raw materials are ___ from certified suppliers to meet the ethical sourcing policy.",
-    "choices": [
-      "soured",
-      "sourced",
-      "sauced",
-      "scoured"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Sourced from means obtained from. The others do not fit."
-  },
-  {
-    "id": "p5-1790",
-    "sentence": "Engineers must ___ the equipment to the manufacturer's specifications before production begins.",
-    "choices": [
-      "calibrate",
-      "celebrate",
-      "cultivate",
-      "calculate"
+      "on",
+      "at",
+      "to",
+      "for"
     ],
     "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Calibrate equipment means adjust it for accuracy. The others cannot take equipment."
-  },
-  {
-    "id": "p5-1791",
-    "sentence": "The assembly line came to a ___ after a power failure disabled the main conveyor.",
-    "choices": [
-      "stalemate",
-      "standpoint",
-      "standstill",
-      "stopover"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "A standstill is a complete halt. Stalemate applies to disputes; the others do not fit."
-  },
-  {
-    "id": "p5-1792",
-    "sentence": "The outdated plant is being ___ with energy-efficient machinery to cut operating costs.",
-    "choices": [
-      "retrieved",
-      "retrenched",
-      "reprimanded",
-      "retrofitted"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Retrofit means add new equipment to old plant. The others do not fit with machinery."
-  },
-  {
-    "id": "p5-1793",
-    "sentence": "Components must fall within a strict ___ of 0.05 millimetres to pass inspection.",
-    "choices": [
-      "tolerance",
-      "temperament",
-      "tonnage",
-      "tension"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Tolerance is allowed deviation. The others are not measures of permitted variation."
-  },
-  {
-    "id": "p5-1794",
-    "sentence": "The security team ___ the vulnerability within hours of its public disclosure.",
-    "choices": [
-      "pasted",
-      "patched",
-      "pitched",
-      "patrolled"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Patch a vulnerability means fix with an update. The others do not fit."
-  },
-  {
-    "id": "p5-1795",
-    "sentence": "All customer data is ___ both in transit and at rest to prevent unauthorised access.",
-    "choices": [
-      "encrypted",
-      "enthroned",
-      "enchanted",
-      "encrusted"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Encrypted data is scrambled for security. The others are not data protections."
-  },
-  {
-    "id": "p5-1796",
-    "sentence": "The migration to the cloud will ___ the need for costly on-site servers.",
-    "choices": [
-      "obstruct",
-      "obsess",
-      "observe",
-      "obviate"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Obviate the need means remove it. The others do not take need."
-  },
-  {
-    "id": "p5-1797",
-    "sentence": "The outage was caused by a ___ failure in the primary data centre's cooling system.",
-    "choices": [
-      "capturing",
-      "cascading",
-      "captivating",
-      "capsizing"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A cascading failure spreads in sequence. The others do not describe failure."
-  },
-  {
-    "id": "p5-1798",
-    "sentence": "Administrators should ___ access privileges to the minimum necessary for each employee's role.",
-    "choices": [
-      "reconstitute",
-      "restore",
-      "restrict",
-      "restate"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Restrict privileges means limit them. The others do not mean limit."
-  },
-  {
-    "id": "p5-1799",
-    "sentence": "The system automatically ___ older records to a secondary server after ninety days.",
-    "choices": [
-      "archives",
-      "arbitrates",
-      "ascribes",
-      "arranges"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Archive records means move to long-term storage. The others do not take records to a server."
-  },
-  {
-    "id": "p5-1800",
-    "sentence": "Legacy systems are often incompatible with modern ___ and require costly custom integration.",
-    "choices": [
-      "interrogations",
-      "interventions",
-      "interfaces",
-      "interludes"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Interfaces are connection points between systems. The others do not suit incompatible."
-  },
-  {
-    "id": "p5-1801",
-    "sentence": "The team had to ___ the server after the corrupted update made it unresponsive.",
-    "choices": [
-      "rebate",
-      "reboot",
-      "rebuke",
-      "rebuff"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Reboot means restart. The others cannot take a server."
-  },
-  {
-    "id": "p5-1802",
-    "sentence": "The platform's modular architecture makes it easy to ___ new features without disrupting existing services.",
-    "choices": [
-      "interrogate",
-      "interrupt",
-      "intimidate",
-      "integrate"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Integrate features means incorporate them. The others do not fit."
-  },
-  {
-    "id": "p5-1803",
-    "sentence": "A single ___ in the database slows down every transaction on the platform.",
-    "choices": [
-      "breakthrough",
-      "backlash",
-      "bottleneck",
-      "blueprint"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "A bottleneck is a point that limits flow. The others do not."
-  },
-  {
-    "id": "p5-1804",
-    "sentence": "Employees were warned to remain vigilant against ___ emails that impersonate senior executives.",
-    "choices": [
-      "phishing",
-      "phrasing",
-      "fishing",
-      "phasing"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Phishing emails try to steal data. The others do not describe fraud."
-  },
-  {
-    "id": "p5-1805",
-    "sentence": "The company chose to ___ its customer-support platform to a cloud-based system.",
-    "choices": [
-      "mediate",
-      "meander",
-      "mitigate",
-      "migrate"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Migrate to means move. The others do not take to a system."
-  },
-  {
-    "id": "p5-1806",
-    "sentence": "The board must ___ any conflicts of interest before voting on the acquisition.",
-    "choices": [
-      "declaim",
-      "declare",
-      "decorate",
-      "decipher"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Declare a conflict means disclose it. The others do not fit."
-  },
-  {
-    "id": "p5-1807",
-    "sentence": "Non-executive directors provide independent ___ over the management's strategic decisions.",
-    "choices": [
-      "oversight",
-      "overtone",
-      "overdraft",
-      "overhaul"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Oversight is supervision. The others do not describe supervision."
-  },
-  {
-    "id": "p5-1808",
-    "sentence": "Shareholders voted to ___ the chairman after the accounting scandal came to light.",
-    "choices": [
-      "outfit",
-      "ooze",
-      "outgrow",
-      "oust"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Oust means force out. The others do not take a person as object this way."
-  },
-  {
-    "id": "p5-1809",
-    "sentence": "The company's articles of association were ___ to allow for non-voting preference shares.",
-    "choices": [
-      "amazed",
-      "ambushed",
-      "amended",
-      "amassed"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Amend means formally change. The others do not fit."
-  },
-  {
-    "id": "p5-1810",
-    "sentence": "Directors owe a ___ duty to act in the best interests of the company.",
-    "choices": [
-      "fickle",
-      "fiduciary",
-      "fragile",
-      "fictitious"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Fiduciary duty is a legal duty of trust. The others do not describe duty."
-  },
-  {
-    "id": "p5-1811",
-    "sentence": "The CEO's bonus is ___ on meeting long-term performance targets set by the board.",
-    "choices": [
-      "predated",
-      "predicated",
-      "predicted",
-      "predestined"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "Predicated on means based on. The others do not take on targets."
-  },
-  {
-    "id": "p5-1812",
-    "sentence": "An independent committee will ___ the allegations of financial misconduct against senior executives.",
-    "choices": [
-      "investigate",
-      "infiltrate",
-      "incriminate",
-      "instigate"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Investigate allegations means examine them. The others do not."
-  },
-  {
-    "id": "p5-1813",
-    "sentence": "Minority shareholders sought ___ after the majority owners approved a below-market buyout offer.",
-    "choices": [
-      "redemption",
-      "relapse",
-      "redundancy",
-      "redress"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Seek redress means seek remedy. The others do not."
-  },
-  {
-    "id": "p5-1814",
-    "sentence": "The nomination committee ___ candidates for board vacancies based on skills and experience.",
-    "choices": [
-      "scrawls",
-      "scribes",
-      "screens",
-      "scorns"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Screen candidates means assess them. The others do not."
+    "category": "grammar",
+    "explanation": "'Insist on' + noun phrase is the correct pattern. 'At', 'to' and 'for' do not follow 'insist' in this sense."
   }
 ]

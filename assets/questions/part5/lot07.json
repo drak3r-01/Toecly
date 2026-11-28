@@ -1,159 +1,224 @@
 [
   {
-    "id": "p5-1427",
-    "sentence": "The contract expressly forbids the supplier ___ subcontracting any part of the work.",
+    "id": "p5-2149",
+    "sentence": "The firm's decision to expand was taken ___ strong opposition from minority shareholders.",
     "choices": [
-      "of",
-      "to",
-      "against",
-      "from"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Forbid from + gerund' is the pattern here. 'to' and 'of' do not fit, and 'against' is used after 'warn'."
-  },
-  {
-    "id": "p5-1428",
-    "sentence": "The new manager proved ___ more effective than her predecessor in dealing with difficult clients.",
-    "choices": [
-      "very",
-      "far",
-      "much to",
-      "too"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Far more effective' is the intensified comparative. 'very' cannot modify a comparative, and the others do not fit."
-  },
-  {
-    "id": "p5-1429",
-    "sentence": "Of the three bids received, the second was ___ the most competitive.",
-    "choices": [
-      "at far",
-      "by long",
-      "far by",
-      "by far"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'By far the most' is the fixed superlative intensifier. The others are malformed."
-  },
-  {
-    "id": "p5-1430",
-    "sentence": "The more complex the product, ___ it is to maintain consistent quality across factories.",
-    "choices": [
-      "the harder",
-      "harder",
-      "hardest",
-      "the hardest"
+      "in the face of",
+      "by means of",
+      "with the exception of",
+      "on behalf of"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "The double comparative 'the more..., the harder' is required. The others do not fit."
+    "explanation": "'In the face of' means despite or when confronted with. 'On behalf of' means representing, 'with the exception of' means excluding, and 'by means of' introduces a method."
   },
   {
-    "id": "p5-1432",
-    "sentence": "The company spent ___ less than it had budgeted on the refurbishment of its head office.",
+    "id": "p5-1641",
+    "sentence": "___ in 1998, the firm now employs over four thousand people worldwide.",
     "choices": [
-      "considerably",
-      "considerate",
-      "considerable to",
-      "considering"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "An adverb is needed to modify the comparative 'less'. The others are not adverbs."
-  },
-  {
-    "id": "p5-1433",
-    "sentence": "The auditors found that ___ the figures had been altered to conceal the shortfall.",
-    "choices": [
-      "those of",
-      "some of",
-      "some",
-      "most to"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Some of the figures' is a partitive. 'some' alone cannot precede 'the figures', and the others are malformed."
-  },
-  {
-    "id": "p5-1434",
-    "sentence": "A great deal of ___ was lost when the old system was replaced without a proper handover.",
-    "choices": [
-      "informations",
-      "knowledges",
-      "information",
-      "data's"
+      "To found",
+      "Founding",
+      "Founded",
+      "Found"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Information' is uncountable and follows 'a great deal of'. The others are incorrect plurals or possessives."
+    "explanation": "A past participle clause with passive meaning: the firm was founded. 'Founding' and 'To found' are active, and 'Found' is a different verb."
   },
   {
-    "id": "p5-1435",
-    "sentence": "Several of the proposals, ___ the most ambitious, were rejected outright by the board.",
+    "id": "p5-1621",
+    "sentence": "The warranty remains valid ___ the equipment is serviced annually by an authorized technician.",
     "choices": [
-      "included",
-      "includes",
-      "to include",
-      "including"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Including' is a preposition-like participle. The others do not fit."
-  },
-  {
-    "id": "p5-1436",
-    "sentence": "The new rules apply to all employees, ___ those on temporary contracts.",
-    "choices": [
-      "includes",
-      "including",
-      "to include",
-      "included"
+      "as though",
+      "so long as",
+      "as soon as",
+      "as far as"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Including' introduces an example. The others do not fit."
+    "explanation": "'So long as' states a condition. 'as far as' marks extent, 'as soon as' marks time and 'as though' compares."
   },
   {
-    "id": "p5-1438",
-    "sentence": "The factory will close permanently ___ a buyer is found within the next three months.",
+    "id": "p5-1253",
+    "sentence": "Funding is ___ on the project meeting its environmental milestones by the end of June.",
     "choices": [
-      "as if",
-      "whereas",
-      "once more",
-      "unless"
+      "conventional",
+      "continual",
+      "confidential",
+      "conditional"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Unless' introduces an exception. The others do not."
+    "category": "vocabulary",
+    "explanation": "'Conditional on' means dependent on. 'Continual' means repeated, 'conventional' means traditional, and 'confidential' means secret."
   },
   {
-    "id": "p5-1440",
-    "sentence": "Applicants ___ for senior roles are expected to hold a recognised professional qualification.",
+    "id": "p5-2104",
+    "sentence": "Slow response times are often caused by network ___ during peak hours, when too many users log on.",
     "choices": [
-      "applied",
-      "applying",
-      "who applies",
-      "to apply"
+      "confinement",
+      "congestion",
+      "concentration",
+      "clutter"
     ],
     "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "A present participle reduces an active relative clause. The others do not fit."
+    "category": "vocabulary",
+    "explanation": "Network congestion is overload caused by too much traffic. Clutter is untidiness, confinement is being shut in, and concentration is focus or density, so none of them is the standard term for overloaded traffic."
   },
   {
-    "id": "p5-1441",
-    "sentence": "The firm's board has ___ the proposal, which is now awaiting shareholder approval.",
+    "id": "p5-1354",
+    "sentence": "The firm has ___ no effort to ensure that its employees understand the new safety rules.",
     "choices": [
-      "endorse",
-      "to endorse",
-      "endorsing",
-      "endorsed"
+      "spared",
+      "left",
+      "saved",
+      "wasted"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Spared no effort' is the fixed phrase. 'Saved no effort' is not used, 'wasted' means misused, and 'left' does not fit."
+  },
+  {
+    "id": "p5-956",
+    "sentence": "The workers called a ___ strike in protest at the dismissal of two colleagues.",
+    "choices": [
+      "tidy",
+      "tense",
+      "tacit",
+      "token"
     ],
     "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A 'token strike' is a short strike to show protest. The other adjectives do not collocate with 'strike'."
+  },
+  {
+    "id": "p5-1741",
+    "sentence": "The company negotiated a volume ___ with its largest supplier after doubling its orders.",
+    "choices": [
+      "rebuke",
+      "rebate",
+      "rebuttal",
+      "rebellion"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A rebate is a partial refund for volume. Rebuke, rebuttal and rebellion are not commercial terms."
+  },
+  {
+    "id": "p5-1087",
+    "sentence": "The firm has ___ the market with cheaper alternatives to well-known brands.",
+    "choices": [
+      "flowed",
+      "floated",
+      "flooded",
+      "floored"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Flooded the market' means supplied in large quantities. 'Floated' means launched shares, 'flowed' is intransitive, and 'floored' means knocked down."
+  },
+  {
+    "id": "p5-1900",
+    "sentence": "The insurer declined the claim for non-___ of a material fact when the policy was taken out.",
+    "choices": [
+      "discretion",
+      "discipline",
+      "disclosure",
+      "disclaimer"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Non-disclosure' means failing to reveal. 'Disclaimer' is a denial of liability, 'discipline' is control, and 'discretion' is judgement."
+  },
+  {
+    "id": "p5-1289",
+    "sentence": "The company was ___ to compensate customers affected by the faulty batch.",
+    "choices": [
+      "abided",
+      "abused",
+      "abetted",
+      "obliged"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Obliged to' means required to. The others do not fit the infinitive."
+  },
+  {
+    "id": "p5-1781",
+    "sentence": "The council granted the developer a ___ from the usual height restrictions.",
+    "choices": [
+      "waterway",
+      "wafer",
+      "waiver",
+      "warrant"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A waiver exempts from a rule. A warrant authorizes action; the others are unrelated."
+  },
+  {
+    "id": "p5-1261",
+    "sentence": "The firm's cash position was ___ by the unexpected delay in customer payments.",
+    "choices": [
+      "strained",
+      "stranded",
+      "strewn",
+      "strapped"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Strained' means put under pressure. 'Stranded' means left without help, 'strapped' means short of money (describing the firm, not the position), and 'strewn' means scattered."
+  },
+  {
+    "id": "p5-1348",
+    "sentence": "The new CFO is expected to bring greater ___ to the firm's financial reporting.",
+    "choices": [
+      "rigour",
+      "ritual",
+      "rigidity",
+      "rivalry"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Rigour' means strictness and thoroughness. 'Rigidity' means inflexibility, 'rivalry' means competition, and 'ritual' means ceremony."
+  },
+  {
+    "id": "p5-1780",
+    "sentence": "The tenants' ___ for the damaged premises was capped at three months' rent.",
+    "choices": [
+      "liability",
+      "literacy",
+      "legibility",
+      "likelihood"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Liability is legal responsibility. The others cannot be capped at an amount of rent."
+  },
+  {
+    "id": "p5-2055",
+    "sentence": "Three investment banks agreed to ___ the share issue, guaranteeing the proceeds to the company.",
+    "choices": [
+      "allocate",
+      "restructure",
+      "oversee",
+      "underwrite"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Underwrite means to guarantee to buy any unsold securities, so the issuer is sure of the proceeds. Restructure means to reorganise, allocate means to distribute, and oversee means to supervise, so none involves guaranteeing proceeds."
+  },
+  {
+    "id": "p5-1673",
+    "sentence": "The team ___ on the prototype for six months when the funding was suddenly withdrawn.",
+    "choices": [
+      "has been working",
+      "will have been working",
+      "had been working",
+      "have been working"
+    ],
+    "answerIndex": 2,
     "category": "grammar",
-    "explanation": "The present perfect needs a past participle. The others do not fit."
+    "explanation": "A past perfect continuous shows a duration before a past event. The others use present or future tenses."
   },
   {
     "id": "p5-1442",
@@ -169,69 +234,238 @@
     "explanation": "A past participle reduces a passive relative clause. The others do not fit."
   },
   {
-    "id": "p5-1443",
-    "sentence": "The ___ of the legal team's advice prevented a costly mistake.",
+    "id": "p5-2100",
+    "sentence": "Should the merger ___ blocked by the regulator, the two firms will pursue alternative partnerships.",
     "choices": [
-      "timeliness",
-      "timelessly",
-      "timely",
-      "timelier"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "A noun is needed after 'The'. The others are adjectives or an adverb."
-  },
-  {
-    "id": "p5-1444",
-    "sentence": "The new software is ___ to use than the previous version, according to most staff.",
-    "choices": [
-      "easier",
-      "ease",
-      "easiest",
-      "easily"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "A comparative adjective is needed with 'than'. The others do not fit."
-  },
-  {
-    "id": "p5-1445",
-    "sentence": "The firm ___ announced that it would not be renewing the contract with its largest supplier.",
-    "choices": [
-      "formality",
-      "formal",
-      "formalise",
-      "formally"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "An adverb modifies 'announced'. The others do not fit."
-  },
-  {
-    "id": "p5-1446",
-    "sentence": "Having ___ the shortfall, the finance team proposed a revised budget for the second half of the year.",
-    "choices": [
-      "identifying",
-      "identified",
-      "identity",
-      "identify"
+      "being",
+      "be",
+      "been",
+      "is"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Having + past participle' forms the perfect participle. The others do not fit."
+    "explanation": "'Should' at the start of a conditional is followed by the bare infinitive 'be'. 'Been', 'being' and 'is' cannot follow 'should'."
   },
   {
-    "id": "p5-1447",
-    "sentence": "The firm is considering ___ part of its operations to a lower-cost location.",
+    "id": "p5-2112",
+    "sentence": "The new tax regime is designed to be ___ neutral, neither favouring nor penalising borrowing.",
     "choices": [
-      "relocate",
-      "relocation",
-      "relocating",
-      "to relocated"
+      "fiscalise",
+      "fiscally",
+      "fiscality",
+      "fiscal"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An adverb modifies the adjective 'neutral'. 'Fiscal' is an adjective, 'fiscality' is a noun, and 'fiscalise' is a verb."
+  },
+  {
+    "id": "p5-2019",
+    "sentence": "The keynote speaker had to ___ at the last minute because of illness.",
+    "choices": [
+      "bow down",
+      "cave in",
+      "pull up",
+      "bow out"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "To bow out is to withdraw from an event. Bow down means to show submission, pull up means to stop a vehicle, and cave in means to collapse or give way, so none of them describes withdrawing from a programme."
+  },
+  {
+    "id": "p5-1413",
+    "sentence": "It was the quality of the service, not the price, ___ persuaded the client to renew.",
+    "choices": [
+      "who",
+      "that",
+      "how",
+      "what"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A cleft sentence uses 'that'. 'what' and 'how' do not fit, and 'who' is for people."
+  },
+  {
+    "id": "p5-1836",
+    "sentence": "The tenants requested that each unit ___ its own separately metered water supply.",
+    "choices": [
+      "has",
+      "having",
+      "had",
+      "have"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Requested that' triggers the subjunctive 'have'. 'Has' and 'had' are indicative forms, and 'having' is not finite."
+  },
+  {
+    "id": "p5-2117",
+    "sentence": "Investors were alarmed when the company was forced to ___ its previously published earnings after an accounting irregularity.",
+    "choices": [
+      "rescind",
+      "relinquish",
+      "reiterate",
+      "restate"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Restate means to revise financial figures that were reported earlier. Reiterate means to say again, rescind means to cancel a contract or decision, and relinquish means to give up, so none describes correcting published earnings."
+  },
+  {
+    "id": "p5-2071",
+    "sentence": "Nowhere in the contract ___ any provision allowing early termination without penalty.",
+    "choices": [
+      "does there",
+      "is there",
+      "there is",
+      "has there"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Nowhere' at the start requires inversion: 'is there' for existence. 'There is' keeps normal word order, 'does there' needs a bare verb, and 'has there' needs a participle."
+  },
+  {
+    "id": "p5-2077",
+    "sentence": "The firm's profitability is largely ___ on a handful of key accounts.",
+    "choices": [
+      "dependently",
+      "dependence",
+      "depended",
+      "dependent"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Dependent on' is the adjective pattern after 'is'. 'Depended' is a verb form, 'dependence' is a noun, and 'dependently' is an adverb."
+  },
+  {
+    "id": "p5-1079",
+    "sentence": "The retailer ___ its prices by an average of eight percent this quarter.",
+    "choices": [
+      "slumped",
+      "slashed",
+      "slipped",
+      "slapped"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Slashed prices' means cut drastically. 'Slapped' and 'slipped' do not take 'prices' as an object, and 'slumped' is intransitive."
+  },
+  {
+    "id": "p5-2150",
+    "sentence": "Rarely ___ a firm of this size managed to expand into three new markets within a single year.",
+    "choices": [
+      "does",
+      "would",
+      "is",
+      "has"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Rarely' at the start requires inversion, and the present perfect 'has managed' fits. 'Does', 'is' and 'would' cannot be followed by the past participle 'managed'."
+  },
+  {
+    "id": "p5-1738",
+    "sentence": "The carrier will ___ the cargo to the nearest hub if the primary route is blocked.",
+    "choices": [
+      "retract",
+      "retrofit",
+      "reroute",
+      "reimburse"
     ],
     "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Reroute means send by another path. Retrofit, retract and reimburse do not take cargo to a hub."
+  },
+  {
+    "id": "p5-1727",
+    "sentence": "The firm offers a competitive ___ package including health cover, a pension and stock options.",
+    "choices": [
+      "reparation",
+      "remuneration",
+      "renunciation",
+      "reiteration"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A remuneration package is total pay and benefits. The other nouns do not describe pay."
+  },
+  {
+    "id": "p5-1210",
+    "sentence": "Employees may use personal vehicles ___ the company shuttle, subject to prior written approval.",
+    "choices": [
+      "by virtue of",
+      "on behalf of",
+      "in view of",
+      "in lieu of"
+    ],
+    "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Consider' is followed by a gerund. The others do not fit."
+    "explanation": "'In lieu of' means instead of. 'In view of' means considering, 'on behalf of' means representing, and 'by virtue of' means because of."
+  },
+  {
+    "id": "p5-1797",
+    "sentence": "The outage was caused by a ___ failure in the primary data centre's cooling system.",
+    "choices": [
+      "capturing",
+      "cascading",
+      "captivating",
+      "capsizing"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A cascading failure spreads in sequence. The others do not describe failure."
+  },
+  {
+    "id": "p5-2196",
+    "sentence": "The finance director sits on the committee ___, by virtue of her position, but has no vote.",
+    "choices": [
+      "de facto",
+      "inter alia",
+      "ex officio",
+      "ad hoc"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Ex officio means by virtue of one's office or position. Inter alia means among various things, ad hoc means for a particular purpose, and de facto means in reality, so none states that a seat comes with the job."
+  },
+  {
+    "id": "p5-2042",
+    "sentence": "The agency, ___ staff have been laid off, can no longer fulfil its contractual obligations.",
+    "choices": [
+      "who",
+      "which",
+      "of which",
+      "whose"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Whose staff' expresses possession and links the clause to 'the agency'. 'Which' and 'who' cannot be followed by 'staff' this way, and 'of which' needs a different order."
+  },
+  {
+    "id": "p5-2114",
+    "sentence": "The employee received a written ___ for repeatedly breaching the company's safety rules.",
+    "choices": [
+      "retribution",
+      "rebuttal",
+      "reprieve",
+      "reprimand"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A reprimand is a formal expression of disapproval for misconduct. Reprieve is a delay or cancellation of punishment, retribution is revenge, and rebuttal is a reply to an argument, so none is received in writing for breaking rules."
+  },
+  {
+    "id": "p5-610",
+    "sentence": "Only after the inspection was complete ___ the factory allowed to resume operations.",
+    "choices": [
+      "was",
+      "it was",
+      "has",
+      "being"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Only after...' at the start requires inversion in the main clause: 'was the factory allowed'. 'it was' keeps normal order, while 'being' and 'has' break the passive."
   },
   {
     "id": "p5-1448",
@@ -247,276 +481,42 @@
     "explanation": "'Provoke criticism' means cause it. 'Provide' means supply, 'prevent' means stop, and 'proclaim' means announce publicly."
   },
   {
-    "id": "p5-1449",
-    "sentence": "Owing to recent staff shortages, the department has had to ___ on temporary workers.",
+    "id": "p5-2040",
+    "sentence": "What the auditors discovered was ___ the accounts had been overstated for three consecutive years.",
     "choices": [
-      "draft",
-      "draw",
-      "drag",
-      "drift"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Draw on' means use as a resource. The others do not fit."
-  },
-  {
-    "id": "p5-1450",
-    "sentence": "The firm was ___ for failing to disclose the full extent of its debts to potential investors.",
-    "choices": [
-      "censured to",
-      "censored",
-      "censured",
-      "censuring"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Censured' means formally reprimanded. 'Censored' means suppressed, and the others are malformed."
-  },
-  {
-    "id": "p5-1451",
-    "sentence": "The project manager had to ___ the team's expectations after the first round of budget cuts.",
-    "choices": [
-      "temper",
-      "tender",
-      "tamper",
-      "taper"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Temper expectations' means moderate them. The others do not collocate."
-  },
-  {
-    "id": "p5-1452",
-    "sentence": "The airline's reputation has ___ following the publication of the safety report.",
-    "choices": [
-      "succeeded",
-      "suffered",
-      "suggested",
-      "suffused"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Reputation has suffered' means been damaged. The others do not fit."
-  },
-  {
-    "id": "p5-1453",
-    "sentence": "The firm relies heavily on ___ labour during the peak season, which runs from October to December.",
-    "choices": [
-      "seasonal",
-      "seasoned",
-      "seasonable",
-      "seasoning"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Seasonal labour' means temporary workers for a season. 'Seasoned' means experienced, 'seasonable' means suited to the season, and 'seasoning' is flavouring."
-  },
-  {
-    "id": "p5-1454",
-    "sentence": "The chair was unable to ___ order after the dispute between the two directors flared up.",
-    "choices": [
-      "restrict",
-      "restrain",
-      "restore",
-      "restate"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Restore order' means bring back. The others do not collocate."
-  },
-  {
-    "id": "p5-1600",
-    "sentence": "The board has asked that the report ___ before the extraordinary general meeting.",
-    "choices": [
-      "be circulated",
-      "is circulated",
-      "was circulated",
-      "circulates"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Asked that' takes the subjunctive passive 'be circulated'. The others are indicative."
-  },
-  {
-    "id": "p5-1601",
-    "sentence": "The deal will go through ___ the shareholders vote against it at the meeting on Friday.",
-    "choices": [
-      "unless",
-      "since",
-      "once",
-      "whereas"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Unless' introduces an exception. 'since', 'whereas' and 'once' do not."
-  },
-  {
-    "id": "p5-1602",
-    "sentence": "The product launch was a success; ___, the campaign cost twice what had been budgeted.",
-    "choices": [
-      "therefore",
-      "however",
-      "hence",
-      "moreover"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'However' marks contrast. 'therefore' and 'hence' give result, and 'moreover' adds."
-  },
-  {
-    "id": "p5-1603",
-    "sentence": "The factory has two shifts; ___, the distribution centre operates around the clock.",
-    "choices": [
-      "whereas",
-      "in case",
-      "so that",
-      "unless"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Whereas' marks contrast between the two sites. The others do not."
-  },
-  {
-    "id": "p5-1604",
-    "sentence": "The airline warned of delays ___ the disruption to its computer systems.",
-    "choices": [
-      "as to",
-      "apart",
-      "owing to",
-      "rather than"
+      "what",
+      "whether",
+      "that",
+      "which"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Owing to' gives the cause. The others are not suitable."
+    "explanation": "A noun clause after 'was' stating a fact begins with 'that'. 'What' repeats the opening wh-clause, 'whether' expresses doubt, and 'which' would need an antecedent."
   },
   {
-    "id": "p5-1605",
-    "sentence": "The firm is looking into the possibility of ___ its network to include several African markets.",
+    "id": "p5-2184",
+    "sentence": "The board gave the chief executive a clear ___ to negotiate the sale but not to sign it.",
     "choices": [
-      "extended to",
-      "extending",
-      "extend",
-      "to extending"
+      "proviso",
+      "mandate",
+      "decree",
+      "pretext"
     ],
     "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "After 'of', a gerund is needed. The others do not fit."
+    "category": "vocabulary",
+    "explanation": "A mandate is formal authority to act on another's behalf. A decree is an official order, a proviso is a condition, and a pretext is a false reason, so none is something a board grants to authorise negotiation."
   },
   {
-    "id": "p5-1606",
-    "sentence": "Having ___ the figures twice, the analyst was confident that the forecast was accurate.",
+    "id": "p5-962",
+    "sentence": "The firm's management structure is ___ and hampers swift decision-making.",
     "choices": [
-      "checked",
-      "checking",
-      "check",
-      "to check"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Having + past participle' forms the perfect participle. The others do not fit."
-  },
-  {
-    "id": "p5-1607",
-    "sentence": "Fewer than ten percent of respondents ___ the new scheme in the final survey.",
-    "choices": [
-      "supports",
-      "is supporting",
-      "has supported",
-      "supported"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Percent of respondents' takes a plural-sense verb. The others are singular."
-  },
-  {
-    "id": "p5-1608",
-    "sentence": "A growing proportion of the firm's revenue ___ from overseas subscriptions.",
-    "choices": [
-      "have come",
-      "comes",
-      "are coming",
-      "come"
+      "competent",
+      "cumbersome",
+      "commendable",
+      "considerate"
     ],
     "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'A proportion of the revenue' takes a singular verb. The others are plural."
-  },
-  {
-    "id": "p5-1609",
-    "sentence": "The firm's chief aim is ___ its market share in Asia within the next three years.",
-    "choices": [
-      "doubling",
-      "doubled",
-      "to double",
-      "double of"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Is to + infinitive' expresses an aim. The others do not fit."
-  },
-  {
-    "id": "p5-1610",
-    "sentence": "The quarterly results were encouraging, ___ modest, given the unusually difficult market conditions.",
-    "choices": [
-      "albeit",
-      "whereas",
-      "lest",
-      "unless"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Albeit' introduces a concession in a reduced phrase ('albeit modest'). 'whereas' contrasts full clauses, 'lest' means 'for fear that' and 'unless' sets a negative condition."
-  },
-  {
-    "id": "p5-1611",
-    "sentence": "Employees may work remotely ___ they remain available during core hours and attend mandatory meetings.",
-    "choices": [
-      "as though",
-      "even though",
-      "provided that",
-      "notwithstanding that"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Provided that' introduces a condition. 'notwithstanding that' and 'even though' are concessive, and 'as though' introduces a comparison."
-  },
-  {
-    "id": "p5-1612",
-    "sentence": "The contract will be renewed ___ the supplier agrees to lower its unit prices by five percent.",
-    "choices": [
-      "on condition that",
-      "notwithstanding that",
-      "seeing that",
-      "so that"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'On condition that' states a requirement for a future event. 'despite the fact that' is concessive, 'so that' expresses purpose and 'seeing that' gives an existing reason."
-  },
-  {
-    "id": "p5-1613",
-    "sentence": "The new policy is effective ___ it reduces duplicated reporting across the regional offices.",
-    "choices": [
-      "ever since",
-      "even if",
-      "so that",
-      "insofar as"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Insofar as' means 'to the extent that'. 'ever since' marks time, 'even if' is concessive and 'so that' expresses purpose."
-  },
-  {
-    "id": "p5-1614",
-    "sentence": "Staff may receive additional leave ___ overtime pay if they prefer time off to money.",
-    "choices": [
-      "ahead of",
-      "in lieu of",
-      "by virtue of",
-      "on behalf of"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'In lieu of' means 'instead of'. 'ahead of' is temporal, 'on behalf of' means representing and 'by virtue of' means because of."
+    "category": "vocabulary",
+    "explanation": "'Cumbersome' means unwieldy. 'Considerate', 'competent' and 'commendable' are positive and do not fit 'hampers'."
   }
 ]
