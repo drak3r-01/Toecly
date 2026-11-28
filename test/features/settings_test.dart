@@ -11,7 +11,7 @@ import 'package:toecly/data/storage/session_history_repository.dart';
 import 'package:toecly/data/storage/session_record.dart';
 
 Future<InMemoryStore> _seededSettings(WidgetTester tester) async {
-  tester.view.physicalSize = const Size(400, 900);
+  tester.view.physicalSize = const Size(400, 1500);
   tester.view.devicePixelRatio = 1;
   addTearDown(tester.view.reset);
   tester.platformDispatcher.localesTestValue = [const Locale('en')];
@@ -75,5 +75,20 @@ void main() {
     await tester.tap(find.byType(Switch));
     await tester.pumpAndSettle();
     expect(store.read('haptics'), 'off');
+  });
+
+  testWidgets('text size is stored and every tab still lays out in dark with huge text', (
+    tester,
+  ) async {
+    final store = await _seededSettings(tester);
+    await tester.tap(find.text('Huge'));
+    await tester.pumpAndSettle();
+    expect(store.read('text_size'), 'huge');
+    for (final tab in ['Home', 'Practice', 'Mock exam', 'Review', 'Settings']) {
+      await tester.tap(find.text(tab).last);
+      // The review tab loads the real bank and may spin: a fixed pump is enough here.
+      await tester.pump(const Duration(seconds: 2));
+    }
+    expect(tester.takeException(), isNull);
   });
 }

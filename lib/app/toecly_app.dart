@@ -52,14 +52,25 @@ class _ToeclyAppState extends ConsumerState<ToeclyApp> {
       supportedLocales: AppLocalizations.supportedLocales,
       routerConfig: _router,
       builder: (context, child) {
+        final media = MediaQuery.of(context);
         final backdrop = ColoredBox(
           color: Theme.of(context).colorScheme.surface,
-          child: Stack(children: [
-            Positioned.fill(child: BrandBackground(animated: widget.animateBackground)),
-            Positioned.fill(child: child!),
-          ]),
+          child: Stack(
+            children: [
+              Positioned.fill(child: BrandBackground(animated: widget.animateBackground)),
+              Positioned.fill(child: child!),
+            ],
+          ),
         );
-        return widget.showSplash ? SplashOverlay(child: backdrop) : backdrop;
+        final app = MediaQuery(
+          data: media.copyWith(
+            textScaler: TextScaler.linear(
+              media.textScaler.scale(1) * ref.watch(textSizeProvider).factor,
+            ),
+          ),
+          child: backdrop,
+        );
+        return widget.showSplash ? SplashOverlay(child: app) : app;
       },
     );
   }

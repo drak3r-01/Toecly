@@ -841,6 +841,36 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'A light vibration when you answer a question.'**
   String get hapticsHint;
+
+  /// No description provided for @textSizeLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Text size'**
+  String get textSizeLabel;
+
+  /// No description provided for @textSizeSmall.
+  ///
+  /// In en, this message translates to:
+  /// **'Small'**
+  String get textSizeSmall;
+
+  /// No description provided for @textSizeNormal.
+  ///
+  /// In en, this message translates to:
+  /// **'Normal'**
+  String get textSizeNormal;
+
+  /// No description provided for @textSizeLarge.
+  ///
+  /// In en, this message translates to:
+  /// **'Large'**
+  String get textSizeLarge;
+
+  /// No description provided for @textSizeHuge.
+  ///
+  /// In en, this message translates to:
+  /// **'Huge'**
+  String get textSizeHuge;
 }
 
 class _AppLocalizationsDelegate

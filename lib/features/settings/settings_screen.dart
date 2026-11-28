@@ -16,14 +16,12 @@ class SettingsScreen extends ConsumerWidget {
     final themeMode = ref.watch(themeModeProvider);
     final locale = ref.watch(localeProvider);
     final haptics = ref.watch(hapticsProvider);
+    final textSize = ref.watch(textSizeProvider);
 
     return ListView(
       padding: const EdgeInsets.all(24),
       children: [
-        Text(
-          l10n.settingsTitle,
-          style: Theme.of(context).textTheme.headlineMedium,
-        ),
+        Text(l10n.settingsTitle, style: Theme.of(context).textTheme.headlineMedium),
         const SizedBox(height: 16),
         _SettingCard(
           label: l10n.themeLabel,
@@ -60,9 +58,25 @@ class SettingsScreen extends ConsumerWidget {
               ButtonSegment(value: 'fr', label: Text(l10n.languageFrench)),
             ],
             selected: {locale?.languageCode ?? 'system'},
-            onSelectionChanged: (selection) => ref.read(localeProvider.notifier).set(
-                  selection.first == 'system' ? null : Locale(selection.first),
-                ),
+            onSelectionChanged: (selection) => ref
+                .read(localeProvider.notifier)
+                .set(selection.first == 'system' ? null : Locale(selection.first)),
+          ),
+        ),
+        const SizedBox(height: 16),
+        _SettingCard(
+          label: l10n.textSizeLabel,
+          child: SegmentedButton<TextSize>(
+            showSelectedIcon: false,
+            segments: [
+              ButtonSegment(value: TextSize.small, label: Text(l10n.textSizeSmall)),
+              ButtonSegment(value: TextSize.normal, label: Text(l10n.textSizeNormal)),
+              ButtonSegment(value: TextSize.large, label: Text(l10n.textSizeLarge)),
+              ButtonSegment(value: TextSize.huge, label: Text(l10n.textSizeHuge)),
+            ],
+            selected: {textSize},
+            onSelectionChanged: (selection) =>
+                ref.read(textSizeProvider.notifier).set(selection.first),
           ),
         ),
         const SizedBox(height: 16),
@@ -81,10 +95,7 @@ class SettingsScreen extends ConsumerWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text(
-                l10n.resetProgressHint,
-                style: Theme.of(context).textTheme.bodySmall,
-              ),
+              Text(l10n.resetProgressHint, style: Theme.of(context).textTheme.bodySmall),
               const SizedBox(height: 12),
               OutlinedButton.icon(
                 icon: const Icon(Icons.delete_outline),
@@ -101,7 +112,8 @@ class SettingsScreen extends ConsumerWidget {
 
 Future<void> _confirmReset(BuildContext context, WidgetRef ref) async {
   final l10n = AppLocalizations.of(context);
-  final confirmed = await showDialog<bool>(
+  final confirmed =
+      await showDialog<bool>(
         context: context,
         builder: (context) => AlertDialog(
           title: Text(l10n.resetProgressTitle),
@@ -137,18 +149,18 @@ class _SettingCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => FadeSlideIn(
-        child: Card(
-          child: Padding(
-            padding: const EdgeInsets.all(24),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(label, style: Theme.of(context).textTheme.titleMedium),
-                const SizedBox(height: 12),
-                child,
-              ],
-            ),
-          ),
+    child: Card(
+      child: Padding(
+        padding: const EdgeInsets.all(24),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(label, style: Theme.of(context).textTheme.titleMedium),
+            const SizedBox(height: 12),
+            child,
+          ],
         ),
-      );
+      ),
+    ),
+  );
 }
