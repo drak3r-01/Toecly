@@ -265,5 +265,27 @@
   "textSizeSmall": "Petit",
   "textSizeNormal": "Normal",
   "textSizeLarge": "Grand",
-  "textSizeHuge": "Très grand"
+  "textSizeHuge": "Très grand",
+  "dailyGoalLabel": "Objectif quotidien (questions par jour)",
+  "dailyGoalTitle": "Objectif du jour",
+  "dailyGoalProgress": "{done} / {goal} questions",
+  "@dailyGoalProgress": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "goal": {
+        "type": "int"
+      }
+    }
+  },
+  "dailyGoalReached": "Objectif atteint, bravo !",
+  "dailyStreak": "{days, plural, =0{Atteins ton objectif pour lancer une série} =1{Série de 1 jour} other{Série de {days} jours}}",
+  "@dailyStreak": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  }
 }

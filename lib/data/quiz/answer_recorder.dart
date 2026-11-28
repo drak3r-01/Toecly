@@ -1,5 +1,6 @@
 import '../../core/toeic_part.dart';
 import '../exercises/models.dart';
+import '../storage/daily_progress_repository.dart';
 import '../storage/missed_questions_repository.dart';
 import '../storage/part_stats_repository.dart';
 import '../storage/seen_questions_repository.dart';
@@ -14,6 +15,7 @@ class AnswerRecorder {
     required this.missed,
     required this.history,
     this.seen,
+    this.daily,
     this.onChanged,
     DateTime Function()? now,
   }) : _now = now ?? DateTime.now;
@@ -24,6 +26,9 @@ class AnswerRecorder {
 
   /// Remembers answered questions so draws can favour new ones. Optional.
   final SeenQuestionsRepository? seen;
+
+  /// Counts answers per day for the daily goal. Optional.
+  final DailyProgressRepository? daily;
 
   /// Called after anything was saved, so screens showing statistics can refresh.
   final void Function()? onChanged;
@@ -43,6 +48,7 @@ class AnswerRecorder {
       category: question.category,
     );
     await seen?.markSeen([question.id]);
+    await daily?.add(1, _now());
     if (!isCorrect) {
       await missed.markMissed(question.id);
     } else if (masterOnCorrect) {
@@ -87,6 +93,7 @@ class AnswerRecorder {
       if (!isCorrect) missedIds.add(entry.question.id);
     }
     await stats.recordAnswers(answered);
+    await daily?.add(answered.length, _now());
     await missed.markMissedAll(missedIds);
     await seen?.markSeen([for (final entry in entries) entry.question.id]);
     await recordSession(

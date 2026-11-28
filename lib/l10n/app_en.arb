@@ -265,5 +265,27 @@
   "textSizeSmall": "Small",
   "textSizeNormal": "Normal",
   "textSizeLarge": "Large",
-  "textSizeHuge": "Huge"
+  "textSizeHuge": "Huge",
+  "dailyGoalLabel": "Daily goal (questions per day)",
+  "dailyGoalTitle": "Today's goal",
+  "dailyGoalProgress": "{done} / {goal} questions",
+  "@dailyGoalProgress": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "goal": {
+        "type": "int"
+      }
+    }
+  },
+  "dailyGoalReached": "Goal reached, well done!",
+  "dailyStreak": "{days, plural, =0{Reach your goal to start a streak} =1{1-day streak} other{{days}-day streak}}",
+  "@dailyStreak": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  }
 }
