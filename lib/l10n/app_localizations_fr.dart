@@ -405,4 +405,34 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get questionBankHint =>
       'Chargée sur cet appareil, comptée au démarrage de l\'application.';
+
+  @override
+  String get greetingMorning => 'Bonjour';
+
+  @override
+  String get greetingAfternoon => 'Bon après-midi';
+
+  @override
+  String get greetingEvening => 'Bonsoir';
+
+  @override
+  String get summaryGreat =>
+      'Remarquable. C\'est une vraie performance de niveau C1.';
+
+  @override
+  String get summaryGood => 'Du bon travail. Garde ce rythme.';
+
+  @override
+  String get summaryOk => 'Tu y es presque. Rejoue tes erreurs pour les fixer.';
+
+  @override
+  String get summaryKeep =>
+      'Chaque erreur est une leçon. Révise-les et réessaie.';
+
+  @override
+  String get hapticsLabel => 'Vibrations';
+
+  @override
+  String get hapticsHint =>
+      'Une légère vibration quand tu réponds à une question.';
 }

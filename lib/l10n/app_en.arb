@@ -251,5 +251,14 @@
     }
   },
   "questionBankTitle": "Question bank",
-  "questionBankHint": "Loaded on this device, counted when the app starts."
+  "questionBankHint": "Loaded on this device, counted when the app starts.",
+  "greetingMorning": "Good morning",
+  "greetingAfternoon": "Good afternoon",
+  "greetingEvening": "Good evening",
+  "summaryGreat": "Outstanding. That is a real C1 performance.",
+  "summaryGood": "Solid work. Keep that rhythm going.",
+  "summaryOk": "Getting there. Replay your misses to lock them in.",
+  "summaryKeep": "Every mistake is a lesson. Review them and try again.",
+  "hapticsLabel": "Vibrations",
+  "hapticsHint": "A light vibration when you answer a question."
 }

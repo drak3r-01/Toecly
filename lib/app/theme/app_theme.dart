@@ -82,18 +82,6 @@ class AppTheme {
         shape: const StadiumBorder(),
         side: BorderSide(color: scheme.primary.withValues(alpha: 0.25)),
       ),
-      navigationBarTheme: NavigationBarThemeData(
-        backgroundColor: scheme.surfaceContainerLow,
-        indicatorColor: scheme.primaryContainer,
-        indicatorShape: const StadiumBorder(),
-        height: 72,
-        elevation: 0,
-        shadowColor: Colors.transparent,
-        surfaceTintColor: Colors.transparent,
-        labelTextStyle: WidgetStatePropertyAll(
-          TextStyle(fontFamily: bodyFont, fontSize: 12, fontWeight: FontWeight.w700),
-        ),
-      ),
       navigationRailTheme: NavigationRailThemeData(
         backgroundColor: scheme.surfaceContainerLow,
         indicatorColor: scheme.primaryContainer,

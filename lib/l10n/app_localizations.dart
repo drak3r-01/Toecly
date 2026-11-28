@@ -787,6 +787,60 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Loaded on this device, counted when the app starts.'**
   String get questionBankHint;
+
+  /// No description provided for @greetingMorning.
+  ///
+  /// In en, this message translates to:
+  /// **'Good morning'**
+  String get greetingMorning;
+
+  /// No description provided for @greetingAfternoon.
+  ///
+  /// In en, this message translates to:
+  /// **'Good afternoon'**
+  String get greetingAfternoon;
+
+  /// No description provided for @greetingEvening.
+  ///
+  /// In en, this message translates to:
+  /// **'Good evening'**
+  String get greetingEvening;
+
+  /// No description provided for @summaryGreat.
+  ///
+  /// In en, this message translates to:
+  /// **'Outstanding. That is a real C1 performance.'**
+  String get summaryGreat;
+
+  /// No description provided for @summaryGood.
+  ///
+  /// In en, this message translates to:
+  /// **'Solid work. Keep that rhythm going.'**
+  String get summaryGood;
+
+  /// No description provided for @summaryOk.
+  ///
+  /// In en, this message translates to:
+  /// **'Getting there. Replay your misses to lock them in.'**
+  String get summaryOk;
+
+  /// No description provided for @summaryKeep.
+  ///
+  /// In en, this message translates to:
+  /// **'Every mistake is a lesson. Review them and try again.'**
+  String get summaryKeep;
+
+  /// No description provided for @hapticsLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Vibrations'**
+  String get hapticsLabel;
+
+  /// No description provided for @hapticsHint.
+  ///
+  /// In en, this message translates to:
+  /// **'A light vibration when you answer a question.'**
+  String get hapticsHint;
 }
 
 class _AppLocalizationsDelegate

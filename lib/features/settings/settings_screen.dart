@@ -15,6 +15,7 @@ class SettingsScreen extends ConsumerWidget {
     final l10n = AppLocalizations.of(context);
     final themeMode = ref.watch(themeModeProvider);
     final locale = ref.watch(localeProvider);
+    final haptics = ref.watch(hapticsProvider);
 
     return ListView(
       padding: const EdgeInsets.all(24),
@@ -62,6 +63,16 @@ class SettingsScreen extends ConsumerWidget {
             onSelectionChanged: (selection) => ref.read(localeProvider.notifier).set(
                   selection.first == 'system' ? null : Locale(selection.first),
                 ),
+          ),
+        ),
+        const SizedBox(height: 16),
+        _SettingCard(
+          label: l10n.hapticsLabel,
+          child: SwitchListTile(
+            contentPadding: EdgeInsets.zero,
+            title: Text(l10n.hapticsHint),
+            value: haptics,
+            onChanged: ref.read(hapticsProvider.notifier).set,
           ),
         ),
         const SizedBox(height: 16),

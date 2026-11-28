@@ -19,3 +19,25 @@ CustomTransitionPage<void> fadeSlidePage({required GoRouterState state, required
     },
   );
 }
+
+/// Fade + scale up from the bottom, for screens opened from a card or a button
+/// (practice, exam, review): they seem to grow out of what was tapped.
+CustomTransitionPage<void> expandPage({required GoRouterState state, required Widget child}) {
+  return CustomTransitionPage<void>(
+    key: state.pageKey,
+    child: child,
+    transitionDuration: const Duration(milliseconds: 380),
+    reverseTransitionDuration: const Duration(milliseconds: 260),
+    transitionsBuilder: (context, animation, secondaryAnimation, child) {
+      final curved = CurvedAnimation(parent: animation, curve: Curves.easeOutCubic);
+      return FadeTransition(
+        opacity: curved,
+        child: ScaleTransition(
+          scale: Tween(begin: 0.92, end: 1.0).animate(curved),
+          alignment: Alignment.bottomCenter,
+          child: child,
+        ),
+      );
+    },
+  );
+}

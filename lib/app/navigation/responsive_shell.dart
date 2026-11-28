@@ -5,8 +5,9 @@ import '../../core/widgets/replay_scope.dart';
 import '../../core/widgets/toecly_logo.dart';
 import '../../l10n/app_localizations.dart';
 import 'app_destination.dart';
+import 'floating_nav_bar.dart';
 
-/// Common frame: `NavigationBar` at the bottom on phones,
+/// Common frame: floating pill bar at the bottom on phones,
 /// `NavigationRail` on the side on wide screens (PC, tablet).
 class ResponsiveShell extends StatefulWidget {
   const ResponsiveShell({super.key, required this.navigationShell});
@@ -41,8 +42,7 @@ class _ResponsiveShellState extends State<ResponsiveShell> {
   );
 
   @override
-  Widget build(BuildContext context) =>
-      ReplayScope(epoch: _epoch, child: _frame(context));
+  Widget build(BuildContext context) => ReplayScope(epoch: _epoch, child: _frame(context));
 
   Widget _frame(BuildContext context) {
     final l10n = AppLocalizations.of(context);
@@ -79,17 +79,9 @@ class _ResponsiveShellState extends State<ResponsiveShell> {
 
     return Scaffold(
       body: navigationShell,
-      bottomNavigationBar: NavigationBar(
+      bottomNavigationBar: FloatingNavBar(
         selectedIndex: selectedIndex,
-        onDestinationSelected: _goToDestination,
-        destinations: [
-          for (final d in AppDestination.values)
-            NavigationDestination(
-              icon: Icon(d.icon),
-              selectedIcon: Icon(d.selectedIcon),
-              label: d.label(l10n),
-            ),
-        ],
+        onSelected: _goToDestination,
       ),
     );
   }

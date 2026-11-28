@@ -11,10 +11,13 @@ import 'splash/splash_overlay.dart';
 import 'theme/app_theme.dart';
 
 class ToeclyApp extends ConsumerStatefulWidget {
-  const ToeclyApp({super.key, this.showSplash = false});
+  const ToeclyApp({super.key, this.showSplash = false, this.animateBackground = false});
 
   /// Plays the animated splash over the app (off in tests).
   final bool showSplash;
+
+  /// Lets the background glows drift forever (off in tests: it would never settle).
+  final bool animateBackground;
 
   @override
   ConsumerState<ToeclyApp> createState() => _ToeclyAppState();
@@ -27,6 +30,7 @@ class _ToeclyAppState extends ConsumerState<ToeclyApp> {
   void initState() {
     super.initState();
     ref.read(questionCountsProvider); // count the question bank at startup
+    ref.read(hapticsProvider); // load the saved setting
   }
 
   @override
@@ -51,7 +55,7 @@ class _ToeclyAppState extends ConsumerState<ToeclyApp> {
         final backdrop = ColoredBox(
           color: Theme.of(context).colorScheme.surface,
           child: Stack(children: [
-            const Positioned.fill(child: BrandBackground()),
+            Positioned.fill(child: BrandBackground(animated: widget.animateBackground)),
             Positioned.fill(child: child!),
           ]),
         );
