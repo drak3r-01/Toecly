@@ -11,19 +11,19 @@ import 'package:toecly/data/storage/last_practice_repository.dart';
 import 'package:toecly/data/storage/local_store.dart';
 
 Exercise _p5(int i) => Exercise(
+  id: 'd$i',
+  part: ToeicPart.part5,
+  questions: [
+    Question(
       id: 'd$i',
-      part: ToeicPart.part5,
-      questions: [
-        Question(
-          id: 'd$i',
-          prompt: 'Sentence $i ___.',
-          choices: const ['right', 'wrong1', 'wrong2', 'wrong3'],
-          answerIndex: 0,
-          explanation: 'x',
-          category: QuestionCategory.grammar,
-        ),
-      ],
-    );
+      prompt: 'Sentence $i ___.',
+      choices: const ['right', 'wrong1', 'wrong2', 'wrong3'],
+      answerIndex: 0,
+      explanation: 'x',
+      category: QuestionCategory.grammar,
+    ),
+  ],
+);
 
 Future<InMemoryStore> _openApp(WidgetTester tester, {InMemoryStore? store}) async {
   tester.view.physicalSize = const Size(400, 1300);
@@ -32,14 +32,17 @@ Future<InMemoryStore> _openApp(WidgetTester tester, {InMemoryStore? store}) asyn
   tester.platformDispatcher.localesTestValue = [const Locale('en')];
   addTearDown(tester.platformDispatcher.clearLocalesTestValue);
   final usedStore = store ?? InMemoryStore();
-  await tester.pumpWidget(ProviderScope(
-    overrides: [
-      localStoreProvider.overrideWithValue(usedStore),
-      exerciseRepositoryProvider
-          .overrideWithValue(ExerciseRepository(() async => [for (var i = 0; i < 10; i++) _p5(i)])),
-    ],
-    child: const ToeclyApp(),
-  ));
+  await tester.pumpWidget(
+    ProviderScope(
+      overrides: [
+        localStoreProvider.overrideWithValue(usedStore),
+        exerciseRepositoryProvider.overrideWithValue(
+          ExerciseRepository(() async => [for (var i = 0; i < 10; i++) _p5(i)]),
+        ),
+      ],
+      child: const ToeclyApp(),
+    ),
+  );
   await tester.pumpAndSettle();
   return usedStore;
 }
@@ -65,8 +68,9 @@ void main() {
     expect(find.text('Number of questions'), findsOneWidget);
   });
 
-  testWidgets('the dashboard follows a practice session and resumes its configuration',
-      (tester) async {
+  testWidgets('the dashboard follows a practice session and resumes its configuration', (
+    tester,
+  ) async {
     await _openApp(tester);
     expect(find.text('Questions answered: 0'), findsOneWidget);
 
@@ -80,6 +84,8 @@ void main() {
     await tester.tap(find.text('Next'));
     await tester.pumpAndSettle();
     await tester.tap(find.byIcon(Icons.close));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Quit for good')); // no saved session: "Resume practice" stays
     await tester.pumpAndSettle();
 
     await tester.tap(find.text('Home').last);

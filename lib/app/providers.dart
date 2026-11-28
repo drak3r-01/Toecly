@@ -6,12 +6,14 @@ import '../data/exercises/exercise_repository.dart';
 import '../data/exercises/models.dart';
 import '../data/quiz/answer_recorder.dart';
 import '../data/quiz/quiz_request.dart';
+import '../data/quiz/quiz_session.dart';
 import '../data/storage/daily_progress_repository.dart';
 import '../data/storage/exam_progress_repository.dart';
 import '../data/storage/last_practice_repository.dart';
 import '../data/storage/local_store.dart';
 import '../data/storage/missed_questions_repository.dart';
 import '../data/storage/part_stats_repository.dart';
+import '../data/storage/quiz_progress_repository.dart';
 import '../data/storage/seen_questions_repository.dart';
 import '../data/storage/session_history_repository.dart';
 
@@ -34,6 +36,10 @@ final seenQuestionsProvider = Provider(
 
 final examProgressProvider = Provider(
   (ref) => ExamProgressRepository(ref.watch(localStoreProvider)),
+);
+
+final quizProgressProvider = Provider(
+  (ref) => QuizProgressRepository(ref.watch(localStoreProvider)),
 );
 
 final dailyProgressProvider = Provider(
@@ -110,4 +116,12 @@ final questionCountsProvider = FutureProvider<Map<ToeicPart, int>>((ref) async {
   return {
     for (final part in ToeicPart.readingParts) part: await repository.countQuestions(part),
   };
+});
+
+/// The saved practice/review session, rebuilt on the current bank (null when there is
+/// none or it can no longer be reproduced).
+final resumedQuizProvider =
+    FutureProvider.autoDispose<({List<Exercise> exercises, QuizSession session})?>((ref) async {
+  final saved = ref.read(quizProgressProvider).load();
+  return saved == null ? null : ref.read(exerciseRepositoryProvider).restoreQuiz(saved);
 });

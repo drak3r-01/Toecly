@@ -42,11 +42,7 @@ class AnswerRecorder {
     required bool isCorrect,
     bool masterOnCorrect = false,
   }) async {
-    await stats.recordAnswer(
-      exercise.part,
-      isCorrect: isCorrect,
-      category: question.category,
-    );
+    await stats.recordAnswer(exercise.part, isCorrect: isCorrect, category: question.category);
     await seen?.markSeen([question.id]);
     await daily?.add(1, _now());
     if (!isCorrect) {

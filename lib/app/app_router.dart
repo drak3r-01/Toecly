@@ -28,6 +28,7 @@ GoRouter createAppRouter() {
           state: state,
           child: QuizScreen(
             request: QuizRequest.fromQuery(state.uri.queryParameters),
+            resume: state.uri.queryParameters['resume'] == '1',
           ),
         ),
       ),
@@ -37,6 +38,7 @@ GoRouter createAppRouter() {
           state: state,
           child: ReviewSessionScreen(
             questionCount: int.tryParse(state.uri.queryParameters['count'] ?? '') ?? 10,
+            resume: state.uri.queryParameters['resume'] == '1',
           ),
         ),
       ),

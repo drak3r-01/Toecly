@@ -12,22 +12,43 @@ import '../../data/exercises/models.dart';
 import '../../data/quiz/quiz_request.dart';
 import '../../data/storage/session_record.dart';
 import '../../data/quiz/quiz_session.dart';
+import '../../data/quiz/quiz_snapshot.dart';
 import '../../l10n/app_localizations.dart';
 import 'exercise_page.dart';
 
 /// Draws the exercises for [request], then runs a practice session.
 class QuizScreen extends ConsumerWidget {
-  const QuizScreen({super.key, required this.request});
+  const QuizScreen({super.key, required this.request, this.resume = false});
 
   final QuizRequest request;
+  final bool resume;
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) => QuizSessionScreen(
-    draw: ref.watch(quizDrawProvider(request)),
-    mode: SessionMode.practice,
-    leaveTo: AppDestination.practice,
-    leaveLabel: AppLocalizations.of(context).quizBackToPractice,
-  );
+  Widget build(BuildContext context, WidgetRef ref) {
+    final source = resumeOrDraw(ref, resume, () => ref.watch(quizDrawProvider(request)));
+    return QuizSessionScreen(
+      draw: source.draw,
+      initial: source.initial,
+      location: request.location,
+      mode: SessionMode.practice,
+      leaveTo: AppDestination.practice,
+      leaveLabel: AppLocalizations.of(context).quizBackToPractice,
+    );
+  }
+}
+
+/// The saved session when [resume] is set and it can still be rebuilt, otherwise [fresh].
+({AsyncValue<List<Exercise>> draw, QuizSession? initial}) resumeOrDraw(
+  WidgetRef ref,
+  bool resume,
+  AsyncValue<List<Exercise>> Function() fresh,
+) {
+  if (!resume) return (draw: fresh(), initial: null);
+  final resumed = ref.watch(resumedQuizProvider);
+  if (resumed.isLoading) return (draw: const AsyncLoading(), initial: null);
+  final value = resumed.value;
+  if (value == null) return (draw: fresh(), initial: null);
+  return (draw: AsyncData(value.exercises), initial: value.session);
 }
 
 /// Runs a session with immediate correction on drawn exercises, recording
@@ -37,12 +58,20 @@ class QuizSessionScreen extends ConsumerWidget {
   const QuizSessionScreen({
     super.key,
     required this.draw,
+    this.initial,
+    required this.location,
     required this.mode,
     required this.leaveTo,
     required this.leaveLabel,
   });
 
   final AsyncValue<List<Exercise>> draw;
+
+  /// Route that reopens this session (saved with the progress).
+  final String location;
+
+  /// A session picked up where it stopped, or null for a fresh one.
+  final QuizSession? initial;
   final SessionMode mode;
 
   /// Where "close" goes when there is nothing to pop back to.
@@ -54,13 +83,18 @@ class QuizSessionScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final l10n = AppLocalizations.of(context);
-    void leave() => context.canPop() ? context.pop() : context.go(leaveTo.path);
+    void leave() {
+      ref.read(dataRevisionProvider.notifier).bump(); // the home screen shows the saved session
+      context.canPop() ? context.pop() : context.go(leaveTo.path);
+    }
+
     return Scaffold(
       appBar: AppBar(
         leading: IconButton(
           icon: const Icon(Icons.close),
           tooltip: l10n.quizClose,
-          onPressed: leave,
+          // maybePop goes through the same "leave?" question as the system back.
+          onPressed: () => Navigator.of(context).maybePop(),
         ),
       ),
       body: SafeArea(
@@ -71,7 +105,12 @@ class QuizSessionScreen extends ConsumerWidget {
               ? Center(child: Text(l10n.quizEmpty))
               : QuizView(
                   exercises: exercises,
+                  initial: initial,
                   onLeave: leave,
+                  onDiscard: () => ref.read(quizProgressProvider).clear(),
+                  onProgress: (session) => ref
+                      .read(quizProgressProvider)
+                      .save(QuizSnapshot.capture(session, location: location)),
                   leaveLabel: leaveLabel,
                   onAnswered: (exercise, question, isCorrect) => ref
                       .read(answerRecorderProvider)
@@ -103,6 +142,9 @@ class QuizView extends StatefulWidget {
     super.key,
     required this.exercises,
     required this.onLeave,
+    this.initial,
+    this.onProgress,
+    this.onDiscard,
     this.leaveLabel,
     this.onAnswered,
     this.onFinished,
@@ -110,6 +152,15 @@ class QuizView extends StatefulWidget {
 
   final List<Exercise> exercises;
   final VoidCallback onLeave;
+
+  /// A session picked up where it stopped, or null for a fresh one.
+  final QuizSession? initial;
+
+  /// Called after every answer and every step, to save the position.
+  final void Function(QuizSession session)? onProgress;
+
+  /// Called when the user quits for good, so the saved position is dropped.
+  final VoidCallback? onDiscard;
 
   /// Label of the summary's button; defaults to "Back to practice".
   final String? leaveLabel;
@@ -125,7 +176,7 @@ class QuizView extends StatefulWidget {
 }
 
 class _QuizViewState extends State<QuizView> {
-  late final QuizSession _session = QuizSession(widget.exercises);
+  late final QuizSession _session = widget.initial ?? QuizSession(widget.exercises);
   final Stopwatch _stopwatch = Stopwatch()..start();
 
   void _select(int index) {
@@ -134,6 +185,7 @@ class _QuizViewState extends State<QuizView> {
     final question = session.question;
     setState(() => session.select(index));
     widget.onAnswered?.call(session.exercise, question, index == question.answerIndex);
+    widget.onProgress?.call(session);
   }
 
   void _advance() {
@@ -141,7 +193,37 @@ class _QuizViewState extends State<QuizView> {
     if (_session.isFinished) {
       _stopwatch.stop();
       widget.onFinished?.call(_session, _stopwatch.elapsed);
+    } else {
+      widget.onProgress?.call(_session);
     }
+  }
+
+  // The system back button / gesture asks before leaving a session in progress.
+  Future<void> _askLeave() async {
+    final l10n = AppLocalizations.of(context);
+    final choice = await showDialog<_LeaveChoice>(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: Text(l10n.quizLeaveTitle),
+        content: Text(l10n.quizLeaveMessage),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context, _LeaveChoice.discard),
+            child: Text(l10n.quizLeaveDiscard),
+          ),
+          TextButton(
+            onPressed: () => Navigator.pop(context, _LeaveChoice.save),
+            child: Text(l10n.quizLeaveSave),
+          ),
+          FilledButton(
+            onPressed: () => Navigator.pop(context, _LeaveChoice.stay),
+            child: Text(l10n.quizLeaveStay),
+          ),
+        ],
+      ),
+    );
+    if (choice == _LeaveChoice.discard) widget.onDiscard?.call();
+    if (choice == _LeaveChoice.discard || choice == _LeaveChoice.save) widget.onLeave();
   }
 
   @override
@@ -157,45 +239,53 @@ class _QuizViewState extends State<QuizView> {
     }
 
     final total = session.totalQuestions;
-    return Column(
-      children: [
-        Padding(
-          padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Text(l10n.quizQuestionCounter(session.answeredCount + 1, total)),
-              const SizedBox(height: 6),
-              AnimatedProgressBar(value: session.answeredCount / total, height: 8),
-            ],
-          ),
-        ),
-        Expanded(
-          child: ExercisePage(
-            exercise: session.exercise,
-            questionIndex: session.questionIndex,
-            answers: {
-              for (final q in session.exercise.questions)
-                if (session.answerFor(q) != null) q.id: session.answerFor(q)!,
-            },
-            revealed: session.isCurrentAnswered,
-            onSelect: _select,
-          ),
-        ),
-        Padding(
-          padding: const EdgeInsets.all(16),
-          child: SizedBox(
-            width: double.infinity,
-            child: FilledButton(
-              onPressed: session.isCurrentAnswered ? _advance : null,
-              child: Text(session.isLastQuestion ? l10n.quizFinish : l10n.quizNext),
+    return PopScope(
+      canPop: session.answeredCount == 0,
+      onPopInvokedWithResult: (didPop, _) {
+        if (!didPop) _askLeave();
+      },
+      child: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(l10n.quizQuestionCounter(session.answeredCount + 1, total)),
+                const SizedBox(height: 6),
+                AnimatedProgressBar(value: session.answeredCount / total, height: 8),
+              ],
             ),
           ),
-        ),
-      ],
+          Expanded(
+            child: ExercisePage(
+              exercise: session.exercise,
+              questionIndex: session.questionIndex,
+              answers: {
+                for (final q in session.exercise.questions)
+                  if (session.answerFor(q) != null) q.id: session.answerFor(q)!,
+              },
+              revealed: session.isCurrentAnswered,
+              onSelect: _select,
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.all(16),
+            child: SizedBox(
+              width: double.infinity,
+              child: FilledButton(
+                onPressed: session.isCurrentAnswered ? _advance : null,
+                child: Text(session.isLastQuestion ? l10n.quizFinish : l10n.quizNext),
+              ),
+            ),
+          ),
+        ],
+      ),
     );
   }
 }
+
+enum _LeaveChoice { stay, save, discard }
 
 class _Summary extends StatelessWidget {
   const _Summary({required this.session, required this.onLeave, required this.leaveLabel});

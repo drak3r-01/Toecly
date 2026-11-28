@@ -287,5 +287,21 @@
         "type": "int"
       }
     }
+  },
+  "quizLeaveTitle": "Quitter cette session ?",
+  "quizLeaveMessage": "Tes réponses sont déjà enregistrées. Tu peux reprendre là où tu t'es arrêté depuis l'accueil.",
+  "quizLeaveStay": "Continuer",
+  "quizLeaveSave": "Quitter, reprendre plus tard",
+  "quizLeaveDiscard": "Abandonner",
+  "dashboardResumeSession": "Reprendre ta session ({done} / {total})",
+  "@dashboardResumeSession": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
   }
 }

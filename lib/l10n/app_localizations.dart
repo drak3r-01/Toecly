@@ -901,6 +901,42 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'{days, plural, =0{Reach your goal to start a streak} =1{1-day streak} other{{days}-day streak}}'**
   String dailyStreak(int days);
+
+  /// No description provided for @quizLeaveTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Leave this session?'**
+  String get quizLeaveTitle;
+
+  /// No description provided for @quizLeaveMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'Your answers are already saved. You can pick up where you stopped from the home screen.'**
+  String get quizLeaveMessage;
+
+  /// No description provided for @quizLeaveStay.
+  ///
+  /// In en, this message translates to:
+  /// **'Keep going'**
+  String get quizLeaveStay;
+
+  /// No description provided for @quizLeaveSave.
+  ///
+  /// In en, this message translates to:
+  /// **'Leave, resume later'**
+  String get quizLeaveSave;
+
+  /// No description provided for @quizLeaveDiscard.
+  ///
+  /// In en, this message translates to:
+  /// **'Quit for good'**
+  String get quizLeaveDiscard;
+
+  /// No description provided for @dashboardResumeSession.
+  ///
+  /// In en, this message translates to:
+  /// **'Resume your session ({done} / {total})'**
+  String dashboardResumeSession(int done, int total);
 }
 
 class _AppLocalizationsDelegate
