@@ -17,13 +17,18 @@ class LastPracticeRepository {
     final count = data['count'];
     final parts = data['parts'];
     if (count is! int || count < 1 || parts is! List) return null;
-    return QuizRequest.fromQuery({'parts': parts.join(','), 'count': '$count'});
+    return QuizRequest.fromQuery({
+      'parts': parts.join(','),
+      'count': '$count',
+      if (data['category'] is String) 'category': data['category'] as String,
+    });
   }
 
   Future<void> save(QuizRequest request) => _store.writeJson(_key, {
-        'parts': [for (final ToeicPart part in request.parts) part.number],
-        'count': request.questionCount,
-      });
+    'parts': [for (final ToeicPart part in request.parts) part.number],
+    'count': request.questionCount,
+    if (request.category != null) 'category': request.category!.jsonName,
+  });
 
   Future<void> clear() => _store.writeJson(_key, <String, dynamic>{});
 }

@@ -13,6 +13,7 @@ import '../../core/widgets/brand_hero_card.dart';
 import '../../core/widgets/fade_slide_in.dart';
 import '../../core/widgets/score_gauge.dart';
 import '../../data/exercises/models.dart';
+import '../../data/quiz/quiz_request.dart';
 import '../../data/storage/part_stats_repository.dart';
 import '../../l10n/app_localizations.dart';
 import '../../l10n/l10n_labels.dart';
@@ -87,6 +88,10 @@ class DashboardScreen extends ConsumerWidget {
                     ),
             ),
             const SizedBox(height: 16),
+            FadeSlideIn(
+              delay: const Duration(milliseconds: 200),
+              child: _WeakSpotsCard(stats: stats),
+            ),
             for (final (i, part) in readingParts.indexed)
               Padding(
                 padding: const EdgeInsets.only(bottom: 12),
@@ -374,6 +379,77 @@ class _DailyGoalCard extends ConsumerWidget {
               ),
             ),
           ],
+        ),
+      ),
+    );
+  }
+}
+
+/// The three (part, category) pairs with the lowest success rate, 5 answers minimum.
+/// Tapping one starts a practice session on that category.
+class _WeakSpotsCard extends StatelessWidget {
+  const _WeakSpotsCard({required this.stats});
+
+  final PartStatsRepository stats;
+
+  static const _minAnswers = 5;
+
+  @override
+  Widget build(BuildContext context) {
+    final spots = [
+      for (final part in ToeicPart.readingParts)
+        for (final category in QuestionCategory.allowedByPart[part] ?? const <QuestionCategory>{})
+          if (stats.forCategory(part, category).answered >= _minAnswers)
+            (part: part, category: category, count: stats.forCategory(part, category)),
+    ]..sort((a, b) => a.count.rate.compareTo(b.count.rate));
+    if (spots.isEmpty) return const SizedBox.shrink();
+
+    final l10n = AppLocalizations.of(context);
+    final theme = Theme.of(context);
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 12),
+      child: Card(
+        child: Padding(
+          padding: const EdgeInsets.all(18),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(l10n.weakSpotsTitle, style: theme.textTheme.titleMedium),
+              Text(l10n.weakSpotsHint, style: theme.textTheme.bodySmall),
+              for (final spot in spots.take(3))
+                InkWell(
+                  borderRadius: BorderRadius.circular(12),
+                  onTap: () => context.push(
+                    QuizRequest(
+                      parts: [spot.part],
+                      questionCount: QuizRequest.defaultQuestionCount,
+                      category: spot.category,
+                    ).location,
+                  ),
+                  child: Padding(
+                    padding: const EdgeInsets.only(top: 12),
+                    child: Row(
+                      children: [
+                        Expanded(
+                          child: _RateRow(
+                            label: l10n.weakSpotName(
+                              spot.part.number,
+                              l10n.categoryName(spot.category),
+                            ),
+                            count: spot.count,
+                            style: theme.textTheme.bodyMedium,
+                            height: 8,
+                            color: BrandColors.coral,
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        Icon(Icons.chevron_right, color: theme.colorScheme.primary),
+                      ],
+                    ),
+                  ),
+                ),
+            ],
+          ),
         ),
       ),
     );

@@ -1,13 +1,17 @@
 import '../../core/toeic_part.dart';
+import '../exercises/models.dart';
 
 /// What to draw for a session: parts and a question budget.
 /// Encoded in the `/quiz` URL so a session can be opened from any screen.
 class QuizRequest {
-  QuizRequest({required Iterable<ToeicPart> parts, required this.questionCount})
+  QuizRequest({required Iterable<ToeicPart> parts, required this.questionCount, this.category})
     : parts = (parts.toList()..sort((a, b) => a.number.compareTo(b.number)));
 
   final List<ToeicPart> parts;
   final int questionCount;
+
+  /// Only exercises holding a question of this category (a weak spot to train), or all.
+  final QuestionCategory? category;
 
   static const int defaultQuestionCount = 10;
 
@@ -24,19 +28,25 @@ class QuizRequest {
     return QuizRequest(
       parts: parts.isEmpty ? ToeicPart.readingParts : parts,
       questionCount: count != null && count > 0 ? count : defaultQuestionCount,
+      category: QuestionCategory.fromJsonName(query['category'] ?? ''),
     );
   }
 
-  String get location => '/quiz?parts=${parts.map((p) => p.number).join(',')}&count=$questionCount';
+  String get location =>
+      '/quiz?parts=${parts.map((p) => p.number).join(',')}&count=$questionCount'
+      '${category == null ? '' : '&category=${category!.jsonName}'}';
 
   @override
   bool operator ==(Object other) =>
-      other is QuizRequest && other.questionCount == questionCount && _sameParts(other);
+      other is QuizRequest &&
+      other.questionCount == questionCount &&
+      other.category == category &&
+      _sameParts(other);
 
   bool _sameParts(QuizRequest other) =>
       parts.length == other.parts.length &&
       Iterable<int>.generate(parts.length).every((i) => parts[i] == other.parts[i]);
 
   @override
-  int get hashCode => Object.hash(questionCount, Object.hashAll(parts));
+  int get hashCode => Object.hash(questionCount, category, Object.hashAll(parts));
 }

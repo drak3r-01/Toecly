@@ -60,6 +60,7 @@ final quizDrawProvider = FutureProvider.autoDispose.family<List<Exercise>, QuizR
         parts: request.parts.toSet(),
         questionCount: request.questionCount,
         seen: ref.read(seenQuestionsProvider).loadIds(),
+        category: request.category,
       ),
 );
 

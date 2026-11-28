@@ -494,4 +494,16 @@ class AppLocalizationsEn extends AppLocalizations {
   String dashboardResumeSession(int done, int total) {
     return 'Resume your session ($done / $total)';
   }
+
+  @override
+  String get weakSpotsTitle => 'Weak spots';
+
+  @override
+  String get weakSpotsHint =>
+      'Your lowest success rates (5 answers or more). Tap one to train on it.';
+
+  @override
+  String weakSpotName(int part, String category) {
+    return 'Part $part · $category';
+  }
 }

@@ -303,5 +303,18 @@
         "type": "int"
       }
     }
+  },
+  "weakSpotsTitle": "Weak spots",
+  "weakSpotsHint": "Your lowest success rates (5 answers or more). Tap one to train on it.",
+  "weakSpotName": "Part {part} · {category}",
+  "@weakSpotName": {
+    "placeholders": {
+      "part": {
+        "type": "int"
+      },
+      "category": {
+        "type": "String"
+      }
+    }
   }
 }
