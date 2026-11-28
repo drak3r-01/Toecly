@@ -1,276 +1,551 @@
 [
   {
-    "id": "p6-411",
-    "documentType": "email",
-    "text": "To: All Staff\nFrom: Ingrid Solberg, Chief Executive\nSubject: Proposed acquisition of Veldt Logistics\n\nI am writing to inform you that the board has entered into exclusive talks to acquire Veldt Logistics, a transport specialist with operations in nine countries. No agreement has yet been signed, and the transaction remains [1] to regulatory approval, which we do not expect before the autumn.\n\n[2] Until the position is clear, the two companies will continue to operate independently, and our own customers should notice no change in the service they receive. [3] the acquisition proceeds, we anticipate a period of integration lasting up to eighteen months, during which some roles may be reorganized. I recognize that uncertainty is unwelcome, and I undertake to [4] you promptly of every significant development.",
+    "id": "p6-405",
+    "documentType": "review",
+    "text": "Book Review: The Quiet Ledger\n\nIn her study of mid-century accounting practices, historian Odile Marchetti argues that the profession's reputation for neutrality was less a fact than a carefully cultivated image. Drawing on firm archives that had never previously been examined, she shows how auditors routinely [1] their findings in order to preserve long-standing client relationships, particularly in the three decades following the war.\n\n[2] The evidence, however, is not always presented with equal rigor. Several chapters rest on a single set of internal memoranda, [3] others rely on interviews conducted decades after the events described. The footnotes are often too sparse to allow a reader to verify the sources. Readers seeking a definitive account will be disappointed. Those who wish to understand how professional ethics evolve under commercial pressure, [4], will find the book both lucid and provocative.",
     "questions": [
       {
         "blank": 1,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "subject",
-          "subjected",
-          "subjecting",
-          "subjective"
+          "broaden",
+          "clarify",
+          "soften",
+          "sharpen"
         ],
-        "answerIndex": 0,
-        "explanation": "'Remains subject to regulatory approval' is the fixed expression; 'subjected' and 'subjecting' need an object or 'to' after a different structure, and 'subjective' has an unrelated meaning."
+        "answerIndex": 2,
+        "explanation": "Auditors who wanted to preserve client relationships would 'soften' their findings, that is, make them less severe. 'Sharpen' would damage those relationships, while 'broaden' and 'clarify' say nothing about protecting a client."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Staff are therefore asked to refrain from questioning the proposal within the company while negotiations are under way.",
-          "Staff are therefore asked to refrain from discussing the proposal outside the company while negotiations are under way.",
-          "Staff were therefore asked to discuss the proposal outside the company after negotiations had been concluded.",
-          "Customers are therefore asked to refrain from discussing the proposal outside the company while negotiations are under way."
+          "This central claim has been challenged repeatedly, and it is rejected by most contemporary scholars of the period.",
+          "This earlier claim was argued persuasively, and it was supported by detail drawn from private correspondence.",
+          "This central claim is argued persuasively, yet it is supported by no detail drawn from private correspondence.",
+          "This central claim is argued persuasively, and it is supported by a wealth of detail from private correspondence."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence begins 'Until the position is clear', continuing an instruction about the interim period; the first option asks for discretion during negotiations. The others discourage internal questions, use a past tense inconsistent with the announcement, or address customers instead of staff."
+        "answerIndex": 3,
+        "explanation": "The next sentence begins 'The evidence, however, is not always presented with equal rigor', so 'however' needs a favorable judgment of the claim and its evidence before it. The sentence about a claim rejected by scholars gives no praise to contrast with, 'This earlier claim was argued' introduces a claim not mentioned before, and 'supported by no detail' contradicts the 'evidence' that follows."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "Notwithstanding that",
-          "Inasmuch as",
-          "In the event that",
-          "Albeit"
+          "whereas",
+          "whereupon",
+          "wherein",
+          "whereby"
         ],
-        "answerIndex": 2,
-        "explanation": "'In the event that the acquisition proceeds' introduces a possible future development; 'inasmuch as' would state it as an established fact, and 'notwithstanding that' and 'albeit' express concession."
+        "answerIndex": 0,
+        "explanation": "The sentence sets one group of chapters against another ('Several chapters rest on ... memoranda, whereas others rely on interviews'). 'Whereby', 'wherein' and 'whereupon' cannot join two independent clauses in this way."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "as a result",
+          "by contrast",
+          "in addition",
+          "in short"
+        ],
+        "answerIndex": 1,
+        "explanation": "Readers seeking a definitive account 'will be disappointed', whereas those interested in ethics 'will find the book lucid', so 'by contrast' marks the opposition. 'In short', 'in addition' and 'as a result' would summarize, add or draw a consequence instead."
+      }
+    ]
+  },
+  {
+    "id": "p6-406",
+    "documentType": "notice",
+    "text": "NOTICE TO LEASEHOLDERS\nDunmore Court Residents' Company\n\nFollowing a structural survey commissioned last quarter, the freeholder has confirmed that the east elevation requires substantial remedial work, with an estimated total cost of £184,000. [1] Scaffolding will be erected from 3 March, and access to the affected balconies will be restricted for approximately five months.\n\nThe cost of the work will be apportioned among leaseholders in proportion to the size of each apartment, and each share will be confirmed in writing by 31 January. [2] a leaseholder is unable to settle the charge in a single payment, an installment arrangement may be requested through the managing agent. [3] any dispute over the apportionment, leaseholders may submit a written objection by 20 February. The surveyor will [4] the findings at an open meeting on 12 February, and the full report will be available at the porter's lodge from 5 February.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Delaying the repairs would, in the surveyor's judgment, expose residents and passers-by to a serious risk of falling masonry.",
+          "Delaying the repairs would, in the surveyor's judgment, have reduced the final cost for both residents and the freeholder alike.",
+          "Postponing the repairs would, in the freeholder's view, lower the insurance premium for all residents and passers-by.",
+          "Beginning the repairs would, in the surveyor's judgment, expose both residents and passers-by to unacceptable noise levels."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence announces scaffolding and restricted access, so the gap needs a reason for urgency: only 'expose residents and passers-by to a serious risk of falling masonry' supplies one. The sentences about a reduced final cost, a lower insurance premium or unacceptable noise levels do not explain why the work cannot wait."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "On the grounds that",
+          "In the belief that",
+          "To the effect that",
+          "In the event that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'In the event that a leaseholder is unable to settle the charge' introduces a possible situation followed by the remedy 'an installment arrangement may be requested'. 'On the grounds that', 'to the effect that' and 'in the belief that' would present the inability as a reason, a content or an opinion, which makes no sense here."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "In excess of",
+          "In pursuit of",
+          "In lieu of",
+          "With regard to"
+        ],
+        "answerIndex": 3,
+        "explanation": "'With regard to any dispute over the apportionment' names the topic for which the objection procedure applies. 'In pursuit of' means seeking, 'in excess of' means above an amount and 'in lieu of' means instead of; none of them can introduce the subject of a dispute."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "comprise",
-          "surprise",
-          "enterprise",
-          "apprise"
+          "prescribe",
+          "present",
+          "presume",
+          "preclude"
+        ],
+        "answerIndex": 1,
+        "explanation": "A surveyor 'will present the findings at an open meeting', that is, report them to an audience. 'Prescribe' means order or recommend, 'preclude' means make impossible and 'presume' means assume without proof, so none of them takes 'the findings' with 'at an open meeting'."
+      }
+    ]
+  },
+  {
+    "id": "p6-407",
+    "documentType": "article",
+    "text": "Regulator Fines Retailer Over Customer Data Lapse\n\nEurope's data protection authority has fined the retailer Kessmann €4.2 million after an investigation found that the personal details of some 600,000 customers had been stored without adequate [1]. The company, which maintains that it acted lawfully, has announced that it will appeal. The fine, announced on Tuesday, equals roughly 1.5 percent of the group's annual turnover and is well below the statutory maximum.\n\n[2] That distinction proved decisive. [3] Kessmann had encrypted the data held on its main servers, it failed to apply the same standard to backup copies, which were left accessible to employees who had no need to consult them. Investigators noted that no evidence had emerged that the information had been misused. They concluded, however, that the exposure alone [4] a breach of the regulation.\n\nKessmann has until 15 January to lodge its appeal. In the meantime, it says it has restricted access to all backup files and commissioned an independent audit of its storage practices.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "securities",
+          "sureties",
+          "safeguards",
+          "pledges"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Without adequate safeguards' is the standard collocation for missing protective measures on stored data; 'securities' and 'sureties' are financial terms, and 'pledges' are promises, not protective measures."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The authority drew a line between data collected through the online shop and data gathered in the company's stores.",
+          "The authority drew a line between customers resident in Europe and those who live outside the Union's territory.",
+          "The authority drew a line between data held on the company's main servers and copies retained for backup purposes.",
+          "The authority drew a line between customers who had consented to marketing messages and those who had declined them."
+        ],
+        "answerIndex": 2,
+        "explanation": "'That distinction' needs an antecedent that the following sentences develop: data on the main servers was encrypted whereas backup copies were not. Distinctions based on marketing consent, online versus in-store data or customers' residence are never taken up afterwards."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Although",
+          "Despite",
+          "Notwithstanding",
+          "Regardless of"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Although' introduces a full clause ('Kessmann had encrypted the data'); 'notwithstanding', 'despite' and 'regardless of' are followed by a noun phrase, not a subject and verb."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "constituted",
+          "consisted",
+          "contributed",
+          "composed"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Constituted a breach' means amounted to a breach; 'composed' needs a whole made of parts, 'consisted' needs 'of' and 'contributed' needs 'to', so none of them can take 'a breach' directly."
+      }
+    ]
+  },
+  {
+    "id": "p6-408",
+    "documentType": "email",
+    "text": "To: Procurement Team\nFrom: Dagmar Reinholt, Head of Sourcing\nSubject: Supplier tender – shortlisting criteria\n\nThe tender for packaging materials closed on Friday, and fourteen bids were received. Before we begin the evaluation, I should like to clarify how the shortlist will be drawn up, since several of you have asked whether price will be the deciding factor.\n\nIt will not. [1] Bids will be scored on quality, delivery reliability and environmental performance, with cost accounting for no more than 30 percent of the total. [2] a bidder's price is markedly lower than the others, we shall request a written justification, as unrealistically low offers have in the past [3] contractual disputes. Only the six highest-scoring bidders will be invited to present their proposals at our Rotterdam office on 14 March. Each evaluator should score the bids independently and submit the results to me by Thursday, [4] the panel can meet on Friday to reconcile any discrepancies.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our budget for packaging has been cut by ten percent, so the cheapest bid will inevitably carry the greatest weight.",
+          "The tender documents state that the lowest bid will be accepted, and bidders have priced their offers accordingly.",
+          "Experience has shown that the cheapest bid rarely proves the most economical once defects and late deliveries are counted.",
+          "Fourteen bids is considerably more than we expected, and the evaluation will therefore take longer than originally planned."
+        ],
+        "answerIndex": 2,
+        "explanation": "'It will not' is followed by scoring on quality and reliability with cost capped at 30 percent, so the sentence saying the cheapest bid rarely proves the most economical once defects and late deliveries are counted supplies the reason. The sentences promising that the lowest bid is accepted or that the cheapest bid will carry the greatest weight contradict 'It will not', and the sentence about fourteen bids does not explain the criteria."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Whether",
+          "Whereby",
+          "Where",
+          "Whereas"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Where a bidder's price is markedly lower than the others' introduces the specific situation in which the rule applies. 'Whereas' would contrast two facts, 'whether' needs an alternative, and 'whereby' must follow a noun."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "predisposed",
+          "precipitated",
+          "prescribed",
+          "predicated"
+        ],
+        "answerIndex": 1,
+        "explanation": "Unrealistically low offers have 'precipitated' (triggered) contractual disputes. 'Predicated' means based on, 'prescribed' means ordered, and 'predisposed' means inclined, none of which takes 'disputes' as an object here."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "so that",
+          "unless",
+          "provided that"
+        ],
+        "answerIndex": 1,
+        "explanation": "'So that the panel can meet on Friday' gives the purpose of the Thursday deadline. 'Provided that' and 'unless' would turn the deadline into a condition for the meeting, and 'whereas' would contrast two unrelated facts."
+      }
+    ]
+  },
+  {
+    "id": "p6-409",
+    "documentType": "job_ad",
+    "text": "Head of Regulatory Affairs – Calloway Biosciences\n\nCalloway Biosciences, a mid-sized developer of diagnostic devices, is seeking an experienced Head of Regulatory Affairs to lead a team of eleven specialists across three sites. The successful candidate will be accountable for securing market authorization in the European Union and North America and will [1] all submissions to national regulators, working closely with the quality and clinical departments.\n\n[2] You will be expected to anticipate changes in legislation rather than merely respond to them, and to advise the executive board on their commercial implications. Applicants should hold a degree in a scientific discipline and have [3] at least eight years' experience in a regulated industry. Fluency in German is not essential. [4], it would be viewed as a considerable advantage given the volume of correspondence with the Munich office.\n\nThe post carries a salary of £85,000 to £95,000, together with a relocation allowance. Applications should reach us by 30 September.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "overrule",
+          "overstate",
+          "oversee",
+          "overlook"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Oversee all submissions to national regulators' means to supervise them, which suits a head of department. 'Overlook' means to fail to notice, 'overrule' means to reverse a decision and 'overstate' means to exaggerate, none of which a manager does to submissions."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The position is administrative rather than strategic, and it calls for someone who is at ease with routine.",
+          "The position was strategic rather than administrative until last year, when it was reduced to a monitoring role.",
+          "The position is strategic, but it involves no contact with the executive board and no responsibility for legislation.",
+          "The position is strategic rather than administrative, and it calls for someone who is at ease with uncertainty."
         ],
         "answerIndex": 3,
-        "explanation": "'Apprise you of' means to inform you of; 'comprise', 'surprise' and 'enterprise' have different meanings and structures."
+        "explanation": "The next sentence asks the post-holder to 'anticipate changes in legislation' and 'advise the executive board', which only a strategic role that tolerates uncertainty supports. The administrative or monitoring descriptions and the claim of 'no contact with the executive board' all contradict those duties."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "accumulating",
+          "accumulation",
+          "accumulate",
+          "accumulated"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Should ... have accumulated at least eight years' experience' needs the past participle after 'have' to form the present perfect. The base form, the -ing form and the noun cannot follow 'have' here."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Similarly",
+          "Accordingly",
+          "Furthermore",
+          "Nevertheless"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Fluency in German is not essential' is followed by an advantage, so a concessive adverb is needed: 'Nevertheless, it would be viewed as a considerable advantage'. 'Accordingly', 'Furthermore' and 'Similarly' express consequence, addition or comparison, which do not fit after a negative statement."
+      }
+    ]
+  },
+  {
+    "id": "p6-410",
+    "documentType": "web_page",
+    "text": "Orbis Cloud Services – Service Level Commitments\n\nOrbis guarantees that its hosted applications will be available for 99.95 percent of each calendar month, excluding scheduled maintenance announced at least five days in advance. Availability is measured by an independent monitoring system, the results of which are published on the customer portal.\n\n[1] Where availability falls below the guaranteed level, customers are entitled to a service credit calculated as a proportion of the monthly fee. [2] the shortfall exceed four hours, the credit is doubled. Claims must be submitted within thirty days of the incident; thereafter, they will not be [3]. Approved credits are applied to the invoice issued in the following billing cycle and cannot be exchanged for cash.\n\nThe credits described above constitute the customer's sole remedy for [4] of the availability commitment. Customers on the Enterprise plan should contact their account manager, as separate terms apply to their contracts.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Customers therefore bear the cost of any interruption themselves whenever Orbis fails to meet the promised standard.",
+          "Customers therefore receive no compensation of any kind unless they cancel their subscription within the same month.",
+          "Service credits are therefore unavailable during the first year of a subscription, whatever the level of service delivered.",
+          "Orbis therefore accepts a financial penalty whenever it fails to deliver the standard of service that is promised above."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence says customers 'are entitled to a service credit' when availability falls short, so the preceding sentence must say that missing the standard costs Orbis money. 'Bear the cost themselves', 'no compensation of any kind' and credits 'unavailable during the first year' all contradict that entitlement."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Should",
+          "Unless",
+          "Although"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Should the shortfall exceed four hours' is an inverted conditional meaning 'if the shortfall exceeds', which explains the base form 'exceed'. 'Whereas' and 'Although' introduce contrast, and 'Unless' would reverse the logic of a doubled credit."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "entertained",
+          "enacted",
+          "entailed",
+          "entrusted"
+        ],
+        "answerIndex": 0,
+        "explanation": "A late claim 'will not be entertained', meaning it will not be considered. 'Entailed' means involved as a consequence, 'entrusted' means given in trust and 'enacted' means made into law; none describes how a claim is handled."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "revision",
+          "waiver",
+          "expiry",
+          "breach"
+        ],
+        "answerIndex": 3,
+        "explanation": "The sole remedy applies when Orbis fails to meet the commitment, which is a 'breach' of it. 'Expiry', 'revision' and 'waiver' of the commitment are not failures to deliver, so no credit would be owed for them."
+      }
+    ]
+  },
+  {
+    "id": "p6-411",
+    "documentType": "email",
+    "text": "To: All Staff\nFrom: Ingrid Solberg, Chief Executive\nSubject: Proposed acquisition of Veldt Logistics\n\nI am writing to inform you that the board has entered into exclusive talks to acquire Veldt Logistics, a transport specialist with operations in nine countries and annual revenue of about 210 million euros. No agreement has yet been signed, and the transaction remains [1] to regulatory approval, which we do not expect before the autumn.\n\n[2] Until the position is clear, the two companies will continue to operate independently, and our own customers should notice no change in the service they receive. [3] the acquisition proceeds, we anticipate a period of integration lasting up to eighteen months, during which some roles may be reorganized. I recognize that uncertainty is unwelcome, and I undertake to [4] you informed of every significant development as soon as it arises. A briefing for all departments will be held on 14 June, and the staff intranet will be updated each Friday.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "subjecting",
+          "subject",
+          "subjected",
+          "subjective"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Remains subject to regulatory approval' is the fixed expression meaning dependent on it; 'subjected' and 'subjecting' would need a different structure or an agent, and 'subjective' has an unrelated meaning."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Customers are therefore asked to refrain from discussing the proposal outside the company while negotiations are under way.",
+          "Staff are therefore asked to refrain from discussing the proposal outside the company once the regulators approve it.",
+          "Staff will therefore be invited to discuss the proposal with Veldt employees once negotiations have been concluded.",
+          "Staff are therefore asked to refrain from discussing the proposal outside the company while negotiations are under way."
+        ],
+        "answerIndex": 3,
+        "explanation": "Because 'no agreement has yet been signed', staff are asked to keep the matter confidential while talks continue, which leads naturally into 'Until the position is clear'. The sentence addressed to customers is wrong because the email is written to staff, the invitation to talk to Veldt employees makes no sense before any deal, and a ban lasting only until regulatory approval contradicts 'while negotiations are under way'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "In the event that",
+          "For as long as",
+          "On the grounds that",
+          "In so far as"
+        ],
+        "answerIndex": 0,
+        "explanation": "'In the event that the acquisition proceeds' introduces a possible future development. 'On the grounds that' gives a reason, 'in so far as' limits an extent, and 'for as long as' describes a duration, none of which fits an uncertain outcome."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "keep",
+          "hold",
+          "retain",
+          "maintain"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Keep you informed' is the fixed collocation; 'hold', 'retain' and 'maintain' cannot be followed by 'you informed' in this meaning."
       }
     ]
   },
   {
     "id": "p6-412",
     "documentType": "article",
-    "text": "Ageing Workforce Forces Manufacturers to Rethink Training\n\nAcross the engineering sector, firms are confronting a demographic problem that has been building for decades: nearly a third of skilled machinists are due to retire within ten years, and too few young people are entering the trade to replace them. Employers' associations have long urged schools to [1] vocational pathways, but progress has been slow.\n\n[2] A growing number of companies are therefore taking matters into their own hands. Bradfield Precision, for instance, now runs a four-year apprenticeship that combines paid work on the shop floor with study at a local college. [3] the scheme is costly, its managing director argues that the expense is modest compared with the loss of expertise that retirements would entail. Critics counter that such programs benefit only large firms, [4] smaller workshops lack the resources to release staff for training.",
+    "text": "Ageing Workforce Forces Manufacturers to Rethink Training\n\nAcross the engineering sector, firms are confronting a demographic problem that has been building for decades: nearly a third of skilled machinists are due to retire within ten years, and too few young people are entering the trade to replace them. Employers' associations have long urged schools to [1] vocational pathways, but progress has been slow.\n\n[2] A growing number of companies are therefore taking matters into their own hands. Bradfield Precision, for instance, now runs a four-year apprenticeship that combines paid work on the shop floor with study at a local college. [3] the scheme is costly, its managing director argues that the expense is modest compared with the loss of expertise that retirements would entail. Critics counter that such programs benefit only large firms, [4] smaller workshops lack the resources to release staff for training.\n\nAn industry survey published in March found that only one apprentice in five completes a full programme at a firm with fewer than fifty employees.",
     "questions": [
       {
         "blank": 1,
         "category": "vocabulary",
         "choices": [
-          "promote",
+          "prolong",
           "provoke",
           "prosecute",
-          "prolong"
+          "promote"
         ],
-        "answerIndex": 0,
-        "explanation": "Associations urge schools to 'promote' (encourage) vocational pathways; 'provoke', 'prosecute' and 'prolong' do not take 'pathways' as a sensible object."
+        "answerIndex": 3,
+        "explanation": "Associations that urge schools to 'promote' vocational pathways want them encouraged and publicised; 'provoke', 'prosecute' and 'prolong' cannot sensibly take 'pathways' as an object."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
           "Waiting for the education system to widen this gap is, in the view of many executives, no longer a realistic option.",
+          "Relying on the education system to close this gap is, in the view of many apprentices, still a realistic option.",
           "Waiting for the education system to close this gap is, in the view of many executives, no longer a realistic option.",
-          "Waiting for retirements to close this gap was, in the view of many executives, not a realistic option.",
-          "Relying on the education system to close this gap is, in the view of many apprentices, still a realistic option."
+          "Waiting for retirements to close this gap was, in the view of many executives, not a realistic option."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence says 'A growing number of companies are therefore taking matters into their own hands', so the preceding one must say that waiting for schools is not viable. The others reverse the logic, shift the subject to retirements or declare the school route realistic."
+        "answerIndex": 2,
+        "explanation": "The following sentence says companies are 'therefore taking matters into their own hands', so the blank must explain that waiting for schools to close the gap is no longer viable. 'Widen this gap' makes no sense, 'retirements' cannot close a shortage and the past tense ignores the present situation, and calling the school route 'still a realistic option' would not lead to 'therefore'."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "Because",
-          "Unless",
           "Although",
+          "Given that",
+          "Unless",
           "Whenever"
         ],
-        "answerIndex": 2,
-        "explanation": "'Although the scheme is costly' concedes a drawback before the managing director's defense; 'because' would explain the cost wrongly, and 'unless' and 'whenever' do not fit."
+        "answerIndex": 0,
+        "explanation": "'Although the scheme is costly' concedes a drawback before the managing director's defence. 'Unless' and 'whenever' do not fit the meaning, and 'given that' would present the cost as a reason for his argument that it is modest."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
           "therefore",
+          "consequently",
           "moreover",
-          "hence",
           "whereas"
         ],
         "answerIndex": 3,
-        "explanation": "'Whereas smaller workshops lack the resources' contrasts large firms with small ones; 'therefore', 'moreover' and 'hence' do not mark contrast."
+        "explanation": "'Whereas smaller workshops lack the resources' sets small firms against the large firms that benefit. 'Therefore', 'moreover' and 'consequently' would add a result or an extra point, and the clause is not a consequence of the first."
       }
     ]
   },
   {
     "id": "p6-413",
     "documentType": "letter",
-    "text": "Dear Mr. Brandvold,\n\nFurther to our meeting on 14 May, I am writing to set out the terms on which Halvorsen & Dale would be willing to renew the lease of Unit 6, Harbour Point. The proposed term is five years from 1 September, with a rent review at the end of the third year. [1] The current rent of £86,000 per annum would remain unchanged for the first twenty-four months.\n\nWe would, however, wish to introduce a break clause exercisable by either party on six months' notice after the second anniversary. [2] such a clause would give both sides valuable flexibility, we appreciate that it may be unwelcome to a tenant who has invested heavily in the premises. We would therefore be [3] to discuss a modest contribution toward your fit-out costs, [4] you agree to a minimum term of three years.\n\nYours sincerely,\nHelen Pryce\nProperty Manager",
+    "text": "Dear Mr. Brandvold,\n\nFurther to our meeting on 14 May, I am writing to set out the terms on which Halvorsen & Dale would be willing to renew the lease of Unit 6, Harbour Point. The proposed term is five years from 1 September, with a rent review at the end of the third year. [1] The current rent of £86,000 per annum would remain unchanged until then.\n\nWe would, however, wish to introduce a break clause exercisable by either party on six months' notice after the second anniversary. [2] such a clause would give both sides valuable flexibility, we appreciate that it may be unwelcome to a tenant who has invested heavily in the premises. We would therefore be [3] to discuss a modest contribution of up to £15,000 toward your fit-out costs, [4] you agree to a minimum term of three years.\n\nI should be grateful for your response by 12 June, so that the heads of terms can be drawn up.\n\nYours sincerely,\nHelen Pryce\nProperty Manager",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "This offer is made subject to contract and to the satisfactory completion of a survey of the building.",
-          "This offer is made subject to contract and to the satisfactory completion of a survey of the tenant.",
-          "This offer was made subject to contract and to the unsatisfactory completion of a survey of the building.",
-          "This request is made subject to inspection and to the satisfactory completion of a lease of the building."
+          "Any revised rent would apply from 1 September in the fourth year, following a valuation by an independent surveyor.",
+          "Any revised rent had applied from 1 September in the fourth year, following a valuation by an independent surveyor.",
+          "Any revised rent would apply from 1 September in the third year, following a valuation by an independent surveyor.",
+          "Any revised rent would apply from 1 September in the fifth year, following a valuation by an independent surveyor."
         ],
         "answerIndex": 0,
-        "explanation": "The following sentence ('The current rent ... would remain unchanged') continues the terms of the offer; the first option frames those terms as conditional. The others contain an illogical object ('survey of the tenant'), a contradictory tense and adjective, or confuse an offer with a request."
+        "explanation": "The review is due 'at the end of the third year' of a term starting on 1 September, so a revised rent can apply only from 1 September of the fourth year, which is also the date 'until then' points back to. Applying it in the third year comes too early and the fifth year too late, while 'had applied' wrongly treats a proposal as a past event."
       },
       {
         "blank": 2,
         "category": "connector",
         "choices": [
-          "Because",
           "While",
           "Provided",
+          "Because",
           "Since"
         ],
-        "answerIndex": 1,
-        "explanation": "'While such a clause would give both sides valuable flexibility, we appreciate that ...' concedes a benefit before a drawback; 'because' and 'since' give reasons that do not make sense, and 'provided' needs 'that'."
+        "answerIndex": 0,
+        "explanation": "'While such a clause would give both sides valuable flexibility, we appreciate that ...' concedes a benefit before stating a drawback. 'Because' and 'since' would present the flexibility as the reason for the tenant's reluctance, and 'provided' needs 'that' and expresses a condition."
       },
       {
         "blank": 3,
         "category": "grammar",
         "choices": [
-          "preparing",
-          "prepare",
           "prepared",
-          "preparation"
+          "preparation",
+          "prepare",
+          "preparing"
         ],
-        "answerIndex": 2,
-        "explanation": "'We would therefore be prepared to discuss' uses the adjective 'prepared' followed by 'to'; the other forms do not follow 'be'."
+        "answerIndex": 0,
+        "explanation": "'Be prepared to discuss' uses the adjective 'prepared' followed by 'to'; 'preparing', 'prepare' and 'preparation' do not follow 'would be' in this meaning."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "as though",
-          "even if",
           "in case",
-          "provided that"
+          "as though",
+          "provided that",
+          "even if"
         ],
-        "answerIndex": 3,
-        "explanation": "'Provided that you agree' sets the condition for the contribution; 'as though', 'even if' and 'in case' contradict or misrepresent the condition."
+        "answerIndex": 2,
+        "explanation": "'Provided that you agree to a minimum term' sets the condition attached to the offered contribution. 'As though' introduces a comparison, 'even if' makes the agreement irrelevant, and 'in case' suggests a precaution rather than a condition."
       }
     ]
   },
   {
     "id": "p6-414",
     "documentType": "notice",
-    "text": "SECURITY ADVISORY – IMMEDIATE ACTION REQUIRED\n\nOur monitoring systems have detected a series of fraudulent e-mails purporting to come from the finance department and requesting urgent changes to supplier bank details. [1] Employees should therefore not act on any such request unless it has been [2] by telephone, using a number held on file rather than one supplied in the message.\n\n[3], any employee who has already responded to a message of this kind must contact the security desk without delay, so that the transaction can be recalled where possible. The firm will [4] a mandatory briefing on fraud awareness on 9 June.",
+    "text": "SECURITY ADVISORY – IMMEDIATE ACTION REQUIRED\n\nOur monitoring systems have detected a series of fraudulent e-mails purporting to come from the finance department and requesting urgent changes to supplier bank details. The messages share several features: an urgent tone, a sender address closely resembling our own, and an attachment described as an \"updated remittance form\". [1] Employees should therefore not act on any such request unless it has been [2] by telephone, using a number held on file rather than one supplied in the message.\n\n[3], any employee who has already responded to a message of this kind must contact the security desk on extension 4417 without delay, so that the transaction can be recalled where possible. The firm will [4] a mandatory briefing on fraud awareness on 9 June in the main auditorium. Attendance will be recorded, and staff in the finance and procurement teams will be asked to sign a short declaration afterwards.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Several of the messages have proved convincing enough to prompt a payment of £37,000 before the deception was discovered.",
-          "Most of the messages were intercepted by the mail filter before they could reach any employee mailbox at all.",
-          "The finance department has since replaced the telephone number held on file for each supplier in its records.",
-          "None of the messages has yet resulted in a payment, although their number has risen sharply in recent days."
+          "Two of the messages have already persuaded staff to transfer a combined £37,000 to unknown accounts.",
+          "Most of the messages were stopped by the mail filter before reaching any employee's mailbox or phone.",
+          "A similar campaign last year targeted suppliers rather than staff and was quickly abandoned.",
+          "The finance department has since changed the telephone number held on file for each supplier."
         ],
         "answerIndex": 0,
-        "explanation": "The next sentence says employees should 'therefore' not act on such requests, so the previous sentence must establish a real danger. Only the first does; the others say the messages were intercepted, change the contact details, or report that no payment has occurred."
+        "explanation": "The next sentence draws a consequence with 'therefore', so the preceding sentence must establish a genuine danger; payments of £37,000 already sent to unknown accounts do so. Messages blocked by the filter, a changed telephone number or a campaign last year that was abandoned do not justify the warning to act only after verification."
       },
       {
         "blank": 2,
         "category": "vocabulary",
         "choices": [
-          "certified",
           "verified",
+          "certified",
           "justified",
           "rectified"
         ],
-        "answerIndex": 1,
-        "explanation": "A request is 'verified' by calling a known number; 'certified' implies an official document, 'justified' means given a reason, and 'rectified' means corrected."
+        "answerIndex": 0,
+        "explanation": "A request is 'verified' when its authenticity is checked, here by calling a number held on file. 'Certified' implies an official document, 'justified' means given a reason, and 'rectified' means corrected."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "Conversely",
           "Nonetheless",
-          "In addition",
-          "Thereafter"
+          "Conversely",
+          "Thereafter",
+          "Furthermore"
         ],
-        "answerIndex": 2,
-        "explanation": "The sentence adds a second instruction to the first; 'conversely' and 'nonetheless' mark contrast, and 'thereafter' marks a later time."
+        "answerIndex": 3,
+        "explanation": "The sentence adds a second instruction to the first, which 'furthermore' expresses. 'Conversely' and 'nonetheless' signal a contrast that does not exist, and 'thereafter' refers to a later time rather than an additional requirement."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "convey",
-          "converge",
+          "convene",
           "convert",
-          "convene"
-        ],
-        "answerIndex": 3,
-        "explanation": "A firm can 'convene' a briefing (call it together); 'convey' needs a message as its object, 'converge' is intransitive, and 'convert' means change."
-      }
-    ]
-  },
-  {
-    "id": "p6-415",
-    "documentType": "memo",
-    "text": "To: Senior Managers\nFrom: Philippa Greaves, Director of Human Resources\nSubject: Revised relocation policy\n\nThe company's relocation policy has been revised in the light of last year's experience, when several transfers were delayed by disputes over costs. The new policy applies to all internal transfers requiring a move of more than eighty kilometers, [1] of grade.\n\n[2] Employees will receive a lump sum covering removal and temporary accommodation, rather than reimbursement of individual receipts. [3] a transferred employee leaves the company within two years of the move, a proportion of the lump sum must be repaid. Managers are asked to [4] their teams about these terms before any transfer is discussed.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "grammar",
-        "choices": [
-          "irrespective",
-          "notwithstanding",
-          "apart",
-          "aside"
+          "converge",
+          "convey"
         ],
         "answerIndex": 0,
-        "explanation": "'Irrespective of their role' is the fixed expression meaning without regard to; 'notwithstanding', 'apart' and 'aside' are not followed by 'of' in this sense."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The aim is to speed up the processing of receipts, which previously took several weeks to be approved by the company.",
-          "The aim is to remove the uncertainty that previously arose when employees and the company interpreted eligible expenses differently.",
-          "The aim is to protect the tax position of employees, which previously changed whenever expenses were reimbursed in full.",
-          "The aim is to encourage transfers to the northern offices, where staff shortages previously affected the company."
-        ],
-        "answerIndex": 1,
-        "explanation": "The next sentence says employees will receive a lump sum 'rather than reimbursement of individual receipts', so the aim must be to end disputes over what is eligible. The others contradict the lump sum (receipts), concern tax, or are unrelated to expenses."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "Whereas",
-          "Wherein",
-          "Where",
-          "Whereby"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Where a transferred employee leaves' introduces the specific case in which repayment applies; 'whereas' contrasts, 'wherein' means in which, and 'whereby' means by which."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "debrief",
-          "abridge",
-          "abbreviate",
-          "brief"
-        ],
-        "answerIndex": 3,
-        "explanation": "To 'brief' a team about terms is to inform them in advance; 'debrief' refers to questioning after an event, and 'abridge' and 'abbreviate' mean to shorten."
+        "explanation": "A firm can 'convene' a briefing, meaning call people together for it. 'Convey' requires a message or idea as its object, 'converge' is intransitive, and 'convert' means to change something into another form."
       }
     ]
   }

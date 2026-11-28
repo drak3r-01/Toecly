@@ -1,221 +1,551 @@
 [
   {
-    "id": "p6-433",
-    "documentType": "email",
-    "text": "To: Research and Development Staff\nFrom: Dr. Anneke Visser, Director of Innovation\nSubject: Patent filing procedure\n\nFollowing recent enquiries about intellectual property, I should like to set out the procedure that applies whenever a staff member believes that a new invention has been made. The first step is to submit an invention disclosure form to the legal department, [1] before any details are discussed with outside parties.\n\n[2] A premature public disclosure, whether in a publication or at a conference, may render the invention unpatentable. Once the form has been received, the legal team will [3] a search of existing patents and will advise whether an application is worthwhile. Employees are reminded that inventions made in the course of their employment belong to the company, [4] any royalties payable to the inventor are governed by a separate scheme.",
+    "id": "p6-465",
+    "documentType": "article",
+    "text": "Offshore Wind Auction Draws Record Bids\n\nThe government's latest auction for offshore wind capacity has attracted bids totaling nearly eleven gigawatts, which is [1] double the five gigawatts on offer. [2] The enthusiasm of developers reflects falling turbine costs and a guaranteed price of £58 per megawatt-hour for the electricity generated over fifteen years. The first projects are expected to begin supplying the grid in 2029.\n\nCritics warn that the system exposes consumers to risk if wholesale prices fall, because the difference between the market price and the guaranteed price must be [3] by consumers through their bills. Ministers [4] that the guarantee is necessary to attract investment in an industry where upfront costs are high, and they note that the same mechanism returns money to consumers when wholesale prices rise above the agreed level.",
     "questions": [
       {
         "blank": 1,
         "category": "grammar",
         "choices": [
-          "preferably",
-          "preferable",
-          "preferred",
-          "preference"
+          "less than",
+          "rather than",
+          "other than",
+          "more than"
         ],
-        "answerIndex": 0,
-        "explanation": "An adverb is needed to modify the time phrase 'before any details are discussed'; 'preferably' means ideally."
+        "answerIndex": 3,
+        "explanation": "Nearly eleven gigawatts against five on offer is more than twice the capacity, hence 'more than double'. 'Less than double' contradicts the figures, and 'rather than' and 'other than' do not compare quantities."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Delays matter a great deal in this process, because the cost of a patent can be recovered through licensing.",
-          "Timing matters a great deal in this process, because the right to a patent can be lost through carelessness.",
-          "Disclosure forms matter a great deal in this process, because the legal team can reject them through inattention.",
-          "Patents matter a great deal in this process, because inventors can be rewarded through royalties."
+          "Officials described the response as far stronger than anyone in the industry had predicted.",
+          "Officials described the response as far weaker than anyone in the industry had feared.",
+          "Officials described the auction as far costlier than anyone in the industry had predicted.",
+          "Officials described the response as far stronger than expected, though it came from a few small bids."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence says that a premature disclosure may render the invention unpatentable, so the previous one must introduce the risk of losing patent rights through timing. The others discuss cost recovery, rejection of forms, or rewards, which that sentence does not support."
+        "answerIndex": 0,
+        "explanation": "The next sentence speaks of 'the enthusiasm of developers', and record bids of nearly eleven gigawatts show a strong response. A 'far weaker' response contradicts the figures, a 'costlier' auction does not explain any enthusiasm, and a response coming from 'a few small bids' conflicts with the bids totaling eleven gigawatts."
       },
       {
         "blank": 3,
         "category": "vocabulary",
         "choices": [
-          "construct",
-          "conclude",
-          "conduct",
-          "condense"
+          "met",
+          "matched",
+          "measured",
+          "mastered"
         ],
-        "answerIndex": 2,
-        "explanation": "A legal team 'conducts' a search, meaning carries one out; 'construct' means build, 'conclude' means finish, and 'condense' means shorten."
+        "answerIndex": 0,
+        "explanation": "A price difference must be 'met' by someone, in the sense of paid for. 'Matched', 'measured' and 'mastered' do not take a difference in price as their object in this sense."
       },
       {
         "blank": 4,
-        "category": "connector",
+        "category": "vocabulary",
         "choices": [
-          "because",
-          "unless",
-          "so",
-          "although"
+          "contest",
+          "convince",
+          "contend",
+          "contain"
         ],
-        "answerIndex": 3,
-        "explanation": "'Although any royalties ... are governed by a separate scheme' concedes that ownership lies with the company yet rewards are handled separately; the others change the logic."
+        "answerIndex": 2,
+        "explanation": "Ministers 'contend that' the guarantee is necessary, meaning they argue so. 'Contest' would mean they dispute it, which reverses their position, while 'contain' and 'convince' do not fit before a that-clause."
       }
     ]
   },
   {
-    "id": "p6-434",
-    "documentType": "web_page",
-    "text": "Pennine Mutual Insurance – Making a Claim\n\nIf you need to make a claim, please contact us as soon as reasonably possible. [1] Delay may prejudice your claim, particularly where evidence has to be gathered at the scene of an incident, and we are entitled to reduce a settlement if late notification has affected our ability to investigate.\n\nOn receiving your claim, we will assign a case handler who will be your single point of contact. Where the loss exceeds £10,000, an independent assessor [2] be appointed. We aim to settle straightforward claims within ten working days; [3], complex cases may take considerably longer. You should not authorize repairs [4] you have received our written approval.",
+    "id": "p6-466",
+    "documentType": "notice",
+    "text": "CHANGES TO REFUSE COLLECTION – MILLBROOK DISTRICT\n\nFrom Monday 6 October, household waste in the Millbrook district will be collected fortnightly rather than weekly. [1] Food waste and recycling will continue to be collected every week, and residents will be given a larger bin for the purpose. New bins will be delivered between 22 September and 3 October.\n\nThe council anticipates that the change will [2] around £400,000 a year and will encourage households to recycle more. [3] the proposal was subject to public consultation, a majority of respondents opposed it. Residents who produce unusually large quantities of waste, [4] families with infants, may apply for an additional bin by contacting the Environmental Services office before 17 October. Collection days will remain unchanged for all addresses, and a revised calendar will be posted to every household.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "We recommend that you notify us within forty-eight hours of becoming aware of the loss or damage.",
-          "We recommend that you notify us within forty-eight hours of becoming aware of the loss or the policy.",
-          "We recommend that you notify the police within forty-eight hours of becoming aware of the loss or damage.",
-          "We recommended that you notified us within forty-eight hours of becoming aware of the loss."
+          "The change applies to commercial waste only and does not affect any household collection service.",
+          "The change applies to general household waste only and will also affect food waste and recycling.",
+          "The change applies to all household waste, including food waste, and does not affect any other service.",
+          "The change applies to general household waste only and does not affect any other collection service."
         ],
-        "answerIndex": 0,
-        "explanation": "The following sentence says 'Delay may prejudice your claim', so the previous one should give the time limit for notifying the insurer; the others mention the policy, the police, or use a past tense."
+        "answerIndex": 3,
+        "explanation": "The next sentence says food waste and recycling 'will continue' weekly, so the gap must limit the change to general waste: 'general household waste only and does not affect any other collection service'. Restricting it to commercial waste contradicts the opening sentence, and the statements that food waste and recycling are affected contradict what follows."
       },
       {
         "blank": 2,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "might",
-          "may",
-          "shall",
-          "will not"
+          "save",
+          "salvage",
+          "serve",
+          "spare"
         ],
-        "answerIndex": 1,
-        "explanation": "'May be appointed' expresses a possibility, matching the conditional 'Where the loss exceeds £10,000'; 'might' is weaker, 'shall' is too absolute, and 'will not' reverses the sense."
+        "answerIndex": 0,
+        "explanation": "A cost-cutting change 'will save around £400,000 a year'. 'Spare' needs a person as object, 'serve' means supply, and 'salvage' means rescue from loss, so none of them takes a sum as the object."
       },
       {
         "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Even though",
+          "Only if",
+          "As though",
+          "Even if"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Even though the proposal was subject to public consultation' states a real fact and contrasts it with the opposition of most respondents. 'Even if' and 'only if' make the consultation hypothetical, and 'as though' introduces an imagined comparison."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "as such",
+          "so as",
+          "such that",
+          "such as"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Such as families with infants' introduces an example of residents who produce large quantities of waste. 'As such', 'so as' and 'such that' cannot introduce an example in this position."
+      }
+    ]
+  },
+  {
+    "id": "p6-467",
+    "documentType": "memo",
+    "text": "To: All Staff\nFrom: Tomas Wieland, IT Security\nSubject: Remote access\n\nFrom 1 November, access to the company network from outside the office will require two-step authentication. The change follows a security review which found that password-only access exposed sensitive client files. [1] Staff who have not yet registered a device of this kind should do so by 24 October; [2] they will be unable to log in.\n\nDevices shared with family members will not be [3] for registration, even where each user has a separate account. The free authentication application can be installed on any smartphone running a recent operating system. [4] the technical details are set out in the attached guide, the IT helpdesk will hold drop-in sessions on 20 and 22 October. Staff who plan to travel abroad should inform the helpdesk (extension 4410) at least a week before departure.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Authentication will be performed by a code printed on a card issued in advance by the IT department.",
+          "Authentication will be performed by a code sent to a mobile device registered with the IT department.",
+          "Authentication was performed by a code sent to a mobile device registered with the IT department.",
+          "Authentication will be performed by a code sent to a computer owned and registered by the IT department."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says staff who have not registered 'a device of this kind', so the preceding sentence must mention a device that users register themselves. A printed card is not a device, a computer owned by the IT department is not something staff register, and the past tense contradicts a requirement starting on 1 November."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "furthermore",
+          "otherwise",
+          "similarly",
+          "consequently"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Otherwise' states what will happen if staff do not register by 24 October; 'consequently' and 'furthermore' would present the lockout as a result or an addition of registering, and 'similarly' would compare two parallel cases."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "eligible",
+          "illegal",
+          "liable",
+          "elective"
+        ],
+        "answerIndex": 0,
+        "explanation": "A device that is 'eligible for registration' meets the conditions; 'elective' means optional, 'illegal' means unlawful and 'liable' is not used with 'for registration' in this sense."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Because",
+          "Unless",
+          "Whenever",
+          "Although"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Although the technical details are set out in the attached guide' concedes that written help exists, yet drop-in sessions will still be held; 'because' would make the guide the reason for the sessions, 'unless' would reverse the meaning and 'whenever' adds a repeated-time sense that is absent."
+      }
+    ]
+  },
+  {
+    "id": "p6-468",
+    "documentType": "letter",
+    "text": "Dear Ms. Andrade,\n\nFurther to your interview on 12 June, I am pleased to offer you the post of Laboratory Manager, with effect from 1 September. [1] Your starting salary will be £47,500 per annum, to be reviewed after the probationary period.\n\nYou will be required to [2] a medical examination before taking up your duties, as the work involves the handling of hazardous substances. The offer is conditional [3] the receipt of two satisfactory references, [4] we have requested directly from your previous employers.\n\nYour first day will begin with an induction at our Leeds site, and you should bring proof of identity and your bank details. Please sign and return the enclosed copy of this letter by 28 June if you wish to accept. Your annual leave entitlement will be twenty-five working days, in addition to public holidays, and a full job description is enclosed.\n\nYours sincerely,\nCleo Hartmann\nHuman Resources",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The first six months of employment constitute a period of training, during which the department will provide regular one-to-one mentoring.",
+          "The final six months of the contract constitute a period of notice, during which either party may end the arrangement.",
+          "The first six months of employment constitute a probationary period, during which either party may end the contract at short notice.",
+          "The first six months of employment were treated as a trial, during which the department provided regular mentoring."
+        ],
+        "answerIndex": 2,
+        "explanation": "The next sentence refers to 'the probationary period' with a definite article, so the previous sentence must introduce it, and only the sentence naming a 'probationary period' does. The training and trial sentences never mention probation, and the 'final six months' sentence concerns notice at the end of a contract rather than the start of employment."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "undergo",
+          "undermine",
+          "underpin",
+          "underwrite"
+        ],
+        "answerIndex": 0,
+        "explanation": "One 'undergoes' a medical examination, meaning submits to it. 'Underpin' means to support, 'undermine' means to weaken, and 'underwrite' means to guarantee financially."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "upon",
+          "with",
+          "to",
+          "for"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Conditional upon the receipt of two satisfactory references' is the fixed expression. 'Conditional with', 'to' and 'for' are not used in this construction."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "both of whom",
+          "both of what",
+          "both of whose",
+          "both of which"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Both of which' refers back to the two references and is the object of 'we have requested'. 'Both of whom' and 'both of whose' would refer to people, and 'both of what' is not a possible relative construction."
+      }
+    ]
+  },
+  {
+    "id": "p6-469",
+    "documentType": "email",
+    "text": "To: All Employees\nFrom: Imogen Hart, Director of Human Resources\nSubject: Parental leave\n\nFollowing consultation with employee representatives, the company's parental leave policy will be [1] with effect from 1 April. [2] The enhanced rate, which replaces the previous statutory minimum, will apply to all employees who have completed twelve months' service by the expected date of birth.\n\n[3], the period of leave will be extended from twenty-six to thirty-nine weeks, [4] employees may take on a part-time basis. Employees who intend to take leave should notify Human Resources at least fifteen weeks before the expected date of birth, using form HR-14. Employees already on leave on that date will be paid at the enhanced rate for any remaining weeks. Further details, including a worked example of the calculation, are available on the intranet or from your line manager.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "revising",
+          "revised",
+          "revise",
+          "revision"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'will be', a past participle is needed to form the passive: 'the policy will be revised'. The -ing form, the base form and the noun cannot complete the passive."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Pay during the first sixteen weeks of leave will remain at the statutory minimum for the employee concerned.",
+          "Pay during the final sixteen weeks of leave will be reduced to half the salary of the employee concerned.",
+          "Pay during the first sixteen weeks of leave will be raised to the full basic salary of each employee concerned.",
+          "Leave during the first sixteen weeks will be granted to the employee concerned only on request and with approval."
+        ],
+        "answerIndex": 2,
+        "explanation": "'The enhanced rate, which replaces the previous statutory minimum' needs an earlier sentence announcing a higher rate of pay, which the full-salary sentence does. Remaining at the statutory minimum or being reduced to half salary is not an enhancement, and the sentence about granting leave on request mentions no rate at all."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Conversely",
+          "In addition",
+          "Nevertheless",
+          "Accordingly"
+        ],
+        "answerIndex": 1,
+        "explanation": "The extension of leave is a second improvement added to the enhanced pay, so 'In addition' fits. 'Nevertheless' and 'Conversely' signal contrast, and 'Accordingly' signals a result that the pay change does not cause."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "which",
+          "what",
+          "whose",
+          "whom"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Which' is a relative pronoun referring to 'the period of leave' and serving as the object of 'may take'. 'What' cannot follow a noun, 'whom' refers to people and 'whose' would need a noun after it."
+      }
+    ]
+  },
+  {
+    "id": "p6-470",
+    "documentType": "web_page",
+    "text": "Fenner & Quaye – Delivery Options\n\nOrders placed before 2 p.m. are dispatched on the same day. [1] The latter option is cheaper but offers no guarantee of delivery by a fixed date, and parcels may be left with a neighbor [2] a signature is not available. Courier delivery costs £7.50 per parcel, whereas standard postal delivery costs £3.95 and is free on orders above £60. Please allow an additional day for orders placed at weekends. Customers are notified by e-mail once an order has left our warehouse.\n\nInternational orders are subject to customs duties, [3] are payable by the recipient. Delivery times for overseas destinations range from five to twelve working days, depending on the customs authority concerned. We reserve the right to cancel any order that cannot be fulfilled within thirty days of the date on which it was [4].",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Customers may choose between a tracked courier service and a standard postal service, with different charges.",
+          "Customers may choose between standard packaging and gift wrapping, with different charges for each parcel.",
+          "Customers may choose between next-day delivery and delivery on a specified date, with different charges.",
+          "Customers may choose between collection from our warehouse and delivery to a pickup point, with different charges."
+        ],
+        "answerIndex": 0,
+        "explanation": "'The latter option' needs two options in the preceding sentence, the second cheaper with no guaranteed date and with parcels possibly left with a neighbor; a standard postal service matches, and the later prices for courier and postal delivery confirm it. 'Delivery on a specified date' is the opposite of 'no guarantee', 'gift wrapping' is not a delivery option, and a 'pickup point' is incompatible with leaving parcels with a neighbor."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "wherein",
+          "whereby",
+          "where"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Where a signature is not available' introduces the circumstance in which a parcel may be left with a neighbor. 'Whereas' expresses contrast, and 'wherein' and 'whereby' cannot introduce a condition of this kind."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "which",
+          "who",
+          "whose"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Which' is a non-restrictive relative pronoun referring to 'customs duties' and acts as the subject of 'are payable'. 'What' cannot follow a comma and an antecedent, 'who' is for people, and 'whose' needs a following noun."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "placed",
+          "tabled",
+          "filed",
+          "lodged"
+        ],
+        "answerIndex": 0,
+        "explanation": "One 'places' an order, so the date on which it was 'placed' is the date of purchase. 'Filed', 'lodged' and 'tabled' are used for complaints, claims and proposals, not for orders."
+      }
+    ]
+  },
+  {
+    "id": "p6-471",
+    "documentType": "memo",
+    "text": "To: Programme Team\nFrom: Odile Brandt, Head of Learning and Development\nSubject: Choice of training provider\n\nWe have now received proposals from two providers for next year's management course: Norvale Institute and Castleton College. [1] The former has a stronger reputation and offers a longer program, [2] the latter is considerably less expensive and can begin sooner. Norvale's fee is 18,500 euros per participant, compared with 12,400 euros at Castleton. Both proposals have been scored against the criteria that the committee agreed in September, and the results are attached.\n\nIt would be [3] to choose on price alone, since the course is intended to prepare staff for senior roles. The budget is limited; [4], I recommend that we select Norvale and seek a reduction in its fee rather than switch to the alternative. The committee will meet on 9 December to take the final decision.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Neither has submitted a detailed program, and the two differ mainly in their reputation and in their cost.",
+          "Each has submitted a detailed program, but the two are indistinguishable in reputation and in cost.",
+          "Each has submitted a detailed program, and all three differ mainly in their reputation and cost.",
+          "Each has submitted a detailed program, and the two differ chiefly in their reputation and in cost."
+        ],
+        "answerIndex": 3,
+        "explanation": "The memo then compares 'the former' and 'the latter' in terms of reputation and cost, so the preceding sentence must confirm that both providers submitted programs and differ on those points. 'Neither has submitted' contradicts 'we have now received proposals', 'all three' mentions a provider that does not exist, and 'indistinguishable' is contradicted by the comparison that follows."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "therefore",
+          "moreover",
+          "hence"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whereas' contrasts the two providers: one has the stronger reputation, the other is cheaper. 'Therefore', 'moreover' and 'hence' cannot join the two clauses in this way, and the first and last would wrongly imply a result."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "unwary",
+          "unwieldy",
+          "unwise",
+          "unwilling"
+        ],
+        "answerIndex": 2,
+        "explanation": "Choosing on price alone would be 'unwise', meaning not sensible, as the following 'since' clause explains. 'Unwary', 'unwilling' and 'unwieldy' do not fit the meaning."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "nevertheless",
+          "incidentally",
+          "similarly",
+          "consequently"
+        ],
+        "answerIndex": 0,
+        "explanation": "The memo recommends the more expensive provider despite the limited budget, so a contrast marker is needed: 'nevertheless'. 'Consequently' would make the recommendation a result of the limited budget, 'similarly' a parallel, and 'incidentally' an aside."
+      }
+    ]
+  },
+  {
+    "id": "p6-472",
+    "documentType": "article",
+    "text": "Small Airports Struggle to Hold On to Routes\n\nRegional airports across the continent are losing services as airlines concentrate their fleets on busier hubs. The trend, which began before the pandemic, has [1] since 2022, with more than forty routes withdrawn in a single year. [2] The airport at Kelburn, which served half a million passengers a decade ago, now handles fewer than a third of that number.\n\nLocal authorities have responded with subsidies, but these are [3] controversial: opponents argue that public money should not be used to support commercial carriers. Airport managers point out, [4], that a single route can sustain hundreds of jobs in surrounding communities.\n\nFigures compiled by the Regional Transport Authority show that the number of scheduled routes serving airports with fewer than one million passengers fell from 212 to 171 between the end of 2022 and the end of 2023. The Authority has recommended that any subsidy be tied to at least three years of guaranteed service.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "accumulated",
+          "accelerated",
+          "accommodated",
+          "accentuated"
+        ],
+        "answerIndex": 1,
+        "explanation": "A trend that 'has accelerated since 2022' has speeded up, as 'more than forty routes withdrawn in a single year' shows. 'Accumulated' means built up gradually, and 'accentuated' and 'accommodated' require an object, which is missing here."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The consequences for the communities that depended on these airports were severe, and in some cases irreversible.",
+          "The consequences for the communities that depend on these airports have been exaggerated, and in some cases reversible.",
+          "The consequences for the communities that depend on these airports have been severe, and in some cases irreversible.",
+          "The consequences for the airlines that depend on these airports have been minor, and in some cases reversible."
+        ],
+        "answerIndex": 2,
+        "explanation": "Kelburn's passenger numbers have collapsed, which is evidence of 'severe' consequences for 'communities'. The airlines are the ones withdrawing services, so 'minor' consequences for them do not follow, 'exaggerated' is contradicted by the example, and the past tense does not fit the continuing situation that 'now handles' describes."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "hardly",
+          "heavily",
+          "highly",
+          "closely"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Highly controversial' is the fixed collocation. 'Hardly controversial' would contradict the opponents' objection that follows the colon, and 'heavily' and 'closely' do not combine with 'controversial'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "similarly",
+          "therefore",
+          "however",
+          "consequently"
+        ],
+        "answerIndex": 2,
+        "explanation": "The managers' point about jobs answers the opponents' argument, so 'however' marks the contrast. 'Therefore' and 'consequently' would present the point as a result of that argument, and 'similarly' would suggest the managers agree with the opponents."
+      }
+    ]
+  },
+  {
+    "id": "p6-473",
+    "documentType": "letter",
+    "text": "Dear Members,\n\nThe Board of the Calloway Credit Union is pleased to enclose the annual report and accounts for the year ended 30 June. Total deposits rose by 8 percent, [1] lending grew by only 3 percent, reflecting the cautious approach that the Board has adopted in a period of economic uncertainty.\n\n[2] The Board recommends a dividend of 1.5 percent, which will be paid in November subject to your approval at the annual meeting on 14 October. Members who are unable to attend are [3] to vote by post, using the form enclosed, which must reach the registered office by 7 October. The Board would like to [4] its thanks to the volunteers whose work has made these results possible, and to welcome the 640 members who joined during the year.\n\nYours sincerely,\nPeter Hollis\nChair",
+    "questions": [
+      {
+        "blank": 1,
         "category": "connector",
         "choices": [
           "therefore",
-          "accordingly",
-          "however",
-          "likewise"
-        ],
-        "answerIndex": 2,
-        "explanation": "The sentence contrasts straightforward with complex claims; 'however' marks the contrast, whereas the others do not."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "unless",
           "whereas",
-          "although",
-          "until"
+          "hence",
+          "moreover"
         ],
-        "answerIndex": 3,
-        "explanation": "'Until you have received our written approval' sets the time limit for the ban on repairs; 'unless' would need a different structure and the others do not fit."
-      }
-    ]
-  },
-  {
-    "id": "p6-435",
-    "documentType": "letter",
-    "text": "Dear Mr. Abernathy,\n\nI write further to your letter of 3 September concerning the noise generated by our night-time deliveries. Please accept my apologies that this has disturbed you and your neighbors. We have reviewed our schedule and concluded that deliveries to the loading bay can be [1] to the hours between 7 a.m. and 8 p.m. from the first of next month.\n\n[2] The change will, however, inevitably bring some additional vehicles onto the road during the day, which may be a [3] to residents who commute at those times. We would be grateful if you would [4] us know whether you notice any difficulty, so that we may adjust the arrangements if necessary.\n\nYours sincerely,\nCorinna Hale\nSite Manager",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "confined",
-          "conformed",
-          "confirmed",
-          "confided"
-        ],
-        "answerIndex": 0,
-        "explanation": "Deliveries can be 'confined to' certain hours, meaning limited; 'conformed' needs 'with', 'confirmed' means verified, and 'confided' means told in secret."
+        "answerIndex": 1,
+        "explanation": "'Whereas lending grew by only 3 percent' contrasts slower lending with the 8 percent rise in deposits. 'Therefore', 'moreover' and 'hence' would present lending as a result or an addition, which the figures do not support."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "We hope that this will aggravate the problem you have described, although we cannot promise that it will be removed entirely.",
-          "We hope that this will resolve the problem you have described, although we cannot promise that it will be removed entirely.",
-          "We hope that this will resolve the problem described by the council, although we cannot promise that it will be removed entirely.",
-          "We hoped that this would resolve the problem you described, although we could not promise that it would be removed entirely."
+          "Despite this caution, the union will remain profitable, with a surplus of £412,000 after tax for the year ahead.",
+          "Despite this caution, the union remained profitable, with a surplus of £412,000 after tax for the financial year.",
+          "Despite this caution, the union recorded a deficit of £412,000 after tax for the year, its first in a decade.",
+          "In contrast to this caution, rival lenders remained profitable, with a surplus of £412,000 after tax for the year."
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence begins 'The change will, however, inevitably bring', contrasting with a benefit; the first sentence expresses a hoped-for benefit. The others say the change will aggravate the problem, attribute it to the council, or use past tenses."
+        "explanation": "A dividend can be recommended only if the union made a profit in the year being reported, so the sentence must state a surplus. A deficit rules out a dividend, 'rival lenders' are not the union whose Board makes the recommendation, and 'will remain' looks forward when the accounts cover the year just ended."
       },
       {
         "blank": 3,
-        "category": "vocabulary",
+        "category": "grammar",
         "choices": [
-          "novelty",
-          "nomination",
-          "nuisance",
-          "notation"
-        ],
-        "answerIndex": 2,
-        "explanation": "A 'nuisance to residents' is an inconvenience; the other nouns have unrelated meanings."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "make",
-          "tell",
-          "inform",
-          "let"
+          "entitle",
+          "entitlement",
+          "entitling",
+          "entitled"
         ],
         "answerIndex": 3,
-        "explanation": "'Let us know' is the fixed expression requiring the base verb 'let'; 'make us know' is not idiomatic and 'tell us know' is ungrammatical."
-      }
-    ]
-  },
-  {
-    "id": "p6-436",
-    "documentType": "article",
-    "text": "Why Universities Are Rethinking Their Grading\n\nA growing number of universities are replacing traditional percentage marks with broader grade bands, arguing that fine distinctions give a false impression of precision. Critics, [1], object that employers rely on detailed marks to identify the strongest candidates.\n\n[2] A study of twelve institutions found that the difference between two students whose marks differed by a single point was statistically meaningless. Supporters also contend that narrower scales encourage students to [3] genuine understanding rather than the pursuit of marginal gains. Whether employers will [4] to the change remains uncertain, since many recruitment systems still filter applicants by a numerical threshold.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "connector",
-        "choices": [
-          "by contrast",
-          "in short",
-          "for instance",
-          "as a result"
-        ],
-        "answerIndex": 0,
-        "explanation": "'Critics, by contrast, object' sets the critics against the universities; 'in short', 'for instance' and 'as a result' do not mark opposition."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "The case against the reform rests largely on evidence that small differences in marks reflect ability rather than chance.",
-          "The case for the reform rests largely on evidence that small differences in marks reflect chance rather than ability.",
-          "The case for the reform rests largely on its popularity among students rather than evidence about marks.",
-          "The cause of the reform lies largely in evidence that small differences in marks are reported to employers."
-        ],
-        "answerIndex": 1,
-        "explanation": "The next sentence cites a study showing that a one-point difference was meaningless, which supports the case for the reform; only the first option announces that evidence. The others argue against the reform, rely on popularity, or confuse cause and case."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "patronize",
-          "publicize",
-          "prioritize",
-          "polarize"
-        ],
-        "answerIndex": 2,
-        "explanation": "Narrower scales encourage students to 'prioritize' understanding, meaning give it importance; 'patronize', 'publicize' and 'polarize' do not fit."
+        "explanation": "'Are entitled to vote' needs the past participle used as an adjective after 'are'; the other forms cannot follow 'are' before 'to vote'."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "adopt",
-          "adept",
-          "adjoin",
-          "adapt"
+          "extension",
+          "extend",
+          "extent",
+          "extensive"
+        ],
+        "answerIndex": 1,
+        "explanation": "After 'would like to' a base verb is needed, and 'extend its thanks' is the fixed collocation; 'extent', 'extension' and 'extensive' are a noun, a noun and an adjective."
+      }
+    ]
+  },
+  {
+    "id": "p6-474",
+    "documentType": "email",
+    "text": "To: Property Owners\nFrom: Anselm Reuter, Estate Manager\nSubject: Proposed changes to service charges\n\nThe estate committee has completed its annual review of the service charge, and I should like to explain the changes that it proposes. Insurance costs have risen by 22 percent, [1] the cost of grounds maintenance has fallen following the renegotiation of the contract in March. The net effect is a modest increase of 4 percent, which would raise the quarterly charge for a typical two-bedroom unit from £210 to about £218.\n\n[2] The committee wishes to establish a reserve fund for major repairs, [3] by a supplement of £15 a month from each owner. The proposal will be put to a vote at the annual meeting on 3 November; [4] a majority of owners approves it, the supplement will take effect in January. Owners unable to attend may appoint a proxy by returning the enclosed form to my office by 27 October.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "moreover",
+          "accordingly",
+          "hence",
+          "whereas"
         ],
         "answerIndex": 3,
-        "explanation": "Employers can 'adapt to' a change, meaning adjust; 'adopt' takes a direct object without 'to', 'adept' is an adjective, and 'adjoin' means be next to."
+        "explanation": "'Whereas the cost of grounds maintenance has fallen' contrasts the two movements in costs. 'Hence', 'moreover' and 'accordingly' express consequence or addition, and none can link two opposing trends."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The annual review also raised a separate question, namely how owners should be informed of the new charge.",
+          "The annual review also raised a separate question, namely whether the grounds contract should be renegotiated.",
+          "The annual review has already settled a separate question, namely how the estate should finance major repairs.",
+          "The annual review also raised a separate question, namely how the estate should fund major repairs in future."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence introduces a reserve fund for major repairs, which answers the question of how to fund such repairs in future. A question already 'settled' contradicts 'wishes to establish', and questions about informing owners or renegotiating the grounds contract (already renegotiated in March) do not lead into the fund."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "to finance",
+          "having financed",
+          "financing",
+          "financed"
+        ],
+        "answerIndex": 3,
+        "explanation": "The reserve fund is 'financed by a supplement', which requires the past participle in a passive reduced clause. 'Financing', 'to finance' and 'having financed' cannot be followed by 'by a supplement' with that meaning."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "albeit",
+          "as though",
+          "provided that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Provided that a majority of owners approves it' states the condition under which the supplement takes effect. 'As though' compares, 'whereas' contrasts and 'albeit' concedes, none of which expresses a condition."
       }
     ]
   }

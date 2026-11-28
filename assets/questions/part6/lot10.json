@@ -1,111 +1,551 @@
 [
   {
-    "id": "p6-437",
-    "documentType": "memo",
-    "text": "To: All Employees\nFrom: Marta Szymanski, Facilities Director\nSubject: Transition to hot-desking\n\nFrom 3 March, the third and fourth floors will operate on a hot-desking basis. Employees who work in the office fewer than three days a week will no longer be assigned a permanent desk and will instead reserve a workstation through the booking application. [1] Personal belongings must be stored in the lockers provided, since desks will be cleared nightly.\n\nThe change is intended to [2] the use of floor space, which on average is occupied at barely half its capacity. [3] some staff may initially find the arrangement unsettling, the experience of other companies suggests that satisfaction rises once teams adapt. Team leaders will [4] a rota to ensure that colleagues who collaborate closely are seated together on the days they attend.",
+    "id": "p6-475",
+    "documentType": "notice",
+    "text": "VISITOR INFORMATION – CARLTON CASTLE\n\nCarlton Castle will be closed to the public from 3 November until 28 February for essential conservation work on the east tower, which was damaged by last winter's storms. Updates on the progress of the work will be posted on the castle website each month. [1] The grounds, tearoom and gift shop will, however, remain open at the usual hours, and guided walks of the gardens will continue on weekends.\n\nHolders of annual passes will have their membership extended by a period [2] to the length of the closure. Groups that have booked tours during this period will be contacted individually, and may either rebook for a later date or [3] a full refund. The castle regrets any inconvenience, [4] it is confident that the work will secure the building for future generations. Normal opening hours will resume on 1 March.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The booking system will release unclaimed desks at nine each morning so that no one is left without a workstation.",
-          "The booking system will reserve unclaimed desks at nine each morning so that no one is allowed to take a workstation.",
-          "Permanent desks will be released at nine each morning so that the system can allocate them to new employees.",
-          "The lockers will be cleared at nine each morning so that unclaimed belongings are returned to employees."
+          "Visitors will therefore be able to enter the state rooms, the armory and the chapel for the duration of the work.",
+          "Visitors will therefore be unable to enter the state rooms, the tearoom or the chapel for the duration of the work.",
+          "Visitors will therefore be unable to enter the state rooms, the armory or the chapel for the duration of the work.",
+          "Contractors will therefore be unable to enter the state rooms, the armory or the chapel for the duration of the work."
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence says belongings must be stored in lockers because desks are cleared nightly, so the previous one should concern desk allocation. Only the first gives a coherent rule; the others reserve desks to nobody, release permanent desks, or clear lockers."
+        "answerIndex": 2,
+        "explanation": "The next sentence says the grounds, tearoom and gift shop will 'however' stay open, which contrasts with a restriction on the interior. Allowing entry to the state rooms contradicts the closure, listing the tearoom as inaccessible contradicts that same sentence, and 'Contractors' cannot be the ones barred when the notice informs the public."
       },
       {
         "blank": 2,
-        "category": "vocabulary",
+        "category": "grammar",
         "choices": [
-          "organize",
-          "optimize",
-          "overhaul",
-          "outsource"
+          "equivalence",
+          "equivalent",
+          "equivalently",
+          "equivalents"
         ],
         "answerIndex": 1,
-        "explanation": "To 'optimize' use of floor space is to make the best of it; 'organize', 'overhaul' and 'outsource' do not match the stated aim of reducing waste."
+        "explanation": "'A period equivalent to the length of the closure' needs an adjective that is followed by 'to'. 'Equivalence' and 'equivalents' are nouns and 'equivalently' is an adverb, so none of them can modify 'period' in this way."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "claim",
+          "exclaim",
+          "disclaim",
+          "acclaim"
+        ],
+        "answerIndex": 0,
+        "explanation": "Groups may rebook or 'claim' a full refund, meaning formally request what is owed to them. 'Acclaim' means to praise, 'exclaim' means to cry out, and 'disclaim' means to renounce, which is the opposite of requesting a refund."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "provided",
+          "inasmuch as",
+          "although",
+          "unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although it is confident that the work will secure the building' sets a positive conviction against the regret just expressed. 'Inasmuch as' would make the regret depend on the confidence, 'unless' states an exception, and 'provided' needs 'that' and expresses a condition."
+      }
+    ]
+  },
+  {
+    "id": "p6-476",
+    "documentType": "article",
+    "text": "Why Some Companies Are Abandoning Open-Plan Offices\n\nFor two decades, open-plan layouts were promoted as a way of encouraging collaboration and reducing property costs. [1] A growing body of research now suggests that the benefits were overstated. In a study of four hundred employees, researchers found that face-to-face interaction actually fell by about a third after a move to open-plan space, as staff retreated behind headphones to avoid distraction.\n\nSome firms have [2] to revise their strategy accordingly. Pemberton Partners recently converted half of its floor space into small rooms for concentrated work, [3] retaining shared areas for meetings in the other half. Its managing director says that productivity has improved, [4] she acknowledges that the evidence is anecdotal. The company intends to repeat the survey of its employees in March to obtain more reliable figures.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Proponents also claimed that open-plan offices would cost more to maintain than traditional layouts, reducing profits.",
+          "Critics assumed that physical proximity would naturally lead to conversation and to a rapid exchange of ideas.",
+          "Proponents assumed that physical proximity would naturally lead to distraction and to a rapid loss of concentration.",
+          "Proponents assumed that physical proximity would naturally lead to conversation and to a rapid exchange of ideas."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence says that 'the benefits were overstated', so the preceding one must state the expected benefits of the layout, namely conversation and exchange of ideas among those who promoted it. Expecting distraction, attributing the view to 'critics', or claiming higher costs contradicts the opening sentence about collaboration and reduced costs."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "begin",
+          "beginning",
+          "began",
+          "begun"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Have' requires a past participle, and 'have begun to revise' is the present perfect. 'Began' is a simple past form, 'begin' is a base form, and 'beginning' would need 'been' before it."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "Because",
-          "Unless",
-          "Although",
-          "Whereas"
+          "instead of",
+          "without",
+          "while",
+          "apart from"
         ],
         "answerIndex": 2,
-        "explanation": "'Although some staff may initially find the arrangement unsettling' concedes a drawback before the positive claim; the others do not fit."
+        "explanation": "'While retaining shared areas ... in the other half' contrasts the converted half with the half that keeps meeting space. 'Without' and 'instead of' deny that shared areas are kept, and 'apart from' does not make sense with 'retaining'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "although",
+          "so that",
+          "as if",
+          "unless"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Although she acknowledges that the evidence is anecdotal' concedes a limitation to her claim of improved productivity. 'Unless', 'so that' and 'as if' do not express concession and make no sense here."
+      }
+    ]
+  },
+  {
+    "id": "p6-477",
+    "documentType": "letter",
+    "text": "Dear Ms. Whitcombe,\n\nI write on behalf of the Marlowe Heritage Trust to thank you for your generous donation of £5,000 toward the restoration of the old market hall, which was built in 1874. Your contribution brings the total raised to £182,000, [1] means that we are now within sight of our target of £250,000.\n\n[2] Work on the roof is due to begin in April, and we hope that the hall will reopen to the public in the autumn of next year. Donors who contribute £1,000 or more will be invited to a private viewing; [3], their names will be recorded on a plaque in the entrance hall. We shall [4] you informed of progress through our quarterly newsletter, and you are welcome to visit the site at any time by arrangement with our office.\n\nYours sincerely,\nAlistair Penn\nDirector",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "that",
+          "what",
+          "where",
+          "which"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Which means that we are now within sight of our target' refers back to the whole preceding statement about the total raised. 'That' cannot follow a comma in this way, and 'what' and 'where' do not introduce a relative clause about that fact."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our own generosity will make it possible to move from planning to action sooner than you had dared to hope.",
+          "Your generosity would make it possible to move from planning to action sooner, provided that the target is reached.",
+          "Your generosity has made it possible to move from planning to action sooner than we had dared to hope.",
+          "Your generosity has made it harder to move from planning to action sooner than we had dared to hope."
+        ],
+        "answerIndex": 2,
+        "explanation": "The next sentence announces that 'Work on the roof is due to begin in April', which is the action made possible by the donations. A donor's generosity that made action 'harder' contradicts this, the trust's 'own generosity' reverses the donor and the trust, and a conditional 'would ... provided that the target is reached' conflicts with a firm start date."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "in contrast",
+          "in addition",
+          "otherwise",
+          "instead"
+        ],
+        "answerIndex": 1,
+        "explanation": "The plaque is a further benefit on top of the invitation, which 'in addition' conveys. 'Otherwise', 'instead' and 'in contrast' would suggest an alternative or an opposition."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "draw on",
-          "draw out",
-          "draw back",
-          "draw up"
+          "keep",
+          "stay",
+          "hold",
+          "leave"
         ],
-        "answerIndex": 3,
-        "explanation": "Team leaders 'draw up' a rota, meaning prepare it; 'draw on' means use, 'draw out' means extend, and 'draw back' means retreat."
+        "answerIndex": 0,
+        "explanation": "'Keep you informed' is the fixed collocation meaning to supply regular news. 'Stay', 'leave' and 'hold' cannot be followed by 'you informed' in this sense."
       }
     ]
   },
   {
-    "id": "p6-438",
-    "documentType": "notice",
-    "text": "URGENT PRODUCT RECALL\nBrightwell Home Appliances\n\nBrightwell has identified a fault in the thermostat of its Model T-40 electric kettle, manufactured between January and June last year. [1] In rare cases, the fault may prevent the kettle from switching itself off after the water has boiled, which could result in overheating.\n\nOwners are advised to stop using the kettle immediately and to [2] the product to the retailer from which it was bought, or to contact our customer service team. A replacement or full refund will be provided [3] proof of purchase. [4] no injuries have been reported to date, we are taking this action as a precaution.",
+    "id": "p6-478",
+    "documentType": "advertisement",
+    "text": "Thornbury Business Centre – Serviced Offices\n\nFor companies in need of flexible space without the burden of a long lease, Thornbury offers fully furnished offices on terms of one month or longer. Rates start at £420 per desk per month and include utilities, high-speed internet and use of the reception service, [1] tenants avoid the hidden costs that so often accompany conventional rentals. Every office has a lockable storage cabinet and 24-hour access, and a deposit equal to one month's rent is payable on signing. Parking is available for an additional £35 a month.\n\n[2] Meeting rooms, which seat from four to twenty people, can be booked by the hour through our online portal. [3] a tenant's needs change, the office can be exchanged for a larger or smaller one on thirty days' notice, [4] penalty. Viewings are available on weekdays between 9 a.m. and 5 p.m.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "provided",
+          "lest",
+          "so that",
+          "although"
+        ],
+        "answerIndex": 2,
+        "explanation": "'So that tenants avoid the hidden costs' states the purpose of all-inclusive rates. 'Provided' would make the avoidance a condition, 'although' would add a contrast that does not exist, and 'lest' needs a negative idea ('lest they incur')."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The centre is designed for small start-ups, although established firms with a handful of staff are not accepted.",
+          "The centre was designed for small start-ups and established firms with a handful of staff, but it has since closed.",
+          "The centre is designed for small start-ups and for established firms with only a handful of staff alike.",
+          "The centre is designed for large corporations and established firms with several hundred staff alike."
+        ],
+        "answerIndex": 2,
+        "explanation": "The next sentence describes meeting rooms for 'four to twenty people', consistent with small tenants, and the opening paragraph offers space to 'companies'. Targeting large corporations, refusing established firms, or saying the centre 'has since closed' contradicts the advertisement."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Whenever",
+          "Unless",
+          "Albeit"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Whenever a tenant's needs change' states the circumstances in which an exchange is possible. 'Whereas' and 'albeit' express contrast or concession, and 'unless' would reverse the logic of the sentence."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "against",
+          "beyond",
+          "within",
+          "without"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Without penalty' means that no charge applies to the exchange. 'Within', 'beyond' and 'against' would change the meaning or are not used with 'penalty' in this way."
+      }
+    ]
+  },
+  {
+    "id": "p6-479",
+    "documentType": "memo",
+    "text": "To: Heads of Department\nFrom: Rosalind Achebe, Registrar\nSubject: Examination invigilation\n\nThe summer examination period will run from 2 to 20 June, and invigilators are needed for each session. Heads of department are asked to nominate suitable staff by 15 April. [1] Nominees must complete a short briefing on the regulations, which will be held on 20 May and again on 22 May.\n\nInvigilators will be [2] for their time at the standard hourly rate, and a lunch will be provided on days when sessions run past noon. Morning sessions begin at 9:30 a.m. and afternoon sessions at 2:00 p.m.; invigilators are asked to report to the examination hall thirty minutes beforehand. [3] a candidate is suspected of malpractice, the invigilator should confirm the matter with the chief invigilator before taking any action. [4] the importance of fairness, I should be grateful for your cooperation in ensuring that all sessions are properly staffed.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The affected units can be recognized by a batch number beginning with the letters BK, printed on the underside of the base.",
-          "The affected units can be recognized by a batch number beginning with the letters BK, printed on the packaging of the replacement.",
-          "The affected units were recognized by a batch number beginning with the letters BK, printed on the underside of the base.",
-          "The unaffected units can be recognized by a batch number beginning with the letters BK, printed on the underside of the base."
+          "Successful nominees will be informed of their session allocations by the end of June.",
+          "Successful nominees will be informed of their session allocations by the end of March.",
+          "Unsuccessful nominees will be informed of their session allocations by the end of April.",
+          "Successful nominees will be informed of their session allocations by the end of April."
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence begins 'In rare cases, the fault may prevent', continuing the description of the affected product; the first option tells owners how to identify it. The others place the number on replacement packaging, use a past tense, or refer to unaffected units."
+        "answerIndex": 3,
+        "explanation": "Nominations close on 15 April, so allocations can only be announced after that date and before the examinations start on 2 June. 'By the end of March' precedes the deadline, 'by the end of June' comes after the first sessions, and unsuccessful nominees receive no allocations."
       },
       {
         "blank": 2,
         "category": "vocabulary",
         "choices": [
-          "retain",
-          "return",
-          "retreat",
-          "retire"
+          "compensated",
+          "compromised",
+          "complimented",
+          "complemented"
+        ],
+        "answerIndex": 0,
+        "explanation": "Invigilators are 'compensated for their time at the standard hourly rate', meaning they are paid; 'compromised', 'complimented' and 'complemented' do not describe payment."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Where",
+          "Wherein",
+          "Whereas",
+          "Whereby"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Where a candidate is suspected of malpractice' introduces the specific situation in which the rule applies; 'whereas' expresses contrast, and 'wherein' and 'whereby' cannot introduce a conditional clause of this kind."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "Given that",
+          "Given",
+          "Gave",
+          "Giving"
         ],
         "answerIndex": 1,
-        "explanation": "Owners should 'return' the product to the retailer; 'retain' means keep, 'retreat' means withdraw, and 'retire' means stop working."
+        "explanation": "'Given the importance of fairness' uses 'given' as a preposition meaning considering, followed by a noun phrase; 'given that' needs a full clause, and 'giving' and 'gave' do not fit."
+      }
+    ]
+  },
+  {
+    "id": "p6-480",
+    "documentType": "online_chat",
+    "text": "Priya Menon [14:02]: I have been through the draft supplier agreement, and clause 12 worries me.\nCallum Rhodes [14:04]: Which part? [1]\nPriya Menon [14:05]: The provision that lets the supplier raise prices at any time without notice. [2], we would have no way of budgeting beyond the next quarter. Our current contract with Kestrel Foods fixes prices for twelve months, so this would be a considerable step backwards.\nCallum Rhodes [14:07]: Agreed. I will propose that any increase be [3] by ninety days' written notice and capped at five percent a year.\nPriya Menon [14:08]: That would be acceptable. [4] they refuse, we should escalate to the director, Ms. Ferreira, before the signing date of 20 March.\nCallum Rhodes [14:09]: Understood. I will send the amended wording to their legal team by Friday and copy you in.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Is it the liability cap, or the provision on delivery penalties that the supplier added last week?",
+          "Is it the liability cap, or the provision on termination rights that the supplier added last week?",
+          "Is it the liability cap, or the provision on confidentiality that the supplier added last week?",
+          "Is it the liability cap, or the provision on price revisions that the supplier added last week?"
+        ],
+        "answerIndex": 3,
+        "explanation": "Priya answers 'The provision that lets the supplier raise prices at any time', so Callum's question must offer a provision on prices as one alternative; only the question about 'price revisions' can be answered that way. Delivery penalties, termination rights and confidentiality are not what she describes."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Nevertheless",
+          "Consequently",
+          "Alternatively",
+          "Likewise"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Consequently' introduces the result of letting the supplier raise prices without notice: no way of budgeting beyond the next quarter. 'Nevertheless' and 'alternatively' contradict that logic, and 'likewise' signals similarity rather than consequence."
       },
       {
         "blank": 3,
         "category": "grammar",
         "choices": [
-          "in pursuit of",
-          "in excess of",
-          "on presentation of",
-          "on behalf of"
+          "precedes",
+          "preceding",
+          "precede",
+          "preceded"
         ],
-        "answerIndex": 2,
-        "explanation": "A refund is given 'on presentation of' proof of purchase, meaning when it is shown; 'in pursuit of' means chasing, 'in excess of' means above, and 'on behalf of' means representing."
+        "answerIndex": 3,
+        "explanation": "'Any increase be preceded by ninety days' written notice' is the passive subjunctive after 'propose that', parallel to 'capped at five percent'. 'Preceding', 'precedes' and 'precede' do not complete the passive after 'be'."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "Because",
-          "Unless",
-          "Whenever",
-          "Although"
+          "Insofar",
+          "Albeit",
+          "Whereas",
+          "Should"
         ],
         "answerIndex": 3,
-        "explanation": "'Although no injuries have been reported' concedes the absence of harm before stating the precautionary action; the others do not fit."
+        "explanation": "'Should they refuse' is an inverted conditional meaning 'if they refuse'. 'Whereas' and 'albeit' cannot introduce a clause with that meaning, and 'insofar' would need 'as'."
+      }
+    ]
+  },
+  {
+    "id": "p6-481",
+    "documentType": "text_message",
+    "text": "Dear Mr. Lindqvist, this is a reminder from Harlow Dental Practice that your appointment is scheduled for Tuesday 9 June at 10.15 a.m. at our Bridge Street clinic. [1] For this reason, please arrive ten minutes early so that she can read your notes and [2] your records. If you are unable to attend, we should be grateful if you would call us at least twenty-four hours in advance; [3] a fee of £30 will be charged. You may [4] your appointment online using the link below or by replying to this message with the word YES. Please bring your insurance card and a list of any medication you are currently taking, and note that free parking is available behind the clinic for the duration of your visit. We look forward to seeing you. Thank you.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your usual hygienist, Mr. Dunmore, is on leave, so you will see Ms. Carvalho, who is new to the practice.",
+          "Your usual hygienist, Ms. Carvalho, is on leave, so you will see Mr. Dunmore, who is new to the practice.",
+          "Your usual hygienist, Mr. Dunmore, was on leave last month, so you saw Ms. Carvalho, who is new to the practice.",
+          "Your usual hygienist, Mr. Dunmore, is on leave, so you will see Ms. Carvalho, who has treated you for years."
+        ],
+        "answerIndex": 0,
+        "explanation": "'For this reason ... so that she can read your notes' needs a new practitioner, Ms. Carvalho, who is unfamiliar with the patient. A hygienist who has treated him for years would not need to read his notes, a male replacement conflicts with 'she', and the past-tense version describes a visit that has already taken place."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "to update",
+          "update",
+          "updating",
+          "updated"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Can read your notes and update your records' requires the bare infinitive after 'can', parallel to 'read'. The -ing form, the past participle and 'to update' break that parallel structure."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "otherwise",
+          "consequently",
+          "accordingly",
+          "moreover"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Otherwise a fee of £30 will be charged' states the consequence of not calling in advance. 'Consequently' and 'accordingly' would present the fee as a result of calling, and 'moreover' adds an unrelated point."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "confirm",
+          "confine",
+          "conform",
+          "confront"
+        ],
+        "answerIndex": 0,
+        "explanation": "A patient may 'confirm' an appointment online using the link, which suits a reminder message. 'Conform', 'confine' and 'confront' do not take 'your appointment' as an object in a meaningful way."
+      }
+    ]
+  },
+  {
+    "id": "p6-482",
+    "documentType": "article",
+    "text": "Regulators Weigh Limits on Executive Pay\n\nA parliamentary committee has recommended that listed companies be required to disclose the ratio between the pay of their chief executive and that of the median employee. [1] The measure, which has the support of several large pension funds, is intended to [2] public confidence in the way that remuneration is set. If adopted, the first ratios would be published in annual reports from 2028. A consultation on the proposal will run until the end of March.\n\nBusiness groups have objected that the ratio would be a misleading measure, [3] it takes no account of differences in the size and complexity of firms. Some analysts, however, argue that the figure would be useful precisely because it is simple. [4] a company's ratio is far higher than those of its peers, shareholders would be entitled to ask why.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The committee noted that average chief executive pay has risen broadly in line with median earnings over the past decade.",
+          "The committee noted that median earnings have risen far faster than average chief executive pay over the past decade.",
+          "The committee noted that average chief executive pay has fallen far faster than median earnings over the past decade.",
+          "The committee noted that average chief executive pay has risen far faster than median earnings across the past decade."
+        ],
+        "answerIndex": 3,
+        "explanation": "The measure is meant to 'restore' public confidence, which implies a loss of confidence caused by executive pay rising much faster than ordinary earnings. If pay has 'fallen', trailed median earnings or moved 'broadly in line', there would be no reason to rebuild confidence."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "resolve",
+          "restrict",
+          "restrain",
+          "restore"
+        ],
+        "answerIndex": 3,
+        "explanation": "The measure is intended to 'restore' public confidence, meaning to rebuild it. 'Restrain' and 'restrict' mean to hold back, and 'resolve' does not take 'confidence' as an object."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "albeit",
+          "in that",
+          "unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "'In that it takes no account of differences' gives the respect in which the ratio is misleading. 'Unless' and 'whereas' do not state a reason, and 'albeit' must be followed by a phrase or participle, not a full clause."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Wherein",
+          "Where",
+          "Whereby",
+          "Whereas"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Where a company's ratio is far higher than those of its peers' introduces the specific case in which shareholders could ask questions. 'Whereas' contrasts two facts, and 'Whereby' and 'Wherein' do not introduce a condition."
+      }
+    ]
+  },
+  {
+    "id": "p6-483",
+    "documentType": "letter",
+    "text": "Dear Sir or Madam,\n\nI am writing to complain about the quality of the refurbishment carried out at my premises on Dunmore Street between 3 and 21 March, under contract reference DS/2291. [1] When I inspected the work last week, I found that the new flooring in the reception area had begun to lift, and that several of the electrical sockets were not securely fixed.\n\n[2] I have already informed your site manager of these defects, I have received no reply. I am therefore writing to ask that you [3] these defects at your own expense within fourteen days. [4] I do not receive a satisfactory response by that date, I shall instruct another contractor and seek to recover the cost from you. I enclose photographs of each defect, together with a copy of the contract.\n\nYours faithfully,\nDesmond Achterberg",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The work was completed on schedule, but it falls short of the standard specified in the contract.",
+          "The work was completed on schedule, but it exceeded the budget specified in the contract.",
+          "The work is still in progress, and it falls well short of the standard specified in the contract.",
+          "The work was completed ahead of schedule, and it matches the standard specified in the contract."
+        ],
+        "answerIndex": 0,
+        "explanation": "The letter is a complaint about quality, and the next sentence reports defects found on inspection, so the preceding sentence must say the work does not reach the contractual standard. Work 'still in progress' contradicts the dates given, work that 'matches the standard' contradicts the complaint, and a budget overrun says nothing about the defects that follow."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Although",
+          "Since",
+          "Whenever",
+          "Unless"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Although I have already informed your site manager' concedes the contact before noting the absence of a reply. 'Since' would make the reply a result of the notice, and 'unless' and 'whenever' do not fit."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "rectify",
+          "rationalize",
+          "reimburse",
+          "reciprocate"
+        ],
+        "answerIndex": 0,
+        "explanation": "To 'rectify these defects' means to put them right at the contractor's cost. 'Reciprocate' and 'rationalize' do not take defects as an object, and 'reimburse' is used for money, not faults."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "By the time that",
+          "In the event that",
+          "On the grounds that",
+          "In so far as"
+        ],
+        "answerIndex": 1,
+        "explanation": "'In the event that I do not receive a satisfactory response' introduces a possible situation and its consequence. 'On the grounds that' gives a reason, 'in so far as' limits an extent, and 'by the time that' refers to a time, none of which fits."
+      }
+    ]
+  },
+  {
+    "id": "p6-484",
+    "documentType": "memo",
+    "text": "To: Site Supervisors\nFrom: Hadley Finch, Construction Director\nSubject: Weather contingency\n\nThe forecast for the coming fortnight predicts heavy rain, and work on the Brinton Road project is likely to be disrupted. [1] Supervisors should therefore review the schedule for external tasks, in particular the pouring of concrete, which cannot proceed in wet conditions.\n\nWhere work has to be suspended, the supervisor must [2] the delay in the site diary, together with the reason and the time lost. The client may be entitled to an extension of the completion date, but only [3] each delay is recorded on the day it occurs. [4] the programme is already tight, I would ask you to identify tasks that can be carried out under cover so that idle time is kept to a minimum.\n\nA summary of lost days should reach my office by noon every Friday.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Disruption of this kind is costly, and the Brinton Road contract carries a penalty of £2,000 for each day of early completion.",
+          "Disruption of this kind is costly, and the Brinton Road contract carries a penalty of £2,000 for each day of overrun.",
+          "Disruption of this kind is costly, and the Brinton Road contract carries a bonus of £2,000 for each day of overrun.",
+          "Disruption of this kind was costly, and the Eastfield contract carried a penalty of £2,000 for each day of overrun."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence draws a conclusion with 'therefore', so the blank must explain why delay matters for the current project: a penalty for overrun on the Brinton Road contract. A 'bonus' for overrun and a penalty for 'early completion' are illogical, and the 'Eastfield' contract in the past tense concerns a different project."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "recover",
+          "retain",
+          "recount",
+          "record"
+        ],
+        "answerIndex": 3,
+        "explanation": "A supervisor must 'record' the delay in the site diary, in line with the later reference to each delay being 'recorded'. 'Recount' means narrate, 'retain' means keep and 'recover' means regain, none of which describes writing an entry."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as though",
+          "even though",
+          "provided that",
+          "whereas"
+        ],
+        "answerIndex": 2,
+        "explanation": "The client may receive an extension 'only provided that' each delay is recorded promptly, which sets a condition. 'Even though', 'whereas' and 'as though' cannot follow 'only' to introduce a requirement."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Given that",
+          "Although",
+          "Unless",
+          "Albeit"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Given that the programme is already tight' supplies the reason for asking supervisors to find tasks that can be done under cover. 'Unless' sets a condition that does not fit, 'albeit' cannot open a full clause, and 'although' would wrongly present the tight programme as a concession."
       }
     ]
   }

@@ -43,7 +43,7 @@ Validate with `dart run tool/validate_questions.dart`.
 
 Target: **C1**, the real TOEIC level. Formal, professional texts (e-mails, notices, articles, reports, internal policies). Never use a B1 connector as the answer (`so`, `but`, `or`, `because`). Use instead *however*, *nevertheless*, *whereas*, *in the event of*, *as a result*, *provided that*.
 
-**Text structure**: 120 to 180 words, 4 blanks. At least one blank must be a sentence insertion. Spread the others across vocabulary, grammar, and connector or word form.
+**Text structure**: 135 to 190 words (never under 120), 4 blanks. At least one blank must be a sentence insertion. Spread the others across vocabulary, grammar, and connector or word form.
 
 **Sentence insertion**:
 1. The four sentences have the same length within ±20%, the same register and the same tone.
@@ -58,7 +58,7 @@ Target: **C1**, the real TOEIC level. Formal, professional texts (e-mails, notic
 
 **Length bias**: within each lot, the correct answer is never the only longest or the only shortest. Spread A, B, C, D at about 25% each.
 
-**Explanation** (English): quote the sentence or word in the text that justifies the answer, and say why the others fail.
+**Explanation** (English): quote the sentence or word in the text that justifies the answer, and say why the others fail. **Never mention the position, order or letter of a choice** ("first option", "option B", "the last sentence"): choices are shuffled at draw time.
 
 **Category**: `grammar`, `vocabulary`, `connector` or `sentence_insertion`.
 

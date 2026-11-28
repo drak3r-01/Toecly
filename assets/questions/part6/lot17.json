@@ -1,166 +1,276 @@
 [
   {
-    "id": "p6-458",
+    "id": "p6-644",
     "documentType": "article",
-    "text": "Hospitals Test Artificial Intelligence in Radiology\n\nA consortium of eleven hospitals has begun a two-year trial of software that analyses chest X-rays and flags those most likely to indicate disease. Radiologists would continue to examine every image, [1] the program is intended to help them prioritize urgent cases.\n\n[2] Early results are encouraging: in a pilot at one hospital, patients whose scans were flagged as urgent received a report on average six hours sooner. Some clinicians, [3], remain wary. They worry that over-reliance on the software may erode the skills of junior doctors, and that errors in the underlying data might go [4] for years.",
+    "text": "Brindle Systems Unveils Compact Smart Meter\n\nBrindle Systems, a Manchester-based maker of energy equipment, yesterday launched the Aura 3, a smart meter that it says can [1] household electricity use in real time without a separate display unit. The device, which goes on sale in March, transmits data to a smartphone application over an encrypted connection.\n\nAnalysts had expected the product to cost more than £80. [2], the company has priced it at £59, a decision that chief executive Hana Petrova attributed to lower manufacturing costs. [3] Evidence of this broader appeal is already apparent: two regional suppliers are reported to be negotiating bulk orders.\n\nConsumer groups have welcomed the price but warned that the meter, [4] to work only with newer smartphones, may exclude some older users.",
     "questions": [
       {
         "blank": 1,
-        "category": "connector",
+        "category": "vocabulary",
         "choices": [
-          "although",
-          "because",
-          "unless",
-          "so"
+          "conserve",
+          "monitor",
+          "ration",
+          "curb"
         ],
-        "answerIndex": 0,
-        "explanation": "'Although' concedes that radiologists still examine every image, yet the program prioritizes urgent cases; the others do not fit that logic."
+        "answerIndex": 1,
+        "explanation": "A meter that works 'in real time without a separate display unit' measures and tracks use, so 'monitor' fits. 'curb', 'ration' and 'conserve' describe actively reducing consumption, which a meter does not do by itself."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
+        "category": "connector",
         "choices": [
-          "The technology is intended to replace specialists, and to direct attention away from the images that most need it.",
-          "The technology is not intended to replace specialists, but to direct their attention to the images that most need it.",
-          "The technology was not intended to replace specialists, but to direct their attention to the images that needed it.",
-          "The specialists are not intended to replace the technology, but to direct its attention to the images that most need them."
+          "Likewise",
+          "Moreover",
+          "Instead",
+          "Hence"
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence reports early results about faster reports for urgent cases, which supports a prioritizing role; only the first option introduces that role coherently."
+        "answerIndex": 2,
+        "explanation": "Analysts expected a price above £80, but the company 'has priced it at £59': 'Instead' marks the replacement of the expected outcome. 'Likewise' and 'Moreover' add or compare, and 'Hence' would make the low price a result of the expectation."
       },
       {
         "blank": 3,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "therefore",
-          "moreover",
-          "however",
-          "similarly"
+          "The lower price is expected to widen the product's appeal beyond early adopters of home technology.",
+          "The lower price is likely to reduce the company's profit margin on each unit sold in the first year.",
+          "The lower price is expected to attract criticism from rival makers whose devices sell at a premium.",
+          "The higher price is expected to limit the product's appeal to early adopters of home technology."
         ],
-        "answerIndex": 2,
-        "explanation": "The clinicians' wariness contrasts with the encouraging results; 'however' marks that contrast."
+        "answerIndex": 0,
+        "explanation": "'this broader appeal' needs an antecedent about wider appeal, which only the correct sentence gives, and the bulk orders are the evidence. The 'higher price' contradicts the £59 figure and speaks of limited appeal, while the sentences about rival criticism and profit margins never mention appeal."
       },
       {
         "blank": 4,
-        "category": "vocabulary",
+        "category": "grammar",
         "choices": [
-          "undecided",
-          "undefined",
-          "unpaid",
-          "undetected"
+          "having designed",
+          "designing",
+          "designed",
+          "to design"
         ],
-        "answerIndex": 3,
-        "explanation": "Errors that 'go undetected' are not noticed; the others do not fit."
+        "answerIndex": 2,
+        "explanation": "'the meter, designed to work only with newer smartphones' is a reduced passive clause: the meter is designed by the company. 'designing' and 'having designed' are active, and 'to design' cannot follow the noun in this way."
       }
     ]
   },
   {
-    "id": "p6-459",
-    "documentType": "web_page",
-    "text": "Fernhill Leisure Centre – Membership Terms\n\nMembership is offered on a twelve-month basis, and fees are payable monthly by direct debit. [1] Members who wish to cancel must give one calendar month's notice in writing; otherwise, the agreement will [2] automatically for a further twelve months.\n\nMembers may freeze their accounts for up to three months, [3] they provide evidence of illness, injury or extended travel. The centre reserves the right to vary its timetable of classes, [4] it will give at least seven days' notice of any change that affects regular sessions.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "The contract renews automatically at the end of each term unless cancellation has been confirmed in accordance with the procedure below.",
-          "The contract expires automatically at the end of each term unless cancellation has been confirmed in accordance with the procedure above.",
-          "The contract renewed automatically at the end of each term, whether or not cancellation had been confirmed.",
-          "The member renews automatically at the end of each term unless the centre has confirmed a cancellation fee."
-        ],
-        "answerIndex": 0,
-        "explanation": "The next sentence explains how to cancel and what happens otherwise, so the previous one should state the renewal rule; only the first is coherent. The others contradict the renewal, use a past tense, or confuse member and contract."
-      },
-      {
-        "blank": 2,
-        "category": "vocabulary",
-        "choices": [
-          "renovate",
-          "renew",
-          "remain",
-          "rewind"
-        ],
-        "answerIndex": 1,
-        "explanation": "An agreement 'renews' itself automatically; 'renovate' means refurbish, 'remain' needs a complement, and 'rewind' means wind back."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "as though",
-          "even if",
-          "provided that",
-          "so that"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Provided that they provide evidence' sets the condition; the others misstate it."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "because",
-          "unless",
-          "so",
-          "although"
-        ],
-        "answerIndex": 3,
-        "explanation": "'Although it reserves the right to vary the timetable, it will give notice' concedes the right and softens it; the others do not fit."
-      }
-    ]
-  },
-  {
-    "id": "p6-460",
-    "documentType": "email",
-    "text": "Subject: Request for a revised quotation\n\nDear Mr. Haddad,\n\nThank you for your quotation of 4 February for the supply and installation of the new security system at our Norwich warehouse. We have reviewed it carefully and consider that it compares [1] with the other proposals we have received, although the price is higher.\n\n[2] Before we proceed, we would ask you to clarify two points. First, the quotation does not state whether the cost of maintenance is included in the stated figure. Second, [3] the delivery date you suggest falls within our busiest period, we should prefer installation to take place in March. We should be grateful if you could revise your proposal [4].",
+    "id": "p6-645",
+    "documentType": "memo",
+    "text": "To: Export Documentation Team\nFrom: Henrik Aalto, Customs Compliance Manager\nSubject: Revised procedure for certificates of origin\n\nEffective 1 February, every export consignment bound for the Mercosur region must be accompanied by a certificate of origin [1] by the Chamber of Commerce. [2] As a result, the company incurred storage charges of more than €6,000 and strained relations with two long-standing customers.\n\nTo avoid a repetition, each declaration will be reviewed by a second team member before it is submitted. [3], no declaration may be filed without a checklist signed by both reviewers. Any discrepancy must be [4] to the compliance office within 24 hours.\n\nDetails of the revised checklist are attached. A training session for all declaration clerks will be held in the main conference room on 20 January; attendance is compulsory.",
     "questions": [
       {
         "blank": 1,
         "category": "grammar",
         "choices": [
-          "favorably",
-          "favorite",
-          "favored",
-          "favor"
+          "to stamp",
+          "stamped",
+          "stamps",
+          "stamping"
         ],
-        "answerIndex": 0,
-        "explanation": "An adverb is needed after 'compares': 'compares favorably with' means is as good as or better than."
+        "answerIndex": 1,
+        "explanation": "The past participle 'stamped' forms a reduced passive clause: the certificate is stamped by the Chamber of Commerce. 'stamping' and 'to stamp' are active, and 'stamps' cannot follow the noun phrase."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Your proposal is, in most respects, the one that least meets our requirements, and we would like to progress it.",
-          "Your proposal is, in most respects, the one that best meets our requirements, and we would like to progress it.",
-          "Your proposals are, in most respects, those that best meet our requirements, and we would like to cancel them.",
-          "Your proposal was, in most respects, the one that best met our requirements, and we wished to progress it."
+          "Several shipments cleared customs at the port of Santos within a day thanks to their prior stamping.",
+          "Several shipments were released at the port of Santos last quarter despite the absence of the required stamps.",
+          "Several shipments will be held at the port of Santos next quarter unless stamps are supplied.",
+          "Several shipments were held up at the port of Santos last quarter because of the missing stamps."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence says 'Before we proceed', so the previous one should signal intention to proceed; only the first is coherent. The others say 'least meets', cancel the proposals, or use past tenses."
+        "answerIndex": 3,
+        "explanation": "'As a result, the company incurred storage charges' needs a past event that caused delay, namely the shipments 'held ... because of missing' stamps. 'released ... despite' and 'cleared customs ... within a day' cause no delay, and 'will be held ... next quarter' is future, so 'incurred' could not follow it."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "unless",
-          "whereas",
-          "since",
-          "albeit"
+          "Moreover",
+          "Instead",
+          "Otherwise",
+          "Nevertheless"
         ],
-        "answerIndex": 2,
-        "explanation": "'Since the delivery date falls within our busiest period' gives the reason for preferring March; 'unless' and 'whereas' do not."
+        "answerIndex": 0,
+        "explanation": "The sentence adds a further control to the review by a colleague, so 'Moreover' is correct. 'Nevertheless' and 'Instead' signal contrast or replacement, and 'Otherwise' means 'if not', which no condition in the memo supports."
       },
       {
         "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "advanced",
+          "upgraded",
+          "escalated",
+          "relegated"
+        ],
+        "answerIndex": 2,
+        "explanation": "'escalate' is the usual verb for referring a problem to a higher authority, as in 'escalated to the compliance office'. 'relegated' implies demotion, and 'advanced' and 'upgraded' do not collocate with 'discrepancy' in this sense."
+      }
+    ]
+  },
+  {
+    "id": "p6-646",
+    "documentType": "job_ad",
+    "text": "Sustainability Coordinator – Orrin & Vale Architects, Leeds\n\nOrrin & Vale Architects, a design practice with 180 employees, has committed [1] net-zero operational emissions by 2030 and is seeking a Sustainability Coordinator to lead the programme. The successful candidate will report to the Managing Partner and work closely with the facilities, procurement and human resources teams. Responsibilities include compiling the annual carbon report, advising project teams on low-carbon materials and running staff engagement campaigns.\n\nApplicants must hold a degree in environmental science. A professional qualification in energy management is not essential, [2] candidates demonstrate at least three years of experience in a corporate setting. Salary will be [3] with experience, and benefits include a generous pension contribution and flexible working arrangements.\n\nApplications, comprising a CV and a covering letter, should be sent to careers@orrinvale.example by 30 January. [4]",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "to achieving",
+          "achieving",
+          "for achieving",
+          "on achieving"
+        ],
+        "answerIndex": 0,
+        "explanation": "'commit to' is followed by a gerund, so 'has committed to achieving' is correct. 'achieving' alone lacks the preposition, and 'for achieving' and 'on achieving' use a preposition that 'commit' does not take."
+      },
+      {
+        "blank": 2,
         "category": "connector",
         "choices": [
-          "nevertheless",
-          "otherwise",
-          "likewise",
-          "accordingly"
+          "unless",
+          "so that",
+          "provided that",
+          "in case"
+        ],
+        "answerIndex": 2,
+        "explanation": "'provided that' sets the condition under which the qualification is waived: three years of experience. 'in case' and 'so that' express precaution and purpose, and 'unless' would reverse the meaning."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "proportionate",
+          "comparable",
+          "commensurate",
+          "consistent"
+        ],
+        "answerIndex": 2,
+        "explanation": "'commensurate with experience' is the standard phrase in job advertisements. 'comparable' and 'consistent' do not describe how a salary is set, and 'proportionate' is normally followed by 'to'."
+      },
+      {
+        "blank": 4,
+        "category": "sentence_insertion",
+        "choices": [
+          "Shortlisted candidates were notified by 6 February and interviewed in Leeds during the following week.",
+          "Shortlisted candidates will be notified by 6 February and interviewed in Leeds during the following week.",
+          "Shortlisted candidates will be notified by 6 February and interviewed in Leeds during the previous week.",
+          "Shortlisted candidates will be notified by 20 January and interviewed in Leeds during the following week."
+        ],
+        "answerIndex": 1,
+        "explanation": "Applications close on '30 January', so notification on 6 February followed by interviews 'during the following week' respects the sequence. 'by 20 January' falls before the deadline, 'were notified' uses the past tense for a future process, and interviews 'during the previous week' would come before the candidates are notified."
+      }
+    ]
+  },
+  {
+    "id": "p6-647",
+    "documentType": "web_page",
+    "text": "Preparing for Your Annual Audit – Kestrel & Moore LLP\n\nAn audit is far more than a check of figures; it is an independent examination that enables us to [1] whether your financial statements give a true and fair view of your company's position. [2] Our teams therefore begin each engagement by reviewing the controls that govern how transactions are recorded.\n\nFieldwork typically starts six weeks after the year-end and lasts two to three weeks; [3], it may take considerably longer where records are incomplete. To avoid delays, please ensure that bank statements, loan agreements and supplier ledgers are available on the first day. [4] significant discrepancies come to light, we will inform your finance director without delay.\n\nThe draft report will be issued within ten working days of the end of fieldwork, and management will then have a further ten working days to comment before it is finalized.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "determine",
+          "defend",
+          "detect",
+          "derive"
+        ],
+        "answerIndex": 0,
+        "explanation": "'determine whether' introduces the judgement the auditor must reach about the statements. 'detect', 'derive' and 'defend' cannot take a 'whether' clause expressing an assessment."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The reliability of any financial statement is guaranteed by the auditor's signature on the final report.",
+          "The reliability of any financial statement is rarely questioned by shareholders, who tend to trust published accounts.",
+          "The reliability of any financial statement cannot be assessed until the year has ended and the books are closed.",
+          "The reliability of any financial statement depends largely on the quality of the internal controls behind it."
         ],
         "answerIndex": 3,
-        "explanation": "'Revise your proposal accordingly' means in line with these points; 'nevertheless' and the others do not fit."
+        "explanation": "'therefore begin ... by reviewing the controls' requires a reason, and reliance on 'the internal controls' is exactly that. Waiting for the year-end, shareholders' trust and a signature that 'guarantees' reliability do not explain why controls are reviewed first."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Nonetheless",
+          "Likewise",
+          "Accordingly",
+          "Hence"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence qualifies the typical 'two to three weeks' by saying the work 'may take considerably longer', which calls for a concessive connector, 'Nonetheless'. 'Accordingly' and 'Hence' express consequence, and 'Likewise' expresses similarity."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "Unless",
+          "Should",
+          "Had",
+          "Were"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Should significant discrepancies come to light' is a formal inverted conditional meaning 'if'. 'Were' needs 'to' and 'Had' needs a past participle, and 'Unless' would contradict the promise to inform the finance director."
+      }
+    ]
+  },
+  {
+    "id": "p6-648",
+    "documentType": "email",
+    "text": "To: All Exhibitors\nFrom: Sunniva Berg, Operations Manager\nSubject: Stand build and load-in arrangements\n\nDear Exhibitors,\n\nThank you for confirming your participation in the Nordic Packaging Expo, which will take place at the Aurora Exhibition Centre from 14 to 16 May. I am writing to set out the arrangements for the build-up period. [1] To manage this volume of traffic, access to the halls will be permitted from 8 a.m. on 12 May [2] vehicles display a valid loading permit.\n\nEach permit allows a maximum of ninety minutes at the loading bay, so we recommend that you schedule deliveries in advance. Stands exceeding three metres in height require prior approval from our technical team. [3] Late submissions cannot be processed, and the corresponding stands will be limited to the standard height.\n\nPlease confirm receipt of this message and let me know [4] you require additional loading permits.\n\nKind regards,\nSunniva Berg",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our records indicate that approximately 140 freight vehicles will arrive during the build-up period.",
+          "Our records indicate that no freight vehicles will arrive at the centre before the morning of 13 May.",
+          "Our records indicate that approximately 140 visitors will attend the opening ceremony on 14 May.",
+          "Freight forwarders have asked that the build-up start on 11 May to ease pressure on the loading bay."
+        ],
+        "answerIndex": 0,
+        "explanation": "'this volume of traffic' needs a stated quantity of vehicles during the build-up, as the correct sentence gives. 'visitors ... on 14 May' is not build-up traffic, 'no freight vehicles ... before 13 May' conflicts with access from 12 May, and the forwarders' request mentions no volume."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "in case",
+          "whereas",
+          "provided that",
+          "even if"
+        ],
+        "answerIndex": 2,
+        "explanation": "Access is allowed on the condition that vehicles show a permit, which 'provided that' expresses. 'in case' means as a precaution, 'whereas' is a contrast, and 'even if' would make the permit irrelevant."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "Detailed drawings may be submitted through the exhibitor portal at any time before the opening day.",
+          "Detailed drawings submitted through the exhibitor portal will be returned to exhibitors by 25 April.",
+          "Detailed drawings are not required for any stand until the day before the exhibition opens.",
+          "Detailed drawings must be uploaded through the exhibitor portal no later than 25 April at midnight."
+        ],
+        "answerIndex": 3,
+        "explanation": "'Late submissions' implies a deadline, which only the sentence with 'no later than 25 April' sets. 'not required ... until the day before' and 'at any time before the opening day' set no deadline, and drawings 'returned ... by 25 April' describe a different step."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "which",
+          "whether",
+          "that",
+          "what"
+        ],
+        "answerIndex": 1,
+        "explanation": "'let me know whether you require ...' needs a conjunction expressing a yes/no question, so 'whether' is correct. 'that', 'what' and 'which' do not fit before a clause that is already complete."
       }
     ]
   }

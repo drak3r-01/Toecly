@@ -1,166 +1,551 @@
 [
   {
-    "id": "p6-430",
-    "documentType": "article",
-    "text": "Coffee Cooperative Seeks Premium Market\n\nA cooperative of smallholder growers in the Ethiopian highlands has signed a three-year contract to supply a European roaster with washed arabica beans. The agreement guarantees a price roughly 30 percent above the prevailing market rate, [1] growers have in the past been vulnerable to sudden falls in world prices.\n\n[2] Farmers have, however, been asked to meet strict standards for sorting and drying, which are inspected by independent auditors twice a season. The cooperative's manager, Selam Tadesse, says the requirements are demanding [3] attainable, and that the premium will more than cover the extra labor. If the harvest falls short, the roaster is under no [4] to buy the full quantity, a clause that some members regard as unfair.",
+    "id": "p6-455",
+    "documentType": "job_ad",
+    "text": "Senior Compliance Officer – Aldermoor Financial Group\n\nAldermoor Financial Group, a regional provider of savings and mortgage products, seeks a Senior Compliance Officer to ensure that its activities conform to the requirements of the financial regulator. [1] The post reports to the General Counsel and involves regular dealings with external auditors.\n\nThe successful candidate will have a professional qualification in law or accountancy and at least six years' experience in a regulated financial institution. Experience of [2] a team is essential, as the officer will manage three analysts. [3] the group operates only in this country, familiarity with European regulation would be an advantage, [4] it is considering expansion abroad.\n\nThe salary will range from £62,000 to £70,000, depending on experience. Applications, comprising a curriculum vitae and a covering letter, should reach Ms. Dalia Frey in Human Resources by 30 June, and interviews will be held in the week of 14 July.",
     "questions": [
       {
         "blank": 1,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "whereas",
-          "therefore",
-          "moreover",
-          "hence"
+          "The post-holder will advise managers on new regulations and monitor the regulator's day-to-day procedures.",
+          "The post-holder will advise customers on new regulations and monitor the group's sales targets closely.",
+          "The post-holder will advise managers on new regulations and monitor the group's day-to-day procedures.",
+          "The post-holder has advised managers on new regulations and monitored the group's procedures."
         ],
-        "answerIndex": 0,
-        "explanation": "'Whereas growers have in the past been vulnerable' contrasts the new guarantee with the past; 'therefore', 'moreover' and 'hence' do not express contrast."
+        "answerIndex": 2,
+        "explanation": "The advertisement presents a vacancy at Aldermoor whose purpose is to ensure that the group's activities conform to regulation, so the officer will advise the group's managers and monitor the group's own procedures. Monitoring 'the regulator's' procedures, advising customers about sales targets, or a past tense describing work already done do not fit a post still to be filled."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
+        "category": "grammar",
         "choices": [
-          "The arrangement offers a degree of risk that few producers in the region have previously avoided.",
-          "The arrangement offers a degree of security that few producers in the region have previously enjoyed.",
-          "The arrangement offers a degree of security that most producers in the region have always enjoyed.",
-          "The arrangement offered a degree of security that few producers in the region could previously enjoy."
+          "leading",
+          "lead",
+          "led",
+          "leader"
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence begins 'Farmers have, however, been asked', which contrasts a benefit with a burden; only the first option states a benefit. The others describe risk, say that most producers already enjoy it, or use a past tense."
+        "answerIndex": 0,
+        "explanation": "'Experience of leading a team' requires a gerund after the preposition 'of'; 'led', 'lead' and 'leader' cannot complete this structure."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "so",
-          "for",
-          "but",
-          "nor"
+          "Whenever",
+          "Because",
+          "Although",
+          "Unless"
         ],
         "answerIndex": 2,
-        "explanation": "'Demanding but attainable' links two contrasting adjectives; the others do not fit."
+        "explanation": "'Although the group operates only in this country' concedes a limitation before the advantage is stated; 'because' and 'whenever' do not express concession, and 'unless' would reverse the meaning."
       },
       {
         "blank": 4,
-        "category": "vocabulary",
+        "category": "connector",
         "choices": [
-          "obliteration",
-          "obligatory",
-          "oblivion",
-          "obligation"
+          "as if",
+          "as though",
+          "so that",
+          "given that"
         ],
         "answerIndex": 3,
-        "explanation": "'Under no obligation to' is the fixed phrase; 'obligatory' is an adjective and the others have unrelated meanings."
+        "explanation": "'Given that it is considering expansion abroad' supplies the reason why familiarity with European regulation would help; 'as if' and 'as though' express an unreal comparison, and 'so that' expresses purpose, which does not fit a present consideration."
       }
     ]
   },
   {
-    "id": "p6-431",
-    "documentType": "letter",
-    "text": "Dear Ms. Delacroix,\n\nI am writing in connection with the invoice dated 12 March for the installation of the new ventilation system at your Lyon office. When our engineers inspected the work last week, they found that the ducting in the east wing does not [1] with the specification agreed in the contract.\n\n[2] We have therefore instructed the installer to remedy the defects at no additional cost to you. In the meantime, we ask that you [3] payment of the final installment, which falls due on 30 April. [4] the work has been completed to our satisfaction, we shall release the balance in full.\n\nYours sincerely,\nBenedict Aldous\nProject Manager",
+    "id": "p6-456",
+    "documentType": "notice",
+    "text": "TENANTS' NOTICE – REPLACEMENT OF PASSENGER LIFTS\n\nThe managing agent wishes to inform residents that both passenger lifts in Calder House will be replaced between 5 May and 27 June. [1] Throughout the work, one lift will remain in service at all times except for brief interruptions of up to thirty minutes while safety tests are carried out.\n\nResidents on the upper floors who find the stairs difficult are invited to [2] the building office, so that alternative arrangements can be made for deliveries and, [3] necessary, for the transport of medical equipment. Contractors will be on site between 8 a.m. and 5 p.m. on weekdays only, and noisy operations will be confined to the hours between 10 a.m. and 3 p.m. The managing agent regrets any inconvenience and will [4] a progress report on the notice board each Friday.",
     "questions": [
       {
         "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The work was carried out in two stages, with the east lift replaced first and the west lift replaced after 10 June.",
+          "The work will be carried out in two stages, with the east lift replaced first and the west lift replaced after 10 June.",
+          "The work will be carried out in two stages, with the east lift replaced first and the west lift replaced after 10 July.",
+          "The work will be carried out in a single stage, with both lifts replaced together during the first week of May."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence, 'Throughout the work, one lift will remain in service', fits a plan in which the lifts are replaced one after the other and within the announced period. Replacing both lifts together contradicts it, 'was carried out' uses the past tense in a notice about future work, and 'after 10 July' falls outside the 5 May to 27 June period."
+      },
+      {
+        "blank": 2,
         "category": "vocabulary",
         "choices": [
-          "conform",
-          "confirm",
-          "confine",
+          "contact",
+          "consign",
+          "convene",
           "confront"
         ],
         "answerIndex": 0,
-        "explanation": "Work 'conforms with' a specification; 'confirm' means verify, 'confine' means restrict, and 'confront' means face."
+        "explanation": "Residents are invited to 'contact' the building office. 'Confront', 'convene' and 'consign' do not make sense with 'the building office' as their object."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "whereby",
+          "where",
+          "whereas",
+          "whereupon"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Where necessary' is the fixed elliptical expression meaning 'if it is necessary'. 'Whereas' contrasts, 'whereby' means by which, and 'whereupon' means after which."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "displace",
+          "disperse",
+          "dispense",
+          "display"
+        ],
+        "answerIndex": 3,
+        "explanation": "A progress report can be 'displayed' on a notice board. 'Displace' means to move something out of place, 'dispense' means to hand out, and 'disperse' means to scatter."
+      }
+    ]
+  },
+  {
+    "id": "p6-457",
+    "documentType": "letter",
+    "text": "Dear Mr. Okafor,\n\nThank you for your letter of 9 October regarding the delay in processing your application for planning permission at 14 Elm Terrace (reference HH/2291). I am sorry to learn that you have waited more than twelve weeks for a decision. [1] the statutory period for householder applications is eight weeks, your application was held up by a backlog that followed the departure of two senior officers.\n\n[2] As a first step, your application has now been assigned to an experienced case officer, who will visit the site on 24 October. A decision will be issued [3] fourteen days of that visit, unless further information is required. In the meantime, we will [4] your application fee, as a gesture of goodwill. Should you wish to discuss the matter, please contact me directly on 020 7946 0153.\n\nYours sincerely,\nHannah Weiss\nPlanning Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Whereas",
+          "Provided that",
+          "Whenever"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Whereas the statutory period ... is eight weeks, your application was held up' contrasts the legal limit with what actually happened. 'Whenever' and 'Unless' do not relate the two clauses, and 'Provided that' would make the backlog a condition."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "This is a matter on which the contract is silent, and the deviation can be regarded as a minor variation.",
-          "This is a matter on which the contract is explicit, and the deviation cannot be regarded as a minor variation.",
-          "This is a matter on which the contract is explicit, although the deviation can be regarded as a minor variation.",
-          "This was a matter on which the contract was explicit, and the deviation could not be regarded as a minor variation."
+          "I recognize that this falls short of the standard you are entitled to expect, but I cannot offer any form of compensation.",
+          "I recognize that the delay was caused by your late submission of drawings, and I have taken steps to prevent a recurrence.",
+          "I recognize that this falls short of the standard you are entitled to expect, and I have taken steps to prevent a recurrence.",
+          "I recognize that this falls short of the standard you are entitled to expect, and I do not consider any further action necessary."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence says 'We have therefore instructed the installer to remedy the defects', so the previous sentence must justify treating the deviation as serious; only the first does. The others call the contract silent, call the deviation minor, or use a past tense."
+        "answerIndex": 2,
+        "explanation": "'As a first step' needs a preceding promise of corrective action, and the fee refund later fits an apology. Saying that no further action is necessary clashes with 'a first step', blaming the applicant contradicts the backlog explained earlier, and refusing compensation contradicts the planned fee refund."
       },
       {
         "blank": 3,
-        "category": "vocabulary",
+        "category": "grammar",
         "choices": [
-          "supplant",
-          "suppress",
-          "suspend",
-          "surrender"
+          "since",
+          "during",
+          "until",
+          "within"
         ],
-        "answerIndex": 2,
-        "explanation": "The client is asked to 'suspend' (temporarily stop) payment of the final installment; 'supplant' means replace, 'suppress' means hold back by force, and 'surrender' means give up."
+        "answerIndex": 3,
+        "explanation": "'Within fourteen days of that visit' sets a deadline measured from an event. 'During' and 'since' do not suit a future time limit, and 'until' marks the end of a state rather than a deadline."
       },
       {
         "blank": 4,
-        "category": "connector",
+        "category": "vocabulary",
         "choices": [
-          "Whereas",
-          "Albeit",
-          "Unless",
-          "Once"
+          "refuse",
+          "refund",
+          "reclaim",
+          "retain"
         ],
-        "answerIndex": 3,
-        "explanation": "'Once the work has been completed' sets the time at which the balance will be released; 'whereas' contrasts, 'albeit' concedes, and 'unless' reverses the meaning."
+        "answerIndex": 1,
+        "explanation": "The council will 'refund' the fee, meaning repay it, which is a gesture of goodwill. 'Retain', 'refuse' and 'reclaim' would work against the applicant and so contradict 'a gesture of goodwill'."
       }
     ]
   },
   {
-    "id": "p6-432",
-    "documentType": "notice",
-    "text": "IMPORTANT INFORMATION FOR ACCOUNT HOLDERS\nNorthgate Building Society\n\nFrom 1 January, the interest rate payable on Flexi-Saver accounts will be reduced from 2.9 percent to 2.4 percent. [1] Customers who hold balances above £50,000 will, however, continue to receive the existing rate until the end of the financial year.\n\nWe recognize that this change is [2] for savers who rely on interest as a source of income. Those who would prefer to move their funds elsewhere may do so without penalty before the new rate takes effect. [3] you give notice otherwise, your account will remain open on the revised terms. Further details are available at any branch, [4] you may telephone our helpline during office hours.",
+    "id": "p6-458",
+    "documentType": "article",
+    "text": "Hospitals Test Artificial Intelligence in Radiology\n\nA consortium of eleven hospitals has begun a two-year trial of software that analyses chest X-rays and flags those most likely to indicate disease. Radiologists will continue to examine every image; [1], the program is intended merely to help them prioritize urgent cases. The trial, funded by a £14 million government grant, will cover about 90,000 patients. Participating hospitals will share anonymized data with an independent university team.\n\n[2] Early results are encouraging: in a pilot at one hospital, patients whose scans were flagged as urgent received a report on average six hours sooner. Some clinicians, [3], remain wary. They worry that over-reliance on the software may erode the skills of junior doctors, and that errors in the underlying data might go [4] for years. A final report is due in spring 2028.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "rather",
+          "otherwise",
+          "furthermore",
+          "consequently"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Rather' corrects the idea that the program replaces radiologists: they still examine every image, and the software is 'merely' a prioritizing aid. 'Furthermore' and 'consequently' add or derive something that is not stated, and 'otherwise' would introduce a hypothetical alternative."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Its critics say the aim is to shorten waiting times for patients with serious conditions, but the software has never been tested on patients.",
+          "Its sponsors say the aim is to shorten waiting times for patients with serious conditions, but no results are available yet.",
+          "Its sponsors say the aim is to reduce staffing levels in radiology departments, not to shorten waiting times for patients.",
+          "Its sponsors say the aim is to shorten waiting times for patients with serious conditions, not to reduce staffing levels at hospitals."
+        ],
+        "answerIndex": 3,
+        "explanation": "'Early results are encouraging' and the report arriving 'six hours sooner' support an aim of faster waiting times for urgent cases. An aim of cutting staff conflicts with the prioritizing role already described, and 'no results are available yet' or 'never been tested' contradict the pilot results that follow."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "nevertheless",
+          "likewise",
+          "accordingly",
+          "moreover"
+        ],
+        "answerIndex": 0,
+        "explanation": "The clinicians' wariness runs against the encouraging results, so 'nevertheless' marks the concession. 'Accordingly', 'moreover' and 'likewise' point to consequence, addition or similarity."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "unanswered",
+          "unsolved",
+          "undetected",
+          "undeclared"
+        ],
+        "answerIndex": 2,
+        "explanation": "Errors in the data that 'go undetected for years' are not noticed, which is the clinicians' fear. Errors cannot sensibly 'go unanswered', 'unsolved' or 'undeclared' in this context, since the worry is that nobody finds them."
+      }
+    ]
+  },
+  {
+    "id": "p6-459",
+    "documentType": "web_page",
+    "text": "Fernhill Leisure Centre – Membership Terms\n\nMembership is offered on a twelve-month basis, and fees are payable monthly by direct debit at a rate of 42 pounds for adults and 28 pounds for members under eighteen. [1] Members who wish to cancel must give one calendar month's notice in writing; otherwise, the agreement will [2] automatically for a further twelve months.\n\nMembers may freeze their accounts for up to three months, [3] they provide evidence of illness, injury or extended travel, and no fees are charged for the months concerned. The centre reserves the right to vary its timetable of classes; [4], it will give at least seven days' notice of any change that affects regular sessions, and details will be posted at reception, on this page and on the members' mobile application each week.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The change follows a reduction in the base rate set by the central bank, which has narrowed the margin on our lending.",
-          "The change follows an increase in the base rate set by the central bank, which has widened the margin on our lending.",
-          "The change follows concerns about the size of the building society, which has doubled the number of its branches.",
-          "The change will be explained to staff in training sessions, which have been arranged at each branch for December."
+          "The minimum term is twelve months, and the agreement continues beyond that period unless the centre gives notice of closure as set out below.",
+          "The minimum term is six months, and the agreement continues beyond that period unless the member gives notice of cancellation as set out below.",
+          "The minimum term is twelve months, and the agreement continues beyond that period unless the member gives notice of cancellation as set out below.",
+          "The minimum term is twelve months, and the agreement lapses at the end of that period unless the member gives notice of cancellation as set out below."
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence begins 'Customers who hold balances above £50,000 will, however, continue', so the previous one should explain a general reduction. Only the first gives a coherent cause for a lower rate; an increase in the base rate would not justify it, and the others are irrelevant."
+        "answerIndex": 2,
+        "explanation": "The next sentence says that without notice the agreement 'will renew automatically', so the preceding sentence must say it continues unless the member cancels. A statement that it lapses contradicts this, a notice of closure by the centre does not match the procedure for members who wish to cancel, and a six-month minimum term conflicts with the 'twelve-month basis' stated at the start."
       },
       {
         "blank": 2,
         "category": "vocabulary",
         "choices": [
-          "unwilling",
-          "unwelcome",
-          "unworthy",
-          "unwieldy"
+          "renew",
+          "revert",
+          "reinstate",
+          "resume"
+        ],
+        "answerIndex": 0,
+        "explanation": "An agreement 'renews' automatically for a further term. 'Resume' and 'revert' do not fit with 'for a further twelve months', and 'reinstate' would need an object."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "so that",
+          "even if",
+          "provided that",
+          "as though"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Provided that they provide evidence' states the condition on which accounts may be frozen. 'Even if' would remove the condition, 'as though' expresses comparison, and 'so that' expresses purpose."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "however",
+          "accordingly",
+          "similarly"
         ],
         "answerIndex": 1,
-        "explanation": "A rate cut is 'unwelcome' to savers; 'unwilling' describes people, 'unworthy' means undeserving, and 'unwieldy' means awkward to handle."
+        "explanation": "The centre reserves a right but undertakes to give notice, which softens it, so a contrast marker is needed: 'however'. 'Therefore' and 'accordingly' imply a result, and 'similarly' implies a parallel."
+      }
+    ]
+  },
+  {
+    "id": "p6-460",
+    "documentType": "email",
+    "text": "Subject: Request for a revised quotation\n\nDear Mr. Haddad,\n\nThank you for your quotation of 4 February for the supply and installation of the new security system at our Norwich warehouse. We have reviewed it carefully and consider that it compares [1] with the other proposals we have received, although the price is higher.\n\n[2] Before we proceed, we would ask you to clarify two points. First, the quotation does not state whether the cost of maintenance is included in the stated figure. Second, [3] the delivery date you suggest falls within our busiest period, we should prefer installation to take place in March. We should be grateful if you could revise your proposal [4].\n\nAs our board meets on 28 February, we would need to receive the revised document by 21 February. Please also confirm the length of the warranty on the cameras and sensors.\n\nYours sincerely,\nClaire Dunmore\nFacilities Manager, Marlowe Distribution",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "favored",
+          "favorably",
+          "favoring",
+          "favorable"
+        ],
+        "answerIndex": 1,
+        "explanation": "The verb 'compares' needs an adverb, and 'compares favorably with' means is at least as good as. 'Favorable' is an adjective, and 'favoring' and 'favored' are participles that cannot modify the verb."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your proposal is, in most respects, the one that least meets our requirements, and we would like to progress it.",
+          "Your proposal was, in most respects, the one that best met our requirements, and we wished to progress it.",
+          "Your proposals are, in most respects, those that best meet our requirements, and we would like to cancel them.",
+          "Your proposal is, in most respects, the one that best meets our requirements, and we would like to progress it."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence begins 'Before we proceed', so the blank must state a wish to go ahead, and the first paragraph says the quotation 'compares favorably'. 'Least meets' contradicts that, 'cancel them' contradicts proceeding, and the past tenses suggest a decision that is already over."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "albeit",
+          "unless",
+          "whether",
+          "since"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Since the delivery date you suggest falls within our busiest period' gives the reason for preferring March. 'Unless' and 'whether' create a condition that does not match, and 'albeit' cannot introduce a full clause."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "accordingly",
+          "likewise",
+          "otherwise",
+          "nevertheless"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Revise your proposal accordingly' means in line with the two points just raised. 'Nevertheless', 'otherwise' and 'likewise' cannot end a request in that way."
+      }
+    ]
+  },
+  {
+    "id": "p6-461",
+    "documentType": "memo",
+    "text": "To: Department Managers\nFrom: Bernadette Roux, Head of Internal Communications\nSubject: Guidance on media enquiries\n\nIn recent weeks, several employees have been approached by journalists seeking comment on the proposed merger. [1] Staff are reminded that only the press office is authorized to speak on behalf of the company. Employees [2] by journalists, whether in person or by telephone, must refer the enquiry to that office without delay.\n\nThis rule applies [3] of the medium used, including social networks. Employees who wish to express personal views online should make clear that these are their own and do not reflect the position of the company. [4] a breach of confidentiality is suspected, the matter will be investigated under the disciplinary procedure.\n\nManagers are asked to brief their teams before Friday 9 June and to confirm by e-mail that they have done so. The press office can be reached on extension 4410 between 8 a.m. and 6 p.m.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Such approaches are likely to multiply as negotiations advance, and a consistent response is essential to protect the company's position.",
+          "Such rumours are likely to multiply as negotiations advance, and a consistent response is essential to protect the company's position.",
+          "Such approaches are likely to cease as negotiations advance, and a consistent response is therefore essential to protect the company's position.",
+          "Such approaches are likely to multiply as negotiations advance, and a consistent response would be unnecessary to protect the company's position."
+        ],
+        "answerIndex": 0,
+        "explanation": "The reminder that follows only makes sense if 'such approaches' by journalists will increase and uniform answers matter. Saying they will 'cease' makes 'therefore' illogical, 'such rumours' has no antecedent in the text, and calling a consistent response 'unnecessary' contradicts the instruction to use only the press office."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "approach",
+          "approaches",
+          "approaching",
+          "approached"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Employees approached by journalists' is a reduced passive relative clause ('who are approached'); 'approaching' would make the employees the ones doing the approaching, and the base form and 's' form cannot follow a plural subject here."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "irrespective",
+          "aside",
+          "apart",
+          "notwithstanding"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Irrespective of the medium used' is the fixed expression meaning regardless; 'notwithstanding', 'apart' and 'aside' are not followed by 'of' in this sense."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Wherein",
+          "Whereas",
+          "Where",
+          "Whereby"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Where a breach of confidentiality is suspected' introduces a specific case in which the procedure applies. 'Whereas' contrasts two facts, 'wherein' means 'in which' and 'whereby' means 'by which', neither of which can open a conditional-type clause."
+      }
+    ]
+  },
+  {
+    "id": "p6-462",
+    "documentType": "form",
+    "text": "Request for Variation of Contract – Notes for Completion\n\nThis form should be completed whenever a change is sought to the scope, price or timetable of an existing contract. [1] Requests that omit any of these items will be returned to the sender, and the review period will not begin until a fully completed form has been received.\n\nPlease state clearly the reason for the proposed variation and attach any supporting documents. Where the change would give rise [2] an increase of more than ten percent in the total contract value, approval must be obtained from the finance director. [3] a request is approved, a revised contract will be issued, and the original terms will remain in force [4] the revision has been signed by both parties. Reviews normally take fifteen working days; urgent requests should be discussed in advance with the contracts office.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Applicants must provide the contract number, the nature of the change and a costed summary of its effect.",
+          "The finance director must be informed of any request that involves a change to the price of the contract.",
+          "The contracts office reviews each variation in the order received, and reviews normally take around three weeks.",
+          "Requests relating to subcontractors must be submitted by the main contractor and not by the subcontractor itself."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence refers to 'these items', which requires a list in the preceding sentence; only the requirement to provide the contract number, the nature of the change and a costed summary supplies one. The other sentences mention the review order, subcontractors or the finance director, so 'these items' would have no referent."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "to",
+          "at",
+          "by",
+          "for"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Give rise to' is a fixed expression meaning result in. 'Give rise for', 'give rise at' and 'give rise by' are not used in English."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
           "Whereas",
-          "Because",
-          "Unless",
-          "Although"
+          "Once",
+          "Albeit",
+          "Unless"
         ],
-        "answerIndex": 2,
-        "explanation": "'Unless you give notice otherwise, your account will remain open' states the default; 'whereas', 'because' and 'although' would reverse or distort that logic."
+        "answerIndex": 1,
+        "explanation": "'Once a request is approved, a revised contract will be issued' sets out a sequence of events. 'Whereas' contrasts two facts, 'albeit' concedes a point and cannot introduce a finite clause here, and 'unless' would reverse the logic."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
           "whereas",
-          "whether",
-          "nor",
-          "or"
+          "lest",
+          "albeit",
+          "until"
         ],
         "answerIndex": 3,
-        "explanation": "'At any branch, or you may telephone' joins two alternative ways of obtaining details; the others do not link alternatives."
+        "explanation": "The original terms remain in force 'until' the revision has been signed by both parties, marking the point at which they are replaced. 'Whereas' contrasts, 'albeit' concedes and 'lest' expresses fear that something might happen."
+      }
+    ]
+  },
+  {
+    "id": "p6-463",
+    "documentType": "email",
+    "text": "To: Event Committee\nFrom: Valentina Cruz, Conference Organizer\nSubject: Keynote speaker withdrawal\n\nI regret to inform you that Professor Linde has withdrawn from the conference, which opens on 12 June at the Harbour Convention Centre, on account of a family emergency. [1] I have already contacted two alternative speakers, both of whom have extensive experience of the subject, and I expect to have confirmation by Friday.\n\nIn view of the short notice, we shall not be able to [2] the printed program, which went to press yesterday. Instead, a notice will be inserted in each delegate's pack. [3] the replacement not be confirmed by the end of next week, I propose that we reorganize the opening session as a panel discussion, [4] the technical requirements are considerably simpler. Please let me have any objections by Wednesday.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "His address on supply-chain resilience was the centerpiece of the opening session, so the session itself has been cancelled outright.",
+          "His address on supply-chain resilience was the centerpiece of the opening session, so Professor Linde has agreed to deliver it by video link.",
+          "His address on supply-chain resilience was the centerpiece of the opening session, so a suitable replacement must be found quickly.",
+          "His address on supply-chain resilience was the centerpiece of the closing session, so a suitable replacement must be found quickly."
+        ],
+        "answerIndex": 2,
+        "explanation": "The following sentence says two alternative speakers have been contacted, which only makes sense if the keynote must be replaced. The sentence about a video link contradicts the withdrawal, 'the closing session' conflicts with the later reference to the opening session, and cancelling the session outright contradicts the search for a replacement."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "abolish",
+          "append",
+          "amend",
+          "amplify"
+        ],
+        "answerIndex": 2,
+        "explanation": "The organizer cannot 'amend' the printed program, meaning change it, because it 'went to press yesterday'; a notice is inserted instead. 'Append' means to add to the end, 'amplify' means to make louder or fuller, and 'abolish' means to do away with entirely."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Whereas",
+          "Albeit",
+          "Should"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Should the replacement not be confirmed' is an inverted conditional meaning 'If the replacement is not confirmed', which matches the bare verb 'be'. 'Whereas' and 'albeit' cannot open a conditional, and 'unless' would create a double negative with 'not'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "albeit",
+          "inasmuch as",
+          "unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Inasmuch as the technical requirements are considerably simpler' gives the reason for proposing a panel discussion. 'Whereas' would set up a contrast, 'albeit' introduces a concession without a full clause, and 'unless' states an exception that makes no sense here."
+      }
+    ]
+  },
+  {
+    "id": "p6-464",
+    "documentType": "letter",
+    "text": "Dear Mr. Pereira,\n\nThank you for submitting a tender for the refurbishment of the municipal swimming pool. Please accept our thanks for the time and effort invested in your submission. The evaluation panel received eleven bids, and comparing them was a difficult task. [1] I regret to inform you that, on this occasion, your bid has not been successful.\n\nThe panel scored every tender against the published criteria, giving the greatest weight to bidders [2] experience of comparable projects could be verified. Your bid was competitive on price; [3], it scored lower on the programme of works, which the panel considered optimistic. The contract has been awarded to Hartley Aquatic Engineering, whose tender scored 87 points against your 79.\n\nYou are entitled to request a debrief, [4] your request is received in writing within ten days of this letter. We hope that you will consider bidding for future projects.\n\nYours sincerely,\nMarianne Voss\nProcurement Officer",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The standard of submissions was uneven, which made the final ranking a simple matter of elimination.",
+          "Your own submission was the strongest we received, which made the final ranking a matter of fine margins.",
+          "The standard of submissions was uniformly high, which made the final ranking a matter of fine margins.",
+          "The contract was awarded to the lowest bidder, which made the final ranking a matter of price alone."
+        ],
+        "answerIndex": 2,
+        "explanation": "The preceding sentence says that comparing the bids was difficult, and 'a high standard' with 'fine margins' explains why. 'Uneven' with 'simple elimination' and a ranking based on price alone contradict the difficulty, while calling the recipient's bid the strongest clashes with 'your bid has not been successful'."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "who",
+          "whose",
+          "whom",
+          "which"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Bidders whose experience of comparable projects could be verified' needs the possessive relative 'whose'. 'Who' and 'whom' cannot be followed directly by 'experience', and 'which' does not refer to people."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "likewise",
+          "even so",
+          "in addition",
+          "hence"
+        ],
+        "answerIndex": 1,
+        "explanation": "A good result on price is followed by a weaker score on the programme, so the concessive 'even so' fits. 'Hence' would make the lower score a result of the price, 'likewise' implies a parallel, and 'in addition' would add the negative point as if it were a further positive."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "even if",
+          "whereas",
+          "provided that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Provided that your request is received in writing within ten days' makes the entitlement conditional on a deadline. 'Unless' reverses the condition, 'even if' denies that the deadline matters, and 'whereas' sets up a contrast that the sentence does not contain."
       }
     ]
   }

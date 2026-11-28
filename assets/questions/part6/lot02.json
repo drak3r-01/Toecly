@@ -1,111 +1,551 @@
 [
   {
-    "id": "p6-409",
-    "documentType": "job_ad",
-    "text": "Head of Regulatory Affairs – Calloway Biosciences\n\nCalloway Biosciences, a mid-sized developer of diagnostic devices, is seeking an experienced Head of Regulatory Affairs to lead a team of eleven specialists across three sites. The successful candidate will be accountable for securing market authorization in the European Union and North America and will [1] closely with the quality and clinical departments.\n\n[2] You will be expected to anticipate changes in legislation rather than merely respond to them, and to advise the executive board on their commercial implications. Applicants should hold a degree in a scientific discipline and have [3] at least eight years' experience in a regulated industry. [4] fluency in German is not essential, it would be viewed as a considerable advantage given the volume of correspondence with the Munich office.",
+    "id": "p6-309",
+    "documentType": "text_message",
+    "text": "Good morning, Mr. Wilkins. This is Dr. Shapiro's office writing to remind you of your appointment on Thursday at 11:15 a.m. Please arrive ten minutes early to complete a short questionnaire. [1] If you are taking any new medication, kindly bring a list. Unfortunately, the doctor has [2] a meeting that morning, so there is a chance the appointment may begin a little late. [3] this happen, our receptionist will let you know as soon as you arrive. To confirm your attendance, reply YES to this message. If you are [4] to attend, please call us at least a day in advance so that we can offer the slot to another patient. Our clinic is at 14 Larch Street, and parking is available behind the building. The reception desk is open from 8:00 a.m. to 5:30 p.m., Monday to Friday. Thank you, and we look forward to seeing you.",
     "questions": [
       {
         "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "It asks about your general health and any changes since your last visit, and will be posted to you next week.",
+          "It asks about your general health and any changes since your last visit, and takes about forty minutes.",
+          "It asks about your general health and any changes since your last visit, and takes about eight minutes.",
+          "It asks about your general health and any changes since your last visit, and must be returned within ten days."
+        ],
+        "answerIndex": 2,
+        "explanation": "The patient is asked to arrive 'ten minutes early to complete a short questionnaire', so the form must take less than ten minutes. A form that takes forty minutes, must be returned within ten days or will be posted next week contradicts completing it on arrival."
+      },
+      {
+        "blank": 2,
         "category": "vocabulary",
         "choices": [
-          "collaborate",
-          "cooperate",
-          "coordinate",
-          "correspond"
+          "been called into",
+          "been called out",
+          "been called up",
+          "been called off"
         ],
         "answerIndex": 0,
-        "explanation": "'Collaborate closely with' departments is the natural collocation for joint work; 'cooperate' and 'coordinate' are less idiomatic here and 'correspond' means to write or match, not to work together."
+        "explanation": "'Has been called into a meeting' means summoned to attend it, and a direct object follows. 'Called off' means cancelled, 'called out' means summoned to an emergency, and 'called up' means enlisted or telephoned, so none can take 'a meeting' as a destination."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Would",
+          "Should",
+          "Might",
+          "Could"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Should this happen' is an inverted conditional meaning 'If this happens', and it is the only form that works with the base verb 'happen'. 'Would', 'could' and 'might' inverted in this way do not form a conditional clause."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "incapable",
+          "unable",
+          "unavailable",
+          "disabled"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Unable to attend' is the fixed expression for a person who cannot come. 'Unavailable' does not take an infinitive, 'incapable' needs 'of' plus a gerund, and 'disabled' describes a physical condition."
+      }
+    ]
+  },
+  {
+    "id": "p6-312",
+    "documentType": "email",
+    "text": "To: Warehouse Team\nFrom: Corinne Aldous, Inventory Control\nSubject: Stocktake next week\n\nOur annual stocktake will take place on Wednesday and Thursday of next week. [1] For that reason, no goods will be dispatched or received during these two days, and customers have been informed accordingly. Each team will be responsible for counting the items in its own section on Wednesday, [2] a second person will verify the figures on Thursday. Counts must be entered on the handheld scanners [3] they are made, not at the end of the shift, since errors are far more likely when figures are recalled from memory. Anyone who notices items [4] in transit should tag them and report them to me. Refreshments will be provided in the break room throughout both days, and the warehouse will reopen as normal on Friday at 7 a.m.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Counts cannot be reliable while stock is still moving in and out of the building.",
+          "Counts will be reliable only if stock is still moving in and out of the building.",
+          "Counts remain reliable even while stock is still moving in and out of the building.",
+          "Counts cannot be reliable unless the scanners are fully charged before each shift begins."
+        ],
+        "answerIndex": 0,
+        "explanation": "'For that reason' introduces the ban on dispatching and receiving goods, so the preceding sentence must explain why: counting is unreliable while stock moves. Saying counts stay reliable, or reliable only when stock moves, contradicts the ban, and the sentence on charged scanners gives a reason unrelated to goods being dispatched."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "before which",
+          "since which",
+          "during which",
+          "after which"
+        ],
+        "answerIndex": 3,
+        "explanation": "The count takes place on Wednesday and the check on Thursday, so 'after which' links the verification to the completed count. 'During which' contradicts the different days, and 'before which' and 'since which' reverse or distort the sequence."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as soon as",
+          "as well as",
+          "as long as",
+          "as far as"
+        ],
+        "answerIndex": 0,
+        "explanation": "'As soon as they are made' means immediately when counts are completed, which agrees with 'not at the end of the shift'. 'As long as', 'as far as' and 'as well as' do not express immediacy."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "damaged",
+          "damaging",
+          "having damaged",
+          "damage"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Items damaged in transit' is a reduced passive relative clause meaning items that were damaged; 'damaging' would mean the items cause harm, and the other forms cannot follow 'items' here."
+      }
+    ]
+  },
+  {
+    "id": "p6-314",
+    "documentType": "letter",
+    "text": "Dear Ms. Nakamura,\n\nThank you for your inquiry regarding the lease of office space at Riverside Plaza. We currently have two suites available, [1] of which is on the fourth floor and the other on the seventh. Both are fitted with air conditioning and high-speed cabling, and tenants have access to shared meeting rooms. [2] The fourth-floor suite offers 120 square meters and is available immediately, whereas the larger suite on the seventh floor will be vacant from the beginning of January. Monthly rents are £2,850 and £4,100 respectively, with a minimum lease term of three years. Rents are inclusive of service charges but [3] of utilities. A viewing can be arranged at your convenience, and I would be [4] to answer any questions you may have beforehand.\n\nBest regards,\nDaniel Osei\nLeasing Manager, Riverside Plaza",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "either",
+          "each",
+          "one",
+          "neither"
+        ],
+        "answerIndex": 2,
+        "explanation": "'One of which is on the fourth floor, the other on the seventh' is the correct distributive structure. 'Each' and 'either' clash with 'the other', and 'neither' contradicts the fact that the suites are available."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "This is a senior post with direct influence on the company's recruitment, and it demands someone who is comfortable with routine.",
-          "This is a senior post with direct influence on the company's strategy, and it demands someone who is comfortable with ambiguity.",
-          "This is a junior post with limited influence on the company's strategy, and it demands someone who is comfortable with supervision.",
-          "This is a senior post that has been vacant since the company's strategy was revised, and it demands someone who started last year."
+          "The two suites differ both in rent and in the length of lease that the owner will grant.",
+          "The two suites differ in size but not in the date from which they can be occupied.",
+          "The two suites differ both in size and in the date from which they can be occupied.",
+          "The two suites resemble each other in size and in the date from which they can be occupied."
         ],
-        "answerIndex": 1,
-        "explanation": "The following sentence ('You will be expected to anticipate changes ... advise the executive board') describes a strategic, autonomous role. Only the first sentence prepares it: the others describe routine, a junior position or a vacancy."
+        "answerIndex": 2,
+        "explanation": "The next sentence contrasts a smaller suite available immediately with a larger one vacant from January, so the previous sentence must announce differences in size and availability. Differences in rent and lease length are not what follows, and statements that the suites resemble each other or share a date contradict 'whereas'."
       },
       {
         "blank": 3,
         "category": "grammar",
         "choices": [
-          "accumulating",
-          "accumulate",
-          "accumulated",
-          "accumulation"
+          "excluded",
+          "exclusive",
+          "excluding",
+          "exclusion"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Inclusive of service charges but exclusive of utilities' is the parallel adjective pair. 'Exclusion' is a noun, and 'excluding' and 'excluded' cannot be followed by 'of' with this meaning."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "delighted",
+          "delightful",
+          "delight",
+          "delighting"
+        ],
+        "answerIndex": 0,
+        "explanation": "'I would be delighted to answer' is a standard polite formula that uses the past participle as an adjective of feeling. 'Delightful' describes things that give pleasure, and 'delighting' and 'delight' do not fit after 'would be' followed by 'to'."
+      }
+    ]
+  },
+  {
+    "id": "p6-315",
+    "documentType": "notice",
+    "text": "ATTENTION: PARKING GARAGE USERS\n\nThe underground garage at Meridian Tower will be closed for resurfacing from Friday at 6 p.m. until Monday at 6 a.m. [1] During this period, tenants holding permits may park in the Albion Street lot, which is a three-minute walk from the main entrance. Permits must be displayed on the windshield at all times, and spaces will be allocated on a first-come basis.\n\n[2] Vehicles remaining in the garage after 6 p.m. on Friday will be towed at the owner's expense. [3], deliveries to the loading dock will be unaffected, since the dock is reached by a separate ramp. The main lobby and all elevators will remain open throughout the weekend. We apologize for the inconvenience and thank you for your [4] while the work is carried out. Inquiries may be addressed to the building manager, whose office is open on weekdays from 8 a.m. to 5 p.m.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The work will be completed on Friday evening, and the garage will reopen before the weekend begins for most tenants.",
+          "The work will involve the removal and replacement of the entire concrete surface on all three levels of the garage.",
+          "The work will involve the removal and replacement of the entire concrete surface on the loading dock ramp and its approach.",
+          "The work was completed on the lowest two levels last month, and only the top level will be resurfaced this weekend."
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice closes the whole garage from Friday evening to Monday morning and offers an alternative lot, so the work must be extensive. Work on the dock ramp contradicts the later statement that deliveries use 'a separate ramp' and are unaffected, finishing on Friday evening contradicts the closure until Monday, and a single level would not justify closing the entire garage."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Tenants are therefore asked to move their vehicles out of the garage after the closure ends on Monday.",
+          "Tenants are therefore asked to move their vehicles out of the garage before the closure begins.",
+          "Tenants are therefore asked to move their vehicles out of the garage once the closure has begun.",
+          "Tenants are therefore asked to move their vehicles into the garage before the closure begins."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says vehicles 'remaining in the garage after 6 p.m. on Friday will be towed', so the preceding request must be to remove them before the closure begins. Moving vehicles in, or out only after the closure ends or once it has begun, would lead directly to towing and contradicts the point of the warning."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Similarly",
+          "Therefore",
+          "However",
+          "Consequently"
         ],
         "answerIndex": 2,
-        "explanation": "'Have accumulated at least eight years' experience' needs the past participle after 'have'; the other forms are ungrammatical."
+        "explanation": "'However' introduces what is not affected by the closure, contrasting deliveries with the unavailable garage. 'Therefore' and 'consequently' would present deliveries as a result of the closure, and 'similarly' would suggest that deliveries are also affected."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "patiently",
+          "patients",
+          "patience",
+          "patient"
+        ],
+        "answerIndex": 2,
+        "explanation": "After the possessive 'your', a noun is needed, and 'thank you for your patience' is the standard expression meaning tolerance of an inconvenience. 'Patient' is an adjective, 'patiently' is an adverb, and 'patients' is a plural noun meaning people receiving medical care."
+      }
+    ]
+  },
+  {
+    "id": "p6-319",
+    "documentType": "memo",
+    "text": "To: Sales Associates\nFrom: Ethan Park, Store Manager\nSubject: Holiday schedule\n\nAs the holiday season approaches, we expect customer traffic to rise sharply. [1] For this reason, all associates will be required to work at least two weekend shifts in December. [2], requests for time off on those days will be considered, provided that they are submitted in writing by November 10; those received after this date will be approved only if cover can be arranged. Part-time employees will be offered additional hours, [3] full-time staff will be paid overtime when they work more than forty hours. The store will remain open until 10 p.m. on the three Fridays before the holiday. Staff scheduled to close on those evenings will be reimbursed for their taxi fares home. Please refer [4] the attached schedule for the full list of shifts.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Last year, long queues formed at the registers on most weekends in December, and several customers left without purchasing.",
+          "This year, the store has recruited extra associates for December, and several of them will start work at the registers next week.",
+          "Last year, queues at the registers were unusually short throughout December, and several associates were sent home early.",
+          "Last year, long queues formed at the registers on most weekends in December, and the store has since installed self-service machines."
+        ],
+        "answerIndex": 0,
+        "explanation": "'For this reason' requires a preceding sentence that explains why everyone must work weekend shifts, which long queues and lost sales do. Short queues contradict the expected rise, newly recruited extra staff reduce the need for the requirement, and self-service machines undermine the case for adding weekend staff."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Accordingly",
+          "That said",
+          "Similarly",
+          "Likewise"
+        ],
+        "answerIndex": 1,
+        "explanation": "After a mandatory-shift rule, 'That said' introduces an allowance for requests, a concession. 'Accordingly' would present the allowance as a result of the rule, and 'likewise' and 'similarly' would signal a parallel that does not exist."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "in case",
+          "whereas",
+          "unless",
+          "so that"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Whereas' contrasts what part-time staff get (additional hours) with what full-time staff get (overtime). 'So that', 'in case' and 'unless' would make one arrangement a purpose or condition of the other."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "for",
+          "to",
+          "on",
+          "at"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Refer to' is the fixed collocation: 'Please refer to the attached schedule'. The other prepositions cannot follow 'refer' in this meaning."
+      }
+    ]
+  },
+  {
+    "id": "p6-323",
+    "documentType": "form",
+    "text": "Nomination Form – Employee of the Year Award\n\nAny employee may nominate a colleague for the Employee of the Year Award, with the exception of members of the selection committee. [1] Nominations submitted for staff who do not meet this requirement will be returned unread. Each nomination must describe, in no more than 300 words, the specific contributions that make the nominee deserving of recognition. [2], evidence such as customer comments, performance data, or examples of improved processes will strengthen the nomination. The committee will give priority to achievements that have [3] a measurable benefit to the company. [4] a nominee is not selected in one year, he or she may be nominated again in the following one. Completed forms should be returned to the Human Resources office by December 1; the committee will meet on December 12, and the winner will be announced at the staff meeting in January.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The selection committee consists of six members drawn from different departments and meets four times a year.",
+          "Last year's award was presented to a member of the logistics team at the annual dinner in the new year.",
+          "The winner will receive a certificate, a financial prize, and a day of paid leave to be taken at their convenience.",
+          "To be eligible, a nominee must have completed at least twelve months of continuous service by the closing date."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence mentions staff who 'do not meet this requirement', so the preceding sentence must state a requirement for nominees. The sentences about the prize, last year's award and the committee's makeup state no requirement and leave 'this requirement' without a referent."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Unless stated",
+          "Where possible",
+          "Whenever required",
+          "If necessary"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Where possible' introduces supporting evidence that is encouraged but not compulsory, matching 'will strengthen the nomination'. 'If necessary', 'unless stated' and 'whenever required' would make the evidence a demand or an exception, which does not fit the sentence."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "deferred",
+          "delivered",
+          "declared",
+          "detected"
+        ],
+        "answerIndex": 1,
+        "explanation": "Achievements that have 'delivered a measurable benefit to the company' have produced a real result. 'Declared', 'deferred' and 'detected' cannot take a benefit 'to the company' as their object."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
           "Because",
-          "Provided",
-          "Unless",
-          "Although"
+          "Even if",
+          "Whereas",
+          "Unless"
         ],
-        "answerIndex": 3,
-        "explanation": "'Although fluency in German is not essential, it would be ...' expresses concession; the others express cause or condition and make no sense with the contrast that follows."
+        "answerIndex": 1,
+        "explanation": "'Even if a nominee is not selected' concedes the failure and adds that nomination is still possible the following year. 'Unless', 'because' and 'whereas' would give a condition, a cause or a contrast that makes no sense."
       }
     ]
   },
   {
-    "id": "p6-410",
-    "documentType": "web_page",
-    "text": "Orbis Cloud Services – Service Level Commitments\n\nOrbis guarantees that its hosted applications will be available for 99.95 percent of each calendar month, excluding scheduled maintenance announced at least five days in advance. Availability is measured by an independent monitoring system, the results of which are published on the customer portal.\n\n[1] Where availability falls below the guaranteed level, customers are entitled to a service credit calculated as a proportion of the monthly fee. [2] the shortfall exceed four hours, the credit is doubled. Claims must be submitted within thirty days of the incident; thereafter, they will not be [3]. The credits described above constitute the customer's sole remedy for [4] of the availability commitment.",
+    "id": "p6-401",
+    "documentType": "memo",
+    "text": "To: Regional Finance Controllers\nFrom: Beatrix Lindqvist, Group Compliance\nSubject: Revised delegation of authority\n\nFollowing the external audit, the executive committee has approved a revised delegation of authority that takes effect on 1 July. Under the new framework, any commitment exceeding €50,000 must be countersigned by a second authorized [1] holding at least the rank of director, irrespective of the budget line to which it is charged. [2] Controllers who have until now approved such items unilaterally should therefore review every pending purchase order before the deadline.\n\nThe reforms are not intended to slow routine operations. [3], transactions below the threshold will continue to be processed under the existing workflow, provided that supporting documentation is attached. Orders approved before 1 July but not yet paid will remain valid until 30 September, after which they must be resubmitted. Should a controller fail to [4] with the procedure, the matter will be referred to the audit committee. A list of designated signatories is available on the intranet.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "signing",
+          "signatories",
+          "signatory",
+          "signature"
+        ],
+        "answerIndex": 2,
+        "explanation": "A person who 'holds at least the rank of director' must be named, and 'signatory' is the singular noun for an authorized person who signs; 'signature' and 'signing' are not people, and 'signatories' is plural and clashes with 'a second authorized'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Several regional offices had already begun to seek a second signature voluntarily in anticipation of these rules.",
+          "The previous ceiling of €100,000 has been halved, so a far wider range of purchases now requires dual control.",
+          "Purchases below €50,000 will continue to be approved by a single controller under the limits already in force.",
+          "The previous ceiling of €100,000 was introduced to speed up approvals and had remained unchanged for over a decade."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence says controllers who 'approved such items unilaterally' should 'therefore' review pending orders, so the preceding sentence must announce a tighter rule: the ceiling has been halved. The sentence about a decade-old ceiling gives no new burden, the one on purchases below €50,000 contradicts 'such items', and the one on voluntary double signatures describes offices that had not approved unilaterally."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Accordingly",
+          "Previously",
+          "Alternatively",
+          "Otherwise"
+        ],
+        "answerIndex": 0,
+        "explanation": "The sentence draws a practical consequence from 'not intended to slow routine operations': small transactions therefore stay on the existing workflow. 'Otherwise' means 'if not', 'previously' refers to the past and 'alternatively' offers another option, none of which fits."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "complies",
+          "complied",
+          "complying",
+          "comply"
+        ],
+        "answerIndex": 3,
+        "explanation": "After 'fail to' the base form of the verb is required, and 'comply with the procedure' is the fixed collocation; 'complying', 'complied' and 'complies' cannot follow 'to' here."
+      }
+    ]
+  },
+  {
+    "id": "p6-402",
+    "documentType": "article",
+    "text": "Port Operators Brace for Tighter Emissions Rules\n\nOperators of Europe's largest container terminals are preparing for regulations that will oblige vessels to switch off their engines while docked and draw power from the shore instead. The measure, which the transport commission describes as [1] to meeting its climate targets, is expected to cut emissions in port cities by almost a third. The rules are due to take effect in January 2028, with a transitional period for ships already under construction.\n\n[2] Few terminals possess the electrical capacity to supply several ships at once. Rotterdam's operator estimates that connecting its quays will cost more than €400 million, a sum it hopes to recover [3] higher berthing fees. Antwerp expects a similar outlay, whereas the bill for the smaller harbor at Bremerhaven is put at €90 million. Smaller ports, which cannot absorb such expenditure, have called for public subsidies. The commission has so far declined to commit itself, [4] it has acknowledged that unequal support could distort competition between harbors.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "peripheral",
+          "incidental",
+          "integral",
+          "ancillary"
+        ],
+        "answerIndex": 2,
+        "explanation": "The commission presents the measure as central to its climate targets, and 'integral to' means essential to. 'Incidental', 'peripheral' and 'ancillary' all describe something secondary, which contradicts a measure expected to cut emissions by a third."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Implementation, moreover, will be monitored closely by inspectors in each of the major port cities concerned.",
+          "Environmental groups, however, regard the expected reduction as far too modest to matter.",
+          "Shipping lines, however, have long argued that the rule should cover passenger ferries only.",
+          "Implementation, however, will prove considerably harder than the commission's announcement implies."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence ('Few terminals possess the electrical capacity...') illustrates a practical difficulty, so the previous sentence must announce that implementation will be hard. Inspections, the position of shipping lines and the views of environmental groups do not lead into the problem of terminal capacity."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "regardless of",
+          "notwithstanding",
+          "despite",
+          "through"
+        ],
+        "answerIndex": 3,
+        "explanation": "A sum is recovered 'through' higher berthing fees, meaning by means of them. 'Despite', 'notwithstanding' and 'regardless of' all express contrast or disregard, which makes no sense when describing how a cost is recouped."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "in case",
+          "so that",
+          "unless",
+          "although"
+        ],
+        "answerIndex": 3,
+        "explanation": "The commission declines to commit itself even though it admits the risk of distortion, which is a concession and calls for 'although'. 'Unless' sets a condition, 'in case' expresses precaution and 'so that' expresses purpose; none fits the contrast with what precedes."
+      }
+    ]
+  },
+  {
+    "id": "p6-403",
+    "documentType": "letter",
+    "text": "Hartwell Trust\n14 Bellamy Row, Oxford\n\nDear Professor Aldana,\n\nOn behalf of the Hartwell Trust, I am pleased to confirm that your application for funding has been approved in principle. The award, totaling £180,000 over three years, is [1] upon the satisfactory completion of an ethical review, which our panel will arrange once your team has submitted the revised protocol. In our experience, such reviews take between six and eight weeks.\n\n[2] Disbursement will occur in three equal annual installments of £60,000, the first of which will be released within thirty days of the review's outcome. The Trust expects to be kept informed of any significant deviation from the agreed timetable. [3] a delay prove unavoidable, you are asked to notify the program officer in writing at the earliest opportunity, [4] the matter can be considered before the next installment falls due.\n\nPlease acknowledge receipt of this letter by return of post. We look forward to supporting your research.\n\nYours sincerely,\nMarguerite Ellison\nDirector of Grants",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "relevant",
+          "dependable",
+          "contingent",
+          "consistent"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Contingent upon' is the fixed collocation meaning dependent on a condition, as in 'is contingent upon the satisfactory completion of an ethical review'. 'Dependable', 'consistent' and 'relevant' cannot be followed by 'upon' in this sense."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The approval was therefore provisional, and no funds had been committed to staff or equipment until the review concluded.",
+          "The approval is therefore provisional, and no funds may be committed to staff or equipment until the review is concluded.",
+          "The approval is therefore provisional, but funds may be committed to staff or equipment while the review is still pending.",
+          "The approval is therefore final, and funds may be committed to staff or equipment before the review is concluded."
+        ],
+        "answerIndex": 1,
+        "explanation": "The award is described as 'contingent upon' the review, and the next sentence releases the first installment only after 'the review's outcome', so the approval must be provisional with no commitment of funds until then. 'Final' and 'funds may be committed ... while the review is still pending' contradict that condition, and the past-tense version does not fit a letter that confirms the position now."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Should",
+          "Whereas",
+          "Albeit",
+          "Unless"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Should a delay prove unavoidable' is an inverted conditional meaning 'If a delay proves unavoidable'; the bare verb 'prove' confirms the structure. 'Whereas', 'unless' and 'albeit' cannot introduce this inverted clause."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "lest",
+          "so that",
+          "even though",
+          "provided that"
+        ],
+        "answerIndex": 1,
+        "explanation": "'so that the matter can be considered' states the purpose of notifying the program officer early. 'Even though' and 'provided that' give the wrong logic, and 'lest' means 'for fear that' and requires a negative idea and a different verb form."
+      }
+    ]
+  },
+  {
+    "id": "p6-404",
+    "documentType": "email",
+    "text": "To: All Department Heads\nFrom: Kwame Asante, Chief Operating Officer\nSubject: Interim hiring restrictions\n\nIn view of the revenue shortfall reported at the end of the second quarter, the board has asked that all non-essential recruitment be suspended with immediate effect. [1] Vacancies that have already been advertised will be [2] only where the post is directly linked to a contractual obligation to a client. Any such exception must be approved in writing by the Finance Director before interviews are scheduled.\n\nI appreciate that this decision will place additional pressure on teams that are already stretched. [3], I would ask you to resist the temptation to redistribute workloads informally; any adjustment should be agreed with Human Resources beforehand so that overtime is [4] correctly. Requests for exemptions should reach Dana Whitfield by 14 July. The restrictions will be reviewed at the end of the financial year, and you will be informed of any change.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Failure to meet that standard therefore carries a financial consequence for Orbis rather than for customers.",
-          "Customers who experience interruptions must therefore bear the cost of any resulting losses themselves, without recourse.",
-          "Scheduled maintenance will therefore be counted as downtime for the purposes of the calculation described above.",
-          "Service credits will therefore be unavailable to customers during the first year of their subscription period."
+          "Posts that were advertised before this announcement have been withdrawn automatically, and none will be considered externally.",
+          "Employees who resign or retire will not be replaced automatically, and temporary staff will be hired externally instead.",
+          "Posts that fall vacant through resignation or retirement will be refilled automatically, and each will be advertised externally.",
+          "Posts that fall vacant through resignation or retirement will not be refilled automatically, and none will be advertised."
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence says customers 'are entitled to a service credit' when availability falls short, so the previous sentence must say that failure costs the provider. The others contradict the text: customers bear losses, maintenance counts as downtime (it is excluded), or credits are unavailable."
+        "answerIndex": 3,
+        "explanation": "The freeze covers posts that fall vacant, and the following sentence turns to vacancies 'already advertised' as the exception, so only the sentence saying that none will be advertised externally leads into it. The sentences that refill posts or hire temporary staff contradict the suspension, and the one about withdrawn advertisements clashes with the exception for advertised vacancies."
       },
       {
         "blank": 2,
-        "category": "connector",
+        "category": "grammar",
         "choices": [
-          "Whereas",
-          "Should",
-          "Although",
-          "Albeit"
+          "being pursued",
+          "to pursue",
+          "pursued",
+          "pursuing"
         ],
-        "answerIndex": 1,
-        "explanation": "'Should the shortfall exceed four hours' is an inverted conditional meaning 'if the shortfall exceeds'; 'whereas', 'although' and 'albeit' cannot take the subjunctive 'exceed' or introduce a condition."
+        "answerIndex": 2,
+        "explanation": "'Vacancies ... will be pursued' is a simple future passive, which needs the past participle. 'Will be pursuing' makes the vacancies the doer, and 'will be to pursue' and 'will be being pursued' are not possible structures."
       },
       {
         "blank": 3,
-        "category": "vocabulary",
+        "category": "connector",
         "choices": [
-          "entailed",
-          "entrusted",
-          "entertained",
-          "enacted"
+          "Nevertheless",
+          "Consequently",
+          "Furthermore",
+          "Likewise"
         ],
-        "answerIndex": 2,
-        "explanation": "A claim that is late 'will not be entertained', meaning considered; 'entailed' means involved, 'entrusted' means assigned, and 'enacted' means made into law."
+        "answerIndex": 0,
+        "explanation": "The writer concedes that the decision adds pressure and then asks managers to resist informal redistribution anyway, so the concessive 'Nevertheless' fits. 'Consequently' would present the request as a result of the pressure, and 'Furthermore' and 'Likewise' merely add or compare."
       },
       {
         "blank": 4,
-        "category": "vocabulary",
+        "category": "grammar",
         "choices": [
-          "breadth",
-          "brink",
-          "breeding",
-          "breach"
+          "to record",
+          "recorded",
+          "record",
+          "recording"
         ],
-        "answerIndex": 3,
-        "explanation": "A failure to meet the commitment is a 'breach' of it; 'breadth', 'brink' and 'breeding' cannot follow 'remedy for' with that meaning."
+        "answerIndex": 1,
+        "explanation": "After 'overtime is' the passive needs a past participle: 'overtime is recorded correctly'. 'Recording', 'to record' and 'record' cannot follow 'is' here."
       }
     ]
   }

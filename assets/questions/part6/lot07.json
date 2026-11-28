@@ -1,166 +1,551 @@
 [
   {
-    "id": "p6-427",
-    "documentType": "job_ad",
-    "text": "Operations Analyst – Fenwick Freight Solutions\n\nFenwick Freight Solutions, a family-owned haulier with depots in six countries, is expanding its analytics team. We are looking for an Operations Analyst who will [1] raw shipment data into clear recommendations for depot managers.\n\n[2] You will work alongside experienced planners, and you will be encouraged to challenge established practice where the evidence supports a different approach. The post suits a candidate with a quantitative degree and at least two years' experience of logistics or a related field. [3] prior knowledge of our routing software is not required, applicants must be [4] with advanced spreadsheet functions and at least one query language.",
+    "id": "p6-445",
+    "documentType": "web_page",
+    "text": "Valmont Technical Institute – Admissions Requirements\n\nApplicants for the Higher Diploma in Mechanical Engineering must hold either a recognized upper-secondary qualification or equivalent professional experience. [1] Those who fall short of this threshold may nevertheless be considered, [2] they can demonstrate relevant achievement through a portfolio of work.\n\nAll applicants are required to submit two references, at least one of which should be from a recent employer or teacher who can [3] to their capacity for independent study. [4] we receive a large number of applications each year, interviews are offered only to those whose submissions meet the published criteria. Successful candidates will be notified by 15 July, and the autumn term begins on 2 September. Applications received after the closing date of 31 May will be held over to the following year. Further information is available from the Admissions Office.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Most successful applicants hold a grade equivalent to a B in mathematics, though the Institute sets no minimum.",
+          "A grade equivalent to a B in mathematics is normally expected, together with a pass in physics or technology.",
+          "Applications are assessed on a rolling basis, and offers are normally made within two weeks of the interview.",
+          "A grade equivalent to a B in mathematics is a strict requirement, and no exceptions to it are ever made."
+        ],
+        "answerIndex": 1,
+        "explanation": "'This threshold' needs a stated entry standard, and the sentence that sets a grade B in mathematics plus a pass in physics or technology supplies it. A 'strict requirement' with 'no exceptions' contradicts 'may nevertheless be considered', and the other two mention no minimum at all, so 'this threshold' would have nothing to refer to."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "provided that",
+          "so that",
+          "even if",
+          "as though"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Provided that they can demonstrate relevant achievement' sets the condition under which weaker applicants are considered. 'As though' compares, 'even if' would make the portfolio irrelevant and 'so that' expresses purpose."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "attain",
+          "attest",
+          "attach",
+          "attend"
+        ],
+        "answerIndex": 1,
+        "explanation": "A referee 'attests to' someone's capacity, meaning confirms it. 'Attend to', 'attach to' and 'attain to' do not produce a sensible statement about a candidate's capacity for study."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Given that",
+          "Unless",
+          "Although"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Given that we receive a large number of applications' states the reason for limiting interviews. 'Whereas' and 'Although' would need a contrast with the main clause, and 'Unless' would turn the volume of applications into an unlikely condition."
+      }
+    ]
+  },
+  {
+    "id": "p6-446",
+    "documentType": "email",
+    "text": "To: Regional Sales Directors\nFrom: Octavia Brandt, Head of Customer Strategy\nSubject: Key account review\n\nThe annual review of our twenty largest accounts has now been completed, and the findings are attached. In summary, nine accounts have increased their spending, six have remained [1], and five have reduced it, in three cases because of consolidation within the customer's own industry. Detailed figures for each region are in the appendix. Together, these accounts generated £48 million last year, of which the five declining accounts represent £6.5 million.\n\n[2] Retention, rather than acquisition, will therefore be our priority in the coming year. Directors are asked to prepare a recovery plan for each account that has declined, [3] the specific reasons given by the customer. These plans should be submitted by 20 January, [4] the strategy meeting on 3 February can consider them in full.",
     "questions": [
       {
         "blank": 1,
         "category": "vocabulary",
         "choices": [
-          "translate",
-          "transcend",
-          "transmit",
-          "transplant"
+          "unbalanced",
+          "undisclosed",
+          "unchanged",
+          "unsettled"
         ],
-        "answerIndex": 0,
-        "explanation": "Analysts 'translate' data into recommendations, meaning convert it; 'transcend' means go beyond, 'transmit' means send, and 'transplant' means move."
+        "answerIndex": 2,
+        "explanation": "The three groups are 'increased', 'remained ...' and 'reduced', so the middle group has stayed at the same level: 'unchanged'. 'Unsettled', 'undisclosed' and 'unbalanced' do not describe spending that neither rose nor fell."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The role offers an unusually indirect route from analysis to action, since managers act on most recommendations within a year.",
-          "The role offers an unusually direct route from analysis to action, since managers act on most recommendations within a week.",
-          "The role offers an unusually direct route from analysis to action, although managers rarely act on recommendations.",
-          "The role offered an unusually direct route from analysis to action, since managers acted on most recommendations within a week."
+          "The figures suggest that our main commercial risk lies in failing to win new customers rather than in losing established ones.",
+          "The figures suggest that our main commercial opportunity lies in winning new customers rather than in keeping established ones.",
+          "The figures suggest that our main commercial risk lies in losing established customers rather than in failing to win new ones.",
+          "The figures suggest that consolidation within customers' industries is a commercial risk that we cannot influence in any way."
+        ],
+        "answerIndex": 2,
+        "explanation": "The next sentence says 'Retention, rather than acquisition, will therefore be our priority', so the preceding sentence must identify losing existing customers as the main risk. The versions that put the risk or opportunity in winning new customers reverse the logic, and a risk that 'we cannot influence' would make a retention priority pointless."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "by means of",
+          "on behalf of",
+          "in light of",
+          "in lieu of"
+        ],
+        "answerIndex": 2,
+        "explanation": "Plans prepared 'in light of the specific reasons given' take those reasons into account. 'By means of', 'on behalf of' and 'in lieu of' are fixed phrases with different meanings (method, representation, substitution) that do not fit before 'reasons'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "as long as",
+          "in case",
+          "even though",
+          "so that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'So that the strategy meeting ... can consider them' gives the purpose of the 20 January deadline. 'As long as' and 'even though' would turn it into a condition or a concession, and 'in case' would suggest a precaution."
+      }
+    ]
+  },
+  {
+    "id": "p6-447",
+    "documentType": "notice",
+    "text": "NOTICE OF ANNUAL ELECTION\nThe Greenfield Allotment Society\n\nNominations are invited for the three vacancies on the management committee, which will be filled at the annual general meeting on 18 September in the village hall at 7 p.m. [1] Candidates must be paid-up members of at least twelve months' standing and must be proposed and seconded by two other members.\n\nNomination forms are available from the secretary and must be [2] to her no later than 4 September. Any member who is unable to attend the meeting may appoint a proxy, [3] the proxy's authority must be notified in writing before the start of proceedings. Should the number of nominations not exceed the number of vacancies, those nominated will be declared elected [4] a vote. The names of all candidates will be displayed on the society's notice board from 11 September.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Any member of the society is eligible to stand, provided that the conditions set out below are met.",
+          "Any member of the society is eligible to vote, provided that the conditions set out below are met.",
+          "Any member of the society was eligible to stand, provided that the conditions set out below were met.",
+          "Any member of the society is eligible to stand, regardless of the conditions set out below."
+        ],
+        "answerIndex": 0,
+        "explanation": "The following sentence lists conditions that candidates 'must' satisfy, so the introductory sentence has to make eligibility depend on 'the conditions set out below'. 'Regardless of the conditions' contradicts that list, 'eligible to vote' shifts the topic from candidates to electors, and the past tense does not suit a notice about a forthcoming meeting."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "returning",
+          "returned",
+          "return",
+          "having returned"
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence says the analyst will work with planners and challenge practice, which presupposes real influence; only the first option gives that. The others describe an indirect route, say managers ignore recommendations, or use a past tense."
+        "explanation": "After 'must be' the past participle is needed to form the passive: 'must be returned to her'. 'Returning', 'return' and 'having returned' cannot follow 'must be' here."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "Because",
-          "Provided",
-          "While",
-          "Whenever"
+          "albeit",
+          "provided that",
+          "in case",
+          "whereas"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Provided that the proxy's authority is notified' states the condition for appointing a proxy. 'Whereas' expresses contrast, 'albeit' cannot introduce a full clause, and 'in case' would suggest a precaution rather than a requirement."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "within",
+          "through",
+          "without",
+          "beyond"
         ],
         "answerIndex": 2,
-        "explanation": "'While prior knowledge ... is not required' concedes a limit before the stronger demand; 'because' and 'whenever' do not fit, and 'provided' needs 'that'."
+        "explanation": "'Declared elected without a vote' means no ballot is needed because nominations do not exceed vacancies. 'Through', 'beyond' and 'within' do not fit the meaning."
+      }
+    ]
+  },
+  {
+    "id": "p6-448",
+    "documentType": "review",
+    "text": "Review: Corporate Governance in Practice by Jonas Lindqvist\n\nLindqvist's new book is billed as a practical guide for non-executive directors, and for much of its length it lives up to that promise. Its early chapters set out, in clear and unpretentious prose, the duties that directors owe to shareholders and the means by which those duties can be enforced. [1]\n\nThe middle section is less successful. Case studies are presented [2] sufficient analysis, and the reader is left to draw conclusions that the author has not [3]. The final chapters, [4], recover much of the lost ground, offering a persuasive account of how boards can resist pressure from dominant executives.\n\nAt £42 in hardback, the book is not cheap; the paperback, due in March, should reach a wider audience. Readers seeking only an introduction to audit committees may prefer Mara Quill's shorter handbook, although Lindqvist's treatment of remuneration is more thorough.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "These opening chapters were the book's greatest strength and, on their own, almost justified the purchase.",
+          "This opening chapter is the book's greatest strength and, on its own, almost justifies the purchase.",
+          "These opening chapters are the book's greatest weakness and, on their own, almost discourage the purchase.",
+          "These opening chapters are the book's greatest strength and, on their own, almost justify the purchase."
+        ],
+        "answerIndex": 3,
+        "explanation": "The preceding sentence describes the 'early chapters' in plural and in the present tense, so only 'These opening chapters are the book's greatest strength' refers back correctly and keeps the praise. The singular 'This opening chapter' mismatches the plural, 'greatest weakness' contradicts 'clear and unpretentious prose', and the past tense clashes with the present-tense review."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "with",
+          "following",
+          "without",
+          "despite"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Without sufficient analysis' matches the criticism that 'the reader is left to draw conclusions'. 'With' and 'following' would suggest the analysis was adequate, and 'despite sufficient analysis' makes no logical sense."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "subsidized",
+          "subordinated",
+          "substantiated",
+          "substituted"
+        ],
+        "answerIndex": 2,
+        "explanation": "Conclusions that the author has not 'substantiated' are conclusions not supported by evidence. 'Subsidized' means financed, 'subordinated' means ranked lower and 'substituted' means replaced, none of which fits conclusions the reader must draw."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "by contrast",
+          "for example",
+          "in short",
+          "as a result"
+        ],
+        "answerIndex": 0,
+        "explanation": "After a weak middle section, 'The final chapters, by contrast, recover much of the lost ground' marks the opposition. 'In short', 'for example' and 'as a result' do not express a contrast with the previous paragraph."
+      }
+    ]
+  },
+  {
+    "id": "p6-449",
+    "documentType": "memo",
+    "text": "To: Programme Managers\nFrom: Lucian Moreau, Quality Assurance\nSubject: Supplier audit findings\n\nThe audit of our three principal component suppliers was completed last week. Two met every requirement; the third, Delvaux Metals, fell short in several respects. [1] In particular, its records of batch testing were incomplete, which makes it impossible to trace defective parts to their origin. The audit also found that the calibration certificates for two of the gauges had expired in January.\n\nDelvaux has been given sixty days to submit a corrective action plan. [2] we receive no satisfactory response, orders will be transferred to an alternative supplier. In the meantime, programme managers should examine all incoming deliveries from Delvaux, [3] must now be accompanied by complete batch certificates, and report any anomaly at once. Please note that the audit report is confidential and must not be [4] outside the company. A summary will be presented at the quarterly review on 12 June.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Its quality management system fails to meet several requirements of the standard on which our certification depends.",
+          "Its quality management system will be re-examined within sixty days against the standard on which our certification depends.",
+          "The quality management systems of the other two suppliers fail to meet the standard on which our certification depends.",
+          "Its quality management system meets most requirements of the standard on which our certification depends."
+        ],
+        "answerIndex": 0,
+        "explanation": "'In particular' narrows a general criticism down to one example, so the preceding sentence must state that the system 'fails to meet several requirements'. A positive verdict conflicts with 'fell short', the planned re-examination anticipates the next paragraph without describing the shortcomings, and criticising the other two suppliers contradicts 'Two met every requirement'."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Should",
+          "Insofar",
+          "Whereas",
+          "Albeit"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Should we receive no satisfactory response' is an inverted conditional meaning 'if we receive'. 'Whereas' contrasts two facts, 'albeit' introduces a concession and 'insofar' needs 'as', so none can open this condition."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "what",
+          "which",
+          "that",
+          "whose"
+        ],
+        "answerIndex": 1,
+        "explanation": "A non-defining relative clause after a comma and referring to 'deliveries' requires 'which'; 'that' cannot follow a comma, 'what' has no antecedent and 'whose' would have to be followed by a noun."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "prolific",
-          "profound",
-          "prominent",
-          "proficient"
+          "disclosed",
+          "dispensed",
+          "displaced",
+          "disposed"
         ],
-        "answerIndex": 3,
-        "explanation": "A candidate must be 'proficient with' functions, meaning skilled; 'prolific' means productive, 'profound' means deep, and 'prominent' means well known."
+        "answerIndex": 0,
+        "explanation": "A confidential report must not be 'disclosed', meaning revealed, outside the company; 'disposed' needs 'of', 'displaced' means moved from its place and 'dispensed' means distributed or done without."
       }
     ]
   },
   {
-    "id": "p6-428",
-    "documentType": "web_page",
-    "text": "Aldwych Concert Hall – Ticket Exchange and Refund Policy\n\nTickets may be exchanged for another performance of the same program up to forty-eight hours before the start, [1] a fee of £5 per ticket. Exchanges are subject to availability, and no refund will be made where the replacement performance carries a lower price.\n\n[2] Where a performance is canceled by the hall, ticket holders will be offered a full refund or a credit valid for twelve months. The hall cannot, [3], accept responsibility for travel or accommodation costs incurred by patrons. Patrons who are unable to attend because of illness may request a credit, [4] they supply a medical certificate within seven days of the performance.",
+    "id": "p6-450",
+    "documentType": "advertisement",
+    "text": "Lakeshore Conference Centre\n\nChoosing a venue for a corporate event involves more than counting seats. At Lakeshore, we recognize that the success of a meeting depends on [1] details that delegates seldom notice but always feel: natural light, reliable connectivity, and rooms in which people can hear one another without effort.\n\n[2] To that end, our nine rooms, which accommodate between ten and four hundred guests, can be reconfigured overnight, and our in-house team handles every aspect of catering and equipment. [3] it is a board retreat or an international congress, a single coordinator will oversee your event from the first inquiry to the final invoice. To encourage early planning, inquiries received [4] 15 May qualify for a ten percent reduction on autumn bookings. Our events office is open Monday to Friday, and site visits are available by appointment.",
     "questions": [
       {
         "blank": 1,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "subject to",
-          "subjected to",
-          "subjecting to",
-          "subject for"
+          "solitary",
+          "suitable",
+          "sizeable",
+          "subtle"
         ],
-        "answerIndex": 0,
-        "explanation": "'Subject to a fee' means on payment of one; 'subjected to' implies suffering, and the other forms are ungrammatical."
+        "answerIndex": 3,
+        "explanation": "'Subtle details' are small, delicate things that delegates 'seldom notice but always feel'. 'Suitable', 'sizeable' and 'solitary' do not describe features that go unnoticed."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The hall reserves the right to substitute artists or alter programs, in which case an exchange or refund will be offered.",
-          "The hall reserves the right to substitute artists or alter programs, in which case no exchange or refund will be offered.",
-          "The hall reserves the right to change the date or venue, in which case no exchange or refund will be offered.",
-          "The hall reserved the right to substitute artists, in which case no exchange or refund was offered."
+          "Equally important is the assurance that every guest can reach the venue easily by rail.",
+          "Equally important is the option to postpone an event at no charge up to a fortnight beforehand.",
+          "Equally important is the freedom to adapt a space to the size, style and format of each event.",
+          "Equally important is the reassurance that all rooms are fully accessible to guests with limited mobility."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence contrasts with the previous one: 'Where a performance is canceled' gives a different outcome (refund). So the previous sentence must state a case where no refund applies; only the first does. The others offer a refund, change the date, or use a past tense."
+        "answerIndex": 2,
+        "explanation": "'To that end' in the next sentence needs a goal that rooms 'reconfigured overnight' can serve, namely adapting a space to each event. Rail access, free postponement and accessibility for guests with limited mobility are not goals that reconfiguring rooms would achieve."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "therefore",
-          "moreover",
+          "Whereas",
+          "Provided that",
+          "Even though",
+          "Whether"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Whether it is a board retreat or an international congress' presents two alternatives and says the outcome is the same for both. 'Whereas', 'provided that' and 'even though' cannot introduce a pair of alternatives."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "following",
+          "before",
+          "since",
+          "during"
+        ],
+        "answerIndex": 1,
+        "explanation": "To encourage early planning, inquiries received 'before 15 May' qualify, which sets a deadline. 'Following' would reward late inquiries, 'during' does not fit a single date and 'since' looks back from the present."
+      }
+    ]
+  },
+  {
+    "id": "p6-451",
+    "documentType": "letter",
+    "text": "Dear Dr. Fontaine,\n\nI am writing to confirm the arrangements for your forthcoming lecture at the Institute on 21 November. We should be grateful if you could arrive by 5 p.m., so that the technical team may test the equipment and [1] you with the layout of the auditorium. A member of staff will meet you at the main entrance.\n\nThe lecture is scheduled to begin at 6.30 p.m. and to last approximately fifty minutes, followed by questions from the audience. [2]\n\n[3] your fee, we shall pay it by bank transfer within fourteen days of the event, together with any travel costs that you have [4]. Please send receipts to my office by 28 November. Should you require accommodation, a room has been reserved for you at the Grand Hotel for the night of 21 November.\n\nYours sincerely,\nRenata Illes\nProgramme Coordinator",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "accustom",
+          "acquaint",
+          "associate",
+          "accompany"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Acquaint you with the layout' is the standard construction meaning to make someone familiar with something. 'Associate' changes the meaning, 'accustom' takes 'to' rather than 'with', and 'accompany' cannot be followed by 'with the layout'."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "A dinner in your honor will follow at 5 p.m., and a table has been reserved for you and the Institute's director.",
+          "A dinner in your honor will follow at 8.30 p.m., and a table has been reserved for you and the Institute's director.",
+          "A dinner in your honor will follow at 8.30 p.m., and a table has been reserved for the Institute's director and our donors.",
+          "A dinner in your honor will follow at 7 p.m., and a table has been reserved for you and the Institute's director."
+        ],
+        "answerIndex": 1,
+        "explanation": "The lecture starts at 6.30 p.m. and lasts about fifty minutes plus questions, so a dinner that 'will follow' must start after about 8 p.m.; 8.30 p.m. fits. A dinner at 7 p.m. would overlap the lecture, 5 p.m. falls before it begins, and a table reserved only for the director and donors makes 'in your honor' illogical."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "As for",
+          "As of",
+          "As if",
+          "As with"
+        ],
+        "answerIndex": 0,
+        "explanation": "'As for your fee' introduces a new topic and means 'regarding'. 'As of' refers to a date, 'as if' introduces a comparison, and 'as with' compares one case to another, which does not suit the sentence."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "occurred",
+          "incurred",
+          "assured",
+          "endured"
+        ],
+        "answerIndex": 1,
+        "explanation": "Travel costs are 'incurred' when a person has to pay them in the course of a trip, which is what the Institute will reimburse. 'Occurred' is intransitive, 'endured' means suffered, and 'assured' means guaranteed, so none of them takes 'travel costs' as an object."
+      }
+    ]
+  },
+  {
+    "id": "p6-452",
+    "documentType": "article",
+    "text": "Shipbuilders Look to Hydrogen\n\nThe world's largest shipbuilders are racing to develop vessels powered by hydrogen, which emits no carbon dioxide when burned. Progress has, [1], been slower than the industry predicted, largely because hydrogen must be stored at very low temperatures and occupies far more space than conventional fuel. Only three prototypes are currently undergoing sea trials, and none has yet carried paying cargo. Industry bodies estimate that development costs for each vessel exceed €200 million.\n\n[2] Engineers at Sorensen Marine believe they have found a partial solution. Their design places the fuel tanks in the hull rather than on deck, thereby [3] cargo capacity by only five percent. The company's chief engineer concedes that the technology will not be commercially viable [4] a global network of refueling ports exists. He expects that this will take at least fifteen years.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "consequently",
+          "likewise",
           "however",
-          "similarly"
+          "accordingly"
         ],
         "answerIndex": 2,
-        "explanation": "'The hall cannot, however, accept responsibility' contrasts with the refund promise; 'therefore', 'moreover' and 'similarly' do not."
+        "explanation": "The sentence contrasts the race to build hydrogen ships with the slower-than-predicted progress, which 'however' marks. 'Accordingly' and 'consequently' would wrongly make slow progress a result of the race, and 'likewise' implies similarity."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Fuel costs have proved the most stubborn obstacle, absorbing a disproportionate share of the sector's research budgets.",
+          "Storage has proved the most stubborn obstacle, absorbing a disproportionate share of the sector's research budgets.",
+          "Storage has long ceased to be an obstacle, and research budgets are now being redirected to other priorities.",
+          "Storage has proved the most stubborn obstacle, yet the sector now regards the problem as entirely solved."
+        ],
+        "answerIndex": 1,
+        "explanation": "The following sentences present a 'partial solution' that moves the tanks into the hull to save space, so the preceding sentence must name storage as the unsolved problem. Saying storage is no longer an obstacle or is entirely solved contradicts 'partial', and 'fuel costs' is not what the hull design addresses."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "reduces",
+          "to reduce",
+          "reduced",
+          "reducing"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Thereby' is followed by a present participle that gives the result of the design: 'thereby reducing cargo capacity'. 'Reduced', 'reduces' and 'to reduce' do not fit after 'thereby'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "although",
+          "whenever",
+          "whereas",
+          "until"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Will not be commercially viable until a global network exists' sets a future point at which the condition changes. 'Whereas', 'although' and 'whenever' do not express a time limit or make sense with the negative statement."
+      }
+    ]
+  },
+  {
+    "id": "p6-453",
+    "documentType": "web_page",
+    "text": "Whitby Regional Hospital – Information for Visitors\n\nVisiting is permitted between 2 p.m. and 8 p.m. on general wards, [1] visiting hours in the intensive care unit are set by the nurse in charge and may change without notice. Visitors are asked to limit themselves to two per patient at any one time and to sanitize their hands on entering and leaving each ward.\n\n[2] Children under twelve may visit only with the agreement of the ward sister, and anyone who has experienced symptoms of infection within the previous forty-eight hours should [3] from visiting. Flowers are not permitted on any ward, [4] they pose a risk of infection to patients with weakened immune systems.\n\nFor guidance on arrangements for a particular patient, please telephone the main switchboard on 01947 555 0161 between 9 a.m. and 5 p.m.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "whereby",
+          "whereupon",
+          "wherein"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whereas' contrasts the general rule (2 p.m. to 8 p.m.) with the different rule for the intensive care unit. 'Whereby', 'wherein' and 'whereupon' do not link two contrasting clauses."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "These restrictions were intended to protect patients who were especially vulnerable to infection, but they no longer apply on general wards.",
+          "These arrangements are intended to protect patients who are especially vulnerable to infection and to allow families to visit without limit.",
+          "These restrictions are intended to protect staff who are especially vulnerable to infection and to allow patients to rest without interruption.",
+          "These restrictions are intended to protect patients who are especially vulnerable to infection and to allow staff to work without obstruction."
+        ],
+        "answerIndex": 3,
+        "explanation": "The following sentences impose conditions on children, on people with symptoms and on flowers, and the flowers are banned because of 'patients with weakened immune systems'. Only the sentence about protecting vulnerable patients matches this. Visiting 'without limit' contradicts the rules that follow, protecting 'staff' ignores the patients named later, and restrictions that 'no longer apply' conflict with the rules still being stated."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "refuse",
+          "refrain",
+          "retreat",
+          "retain"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Refrain from visiting' is the fixed expression meaning to hold back from visiting. 'Retreat', 'retain' and 'refuse' are not followed by 'from visiting' in this sense."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
           "as though",
-          "in case",
-          "on account of",
+          "even though",
+          "given that",
           "provided that"
         ],
-        "answerIndex": 3,
-        "explanation": "'Provided that they supply a medical certificate' sets the condition for the credit; the others misstate the logic or are not conjunctions of condition."
+        "answerIndex": 2,
+        "explanation": "'Given that they pose a risk of infection' supplies the reason for banning flowers. 'Even though' and 'provided that' introduce a concession and a condition, and 'as though' introduces a comparison."
       }
     ]
   },
   {
-    "id": "p6-429",
+    "id": "p6-454",
     "documentType": "email",
-    "text": "Subject: Revised timetable for the audit\n\nDear Mr. Hallström,\n\nFurther to your request, I have revised the timetable for the interim audit of your Gothenburg subsidiary. Fieldwork will now begin on 9 October, [1] a week later than originally planned, to accommodate the system migration that your team has scheduled for the preceding weekend.\n\n[2] The delay will not affect the date of the final report, as we propose to run the testing of controls and the review of inventory counts in parallel. [3] you could confirm by Wednesday that the migration is on schedule, we shall be able to book the necessary staff. Should the date change again, we would [4] the right to adjust our fee accordingly.",
+    "text": "To: Participants in the Graduate Programme\nFrom: Seraphina Quill, Talent Development\nSubject: Rotation placements\n\nI am pleased to confirm your second placement, which begins on 1 June. Each of you will spend six months in a department that differs from your first, [1] you gain a broad understanding of the business before specializing. Individual assignments are attached, together with the name of your new line manager.\n\n[2] The allocations were made on the basis of your ranked preferences and the needs of the departments, and they are not open to negotiation. [3] any concerns about the arrangements, please raise them with your mentor in the first instance. An induction session will take place on 28 May, and attendance is compulsory. You will be expected to [4] a short report on your experience within two weeks of the end of the placement.",
     "questions": [
       {
         "blank": 1,
         "category": "connector",
         "choices": [
-          "that is",
-          "namely",
-          "moreover",
-          "otherwise"
+          "given that",
+          "in that",
+          "so that",
+          "except that"
         ],
-        "answerIndex": 0,
-        "explanation": "'That is, a week later than originally planned' restates the date in other words; 'namely' introduces a list and 'moreover' and 'otherwise' do not clarify."
+        "answerIndex": 2,
+        "explanation": "'So that you gain a broad understanding' states the purpose of rotating departments. 'In that', 'given that' and 'except that' would describe a feature, a cause or an exception, none of which matches the intended aim."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "I appreciate that this arrangement is ideal, but it should maximize disruption to your own finance staff.",
-          "I appreciate that this arrangement is not ideal, but it should minimize disruption to your own finance staff.",
-          "I appreciate that this arrangement is not ideal, and it should minimize disruption to our own audit staff.",
-          "I appreciated that this arrangement was not ideal, but it minimized disruption to your own finance staff."
+          "Unfortunately, some of your mentors will be assigned a participant whom they did not rank first.",
+          "Unfortunately, some of you will be placed in a department that you did not rank as your first choice.",
+          "Unfortunately, some of you will be placed in a department that you did not rank, so negotiation is possible.",
+          "Fortunately, all of you will be placed in a department that you ranked as your first choice."
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence reassures the client that the final report date is unaffected, continuing a conciliatory tone. Only the first sentence is consistent: it concedes the drawback and promises minimal disruption. The others are illogical, change the subject to audit staff, or use a past tense."
+        "explanation": "The next sentence explains that the allocations reflect 'your ranked preferences' and are 'not open to negotiation', which justifies admitting that some placements will disappoint. A promise that everyone gets their top-ranked department, a statement about mentors' rankings, or the claim that negotiation is possible, does not fit that explanation."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "I would be grateful that",
-          "I am grateful if",
-          "I should be grateful if",
-          "I was grateful if"
+          "In anticipation of",
+          "In recognition of",
+          "In compliance with",
+          "In the event of"
         ],
-        "answerIndex": 2,
-        "explanation": "'I should be grateful if you could confirm' is the standard polite request; the others are ungrammatical or inappropriate."
+        "answerIndex": 3,
+        "explanation": "'In the event of any concerns' introduces a possible situation and the instruction to raise it with a mentor. 'In compliance with', 'in recognition of' and 'in anticipation of' do not link concerns to the action requested."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "reverse",
-          "reserved",
-          "reservation",
-          "reserve"
+          "submit",
+          "subdue",
+          "subtract",
+          "subscribe"
         ],
-        "answerIndex": 3,
-        "explanation": "The firm will 'reserve the right' to adjust its fee; after 'would' the base verb is required."
+        "answerIndex": 0,
+        "explanation": "Participants are expected to 'submit a short report', meaning hand it in. 'Subscribe' needs 'to', 'subtract' means take away and 'subdue' means bring under control, so none of them takes 'report' as an object."
       }
     ]
   }
