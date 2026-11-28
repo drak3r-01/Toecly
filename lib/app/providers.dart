@@ -6,6 +6,7 @@ import '../data/exercises/exercise_repository.dart';
 import '../data/exercises/models.dart';
 import '../data/quiz/answer_recorder.dart';
 import '../data/quiz/quiz_request.dart';
+import '../data/storage/daily_progress_repository.dart';
 import '../data/storage/exam_progress_repository.dart';
 import '../data/storage/last_practice_repository.dart';
 import '../data/storage/local_store.dart';
@@ -33,6 +34,10 @@ final seenQuestionsProvider = Provider(
 
 final examProgressProvider = Provider(
   (ref) => ExamProgressRepository(ref.watch(localStoreProvider)),
+);
+
+final dailyProgressProvider = Provider(
+  (ref) => DailyProgressRepository(ref.watch(localStoreProvider)),
 );
 
 final partStatsProvider = Provider(
@@ -75,6 +80,7 @@ final answerRecorderProvider = Provider(
     missed: ref.watch(missedQuestionsProvider),
     history: ref.watch(sessionHistoryProvider),
     seen: ref.watch(seenQuestionsProvider),
+    daily: ref.watch(dailyProgressProvider),
     onChanged: () => ref.read(dataRevisionProvider.notifier).bump(),
   ),
 );

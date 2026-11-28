@@ -871,6 +871,36 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Huge'**
   String get textSizeHuge;
+
+  /// No description provided for @dailyGoalLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Daily goal (questions per day)'**
+  String get dailyGoalLabel;
+
+  /// No description provided for @dailyGoalTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Today\'s goal'**
+  String get dailyGoalTitle;
+
+  /// No description provided for @dailyGoalProgress.
+  ///
+  /// In en, this message translates to:
+  /// **'{done} / {goal} questions'**
+  String dailyGoalProgress(int done, int goal);
+
+  /// No description provided for @dailyGoalReached.
+  ///
+  /// In en, this message translates to:
+  /// **'Goal reached, well done!'**
+  String get dailyGoalReached;
+
+  /// No description provided for @dailyStreak.
+  ///
+  /// In en, this message translates to:
+  /// **'{days, plural, =0{Reach your goal to start a streak} =1{1-day streak} other{{days}-day streak}}'**
+  String dailyStreak(int days);
 }
 
 class _AppLocalizationsDelegate

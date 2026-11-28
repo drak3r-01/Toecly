@@ -4,6 +4,7 @@ import 'package:material_ui/material_ui.dart';
 import '../../app/providers.dart';
 import '../../app/settings/settings_providers.dart';
 import '../../core/widgets/fade_slide_in.dart';
+import '../../data/storage/daily_progress_repository.dart';
 import '../../l10n/app_localizations.dart';
 
 /// Settings: theme (light / dark / system) and language (system / English / French).
@@ -17,6 +18,8 @@ class SettingsScreen extends ConsumerWidget {
     final locale = ref.watch(localeProvider);
     final haptics = ref.watch(hapticsProvider);
     final textSize = ref.watch(textSizeProvider);
+    ref.watch(dataRevisionProvider); // the goal is stored outside a notifier
+    final daily = ref.watch(dailyProgressProvider);
 
     return ListView(
       padding: const EdgeInsets.all(24),
@@ -61,6 +64,22 @@ class SettingsScreen extends ConsumerWidget {
             onSelectionChanged: (selection) => ref
                 .read(localeProvider.notifier)
                 .set(selection.first == 'system' ? null : Locale(selection.first)),
+          ),
+        ),
+        const SizedBox(height: 16),
+        _SettingCard(
+          label: l10n.dailyGoalLabel,
+          child: SegmentedButton<int>(
+            showSelectedIcon: false,
+            segments: [
+              for (final goal in DailyProgressRepository.goalChoices)
+                ButtonSegment(value: goal, label: Text('$goal')),
+            ],
+            selected: {daily.goal},
+            onSelectionChanged: (selection) async {
+              await daily.setGoal(selection.first);
+              ref.read(dataRevisionProvider.notifier).bump();
+            },
           ),
         ),
         const SizedBox(height: 16),
@@ -138,6 +157,7 @@ Future<void> _confirmReset(BuildContext context, WidgetRef ref) async {
   await ref.read(lastPracticeProvider).clear();
   await ref.read(seenQuestionsProvider).clear();
   await ref.read(examProgressProvider).clear();
+  await ref.read(dailyProgressProvider).clear();
   ref.read(dataRevisionProvider.notifier).bump(); // theme and language are kept
 }
 

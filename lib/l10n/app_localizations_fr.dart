@@ -450,4 +450,30 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get textSizeHuge => 'Très grand';
+
+  @override
+  String get dailyGoalLabel => 'Objectif quotidien (questions par jour)';
+
+  @override
+  String get dailyGoalTitle => 'Objectif du jour';
+
+  @override
+  String dailyGoalProgress(int done, int goal) {
+    return '$done / $goal questions';
+  }
+
+  @override
+  String get dailyGoalReached => 'Objectif atteint, bravo !';
+
+  @override
+  String dailyStreak(int days) {
+    String _temp0 = intl.Intl.pluralLogic(
+      days,
+      locale: localeName,
+      other: 'Série de $days jours',
+      one: 'Série de 1 jour',
+      zero: 'Atteins ton objectif pour lancer une série',
+    );
+    return '$_temp0';
+  }
 }

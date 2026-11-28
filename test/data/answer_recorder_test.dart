@@ -3,6 +3,7 @@ import 'package:toecly/core/toeic_part.dart';
 import 'package:toecly/data/exercises/models.dart';
 import 'package:toecly/data/quiz/answer_recorder.dart';
 import 'package:toecly/data/quiz/quiz_session.dart';
+import 'package:toecly/data/storage/daily_progress_repository.dart';
 import 'package:toecly/data/storage/local_store.dart';
 import 'package:toecly/data/storage/missed_questions_repository.dart';
 import 'package:toecly/data/storage/part_stats_repository.dart';
@@ -21,6 +22,7 @@ void main() {
       stats: PartStatsRepository(store),
       missed: MissedQuestionsRepository(store),
       history: SessionHistoryRepository(store),
+      daily: DailyProgressRepository(store),
       now: () => DateTime.utc(2026, 11, 26),
     );
   });
@@ -56,11 +58,17 @@ void main() {
       questions: [fakeQuestion('a', category: QuestionCategory.grammar)],
     );
     await recorder.recordAnswer(exercise, exercise.questions.single, isCorrect: true);
-    expect(PartStatsRepository(store).forCategory(ToeicPart.part5, QuestionCategory.grammar).answered, 1);
+    expect(
+      PartStatsRepository(store).forCategory(ToeicPart.part5, QuestionCategory.grammar).answered,
+      1,
+    );
   });
 
   test('a finished session is added to the history', () async {
-    final session = QuizSession([fakeExercise(ToeicPart.part5, 'a'), fakeExercise(ToeicPart.part6, 'b', documents: 1)]);
+    final session = QuizSession([
+      fakeExercise(ToeicPart.part5, 'a'),
+      fakeExercise(ToeicPart.part6, 'b', documents: 1),
+    ]);
     session
       ..select(0)
       ..advance()
@@ -99,5 +107,12 @@ void main() {
     final session = SessionHistoryRepository(store).loadAll().single;
     expect(session.mode, SessionMode.mockExam);
     expect((session.totalQuestions, session.correctAnswers, session.durationSeconds), (3, 1, 180));
+  });
+
+  test('each answer counts towards the daily goal', () async {
+    final exercise = fakeExercise(ToeicPart.part5, 'a');
+    await recorder.recordAnswer(exercise, exercise.questions.single, isCorrect: true);
+    await recorder.recordAnswer(exercise, exercise.questions.single, isCorrect: false);
+    expect(DailyProgressRepository(store).answeredOn(DateTime(2026, 11, 26)), 2);
   });
 }

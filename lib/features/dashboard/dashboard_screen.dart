@@ -66,6 +66,11 @@ class DashboardScreen extends ConsumerWidget {
             ),
             const SizedBox(height: 16),
             FadeSlideIn(
+              delay: const Duration(milliseconds: 120),
+              child: const _DailyGoalCard(),
+            ),
+            const SizedBox(height: 16),
+            FadeSlideIn(
               delay: const Duration(milliseconds: 160),
               child: FilledButton.icon(
                 onPressed: () => last == null
@@ -299,6 +304,73 @@ class _HeroChip extends StatelessWidget {
               child: Text(
                 label,
                 style: const TextStyle(fontWeight: FontWeight.w600),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+/// Progress of the day towards the daily goal, and the current streak.
+class _DailyGoalCard extends ConsumerWidget {
+  const _DailyGoalCard();
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    ref.watch(dataRevisionProvider);
+    final daily = ref.watch(dailyProgressProvider);
+    final l10n = AppLocalizations.of(context);
+    final theme = Theme.of(context);
+    final now = clock.now();
+    final goal = daily.goal;
+    final done = daily.answeredOn(now);
+    final streak = daily.streak(now);
+    final reached = done >= goal;
+
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(18),
+        child: Row(
+          children: [
+            ScoreGauge(
+              value: done / goal,
+              size: 64,
+              stroke: 8,
+              child: Icon(
+                reached ? Icons.check_rounded : Icons.flag_rounded,
+                color: theme.colorScheme.primary,
+              ),
+            ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(l10n.dailyGoalTitle, style: theme.textTheme.titleMedium),
+                  Text(
+                    reached ? l10n.dailyGoalReached : l10n.dailyGoalProgress(done, goal),
+                    style: theme.textTheme.bodyMedium,
+                  ),
+                  const SizedBox(height: 8),
+                  Row(
+                    children: [
+                      Icon(
+                        Icons.local_fire_department_rounded,
+                        size: 20,
+                        color: streak > 0 ? BrandColors.coral : theme.disabledColor,
+                      ),
+                      const SizedBox(width: 6),
+                      Flexible(
+                        child: Text(
+                          l10n.dailyStreak(streak),
+                          style: theme.textTheme.bodyMedium?.copyWith(fontWeight: FontWeight.w700),
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
               ),
             ),
           ],
