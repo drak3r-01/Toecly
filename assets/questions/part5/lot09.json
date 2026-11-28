@@ -1,185 +1,211 @@
 [
   {
-    "id": "p5-1655",
-    "sentence": "The firewall prevents unauthorized users ___ the confidential database from outside the network.",
+    "id": "p5-2003",
+    "sentence": "The software's ___ with legacy operating systems remains a concern for the IT department.",
     "choices": [
-      "from having entered",
-      "from entering",
-      "of entering",
-      "to enter"
+      "compatibilities",
+      "compatibility",
+      "compatible",
+      "compatibly"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Prevent someone from doing' is the pattern. 'to enter' and 'of entering' are not used, and 'from having entered' changes the sense."
+    "explanation": "A noun is needed after 'software's', and a singular noun agrees with 'remains'. 'Compatible' is an adjective, 'compatibly' an adverb, and 'compatibilities' is plural."
   },
   {
-    "id": "p5-1656",
-    "sentence": "Management has decided against ___ additional staff until the second-quarter results are published.",
+    "id": "p5-1713",
+    "sentence": "Both parties agreed to submit the dispute to binding ___ rather than pursue lengthy litigation.",
     "choices": [
-      "hiring",
-      "hire",
-      "to hire",
-      "having hired"
+      "arbitrage",
+      "arbitration",
+      "abrogation",
+      "arbitrariness"
     ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Decide against' takes a gerund. The others use an infinitive or a perfect gerund that changes the meaning."
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Binding arbitration is a private ruling procedure. Arbitrage is trading, arbitrariness is randomness, abrogation is repeal."
   },
   {
-    "id": "p5-1657",
-    "sentence": "She suggested ___ the product launch until the regulatory approval had been confirmed.",
+    "id": "p5-2023",
+    "sentence": "Employees on ___ can be dismissed with only one week's notice during their first six months.",
     "choices": [
-      "postpone",
-      "postponed",
-      "postponing",
-      "to postpone"
+      "sabbatical",
+      "secondment",
+      "probation",
+      "tenure"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Suggest' is followed by a gerund. 'to postpone' is not used after 'suggest' and the others are unmarked."
+    "category": "vocabulary",
+    "explanation": "Probation is a trial period at the start of a job, during which dismissal is easier. Secondment is a temporary transfer, sabbatical is extended leave, and tenure is secure employment, so none carries a short notice rule for new starters."
   },
   {
-    "id": "p5-1658",
-    "sentence": "It is not worth ___ more money on a project that has already exceeded its budget twice.",
+    "id": "p5-1864",
+    "sentence": "The tenant offered a cash deposit ___ a bank guarantee, which the landlord accepted.",
     "choices": [
-      "to spend",
-      "spend",
-      "spent",
-      "spending"
+      "in spite of",
+      "in line with",
+      "in view of",
+      "in lieu of"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Not worth' takes a gerund. The infinitive and base form are wrong and 'spent' is a participle."
+    "explanation": "'In lieu of' means instead of. 'In view of' means considering, 'in line with' means consistent with, and 'in spite of' means despite."
   },
   {
-    "id": "p5-1659",
-    "sentence": "The clients are used ___ detailed monthly reports, so any delay will be noticed immediately.",
+    "id": "p5-1649",
+    "sentence": "The report, ___ in haste, contained numerous factual errors that embarrassed the entire department.",
     "choices": [
-      "receiving",
-      "for receiving",
-      "to receive",
-      "to receiving"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Be used to' takes a gerund. 'to receive' means a different structure and the others do not fit."
-  },
-  {
-    "id": "p5-1660",
-    "sentence": "The audit team was reluctant ___ any conclusions before examining the remaining records.",
-    "choices": [
-      "drawing",
-      "to draw",
-      "to drawing",
-      "drawn"
+      "writing",
+      "written",
+      "wrote",
+      "having written"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Reluctant' is followed by an infinitive. The other forms are not used with this adjective."
+    "explanation": "A past participle gives a passive reduced clause. 'writing' and 'having written' are active, and 'wrote' cannot start a reduced clause."
   },
   {
-    "id": "p5-1661",
-    "sentence": "Employees are discouraged from ___ personal devices to connect to the corporate network.",
+    "id": "p5-1252",
+    "sentence": "The retailer's decision to close three stores was ___ by weak holiday sales.",
     "choices": [
-      "use",
-      "having used",
-      "using",
-      "to use"
+      "participated",
+      "perpetuated",
+      "precipitated",
+      "predicated"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Precipitated' means triggered. 'Participated' needs 'in', 'perpetuated' means prolonged, and 'predicated' means based."
+  },
+  {
+    "id": "p5-1412",
+    "sentence": "The consultant, ___ for his tough negotiating style, was hired to lead the talks.",
+    "choices": [
+      "knowing",
+      "having known",
+      "known",
+      "knew"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Discourage from' takes a gerund. The infinitive and base form do not fit and 'having used' alters the meaning."
+    "explanation": "'Known for' is the reduced passive clause. The others are active or finite."
   },
   {
-    "id": "p5-1662",
-    "sentence": "We are in the process of ___ our entire inventory management system before the peak season.",
+    "id": "p5-2159",
+    "sentence": "A ___ right allows minority shareholders to sell their shares alongside the majority holder on identical terms.",
     "choices": [
-      "overhauling",
-      "to overhaul",
-      "overhauled",
+      "drag-along",
+      "tag-along",
+      "roll-over",
+      "buy-back"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "A tag-along right lets minority holders join a sale by the majority on the same terms. Drag-along forces minority holders to sell, roll-over means reinvesting proceeds, and buy-back means a company repurchasing its shares, so none matches the definition."
+  },
+  {
+    "id": "p5-2180",
+    "sentence": "Banks must meet ___ requirements on capital and liquidity set by the supervisory authority.",
+    "choices": [
+      "cautious",
+      "prudential",
+      "peremptory",
+      "provident"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Prudential rules are financial regulations designed to keep institutions safe and solvent. Peremptory means commanding, provident means careful with future needs, and cautious means careful, so none is the regulatory term for capital and liquidity rules."
+  },
+  {
+    "id": "p5-1807",
+    "sentence": "Non-executive directors provide independent ___ over the management's strategic decisions.",
+    "choices": [
+      "oversight",
+      "overtone",
+      "overdraft",
       "overhaul"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'In the process of' takes a gerund. The others are wrong forms after a preposition."
+    "category": "vocabulary",
+    "explanation": "Oversight is supervision. The others do not describe supervision."
   },
   {
-    "id": "p5-1663",
-    "sentence": "The consultants were not able ___ the root cause of the recurring system failures.",
+    "id": "p5-1823",
+    "sentence": "The regulator is ___ to approve the merger provided certain assets are sold.",
     "choices": [
-      "identifying",
-      "to identify",
-      "identify",
-      "to identifying"
+      "inept",
+      "inclined",
+      "inclusive",
+      "incidental"
     ],
     "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Be able' is followed by 'to' plus infinitive. The others use the wrong form."
+    "category": "vocabulary",
+    "explanation": "Inclined to means disposed to. The others do not."
   },
   {
-    "id": "p5-1664",
-    "sentence": "The board is considering ___ to a four-day week on a trial basis next spring.",
+    "id": "p5-1411",
+    "sentence": "Companies ___ to meet the new emissions targets will face escalating financial penalties.",
     "choices": [
-      "move",
-      "moved",
-      "moving",
-      "to move"
+      "failing",
+      "failed",
+      "to fail",
+      "having failed"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "A present participle reduces an active relative clause ('that fail'). 'failed' would be passive, and the others do not fit."
+  },
+  {
+    "id": "p5-2065",
+    "sentence": "Retailers are under pressure to prove the ___ of their raw materials, including where the cotton was grown.",
+    "choices": [
+      "inheritance",
+      "heritage",
+      "provenance",
+      "ancestry"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Consider' takes a gerund. The infinitive is not used and the others do not fit."
+    "category": "vocabulary",
+    "explanation": "Provenance is the place of origin and the recorded history of something. Heritage, inheritance and ancestry concern cultural legacy, property passing on death, and family descent, so none describes where cotton was grown."
   },
   {
-    "id": "p5-1665",
-    "sentence": "Please refrain from ___ company equipment for personal purposes during working hours.",
+    "id": "p5-1810",
+    "sentence": "Directors owe a ___ duty to act in the best interests of the company.",
     "choices": [
-      "to use",
-      "use",
-      "used",
-      "using"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Refrain from' takes a gerund. The infinitive and base form do not fit and the participle lacks the right meaning."
-  },
-  {
-    "id": "p5-1666",
-    "sentence": "We have no objection to your ___ the proposal to the board directly.",
-    "choices": [
-      "submitting",
-      "to submit",
-      "submit",
-      "submissions"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Objection to' is followed by a possessive plus gerund. The others do not follow 'to your'."
-  },
-  {
-    "id": "p5-1667",
-    "sentence": "The investors insisted on ___ informed of every material change to the project schedule.",
-    "choices": [
-      "being",
-      "to be",
-      "been",
-      "having"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Insist on' takes a gerund, here passive 'being informed'. 'to be' is wrong, 'having' needs a past participle and 'been' needs 'having'."
-  },
-  {
-    "id": "p5-1668",
-    "sentence": "The auditors were not allowed ___ the building until security had verified their credentials.",
-    "choices": [
-      "entering",
-      "to enter",
-      "enter",
-      "from entering"
+      "fickle",
+      "fiduciary",
+      "fragile",
+      "fictitious"
     ],
     "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Be allowed' takes 'to' plus infinitive. The others are not used with this passive."
+    "category": "vocabulary",
+    "explanation": "Fiduciary duty is a legal duty of trust. The others do not describe duty."
+  },
+  {
+    "id": "p5-1700",
+    "sentence": "The board approved a one-off ___ of $2 million to cover the unexpected legal settlement.",
+    "choices": [
+      "proviso",
+      "provenance",
+      "provision",
+      "provider"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A provision is money set aside for a future liability. A proviso is a condition, provenance is origin, a provider is a supplier."
+  },
+  {
+    "id": "p5-1339",
+    "sentence": "The firm's lawyers were unable to ___ the claim that the clause was unambiguous.",
+    "choices": [
+      "refuse",
+      "refute",
+      "refine",
+      "refund"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Refute a claim' means disprove it. 'Refuse' means decline, 'refund' means repay, and 'refine' means purify."
   },
   {
     "id": "p5-1669",
@@ -195,108 +221,56 @@
     "explanation": "'By the time' with a present verb requires the future perfect continuous. The others are past or present forms."
   },
   {
-    "id": "p5-1670",
-    "sentence": "By next March, we ___ all legacy servers and moved the data to the cloud.",
+    "id": "p5-2188",
+    "sentence": "Fire regulations require every stairwell to remain ___ at all times, with no boxes or equipment stored there.",
     "choices": [
-      "have decommissioned",
-      "would have decommissioned",
-      "will have decommissioned",
-      "will decommission"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'By next March' with a completed action needs the future perfect. The others are simple or past forms."
-  },
-  {
-    "id": "p5-1671",
-    "sentence": "I would have called you earlier if I ___ that the deadline had been moved forward.",
-    "choices": [
-      "had known",
-      "would know",
-      "knew",
-      "have known"
+      "unobstructed",
+      "unobtrusive",
+      "unrestricted",
+      "uninterrupted"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "Third conditional: past perfect in the if-clause. 'knew' and 'would know' do not fit, and 'have known' is not a conditional form."
+    "category": "vocabulary",
+    "explanation": "Unobstructed means with nothing blocking the way. Uninterrupted describes a continuous flow, unrestricted describes freedom from limits on access, and unobtrusive means not noticeable, so none of them matches the ban on stored items."
   },
   {
-    "id": "p5-1672",
-    "sentence": "Hardly anyone ___ the importance of cybersecurity before the data breach occurred last spring.",
+    "id": "p5-1377",
+    "sentence": "The investor's ___ stake in the company gives her considerable influence over strategy.",
     "choices": [
-      "would recognize",
-      "had recognized",
-      "recognizes",
-      "has recognized"
+      "substantial",
+      "sustainable",
+      "substantive",
+      "substitute"
     ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "The past perfect marks an earlier past before the breach. The others are present or conditional."
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Substantial stake' means large. 'Substantive' means real, 'sustainable' means maintainable, and 'substitute' means replacement."
   },
   {
-    "id": "p5-1673",
-    "sentence": "The team ___ on the prototype for six months when the funding was suddenly withdrawn.",
+    "id": "p5-2034",
+    "sentence": "Customs duty is levied ___, meaning it is calculated as a percentage of the goods' declared value.",
     "choices": [
-      "has been working",
-      "will have been working",
-      "had been working",
-      "have been working"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "A past perfect continuous shows a duration before a past event. The others use present or future tenses."
-  },
-  {
-    "id": "p5-1674",
-    "sentence": "The new director, who ___ the company since 2012, will chair the next steering committee.",
-    "choices": [
-      "had led",
-      "is leading",
-      "led",
-      "has led"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Since' with a present context needs the present perfect. The simple past, continuous and past perfect do not fit."
-  },
-  {
-    "id": "p5-1675",
-    "sentence": "By the end of this fiscal year, our logistics division ___ more than one million parcels.",
-    "choices": [
-      "had handled",
-      "has handled",
-      "will have handled",
-      "would have handled"
+      "ad hoc",
+      "per se",
+      "ad valorem",
+      "inter alia"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'By the end of' a future period needs the future perfect. The others are past or present."
+    "category": "vocabulary",
+    "explanation": "Ad valorem means 'according to value' and describes a charge calculated as a percentage of worth. Inter alia means among various things, ad hoc means for a particular purpose, and per se means in itself, so none describes a percentage-based levy."
   },
   {
-    "id": "p5-1676",
-    "sentence": "The invoice does not appear in the system, so the supplier ___ it to the wrong address.",
+    "id": "p5-2139",
+    "sentence": "Software development costs may be ___ as an intangible asset once technical feasibility has been demonstrated.",
     "choices": [
-      "had to send",
-      "must have sent",
-      "can't have sent",
-      "needn't have sent"
+      "expensed",
+      "capitalised",
+      "impaired",
+      "apportioned"
     ],
     "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Must have' expresses a logical deduction about the past. The others deny, express no need or obligation."
-  },
-  {
-    "id": "p5-1677",
-    "sentence": "We ___ so many copies; the meeting was cancelled and nobody needed the handouts.",
-    "choices": [
-      "can't have printed",
-      "shouldn't print",
-      "mustn't have printed",
-      "needn't have printed"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Needn't have' means an action was unnecessary. The others express impossibility, a prohibition or advice for the future."
+    "category": "vocabulary",
+    "explanation": "To capitalise a cost is to record it as an asset on the balance sheet. Expensed is the opposite treatment, apportioned means divided up, and impaired means reduced in value, so none fits 'as an intangible asset' here."
   },
   {
     "id": "p5-1678",
@@ -312,82 +286,95 @@
     "explanation": "'Must have' expresses a strong deduction. The others express obligation or impossibility."
   },
   {
-    "id": "p5-1679",
-    "sentence": "He ___ the meeting; I saw him board a flight to Singapore an hour before it began.",
+    "id": "p5-2169",
+    "sentence": "The vendor will ___ the property to a family trust to avoid disputes among her heirs.",
     "choices": [
-      "can't have attended",
-      "should have attended",
-      "needn't have attended",
-      "must have attended"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Can't have' expresses a logical impossibility. The others express certainty, a missed duty or lack of need."
-  },
-  {
-    "id": "p5-1680",
-    "sentence": "You ___ me about the delay; I had already been informed by the logistics department.",
-    "choices": [
-      "mustn't have told",
-      "oughtn't tell",
-      "can't have told",
-      "needn't have told"
+      "ferry",
+      "relay",
+      "transport",
+      "convey"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Needn't have' means the action was unnecessary. The others express prohibition, impossibility or are wrongly formed."
+    "category": "vocabulary",
+    "explanation": "To convey property is to transfer legal ownership of it. Relay means to pass on a message, while transport and ferry mean to carry something physically, which is not how ownership moves to a trust."
   },
   {
-    "id": "p5-1681",
-    "sentence": "The new regulations ___ to take effect from the first of January, according to the ministry.",
+    "id": "p5-1757",
+    "sentence": "To ___ the risk of fraud, the bank introduced dual authorization for large transfers.",
     "choices": [
-      "are expecting",
-      "are expected",
-      "have expected",
-      "expect"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "A passive reporting verb is used with a thing subject. The active forms need a person subject."
-  },
-  {
-    "id": "p5-1682",
-    "sentence": "The document, believed ___ in 1987, has just been authenticated by independent experts.",
-    "choices": [
-      "to have been writing",
-      "to have written",
-      "to have been written",
-      "to be written"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "A past passive infinitive is needed for an earlier event. The others are present, active or continuous."
-  },
-  {
-    "id": "p5-1683",
-    "sentence": "Several executives are alleged ___ confidential data to a competitor before the merger was announced.",
-    "choices": [
-      "to be leaked",
-      "to have leaked",
-      "to have been leaked",
-      "to be leaking"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "An earlier event needs the perfect infinitive. 'to leak' is simultaneous, 'to be leaked' is passive and 'having leaked' is not used with 'alleged'."
-  },
-  {
-    "id": "p5-1684",
-    "sentence": "The CEO had the contract ___ by an independent lawyer before signing it.",
-    "choices": [
-      "reviewed",
-      "reviewing",
-      "review",
-      "to review"
+      "mitigate",
+      "militate",
+      "mutilate",
+      "meditate"
     ],
     "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Mitigate risk means reduce it. Militate (act against), mutilate and meditate do not take risk as object."
+  },
+  {
+    "id": "p5-1890",
+    "sentence": "The contractor was disqualified for failing to meet the mandatory ___ criteria set out in the tender.",
+    "choices": [
+      "electability",
+      "elasticity",
+      "eligibility",
+      "legibility"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Eligibility criteria' are the conditions for qualifying. 'Legibility' is readability, 'elasticity' is flexibility, and 'electability' is the chance of winning an election."
+  },
+  {
+    "id": "p5-1813",
+    "sentence": "Minority shareholders sought ___ after the majority owners approved a below-market buyout offer.",
+    "choices": [
+      "redemption",
+      "relapse",
+      "redundancy",
+      "redress"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Seek redress means seek remedy. The others do not."
+  },
+  {
+    "id": "p5-2067",
+    "sentence": "The contract is understood ___ renewed in the spring, subject to board approval.",
+    "choices": [
+      "being",
+      "to be",
+      "that is",
+      "to have"
+    ],
+    "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Have something done' needs a past participle. The other forms are active."
+    "explanation": "'Is understood to be renewed' is a passive reporting structure for a future event. 'Being', 'to have' and 'that is' do not complete it."
+  },
+  {
+    "id": "p5-2156",
+    "sentence": "Investors may ___ their bonds without penalty only after the five-year term has ended.",
+    "choices": [
+      "redeem",
+      "refund",
+      "reimburse",
+      "rescind"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "To redeem a bond is to exchange it for cash at maturity. Refund and reimburse mean to pay money back to someone else, and rescind means to cancel an agreement, so none of them is done by the bondholder."
+  },
+  {
+    "id": "p5-2171",
+    "sentence": "The data centre uses ___ power supplies, so operations continue even if one of them fails.",
+    "choices": [
+      "superfluous",
+      "obsolete",
+      "redundant",
+      "dormant"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "In engineering, redundant means duplicated as a backup. Superfluous means unnecessary, obsolete means outdated, and dormant means inactive, so none of them explains how operations continue after a failure."
   },
   {
     "id": "p5-1685",
@@ -403,120 +390,133 @@
     "explanation": "'Get someone to do' takes an infinitive. 'postpone' is the wrong form and 'postponed' implies a passive."
   },
   {
-    "id": "p5-1686",
-    "sentence": "Management had all the equipment ___ before the new safety regulations took effect.",
+    "id": "p5-1332",
+    "sentence": "If the board had listened to the auditors, the company ___ in such a difficult position today.",
     "choices": [
-      "to inspect",
-      "inspect",
-      "inspecting",
-      "inspected"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Have something done' needs a past participle. The others are active forms."
-  },
-  {
-    "id": "p5-1687",
-    "sentence": "I will have my assistant ___ you the revised schedule this afternoon.",
-    "choices": [
-      "to send",
-      "sent",
-      "send",
-      "sending"
+      "will not be",
+      "would not have",
+      "would not be",
+      "had not been"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Have someone do' takes a bare infinitive. The others do not fit."
+    "explanation": "A mixed conditional: past condition, present result ('would not be'). 'will not be' is a first conditional, and the others do not fit."
   },
   {
-    "id": "p5-1688",
-    "sentence": "We need to get the server ___ before the quarterly audit begins on Monday.",
+    "id": "p5-1830",
+    "sentence": "The contractor was found ___ for the structural defects discovered shortly after handover.",
     "choices": [
-      "repaired",
-      "repairing",
-      "to repair",
-      "repair"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Get something done' takes a past participle. The others are active."
-  },
-  {
-    "id": "p5-1689",
-    "sentence": "She had her laptop ___ during the flight, so she could not finish the report.",
-    "choices": [
-      "steal",
-      "to steal",
-      "stealing",
-      "stolen"
+      "liably",
+      "liability",
+      "liabilities",
+      "liable"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'Have something done' with an unfortunate event needs a past participle. The others are active."
+    "explanation": "'Found liable for' is a fixed adjective phrase meaning legally responsible. 'Liability' and 'liabilities' are nouns; 'liably' is not a standard adverb here."
   },
   {
-    "id": "p5-1690",
-    "sentence": "We were made ___ our security passes at the reception desk before entering the building.",
+    "id": "p5-2179",
+    "sentence": "The results are under ___ until nine o'clock tomorrow morning, when the markets open.",
     "choices": [
-      "shown",
-      "to show",
-      "show",
-      "showing"
+      "embargo",
+      "siege",
+      "quarantine",
+      "oath"
     ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "The passive of 'make someone do' takes 'to' plus infinitive. The others are not used in this pattern."
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "An embargo here is a ban on publication until a set time. Quarantine is isolation for health reasons, siege is a military blockade, and oath is a sworn promise, so none of them restricts release of results until a given hour."
   },
   {
-    "id": "p5-1691",
-    "sentence": "There is ___ evidence that the new incentive scheme has improved productivity.",
+    "id": "p5-2158",
+    "sentence": "The buyer sought to ___ the contract on the grounds that the seller had misrepresented the facts.",
     "choices": [
-      "several",
-      "little",
-      "a few",
-      "few"
+      "repeal",
+      "refute",
+      "retract",
+      "rescind"
     ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Evidence' is uncountable, so 'little' is used. 'a few', 'few' and 'many' are for countable nouns."
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Rescind means to cancel a contract so that the parties return to their earlier position. Repeal applies to laws, retract to a statement or offer, and refute to an argument, so none takes 'the contract' with this meaning."
   },
   {
-    "id": "p5-1692",
-    "sentence": "___ of the two proposals meets our requirements, so we will invite new bids.",
+    "id": "p5-2059",
+    "sentence": "If the supplier were to default again, we ___ obliged to terminate the contract.",
     "choices": [
-      "Both",
-      "Either",
-      "Neither",
-      "Another"
+      "have been",
+      "will be",
+      "would be",
+      "would have been"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Neither of the two' means that none meets the requirements. The others contradict the sense or the singular verb."
+    "explanation": "'If ... were to' marks a hypothetical future condition and takes 'would' in the result clause. 'Will be' belongs to a real condition, and the two perfect forms refer to the past."
   },
   {
-    "id": "p5-1693",
-    "sentence": "The more aggressively the firm expands, ___ it becomes to maintain consistent service quality.",
+    "id": "p5-720",
+    "sentence": "The company's performance was ___ by a prolonged strike at its main assembly plant.",
     "choices": [
-      "the hardest",
-      "more hard",
-      "harder",
-      "the harder"
+      "harnessed",
+      "hammered out",
+      "hampered",
+      "hatched"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Hampered' means hindered. 'Hammered out' is for agreements, 'harnessed' means controlled for use, and 'hatched' means devised or emerged."
+  },
+  {
+    "id": "p5-2145",
+    "sentence": "The campaign was designed to ___ the brand's image among younger shoppers who see it as old-fashioned.",
+    "choices": [
+      "rejuvenate",
+      "replenish",
+      "reciprocate",
+      "reinstate"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Rejuvenate means to make something seem young and fresh again. Reciprocate means to return a gesture, replenish means to refill a supply, and reinstate means to restore something to a former position, so none of them suits an outdated image."
+  },
+  {
+    "id": "p5-1761",
+    "sentence": "The campaign aims to ___ brand awareness among consumers aged eighteen to twenty-five.",
+    "choices": [
+      "harmonize",
+      "hamper",
+      "heighten",
+      "hasten"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Heighten awareness means raise it. Hasten, harmonize and hamper do not take awareness."
+  },
+  {
+    "id": "p5-1867",
+    "sentence": "The statement was made ___ prejudice, so it cannot be cited in any later proceedings.",
+    "choices": [
+      "with",
+      "under",
+      "lacking",
+      "without"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'The more ... the harder' is a comparative correlative needing 'the'. The others break the pattern."
+    "explanation": "'Without prejudice' is a legal term meaning the statement cannot be used as evidence. 'With prejudice' has the opposite effect, and 'under' and 'lacking' do not form the phrase."
   },
   {
-    "id": "p5-1694",
-    "sentence": "The longer the negotiations drag on, ___ likely a settlement becomes.",
+    "id": "p5-1416",
+    "sentence": "The director got the project ___ despite repeated budget cuts and two changes of leadership.",
     "choices": [
-      "the less",
-      "less",
-      "the lesser",
-      "least"
+      "completed",
+      "completing",
+      "complete",
+      "to complete"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "The correlative needs 'the' plus a comparative. 'less' lacks 'the', 'least' is superlative and 'the lesser' is not an adverb."
+    "explanation": "'Get + object + past participle' means cause something to be done. 'complete' and 'completing' do not fit, and 'to complete' implies persuading someone."
   }
 ]

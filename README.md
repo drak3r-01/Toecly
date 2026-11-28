@@ -46,7 +46,7 @@ Niveau **C1 minimum**, comme le vrai TOEIC, avec une explication pour chaque que
 
 | Partie | Contenu | Questions |
 |---|---|---|
-| **5** | Phrases à compléter | 574 |
+| **5** | Phrases à compléter | 566 |
 | **6** | Textes à compléter | 500 |
 | **7** | Compréhension (documents simples et multiples) | 500 |
 

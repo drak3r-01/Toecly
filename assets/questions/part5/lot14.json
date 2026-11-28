@@ -1,393 +1,42 @@
 [
   {
-    "id": "p5-1855",
-    "sentence": "The auditors will begin their review as soon as the company ___ its year-end figures.",
+    "id": "p5-1344",
+    "sentence": "The bank has ___ tighter lending criteria in response to rising default rates.",
     "choices": [
-      "will submit",
-      "submitted",
-      "submits",
-      "submit"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "In time clauses with future reference, the present simple 'submits' is used. 'Will submit' is not allowed there, 'submitted' is past, and 'submit' lacks the third-person -s."
-  },
-  {
-    "id": "p5-1856",
-    "sentence": "The merger, which ___ for over a year, was finally completed in March.",
-    "choices": [
-      "would be negotiated",
-      "has been negotiated",
-      "will have been negotiated",
-      "had been negotiated"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "The past perfect passive shows negotiation before the completion in March. 'Has been negotiated' is present perfect, and the other forms are future-oriented."
-  },
-  {
-    "id": "p5-1857",
-    "sentence": "We ___ the contract by the end of this week, provided the client signs the addendum.",
-    "choices": [
-      "will have finalised",
-      "had finalised",
-      "have finalised",
-      "would have finalised"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'By the end of this week' with a future condition takes the future perfect 'will have finalised'. 'Would have finalised' is past hypothetical, and the others are present perfect and past perfect."
-  },
-  {
-    "id": "p5-1858",
-    "sentence": "Since the new regulations took effect in 2022, the number of audits ___ steadily.",
-    "choices": [
-      "rose",
-      "has risen",
-      "will rise",
-      "had risen"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Since' with a past starting point and a continuing result requires the present perfect. 'Rose' is simple past, 'had risen' is past perfect, and 'will rise' is future."
-  },
-  {
-    "id": "p5-1859",
-    "sentence": "The company reported that it ___ a net loss in the previous fiscal year.",
-    "choices": [
-      "incurs",
-      "has incurred",
-      "will incur",
-      "had incurred"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "After the past reporting verb, an earlier event takes the past perfect 'had incurred'. 'Has incurred' and 'incurs' are present forms, and 'will incur' is future."
-  },
-  {
-    "id": "p5-1860",
-    "sentence": "The consultant said she ___ the final report to the board the following Monday.",
-    "choices": [
-      "would have submitted",
-      "would submit",
-      "will submit",
-      "will have submitted"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "Reported speech about a future event takes 'would submit'. 'Will submit' and 'will have submitted' are not backshifted, and 'would have submitted' is a past hypothetical."
-  },
-  {
-    "id": "p5-1861",
-    "sentence": "Once the parties ___ the term sheet, the lawyers will draft the definitive agreement.",
-    "choices": [
-      "will sign",
-      "had signed",
-      "have signed",
-      "will have signed"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "In time clauses with a future main clause, the present perfect 'have signed' shows completion first. 'Will sign' is not used in time clauses, 'had signed' is past perfect, and 'will have signed' is not used in time clauses."
-  },
-  {
-    "id": "p5-1862",
-    "sentence": "Before the audit began, the finance team ___ every discrepancy in the ledgers.",
-    "choices": [
-      "had resolved",
-      "has resolved",
-      "would resolve",
-      "resolves"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "The past perfect 'had resolved' shows an action completed before 'began'. 'Has resolved' and 'resolves' are present, and 'would resolve' is a future in the past."
-  },
-  {
-    "id": "p5-1863",
-    "sentence": "___ Article 14 of the shareholders' agreement, any transfer of shares requires unanimous consent.",
-    "choices": [
-      "Pursuant to",
-      "In lieu of",
-      "Prior to",
-      "On behalf of"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Pursuant to' means in accordance with a legal provision. 'In lieu of' means instead of, 'On behalf of' means representing, and 'Prior to' means before."
-  },
-  {
-    "id": "p5-1864",
-    "sentence": "The tenant offered a cash deposit ___ a bank guarantee, which the landlord accepted.",
-    "choices": [
-      "in spite of",
-      "in line with",
-      "in view of",
-      "in lieu of"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'In lieu of' means instead of. 'In view of' means considering, 'in line with' means consistent with, and 'in spite of' means despite."
-  },
-  {
-    "id": "p5-1865",
-    "sentence": "The company holds the exclusive licence ___ a long-standing agreement with the patent owner.",
-    "choices": [
-      "in advance of",
-      "in spite of",
-      "by virtue of",
-      "in lieu of"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'By virtue of' means because of the power or authority of. 'In lieu of' means instead of, 'in advance of' means before, and 'in spite of' means despite."
-  },
-  {
-    "id": "p5-1866",
-    "sentence": "The carrier cannot be held liable ___ losses arising from events beyond its reasonable control.",
-    "choices": [
-      "from",
-      "for",
-      "against",
-      "in"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Liable for' is the standard collocation. 'In', 'from' and 'against' do not follow 'liable' in this meaning."
-  },
-  {
-    "id": "p5-1867",
-    "sentence": "The statement was made ___ prejudice, so it cannot be cited in any later proceedings.",
-    "choices": [
-      "with",
-      "under",
-      "lacking",
-      "without"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Without prejudice' is a legal term meaning the statement cannot be used as evidence. 'With prejudice' has the opposite effect, and 'under' and 'lacking' do not form the phrase."
-  },
-  {
-    "id": "p5-1868",
-    "sentence": "The offer remains valid ___ board approval and the completion of satisfactory due diligence.",
-    "choices": [
-      "subject to",
-      "regardless of",
-      "apart from",
-      "instead of"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Subject to' makes validity conditional. 'Regardless of' ignores the conditions, 'instead of' replaces them, and 'apart from' excludes them."
-  },
-  {
-    "id": "p5-1869",
-    "sentence": "___ the lender's consent, the borrower may not assign any rights under the facility agreement.",
-    "choices": [
-      "Beyond",
-      "Without",
-      "Despite",
-      "Besides"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Without' states a necessary condition of consent. 'Beyond' and 'Besides' do not fit the meaning, and 'Despite' would reverse the logic."
-  },
-  {
-    "id": "p5-1870",
-    "sentence": "The accounts were prepared ___ generally accepted accounting principles and audited by an independent firm.",
-    "choices": [
-      "in competition with",
-      "in comparison with",
-      "in accordance with",
-      "in contrast with"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'In accordance with' means following rules. 'In contrast with' compares differences, 'in comparison with' compares things, and 'in competition with' means rivalling."
-  },
-  {
-    "id": "p5-1871",
-    "sentence": "After weeks of deadlock, both sides accepted a ___ whereby each would waive a portion of its claim.",
-    "choices": [
-      "concession",
-      "compromise",
-      "contention",
-      "convention"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A 'compromise' is a mutual settlement in which each side gives something up. A 'concession' is made by one side, a 'convention' is a custom or treaty, and a 'contention' is an assertion."
-  },
-  {
-    "id": "p5-1872",
-    "sentence": "The union rejected the offer as a mere ___ designed to divide its members rather than address grievances.",
-    "choices": [
-      "stratagem",
-      "stipend",
-      "surcharge",
-      "stipulation"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "A 'stratagem' is a cunning plan to gain advantage. A 'stipend' is a salary, a 'surcharge' is an extra fee, and a 'stipulation' is a required condition."
-  },
-  {
-    "id": "p5-1873",
-    "sentence": "The two sides remain far apart, and a breakthrough in the talks still appears ___ at best.",
-    "choices": [
-      "exclusive",
-      "abusive",
-      "elusive",
-      "extensive"
+      "adapted",
+      "adjusted",
+      "adopted",
+      "admitted"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Elusive' means hard to achieve. 'Exclusive' means restricted, 'extensive' means large, and 'abusive' means insulting."
+    "explanation": "'Adopted criteria' means introduced them. 'Adapted' means modified, 'adjusted' means altered slightly, and 'admitted' means confessed."
   },
   {
-    "id": "p5-1874",
-    "sentence": "The terms of the settlement are strictly ___ and may not be shared with any outside party.",
+    "id": "p5-2166",
+    "sentence": "The directors, most of ___ had served for over a decade, voted against the reform.",
     "choices": [
-      "confident",
-      "consecutive",
-      "consequential",
-      "confidential"
+      "them",
+      "which",
+      "whom",
+      "who"
     ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Confidential' means to be kept secret. 'Consequential' means resulting, 'consecutive' means in sequence, and 'confident' means self-assured."
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After a quantifier plus 'of', the relative pronoun for people is 'whom'. 'Who' cannot follow 'of', 'which' refers to things, and 'them' cannot link two clauses."
   },
   {
-    "id": "p5-1875",
-    "sentence": "The external auditors confirmed that the accounts present a true and ___ view of the group's finances.",
+    "id": "p5-2044",
+    "sentence": "The tribunal ordered the company to ___ the dismissed manager and pay her back wages.",
     "choices": [
-      "frank",
-      "fond",
-      "fine",
-      "fair"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'True and fair view' is the fixed audit-opinion phrase. 'Frank', 'fine' and 'fond' do not form the idiom."
-  },
-  {
-    "id": "p5-1876",
-    "sentence": "The audit uncovered a material ___ in the inventory records that had gone unnoticed for years.",
-    "choices": [
-      "disbursement",
-      "discrepancy",
-      "discount",
-      "discretion"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A 'discrepancy' is a mismatch between records. 'Discretion' is judgement, 'discount' is a price reduction, and 'disbursement' is a payment out."
-  },
-  {
-    "id": "p5-1877",
-    "sentence": "The finance director refused to ___ the accounts until the outstanding reconciliation issues had been resolved.",
-    "choices": [
-      "sign in",
-      "sign up",
-      "sign off",
-      "sign out"
+      "rebuke",
+      "relegate",
+      "reinstate",
+      "reprimand"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Sign off' means to formally approve. 'Sign up' means to register, 'sign in' means to log in, and 'sign out' means to log out."
-  },
-  {
-    "id": "p5-1878",
-    "sentence": "Auditors are required to remain ___ throughout the engagement and avoid any conflict of interest.",
-    "choices": [
-      "impartial",
-      "imperative",
-      "impatient",
-      "immaterial"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Impartial' means unbiased. 'Immaterial' means unimportant, 'imperative' means essential, and 'impatient' means unwilling to wait."
-  },
-  {
-    "id": "p5-1879",
-    "sentence": "The audit committee commissioned a forensic review after finding evidence of ___ in the procurement process.",
-    "choices": [
-      "collation",
-      "collision",
-      "collusion",
-      "collection"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Collusion' is a secret agreement to cheat. 'Collision' is a crash, 'collation' is the gathering of information, and 'collection' is a set of items."
-  },
-  {
-    "id": "p5-1880",
-    "sentence": "The auditor flagged the unusually high ___ of write-offs in the receivables ledger.",
-    "choices": [
-      "incidence",
-      "incidents",
-      "incentive",
-      "incident"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Incidence' means the frequency of occurrence. 'Incident' and 'incidents' refer to individual events, and 'incentive' is a motivation."
-  },
-  {
-    "id": "p5-1881",
-    "sentence": "The acquirer agreed to ___ the target's outstanding debts as part of the purchase price.",
-    "choices": [
-      "resume",
-      "presume",
-      "consume",
-      "assume"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "To 'assume' debts means to take responsibility for them. 'Presume' means to suppose, 'resume' means to continue, and 'consume' means to use up."
-  },
-  {
-    "id": "p5-1882",
-    "sentence": "Regulators ordered the merged entity to ___ several regional branches to preserve competition in local markets.",
-    "choices": [
-      "invest",
-      "divest",
-      "diverge",
-      "digest"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "To 'divest' means to sell off assets. 'Invest' means to put money in, 'digest' means to absorb, and 'diverge' means to separate."
-  },
-  {
-    "id": "p5-1883",
-    "sentence": "The deal values the target at a ___ of thirty percent above its undisturbed share price.",
-    "choices": [
-      "dividend",
-      "premium",
-      "discount",
-      "deficit"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A 'premium' is an amount above the market value. A 'discount' is below, a 'deficit' is a shortfall, and a 'dividend' is a payout."
-  },
-  {
-    "id": "p5-1884",
-    "sentence": "The ___ of the two product lines is expected to generate annual cost savings of forty million dollars.",
-    "choices": [
-      "conciliation",
-      "consolation",
-      "consolidation",
-      "contamination"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Consolidation' means combining into one. 'Conciliation' is settling a dispute, 'consolation' is comfort, and 'contamination' is pollution."
+    "explanation": "Reinstate means to restore someone to their former position. Relegate means to move to a lower position, and rebuke and reprimand mean to scold, so none is a remedy for unfair dismissal alongside back pay."
   },
   {
     "id": "p5-1885",
@@ -403,120 +52,471 @@
     "explanation": "'Grossly' means extremely or flagrantly, suiting a rejection. 'Gradually', 'generally' and 'gently' do not convey a severe undervaluation."
   },
   {
-    "id": "p5-1886",
-    "sentence": "Due diligence revealed several undisclosed ___ that reduced the target's value by nearly two hundred million dollars.",
+    "id": "p5-797",
+    "sentence": "Interest on the overdue balance will ___ at a rate of two percent per month.",
     "choices": [
-      "liabilities",
-      "liaisons",
-      "legislatures",
-      "libraries"
+      "accrue",
+      "accost",
+      "accuse",
+      "accede"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Liabilities' are debts or obligations that reduce value. 'Liaisons' are connections, 'libraries' are collections of books, and 'legislatures' are lawmaking bodies."
+    "explanation": "Interest 'accrues' when it accumulates over time. 'Accede' means agree, 'accost' means approach aggressively, and 'accuse' means blame."
   },
   {
-    "id": "p5-1887",
-    "sentence": "Shareholders will receive one new share for every two existing shares under the agreed ___ ratio.",
+    "id": "p5-1767",
+    "sentence": "Customers who abandon their online baskets receive emails designed to ___ them to complete the purchase.",
     "choices": [
-      "extension",
-      "exchange",
+      "prolong",
+      "promote",
+      "pry",
+      "prompt"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Prompt someone to do means encourage them. Pry, promote and prolong do not take to complete."
+  },
+  {
+    "id": "p5-2004",
+    "sentence": "The vendor kept ___ , hoping the client would drop its demand for compensation.",
+    "choices": [
+      "straying",
+      "stalling",
+      "stumbling",
+      "stagnating"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Stalling means deliberately delaying to gain time. Stumbling means tripping or hesitating while speaking, stagnating means failing to develop, and straying means wandering off, so none of them describes a deliberate delay."
+  },
+  {
+    "id": "p5-1605",
+    "sentence": "The firm is looking into the possibility of ___ its network to include several African markets.",
+    "choices": [
+      "extended to",
+      "extending",
+      "extend",
+      "to extending"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "After 'of', a gerund is needed. The others do not fit."
+  },
+  {
+    "id": "p5-2178",
+    "sentence": "Scheduled maintenance will cause roughly two hours of ___ on Sunday night, mostly affecting overseas users.",
+    "choices": [
+      "bandwidth",
+      "downtime",
+      "latency",
+      "throughput"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Downtime is a period when a system is unavailable. Latency is a delay in response, bandwidth is capacity, and throughput is the volume processed, and none of them is something maintenance causes for two hours."
+  },
+  {
+    "id": "p5-1620",
+    "sentence": "___ the delay, the rollout remains on schedule and all pilot sites will be live by October.",
+    "choices": [
+      "Owing to",
+      "Because of",
+      "On account of",
+      "In spite of"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'In spite of' is concessive and fits the contrast. The other three express cause, which contradicts the sense."
+  },
+  {
+    "id": "p5-1611",
+    "sentence": "Employees may work remotely ___ they remain available during core hours and attend mandatory meetings.",
+    "choices": [
+      "as though",
+      "even though",
+      "provided that",
+      "notwithstanding that"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Provided that' introduces a condition. 'notwithstanding that' and 'even though' are concessive, and 'as though' introduces a comparison."
+  },
+  {
+    "id": "p5-1790",
+    "sentence": "Engineers must ___ the equipment to the manufacturer's specifications before production begins.",
+    "choices": [
+      "calibrate",
+      "celebrate",
+      "cultivate",
+      "calculate"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Calibrate equipment means adjust it for accuracy. The others cannot take equipment."
+  },
+  {
+    "id": "p5-1756",
+    "sentence": "The company has been placed under close ___ by regulators following repeated safety violations.",
+    "choices": [
+      "scrimmage",
+      "scrutiny",
+      "scripture",
+      "scruple"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Under scrutiny means closely examined. The others do not follow under close."
+  },
+  {
+    "id": "p5-1401",
+    "sentence": "The report is accurate, ___ somewhat dated, and should be read with that caveat in mind.",
+    "choices": [
+      "hence",
+      "whereas",
+      "lest",
+      "albeit"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Albeit' means although, introducing a concession with an adjective. 'Whereas' needs a clause, 'hence' means therefore, and 'lest' expresses fear."
+  },
+  {
+    "id": "p5-1400",
+    "sentence": "The arbitrator suggested that both parties ___ their claims before the hearing resumed.",
+    "choices": [
+      "withdraw",
+      "withdrawn",
+      "withdrew",
+      "withdraws"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Suggested that' takes the subjunctive base form. The others are indicative or a participle."
+  },
+  {
+    "id": "p5-1631",
+    "sentence": "If only the committee ___ more carefully before approving the acquisition last year.",
+    "choices": [
+      "were deliberating",
+      "had deliberated",
+      "has deliberated",
+      "would deliberate"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'If only' with a past regret needs the past perfect. The others refer to present or future."
+  },
+  {
+    "id": "p5-1625",
+    "sentence": "___ an agreement by Friday, the dispute will be referred to independent arbitration.",
+    "choices": [
+      "Failed",
+      "Fail",
+      "Failing",
+      "Failure"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Failing' used as a preposition means 'in the absence of'. The other forms cannot introduce the phrase."
+  },
+  {
+    "id": "p5-626",
+    "sentence": "The newly appointed director, ___ experience in logistics is unmatched, will oversee the relocation.",
+    "choices": [
+      "whose",
+      "her",
+      "of whom",
+      "that"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whose' introduces a non-restrictive relative clause with a possessive meaning. 'her' leaves two clauses without a link, 'that' cannot be possessive, and 'of whom' needs a different structure."
+  },
+  {
+    "id": "p5-611",
+    "sentence": "The budget proposal, ___ by the finance team last week, still requires the director's approval.",
+    "choices": [
+      "to submit",
+      "submitted",
+      "was submitted",
+      "submitting"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A past participle reduces a passive relative clause ('which was submitted'). 'submitting' is active, 'to submit' expresses purpose, and 'was submitted' would need a relative pronoun."
+  },
+  {
+    "id": "p5-1306",
+    "sentence": "The CEO's departure left a ___ in the leadership team that took months to fill.",
+    "choices": [
+      "vessel",
+      "verge",
+      "vault",
+      "vacuum"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Leadership vacuum' is the collocation. The others do not fit."
+  },
+  {
+    "id": "p5-1297",
+    "sentence": "The new policy places the ___ of proof on the claimant rather than on the insurer.",
+    "choices": [
+      "burrow",
+      "burst",
+      "bureau",
+      "burden"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Burden of proof' is a fixed legal phrase. The others are unrelated nouns."
+  },
+  {
+    "id": "p5-2076",
+    "sentence": "Little ___ the board realise that the audit would expose the irregularities so quickly.",
+    "choices": [
+      "had",
+      "was",
+      "did",
+      "has"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Little' in initial position takes inversion with 'did' plus the bare verb 'realise'. 'Had', 'was' and 'has' cannot be followed by a bare infinitive."
+  },
+  {
+    "id": "p5-1331",
+    "sentence": "The directors ___ have been aware of the risks, since the warning appeared in three consecutive reports.",
+    "choices": [
+      "must",
+      "can",
+      "need",
+      "might to"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Must have been' expresses logical deduction. The others do not fit."
+  },
+  {
+    "id": "p5-1233",
+    "sentence": "The new regulations ___ firms to disclose any payments made to foreign officials.",
+    "choices": [
+      "comply",
+      "compete",
+      "compare",
+      "compel"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Compel firms to' means oblige them. 'Comply' is intransitive, 'compete' needs 'with', and 'compare' needs 'with' or 'to'."
+  },
+  {
+    "id": "p5-1365",
+    "sentence": "The mine's closure will ___ over two thousand jobs in a region already suffering from high unemployment.",
+    "choices": [
+      "elevate",
+      "elaborate",
+      "elicit",
+      "eliminate"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Eliminate jobs' means remove them. 'Elaborate' means expand on, 'elevate' means raise, and 'elicit' means draw out."
+  },
+  {
+    "id": "p5-2011",
+    "sentence": "Because of the strike, it is doubtful ___ the order will reach the client by Friday.",
+    "choices": [
+      "what",
+      "that",
+      "how",
+      "which"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'It is doubtful that' is the fixed pattern. 'What', 'which' and 'how' do not follow 'doubtful' here."
+  },
+  {
+    "id": "p5-1427",
+    "sentence": "The contract expressly forbids the supplier ___ subcontracting any part of the work.",
+    "choices": [
+      "of",
+      "to",
+      "against",
+      "from"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Forbid from + gerund' is the pattern here. 'to' and 'of' do not fit, and 'against' is used after 'warn'."
+  },
+  {
+    "id": "p5-1740",
+    "sentence": "Dock workers began a strike, leaving hundreds of containers ___ at the terminal.",
+    "choices": [
+      "strangled",
+      "strained",
+      "stained",
+      "stranded"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Stranded means stuck and unable to move on. Stained, strained and strangled do not fit with containers at a terminal."
+  },
+  {
+    "id": "p5-2036",
+    "sentence": "Because lead times are long, we hold ___ stock to protect against sudden spikes in demand.",
+    "choices": [
+      "buffer",
+      "bulwark",
+      "cushion",
+      "bumper"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Buffer stock is extra inventory kept as protection against shortages, and the phrase is fixed. Cushion, bumper and bulwark are not used to modify stock in that sense."
+  },
+  {
+    "id": "p5-1632",
+    "sentence": "I wish the committee ___ us more time to review the proposal before yesterday's vote.",
+    "choices": [
+      "has given",
+      "gave",
+      "would give",
+      "had given"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A wish about the past needs the past perfect. 'gave' is for the present and 'would give' for the future."
+  },
+  {
+    "id": "p5-712",
+    "sentence": "The ceremony will ___ the achievements of employees who have served the company for twenty years.",
+    "choices": [
+      "contribute",
+      "commemorate",
+      "communicate",
+      "compensate"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Commemorate' means honour the memory or achievement of. 'Communicate' means convey information, 'compensate' means repay, and 'contribute' needs 'to'."
+  },
+  {
+    "id": "p5-2193",
+    "sentence": "After losing his main contract, the borrower was forced to ___ on the loan.",
+    "choices": [
+      "abscond",
+      "forfeit",
+      "default",
+      "deviate"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "To default on a loan is to fail to make the required repayments. Forfeit takes a direct object, abscond means to run away, and deviate means to depart from a course, so none of them is followed by 'on the loan'."
+  },
+  {
+    "id": "p5-1268",
+    "sentence": "The chairman proposed that the vote ___ deferred until the independent valuation had been completed.",
+    "choices": [
+      "is",
+      "be",
+      "was",
+      "being"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Proposed that' takes the subjunctive 'be'. The others are indicative or non-finite."
+  },
+  {
+    "id": "p5-2001",
+    "sentence": "The vendor built a ___ solution tailored to the client's workflows rather than selling an off-the-shelf package.",
+    "choices": [
+      "peculiar",
+      "bespoke",
+      "generic",
+      "customary"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Bespoke means made specially for a particular customer. Generic means standard, customary means usual, and peculiar means strange, so none matches a solution tailored rather than off-the-shelf."
+  },
+  {
+    "id": "p5-1695",
+    "sentence": "Sales this quarter were roughly three times ___ they were in the same period last year.",
+    "choices": [
+      "what",
+      "as",
+      "than",
+      "those"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Three times what' is used for multiples. The others do not fit."
+  },
+  {
+    "id": "p5-2103",
+    "sentence": "To retain the client, the firm agreed to ___ the cost of the faulty installation itself.",
+    "choices": [
+      "assimilate",
+      "consume",
+      "absorb",
+      "ingest"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "To absorb a cost is to bear it without passing it on. Assimilate means to integrate, ingest means to swallow food, and consume means to use up, so none of them can take a cost as object in this sense."
+  },
+  {
+    "id": "p5-1899",
+    "sentence": "The claimant must pay the first five hundred dollars of any loss, known as the policy ___.",
+    "choices": [
       "excess",
-      "exchequer"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "The 'exchange ratio' is the standard term in mergers. 'Exchequer' is a treasury, 'excess' is surplus, and 'extension' is a prolongation."
-  },
-  {
-    "id": "p5-1888",
-    "sentence": "The competition authority launched an in-depth ___ into whether the combined group would dominate the market.",
-    "choices": [
-      "invitation",
-      "interrogation",
-      "inspiration",
-      "investigation"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "An 'investigation' is a formal inquiry. 'Invitation' is a request to attend, 'interrogation' is intense questioning of a person, and 'inspiration' is a creative impulse."
-  },
-  {
-    "id": "p5-1889",
-    "sentence": "To avoid over-reliance on one vendor, the firm decided to ___ its supplier base across several regions.",
-    "choices": [
-      "diversify",
-      "disqualify",
-      "divert",
-      "diverge"
+      "excise",
+      "excerpt",
+      "exceed"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "To 'diversify' means to broaden a range. 'Divert' means to redirect, 'diverge' means to separate, and 'disqualify' means to bar."
+    "explanation": "The 'excess' is the amount the policyholder pays first. 'Exceed' is a verb, 'excerpt' is an extract, and 'excise' is a tax."
   },
   {
-    "id": "p5-1890",
-    "sentence": "The contractor was disqualified for failing to meet the mandatory ___ criteria set out in the tender.",
+    "id": "p5-1280",
+    "sentence": "The two firms are expected to ___ operations in the Asian market by the end of the year.",
     "choices": [
-      "electability",
-      "elasticity",
-      "eligibility",
-      "legibility"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Eligibility criteria' are the conditions for qualifying. 'Legibility' is readability, 'elasticity' is flexibility, and 'electability' is the chance of winning an election."
-  },
-  {
-    "id": "p5-1891",
-    "sentence": "Late deliveries triggered the ___ clause, entitling the buyer to deduct two percent of the contract value weekly.",
-    "choices": [
-      "premium",
-      "penalty",
-      "pedigree",
-      "pension"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A 'penalty clause' imposes a cost for breach. A 'pension' is retirement income, a 'premium' is a payment, and a 'pedigree' is ancestry."
-  },
-  {
-    "id": "p5-1892",
-    "sentence": "The company intends to ___ its combined purchasing volume to secure better terms from key suppliers.",
-    "choices": [
-      "leverage",
-      "levitate",
-      "levy",
-      "level"
+      "merge",
+      "mingle",
+      "mesh up",
+      "marry"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "To 'leverage' means to use as an advantage. 'Levy' means to impose a charge, 'levitate' means to float, and 'level' means to flatten."
+    "explanation": "'Merge operations' means combine them formally. 'Mingle' means mix socially, 'marry' is figurative, and 'mesh up' is malformed."
   },
   {
-    "id": "p5-1893",
-    "sentence": "Under the redundancy scheme, staff with more than five years' service receive enhanced ___ pay.",
+    "id": "p5-1359",
+    "sentence": "Several creditors have ___ their claims in the hope of recovering part of what they are owed.",
     "choices": [
-      "sequence",
-      "severity",
-      "severalty",
-      "severance"
+      "loaded",
+      "lobbed",
+      "lounged",
+      "lodged"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Severance pay' is compensation on termination. 'Severity' is harshness, 'severalty' is separate ownership, and 'sequence' is an order."
+    "explanation": "'Lodged claims' means formally submitted them. 'Lounged' means relaxed, 'lobbed' means thrown, and 'loaded' means filled."
   },
   {
-    "id": "p5-1894",
-    "sentence": "The clause was challenged as an unenforceable ___ of trade, barring her from working for competitors.",
+    "id": "p5-1204",
+    "sentence": "Not until the second audit ___ the full extent of the accounting irregularities become apparent.",
     "choices": [
-      "reserve",
-      "restitution",
-      "restraint",
-      "restoration"
+      "had",
+      "did",
+      "has",
+      "was"
     ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Restraint of trade' is the legal doctrine on limits to employment. 'Restitution' is repayment, 'restoration' is repair, and 'reserve' is a stock held back."
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Not until' at the start of a sentence forces inversion with 'did'. 'had', 'was' and 'has' cannot precede 'become' with this meaning."
   }
 ]

@@ -1,522 +1,522 @@
 [
   {
-    "id": "p5-1369",
-    "sentence": "The company ___ a record profit despite the challenging trading environment.",
+    "id": "p5-631",
+    "sentence": "The firm has yet ___ a formal response to the regulator's request for information.",
     "choices": [
-      "posted",
-      "pegged",
-      "pasted",
-      "placed"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Posted a profit' means reported it. The others do not collocate."
-  },
-  {
-    "id": "p5-1370",
-    "sentence": "Cash reserves were ___ to cover three months of operating expenses and nothing more.",
-    "choices": [
-      "suffixed",
-      "sufferable",
-      "sufficient",
-      "suffusing"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Sufficient to' means enough to. The other words are unrelated."
-  },
-  {
-    "id": "p5-1371",
-    "sentence": "The company's accounts were ___ with the regulator in compliance with statutory deadlines.",
-    "choices": [
-      "filed",
-      "framed",
-      "fitted",
-      "fixed"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Filed with the regulator' is the standard phrase. The others do not fit."
-  },
-  {
-    "id": "p5-1372",
-    "sentence": "The two parties have yet to ___ common ground on the question of intellectual property.",
-    "choices": [
-      "fill",
-      "fix",
-      "find",
-      "fine"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Find common ground' is the fixed expression. 'Fill' and 'fix' do not collocate."
-  },
-  {
-    "id": "p5-1373",
-    "sentence": "The CFO ___ the shortfall to unforeseen currency losses in the final quarter.",
-    "choices": [
-      "assigned",
-      "alluded",
-      "ascribed to",
-      "attributed"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Attributed X to Y' fits. 'Ascribed to' duplicates the preposition, 'assigned' means allocated, and 'alluded' needs 'to' with a different meaning."
-  },
-  {
-    "id": "p5-1374",
-    "sentence": "Our ___ is to deliver every order within forty-eight hours of receipt.",
-    "choices": [
-      "objection",
-      "objective",
-      "objector",
-      "objectivity"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Objective' means goal. The others are unrelated nouns."
-  },
-  {
-    "id": "p5-1375",
-    "sentence": "The company has ___ a substantial provision for potential legal costs.",
-    "choices": [
-      "set out",
-      "set up to",
-      "set aside",
-      "set about"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Set aside a provision' means reserve funds. The others do not fit."
-  },
-  {
-    "id": "p5-1377",
-    "sentence": "The investor's ___ stake in the company gives her considerable influence over strategy.",
-    "choices": [
-      "substantial",
-      "sustainable",
-      "substantive",
-      "substitute"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Substantial stake' means large. 'Substantive' means real, 'sustainable' means maintainable, and 'substitute' means replacement."
-  },
-  {
-    "id": "p5-1378",
-    "sentence": "The firm has taken ___ steps to prevent a repeat of the data breach.",
-    "choices": [
-      "rustic",
-      "robust",
-      "rugged",
-      "ruthless"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Robust steps' means strong measures. The others do not collocate."
-  },
-  {
-    "id": "p5-1379",
-    "sentence": "The hotel was ___ to capacity throughout the conference week.",
-    "choices": [
-      "booked",
-      "buried",
-      "boarded",
-      "bound"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Booked to capacity' means fully reserved. The others do not fit."
-  },
-  {
-    "id": "p5-1380",
-    "sentence": "A ___ number of staff opted to take early retirement under the new scheme.",
-    "choices": [
-      "sizing",
-      "sizzling",
-      "siezed",
-      "sizeable"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Sizeable number' means fairly large. The others are unrelated."
-  },
-  {
-    "id": "p5-1381",
-    "sentence": "There was a ___ increase in demand for remote-working tools during the lockdown.",
-    "choices": [
-      "marker",
-      "marks",
-      "marked",
-      "marking"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'A marked increase' is a past-participle adjective collocation. The others do not fit."
-  },
-  {
-    "id": "p5-1382",
-    "sentence": "The firm has ___ its operations in the Baltic states to reduce labour costs.",
-    "choices": [
-      "relocating",
-      "relocated",
-      "relocation",
-      "relocate"
+      "issuing",
+      "to issue",
+      "issued",
+      "to issuing"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "Present perfect needs a past participle. The others do not."
+    "explanation": "'Have yet to + infinitive' means 'has not done so far'. The -ing and past forms are not allowed after 'yet' in this pattern."
   },
   {
-    "id": "p5-1383",
-    "sentence": "The company ___ its quarterly dividend for the first time in thirty years.",
+    "id": "p5-2167",
+    "sentence": "The commission found ___ evidence of price-fixing and opened a formal investigation into the sector.",
     "choices": [
-      "suspense",
-      "suspend",
-      "suspending",
-      "suspended"
+      "de facto",
+      "sui generis",
+      "ad hoc",
+      "prima facie"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "A finite past verb is needed. The others do not fit."
+    "category": "vocabulary",
+    "explanation": "Prima facie describes evidence that seems sufficient on its face until contradicted. Sui generis, ad hoc and de facto mean unique, for a purpose, and in reality, so none expresses evidence enough to open an investigation."
   },
   {
-    "id": "p5-1400",
-    "sentence": "The arbitrator suggested that both parties ___ their claims before the hearing resumed.",
+    "id": "p5-2105",
+    "sentence": "Interns receive a modest ___ rather than a full salary during their placement.",
     "choices": [
-      "withdraw",
-      "withdrawn",
-      "withdrew",
-      "withdraws"
+      "stipend",
+      "tariff",
+      "dividend",
+      "royalty"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Suggested that' takes the subjunctive base form. The others are indicative or a participle."
+    "category": "vocabulary",
+    "explanation": "A stipend is a fixed allowance paid to interns or trainees instead of a full salary. A royalty is a payment for rights, a tariff is a duty or price list, and a dividend is a share of profits, so none is pay for work experience."
   },
   {
-    "id": "p5-1401",
-    "sentence": "The report is accurate, ___ somewhat dated, and should be read with that caveat in mind.",
+    "id": "p5-2175",
+    "sentence": "The employee lodged a formal ___ alleging that her line manager had repeatedly bullied her.",
     "choices": [
-      "hence",
-      "whereas",
-      "lest",
-      "albeit"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Albeit' means although, introducing a concession with an adjective. 'Whereas' needs a clause, 'hence' means therefore, and 'lest' expresses fear."
-  },
-  {
-    "id": "p5-1402",
-    "sentence": "The rebate applies to all purchases, ___ they are made online or in store.",
-    "choices": [
-      "whether",
-      "whereas",
-      "although",
-      "unless"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Whether... or' offers alternatives. The others do not fit 'or in store'."
-  },
-  {
-    "id": "p5-1403",
-    "sentence": "Prices rose sharply in the south, ___ they remained stable throughout the northern regions.",
-    "choices": [
-      "in case",
-      "so that",
-      "unless",
-      "whereas"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Whereas' marks contrast between two facts. The others express result, exception and precaution."
-  },
-  {
-    "id": "p5-1404",
-    "sentence": "The company increased its marketing budget ___ it could capture a larger share of the youth market.",
-    "choices": [
-      "as for",
-      "in spite of",
-      "for fear",
-      "so that"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'So that' introduces purpose with a clause. 'In spite of' and 'as for' take nouns, and 'for fear' needs 'that' or 'of'."
-  },
-  {
-    "id": "p5-1406",
-    "sentence": "The ruling applies only ___ the contract was concluded after the new law took effect.",
-    "choices": [
-      "insofar as",
-      "in view of",
-      "on behalf of",
-      "apart from"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Insofar as' limits scope and introduces a clause. The others are prepositional and need nouns."
-  },
-  {
-    "id": "p5-1407",
-    "sentence": "Invoices are payable within thirty days; ___, a late fee of two percent will be applied.",
-    "choices": [
-      "therefore",
-      "moreover",
-      "likewise",
-      "otherwise"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Otherwise' means if not. 'Therefore' gives result, 'moreover' adds, and 'likewise' means similarly."
-  },
-  {
-    "id": "p5-1408",
-    "sentence": "The proposal was well received; ___, several details still require clarification before approval.",
-    "choices": [
-      "likewise",
-      "accordingly",
-      "nevertheless",
-      "consequently"
+      "grudge",
+      "resentment",
+      "grievance",
+      "vendetta"
     ],
     "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Nevertheless' signals contrast with the previous clause. 'Accordingly', 'consequently' and 'likewise' do not."
+    "category": "vocabulary",
+    "explanation": "A grievance is a formal complaint raised by an employee about treatment at work. Grudge, resentment and vendetta are feelings or feuds, and cannot be lodged formally with an employer."
   },
   {
-    "id": "p5-1409",
-    "sentence": "The scheme is open to all staff; ___, preference will be given to those with the longest service.",
+    "id": "p5-2095",
+    "sentence": "The minister resigned ___ allegations that she had misused public funds.",
     "choices": [
-      "thereby",
-      "however",
-      "hence",
-      "whereas"
+      "in the wake of",
+      "by way of",
+      "on the verge of",
+      "in the event of"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'In the wake of' means following, as a consequence. 'On the verge of' means about to, 'in the event of' introduces a possibility, and 'by way of' means via."
+  },
+  {
+    "id": "p5-1239",
+    "sentence": "The accountant was asked to ___ the discrepancy between the ledger and the bank statement.",
+    "choices": [
+      "reciprocate",
+      "recompense",
+      "reconcile",
+      "recoup"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Reconcile a discrepancy' means resolve it. 'Recompense' means pay back, 'reciprocate' means return a favour, and 'recoup' means recover money."
+  },
+  {
+    "id": "p5-1763",
+    "sentence": "The boutique has cultivated an exclusive ___ of high-net-worth shoppers over many years.",
+    "choices": [
+      "clearance",
+      "clemency",
+      "cliche",
+      "clientele"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Clientele means a business's customers. Clemency, cliche and clearance do not."
+  },
+  {
+    "id": "p5-2089",
+    "sentence": "The ___ at the start of the agreement explain the background to the parties' dealings.",
+    "choices": [
+      "recitals",
+      "indemnities",
+      "schedules",
+      "annexes"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Recitals are the introductory statements of background at the start of a contract. Annexes and schedules sit at the end of an agreement, and indemnities are promises to cover loss, so none explains background."
+  },
+  {
+    "id": "p5-2022",
+    "sentence": "Failure to complete the transaction by the deadline means the buyer will ___ its deposit.",
+    "choices": [
+      "refund",
+      "forfeit",
+      "redeem",
+      "reimburse"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Forfeit means to lose something as a penalty for failing to meet an obligation. Redeem means to buy back or pay off, and refund and reimburse mean to repay, which a defaulting buyer does not do with its own deposit."
+  },
+  {
+    "id": "p5-1219",
+    "sentence": "The firm was ___ to pay substantial damages after the court found it had breached the exclusivity clause.",
+    "choices": [
+      "prompted",
+      "advised",
+      "urged",
+      "ordered"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Ordered to pay' is the court-imposed obligation. 'Urged' and 'advised' are non-binding, and 'prompted' needs a different structure."
+  },
+  {
+    "id": "p5-1294",
+    "sentence": "The company reported a ___ fall in profits as a result of currency movements.",
+    "choices": [
+      "precipitous",
+      "precocious",
+      "precarious",
+      "preposterous"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Precipitous' means sudden and steep. 'Precarious' means unstable, 'precocious' means advanced early, and 'preposterous' means absurd."
+  },
+  {
+    "id": "p5-1238",
+    "sentence": "Profit margins have been ___ eroded by rising energy costs over the past year.",
+    "choices": [
+      "steadily",
+      "steady",
+      "steadiness",
+      "steadied"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "An adverb modifies 'eroded'. The others are an adjective, a participle and a noun."
+  },
+  {
+    "id": "p5-2124",
+    "sentence": "Seldom if ever ___ a negotiation of this complexity been concluded in so short a time.",
+    "choices": [
+      "was",
+      "has",
+      "does",
+      "is"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'However' contrasts within a semicolon structure. 'Thereby' and 'hence' show result, and 'whereas' needs a clause."
+    "explanation": "'Seldom' triggers inversion, and 'has ... been concluded' is the present perfect passive. 'Is', 'does' and 'was' cannot precede 'been concluded'."
   },
   {
-    "id": "p5-1410",
-    "sentence": "The data were collected anonymously, ___ ensuring that no respondent could be identified.",
+    "id": "p5-1706",
+    "sentence": "Investors demanded greater ___ regarding how executive bonuses are calculated and approved.",
     "choices": [
-      "whereas",
-      "hence",
-      "albeit",
-      "thereby"
+      "transience",
+      "transition",
+      "transparency",
+      "transmission"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Transparency means openness. Transience (brevity), transmission and transition do not mean disclosure."
+  },
+  {
+    "id": "p5-2144",
+    "sentence": "Aggressive upselling can ___ customers who simply wanted a basic service.",
+    "choices": [
+      "isolate",
+      "disconnect",
+      "detach",
+      "alienate"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Thereby' + participle expresses result by that means. 'Hence' needs a noun, 'whereas' contrasts, and 'albeit' concedes."
+    "category": "vocabulary",
+    "explanation": "To alienate customers is to make them feel unwelcome or hostile. Disconnect, isolate and detach describe physical or technical separation and are not used for customers' feelings about a sales approach."
   },
   {
-    "id": "p5-1411",
-    "sentence": "Companies ___ to meet the new emissions targets will face escalating financial penalties.",
+    "id": "p5-1696",
+    "sentence": "The firm operates plants in Ohio and Texas; the former makes casings, while ___ produces the batteries.",
     "choices": [
-      "failing",
-      "failed",
-      "to fail",
-      "having failed"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "A present participle reduces an active relative clause ('that fail'). 'failed' would be passive, and the others do not fit."
-  },
-  {
-    "id": "p5-1412",
-    "sentence": "The consultant, ___ for his tough negotiating style, was hired to lead the talks.",
-    "choices": [
-      "knowing",
-      "having known",
-      "known",
-      "knew"
+      "the last one",
+      "the later",
+      "the latter",
+      "the next"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Known for' is the reduced passive clause. The others are active or finite."
+    "explanation": "'The former ... the latter' refers back to two items. The other phrases do not refer to the second of two."
   },
   {
-    "id": "p5-1413",
-    "sentence": "It was the quality of the service, not the price, ___ persuaded the client to renew.",
+    "id": "p5-1697",
+    "sentence": "The CFO warned that the firm would struggle to ___ its mounting debt if interest rates kept climbing.",
     "choices": [
-      "who",
-      "that",
-      "how",
-      "what"
+      "serve",
+      "service",
+      "furnish",
+      "assist"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "To service debt means to keep up interest and repayments. Serve, furnish and assist do not collocate with debt."
+  },
+  {
+    "id": "p5-1262",
+    "sentence": "Auditors must remain ___ of the companies whose accounts they examine.",
+    "choices": [
+      "independent",
+      "indignant",
+      "indifferent",
+      "indulgent"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Independent of' means free from influence. 'Indifferent' means uninterested, 'indignant' means angry, and 'indulgent' means lenient."
+  },
+  {
+    "id": "p5-1736",
+    "sentence": "Goods in ___ are insured against loss or damage until they reach the consignee.",
+    "choices": [
+      "transcript",
+      "transit",
+      "trance",
+      "translation"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "In transit means being shipped. In trance, translation and transcript are not shipping terms."
+  },
+  {
+    "id": "p5-2090",
+    "sentence": "A well-timed discount can ___ hesitant buyers into completing their purchase before the offer expires.",
+    "choices": [
+      "implore",
+      "coax",
+      "urge",
+      "exhort"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Coax means to persuade gently, and it takes the pattern 'coax someone into doing'. Urge, exhort and implore are followed by 'to + infinitive', so they do not work with 'into completing'."
+  },
+  {
+    "id": "p5-1690",
+    "sentence": "We were made ___ our security passes at the reception desk before entering the building.",
+    "choices": [
+      "shown",
+      "to show",
+      "show",
+      "showing"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "A cleft sentence uses 'that'. 'what' and 'how' do not fit, and 'who' is for people."
+    "explanation": "The passive of 'make someone do' takes 'to' plus infinitive. The others are not used in this pattern."
   },
   {
-    "id": "p5-1414",
-    "sentence": "No sooner had the figures been published ___ the share price began to slide.",
+    "id": "p5-2030",
+    "sentence": "This agreement shall ___ all prior understandings between the parties, whether written or oral.",
     "choices": [
-      "than",
-      "then",
-      "when",
-      "that"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'No sooner... than' is the correlative pair. 'when' goes with 'hardly', 'then' means at that time, and 'that' is incorrect."
-  },
-  {
-    "id": "p5-1415",
-    "sentence": "The company had its accounts ___ by an independent firm before the flotation.",
-    "choices": [
-      "auditing",
-      "audit",
-      "to audit",
-      "audited"
+      "overshadow",
+      "outweigh",
+      "overtake",
+      "supersede"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Have + object + past participle' is the passive causative. The others do not fit."
+    "category": "vocabulary",
+    "explanation": "'Supersede' means replace or take the place of. 'Overshadow' means make seem less important, 'outweigh' means exceed in importance, and 'overtake' means pass a moving thing."
   },
   {
-    "id": "p5-1416",
-    "sentence": "The director got the project ___ despite repeated budget cuts and two changes of leadership.",
+    "id": "p5-1293",
+    "sentence": "The committee found no evidence of ___ on the part of the managers involved in the sale.",
     "choices": [
-      "completed",
-      "completing",
-      "complete",
-      "to complete"
+      "improvement",
+      "impropriety",
+      "impatience",
+      "imprecision"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Impropriety' means improper conduct. The others are unrelated nouns."
+  },
+  {
+    "id": "p5-1894",
+    "sentence": "The clause was challenged as an unenforceable ___ of trade, barring her from working for competitors.",
+    "choices": [
+      "reserve",
+      "restitution",
+      "restraint",
+      "restoration"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Restraint of trade' is the legal doctrine on limits to employment. 'Restitution' is repayment, 'restoration' is repair, and 'reserve' is a stock held back."
+  },
+  {
+    "id": "p5-1275",
+    "sentence": "The new director has pledged to ___ a culture of accountability throughout the organisation.",
+    "choices": [
+      "forgo",
+      "forfeit",
+      "foresee",
+      "foster"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Foster a culture' means encourage it. 'Foresee' means predict, 'forfeit' means lose through penalty, and 'forgo' means do without."
+  },
+  {
+    "id": "p5-1274",
+    "sentence": "The scheme was designed to ___ small enterprises against sudden fluctuations in raw-material prices.",
+    "choices": [
+      "insist",
+      "insulate",
+      "insinuate",
+      "inscribe"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Insulate against' means protect from. 'Insinuate' means hint, 'insist' needs 'on', and 'inscribe' means write on."
+  },
+  {
+    "id": "p5-1260",
+    "sentence": "The promotion is ___ to staff who have completed at least two years with the firm.",
+    "choices": [
+      "resigned",
+      "restrained",
+      "restricted",
+      "resisted"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Restricted to' means limited to. 'Resigned', 'restrained' and 'resisted' do not fit 'to staff'."
+  },
+  {
+    "id": "p5-1666",
+    "sentence": "We have no objection to your ___ the proposal to the board directly.",
+    "choices": [
+      "submitting",
+      "to submit",
+      "submit",
+      "submissions"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Get + object + past participle' means cause something to be done. 'complete' and 'completing' do not fit, and 'to complete' implies persuading someone."
+    "explanation": "'Objection to' is followed by a possessive plus gerund. The others do not follow 'to your'."
   },
   {
-    "id": "p5-1417",
-    "sentence": "She was reluctant ___ the proposal until its legal implications had been fully assessed.",
+    "id": "p5-1636",
+    "sentence": "Not only ___ the quarterly target, but it also secured two new long-term contracts.",
     "choices": [
-      "in endorsing",
-      "to endorse",
-      "of endorsing",
-      "endorsing"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Reluctant to' is followed by an infinitive. The others are not valid."
-  },
-  {
-    "id": "p5-1418",
-    "sentence": "The union has agreed ___ the strike pending a fresh offer from management.",
-    "choices": [
-      "on suspend",
-      "suspending",
-      "to suspend",
-      "suspended"
+      "the team did exceed",
+      "the team exceeded",
+      "did the team exceed",
+      "exceeded the team"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Agree' takes an infinitive. The others do not."
+    "explanation": "After 'Not only' at the start, the auxiliary comes before the subject. The other orders are not inverted."
   },
   {
-    "id": "p5-1419",
-    "sentence": "The firm has been ___ to bankruptcy by years of mismanagement and unwise acquisitions.",
+    "id": "p5-2133",
+    "sentence": "A government subsidy will help ___ the expense of installing the new production line.",
     "choices": [
-      "fallen",
-      "lowered",
-      "dropped",
-      "reduced"
+      "deplete",
+      "deflect",
+      "defray",
+      "deter"
     ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Reduced to bankruptcy' is the fixed phrase. 'lowered' and 'dropped' do not collocate, and 'fallen' is intransitive."
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Defray means to provide money to cover part of a cost. Deplete means to use up, deflect means to turn aside, and deter means to discourage, so none takes 'the expense' with this sense."
   },
   {
-    "id": "p5-1420",
-    "sentence": "The negotiators ___ an agreement only after eighteen hours of talks.",
+    "id": "p5-2085",
+    "sentence": "The more rigorously the controls are applied, ___ the opportunities for fraud become.",
     "choices": [
-      "reached",
-      "arrived",
-      "achieved at",
-      "came"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Reached an agreement' is the collocation. 'arrived' and 'came' need prepositions, and 'achieved at' is malformed."
-  },
-  {
-    "id": "p5-1421",
-    "sentence": "The decision was taken ___ consultation with the legal and finance departments.",
-    "choices": [
-      "after to",
-      "at",
-      "in",
-      "by"
+      "fewer",
+      "less",
+      "the fewer",
+      "the fewest"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'In consultation with' is the fixed phrase. The others are not."
+    "explanation": "'The more ..., the fewer' is the comparative correlative. 'Fewer' lacks the article, 'the fewest' is a superlative, and 'less' does not agree with a countable noun."
   },
   {
-    "id": "p5-1422",
-    "sentence": "The consultancy has operated in this sector ___ 1998 and has never lost a major client.",
+    "id": "p5-2064",
+    "sentence": "Please read the ___ terms and conditions carefully before you sign the agreement.",
     "choices": [
-      "for",
-      "since",
-      "from to",
-      "in"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Since' marks a starting point. 'for' needs a duration, and the others do not fit."
-  },
-  {
-    "id": "p5-1423",
-    "sentence": "The proposal must be submitted ___ the end of the working day on Friday.",
-    "choices": [
-      "since",
-      "until",
-      "during",
-      "before"
-    ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Before' marks a deadline. 'until' continues up to a point, 'since' needs a starting point, and 'during' needs a period."
-  },
-  {
-    "id": "p5-1424",
-    "sentence": "The committee unanimously agreed that the funds ___ be released until the audit was finished.",
-    "choices": [
-      "no",
-      "not",
-      "never",
-      "hardly"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "The subjunctive negative is formed with 'not' before the verb. 'no' is a determiner, and 'never' and 'hardly' are not used here."
-  },
-  {
-    "id": "p5-1425",
-    "sentence": "The board resolved that the chairman ___ the discussions with the union on its behalf.",
-    "choices": [
-      "lead",
-      "leads",
-      "led",
-      "leading"
+      "accompanying",
+      "accompanied",
+      "accompaniment",
+      "accompany"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Resolved that' takes the base form. The others are indicative or non-finite."
+    "explanation": "A present participle used as an adjective means 'that comes with'. 'Accompanied' would mean escorted, 'accompany' is a verb, and 'accompaniment' is a noun."
   },
   {
-    "id": "p5-1426",
-    "sentence": "The firm's accountants were unaware ___ the tax authority had opened an inquiry.",
+    "id": "p5-2154",
+    "sentence": "All suppliers must ___ by the code of conduct set out in schedule four of the framework agreement.",
     "choices": [
-      "of that",
-      "whether to",
-      "that",
-      "what"
+      "conform",
+      "abide",
+      "adhere",
+      "obey"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Abide by means to accept and follow a rule. Obey takes a direct object, adhere takes 'to', and conform takes 'to' or 'with', so none can be followed directly by 'by' in this sentence."
+  },
+  {
+    "id": "p5-1356",
+    "sentence": "The firm's board approved a ___ restructuring plan involving the closure of six plants.",
+    "choices": [
+      "swerving",
+      "swaying",
+      "sweeping",
+      "sweating"
     ],
     "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Sweeping' means far-reaching. The others do not collocate."
+  },
+  {
+    "id": "p5-1656",
+    "sentence": "Management has decided against ___ additional staff until the second-quarter results are published.",
+    "choices": [
+      "hiring",
+      "hire",
+      "to hire",
+      "having hired"
+    ],
+    "answerIndex": 0,
     "category": "grammar",
-    "explanation": "'Unaware that' introduces a clause. The others are malformed."
+    "explanation": "'Decide against' takes a gerund. The others use an infinitive or a perfect gerund that changes the meaning."
+  },
+  {
+    "id": "p5-1882",
+    "sentence": "Regulators ordered the merged entity to ___ several regional branches to preserve competition in local markets.",
+    "choices": [
+      "invest",
+      "divest",
+      "diverge",
+      "digest"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "To 'divest' means to sell off assets. 'Invest' means to put money in, 'digest' means to absorb, and 'diverge' means to separate."
+  },
+  {
+    "id": "p5-1246",
+    "sentence": "The firm's growth was ___ largely on acquisitions rather than organic expansion.",
+    "choices": [
+      "prevailed",
+      "preoccupied",
+      "predicated",
+      "predisposed"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Predicated on' means based on. 'Predisposed' means inclined, 'preoccupied' means absorbed, and 'prevailed' means won out."
+  },
+  {
+    "id": "p5-1750",
+    "sentence": "Firms that breach the rules ___ substantial penalties, as one company did after the audit exposed its violations.",
+    "choices": [
+      "indulged",
+      "insured",
+      "incurred",
+      "induced"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Incur penalties means become liable to them. Induced, insured and indulged do not take penalties."
+  },
+  {
+    "id": "p5-2057",
+    "sentence": "Running the test environment ___ with the live system could corrupt customer records.",
+    "choices": [
+      "concurrently",
+      "consecutively",
+      "conveniently",
+      "coherently"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Concurrently with means at the same time as. Consecutively means one after another and does not take 'with', while coherently and conveniently do not describe timing."
+  },
+  {
+    "id": "p5-1726",
+    "sentence": "The recruitment agency will ___ a shortlist of qualified candidates by Friday.",
+    "choices": [
+      "complain",
+      "compile",
+      "compel",
+      "comply"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Compile a shortlist means assemble it. Compel, comply and complain do not take shortlist as object."
   }
 ]

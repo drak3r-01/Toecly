@@ -1,107 +1,42 @@
 [
   {
-    "id": "p5-1735",
-    "sentence": "The warehouse uses barcode scanning to ___ inventory levels in real time.",
+    "id": "p5-1622",
+    "sentence": "___ or not the regulator approves the deal, we will proceed with the integration plan.",
     "choices": [
-      "monitor",
-      "mentor",
-      "muster",
-      "mandate"
+      "Whether",
+      "If",
+      "Although",
+      "Unless"
     ],
     "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Monitor levels means track them. Mentor, mandate and muster do not take inventory levels."
+    "category": "grammar",
+    "explanation": "'Whether or not' is the fixed structure. 'If' cannot be separated from 'or not' here, 'Unless' and 'Although' do not allow 'or not'."
   },
   {
-    "id": "p5-1736",
-    "sentence": "Goods in ___ are insured against loss or damage until they reach the consignee.",
+    "id": "p5-1791",
+    "sentence": "The assembly line came to a ___ after a power failure disabled the main conveyor.",
     "choices": [
-      "transcript",
-      "transit",
-      "trance",
-      "translation"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "In transit means being shipped. In trance, translation and transcript are not shipping terms."
-  },
-  {
-    "id": "p5-1737",
-    "sentence": "To reduce holding costs, the retailer adopted a just-in-time approach to ___ management.",
-    "choices": [
-      "invention",
-      "investigation",
-      "inversion",
-      "inventory"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Inventory management means stock control. Invention, inversion and investigation are not managed in this sense."
-  },
-  {
-    "id": "p5-1738",
-    "sentence": "The carrier will ___ the cargo to the nearest hub if the primary route is blocked.",
-    "choices": [
-      "retract",
-      "retrofit",
-      "reroute",
-      "reimburse"
+      "stalemate",
+      "standpoint",
+      "standstill",
+      "stopover"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "Reroute means send by another path. Retrofit, retract and reimburse do not take cargo to a hub."
+    "explanation": "A standstill is a complete halt. Stalemate applies to disputes; the others do not fit."
   },
   {
-    "id": "p5-1739",
-    "sentence": "To save costs, the firm decided to ___ its warehousing operations to a third-party provider.",
+    "id": "p5-2141",
+    "sentence": "Neither the CEO nor her deputies ___ aware of the discrepancy until the audit began.",
     "choices": [
-      "outsource",
-      "outweigh",
-      "outmanoeuvre",
-      "outlast"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Outsource to means contract out. Outweigh, outlast and outmanoeuvre cannot take to a provider."
-  },
-  {
-    "id": "p5-1740",
-    "sentence": "Dock workers began a strike, leaving hundreds of containers ___ at the terminal.",
-    "choices": [
-      "strangled",
-      "strained",
-      "stained",
-      "stranded"
+      "has been",
+      "is",
+      "was",
+      "were"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Stranded means stuck and unable to move on. Stained, strained and strangled do not fit with containers at a terminal."
-  },
-  {
-    "id": "p5-1741",
-    "sentence": "The company negotiated a volume ___ with its largest supplier after doubling its orders.",
-    "choices": [
-      "rebuke",
-      "rebate",
-      "rebuttal",
-      "rebellion"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A rebate is a partial refund for volume. Rebuke, rebuttal and rebellion are not commercial terms."
-  },
-  {
-    "id": "p5-1742",
-    "sentence": "Perishable goods require ___ transport to preserve their quality during long journeys.",
-    "choices": [
-      "refurbished",
-      "reformulated",
-      "refrigerated",
-      "refundable"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Refrigerated transport keeps goods cold. The other adjectives do not describe transport."
+    "category": "grammar",
+    "explanation": "With 'neither ... nor' the verb agrees with the nearer subject, the plural 'deputies', so 'were' is needed. 'Was', 'has been' and 'is' are singular or present."
   },
   {
     "id": "p5-1743",
@@ -117,290 +52,186 @@
     "explanation": "Derail the schedule means ruin it. Deride, decree and deflate do not collocate with schedule."
   },
   {
-    "id": "p5-1744",
-    "sentence": "Strict ___ requirements mean every component must be linked to its original source and batch.",
+    "id": "p5-1893",
+    "sentence": "Under the redundancy scheme, staff with more than five years' service receive enhanced ___ pay.",
     "choices": [
-      "transferability",
-      "tractability",
-      "traceability",
-      "trajectory"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Traceability is the ability to track origin. The other nouns do not describe tracking requirements."
-  },
-  {
-    "id": "p5-1745",
-    "sentence": "The retailer's ___ network includes twelve regional warehouses and five cross-docking facilities.",
-    "choices": [
-      "discrimination",
-      "distribution",
-      "distinction",
-      "dissolution"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A distribution network is a delivery system of warehouses. The others do not describe a network of facilities."
-  },
-  {
-    "id": "p5-1746",
-    "sentence": "Lead times can ___ significantly depending on the supplier's location and customs procedures.",
-    "choices": [
-      "vet",
-      "vacate",
-      "vanish",
-      "vary"
+      "sequence",
+      "severity",
+      "severalty",
+      "severance"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "Vary means differ or change. Vet, vanish and vacate do not fit with significantly depending on location."
+    "explanation": "'Severance pay' is compensation on termination. 'Severity' is harshness, 'severalty' is separate ownership, and 'sequence' is an order."
   },
   {
-    "id": "p5-1747",
-    "sentence": "The bank was fined for failing to ___ with anti-money-laundering rules.",
+    "id": "p5-2146",
+    "sentence": "Refrigerated trucks are essential for transporting ___ goods such as dairy products and fresh fish.",
     "choices": [
-      "vie",
-      "comply",
-      "coincide",
-      "compare"
+      "combustible",
+      "perishable",
+      "volatile",
+      "fragile"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "Comply with means obey. Vie, coincide and compare do not mean follow rules."
+    "explanation": "Perishable goods spoil quickly if not kept cold. Combustible, fragile and volatile describe goods that burn, break or evaporate, so none explains the need for refrigeration."
   },
   {
-    "id": "p5-1748",
-    "sentence": "Regulators will ___ a thorough inspection of the plant before issuing the operating licence.",
+    "id": "p5-2073",
+    "sentence": "The licensee may not ___ its rights under this agreement without the prior written consent of the licensor.",
     "choices": [
-      "conduct",
-      "conserve",
-      "conspire",
-      "confer"
+      "assess",
+      "assign",
+      "allocate",
+      "bequeath"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Assign means to transfer a right to another party. Allocate means to distribute resources, assess means to evaluate, and bequeath means to leave property by will, so none describes a licensee passing on contractual rights."
+  },
+  {
+    "id": "p5-1402",
+    "sentence": "The rebate applies to all purchases, ___ they are made online or in store.",
+    "choices": [
+      "whether",
+      "whereas",
+      "although",
+      "unless"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Whether... or' offers alternatives. The others do not fit 'or in store'."
+  },
+  {
+    "id": "p5-2186",
+    "sentence": "Talks reached an ___ when neither side would move from its opening position.",
+    "choices": [
+      "impasse",
+      "interval",
+      "impulse",
+      "intersection"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "Conduct an inspection means carry one out. Conspire, conserve and confer do not take inspection."
+    "explanation": "An impasse is a deadlock where no progress is possible. An interval is a pause, an intersection is a crossing, and an impulse is a sudden urge, so none of them describes a deadlock in talks."
   },
   {
-    "id": "p5-1749",
-    "sentence": "The new directive is ___ to all companies with more than 250 employees.",
+    "id": "p5-2041",
+    "sentence": "Being stocked by the famous department store gave the little-known label real ___ with fashion buyers.",
     "choices": [
-      "accountable",
-      "amenable",
-      "adaptable",
-      "applicable"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Applicable to means relevant to. Adaptable, amenable and accountable do not suit to all companies as scope."
-  },
-  {
-    "id": "p5-1750",
-    "sentence": "Firms that breach the rules ___ substantial penalties, as one company did after the audit exposed its violations.",
-    "choices": [
-      "indulged",
-      "insured",
-      "incurred",
-      "induced"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Incur penalties means become liable to them. Induced, insured and indulged do not take penalties."
-  },
-  {
-    "id": "p5-1751",
-    "sentence": "All chemical substances must be ___ with the national authority before they are placed on the market.",
-    "choices": [
-      "reiterated",
-      "registered",
-      "rehearsed",
-      "regimented"
+      "cadence",
+      "cachet",
+      "calibre",
+      "caveat"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "Registered with an authority means formally recorded. The other participles do not fit with the authority."
+    "explanation": "Cachet is prestige or status that makes something desirable. A caveat is a warning, cadence is a rhythm, and calibre is a level of quality that would not be 'given' by a stockist and does not take 'with buyers'."
   },
   {
-    "id": "p5-1752",
-    "sentence": "The auditor issued a ___ opinion, indicating that the accounts contained material misstatements.",
+    "id": "p5-1796",
+    "sentence": "The migration to the cloud will ___ the need for costly on-site servers.",
     "choices": [
-      "qualitative",
-      "quixotic",
-      "quarrelsome",
-      "qualified"
+      "obstruct",
+      "obsess",
+      "observe",
+      "obviate"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "A qualified opinion signals reservations. The other adjectives are not audit opinion types."
+    "explanation": "Obviate the need means remove it. The others do not take need."
   },
   {
-    "id": "p5-1753",
-    "sentence": "Whistleblowers are protected by law from ___ after reporting suspected wrongdoing.",
+    "id": "p5-923",
+    "sentence": "The chief engineer was ___ with ensuring that the plant met all environmental standards.",
     "choices": [
-      "retardation",
-      "relaxation",
-      "retaliation",
-      "relegation"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Retaliation means punishment for reporting. Relaxation, retardation and relegation do not."
-  },
-  {
-    "id": "p5-1754",
-    "sentence": "The inspector issued an ___ notice requiring the factory to fix the safety violations within thirty days.",
-    "choices": [
-      "enforcement",
-      "endorsement",
-      "enrichment",
-      "enchantment"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "An enforcement notice orders compliance. The other nouns do not describe regulatory orders."
-  },
-  {
-    "id": "p5-1755",
-    "sentence": "Exporters must obtain a ___ before shipping dual-use technology to certain countries.",
-    "choices": [
-      "legislature",
-      "ledger",
-      "lease",
-      "licence"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "An export licence is official permission. Lease, legacy and ledger are not permissions to ship."
-  },
-  {
-    "id": "p5-1756",
-    "sentence": "The company has been placed under close ___ by regulators following repeated safety violations.",
-    "choices": [
-      "scrimmage",
-      "scrutiny",
-      "scripture",
-      "scruple"
+      "charted",
+      "charged",
+      "chased",
+      "changed"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "Under scrutiny means closely examined. The others do not follow under close."
+    "explanation": "'Charged with' means given responsibility for. 'Chased', 'changed' and 'charted' do not fit this structure."
   },
   {
-    "id": "p5-1757",
-    "sentence": "To ___ the risk of fraud, the bank introduced dual authorization for large transfers.",
+    "id": "p5-1235",
+    "sentence": "Under the terms of the lease, structural repairs ___ the landlord's responsibility.",
     "choices": [
-      "mitigate",
-      "militate",
-      "mutilate",
-      "meditate"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Mitigate risk means reduce it. Militate (act against), mutilate and meditate do not take risk as object."
-  },
-  {
-    "id": "p5-1758",
-    "sentence": "Under data-protection law, organisations must obtain ___ consent before processing personal data.",
-    "choices": [
-      "expedient",
-      "exquisite",
-      "explicit",
-      "exempt"
+      "restrain",
+      "retain",
+      "remain",
+      "reserve"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "Explicit consent is clearly stated. Exempt, expedient and exquisite do not describe consent."
+    "explanation": "'Remain the landlord's responsibility' is a linking-verb construction. 'Retain' and 'reserve' need objects, and 'restrain' means hold back."
   },
   {
-    "id": "p5-1759",
-    "sentence": "Parliament is expected to ___ the new data-protection law by March.",
+    "id": "p5-1626",
+    "sentence": "___ the board been informed earlier, the share price would not have fallen so sharply.",
     "choices": [
-      "enclose",
-      "enrol",
-      "entangle",
-      "enact"
+      "Were",
+      "Having",
+      "Has",
+      "Had"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Enact a law means pass it. Enrol, enclose and entangle do not take law as object."
+    "category": "grammar",
+    "explanation": "Inverted third conditional uses 'Had' plus a past participle. 'Has' is present perfect, 'Having' is a participle and 'Were' needs 'to'."
   },
   {
-    "id": "p5-1760",
-    "sentence": "The firm's ___ officer reports directly to the board on regulatory and ethical matters.",
+    "id": "p5-1814",
+    "sentence": "The nomination committee ___ candidates for board vacancies based on skills and experience.",
     "choices": [
-      "compliment",
-      "compliance",
-      "complaint",
-      "complicity"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "A compliance officer ensures rules are followed. Complaint, compliment and complicity do not form this title."
-  },
-  {
-    "id": "p5-1761",
-    "sentence": "The campaign aims to ___ brand awareness among consumers aged eighteen to twenty-five.",
-    "choices": [
-      "harmonize",
-      "hamper",
-      "heighten",
-      "hasten"
+      "scrawls",
+      "scribes",
+      "screens",
+      "scorns"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "Heighten awareness means raise it. Hasten, harmonize and hamper do not take awareness."
+    "explanation": "Screen candidates means assess them. The others do not."
   },
   {
-    "id": "p5-1762",
-    "sentence": "The company hired an influencer to ___ its new range of sustainable sportswear.",
+    "id": "p5-1655",
+    "sentence": "The firewall prevents unauthorized users ___ the confidential database from outside the network.",
     "choices": [
-      "endorse",
-      "endow",
-      "enclose",
-      "endure"
+      "from having entered",
+      "from entering",
+      "of entering",
+      "to enter"
     ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Endorse a product means publicly support it. Endow, endure and enclose do not fit."
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Prevent someone from doing' is the pattern. 'to enter' and 'of entering' are not used, and 'from having entered' changes the sense."
   },
   {
-    "id": "p5-1763",
-    "sentence": "The boutique has cultivated an exclusive ___ of high-net-worth shoppers over many years.",
+    "id": "p5-2087",
+    "sentence": "The client will withhold a five per cent ___ until all defects have been remedied.",
     "choices": [
-      "clearance",
-      "clemency",
-      "cliche",
-      "clientele"
+      "retainer",
+      "restraint",
+      "reservation",
+      "retention"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "Clientele means a business's customers. Clemency, cliche and clearance do not."
+    "explanation": "Retention is a percentage of payment withheld until work is completed satisfactorily. A retainer is an advance fee, a reservation is a booking or a doubt, and restraint is self-control, so none is withheld pending defect repair."
   },
   {
-    "id": "p5-1764",
-    "sentence": "Launching during the holiday season allowed the firm to ___ on peak consumer spending.",
+    "id": "p5-2092",
+    "sentence": "Because of an administrative ___ , two delegates were allocated the same hotel room.",
     "choices": [
-      "capsize",
-      "capitalize",
-      "captivate",
-      "capitulate"
+      "oversupply",
+      "oversight",
+      "overtime",
+      "overview"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "Capitalize on means take advantage of. The others do not combine with on."
-  },
-  {
-    "id": "p5-1765",
-    "sentence": "The advertisement was withdrawn after the regulator ruled it was ___ and likely to mislead shoppers.",
-    "choices": [
-      "deceptive",
-      "decisive",
-      "deficient",
-      "decorative"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "Deceptive means misleading. The others do not fit with likely to mislead."
+    "explanation": "An oversight is a mistake made by failing to notice something. An overview is a general summary, an oversupply is an excess, and overtime is extra working hours, so none of them can explain a double allocation."
   },
   {
     "id": "p5-1766",
@@ -416,43 +247,69 @@
     "explanation": "Entice into means tempt. Entitle, entrust and entail do not fit into trying."
   },
   {
-    "id": "p5-1767",
-    "sentence": "Customers who abandon their online baskets receive emails designed to ___ them to complete the purchase.",
+    "id": "p5-1898",
+    "sentence": "A ___ dismissal occurs when an employer's conduct leaves the employee no reasonable option but to resign.",
     "choices": [
-      "prolong",
-      "promote",
-      "pry",
-      "prompt"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "Prompt someone to do means encourage them. Pry, promote and prolong do not take to complete."
-  },
-  {
-    "id": "p5-1768",
-    "sentence": "Sales of the premium line ___ sharply after the celebrity endorsement went public.",
-    "choices": [
-      "soothed",
-      "soaked",
-      "soared",
-      "sobbed"
+      "constrictive",
+      "construed",
+      "constructive",
+      "conclusive"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "Soared means rose rapidly. Soaked, soothed and sobbed do not describe sales."
+    "explanation": "'Constructive dismissal' is the legal term. 'Construed' means interpreted, 'constrictive' means tightening, and 'conclusive' means decisive."
   },
   {
-    "id": "p5-1769",
-    "sentence": "The retailer's pricing strategy is ___ to attract bargain hunters during the clearance period.",
+    "id": "p5-1288",
+    "sentence": "The firm's recovery was ___ by a sharp rise in demand from emerging markets.",
     "choices": [
-      "geared",
-      "gathered",
-      "gutted",
-      "gazed"
+      "underpinned",
+      "underwritten",
+      "underlined",
+      "undermined"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "Geared to means designed for a purpose. The others do not fit to attract."
+    "explanation": "'Underpinned by' means supported by. 'Undermined' means weakened, 'underlined' means emphasised, and 'underwritten' means financially guaranteed."
+  },
+  {
+    "id": "p5-718",
+    "sentence": "The two firms have agreed to ___ their resources to develop a cleaner engine.",
+    "choices": [
+      "pave",
+      "pool",
+      "pour",
+      "plunge"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Pool resources' means combine them. 'Pour', 'pave' and 'plunge' do not collocate with 'resources'."
+  },
+  {
+    "id": "p5-1618",
+    "sentence": "___ shipping costs have doubled, we should reconsider our reliance on overseas suppliers for bulky components.",
+    "choices": [
+      "Whether",
+      "Unless",
+      "Given that",
+      "Rather than"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Given that' introduces an accepted reason. 'Unless' is a negative condition, 'Whether' offers alternatives and 'Rather than' needs a parallel form."
+  },
+  {
+    "id": "p5-1724",
+    "sentence": "Following the restructuring, forty employees were made ___ and offered generous severance packages.",
+    "choices": [
+      "rebellious",
+      "reluctant",
+      "remedial",
+      "redundant"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Made redundant means dismissed as the job is no longer needed. The others do not explain severance."
   },
   {
     "id": "p5-1770",
@@ -468,55 +325,198 @@
     "explanation": "Resonate with means strike a chord. The others do not fit with shoppers in this sense."
   },
   {
-    "id": "p5-1771",
-    "sentence": "The rebranding exercise proved ___ when sales failed to improve despite the heavy spending.",
+    "id": "p5-987",
+    "sentence": "No sooner had the contract been signed ___ the client requested several changes.",
     "choices": [
-      "feeble",
-      "fertile",
-      "futile",
-      "fragile"
+      "when",
+      "that",
+      "than",
+      "then"
     ],
     "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "Futile means pointless. Fertile, fragile and feeble do not fit proved when sales failed."
+    "category": "grammar",
+    "explanation": "'No sooner... than' is the fixed correlative. 'when' goes with 'hardly', and 'that' and 'then' are incorrect."
   },
   {
-    "id": "p5-1772",
-    "sentence": "The developer secured planning ___ for a mixed-use complex in the city centre.",
+    "id": "p5-804",
+    "sentence": "The company has set aside funds to cover ___ liabilities arising from the pending lawsuit.",
     "choices": [
-      "permeation",
-      "permanence",
-      "permutation",
-      "permission"
+      "considerate",
+      "continuous",
+      "constant",
+      "contingent"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "Planning permission is official approval. The others are not approvals."
+    "explanation": "'Contingent liabilities' may arise depending on an outcome. 'Constant' and 'continuous' mean unchanging, and 'considerate' means thoughtful."
   },
   {
-    "id": "p5-1773",
-    "sentence": "The lease includes a rent ___ clause allowing annual increases linked to inflation.",
+    "id": "p5-1884",
+    "sentence": "The ___ of the two product lines is expected to generate annual cost savings of forty million dollars.",
     "choices": [
-      "escalation",
-      "elaboration",
-      "escapade",
-      "elevation"
+      "conciliation",
+      "consolation",
+      "consolidation",
+      "contamination"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Consolidation' means combining into one. 'Conciliation' is settling a dispute, 'consolation' is comfort, and 'contamination' is pollution."
+  },
+  {
+    "id": "p5-1243",
+    "sentence": "The manager's decision was ___ by a desire to avoid litigation rather than by commercial logic.",
+    "choices": [
+      "drawn",
+      "drafted",
+      "driven",
+      "drained"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Driven by' means motivated by. 'Drawn', 'drained' and 'drafted' do not fit 'by a desire'."
+  },
+  {
+    "id": "p5-1683",
+    "sentence": "Several executives are alleged ___ confidential data to a competitor before the merger was announced.",
+    "choices": [
+      "to be leaked",
+      "to have leaked",
+      "to have been leaked",
+      "to be leaking"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "An earlier event needs the perfect infinitive. 'to leak' is simultaneous, 'to be leaked' is passive and 'having leaked' is not used with 'alleged'."
+  },
+  {
+    "id": "p5-1357",
+    "sentence": "A key objective is to ___ the firm's reliance on imported components.",
+    "choices": [
+      "lighten",
+      "lesson",
+      "loosen",
+      "lessen"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Lessen reliance' means reduce. 'Lesson' is a noun, 'loosen' means slacken, and 'lighten' means make less heavy."
+  },
+  {
+    "id": "p5-1863",
+    "sentence": "___ Article 14 of the shareholders' agreement, any transfer of shares requires unanimous consent.",
+    "choices": [
+      "Pursuant to",
+      "In lieu of",
+      "Prior to",
+      "On behalf of"
     ],
     "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "An escalation clause allows scheduled increases. The others do not form this term."
+    "category": "grammar",
+    "explanation": "'Pursuant to' means in accordance with a legal provision. 'In lieu of' means instead of, 'On behalf of' means representing, and 'Prior to' means before."
   },
   {
-    "id": "p5-1774",
-    "sentence": "The buyer ordered a professional ___ to establish the true market value of the building.",
+    "id": "p5-2151",
+    "sentence": "After the first quarter, the programme board decided to ___ its targets in light of the supply shortages.",
     "choices": [
-      "venture",
-      "valuation",
-      "vacation",
-      "variation"
+      "reciprocate",
+      "recapitulate",
+      "recalibrate",
+      "recompense"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Recalibrate means to adjust or reset against a new standard. Recapitulate means to summarise, reciprocate means to respond in kind, and recompense means to repay, so none can take 'targets' here."
+  },
+  {
+    "id": "p5-1237",
+    "sentence": "The agency's guidelines are not ___ but firms are strongly encouraged to follow them.",
+    "choices": [
+      "bonding",
+      "binding",
+      "banding",
+      "bounding"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "Valuation is an assessment of worth. The others do not establish value."
+    "explanation": "'Binding' means legally obligatory. The other words are different forms or unrelated."
+  },
+  {
+    "id": "p5-1789",
+    "sentence": "Raw materials are ___ from certified suppliers to meet the ethical sourcing policy.",
+    "choices": [
+      "soured",
+      "sourced",
+      "sauced",
+      "scoured"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Sourced from means obtained from. The others do not fit."
+  },
+  {
+    "id": "p5-986",
+    "sentence": "The manager would have approved the leave request had she ___ of the family emergency.",
+    "choices": [
+      "known",
+      "knew",
+      "know",
+      "been known"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "Third conditional: 'had + past participle'. The others do not complete the inverted conditional."
+  },
+  {
+    "id": "p5-2080",
+    "sentence": "The team chose to ___ the riskiest tasks, so problems surface while there is still time to react.",
+    "choices": [
+      "front-load",
+      "decentralise",
+      "back-load",
+      "offload"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Front-load means to put the most demanding work at the start. Back-load means the opposite, decentralise means to spread authority, and offload means to hand off, so none brings risky tasks forward."
+  },
+  {
+    "id": "p5-2128",
+    "sentence": "Contracts of this value ___ be approved by two directors, as stated in the governance policy.",
+    "choices": [
+      "would",
+      "might",
+      "must",
+      "can"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Must' expresses an obligation stated in a policy. 'Can' and 'might' express possibility, and 'would' does not express a rule."
+  },
+  {
+    "id": "p5-2137",
+    "sentence": "The clause under ___ the penalty is calculated has been challenged in court.",
+    "choices": [
+      "whom",
+      "that",
+      "which",
+      "whose"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "A preposition plus relative pronoun for a thing requires 'which'. 'That' cannot follow a preposition, 'whom' refers to people, and 'whose' expresses possession."
+  },
+  {
+    "id": "p5-1364",
+    "sentence": "The court ___ the claimant's request for an interim injunction pending the full hearing.",
+    "choices": [
+      "grounded",
+      "granted",
+      "grafted",
+      "gathered"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Granted a request' means approved it. The others do not fit."
   }
 ]

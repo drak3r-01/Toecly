@@ -1,419 +1,432 @@
 [
   {
-    "id": "p5-1224",
-    "sentence": "The legislation is expected to ___ a heavier compliance burden on small exporters.",
+    "id": "p5-1298",
+    "sentence": "Many analysts believe the retailer is ___ for a major restructuring.",
     "choices": [
-      "exert",
-      "enforce",
-      "inflict on",
-      "impose"
+      "poised",
+      "poured",
+      "posted",
+      "pitched"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Impose a burden' means place it on someone. 'Inflict on' is followed by harm, 'enforce' applies to rules, and 'exert' applies to pressure or influence."
+    "explanation": "'Poised for' means ready for. 'Posted', 'poured' and 'pitched' do not fit."
   },
   {
-    "id": "p5-1226",
-    "sentence": "After lengthy talks, the unions agreed to ___ the strike pending a revised pay offer.",
+    "id": "p5-1273",
+    "sentence": "The report identified several risks, the most serious of ___ was the dependence on a single supplier.",
     "choices": [
-      "call up",
-      "call on",
-      "call for",
-      "call off"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Call off' means cancel. 'Call on' means visit or urge, 'call up' means summon, and 'call for' means demand."
-  },
-  {
-    "id": "p5-1227",
-    "sentence": "The court held that the non-compete clause was ___ broad to be enforceable.",
-    "choices": [
-      "quite",
-      "too",
-      "so",
-      "very"
+      "those",
+      "which",
+      "them",
+      "what"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Too + adjective + to' expresses an excessive degree preventing something. 'so' needs 'that', and 'very' and 'quite' do not combine with 'to be enforceable' this way."
+    "explanation": "'Of which' joins the relative clause after a quantifier and refers to things. 'them' and 'those' leave the clauses unlinked, and 'what' is not relative here."
   },
   {
-    "id": "p5-1228",
-    "sentence": "The company is ___ liable for damage caused by its subcontractors during the works.",
+    "id": "p5-746",
+    "sentence": "Talks between the unions and management ___ for eight hours without agreement.",
     "choices": [
-      "jointly",
-      "joining",
-      "jointed",
-      "joint"
+      "dragged on",
+      "carried through",
+      "held up",
+      "went by"
     ],
     "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Dragged on' means continued tediously. 'Held up' means delayed, 'carried through' means completed, and 'went by' is used for time passing."
+  },
+  {
+    "id": "p5-1203",
+    "sentence": "Hardly had the delegation landed ___ the host ministry cancelled the scheduled reception.",
+    "choices": [
+      "while",
+      "when",
+      "as if",
+      "than"
+    ],
+    "answerIndex": 1,
     "category": "grammar",
-    "explanation": "An adverb is needed before 'liable'; 'jointly liable' is a standard legal phrase. The others are an adjective, a gerund and a participle."
+    "explanation": "'Hardly... when' is the fixed correlative. 'than' belongs to 'no sooner', 'as if' introduces comparison, and 'while' signals simultaneity."
   },
   {
-    "id": "p5-1229",
-    "sentence": "Candidates must demonstrate a proven ___ of managing multi-million-pound budgets under tight deadlines.",
+    "id": "p5-1369",
+    "sentence": "The company ___ a record profit despite the challenging trading environment.",
     "choices": [
-      "track record",
-      "track mark",
-      "path record",
-      "trail record"
+      "posted",
+      "pegged",
+      "pasted",
+      "placed"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Track record' is the fixed noun phrase for past achievements. The other phrases do not exist."
+    "explanation": "'Posted a profit' means reported it. The others do not collocate."
   },
   {
-    "id": "p5-1230",
-    "sentence": "The tender process must be ___ so that no bidder gains an unfair advantage.",
+    "id": "p5-1291",
+    "sentence": "The firm's decision to ___ its stake in the joint venture surprised industry observers.",
     "choices": [
-      "transitional",
-      "translucent",
-      "transparent",
-      "transient"
+      "relinquish",
+      "reverberate",
+      "relapse",
+      "relegate"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Relinquish a stake' means give it up. 'Relegate' means demote, 'relapse' means fall back, and 'reverberate' means echo."
+  },
+  {
+    "id": "p5-1783",
+    "sentence": "Buyers should conduct due ___ before committing to a large commercial acquisition.",
+    "choices": [
+      "diligence",
+      "diffusion",
+      "dilemma",
+      "dignity"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Due diligence is the fixed phrase for pre-deal investigation. The others do not follow due."
+  },
+  {
+    "id": "p5-2125",
+    "sentence": "The group has several ___ subsidiaries that no longer trade but remain on the company register.",
+    "choices": [
+      "obsolete",
+      "vacant",
+      "dormant",
+      "latent"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Transparent' means open and clear. 'Translucent' describes light, 'transitional' means temporary change, and 'transient' means short-lived."
+    "explanation": "A dormant company exists legally but carries on no business. Obsolete means out of date, latent means present but hidden, and vacant means unoccupied, so none describes a registered subsidiary that no longer trades."
   },
   {
-    "id": "p5-1231",
-    "sentence": "The firm has ___ its reliance on a single supplier by qualifying two alternative sources.",
+    "id": "p5-1747",
+    "sentence": "The bank was fined for failing to ___ with anti-money-laundering rules.",
     "choices": [
-      "retrieved",
-      "relaxed",
-      "reduced",
-      "redeemed"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Reduced reliance' is the collocation. 'Relaxed' means loosened, 'redeemed' means paid off, and 'retrieved' means recovered."
-  },
-  {
-    "id": "p5-1232",
-    "sentence": "The proposal drew ___ criticism from analysts who doubted the projected synergies.",
-    "choices": [
-      "scattered",
-      "scanty",
-      "scarce",
-      "scathing"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Scathing criticism' is severe. 'Scarce' and 'scanty' mean limited in quantity, and 'scattered' means widespread."
-  },
-  {
-    "id": "p5-1233",
-    "sentence": "The new regulations ___ firms to disclose any payments made to foreign officials.",
-    "choices": [
+      "vie",
       "comply",
-      "compete",
-      "compare",
-      "compel"
+      "coincide",
+      "compare"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Compel firms to' means oblige them. 'Comply' is intransitive, 'compete' needs 'with', and 'compare' needs 'with' or 'to'."
+    "explanation": "Comply with means obey. Vie, coincide and compare do not mean follow rules."
   },
   {
-    "id": "p5-1234",
-    "sentence": "The pilot scheme proved so costly that the board decided to ___ it altogether.",
+    "id": "p5-963",
+    "sentence": "Delivery will take ten working days ___ a stock shortage.",
     "choices": [
-      "abridge",
-      "abolish to",
-      "abate",
-      "abandon"
+      "banning",
+      "barring",
+      "beating",
+      "bearing"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Abandon a scheme' means give it up. 'Abate' means lessen, 'abolish to' is malformed, and 'abridge' means shorten."
+    "explanation": "'Barring' means unless there is. 'Bearing' and 'banning' do not fit, and 'beating' means defeating."
   },
   {
-    "id": "p5-1235",
-    "sentence": "Under the terms of the lease, structural repairs ___ the landlord's responsibility.",
+    "id": "p5-1873",
+    "sentence": "The two sides remain far apart, and a breakthrough in the talks still appears ___ at best.",
     "choices": [
-      "restrain",
-      "retain",
-      "remain",
-      "reserve"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Remain the landlord's responsibility' is a linking-verb construction. 'Retain' and 'reserve' need objects, and 'restrain' means hold back."
-  },
-  {
-    "id": "p5-1236",
-    "sentence": "The conglomerate intends to ___ its non-core assets to fund the acquisition.",
-    "choices": [
-      "diverge",
-      "devote",
-      "divest",
-      "deplete"
+      "exclusive",
+      "abusive",
+      "elusive",
+      "extensive"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Divest assets' means sell them off. 'Devote' needs 'to', 'diverge' is intransitive, and 'deplete' means use up."
+    "explanation": "'Elusive' means hard to achieve. 'Exclusive' means restricted, 'extensive' means large, and 'abusive' means insulting."
   },
   {
-    "id": "p5-1237",
-    "sentence": "The agency's guidelines are not ___ but firms are strongly encouraged to follow them.",
+    "id": "p5-2037",
+    "sentence": "Only options that have ___ by the leaving date may still be exercised by the departing employee.",
     "choices": [
-      "bonding",
+      "lapsed",
+      "vested",
+      "forfeited",
+      "expired"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Options vest when the holder acquires the unconditional right to exercise them. Lapsed, expired and forfeited describe options that can no longer be used, so they contradict 'may still be exercised'."
+  },
+  {
+    "id": "p5-2049",
+    "sentence": "The board insisted that the director ___ from the vote because of her shareholding in the target.",
+    "choices": [
+      "withdrawing",
+      "withdrew",
+      "withdraw",
+      "withdraws"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "After 'insist that' in the mandative sense, the base form is used. 'Withdraws' and 'withdrew' are indicative, and 'withdrawing' is a participle."
+  },
+  {
+    "id": "p5-1613",
+    "sentence": "The new policy is effective ___ it reduces duplicated reporting across the regional offices.",
+    "choices": [
+      "ever since",
+      "even if",
+      "so that",
+      "insofar as"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Insofar as' means 'to the extent that'. 'ever since' marks time, 'even if' is concessive and 'so that' expresses purpose."
+  },
+  {
+    "id": "p5-2029",
+    "sentence": "The retailer received a ___ of faulty goods from its overseas supplier and demanded a full refund.",
+    "choices": [
+      "conservation",
+      "consortium",
+      "consignment",
+      "consolidation"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A consignment is a batch of goods sent to a buyer. Consolidation is combining things, a consortium is a group of companies, and conservation is protection, so none of them is a batch of goods delivered."
+  },
+  {
+    "id": "p5-1639",
+    "sentence": "It was only when the auditors reviewed the ledger ___ the discrepancy came to light.",
+    "choices": [
+      "which",
+      "when",
+      "then",
+      "that"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "A cleft sentence 'It was only when ... that' needs 'that'. 'when' repeats the time word, 'which' and 'then' do not fit."
+  },
+  {
+    "id": "p5-716",
+    "sentence": "The accounting software automatically ___ any entries that do not match the bank statement.",
+    "choices": [
+      "flaps",
+      "flows",
+      "foils",
+      "flags"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Flags' means marks for attention. 'Foils' means thwarts, and 'flows' and 'flaps' do not take entries as objects."
+  },
+  {
+    "id": "p5-1752",
+    "sentence": "The auditor issued a ___ opinion, indicating that the accounts contained material misstatements.",
+    "choices": [
+      "qualitative",
+      "quixotic",
+      "quarrelsome",
+      "qualified"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A qualified opinion signals reservations. The other adjectives are not audit opinion types."
+  },
+  {
+    "id": "p5-1834",
+    "sentence": "Under the new rules, directors are held personally ___ for misstatements in the published accounts.",
+    "choices": [
+      "accountable",
+      "accountably",
+      "accounting",
+      "accountant"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Held accountable for' is the fixed adjective phrase. 'Accounting' is a noun or participle, 'accountably' is an adverb, and 'accountant' is a person."
+  },
+  {
+    "id": "p5-2107",
+    "sentence": "The loan agreement lets the bank ___ the full outstanding balance immediately if two payments are missed.",
+    "choices": [
+      "call out",
+      "call off",
+      "call up",
+      "call in"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "To call in a loan is to demand immediate repayment. Call off means to cancel, call up means to telephone or summon, and call out means to challenge, none of which takes a balance as object here."
+  },
+  {
+    "id": "p5-1202",
+    "sentence": "Were the regulator to withdraw the licence, the firm ___ forced to cease all trading immediately.",
+    "choices": [
+      "is being",
+      "will have been",
+      "would be",
+      "would have"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "Hypothetical 'Were... to' pairs with 'would + be'. 'will have been' is future perfect, 'would have' lacks a participle, and 'is being' is progressive present."
+  },
+  {
+    "id": "p5-1272",
+    "sentence": "The factory, ___ output had fallen sharply, was sold to a rival manufacturer at a steep discount.",
+    "choices": [
+      "which",
+      "whose",
+      "its",
+      "whom"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Whose' links the factory to its output in a relative clause. 'its' leaves two clauses unlinked, and 'which' and 'whom' are not possessive."
+  },
+  {
+    "id": "p5-1309",
+    "sentence": "The arbitrator's decision is final and ___ on both parties.",
+    "choices": [
+      "bounding",
+      "bending",
       "binding",
-      "banding",
-      "bounding"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Binding' means legally obligatory. The other words are different forms or unrelated."
-  },
-  {
-    "id": "p5-1238",
-    "sentence": "Profit margins have been ___ eroded by rising energy costs over the past year.",
-    "choices": [
-      "steadily",
-      "steady",
-      "steadiness",
-      "steadied"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "An adverb modifies 'eroded'. The others are an adjective, a participle and a noun."
-  },
-  {
-    "id": "p5-1239",
-    "sentence": "The accountant was asked to ___ the discrepancy between the ledger and the bank statement.",
-    "choices": [
-      "reciprocate",
-      "recompense",
-      "reconcile",
-      "recoup"
+      "bonding"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Reconcile a discrepancy' means resolve it. 'Recompense' means pay back, 'reciprocate' means return a favour, and 'recoup' means recover money."
+    "explanation": "'Binding on' means legally enforceable against. The others are unrelated."
   },
   {
-    "id": "p5-1240",
-    "sentence": "The merger talks have ___ to a standstill owing to disagreements over governance.",
+    "id": "p5-2176",
+    "sentence": "The bank had to ___ two billion dollars to cover expected losses on its commercial loans.",
     "choices": [
-      "gone to",
-      "grasped",
-      "grown",
-      "ground"
+      "set about",
+      "set back",
+      "set off",
+      "set aside"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Ground to a standstill' is a fixed idiom. 'Grown' and 'grasped' do not fit it, and 'gone to' repeats the preposition."
+    "explanation": "To set aside money is to reserve it for a purpose. Set about must be followed by an activity, set back means to delay or cost, and set off means to start a journey or trigger something, so none of them fits a sum of money reserved for losses."
   },
   {
-    "id": "p5-1241",
-    "sentence": "The firm ___ its forecast after the unexpectedly weak consumer data.",
+    "id": "p5-1829",
+    "sentence": "The tribunal ruled that the dismissal was ___ unfair because no warning had been issued beforehand.",
     "choices": [
-      "downsized",
-      "downgraded",
-      "downturned",
-      "downloaded"
+      "proceeding",
+      "procedurally",
+      "procedural",
+      "proceduralism"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Downgraded a forecast' means lowered it. 'Downloaded' means copied data, 'downsized' means reduced in size, and 'downturned' is not used this way."
-  },
-  {
-    "id": "p5-1242",
-    "sentence": "To qualify for the grant, applicants must show that the project is ___ viable.",
-    "choices": [
-      "commercially",
-      "commercialise",
-      "commercial",
-      "commerce"
-    ],
-    "answerIndex": 0,
     "category": "grammar",
-    "explanation": "An adverb modifies 'viable'. The others are an adjective, a noun and a verb."
+    "explanation": "An adverb is needed to modify the adjective 'unfair'. 'Procedural' is an adjective, while 'proceduralism' and 'proceeding' are nouns."
   },
   {
-    "id": "p5-1243",
-    "sentence": "The manager's decision was ___ by a desire to avoid litigation rather than by commercial logic.",
-    "choices": [
-      "drawn",
-      "drafted",
-      "driven",
-      "drained"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Driven by' means motivated by. 'Drawn', 'drained' and 'drafted' do not fit 'by a desire'."
-  },
-  {
-    "id": "p5-1244",
-    "sentence": "Under the proposed rules, companies would be ___ to disclose the gender pay gap annually.",
-    "choices": [
-      "commanded",
-      "demanded",
-      "required",
-      "requested"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Be required to' is the standard passive. 'Demanded' and 'commanded' are not used with 'to' this way, and 'requested' is non-binding."
-  },
-  {
-    "id": "p5-1245",
-    "sentence": "The central bank is widely ___ to raise rates at its next meeting.",
+    "id": "p5-1335",
+    "sentence": "The deal ___ to go ahead as planned unless a competing bid emerges in the next few days.",
     "choices": [
       "expected",
-      "waited",
-      "anticipated of",
-      "hoped"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Expected to raise' is correct. 'Anticipated of' is malformed, 'hoped' needs 'for', and 'waited' needs 'for'."
-  },
-  {
-    "id": "p5-1246",
-    "sentence": "The firm's growth was ___ largely on acquisitions rather than organic expansion.",
-    "choices": [
-      "prevailed",
-      "preoccupied",
-      "predicated",
-      "predisposed"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Predicated on' means based on. 'Predisposed' means inclined, 'preoccupied' means absorbed, and 'prevailed' means won out."
-  },
-  {
-    "id": "p5-1247",
-    "sentence": "The airline has ___ a code-share agreement with a regional carrier to extend its network.",
-    "choices": [
-      "conducted",
-      "convened",
-      "concluded",
-      "conceded"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Concluded an agreement' means finalised it. 'Conducted' means carried out, 'conceded' means admitted, and 'convened' means assembled."
-  },
-  {
-    "id": "p5-1248",
-    "sentence": "The new director is known for her ___ attention to detail in contract negotiations.",
-    "choices": [
-      "monotonous",
-      "modest",
-      "momentous",
-      "meticulous"
+      "is expecting",
+      "expects",
+      "is expected"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Meticulous' means extremely careful. 'Monotonous' means repetitive, 'momentous' means significant, and 'modest' means humble."
+    "category": "grammar",
+    "explanation": "The passive 'is expected to' fits the subject 'the deal'. The others are active or wrong."
   },
   {
-    "id": "p5-1249",
-    "sentence": "The court ordered that the funds be ___ pending the outcome of the appeal.",
+    "id": "p5-1751",
+    "sentence": "All chemical substances must be ___ with the national authority before they are placed on the market.",
     "choices": [
-      "frozen",
-      "fused",
-      "folded",
-      "fixed"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Frozen funds' means unavailable for use. 'Fixed', 'fused' and 'folded' do not collocate with 'funds' in this sense."
-  },
-  {
-    "id": "p5-1250",
-    "sentence": "The company's accounting practices came under ___ after the auditor resigned without explanation.",
-    "choices": [
-      "submission",
-      "scarcity",
-      "suspicion of",
-      "scrutiny"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Came under scrutiny' is the fixed phrase. 'Suspicion of' is malformed, 'scarcity' means shortage, and 'submission' means yielding."
-  },
-  {
-    "id": "p5-1251",
-    "sentence": "Several board members ___ from the vote, citing a potential conflict of interest.",
-    "choices": [
-      "abducted",
-      "abstained",
-      "absolved",
-      "abstracted"
+      "reiterated",
+      "registered",
+      "rehearsed",
+      "regimented"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Abstained from' means chose not to vote. 'Abstracted' means removed, 'abducted' means kidnapped, and 'absolved' means freed from blame."
+    "explanation": "Registered with an authority means formally recorded. The other participles do not fit with the authority."
   },
   {
-    "id": "p5-1252",
-    "sentence": "The retailer's decision to close three stores was ___ by weak holiday sales.",
+    "id": "p5-1279",
+    "sentence": "The pay rise was ___ on the union accepting a revised schedule of working hours.",
     "choices": [
-      "participated",
-      "perpetuated",
-      "precipitated",
-      "predicated"
+      "consistent",
+      "conducive",
+      "contingent",
+      "consequent"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Precipitated' means triggered. 'Participated' needs 'in', 'perpetuated' means prolonged, and 'predicated' means based."
+    "explanation": "'Contingent on' means dependent on. 'Consequent' needs 'upon' or 'to', 'conducive' needs 'to', and 'consistent' needs 'with'."
   },
   {
-    "id": "p5-1253",
-    "sentence": "Funding is ___ on the project meeting its environmental milestones by the end of June.",
+    "id": "p5-2185",
+    "sentence": "The refund policy applies ___ the size of the order or the method of payment.",
     "choices": [
-      "conventional",
-      "continual",
-      "confidential",
-      "conditional"
+      "in consideration of",
+      "in lieu of",
+      "by reason of",
+      "irrespective of"
     ],
     "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Conditional on' means dependent on. 'Continual' means repeated, 'conventional' means traditional, and 'confidential' means secret."
+    "category": "grammar",
+    "explanation": "'Irrespective of' means regardless of. 'By reason of' means because of, 'in consideration of' means in exchange for, and 'in lieu of' means instead of."
   },
   {
-    "id": "p5-1254",
-    "sentence": "The firm's executives have come under ___ to explain the sudden drop in the share price.",
+    "id": "p5-2018",
+    "sentence": "The treasurer regrets ___ the committee that the grant application was unsuccessful.",
     "choices": [
-      "press",
-      "pressure",
-      "pressing",
-      "presser"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Come under pressure to' is the fixed collocation. The others are not nouns that fit."
-  },
-  {
-    "id": "p5-1255",
-    "sentence": "The accounts were prepared ___ accordance with international financial reporting standards.",
-    "choices": [
-      "on",
-      "in",
-      "under to",
-      "by"
+      "having informed",
+      "to inform",
+      "informed",
+      "informing"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'In accordance with' is the fixed phrase. 'on' and 'by' do not fit, and 'under to' is malformed."
+    "explanation": "'Regret to inform' is the formal pattern for announcing bad news. 'Informing' and 'having informed' would mean regretting a past act, and 'informed' is a participle that cannot follow 'regrets' here."
   },
   {
-    "id": "p5-1256",
-    "sentence": "The negotiators insisted ___ a binding commitment before they would sign anything.",
+    "id": "p5-1729",
+    "sentence": "New hires undergo a six-month ___ period during which either side can end the employment.",
     "choices": [
-      "on",
-      "upon to",
-      "to",
-      "for"
+      "probationary",
+      "procedural",
+      "probabilistic",
+      "prohibitive"
     ],
     "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Insist on' + noun phrase is the correct pattern. 'to' and 'for' do not fit, and 'upon to' is malformed."
+    "category": "vocabulary",
+    "explanation": "A probationary period is a trial. Prohibitive, procedural and promotional do not describe a trial period."
+  },
+  {
+    "id": "p5-2121",
+    "sentence": "The supplier sent ___ invoices so customers could arrange letters of credit before shipment.",
+    "choices": [
+      "ad hoc",
+      "sub judice",
+      "pro forma",
+      "de facto"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A pro forma invoice is a preliminary document sent before goods ship, often to obtain finance or clearance. Ad hoc means improvised, de facto means in reality, and sub judice means under court consideration, so none describes such an invoice."
+  },
+  {
+    "id": "p5-2126",
+    "sentence": "The maintenance team is working through a ___ of repair requests that built up after the storm.",
+    "choices": [
+      "surplus",
+      "reservoir",
+      "stockpile",
+      "backlog"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A backlog is an accumulation of work not yet done. A stockpile and a reservoir are stores of supplies, and a surplus is an excess, none of which describes requests waiting to be handled."
   },
   {
     "id": "p5-1257",
@@ -429,94 +442,81 @@
     "explanation": "'Committed to' takes a gerund. The others use the wrong preposition or form."
   },
   {
-    "id": "p5-1258",
-    "sentence": "The proposed levy is ___ to hit smaller exporters hardest.",
+    "id": "p5-673",
+    "sentence": "Mr. Tanaka was asked to ___ the department's budget before presenting it to the board.",
     "choices": [
-      "bounded",
-      "bind",
-      "binding",
-      "bound"
+      "scrutinise",
+      "contemplate",
+      "accommodate",
+      "resemble"
     ],
-    "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'Is bound to' means is certain to. The others do not fit the structure."
-  },
-  {
-    "id": "p5-1259",
-    "sentence": "The consultant billed the client for ___ expenses incurred during the on-site assessment.",
-    "choices": [
-      "coincidental",
-      "incidental",
-      "accidental",
-      "occasional"
-    ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Incidental expenses' are minor extra costs. 'Accidental' means unintended, 'coincidental' means by chance, and 'occasional' means infrequent."
+    "explanation": "'Scrutinise' means examine closely. 'Resemble' and 'accommodate' do not take a budget as an object in this sense, and 'contemplate' means consider thoughtfully, not check details."
   },
   {
-    "id": "p5-1260",
-    "sentence": "The promotion is ___ to staff who have completed at least two years with the firm.",
+    "id": "p5-2190",
+    "sentence": "Paying the facilitation fee would ___ the Bribery Act and expose the directors to personal liability.",
     "choices": [
-      "resigned",
-      "restrained",
-      "restricted",
-      "resisted"
+      "countermand",
+      "contest",
+      "contravene",
+      "conserve"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Restricted to' means limited to. 'Resigned', 'restrained' and 'resisted' do not fit 'to staff'."
+    "explanation": "Contravene means to break a law or rule. Countermand means to cancel an order, contest means to dispute, and conserve means to protect, so none describes what an illegal payment does to a statute."
   },
   {
-    "id": "p5-1261",
-    "sentence": "The firm's cash position was ___ by the unexpected delay in customer payments.",
+    "id": "p5-1267",
+    "sentence": "The manager chose to ___ the matter to head office rather than resolve it locally.",
     "choices": [
-      "strained",
-      "stranded",
-      "strewn",
-      "strapped"
+      "escalate",
+      "exalt",
+      "elevate",
+      "embellish"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Strained' means put under pressure. 'Stranded' means left without help, 'strapped' means short of money (describing the firm, not the position), and 'strewn' means scattered."
+    "explanation": "'Escalate to' means refer to a higher authority. 'Elevate' means raise physically, 'exalt' means praise, and 'embellish' means decorate."
   },
   {
-    "id": "p5-1262",
-    "sentence": "Auditors must remain ___ of the companies whose accounts they examine.",
+    "id": "p5-1229",
+    "sentence": "Candidates must demonstrate a proven ___ of managing multi-million-pound budgets under tight deadlines.",
     "choices": [
-      "independent",
-      "indignant",
-      "indifferent",
-      "indulgent"
+      "track record",
+      "track mark",
+      "path record",
+      "trail record"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Independent of' means free from influence. 'Indifferent' means uninterested, 'indignant' means angry, and 'indulgent' means lenient."
+    "explanation": "'Track record' is the fixed noun phrase for past achievements. The other phrases do not exist."
   },
   {
-    "id": "p5-1263",
-    "sentence": "The firm hopes to ___ a deal with the union before the current contract lapses.",
+    "id": "p5-2075",
+    "sentence": "The migration will be ___ to avoid overloading the helpdesk, with one region going live each month.",
     "choices": [
-      "stray",
-      "strive",
-      "stride",
-      "strike"
+      "scattered",
+      "stacked",
+      "staggered",
+      "stalled"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Staggered means arranged at different times in sequence. Scattered, stacked and stalled mean spread randomly, piled up and stopped, so none fits one region going live each month."
+  },
+  {
+    "id": "p5-2081",
+    "sentence": "The firm self-reported breaches that were entirely ___, caused by a software error, and avoided any penalty.",
+    "choices": [
+      "reckless",
+      "premeditated",
+      "wilful",
+      "inadvertent"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Strike a deal' means reach an agreement. The others do not take 'deal' as an object."
-  },
-  {
-    "id": "p5-1264",
-    "sentence": "The directors were ___ of any wrongdoing by the independent inquiry.",
-    "choices": [
-      "cleaned",
-      "cleaved",
-      "cleansed",
-      "cleared"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Cleared of wrongdoing' means found innocent. 'Cleaned' and 'cleansed' mean washed, and 'cleaved' means split."
+    "explanation": "Inadvertent means unintentional. Premeditated, wilful and reckless all imply intent or disregard, which conflicts with a software error that earned no penalty."
   }
 ]

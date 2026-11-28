@@ -1,276 +1,146 @@
 [
   {
-    "id": "p5-1265",
-    "sentence": "The airline has been ___ for failing to compensate passengers affected by the cancellations.",
+    "id": "p5-733",
+    "sentence": "An independent consultant was hired to ___ the efficiency of the distribution network.",
     "choices": [
-      "reprocessed",
+      "assess",
+      "assign",
+      "assume",
+      "assert"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Assess' means evaluate. 'Assert' means state firmly, 'assume' means suppose, and 'assign' means allocate."
+  },
+  {
+    "id": "p5-2198",
+    "sentence": "Existing holders objected to the ___ of their stakes caused by the discounted share placement.",
+    "choices": [
+      "dispersion",
+      "dissolution",
+      "dilemma",
+      "dilution"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Dilution' is the reduction of an existing holder's percentage when new shares are issued. 'Dissolution' means winding up, 'dispersion' means scattering, and 'dilemma' is a difficult choice."
+  },
+  {
+    "id": "p5-2134",
+    "sentence": "The printer guarantees a forty-eight-hour ___ on all rush orders, from approval to delivery.",
+    "choices": [
+      "upturn",
+      "turnaround",
+      "turnover",
+      "changeover"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Turnaround is the time taken to complete a job from start to finish. Changeover is switching a line between products, turnover is sales or staff movement, and upturn is an improvement, none of which is a delivery time."
+  },
+  {
+    "id": "p5-1218",
+    "sentence": "Revenue from licensing remained ___ despite the downturn in hardware sales.",
+    "choices": [
+      "bashful",
+      "bountiful",
+      "brittle",
+      "brisk to"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Buoyant' means staying strong. 'Bountiful' means generous, 'brittle' means fragile, and 'bashful' means shy."
+  },
+  {
+    "id": "p5-1600",
+    "sentence": "The board has asked that the report ___ before the extraordinary general meeting.",
+    "choices": [
+      "be circulated",
+      "is circulated",
+      "was circulated",
+      "circulates"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Asked that' takes the subjunctive passive 'be circulated'. The others are indicative."
+  },
+  {
+    "id": "p5-1792",
+    "sentence": "The outdated plant is being ___ with energy-efficient machinery to cut operating costs.",
+    "choices": [
+      "retrieved",
+      "retrenched",
       "reprimanded",
-      "repatriated",
-      "reprieved"
+      "retrofitted"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Retrofit means add new equipment to old plant. The others do not fit with machinery."
+  },
+  {
+    "id": "p5-1794",
+    "sentence": "The security team ___ the vulnerability within hours of its public disclosure.",
+    "choices": [
+      "pasted",
+      "patched",
+      "pitched",
+      "patrolled"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Reprimanded' means formally criticised. 'Reprocessed' means treated again, 'repatriated' means sent home, and 'reprieved' means spared."
+    "explanation": "Patch a vulnerability means fix with an update. The others do not fit."
   },
   {
-    "id": "p5-1266",
-    "sentence": "The merger remains ___ regulatory approval in at least three jurisdictions.",
+    "id": "p5-1769",
+    "sentence": "The retailer's pricing strategy is ___ to attract bargain hunters during the clearance period.",
     "choices": [
-      "conditioned",
-      "depending",
-      "subject to",
-      "contingent to"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Subject to approval' is the fixed phrase. 'contingent to' needs 'upon', 'depending' needs 'on', and 'conditioned' does not fit."
-  },
-  {
-    "id": "p5-1267",
-    "sentence": "The manager chose to ___ the matter to head office rather than resolve it locally.",
-    "choices": [
-      "escalate",
-      "exalt",
-      "elevate",
-      "embellish"
+      "geared",
+      "gathered",
+      "gutted",
+      "gazed"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Escalate to' means refer to a higher authority. 'Elevate' means raise physically, 'exalt' means praise, and 'embellish' means decorate."
+    "explanation": "Geared to means designed for a purpose. The others do not fit to attract."
   },
   {
-    "id": "p5-1268",
-    "sentence": "The chairman proposed that the vote ___ deferred until the independent valuation had been completed.",
+    "id": "p5-990",
+    "sentence": "The more the firm invests in training, ___ its staff become.",
     "choices": [
-      "is",
-      "be",
-      "was",
-      "being"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Proposed that' takes the subjunctive 'be'. The others are indicative or non-finite."
-  },
-  {
-    "id": "p5-1269",
-    "sentence": "Only after the regulator intervened ___ the company agree to publish the full audit report.",
-    "choices": [
-      "has",
-      "was",
-      "did",
-      "would to"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Only after' at the start triggers inversion with 'did' plus a bare verb. 'has' needs a participle, 'was' does not fit, and 'would to' is malformed."
-  },
-  {
-    "id": "p5-1270",
-    "sentence": "Never before ___ so many applicants competed for so few senior posts in the logistics sector.",
-    "choices": [
-      "have",
-      "were",
-      "has been",
-      "had been"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Never before' at the start requires inversion; 'have so many applicants competed' uses the present perfect. The others do not agree or fit."
-  },
-  {
-    "id": "p5-1271",
-    "sentence": "So thorough ___ the investigation that not a single transaction escaped the auditors' attention.",
-    "choices": [
-      "did",
-      "had",
-      "were",
-      "was"
+      "the most productively",
+      "most productive",
+      "more productive",
+      "the more productive"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "'So + adjective' at the start requires inversion with 'be': 'was the investigation'. 'did' and 'had' do not fit the adjective, and 'were' is plural."
+    "explanation": "Double comparative: 'the more... the more productive'. The others lack the correct pattern."
   },
   {
-    "id": "p5-1272",
-    "sentence": "The factory, ___ output had fallen sharply, was sold to a rival manufacturer at a steep discount.",
+    "id": "p5-1608",
+    "sentence": "A growing proportion of the firm's revenue ___ from overseas subscriptions.",
     "choices": [
-      "which",
-      "whose",
-      "its",
-      "whom"
+      "have come",
+      "comes",
+      "are coming",
+      "come"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'Whose' links the factory to its output in a relative clause. 'its' leaves two clauses unlinked, and 'which' and 'whom' are not possessive."
+    "explanation": "'A proportion of the revenue' takes a singular verb. The others are plural."
   },
   {
-    "id": "p5-1273",
-    "sentence": "The report identified several risks, the most serious of ___ was the dependence on a single supplier.",
+    "id": "p5-1240",
+    "sentence": "The merger talks have ___ to a standstill owing to disagreements over governance.",
     "choices": [
-      "those",
-      "which",
-      "them",
-      "what"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Of which' joins the relative clause after a quantifier and refers to things. 'them' and 'those' leave the clauses unlinked, and 'what' is not relative here."
-  },
-  {
-    "id": "p5-1274",
-    "sentence": "The scheme was designed to ___ small enterprises against sudden fluctuations in raw-material prices.",
-    "choices": [
-      "insist",
-      "insulate",
-      "insinuate",
-      "inscribe"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Insulate against' means protect from. 'Insinuate' means hint, 'insist' needs 'on', and 'inscribe' means write on."
-  },
-  {
-    "id": "p5-1275",
-    "sentence": "The new director has pledged to ___ a culture of accountability throughout the organisation.",
-    "choices": [
-      "forgo",
-      "forfeit",
-      "foresee",
-      "foster"
+      "gone to",
+      "grasped",
+      "grown",
+      "ground"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Foster a culture' means encourage it. 'Foresee' means predict, 'forfeit' means lose through penalty, and 'forgo' means do without."
-  },
-  {
-    "id": "p5-1276",
-    "sentence": "The consortium's bid was ___ on the assumption that fuel prices would remain stable.",
-    "choices": [
-      "promoted",
-      "pursued",
-      "propelled",
-      "premised"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Premised on' means based on. 'Promoted' means advanced, 'propelled' means driven forward, and 'pursued' means chased."
-  },
-  {
-    "id": "p5-1277",
-    "sentence": "The manager's remarks were ___ as a veiled criticism of the previous leadership.",
-    "choices": [
-      "constrained",
-      "constructed",
-      "consumed",
-      "construed"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Construed as' means interpreted as. 'Constructed' means built, 'consumed' means used up, and 'constrained' means restricted."
-  },
-  {
-    "id": "p5-1278",
-    "sentence": "The regulator has the power to ___ any firm that persistently breaches the disclosure rules.",
-    "choices": [
-      "sanction",
-      "sanitise",
-      "salvage",
-      "sanctify"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Sanction a firm' means penalise it. 'Sanitise' means clean, 'sanctify' means make holy, and 'salvage' means rescue."
-  },
-  {
-    "id": "p5-1279",
-    "sentence": "The pay rise was ___ on the union accepting a revised schedule of working hours.",
-    "choices": [
-      "consistent",
-      "conducive",
-      "contingent",
-      "consequent"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Contingent on' means dependent on. 'Consequent' needs 'upon' or 'to', 'conducive' needs 'to', and 'consistent' needs 'with'."
-  },
-  {
-    "id": "p5-1280",
-    "sentence": "The two firms are expected to ___ operations in the Asian market by the end of the year.",
-    "choices": [
-      "merge",
-      "mingle",
-      "mesh up",
-      "marry"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Merge operations' means combine them formally. 'Mingle' means mix socially, 'marry' is figurative, and 'mesh up' is malformed."
-  },
-  {
-    "id": "p5-1281",
-    "sentence": "Protracted negotiations over the severance package ___ the closure of the plant by several months.",
-    "choices": [
-      "deferred of",
-      "dallied",
-      "deterred",
-      "delayed"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Delayed the closure' means postponed it. 'Deferred of' is malformed, 'dallied' is intransitive, and 'deterred' means discouraged."
-  },
-  {
-    "id": "p5-1282",
-    "sentence": "The merger was ___ off at the last minute when the lead investor withdrew its backing.",
-    "choices": [
-      "cut",
-      "coined",
-      "called",
-      "cast"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Called off' means cancelled. 'Cast off', 'cut off' and 'coined off' have different meanings or do not exist."
-  },
-  {
-    "id": "p5-1283",
-    "sentence": "The firm's survival will ___ largely on its ability to renegotiate the terms of its debt.",
-    "choices": [
-      "hitch",
-      "hang up",
-      "hook",
-      "hinge"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Hinge on' means depend on. 'Hang up', 'hook' and 'hitch' do not take 'on' in this meaning."
-  },
-  {
-    "id": "p5-1284",
-    "sentence": "The new rules aim to ___ the practice of backdating contracts to evade tax liabilities.",
-    "choices": [
-      "outgrow",
-      "outlaw",
-      "outplay",
-      "outbid"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Outlaw a practice' means ban it. 'Outplay', 'outbid' and 'outgrow' do not take 'practice' meaningfully."
-  },
-  {
-    "id": "p5-1285",
-    "sentence": "The firm's reluctance to ___ its pricing model prompted several loyal clients to switch suppliers.",
-    "choices": [
-      "rebuke",
-      "revise",
-      "revoke",
-      "retrieve"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Revise a model' means change it. 'Revoke' means cancel, 'rebuke' means scold, and 'retrieve' means recover."
+    "explanation": "'Ground to a standstill' is a fixed idiom. 'Grown' and 'grasped' do not fit it, and 'gone to' repeats the preposition."
   },
   {
     "id": "p5-1286",
@@ -286,30 +156,147 @@
     "explanation": "'Cast doubt on' is the fixed collocation. 'Cut', 'sank' and 'poured' do not collocate with 'doubt'."
   },
   {
-    "id": "p5-1288",
-    "sentence": "The firm's recovery was ___ by a sharp rise in demand from emerging markets.",
+    "id": "p5-2032",
+    "sentence": "The company expects to reduce headcount through natural ___ rather than compulsory redundancies.",
     "choices": [
-      "underpinned",
-      "underwritten to",
-      "underlined",
-      "undermined"
+      "dilution",
+      "attrition",
+      "depletion",
+      "erosion"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Natural attrition is the gradual fall in staff numbers through resignations and retirements. Erosion, depletion and dilution do not form this fixed phrase for staff leaving without replacement."
+  },
+  {
+    "id": "p5-1754",
+    "sentence": "The inspector issued an ___ notice requiring the factory to fix the safety violations within thirty days.",
+    "choices": [
+      "enforcement",
+      "endorsement",
+      "enrichment",
+      "enchantment"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Underpinned by' means supported by. 'Undermined' means weakened, 'underlined' means emphasised, and 'underwritten to' is malformed."
+    "explanation": "An enforcement notice orders compliance. The other nouns do not describe regulatory orders."
   },
   {
-    "id": "p5-1289",
-    "sentence": "The company was ___ to compensate customers affected by the faulty batch.",
+    "id": "p5-1349",
+    "sentence": "The contractor was ___ to remedy the defects at its own expense within thirty days.",
     "choices": [
-      "abided",
-      "abused",
-      "abetted",
-      "obliged"
+      "bind",
+      "bounded",
+      "binding",
+      "bound"
     ],
     "answerIndex": 3,
     "category": "vocabulary",
-    "explanation": "'Obliged to' means required to. The others do not fit the infinitive."
+    "explanation": "'Be bound to' means obliged to. The others are not suitable forms."
+  },
+  {
+    "id": "p5-2013",
+    "sentence": "The hospital installed a backup generator so that essential services continue during any power ___ .",
+    "choices": [
+      "outlay",
+      "outbreak",
+      "outcry",
+      "outage"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A power outage is a period without electricity. An outbreak is a sudden occurrence of disease, an outcry is a public protest, and an outlay is a sum spent, so none of them is a loss of power."
+  },
+  {
+    "id": "p5-2026",
+    "sentence": "Rather than make staff redundant, management chose to ___ them to other departments.",
+    "choices": [
+      "retire",
+      "remunerate",
+      "redeploy",
+      "reprimand"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Redeploy means to move staff to different duties or locations. Reprimand means to scold formally, remunerate means to pay, and retire means to stop working, so none can mean moving staff to a new department."
+  },
+  {
+    "id": "p5-1285",
+    "sentence": "The firm's reluctance to ___ its pricing model prompted several loyal clients to switch suppliers.",
+    "choices": [
+      "rebuke",
+      "revise",
+      "revoke",
+      "retrieve"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Revise a model' means change it. 'Revoke' means cancel, 'rebuke' means scold, and 'retrieve' means recover."
+  },
+  {
+    "id": "p5-1744",
+    "sentence": "Strict ___ requirements mean every component must be linked to its original source and batch.",
+    "choices": [
+      "transferability",
+      "tractability",
+      "traceability",
+      "trajectory"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Traceability is the ability to track origin. The other nouns do not describe tracking requirements."
+  },
+  {
+    "id": "p5-1849",
+    "sentence": "Few if ___ of the applicants met the minimum experience requirement for the senior position.",
+    "choices": [
+      "some",
+      "all",
+      "ever",
+      "any"
+    ],
+    "answerIndex": 3,
+    "category": "grammar",
+    "explanation": "'Few if any' is the fixed expression. 'Ever' is an adverb, and 'some' and 'all' do not fit the idiom."
+  },
+  {
+    "id": "p5-1718",
+    "sentence": "The company was ordered to pay punitive ___ for deliberately misleading consumers.",
+    "choices": [
+      "dilemmas",
+      "dividends",
+      "deeds",
+      "damages"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Punitive damages are awarded to punish. Dividends, dilemmas and diplomas cannot be punitive."
+  },
+  {
+    "id": "p5-2142",
+    "sentence": "Any surplus will be distributed ___ among shareholders according to the number of shares held.",
+    "choices": [
+      "ad hoc",
+      "pro rata",
+      "per se",
+      "de facto"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Pro rata means in proportion to each person's share. Ad hoc means for a particular purpose, per se means in itself, and de facto means in reality, so none expresses sharing according to holdings."
+  },
+  {
+    "id": "p5-1628",
+    "sentence": "If she ___ the London offer last year, she would be heading our European division today.",
+    "choices": [
+      "would accept",
+      "had accepted",
+      "has accepted",
+      "were accepting"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "Mixed conditional: past perfect in the if-clause, 'would' in the result clause. The others do not fit an unreal past."
   },
   {
     "id": "p5-1290",
@@ -325,198 +312,211 @@
     "explanation": "'Fuelled speculation' means increased it. The others do not collocate with 'speculation'."
   },
   {
-    "id": "p5-1291",
-    "sentence": "The firm's decision to ___ its stake in the joint venture surprised industry observers.",
+    "id": "p5-1334",
+    "sentence": "The firm would have collapsed ___ the emergency loan from its largest creditor.",
     "choices": [
-      "relinquish",
-      "reverberate",
-      "relapse",
-      "relegate"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Relinquish a stake' means give it up. 'Relegate' means demote, 'relapse' means fall back, and 'reverberate' means echo."
-  },
-  {
-    "id": "p5-1292",
-    "sentence": "Strict ___ to the disclosure rules is a condition of the firm's operating licence.",
-    "choices": [
-      "adherence",
-      "adherents",
-      "adhesion",
-      "adhering"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Adherence to rules' means following them. 'Adhesion' refers to sticking, 'adherents' are followers, and 'adhering' is a participle."
-  },
-  {
-    "id": "p5-1293",
-    "sentence": "The committee found no evidence of ___ on the part of the managers involved in the sale.",
-    "choices": [
-      "improvement",
-      "impropriety",
-      "impatience",
-      "imprecision"
+      "unless",
+      "without",
+      "although",
+      "despite"
     ],
     "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Impropriety' means improper conduct. The others are unrelated nouns."
+    "category": "grammar",
+    "explanation": "'Without' + noun expresses a negative condition in a past hypothetical. 'although' and 'despite' contrast, and 'unless' needs a clause."
   },
   {
-    "id": "p5-1294",
-    "sentence": "The company reported a ___ fall in profits as a result of currency movements.",
+    "id": "p5-2083",
+    "sentence": "Disputes of this kind are best settled ___ , without involving lawyers or the courts.",
     "choices": [
-      "precipitous",
-      "precocious",
-      "precarious",
-      "preposterous"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Precipitous' means sudden and steep. 'Precarious' means unstable, 'precocious' means advanced early, and 'preposterous' means absurd."
-  },
-  {
-    "id": "p5-1295",
-    "sentence": "The consultant's report was ___ and ruled out several options without consulting the staff.",
-    "choices": [
-      "cunning",
-      "cautious",
-      "cursory",
-      "courteous"
+      "ardently",
+      "ambiguously",
+      "amicably",
+      "adamantly"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Cursory' means hasty and superficial. 'Cunning' means sly, 'cautious' means careful, and 'courteous' means polite."
+    "explanation": "Amicably means in a friendly way that avoids conflict. Ambiguously means unclearly, adamantly means with firm refusal, and ardently means passionately, so none of them describes a peaceful settlement."
   },
   {
-    "id": "p5-1296",
-    "sentence": "The board has ___ its commitment to maintaining the dividend despite weaker earnings.",
+    "id": "p5-2008",
+    "sentence": "The union rejected the offer as ___ , pointing out that it did not even cover inflation.",
     "choices": [
-      "reassured",
-      "reaffirmed",
-      "reassigned",
-      "reasserted to"
+      "deliberate",
+      "derisory",
+      "decisive",
+      "derivative"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Reaffirmed its commitment' means stated again. 'Reasserted to' is malformed, 'reassigned' means reallocated, and 'reassured' needs a person."
+    "explanation": "A derisory offer is so small that it is laughable. Derivative means unoriginal, deliberate means intentional, and decisive means conclusive, so none of them describes an offer that fails to cover inflation."
   },
   {
-    "id": "p5-1297",
-    "sentence": "The new policy places the ___ of proof on the claimant rather than on the insurer.",
+    "id": "p5-1715",
+    "sentence": "The seller made several ___ about the property's condition that later proved to be false.",
     "choices": [
-      "burrow",
-      "burst",
-      "bureau",
-      "burden"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Burden of proof' is a fixed legal phrase. The others are unrelated nouns."
-  },
-  {
-    "id": "p5-1298",
-    "sentence": "Many analysts believe the retailer is ___ for a major restructuring.",
-    "choices": [
-      "poised",
-      "poured",
-      "posted",
-      "pitched"
-    ],
-    "answerIndex": 0,
-    "category": "vocabulary",
-    "explanation": "'Poised for' means ready for. 'Posted', 'poured' and 'pitched' do not fit."
-  },
-  {
-    "id": "p5-1299",
-    "sentence": "The legislation seeks to ___ the loophole that allowed firms to avoid paying tax abroad.",
-    "choices": [
-      "clip",
-      "close",
-      "clasp",
-      "clamp"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Close a loophole' is the fixed collocation. The others do not collocate."
-  },
-  {
-    "id": "p5-1300",
-    "sentence": "Applicants must have ___ command of both written and spoken English.",
-    "choices": [
-      "flowing",
-      "fluid",
-      "fluent",
-      "fluctuant"
+      "reparations",
+      "repercussions",
+      "representations",
+      "reconciliations"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Fluent command' is the collocation. 'Fluid' and 'flowing' do not collocate with 'command'."
+    "explanation": "Representations are statements of fact in a deal. Repercussions, reconciliations and reparations are not made about condition."
   },
   {
-    "id": "p5-1302",
-    "sentence": "The airline was ___ £5 million for failing to meet its safety obligations.",
+    "id": "p5-1881",
+    "sentence": "The acquirer agreed to ___ the target's outstanding debts as part of the purchase price.",
     "choices": [
-      "fined",
-      "fixed",
-      "finished",
-      "funded"
+      "resume",
+      "presume",
+      "consume",
+      "assume"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "To 'assume' debts means to take responsibility for them. 'Presume' means to suppose, 'resume' means to continue, and 'consume' means to use up."
+  },
+  {
+    "id": "p5-1822",
+    "sentence": "Profit margins have been ___ by volatile raw material prices throughout the past year.",
+    "choices": [
+      "squabbled",
+      "squealed",
+      "squirmed",
+      "squeezed"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Squeezed means reduced under pressure. The others do not."
+  },
+  {
+    "id": "p5-1282",
+    "sentence": "The merger was ___ off at the last minute when the lead investor withdrew its backing.",
+    "choices": [
+      "cut",
+      "coined",
+      "called",
+      "cast"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Called off' means cancelled. 'Cast off', 'cut off' and 'coined off' have different meanings or do not exist."
+  },
+  {
+    "id": "p5-2066",
+    "sentence": "The new notes will rank ___ with the issuer's existing senior debt, so no creditor takes priority.",
+    "choices": [
+      "per annum",
+      "ad infinitum",
+      "in absentia",
+      "pari passu"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Pari passu means ranking equally, without preference. Ad infinitum means endlessly, per annum means each year, and in absentia means while absent, so none states equal ranking among creditors."
+  },
+  {
+    "id": "p5-1703",
+    "sentence": "Analysts expect the acquisition to deliver significant cost ___ within eighteen months of closing.",
+    "choices": [
+      "synopses",
+      "sympathies",
+      "symmetries",
+      "synergies"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Cost synergies are savings from combining firms. Sympathies, symmetries and synopses are not financial benefits."
+  },
+  {
+    "id": "p5-1818",
+    "sentence": "The merger needs approval from a ___ of shareholders holding at least seventy-five percent of voting shares.",
+    "choices": [
+      "supervision",
+      "superstructure",
+      "superintendent",
+      "supermajority"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "A supermajority is a high threshold vote. The others do not."
+  },
+  {
+    "id": "p5-2118",
+    "sentence": "The provider may ___ connection speeds for customers who exceed their monthly data allowance.",
+    "choices": [
+      "throttle",
+      "stifle",
+      "suffocate",
+      "sever"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Fined £5 million' is a penalty. The others do not fit."
+    "explanation": "To throttle speeds is to deliberately restrict them. Stifle is used for growth or emotions, suffocate is used for living things, and sever means to cut completely, so none of them describes slowing a connection."
   },
   {
-    "id": "p5-1304",
-    "sentence": "The tender document ___ that bidders must provide references from three previous clients.",
+    "id": "p5-955",
+    "sentence": "Only members of the executive committee are ___ to the minutes of the closed session.",
     "choices": [
-      "strains",
-      "stipulates",
-      "stifles",
-      "stimulates"
+      "privileged to",
+      "privy",
+      "private",
+      "prior"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Stipulates that' means specifies as a condition. The others do not take 'that' clauses."
+    "explanation": "'Privy to' means having access to confidential information. 'Private' and 'prior' do not fit with 'to', and 'privileged to' changes the meaning."
   },
   {
-    "id": "p5-1305",
-    "sentence": "Local authorities are ___ with enforcing the new waste regulations.",
+    "id": "p5-1889",
+    "sentence": "To avoid over-reliance on one vendor, the firm decided to ___ its supplier base across several regions.",
     "choices": [
-      "chased",
-      "charged",
-      "checked",
-      "chosen"
+      "diversify",
+      "disqualify",
+      "divert",
+      "diverge"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "To 'diversify' means to broaden a range. 'Divert' means to redirect, 'diverge' means to separate, and 'disqualify' means to bar."
+  },
+  {
+    "id": "p5-2113",
+    "sentence": "The contract fixes ___ damages at 0.5 per cent for each week of delay, regardless of actual loss.",
+    "choices": [
+      "liquidated",
+      "exemplary",
+      "nominal",
+      "consequential"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Liquidated damages are a sum fixed in advance in the contract for a specified breach. Consequential damages cover indirect loss, exemplary damages punish, and nominal damages are token sums, so none is a pre-agreed weekly rate."
+  },
+  {
+    "id": "p5-1679",
+    "sentence": "He ___ the meeting; I saw him board a flight to Singapore an hour before it began.",
+    "choices": [
+      "can't have attended",
+      "should have attended",
+      "needn't have attended",
+      "must have attended"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Can't have' expresses a logical impossibility. The others express certainty, a missed duty or lack of need."
+  },
+  {
+    "id": "p5-1284",
+    "sentence": "The new rules aim to ___ the practice of backdating contracts to evade tax liabilities.",
+    "choices": [
+      "outgrow",
+      "outlaw",
+      "outplay",
+      "outbid"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Charged with' means given responsibility for. The others do not fit."
-  },
-  {
-    "id": "p5-1306",
-    "sentence": "The CEO's departure left a ___ in the leadership team that took months to fill.",
-    "choices": [
-      "vessel",
-      "verge",
-      "vault",
-      "vacuum"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Leadership vacuum' is the collocation. The others do not fit."
-  },
-  {
-    "id": "p5-1307",
-    "sentence": "The firm managed to ___ the crisis by renegotiating its loan terms.",
-    "choices": [
-      "wither",
-      "wreathe",
-      "whether",
-      "weather"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Weather a crisis' means survive it. The others are unrelated."
+    "explanation": "'Outlaw a practice' means ban it. 'Outplay', 'outbid' and 'outgrow' do not take 'practice' meaningfully."
   }
 ]

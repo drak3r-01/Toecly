@@ -1,120 +1,133 @@
 [
   {
-    "id": "p5-962",
-    "sentence": "The firm's management structure is ___ and hampers swift decision-making.",
+    "id": "p5-1648",
+    "sentence": "___ with the original estimate, the final cost was nearly forty percent higher.",
     "choices": [
-      "competent",
-      "cumbersome",
-      "commendable",
-      "considerate"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Cumbersome' means unwieldy. 'Considerate', 'competent' and 'commendable' are positive and do not fit 'hampers'."
-  },
-  {
-    "id": "p5-963",
-    "sentence": "Delivery will take ten working days ___ a stock shortage.",
-    "choices": [
-      "banning",
-      "barring",
-      "beating",
-      "bearing"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Barring' means unless there is. 'Bearing' and 'banning' do not fit, and 'beating' means defeating."
-  },
-  {
-    "id": "p5-979",
-    "sentence": "Few of the proposals were as ___ as the one submitted by the engineering team.",
-    "choices": [
-      "vital",
-      "viable",
-      "vivid",
-      "visible"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Viable' means workable. 'Vital' means essential, 'vivid' means bright or lifelike, and 'visible' means able to be seen."
-  },
-  {
-    "id": "p5-985",
-    "sentence": "The team could hardly ___ the scale of the problem until the audit was finished.",
-    "choices": [
-      "have anticipated",
-      "been anticipating",
-      "anticipate to",
-      "anticipating"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "'Could hardly have anticipated' expresses an unrealised past ability. The others are malformed."
-  },
-  {
-    "id": "p5-986",
-    "sentence": "The manager would have approved the leave request had she ___ of the family emergency.",
-    "choices": [
-      "known",
-      "knew",
-      "know",
-      "been known"
-    ],
-    "answerIndex": 0,
-    "category": "grammar",
-    "explanation": "Third conditional: 'had + past participle'. The others do not complete the inverted conditional."
-  },
-  {
-    "id": "p5-987",
-    "sentence": "No sooner had the contract been signed ___ the client requested several changes.",
-    "choices": [
-      "when",
-      "that",
-      "than",
-      "then"
+      "Compare",
+      "Having compared",
+      "Compared",
+      "To compare"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'No sooner... than' is the fixed correlative. 'when' goes with 'hardly', and 'that' and 'then' are incorrect."
+    "explanation": "A past participle with passive sense: the cost was compared. The other forms have a different meaning or subject."
   },
   {
-    "id": "p5-990",
-    "sentence": "The more the firm invests in training, ___ its staff become.",
+    "id": "p5-2074",
+    "sentence": "The announcement was timed to ___ with the start of the trade fair, maximising media attention.",
     "choices": [
-      "the most productively",
-      "most productive",
-      "more productive",
-      "the more productive"
+      "coincide",
+      "collide",
+      "commemorate",
+      "concur"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "To coincide with is to happen at the same time as. Collide with implies a harmful clash, concur with applies to agreement in opinion, and commemorate takes a direct object and does not take 'with'."
+  },
+  {
+    "id": "p5-1897",
+    "sentence": "The employer sought to enforce a ___ covenant preventing the former manager from soliciting clients for twelve months.",
+    "choices": [
+      "restricted",
+      "restorative",
+      "responsive",
+      "restrictive"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "'Restrictive covenant' is the legal term for such clauses. 'Restricted' means limited, 'restorative' means healing, and 'responsive' means reacting."
+  },
+  {
+    "id": "p5-1403",
+    "sentence": "Prices rose sharply in the south, ___ they remained stable throughout the northern regions.",
+    "choices": [
+      "in case",
+      "so that",
+      "unless",
+      "whereas"
     ],
     "answerIndex": 3,
     "category": "grammar",
-    "explanation": "Double comparative: 'the more... the more productive'. The others lack the correct pattern."
+    "explanation": "'Whereas' marks contrast between two facts. The others express result, exception and precaution."
   },
   {
-    "id": "p5-996",
-    "sentence": "She is by far the ___ candidate we have interviewed this year.",
+    "id": "p5-1833",
+    "sentence": "The board ___ rejected the proposal, seeing no commercial merit in it whatsoever.",
     "choices": [
-      "qualifiedest",
-      "most qualified",
-      "most qualify",
-      "more qualified"
+      "summarised",
+      "summarily",
+      "summarising",
+      "summary"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "A superlative is needed with 'by far the'. The others are comparative or malformed."
+    "explanation": "'Summarily' means immediately and without discussion. 'Summary' is a noun or adjective, and 'summarised' and 'summarising' change the meaning and the verb pattern."
   },
   {
-    "id": "p5-1011",
-    "sentence": "It was ___ the new plant opened that employment in the town began to recover.",
+    "id": "p5-1725",
+    "sentence": "Her performance review highlighted a need to ___ more tasks to junior team members.",
     "choices": [
-      "not until to",
-      "only after",
-      "even though",
-      "as soon"
+      "denounce",
+      "deprive",
+      "delegate",
+      "deplete"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "Delegate tasks to means assign to others. Deplete, deprive and denounce do not fit tasks to team members."
+  },
+  {
+    "id": "p5-2063",
+    "sentence": "The agreement becomes legally effective only once both parties have ___ it in the presence of a witness.",
+    "choices": [
+      "embodied",
+      "enforced",
+      "executed",
+      "enacted"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "A contract is executed when the parties sign it and complete the formalities. Enacted applies to legislation, enforced to rules or rights, and embodied to something given concrete form, so none means signing before a witness."
+  },
+  {
+    "id": "p5-1880",
+    "sentence": "The auditor flagged the unusually high ___ of write-offs in the receivables ledger.",
+    "choices": [
+      "incidence",
+      "incidents",
+      "incentive",
+      "incident"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Incidence' means the frequency of occurrence. 'Incident' and 'incidents' refer to individual events, and 'incentive' is a motivation."
+  },
+  {
+    "id": "p5-1266",
+    "sentence": "The merger remains ___ regulatory approval in at least three jurisdictions.",
+    "choices": [
+      "conditioned",
+      "depending",
+      "subject to",
+      "contingent"
+    ],
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'Subject to approval' is the fixed phrase. 'Contingent' needs 'upon', 'depending' needs 'on', and 'conditioned' does not fit."
+  },
+  {
+    "id": "p5-1602",
+    "sentence": "The product launch was a success; ___, the campaign cost twice what had been budgeted.",
+    "choices": [
+      "therefore",
+      "however",
+      "hence",
+      "moreover"
     ],
     "answerIndex": 1,
     "category": "grammar",
-    "explanation": "'It was only after... that' is a cleft sentence. The others do not fit the cleft pattern."
+    "explanation": "'However' marks contrast. 'therefore' and 'hence' give result, and 'moreover' adds."
   },
   {
     "id": "p5-1025",
@@ -130,17 +143,56 @@
     "explanation": "'It is vital that' takes the subjunctive: the base form. The others are indicative or non-finite."
   },
   {
-    "id": "p5-1043",
-    "sentence": "The firm ___ the contract for three years when the supplier went bankrupt.",
+    "id": "p5-1220",
+    "sentence": "The CEO's remarks were widely ___ as an attempt to reassure shareholders ahead of the vote.",
     "choices": [
-      "had held",
-      "holds",
-      "will hold",
-      "has held"
+      "interrupted",
+      "intercepted",
+      "interpreted",
+      "interjected"
+    ],
+    "answerIndex": 2,
+    "category": "vocabulary",
+    "explanation": "'Interpreted as' means understood as. 'Intercepted', 'interrupted' and 'interjected' do not take 'as an attempt'."
+  },
+  {
+    "id": "p5-2172",
+    "sentence": "Staff may ___ up to five unused leave days into the following year.",
+    "choices": [
+      "carry on",
+      "carry out",
+      "carry through",
+      "carry over"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "To carry over days is to transfer them into the next period. Carry through means to complete a plan, carry on means to continue, and carry out means to perform a task, so none of them transfers leave days."
+  },
+  {
+    "id": "p5-1601",
+    "sentence": "The deal will go through ___ the shareholders vote against it at the meeting on Friday.",
+    "choices": [
+      "unless",
+      "since",
+      "once",
+      "whereas"
     ],
     "answerIndex": 0,
     "category": "grammar",
-    "explanation": "The past perfect shows an earlier action. The others do not fit."
+    "explanation": "'Unless' introduces an exception. 'since', 'whereas' and 'once' do not."
+  },
+  {
+    "id": "p5-2088",
+    "sentence": "The firm was fined for failing to ___ customers' personal data in line with privacy regulations.",
+    "choices": [
+      "accommodate",
+      "harbour",
+      "conserve",
+      "safeguard"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "To safeguard data is to protect it from loss or misuse. Accommodate means to make room for, harbour means to shelter or hold a feeling, and conserve means to save resources, so none of them describes protecting personal data."
   },
   {
     "id": "p5-1051",
@@ -156,367 +208,315 @@
     "explanation": "'Exacerbated' means made worse. 'Exaggerated' means overstated, 'excavated' means dug out, and 'exonerated' means cleared of blame."
   },
   {
-    "id": "p5-1059",
-    "sentence": "The auditors found no evidence of ___ in the company's accounts.",
+    "id": "p5-1896",
+    "sentence": "Under the whistleblowing policy, staff who report wrongdoing in good faith are protected from ___.",
     "choices": [
-      "maltreatment",
-      "malfunction",
-      "malpractice",
-      "malnutrition"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Malpractice' means improper professional conduct. 'Malfunction' relates to equipment, and the others relate to health and abuse."
-  },
-  {
-    "id": "p5-1060",
-    "sentence": "The airline was forced to ___ the flight owing to a technical fault.",
-    "choices": [
-      "deviate",
-      "delegate",
-      "divert",
-      "denote"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Divert a flight' means redirect it. 'Deviate' is intransitive, 'delegate' means assign, and 'denote' means signify."
-  },
-  {
-    "id": "p5-1066",
-    "sentence": "Access to the archive is ___ to staff who have been granted clearance.",
-    "choices": [
-      "confined",
-      "conferred",
-      "confused",
-      "confirmed"
+      "retaliation",
+      "reflation",
+      "retardation",
+      "reclamation"
     ],
     "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Confined to' means limited to. 'Confused' means mixed up, 'confirmed' means verified, and 'conferred' means bestowed."
+    "explanation": "'Retaliation' is punishment for reporting. 'Reclamation' is recovery, 'retardation' is delay, and 'reflation' is economic stimulus."
   },
   {
-    "id": "p5-1079",
-    "sentence": "The retailer ___ its prices by an average of eight percent this quarter.",
+    "id": "p5-1270",
+    "sentence": "Never before ___ so many applicants competed for so few senior posts in the logistics sector.",
     "choices": [
-      "slumped",
-      "slashed",
-      "slipped",
-      "slapped"
+      "have",
+      "were",
+      "has been",
+      "had been"
     ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Slashed prices' means cut drastically. 'Slapped' and 'slipped' do not take 'prices' as an object, and 'slumped' is intransitive."
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Never before' at the start requires inversion; 'have so many applicants competed' uses the present perfect. The others do not agree or fit."
   },
   {
-    "id": "p5-1081",
-    "sentence": "The directors have ___ to the proposal to move the head office to Rotterdam.",
+    "id": "p5-2147",
+    "sentence": "The firm decided to ___ the outstanding balance against the supplier's counterclaim rather than pay cash.",
     "choices": [
-      "obliged",
-      "objected",
-      "observed",
-      "obtained"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Objected to' means expressed opposition. 'Obtained' means acquired, 'obliged' means forced, and 'observed' means noticed."
-  },
-  {
-    "id": "p5-1087",
-    "sentence": "The firm has ___ the market with cheaper alternatives to well-known brands.",
-    "choices": [
-      "flowed",
-      "floated",
-      "flooded",
-      "floored"
+      "set back",
+      "set up",
+      "set off",
+      "set down"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Flooded the market' means supplied in large quantities. 'Floated' means launched shares, 'flowed' is intransitive, and 'floored' means knocked down."
+    "explanation": "Set off means to cancel one debt against another so that no cash changes hands. Set up, set back and set down do not combine with 'against' to mean offsetting a balance."
   },
   {
-    "id": "p5-1091",
-    "sentence": "The firm has applied for a ___ on its latest invention to prevent imitation.",
+    "id": "p5-1619",
+    "sentence": "___ the shipment is delayed beyond Friday, the vendor must refund the full delivery surcharge.",
     "choices": [
-      "pattern",
-      "patient",
-      "patent",
-      "patron"
+      "In the sense that",
+      "On the grounds that",
+      "In the event that",
+      "With the result that"
     ],
     "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "'In the event that' introduces a possible future condition. The others give a reason, a qualification or a result."
+  },
+  {
+    "id": "p5-2046",
+    "sentence": "Executives should avoid making ___ claims about future earnings that cannot be supported by data.",
+    "choices": [
+      "unsophisticated",
+      "unsubstantiated",
+      "unsatisfactory",
+      "unsustainable"
+    ],
+    "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "A 'patent' protects an invention. 'Patient' is a person receiving care, 'patron' is a supporter, and 'pattern' is a design."
+    "explanation": "Unsubstantiated means not backed by evidence. Unsustainable means unable to continue, unsophisticated means simple, and unsatisfactory means not good enough, so none of them describes claims that lack supporting data."
   },
   {
-    "id": "p5-1201",
-    "sentence": "The lawyer advised that the settlement ___ finalised before the injunction expired on Friday.",
+    "id": "p5-2194",
+    "sentence": "The firm decided to ___ the unfinished plant until market conditions improve, rather than abandon the project.",
     "choices": [
-      "was",
-      "is",
-      "be",
-      "been"
+      "mothball",
+      "liquidate",
+      "dismantle",
+      "demolish"
     ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "After 'advised that' the subjunctive 'be' is used with a passive participle. 'is' and 'was' are indicative, and 'been' needs an auxiliary."
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "Mothball means to store something so that it can be revived later. Demolish and dismantle mean to destroy or take apart permanently, and liquidate means to convert to cash, so none fits 'until market conditions improve'."
   },
   {
-    "id": "p5-1202",
-    "sentence": "Were the regulator to withdraw the licence, the firm ___ forced to cease all trading immediately.",
+    "id": "p5-2152",
+    "sentence": "The tenant is three months in ___ on the rent and risks eviction under the lease.",
     "choices": [
-      "is being",
-      "will have been",
-      "would be",
-      "would have"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "Hypothetical 'Were... to' pairs with 'would + be'. 'will have been' is future perfect, 'would have' lacks a participle, and 'is being' is progressive present."
-  },
-  {
-    "id": "p5-1203",
-    "sentence": "Hardly had the delegation landed ___ the host ministry cancelled the scheduled reception.",
-    "choices": [
-      "while",
-      "when",
-      "as if",
-      "than"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Hardly... when' is the fixed correlative. 'than' belongs to 'no sooner', 'as if' introduces comparison, and 'while' signals simultaneity."
-  },
-  {
-    "id": "p5-1204",
-    "sentence": "Not until the second audit ___ the full extent of the accounting irregularities become apparent.",
-    "choices": [
-      "had",
-      "did",
-      "has",
-      "was"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "'Not until' at the start of a sentence forces inversion with 'did'. 'had', 'was' and 'has' cannot precede 'become' with this meaning."
-  },
-  {
-    "id": "p5-1205",
-    "sentence": "Seldom ___ a company recovered so quickly from a recall of this magnitude.",
-    "choices": [
-      "will",
-      "is",
-      "has",
-      "does"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Seldom' triggers inversion; with a past participle 'recovered' the present perfect 'has' is needed. 'does' and 'will' require a bare verb, and 'is' needs a different participle."
-  },
-  {
-    "id": "p5-1207",
-    "sentence": "Only when the invoice was countersigned ___ the finance department release the payment.",
-    "choices": [
-      "was",
-      "had",
-      "did",
-      "could to"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Only when' at the start triggers inversion; 'did the department release' fits the past simple. 'was' and 'had' do not fit the following verb phrase, and 'could to' is incorrect."
-  },
-  {
-    "id": "p5-1208",
-    "sentence": "The shipment, ___ for customs clearance since Monday, finally left the port yesterday evening.",
-    "choices": [
-      "holding",
-      "held",
-      "having held",
-      "hold"
-    ],
-    "answerIndex": 1,
-    "category": "grammar",
-    "explanation": "A past participle reduces a passive relative clause ('which had been held'). 'holding' is active, 'having held' is active perfect, and 'hold' is a base form."
-  },
-  {
-    "id": "p5-1209",
-    "sentence": "___ the volatility of commodity markets, the treasury team hedges every long-term purchase contract.",
-    "choices": [
-      "Lest",
-      "Despite that",
-      "Given",
-      "Provided"
-    ],
-    "answerIndex": 2,
-    "category": "grammar",
-    "explanation": "'Given' followed by a noun phrase means 'considering'. 'Despite that' needs a different structure, 'Provided' needs 'that', and 'Lest' needs a clause."
-  },
-  {
-    "id": "p5-1210",
-    "sentence": "Employees may use personal vehicles ___ the company shuttle, subject to prior written approval.",
-    "choices": [
-      "by virtue of",
-      "on behalf of",
-      "in view of",
-      "in lieu of"
+      "debit",
+      "deficit",
+      "deficiency",
+      "arrears"
     ],
     "answerIndex": 3,
-    "category": "grammar",
-    "explanation": "'In lieu of' means instead of. 'In view of' means considering, 'on behalf of' means representing, and 'by virtue of' means because of."
+    "category": "vocabulary",
+    "explanation": "In arrears means behind with a payment that is due. Deficit, debit and deficiency are not used in the fixed phrase 'in ___ on' a payment."
   },
   {
-    "id": "p5-1211",
-    "sentence": "The supplier's liability is capped, ___ the damage resulted from gross negligence.",
+    "id": "p5-1704",
+    "sentence": "The treasury department hedges against currency ___ by using forward contracts.",
     "choices": [
-      "whereas",
-      "lest",
+      "retaliations",
+      "fluctuations",
+      "fixtures",
+      "fractions"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Currency fluctuations are rate swings that hedging protects against. Fractions, retaliations and fixtures make no sense with currency here."
+  },
+  {
+    "id": "p5-2082",
+    "sentence": "The new office is ___ to the metro station, so staff can walk to work in minutes.",
+    "choices": [
+      "adhesive",
+      "adjacent",
+      "apparent",
+      "adept"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "Adjacent to means right next to something. Adhesive means sticky, apparent means obvious, and adept means skilful, so none of them can describe a building's position relative to a station."
+  },
+  {
+    "id": "p5-1627",
+    "sentence": "___ any irregularities arise during installation, notify the site engineer at once.",
+    "choices": [
+      "Should",
+      "Would",
+      "Whether",
+      "Did"
+    ],
+    "answerIndex": 0,
+    "category": "grammar",
+    "explanation": "'Should' at the start inverts a possible conditional. 'Whether' gives alternatives, and 'Would' and 'Did' do not form this inversion."
+  },
+  {
+    "id": "p5-2122",
+    "sentence": "The legal team must ___ on every press release before it is sent to journalists.",
+    "choices": [
+      "sign off",
+      "sign up",
+      "sign in",
+      "sign over"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "To sign off on something is to give formal approval. Sign up means to enrol, sign in means to log in, and sign over means to transfer ownership, and none of them is followed by 'on' with a document."
+  },
+  {
+    "id": "p5-2084",
+    "sentence": "___ to alienate its loyal customers, the firm phased in the price rise over two years.",
+    "choices": [
+      "Not wish",
+      "Not wishing",
+      "Not to wish",
+      "Not wished"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "A negative present participle clause expresses reason: 'Not wishing to...'. 'Not wished' is passive, 'not to wish' is an infinitive, and 'not wish' lacks a subject."
+  },
+  {
+    "id": "p5-2170",
+    "sentence": "The board approved the plan, ___ the reservations expressed by two of its non-executive members.",
+    "choices": [
       "unless",
-      "insofar"
+      "despite",
+      "whereas",
+      "although"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Despite' is a preposition followed by a noun phrase. 'Whereas', 'unless' and 'although' introduce clauses."
+  },
+  {
+    "id": "p5-2058",
+    "sentence": "Few of the shareholders attended the meeting, and ___ those who did voted against the resolution.",
+    "choices": [
+      "almost of",
+      "most of",
+      "the most",
+      "most"
+    ],
+    "answerIndex": 1,
+    "category": "grammar",
+    "explanation": "'Most of' + a determiner and noun means the majority. 'Almost of' is incorrect, 'most' alone cannot precede 'those', and 'the most' is a superlative."
+  },
+  {
+    "id": "p5-1808",
+    "sentence": "Shareholders voted to ___ the chairman after the accounting scandal came to light.",
+    "choices": [
+      "outfit",
+      "ooze",
+      "outgrow",
+      "oust"
+    ],
+    "answerIndex": 3,
+    "category": "vocabulary",
+    "explanation": "Oust means force out. The others do not take a person as object this way."
+  },
+  {
+    "id": "p5-1259",
+    "sentence": "The consultant billed the client for ___ expenses incurred during the on-site assessment.",
+    "choices": [
+      "coincidental",
+      "incidental",
+      "accidental",
+      "occasional"
+    ],
+    "answerIndex": 1,
+    "category": "vocabulary",
+    "explanation": "'Incidental expenses' are minor extra costs. 'Accidental' means unintended, 'coincidental' means by chance, and 'occasional' means infrequent."
+  },
+  {
+    "id": "p5-662",
+    "sentence": "Candidates ___ the minimum requirements will not be considered for an interview.",
+    "choices": [
+      "lacked",
+      "lack",
+      "lacking",
+      "to lack"
     ],
     "answerIndex": 2,
     "category": "grammar",
-    "explanation": "'Unless' introduces an exception to the cap. 'lest' means for fear that, 'whereas' contrasts, and 'insofar' needs 'as'."
+    "explanation": "A present participle reduces the active relative clause ('who lack'). 'lacked' would be passive, and 'lack' and 'to lack' do not fit."
   },
   {
-    "id": "p5-1212",
-    "sentence": "The audit committee has ___ the view that the provisions were materially understated.",
+    "id": "p5-959",
+    "sentence": "Under the terms of the contract, all intellectual property ___ to the client upon completion.",
     "choices": [
-      "held to",
-      "taken",
-      "made",
-      "given"
-    ],
-    "answerIndex": 1,
-    "category": "vocabulary",
-    "explanation": "'Take the view that' is the fixed expression. 'held to', 'made' and 'given' do not form this collocation."
-  },
-  {
-    "id": "p5-1213",
-    "sentence": "The company's balance sheet ___ a significant exposure to foreign-exchange fluctuations.",
-    "choices": [
-      "relays",
+      "reverts",
       "retains",
-      "reveals",
-      "reflects on"
+      "retreats",
+      "resides"
+    ],
+    "answerIndex": 0,
+    "category": "vocabulary",
+    "explanation": "'Reverts to' means returns to a former owner. 'Resides' needs 'in', 'retreats' means withdraws, and 'retains' needs an object."
+  },
+  {
+    "id": "p5-2015",
+    "sentence": "The supplier agreed to ___ the buyer against any losses arising from defective components.",
+    "choices": [
+      "refund",
+      "reimburse",
+      "indemnify",
+      "compensate"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Reveals' means shows something previously unclear. 'Relays' means passes on, 'retains' means keeps, and 'reflects on' means ponders."
+    "explanation": "Indemnify means to protect someone against loss and is followed by 'against'. Compensate, reimburse and refund are followed by 'for' or by the sum repaid, so none works with 'against any losses'."
   },
   {
-    "id": "p5-1214",
-    "sentence": "Management's reluctance to disclose the figures ___ concerns among institutional investors.",
+    "id": "p5-1821",
+    "sentence": "The CEO resigned ___ allegations of insider trading, although he denied any wrongdoing.",
     "choices": [
-      "fended",
-      "fuelled",
-      "fostered up",
-      "forged"
+      "atop",
+      "amid",
+      "alongside",
+      "aboard"
     ],
     "answerIndex": 1,
     "category": "vocabulary",
-    "explanation": "'Fuelled concerns' means intensified them. 'Fostered up' is malformed, 'forged' means created or counterfeited, and 'fended' needs 'off'."
+    "explanation": "Amid means in the midst of. The others do not."
   },
   {
-    "id": "p5-1215",
-    "sentence": "The new compliance framework is intended to ___ the risk of money laundering through shell companies.",
+    "id": "p5-2182",
+    "sentence": "Sales rose by an ___ high margin, surprising even the most optimistic analysts.",
     "choices": [
-      "cure",
-      "curl",
-      "curtail to",
-      "curb"
+      "expectedly",
+      "unexpected",
+      "unexpectedly",
+      "unexpectedness"
     ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Curb the risk' means limit it. 'Curl' means bend, 'cure' means heal, and 'curtail to' is malformed."
+    "answerIndex": 2,
+    "category": "grammar",
+    "explanation": "An adverb modifies the adjective 'high'. 'Unexpected' is an adjective, 'unexpectedness' a noun, and 'expectedly' has the opposite meaning."
   },
   {
-    "id": "p5-1216",
-    "sentence": "Several creditors have ___ the administrator's proposal for a debt-for-equity swap.",
+    "id": "p5-1231",
+    "sentence": "The firm has ___ its reliance on a single supplier by qualifying two alternative sources.",
     "choices": [
-      "enthused",
-      "enthralled",
-      "endorsed",
-      "entailed"
+      "retrieved",
+      "relaxed",
+      "reduced",
+      "redeemed"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Endorsed' means publicly supported. 'Enthused' is intransitive, 'entailed' means involved, and 'enthralled' means captivated."
+    "explanation": "'Reduced reliance' is the collocation. 'Relaxed' means loosened, 'redeemed' means paid off, and 'retrieved' means recovered."
   },
   {
-    "id": "p5-1217",
-    "sentence": "The ministry plans to ___ the tariff on imported steel until domestic production recovers.",
+    "id": "p5-2043",
+    "sentence": "The buyer was dismissed for accepting a ___ from a supplier in return for awarding it the contract.",
     "choices": [
-      "succumb",
-      "suspend",
-      "surmount",
-      "suppress"
+      "kickback",
+      "windfall",
+      "bounty",
+      "stipend"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "category": "vocabulary",
-    "explanation": "'Suspend a tariff' means temporarily stop applying it. 'Suppress' means crush or hide, 'succumb' is intransitive, and 'surmount' means overcome."
+    "explanation": "A kickback is an illicit payment made in return for favourable treatment. A windfall is an unexpected gain, a bounty is a reward, and a stipend is a regular allowance, so none implies a bribe for awarding a contract."
   },
   {
-    "id": "p5-1218",
-    "sentence": "Revenue from licensing remained ___ despite the downturn in hardware sales.",
+    "id": "p5-2094",
+    "sentence": "The borrower undertook not to ___ any of its assets in favour of other creditors.",
     "choices": [
-      "bashful",
-      "bountiful",
-      "buoyant",
-      "brisk to"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Buoyant' means staying strong. 'Bountiful' means generous, 'brisk to' is malformed, and 'bashful' means shy."
-  },
-  {
-    "id": "p5-1219",
-    "sentence": "The firm was ___ to pay substantial damages after the court found it had breached the exclusivity clause.",
-    "choices": [
-      "prompted",
-      "advised",
-      "urged",
-      "ordered"
-    ],
-    "answerIndex": 3,
-    "category": "vocabulary",
-    "explanation": "'Ordered to pay' is the court-imposed obligation. 'Urged' and 'advised' are non-binding, and 'prompted' needs a different structure."
-  },
-  {
-    "id": "p5-1220",
-    "sentence": "The CEO's remarks were widely ___ as an attempt to reassure shareholders ahead of the vote.",
-    "choices": [
-      "interrupted",
-      "intercepted",
-      "interpreted",
-      "interjected"
+      "curb",
+      "obstruct",
+      "encumber",
+      "hamper"
     ],
     "answerIndex": 2,
     "category": "vocabulary",
-    "explanation": "'Interpreted as' means understood as. 'Intercepted', 'interrupted' and 'interjected' do not take 'as an attempt'."
-  },
-  {
-    "id": "p5-1221",
-    "sentence": "The retailer has ___ a rigorous inspection regime to detect counterfeit goods before they reach the shelves.",
-    "choices": [
-      "insinuated",
-      "instigated",
-      "instituted",
-      "instructed"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Instituted a regime' means established it. 'Instigated' means provoked, 'instructed' means directed, and 'insinuated' means hinted."
-  },
-  {
-    "id": "p5-1222",
-    "sentence": "The tribunal found that the dismissal had been procedurally ___ even though the grounds were valid.",
-    "choices": [
-      "unjust to",
-      "unfit",
-      "unfair",
-      "unsound at"
-    ],
-    "answerIndex": 2,
-    "category": "vocabulary",
-    "explanation": "'Procedurally unfair' is the standard employment-law phrase. 'unjust to' and 'unsound at' are malformed, and 'unfit' means unsuitable."
+    "explanation": "Encumber means to burden an asset with a charge such as a mortgage. Hamper, obstruct and curb mean to hinder or restrain, so none describes pledging assets to a creditor."
   }
 ]
