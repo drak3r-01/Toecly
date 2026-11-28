@@ -1,0 +1,479 @@
+[
+  {
+    "id": "p7-371",
+    "documents": [
+      {
+        "type": "job_ad",
+        "title": "Seasonal Logistics Coordinator",
+        "text": "Harbourline Freight, a mid-sized shipping and warehousing firm based in Rotterdam, seeks a Seasonal Logistics Coordinator for a six-month contract beginning 3 March. The successful candidate will oversee the scheduling of outbound container shipments, liaise with customs brokers, and prepare weekly delivery performance reports for senior management.\n\nRequirements: a minimum of three years' experience in freight coordination; working knowledge of customs documentation in the European Union; fluency in English and Dutch (a third European language is an asset). Candidates must be able to work Saturdays on a rotating basis. Salary is 3,400 euros gross per month, and a relocation allowance of 1,500 euros is available to those living more than 100 kilometres from the port. Applications must be received by 14 January. Interviews will take place the week of 27 January."
+      },
+      {
+        "type": "email",
+        "title": "Application: Seasonal Logistics Coordinator",
+        "text": "To: Recruitment, Harbourline Freight\nFrom: Ines Carvalho\nSubject: Application: Seasonal Logistics Coordinator\n\nDear Hiring Team,\n\nI am writing to apply for the post advertised on your website. For the past four years I have coordinated export shipments for a ceramics manufacturer in Porto, where I also handled all customs paperwork for consignments to Germany and Belgium. I speak English and Portuguese fluently, along with intermediate Dutch, which I have studied for two years and am keen to improve.\n\nUnfortunately, I cannot attend interviews in person before the first of February, as I am under notice at my current employer. Would a video interview be acceptable?\n\nKind regards,\nInes Carvalho"
+      },
+      {
+        "type": "email",
+        "title": "Re: Application: Seasonal Logistics Coordinator",
+        "text": "To: Ines Carvalho\nFrom: Pieter van Dijk, HR Coordinator\nSubject: Re: Application: Seasonal Logistics Coordinator\n\nDear Ms. Carvalho,\n\nThank you for your interest. Your customs experience is exactly what we are looking for, and several of our managers were impressed by the volume you have handled. However, the advertisement is clear that Dutch fluency is expected, since most of our brokers and hauliers work in that language. We are therefore unable to put you forward for this contract.\n\nWe do expect to open a permanent customs compliance post in the spring, for which English is the working language. I would be glad to keep your details on file and contact you in March, if you agree. Video interviews are, of course, possible for that role.\n\nBest regards,\nPieter van Dijk"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Mr. van Dijk decline to put Ms. Carvalho forward?",
+        "category": "detail",
+        "choices": [
+          "Her command of Dutch falls short of the level requested",
+          "She cannot attend the interviews on the dates that were proposed",
+          "She has never handled customs paperwork for exports",
+          "She sent her application after the closing date"
+        ],
+        "answerIndex": 0,
+        "explanation": "The advertisement requires fluency in Dutch; Ms. Carvalho describes her Dutch as intermediate, and Mr. van Dijk says 'Dutch fluency is expected'. Her interview availability was not the reason, her customs experience is praised, and no deadline problem is mentioned."
+      },
+      {
+        "prompt": "The word \"asset\" in the job advertisement is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "property",
+          "advantage",
+          "obligation",
+          "qualification"
+        ],
+        "answerIndex": 1,
+        "explanation": "'A third European language is an asset' means it is an advantage, not a requirement."
+      },
+      {
+        "prompt": "What is NOT true of Ms. Carvalho?",
+        "category": "not_true",
+        "choices": [
+          "She has handled customs documents for exports to Germany",
+          "She could attend an interview in person on 27 January",
+          "She has been studying Dutch for about two years",
+          "She is still working for her present employer"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says she cannot attend interviews in person before 1 February, so she could not come in the week of 27 January. The other statements are all in her e-mail (she is 'under notice', so still employed)."
+      },
+      {
+        "prompt": "What is suggested about the permanent customs compliance post?",
+        "category": "inference",
+        "choices": [
+          "It will be filled by an existing seasonal employee",
+          "Dutch is not a condition for applicants to it",
+          "It will pay more than the seasonal contract does",
+          "It will begin before the seasonal contract ends"
+        ],
+        "answerIndex": 1,
+        "explanation": "Mr. van Dijk says English is the working language for the permanent post, in contrast with the seasonal contract, where Dutch is required. Nothing is said about salary, internal hiring or start dates."
+      },
+      {
+        "prompt": "Why does Mr. van Dijk mention the permanent post?",
+        "category": "purpose",
+        "choices": [
+          "To correct a mistake in the advertisement",
+          "To postpone the interviews until the spring",
+          "To ask her to improve her Dutch first",
+          "To keep her interested in joining the firm"
+        ],
+        "answerIndex": 3,
+        "explanation": "After refusing the seasonal contract, he offers to keep her details on file and contact her in March; the aim is to maintain the relationship, not to correct the ad or delay interviews."
+      }
+    ]
+  },
+  {
+    "id": "p7-372",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Council Approves Pilot Cycle Lanes",
+        "text": "The Millbrook city council voted 7 to 4 on Tuesday to approve a nine-month pilot of protected cycle lanes along Harwick Road, the main route between the railway station and the university. The scheme, which will cost 640,000 pounds, will remove 46 of the road's 120 on-street parking spaces and reduce the speed limit from 30 to 20 miles per hour. Work is due to begin in April.\n\nSupporters, led by councillor Dana Okafor, pointed to figures showing that cyclists were involved in 31 collisions on the road in the past three years. \"We cannot keep asking people to cycle on a road that was designed for lorries,\" she told the chamber. Opponents argued that the loss of parking would harm the roughly eighty independent businesses along the route and that traffic would simply be displaced to residential side streets.\n\nTo address these concerns, the council will provide each affected business with a free delivery bay and will measure takings, traffic flow and air quality at three-month intervals. If the findings are unfavourable, the lanes will be removed at no cost to the businesses. A final vote on making the scheme permanent will be held next December."
+      },
+      {
+        "type": "email",
+        "title": "Harwick Road pilot",
+        "text": "To: Councillor Dana Okafor\nFrom: Tomas Reyes, Owner, Reyes Hardware\nSubject: Harwick Road pilot\n\nDear Councillor Okafor,\n\nI watched Tuesday's debate with interest. I do not oppose cycling, and I accept that the road is dangerous. My concern is that my customers, who buy paint, timber and tools, cannot carry such goods on a bicycle. Of the six spaces outside my shop, only two will remain, and a delivery bay does nothing for someone who needs to load forty kilos of cement into a car.\n\nI would be willing to take part in the monitoring, provided that my own sales figures are included from the outset and that the baseline is drawn from the same months of last year, since trade varies with the season. Otherwise, any decline may be blamed on the weather rather than on the scheme.\n\nI would welcome a meeting at your convenience.\n\nYours sincerely,\nTomas Reyes"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why did Mr. Reyes write to Ms. Okafor?",
+        "category": "purpose",
+        "choices": [
+          "To explain his concerns and offer to help monitor it",
+          "To demand compensation for sales lost since the vote",
+          "To ask her to reverse the decision taken by the council",
+          "To request a second delivery bay for his hardware shop"
+        ],
+        "answerIndex": 0,
+        "explanation": "He says he does not oppose cycling, explains why the parking loss hurts his customers, and offers to take part in the monitoring. He asks for a meeting, not compensation, a reversal or another bay."
+      },
+      {
+        "prompt": "How does the effect on Mr. Reyes's shop compare with the effect on Harwick Road as a whole?",
+        "category": "inference",
+        "choices": [
+          "His frontage loses a smaller share of its parking",
+          "His frontage is spared any loss of its parking",
+          "His frontage loses a bigger share of its parking",
+          "His frontage loses the same share of its parking"
+        ],
+        "answerIndex": 2,
+        "explanation": "The road loses 46 of 120 spaces (about 38 percent), whereas Mr. Reyes loses four of his six (about 67 percent)."
+      },
+      {
+        "prompt": "The word \"displaced\" in the article is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "reduced",
+          "slowed",
+          "shifted",
+          "blocked"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Traffic would simply be displaced to residential side streets' means it would be moved there."
+      },
+      {
+        "prompt": "What is NOT true about the pilot scheme?",
+        "category": "not_true",
+        "choices": [
+          "Businesses will receive free delivery bays",
+          "It was approved by a narrow majority of councillors",
+          "Its effects will be measured every three months",
+          "Its permanence has already been voted through"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article states that 'a final vote on making the scheme permanent will be held next December', so it is not yet agreed. The other three points appear in the article."
+      },
+      {
+        "prompt": "What does Mr. Reyes imply about the council's plan to measure takings?",
+        "category": "inference",
+        "choices": [
+          "Takings are too difficult to record accurately",
+          "Comparing without a seasonal baseline could be unfair",
+          "Only large businesses should be included in the review",
+          "The review should be completed before work begins"
+        ],
+        "answerIndex": 1,
+        "explanation": "He wants the baseline drawn from the same months of last year because 'trade varies with the season'; otherwise a decline could be blamed on the weather instead of the scheme."
+      }
+    ]
+  },
+  {
+    "id": "p7-373",
+    "documents": [
+      {
+        "type": "invoice",
+        "title": "Invoice No. 2291",
+        "text": "SAFFRON & SAGE CATERING\nInvoice No. 2291\nClient: Lindqvist Consulting\nEvent: Staff conference lunch, 12 October\n\nBuffet lunch, 60 guests at 24.00 each: 1,440.00\nVegetarian upgrade, 12 guests at 4.50 each: 54.00\nCoffee and tea service, 60 guests at 3.00 each: 180.00\nEquipment hire: 85.00\nDelivery and set-up: 120.00\n\nSubtotal: 1,879.00\nService charge (10 percent of subtotal): 187.90\nTotal: 2,066.90\nDeposit received on 20 September: 500.00\nBalance due within 14 days: 1,566.90\n\nAll amounts in euros."
+      },
+      {
+        "type": "email",
+        "title": "Invoice No. 2291",
+        "text": "To: Saffron & Sage Catering\nFrom: Greta Aalto, Office Manager, Lindqvist Consulting\nSubject: Invoice No. 2291\n\nDear Sir or Madam,\n\nThank you for the lunch on 12 October, which our staff greatly enjoyed. However, I am writing about the invoice, which charges us for 60 guests, whereas only 48 people attended because a client visit clashed with the event. I telephoned your office on 8 October to warn you that twelve colleagues would be absent, yet the invoice makes no allowance for them. I would be grateful if you could correct it.\n\nKind regards,\nGreta Aalto"
+      },
+      {
+        "type": "email",
+        "title": "Re: Invoice No. 2291",
+        "text": "To: Greta Aalto\nFrom: Ravi Menon, Accounts, Saffron & Sage Catering\nSubject: Re: Invoice No. 2291\n\nDear Ms. Aalto,\n\nThank you for your message, and I am glad the lunch was well received. I have checked our records. Your order of 60 guests was confirmed in writing on 3 October, and our terms, which accompany every quotation, allow reductions to be credited as follows: in full if notified at least seven days before the event; at half the buffet price if notified three to six days before; and not at all thereafter, since by then the food has been bought and prepared. Your call on 8 October, four days before the event, falls into the second category. I have therefore credited the twelve absent guests at half the buffet rate and recalculated the service charge on the reduced subtotal. A revised invoice is attached. As a gesture, we will waive the equipment hire on your next booking.\n\nBest regards,\nRavi Menon"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What was Ms. Aalto's main purpose in writing?",
+        "category": "purpose",
+        "choices": [
+          "To complain about the quality of the food served",
+          "To cancel the booking for a forthcoming event",
+          "To query the deadline for settling the balance",
+          "To ask for a correction to the amount invoiced"
+        ],
+        "answerIndex": 3,
+        "explanation": "She praises the lunch but says the invoice charges for 60 guests although 48 attended, and asks for it to be corrected."
+      },
+      {
+        "prompt": "What is the balance that Lindqvist Consulting must now pay?",
+        "category": "detail",
+        "choices": [
+          "1,408.50 euros",
+          "1,566.90 euros",
+          "1,422.90 euros",
+          "1,250.10 euros"
+        ],
+        "answerIndex": 0,
+        "explanation": "Credit: 12 x 24.00 x 0.5 = 144.00, so the new subtotal is 1,735.00. Service charge: 173.50. Total: 1,908.50. Less the 500.00 deposit: 1,408.50. 1,566.90 is the original balance; 1,422.90 forgets to recalculate the service charge; 1,250.10 would be a full credit."
+      },
+      {
+        "prompt": "Why does Ms. Aalto not receive a full credit for the absent guests?",
+        "category": "inference",
+        "choices": [
+          "She had already paid a deposit before the call",
+          "Her notice came less than a week before the event",
+          "The caterer had not confirmed the order in writing",
+          "The guests had eaten the buffet before leaving"
+        ],
+        "answerIndex": 1,
+        "explanation": "Full credit requires notice at least seven days before. She called four days before the event (8 October for 12 October), so only half the buffet price is credited."
+      },
+      {
+        "prompt": "What is NOT true about the lunch at Lindqvist Consulting?",
+        "category": "not_true",
+        "choices": [
+          "Twelve people who were expected did not come",
+          "It took place on 12 October, as the invoice shows",
+          "The guests were unhappy with the meal served",
+          "A deposit was paid in advance of the event"
+        ],
+        "answerIndex": 2,
+        "explanation": "Ms. Aalto says the staff 'greatly enjoyed' the lunch. The other statements are supported by the invoice and the e-mails."
+      },
+      {
+        "prompt": "The word \"gesture\" in the last e-mail is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "a formal complaint",
+          "a show of goodwill",
+          "a change of policy",
+          "a requested payment"
+        ],
+        "answerIndex": 1,
+        "explanation": "Waiving the equipment hire on the next booking is a friendly offer made to keep the client's goodwill."
+      }
+    ]
+  },
+  {
+    "id": "p7-374",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Beautiful setting, uneven service",
+        "text": "We stayed at the Belvedere for four nights in May to attend a trade fair. [A] The hotel itself is a handsome nineteenth-century building, and our room, on the fourth floor, had a terrace overlooking the river. [B] The breakfast was generous, and the receptionist was helpful on arrival. Unfortunately, on the second night the air conditioning failed. [C] The engineer who came could not repair it, and the replacement part did not arrive until the morning of our departure. We were offered a fan, which was hardly adequate in twenty-eight degrees. Worse, when we raised the matter at breakfast, the duty manager seemed more interested in the hotel's online rating than in our comfort. [D] I would stay again only if the room were guaranteed to have working cooling, and I would not recommend the hotel to anyone travelling in summer.\n\nHannah W., business traveller"
+      },
+      {
+        "type": "web_page",
+        "title": "Hotel Belvedere: Guest Feedback",
+        "text": "Hotel Belvedere | Guest Feedback\n\nResponse to \"Beautiful setting, uneven service\" (posted by Hannah W.)\n\nDear Ms. W.,\n\nThank you for your candid review. We are sorry that your stay fell short of the standard we set ourselves. The air-conditioning fault was caused by a failed compressor, and the replacement had to be shipped from Germany. We accept that we should have moved you to another room, as three rooms on the second floor were vacant that week, and we have reminded all night staff of this procedure. Your comment about the duty manager has been passed to our general manager, who will follow up personally.\n\nOur policy is to refund 30 percent of the nightly rate for each night on which a guest is affected by a fault we have not resolved. Our standard rate for a superior room such as yours is 180 euros per night. Please write to guestrelations@belvedere.example with your booking reference, and the amount will be credited to your card within ten working days.\n\nHotel Belvedere Management"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Within an hour the room had become uncomfortably warm.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence follows the report that the air conditioning failed and precedes the engineer's visit, so it belongs at [C]."
+      },
+      {
+        "prompt": "What is the main purpose of the second document?",
+        "category": "purpose",
+        "choices": [
+          "To advertise reduced rates for summer visitors",
+          "To explain how to reserve a superior room",
+          "To announce repairs to the hotel's cooling system",
+          "To answer a guest's criticisms and offer redress"
+        ],
+        "answerIndex": 3,
+        "explanation": "The page responds point by point to Ms. W.'s review, apologises, and describes a refund."
+      },
+      {
+        "prompt": "How much will Ms. W. be refunded?",
+        "category": "detail",
+        "choices": [
+          "108 euros",
+          "216 euros",
+          "162 euros",
+          "54 euros"
+        ],
+        "answerIndex": 2,
+        "explanation": "The fault began on the second night and was not repaired until the morning of departure, so three nights (2, 3 and 4) were affected: 3 x 180 x 0.30 = 162 euros."
+      },
+      {
+        "prompt": "What does the response suggest about Ms. W.'s stay?",
+        "category": "inference",
+        "choices": [
+          "A room change was possible but was never proposed",
+          "The hotel was fully booked throughout that week",
+          "She was moved to a vacant room on the second floor",
+          "She had already received a refund during the stay"
+        ],
+        "answerIndex": 0,
+        "explanation": "The hotel admits it 'should have moved' her, as three rooms were vacant; the review mentions only a fan being offered."
+      },
+      {
+        "prompt": "The word \"candid\" in the response is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "lengthy",
+          "polite",
+          "anonymous",
+          "frank"
+        ],
+        "answerIndex": 3,
+        "explanation": "A 'candid review' is an honest, direct one."
+      }
+    ]
+  },
+  {
+    "id": "p7-375",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Remote work policy",
+        "text": "To: All staff\nFrom: Human Resources\nDate: 12 February\nSubject: Remote work from 3 March\n\nFrom 3 March, eligible employees may work from home for up to two days a week. To be eligible, an employee must have completed six months of service on the first day of remote work. Tuesdays and Thursdays are compulsory office days for everyone. Requests must be submitted on the online form, with manager approval, at least five working days before the first remote day.\n\nEach employee may claim a one-time allowance of up to 300 euros towards home office equipment. Receipts must be submitted within 60 days of the first approved remote day. Any amount above 300 euros is the employee's responsibility. Managers may withdraw approval with two weeks' notice if team coverage becomes a problem, but may not do so on the grounds of an employee's personal preference regarding working hours. Questions about the policy should be sent to the HR help desk, which is open on weekdays from 9 a.m. to 5 p.m."
+      },
+      {
+        "type": "online_chat",
+        "title": "HR help desk chat, 14 February",
+        "text": "Leo Marchetti: Hi Priya. I joined the company on 9 September. Can I start working from home on 3 March, on Wednesdays and Fridays?\nPriya Nair (HR): Hello Leo. The policy does start on 3 March, but it requires six months of service on your first remote day. You reach that on 9 March, which is a Monday.\nLeo Marchetti: So I would have to wait?\nPriya Nair (HR): Yes. Your first Wednesday after that is 11 March. You can submit the form now, as long as the start date is 11 March or later, and as long as your manager signs it.\nLeo Marchetti: Great, thank you. And the equipment allowance?\nPriya Nair (HR): That is explained in the memo. Keep your receipts, and remember that they are valid only for items bought for work at home, such as a chair or a monitor.\nLeo Marchetti: Understood. I was thinking of buying a chair this weekend, so that is helpful.\nPriya Nair (HR): Perfect. Once your manager approves the request, complete the equipment section of the form and attach the receipt."
+      },
+      {
+        "type": "form",
+        "title": "Remote Work Request",
+        "text": "REMOTE WORK REQUEST\n\nEmployee: Leo Marchetti\nDate submitted: 16 February\nRequested remote days: Wednesday, Friday\nFirst remote day: 11 March\nManager decision: Approved (S. Ghosh, 18 February)\n\nEquipment claim (to be completed after approval)\nItem: Ergonomic chair\nCost: 340 euros\nReceipt attached: Yes"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why can Mr. Marchetti not begin remote work on 3 March?",
+        "category": "inference",
+        "choices": [
+          "His manager has not approved the request in time",
+          "Wednesdays and Fridays are compulsory office days",
+          "He has not yet completed six months of service",
+          "The policy does not take effect until 11 March"
+        ],
+        "answerIndex": 2,
+        "explanation": "He joined on 9 September, and six months of service are required on the first remote day, which he reaches only on 9 March."
+      },
+      {
+        "prompt": "What is NOT true about Mr. Marchetti's request?",
+        "category": "not_true",
+        "choices": [
+          "It was approved by his manager",
+          "It asks for days when attendance is compulsory",
+          "It was submitted well before the start date",
+          "It includes a claim towards the cost of equipment"
+        ],
+        "answerIndex": 1,
+        "explanation": "The compulsory office days are Tuesdays and Thursdays; he requests Wednesdays and Fridays. The other statements are supported by the form."
+      },
+      {
+        "prompt": "How much of the chair's cost will Mr. Marchetti have to pay himself?",
+        "category": "detail",
+        "choices": [
+          "340 euros",
+          "60 euros",
+          "0 euros",
+          "40 euros"
+        ],
+        "answerIndex": 3,
+        "explanation": "The allowance is capped at 300 euros, and the chair costs 340, so he pays the 40-euro difference."
+      },
+      {
+        "prompt": "The word \"compulsory\" in the memo is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "optional",
+          "required",
+          "preferred",
+          "occasional"
+        ],
+        "answerIndex": 1,
+        "explanation": "Compulsory office days are days on which attendance is required of everyone."
+      },
+      {
+        "prompt": "By which date must Mr. Marchetti submit his receipts?",
+        "category": "detail",
+        "choices": [
+          "10 April",
+          "9 May",
+          "10 May",
+          "12 March"
+        ],
+        "answerIndex": 2,
+        "explanation": "Receipts are due within 60 days of the first approved remote day, 11 March; 11 March plus 60 days is 10 May (20 days remain in March, 30 in April, 10 in May)."
+      }
+    ]
+  },
+  {
+    "id": "p7-376",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "FitCore Gym: Join in January",
+        "text": "FITCORE GYM: NEW YEAR OFFERS\n\nMonthly plan: 45 euros per month, no contract. Cancel with 30 days' written notice.\nAnnual plan: 480 euros, paid in full at sign-up. Cancellations within 14 days of sign-up are refunded in full; after that, no refund is given.\n\nStudents receive 20 percent off any plan on presentation of a valid student card.\n\nJoin before 31 January and we will waive the enrolment fee, normally 60 euros.\n\nMembers unable to train for medical reasons may freeze their plan for up to three months on presentation of a doctor's note. Frozen months are added to the end of the membership.\n\nAll FitCore clubs offer 24-hour access, more than sixty classes a week, a heated pool and free parking. Personal training sessions are available at an additional charge of 35 euros per hour and may be booked at the front desk or through our app. Our friendly staff will be happy to show you around before you decide: no appointment is necessary."
+      },
+      {
+        "type": "email",
+        "title": "Cancelling my membership",
+        "text": "To: FitCore Gym, Customer Service\nFrom: Sophie Laurent\nSubject: Cancelling my membership\n\nDear FitCore team,\n\nI joined your gym on 5 January and took out the annual plan, using my student card. Unfortunately I injured my knee in a cycling accident last week and my doctor has advised me not to exercise for at least two months. Given that it is now 22 January, I would like to cancel my membership and receive a refund for the months I will not be able to use. I have the doctor's note and can send it on request.\n\nI had hoped to use the pool and the classes regularly, and I am disappointed to have to give them up so soon. I would be grateful for any solution that does not leave me paying for months that I cannot use.\n\nThank you for your help.\nSophie Laurent"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much did Ms. Laurent pay when she joined?",
+        "category": "detail",
+        "choices": [
+          "480 euros",
+          "444 euros",
+          "384 euros",
+          "420 euros"
+        ],
+        "answerIndex": 2,
+        "explanation": "The annual plan costs 480 euros, less 20 percent for students (384 euros). The enrolment fee was waived because she joined before 31 January."
+      },
+      {
+        "prompt": "Why is Ms. Laurent unlikely to obtain the refund she requests?",
+        "category": "inference",
+        "choices": [
+          "Students are not entitled to cancel a plan",
+          "The 14-day period for refunds had already expired",
+          "Her doctor's note was not attached to the message",
+          "The refund is available only for monthly plans"
+        ],
+        "answerIndex": 1,
+        "explanation": "She joined on 5 January and wrote on 22 January, after the 14-day window, and after that 'no refund is given'."
+      },
+      {
+        "prompt": "What alternative could FitCore reasonably offer Ms. Laurent?",
+        "category": "inference",
+        "choices": [
+          "A free monthly plan beginning in April",
+          "A discount on the enrolment fee next year",
+          "A transfer of her plan to a friend",
+          "A pause in her plan of up to three months"
+        ],
+        "answerIndex": 3,
+        "explanation": "Members who cannot train for medical reasons may freeze a plan for up to three months with a doctor's note, which she has; her two months of rest fall within that limit."
+      },
+      {
+        "prompt": "What is the main purpose of the e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To complain about the gym's equipment",
+          "To request a refund after an injury",
+          "To ask for a student discount",
+          "To report a mistake in a payment"
+        ],
+        "answerIndex": 1,
+        "explanation": "She wants to cancel and be refunded for the months she cannot use because of her injury."
+      },
+      {
+        "prompt": "What is NOT stated in the advertisement?",
+        "category": "not_true",
+        "choices": [
+          "Students are refunded after the first fortnight",
+          "Monthly members must give written notice to leave",
+          "The enrolment fee is waived for January joiners",
+          "Frozen months extend the end date of the plan"
+        ],
+        "answerIndex": 0,
+        "explanation": "The advertisement says that after 14 days no refund is given on the annual plan and does not offer students a different rule; the other statements are in the text."
+      }
+    ]
+  }
+]

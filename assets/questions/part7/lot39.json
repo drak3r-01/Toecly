@@ -1,0 +1,479 @@
+[
+  {
+    "id": "p7-383",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Lingua Bridge Language School",
+        "text": "LINGUA BRIDGE LANGUAGE SCHOOL: AUTUMN EVENING COURSES\n\nTen-week courses begin on Monday 22 September. Choose between the Standard course (two evenings a week), priced at 420 euros, and the Intensive course (four evenings a week), priced at 780 euros. A materials fee of 35 euros applies to the Standard course; materials are included in the Intensive price.\n\nEarly registration: pay in full by 31 August and receive 10 percent off the course fee. Group discount: when two or more people register together, each receives 5 percent off the course fee. Discounts cannot be combined, and they do not apply to the materials fee. Where more than one discount is available, the larger one is applied.\n\nA free placement test is required for all students who have studied the language before. Classes are limited to twelve students, and places are allocated in order of payment. Refunds are available until the end of the first week of classes."
+      },
+      {
+        "type": "email",
+        "title": "Registering two students",
+        "text": "To: Registration, Lingua Bridge\nFrom: Rosa Almeida\nSubject: Registering two students\n\nDear Sir or Madam,\n\nI would like to register for the Standard Spanish course, and a colleague, Pedro Vidal, wishes to join me. We have both studied some Spanish before, so I assume we shall need to take the placement test. I plan to pay my fee on 25 August. Pedro is away until early September and will pay when he returns, on or about 5 September. We would like to be placed in the same class if possible. Could you please confirm what each of us will pay?\n\nThank you,\nRosa Almeida"
+      },
+      {
+        "type": "form",
+        "title": "Registration record",
+        "text": "LINGUA BRIDGE: REGISTRATION RECORD\n\nCourse: Standard Spanish, evenings, beginning 22 September\n\nStudent 1: Rosa Almeida\nPlacement test: completed 26 August, level A2\nPayment received: 25 August\n\nStudent 2: Pedro Vidal\nPlacement test: completed 6 September, level A2\nPayment received: 5 September\n\nClass allocation: Group SP-A2-Evening (both students)\nStatus: Confirmed"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of Ms. Almeida's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To register two colleagues and ask about costs",
+          "To ask for a refund on a course she has started",
+          "To change the course that she has selected",
+          "To complain about the way places are allocated"
+        ],
+        "answerIndex": 0,
+        "explanation": "She wants to register herself and Pedro Vidal for the Standard Spanish course and asks the school to confirm what each of them will pay."
+      },
+      {
+        "prompt": "How much will Mr. Vidal pay in total?",
+        "category": "detail",
+        "choices": [
+          "413 euros",
+          "434 euros",
+          "455 euros",
+          "378 euros"
+        ],
+        "answerIndex": 1,
+        "explanation": "He pays after 31 August, so only the group discount (5 percent) applies: 420 x 0.95 = 399, plus the 35-euro materials fee = 434 euros."
+      },
+      {
+        "prompt": "Why does Mr. Vidal not receive the larger reduction that Ms. Almeida obtains?",
+        "category": "inference",
+        "choices": [
+          "He took his placement test later than she did",
+          "He settles his payment after the early deadline",
+          "He is attending a different level of the course",
+          "He is not registering together with a colleague"
+        ],
+        "answerIndex": 1,
+        "explanation": "The 10 percent early-registration discount requires payment in full by 31 August; he paid on 5 September, so he receives the 5 percent group discount."
+      },
+      {
+        "prompt": "The word \"allocated\" in the advertisement is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "cancelled",
+          "assigned",
+          "advertised",
+          "postponed"
+        ],
+        "answerIndex": 1,
+        "explanation": "Places being 'allocated in order of payment' means they are given out in that order."
+      },
+      {
+        "prompt": "What is NOT mentioned in the advertisement?",
+        "category": "not_true",
+        "choices": [
+          "Class sizes are limited to twelve students",
+          "Some discounts cannot be added to one another",
+          "Prior learners must sit a test before the course",
+          "Classes may be changed after the second week"
+        ],
+        "answerIndex": 3,
+        "explanation": "The advertisement says refunds are available only until the end of the first week and says nothing about changing classes; the other statements are stated in the text."
+      }
+    ]
+  },
+  {
+    "id": "p7-384",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Rooftop Hives Thrive in Brindle City",
+        "text": "The number of registered rooftop beehives in Brindle City has risen from twelve to forty in just two years, according to a report published this week by the municipal environment office. Hives on office towers, hospitals and a former textile mill produced an average of 18 kilograms of honey last season, compared with 12 kilograms for hives in the surrounding countryside.\n\nThe report credits the city's parks, its many lime trees, and a mild microclimate created by heat from the buildings. It also notes that urban beekeepers are able to monitor their hives more easily, since most are within a short walk of home or work. \"Cities have become surprisingly good places for bees,\" said Dr. Ayesha Karim, who led the study. \"The flowers flower for longer, and there are far fewer pesticides.\"\n\nThe report cautions, however, that rooftop colonies depend on a limited range of plants, and that a long dry spell can leave them short of food. The office plans to offer free training to the thirty new beekeepers who have joined the register since last year."
+      },
+      {
+        "type": "letter",
+        "title": "To the Editor: Rooftop honey",
+        "text": "To the Editor:\n\nYour article on rooftop hives gave the impression that city bees are simply better off than their country cousins. As someone who has kept hives in the hills outside Brindle for twenty years, I would urge some caution. Last season was exceptional for lime blossom, and my own colonies, which average 15 kilograms in an ordinary year, produced 12 only because the spring was so cold. In a dry summer, as the report itself admits, a rooftop hive can starve. I welcome the new beekeepers, and I am happy to offer advice at the training sessions, but a single good season does not prove that the countryside has become a poor home for bees.\n\nWalter Ngata\nGreenhill Apiary"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "By how much did the average yield of urban hives exceed that of rural hives last season?",
+        "category": "detail",
+        "choices": [
+          "By 50 percent",
+          "By 33 percent",
+          "By 6 kilograms",
+          "By 30 percent"
+        ],
+        "answerIndex": 0,
+        "explanation": "Urban hives produced 18 kilograms against 12 for rural ones: the difference of 6 kilograms is 50 percent of 12."
+      },
+      {
+        "prompt": "What is the main point of Mr. Ngata's letter?",
+        "category": "main_idea",
+        "choices": [
+          "Beekeepers in the countryside should receive training",
+          "Rooftop hives should not be permitted in the city",
+          "One good season does not prove cities are better",
+          "The municipal report contains several factual errors"
+        ],
+        "answerIndex": 2,
+        "explanation": "He welcomes the new beekeepers but says last season was exceptional and urges caution about concluding that urban hives do better."
+      },
+      {
+        "prompt": "What does Mr. Ngata imply about his own colonies?",
+        "category": "inference",
+        "choices": [
+          "They suffered from a lack of flowers during the summer",
+          "They are located in an area with fewer lime trees",
+          "Their output last season was below their usual level",
+          "They produce more honey than rooftop hives in general"
+        ],
+        "answerIndex": 2,
+        "explanation": "He says his hives average 15 kilograms in an ordinary year but produced only 12 last season because the spring was cold."
+      },
+      {
+        "prompt": "The word \"cautions\" in the article is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "forbids",
+          "promises",
+          "denies",
+          "warns"
+        ],
+        "answerIndex": 3,
+        "explanation": "To say that the report 'cautions' that colonies may go short of food is to warn of the risk."
+      },
+      {
+        "prompt": "What is NOT true according to the article?",
+        "category": "not_true",
+        "choices": [
+          "Rooftop hives are easy for their keepers to reach",
+          "Rooftop hives have been banned from several hospitals",
+          "The number of hives in the city has more than tripled",
+          "Beekeepers will be offered training free of charge"
+        ],
+        "answerIndex": 1,
+        "explanation": "Hospitals are cited as sites of hives, not as banning them. Forty is more than three times twelve, and the training is free."
+      }
+    ]
+  },
+  {
+    "id": "p7-385",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Office move: Monday 17 November",
+        "text": "To: All staff\nFrom: Facilities Management\nSubject: Office move to 80 Quay Street\n\nOur offices will move to 80 Quay Street over the weekend of 15 and 16 November, and the new premises will open on Monday 17 November. Packing boxes will be delivered to each floor on Monday 3 November. Each employee is responsible for packing personal items and must label every box with a name and a desk number. Computers will be disconnected and moved by the IT department; staff should not pack them. Packing deadlines for each department are shown in the attached timetable. Boxes that are not ready by the deadline will not be moved on the first day and will have to be collected from the old building at the employee's own expense."
+      },
+      {
+        "type": "schedule",
+        "title": "Moving timetable",
+        "text": "MOVING TIMETABLE\n\nDepartment / Floor at old office / Packing deadline / Floor at new office\n\nFinance / Floor 2 / Wednesday 12 November, 17:00 / Floor 4\nMarketing / Floor 3 / Thursday 13 November, 17:00 / Floor 2\nHuman Resources / Floor 1 / Thursday 13 November, 17:00 / Floor 4\nSales / Floors 1 and 3 / Friday 14 November, 12:00 / Floor 1\nIT / Basement / Not applicable (moves equipment on Saturday 15 November) / Floor 3\n\nNote: The lifts at the old office will be out of service on Friday 14 November after 12:00. Please carry personal belongings home rather than use the stairs with heavy boxes."
+      },
+      {
+        "type": "online_chat",
+        "title": "Facilities help chat",
+        "text": "Dana Pruitt (Marketing): Hello. My team works on the third floor, and I will be on a business trip until Friday 14 November. Do I need to pack before I leave?\nFacilities: Hello Dana. Your department's deadline is the day before, so yes, your box must be ready by then. Alternatively, a colleague can pack your things on your behalf.\nDana Pruitt (Marketing): Thanks. And where will we be sitting on the 17th?\nFacilities: Marketing has been assigned to the second floor. Your new desk number will be sent to you by e-mail next week.\nDana Pruitt (Marketing): One more thing. My computer has a second monitor. Will that be moved?\nFacilities: Yes, the IT department moves all screens together with the computers."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the memo?",
+        "category": "purpose",
+        "choices": [
+          "To ask staff to vote on the date of the move",
+          "To announce the closure of two departments",
+          "To explain how to use the new building's lifts",
+          "To tell staff when and how the move happens"
+        ],
+        "answerIndex": 3,
+        "explanation": "The memo gives dates, packing instructions, responsibilities and consequences for the move to 80 Quay Street."
+      },
+      {
+        "prompt": "By when must Ms. Pruitt's box be packed?",
+        "category": "detail",
+        "choices": [
+          "Thursday 13 November at 17:00",
+          "Friday 14 November at 12:00",
+          "Wednesday 12 November at 17:00",
+          "Saturday 15 November"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ms. Pruitt works in Marketing, whose packing deadline is Thursday 13 November at 17:00."
+      },
+      {
+        "prompt": "Why does the schedule advise staff to carry belongings home on Friday afternoon?",
+        "category": "inference",
+        "choices": [
+          "The offices will be closed to staff over the weekend",
+          "Boxes cannot be moved between floors without lifts",
+          "Staff are not allowed to leave boxes on any floor",
+          "The IT department will need the space on Friday"
+        ],
+        "answerIndex": 1,
+        "explanation": "The lifts will be out of service after 12:00 on Friday, and the note warns against carrying heavy boxes on the stairs."
+      },
+      {
+        "prompt": "What is NOT true of the move?",
+        "category": "not_true",
+        "choices": [
+          "Marketing will move to a different floor",
+          "Late boxes will not be moved on the first day",
+          "Employees must pack their own computers",
+          "Staff must label each of their boxes"
+        ],
+        "answerIndex": 2,
+        "explanation": "The memo states that computers will be moved by the IT department and that staff should not pack them. Marketing goes from Floor 3 to Floor 2, and the other statements are in the memo."
+      },
+      {
+        "prompt": "Where will Ms. Pruitt's department be located on 17 November?",
+        "category": "detail",
+        "choices": [
+          "On the third floor of the new building",
+          "On the second floor of the new building",
+          "On the first floor of the new building",
+          "On the fourth floor of the new building"
+        ],
+        "answerIndex": 1,
+        "explanation": "The schedule shows Marketing moving to Floor 2, and the chat confirms that Marketing has been assigned to the second floor."
+      }
+    ]
+  },
+  {
+    "id": "p7-386",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Riverside Clean-Up Volunteers",
+        "text": "RIVERSIDE CLEAN-UP VOLUNTEERS | Join us this spring\n\nEvery Saturday from April to June, volunteers gather along the river path to collect litter, plant native shrubs and record the wildlife they see. Each shift lasts four hours, from 9:00 to 13:00, and tools, gloves and refreshments are provided.\n\nWho can take part? Volunteers must be at least 16 years old. Those aged 16 or 17 need written consent from a parent or guardian, which can be uploaded when registering. Groups of ten or more must book at least two weeks in advance so that we can assign a team leader.\n\nTraining: all new volunteers must attend a 90-minute safety briefing before their first shift. Briefings are held on the first Saturday of each month at 8:00 and last until 9:30. Waterproof clothing is recommended, and shifts go ahead in all but the worst weather. Parking is limited, so we suggest cycling or taking the number 12 bus to the Ferry Road stop, a five-minute walk from the meeting point.\n\nRecognition: anyone completing three shifts will receive a certificate, and those completing ten will be invited to our annual celebration dinner."
+      },
+      {
+        "type": "email",
+        "title": "A group from Hilltop School",
+        "text": "To: Riverside Clean-Up Volunteers\nFrom: Nadia Fournier, Geography Teacher, Hilltop School\nSubject: A group from Hilltop School\n\nDear volunteers,\n\nI teach geography at Hilltop School and would like to bring a group of twelve students to your clean-up on Saturday 9 May. Most of them are seventeen, but two are fifteen. I would accompany them, along with a colleague. I should like to know whether the younger students may attend, and whether a single briefing would suffice for the whole group. I understand that it is already 20 April. I appreciate that this is short notice and will understand if it is impossible. Also, the students would need to leave by 12:00 for a sports fixture, so I wonder whether a shorter shift might be possible.\n\nYours sincerely,\nNadia Fournier"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is probably true about the two fifteen-year-old students?",
+        "category": "inference",
+        "choices": [
+          "They may attend if a teacher is present",
+          "They need consent from their school",
+          "They may join only for part of the shift",
+          "They are too young to join the clean-up"
+        ],
+        "answerIndex": 3,
+        "explanation": "Volunteers must be at least 16 years old; a teacher's presence or school consent does not change the minimum age."
+      },
+      {
+        "prompt": "When could the students attend the briefing required before the clean-up?",
+        "category": "inference",
+        "choices": [
+          "On Saturday 25 April",
+          "On Saturday 9 May",
+          "On Saturday 2 May",
+          "On Saturday 6 June"
+        ],
+        "answerIndex": 2,
+        "explanation": "Briefings are held on the first Saturday of each month. Since 9 May is a Saturday, the first Saturday of May is 2 May, the only briefing before the clean-up (the next would be in June, after the spring programme)."
+      },
+      {
+        "prompt": "The word \"consent\" in the web page is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "permission",
+          "supervision",
+          "payment",
+          "evidence"
+        ],
+        "answerIndex": 0,
+        "explanation": "Written consent from a parent or guardian means written permission."
+      },
+      {
+        "prompt": "What is NOT true according to the web page?",
+        "category": "not_true",
+        "choices": [
+          "Training takes place before the first shift",
+          "A certificate is awarded after three shifts",
+          "Volunteers record the wildlife that they see",
+          "Volunteers must bring their own gloves"
+        ],
+        "answerIndex": 3,
+        "explanation": "Tools, gloves and refreshments are provided. The other statements all appear on the page."
+      },
+      {
+        "prompt": "What is the main purpose of Ms. Fournier's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To apply for a post as a team leader",
+          "To report an accident during a past clean-up",
+          "To ask if a school party can take part",
+          "To propose a new location for the event"
+        ],
+        "answerIndex": 2,
+        "explanation": "She asks whether the younger students may attend, whether one briefing is enough, and whether a shorter shift is possible."
+      }
+    ]
+  },
+  {
+    "id": "p7-387",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Tasty food, tiring wait",
+        "text": "Three stars out of five\n\nWe visited Marguerite's Kitchen last Saturday to celebrate my mother's birthday. The food was superb: the lamb was tender, and the chef accommodated my mother's gluten allergy with a delicious dessert that she had not expected to be able to eat. However, we had booked a table for eight o'clock and were not seated until twenty to nine, and the staff offered no explanation or apology. By the time the main courses arrived, it was past ten, and two of our guests, who were travelling by train, had to leave before dessert. A drink on the house would have made a world of difference. I will return, but only if the restaurant improves its handling of reservations."
+      },
+      {
+        "type": "email",
+        "title": "Re: Your recent visit",
+        "text": "To: Mr. Okafor\nFrom: Marguerite Duval, Owner, Marguerite's Kitchen\nSubject: Re: Your recent visit\n\nDear Mr. Okafor,\n\nThank you for your review, which I read with real regret. Saturday was unusually busy: a large party that had booked for six o'clock stayed until well after eight, and we should have told you about the delay as soon as you arrived. That was our failure. I would like to make amends. Please accept the enclosed voucher for a complimentary three-course meal for two, valid until 31 January, and use our new online booking system, which sends a message if a table is delayed.\n\nWith apologies,\nMarguerite Duval"
+      },
+      {
+        "type": "web_page",
+        "title": "Reservation policy",
+        "text": "MARGUERITE'S KITCHEN | Reservation policy\n\nTables are held for 15 minutes after the booked time. If your table is not ready within 20 minutes of your reservation, a drink will be offered to every guest while you wait.\n\nOnline bookings are confirmed immediately. If a delay of more than 10 minutes is expected, we will send a text message to the number provided.\n\nVouchers are not valid on Friday or Saturday evenings and cannot be exchanged for cash. A voucher can be used by up to two guests only.\n\nThis policy takes effect on 1 December."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What was the main cause of Mr. Okafor's dissatisfaction?",
+        "category": "main_idea",
+        "choices": [
+          "The dessert did not suit his mother's dietary needs",
+          "He was kept waiting for a table without being told why",
+          "The food was served at the wrong temperature",
+          "He was overcharged for a drink that he had not ordered"
+        ],
+        "answerIndex": 1,
+        "explanation": "He praises the food but complains that the table was not ready until twenty to nine and that the staff offered no explanation or apology."
+      },
+      {
+        "prompt": "According to Ms. Duval, why was Mr. Okafor's table delayed?",
+        "category": "detail",
+        "choices": [
+          "A member of kitchen staff had failed to arrive",
+          "The online booking system had broken down",
+          "Several customers had cancelled their reservations",
+          "A larger group had stayed beyond its booked time"
+        ],
+        "answerIndex": 3,
+        "explanation": "She says a large party booked for six o'clock stayed until well after eight."
+      },
+      {
+        "prompt": "What can be inferred about the policy described on the web page?",
+        "category": "inference",
+        "choices": [
+          "It was in force on the evening of Mr. Okafor's visit",
+          "It was probably prompted by complaints like this one",
+          "It abolishes the use of reservations at weekends",
+          "It applies only to customers who book online"
+        ],
+        "answerIndex": 1,
+        "explanation": "The policy takes effect on 1 December and deals with exactly the problems Mr. Okafor describes (delays and no explanation); the owner's apology and mention of a new system suggest it was prompted by such cases."
+      },
+      {
+        "prompt": "On which evenings could Mr. Okafor NOT use his voucher?",
+        "category": "not_true",
+        "choices": [
+          "On weekday evenings in December",
+          "After the end of January",
+          "On Fridays and Saturdays",
+          "When he dines with a guest"
+        ],
+        "answerIndex": 2,
+        "explanation": "The web page excludes Friday and Saturday evenings from voucher use. The voucher is valid for two guests and until 31 January."
+      },
+      {
+        "prompt": "The phrase \"make amends\" in the e-mail is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "change the menu",
+          "apologise to the staff",
+          "make up for the fault",
+          "raise the prices"
+        ],
+        "answerIndex": 2,
+        "explanation": "To 'make amends' is to do something to repair a fault, here by offering a free meal."
+      }
+    ]
+  },
+  {
+    "id": "p7-388",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Claim approved: Policy HM-5521",
+        "text": "Westbridge Home Insurance\n14 March\n\nDear Mr. Lindgren,\n\nThank you for submitting your claim following the break-in at your house on 2 March. We are pleased to confirm that the claim has been accepted.\n\nPlease note the following terms. We will pay the eligible costs of repairs and replacement, less the excess. The excess on your policy is 250 euros or 10 percent of the eligible costs, whichever is greater. Cleaning costs and costs incurred for convenience are not eligible. Payment will be made by bank transfer within ten working days of the date of this letter.\n\nIf you believe any part of your claim has been assessed incorrectly, you may appeal in writing within 30 days of the date of this letter.\n\nYours sincerely,\nHelena Brandt\nClaims Department\n\nFor your information, the break-in has been recorded on your file, and the reference CL-20931 should be quoted in all correspondence. We recommend that you fit a deadlock to the front door, since doing so may reduce your premium at renewal by up to 8 percent. Our survey team will contact you only if they need to inspect the damage."
+      },
+      {
+        "type": "form",
+        "title": "Claim form",
+        "text": "CLAIM FORM | Policy HM-5521\n\nPolicyholder: Anders Lindgren\nDate of incident: 2 March\nType: Burglary\n\nItem / Cost (euros)\nReplacement of ground-floor window: 1,480\nRepair of damaged flooring: 720\nEmergency locksmith: 150\nProfessional cleaning after the incident: 180\n\nTotal claimed: 2,530\n\nDescription of events: On returning from a trip on the evening of 2 March, I found that the ground-floor window had been forced and that the lock on the back door had been broken. Nothing of value was taken, but the flooring beneath the window was damaged by rain that night. The police were informed (crime reference 77-4410).\n\nDeclaration: I confirm that the above information is correct.\nSigned: A. Lindgren, 5 March"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much will Mr. Lindgren receive from the insurer?",
+        "category": "detail",
+        "choices": [
+          "2,350 euros",
+          "2,100 euros",
+          "2,277 euros",
+          "2,280 euros"
+        ],
+        "answerIndex": 1,
+        "explanation": "Eligible costs are 2,530 - 180 (cleaning) = 2,350 euros. The excess is the greater of 250 and 10 percent (235), so 250. The payment is 2,350 - 250 = 2,100 euros."
+      },
+      {
+        "prompt": "Why is the cleaning cost not reimbursed?",
+        "category": "inference",
+        "choices": [
+          "It was claimed after the deadline had passed",
+          "It was not supported by a receipt",
+          "It was lower than the excess",
+          "The policy excludes costs of that kind"
+        ],
+        "answerIndex": 3,
+        "explanation": "The letter says that 'cleaning costs ... are not eligible'."
+      },
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To ask a customer to provide further details",
+          "To tell a customer the result of a claim",
+          "To invite a customer to renew a policy",
+          "To announce a change to an excess"
+        ],
+        "answerIndex": 1,
+        "explanation": "The insurer confirms that the claim was accepted and sets out how the payment will be calculated."
+      },
+      {
+        "prompt": "What can Mr. Lindgren do if he disagrees with the assessment?",
+        "category": "detail",
+        "choices": [
+          "Appeal in writing within 30 days of the letter",
+          "Telephone the claims team within ten working days",
+          "Ask for a new assessment once payment is made",
+          "Submit a second claim form with higher amounts"
+        ],
+        "answerIndex": 0,
+        "explanation": "The letter says that he 'may appeal in writing within 30 days of the date of this letter'."
+      },
+      {
+        "prompt": "The word \"excess\" in the letter is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "an additional bonus payment offered",
+          "the sum the customer pays first",
+          "a penalty for late filing",
+          "the total value of the claim"
+        ],
+        "answerIndex": 1,
+        "explanation": "In insurance, the excess is the amount the policyholder pays toward a claim before the insurer pays the rest."
+      }
+    ]
+  }
+]

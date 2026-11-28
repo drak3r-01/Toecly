@@ -1,0 +1,479 @@
+[
+  {
+    "id": "p7-389",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Nordair: Baggage Allowance",
+        "text": "NORDAIR: BAGGAGE ALLOWANCE\n\nEach passenger may check one bag of up to 23 kg free of charge and carry one cabin bag of up to 8 kg. Additional checked bags are charged at 60 euros each when added at the airport and 45 euros when added online at least 24 hours before departure. A bag weighing between 23 kg and 32 kg incurs an overweight fee of 12 euros for each kilogram above 23 kg, regardless of the fare or the time of payment; bags over 32 kg are not accepted.\n\nSports equipment and musical instruments count as checked bags, except that one violin-sized instrument may be carried in the cabin if it fits under the seat. Passengers travelling on Flex fares receive two free checked bags.\n\nFees paid at the airport are not refundable unless they were charged as the result of an error by airline staff. Passengers who are unsure which fare they hold should check their booking confirmation, which lists the baggage included in the price."
+      },
+      {
+        "type": "email",
+        "title": "Baggage charges on flight NO 218",
+        "text": "To: Nordair Customer Care\nFrom: Kenji Tanaka\nSubject: Baggage charges on flight NO 218\n\nDear Sir or Madam,\n\nOn 3 November I flew from Oslo to Lisbon on flight NO 218. At the airport I was charged 120 euros for baggage: 60 euros for a second checked bag and 60 euros for the weight of my first bag, which the scales showed to be 28 kg. I had purchased a Flex fare, as shown on my booking confirmation, and the agent at the desk did not appear to believe me. I would like a full refund of the 120 euros.\n\nSincerely,\nKenji Tanaka"
+      },
+      {
+        "type": "email",
+        "title": "Re: Baggage charges on flight NO 218",
+        "text": "To: Kenji Tanaka\nFrom: Sigrid Holm, Customer Care\nSubject: Re: Baggage charges on flight NO 218\n\nDear Mr. Tanaka,\n\nThank you for contacting us, and please accept our apologies for the inconvenience. We have examined your booking, which confirms that you travelled on a Flex fare. Your second bag should therefore have been carried free of charge, and the airport charge for it was an error on the part of our agent. We will refund that amount to your card within seven working days.\n\nI regret that we cannot refund the second charge. The overweight fee applies to every fare, and your first bag exceeded the limit by five kilograms.\n\nWith kind regards,\nSigrid Holm"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What was the main purpose of Mr. Tanaka's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To ask for baggage fees to be returned to him",
+          "To complain about the delay of his flight",
+          "To dispute the weight recorded for his cabin bag",
+          "To ask whether he may carry an instrument"
+        ],
+        "answerIndex": 0,
+        "explanation": "He says he was charged 120 euros wrongly and asks for a full refund."
+      },
+      {
+        "prompt": "How much will Nordair refund to Mr. Tanaka?",
+        "category": "detail",
+        "choices": [
+          "120 euros",
+          "60 euros",
+          "45 euros",
+          "15 euros"
+        ],
+        "answerIndex": 1,
+        "explanation": "The second-bag charge of 60 euros was an error because Flex fares include two free bags. The overweight fee of 5 kg x 12 = 60 euros was correct and is not refunded."
+      },
+      {
+        "prompt": "Why is the overweight fee not refunded?",
+        "category": "inference",
+        "choices": [
+          "It was paid online rather than at the airport",
+          "It is charged on every fare, Flex included",
+          "It was caused by an error made by the agent",
+          "It was lower than the minimum amount refundable"
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice states the overweight fee applies 'regardless of the fare', so Flex passengers must pay it too."
+      },
+      {
+        "prompt": "The word \"additional\" in the notice is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "optional",
+          "extra",
+          "smaller",
+          "previous"
+        ],
+        "answerIndex": 1,
+        "explanation": "Additional checked bags are bags carried over and above the free allowance."
+      },
+      {
+        "prompt": "What is NOT true about Mr. Tanaka's journey?",
+        "category": "not_true",
+        "choices": [
+          "He travelled from Oslo to Lisbon",
+          "His first bag weighed more than the free limit",
+          "His fare was higher than a basic economy fare",
+          "He was entitled to only one free checked bag"
+        ],
+        "answerIndex": 3,
+        "explanation": "A Flex fare gives two free checked bags, so his entitlement was not limited to one. His bag weighed 28 kg (limit 23 kg)."
+      }
+    ]
+  },
+  {
+    "id": "p7-390",
+    "documents": [
+      {
+        "type": "text_message",
+        "title": "Messages with Ahmed Saleh, Veloce Logistics",
+        "text": "Ahmed Saleh: Lena, bad news about order 7714. The container is held at Port Halden. Customs have flagged one pallet for inspection, and the whole container stays put until they are done.\nLena Vogel: How long will that take?\nAhmed Saleh: Typically five to eight working days. If nothing is found, it is released the same day. Best case, your new arrival date is 12 December.\nLena Vogel: That is after our promotional week, which starts on 8 December.\nAhmed Saleh: I know. The container is sealed, so I cannot release the other pallets. What I can do is air-freight 40 of the 200 units from the supplier's warehouse, which would arrive on 5 December. The cost would be 1,900 euros.\nLena Vogel: I will check with my manager and let you know today."
+      },
+      {
+        "type": "email",
+        "title": "Order 7714: options",
+        "text": "To: Ivan Petrov, Head of Retail\nFrom: Lena Vogel, Purchasing\nSubject: Order 7714: options\n\nIvan,\n\nOur shipment of 200 kettles is delayed at customs and will not arrive before 12 December at the earliest, which is after our promotion begins. Ahmed has also confirmed that any inspection fee will be borne by the supplier, not by us. He has offered to fly 40 units in by 5 December for 1,900 euros. The kettles sell at 55 euros each during the promotion and cost us 31 euros each, so we would make a margin of 24 euros per unit, before freight.\n\nAs I see it, we have three choices: wait and run the promotion on other products for the first week; air-freight 40 units and sell them in the first days; or move the promotion back by a week. The third option would require us to renegotiate the advertising space we have already booked. I would recommend the first or third, since the margin on 40 kettles would not cover the freight cost.\n\nLena"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does Ms. Vogel say about the air-freight option?",
+        "category": "inference",
+        "choices": [
+          "Forty kettles would earn less than the freight costs",
+          "It would deliver all 200 kettles before the promotion",
+          "It would be cheaper than waiting for the container",
+          "It depends on a decision that customs has not made"
+        ],
+        "answerIndex": 0,
+        "explanation": "Forty units at a margin of 24 euros give 960 euros, which is less than the 1,900-euro freight cost."
+      },
+      {
+        "prompt": "Why is the delay a problem for Ms. Vogel's company?",
+        "category": "detail",
+        "choices": [
+          "Customs has refused to release the goods",
+          "The supplier cannot deliver the units on time",
+          "The kettles arrive after the promotion starts",
+          "The advertising has not yet been booked"
+        ],
+        "answerIndex": 2,
+        "explanation": "The earliest arrival is 12 December, whereas the promotion begins on 8 December."
+      },
+      {
+        "prompt": "What does Mr. Saleh's message imply about the pallets in the container?",
+        "category": "inference",
+        "choices": [
+          "They have all been returned to the supplier",
+          "They will be inspected one at a time",
+          "They cannot be sent on until the inspection is over",
+          "They have been replaced by pallets from another order"
+        ],
+        "answerIndex": 2,
+        "explanation": "The container is sealed and 'stays put until they are done' with the flagged pallet, so the other pallets cannot be released separately."
+      },
+      {
+        "prompt": "The phrase \"best case\" in the text messages is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "average situation",
+          "final decision",
+          "usual length of a delay",
+          "most hopeful result"
+        ],
+        "answerIndex": 3,
+        "explanation": "Mr. Saleh says that if nothing is found, 12 December is the earliest and so most favourable date."
+      },
+      {
+        "prompt": "What is NOT mentioned among the choices that Ms. Vogel sets out?",
+        "category": "not_true",
+        "choices": [
+          "Delaying the start of the promotion",
+          "Cancelling the order with the supplier",
+          "Selling other goods during the first week",
+          "Flying in part of the shipment"
+        ],
+        "answerIndex": 1,
+        "explanation": "Her three choices are to wait and promote other products, to air-freight 40 units, or to move the promotion back; cancelling the order is not discussed."
+      }
+    ]
+  },
+  {
+    "id": "p7-391",
+    "documents": [
+      {
+        "type": "letter",
+        "title": "Offer of a place",
+        "text": "University of Westmark\nAdmissions Office\n\nDear Ms. Okoro,\n\nWe are delighted to offer you a place on the BSc Environmental Science programme beginning on 21 September. The offer is conditional on your achieving grades of AAB in your final examinations and providing evidence of English language proficiency if requested.\n\nTuition for the first year is 9,200 euros. To accept the offer, please confirm by 15 May through the applicant portal. Applicants who have accepted the offer and who apply for university accommodation by 1 June are guaranteed a room; applications received after that date will be placed on a waiting list. Accommodation fees are charged for the 36-week academic year, in three equal instalments.\n\nPlease note that all offers are subject to the University's standard terms and conditions, which are available on our website. We look forward to welcoming you.\n\nYours sincerely,\nDr. Paul Reiner"
+      },
+      {
+        "type": "form",
+        "title": "Accommodation application",
+        "text": "UNIVERSITY OF WESTMARK: ACCOMMODATION APPLICATION\n\nApplicant: Chiamaka Okoro\nProgramme: BSc Environmental Science\nDate of acceptance of offer: 12 May\nDate of this application: 2 June\n\nRoom type requested (first choice): Single en-suite, 175 euros per week\nRoom type (second choice): Standard single, 150 euros per week\nBudget for accommodation: up to 6,000 euros for the year\nSpecial requirements: ground floor, because of a mobility issue"
+      },
+      {
+        "type": "email",
+        "title": "Your accommodation application",
+        "text": "To: Chiamaka Okoro\nFrom: Student Housing, University of Westmark\nSubject: Your accommodation application\n\nDear Ms. Okoro,\n\nThank you for your application, which we received on 2 June. As it arrived after the guarantee deadline, we cannot at present confirm a room, and you have been placed on our waiting list. Because you have a mobility requirement, however, your application has been given priority within the list, and we expect to make an offer in July. The en-suite rooms are in great demand, so you may wish to consider the standard room, which would also bring the total within your stated budget.\n\nKind regards,\nStudent Housing"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the e-mail from Student Housing?",
+        "category": "purpose",
+        "choices": [
+          "To announce a rise in accommodation fees",
+          "To confirm that a room has now been reserved",
+          "To invite applicants to visit the new halls",
+          "To explain what happens to her application"
+        ],
+        "answerIndex": 3,
+        "explanation": "The e-mail says that the application arrived late, that Ms. Okoro is on a waiting list, and what the chances are."
+      },
+      {
+        "prompt": "Why can Student Housing not confirm a room for Ms. Okoro at present?",
+        "category": "inference",
+        "choices": [
+          "Her application arrived after the guarantee date",
+          "She has not accepted the offer of a place",
+          "The rooms she requested are not on the ground floor",
+          "Her budget is lower than the cost of any room"
+        ],
+        "answerIndex": 0,
+        "explanation": "The guarantee applies to applications made by 1 June; hers was dated 2 June."
+      },
+      {
+        "prompt": "How much more would the en-suite room cost than the standard room for the year?",
+        "category": "detail",
+        "choices": [
+          "25 euros",
+          "900 euros",
+          "1,125 euros",
+          "300 euros"
+        ],
+        "answerIndex": 1,
+        "explanation": "The difference is 25 euros a week over a 36-week year: 25 x 36 = 900 euros."
+      },
+      {
+        "prompt": "Why does Student Housing suggest the standard room?",
+        "category": "inference",
+        "choices": [
+          "It is the only type with ground-floor rooms",
+          "It is the only type that is still available",
+          "It would keep her costs within her budget",
+          "It is cheaper than the tuition fees"
+        ],
+        "answerIndex": 2,
+        "explanation": "The standard room costs 150 x 36 = 5,400 euros, within her 6,000-euro budget, whereas the en-suite costs 175 x 36 = 6,300."
+      },
+      {
+        "prompt": "What is NOT true about Ms. Okoro?",
+        "category": "not_true",
+        "choices": [
+          "She has a mobility requirement",
+          "She accepted the offer after the deadline had passed",
+          "She has been given some priority on the waiting list",
+          "She applied for accommodation on 2 June"
+        ],
+        "answerIndex": 1,
+        "explanation": "She accepted on 12 May, before the 15 May deadline. The other statements are in the form or the e-mail."
+      }
+    ]
+  },
+  {
+    "id": "p7-392",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Minimum Wage to Rise by 7 Percent",
+        "text": "The national minimum wage will rise on 1 April from 11.40 euros to 12.20 euros an hour, the government announced yesterday, an increase of about 7 percent. The rate for workers under 21 will rise from 8.80 to 9.40 euros. The measure, which follows a year in which consumer prices rose by 4.5 percent, is expected to benefit around 1.6 million employees.\n\nBusiness groups gave the announcement a mixed reception. The hospitality federation warned that restaurants and hotels, which employ the largest proportion of minimum-wage workers, would have little choice but to raise prices or reduce hours. Union leaders argued that the increase merely restores purchasing power eroded by inflation, and the finance minister said that the government would review the impact on employment after six months.\n\nEconomists note that when the minimum wage rises, employers often also raise the pay of staff slightly above the minimum, in order to preserve differences between jobs. Whether that happens this time will depend on how tight the labour market is."
+      },
+      {
+        "type": "memo",
+        "title": "Pay review from 1 April",
+        "text": "To: All restaurant managers\nFrom: Finance Director, Harbour Dining Group\nSubject: Pay review from 1 April\n\nIn light of the announced increase in the minimum wage, hourly pay for all staff will be reviewed from 1 April. Current rates are: kitchen assistant 11.40 euros; server 11.80 euros; senior server 12.60 euros; team leader 14.20 euros.\n\nAnyone whose rate would otherwise fall below the new minimum will be raised to it. We have also decided that team leaders will receive a 3 percent increase, to preserve their margin over other staff. No change will be made to senior servers' rates for the time being. Managers should not discuss these changes with staff before the formal announcement on 10 March.\n\nFor budgeting: we employ 18 kitchen assistants and 40 servers across all sites, each working about 25 hours a week on average."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does the article suggest that employers may do after a minimum-wage rise?",
+        "category": "inference",
+        "choices": [
+          "Replace permanent staff with younger workers",
+          "Ask the government for lower taxes on salaries",
+          "Ban hospitality workers from working long hours",
+          "Raise wages for some jobs above the minimum"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article notes that employers often raise the pay of staff slightly above the minimum 'to preserve differences between jobs'."
+      },
+      {
+        "prompt": "Which groups of employees at Harbour Dining Group will be raised only to the new minimum?",
+        "category": "detail",
+        "choices": [
+          "Servers and senior servers",
+          "Senior servers and team leaders",
+          "Kitchen assistants and servers",
+          "Only kitchen assistants"
+        ],
+        "answerIndex": 2,
+        "explanation": "Kitchen assistants (11.40) and servers (11.80) are below 12.20 and will be raised to it; senior servers (12.60) are unaffected and team leaders get 3 percent."
+      },
+      {
+        "prompt": "How much more will Harbour Dining Group pay each week for its servers and kitchen assistants combined?",
+        "category": "detail",
+        "choices": [
+          "760 euros",
+          "1,520 euros",
+          "400 euros",
+          "360 euros"
+        ],
+        "answerIndex": 0,
+        "explanation": "Kitchen assistants: 18 x (12.20 - 11.40) x 25 = 360 euros. Servers: 40 x (12.20 - 11.80) x 25 = 400 euros. Total: 760 euros."
+      },
+      {
+        "prompt": "The word \"eroded\" in the article is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "suddenly raised",
+          "carefully measured",
+          "fully restored",
+          "gradually reduced"
+        ],
+        "answerIndex": 3,
+        "explanation": "Union leaders say that inflation has slowly reduced the purchasing power of wages."
+      },
+      {
+        "prompt": "What can be inferred about senior servers at the group?",
+        "category": "inference",
+        "choices": [
+          "Their pay will be lower than the minimum",
+          "Their pay will soon be increased by 3 percent",
+          "Their pay will be just above the new minimum",
+          "Their pay is the highest in the company"
+        ],
+        "answerIndex": 2,
+        "explanation": "Their rate stays at 12.60, only 0.40 above the new minimum of 12.20."
+      }
+    ]
+  },
+  {
+    "id": "p7-393",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Apartment to let: Weaver Street",
+        "text": "TO LET | Weaver Street | Two-bedroom apartment\n\nBright second-floor apartment close to the station, with a fitted kitchen, balcony and shared garden. Available from 1 February.\n\nRent: 1,150 euros per month. Service charge: 90 euros per month, covering heating, water and building maintenance.\nDeposit: two months' rent (the service charge is excluded), refundable at the end of the lease.\nAt signing, the tenant pays the deposit together with the first month's rent and service charge.\nMinimum lease: 12 months. No pets. Smoking is not permitted anywhere in the building. The basement has a bicycle store and a laundry room that residents may use free of charge.\n\nViewings are by appointment on weekdays from 17:00 to 19:00. Please contact the agent, Rosalind Pike."
+      },
+      {
+        "type": "email",
+        "title": "Weaver Street apartment",
+        "text": "To: Rosalind Pike\nFrom: Daniel Cole\nSubject: Weaver Street apartment\n\nDear Ms. Pike,\n\nMy wife and I are very interested in the apartment on Weaver Street. We would like to view it this Friday if possible. We would also prefer to move in on 15 January rather than 1 February, since our current lease ends then and we would otherwise need temporary housing. Finally, we have a small dog, which is very quiet and well trained, and I wonder whether the owner might make an exception.\n\nBest regards,\nDaniel Cole"
+      },
+      {
+        "type": "text_message",
+        "title": "Message from Rosalind Pike",
+        "text": "Rosalind Pike: Hello Mr. Cole. Friday at 17:30 is fine for the viewing. As for an earlier move-in, the owner agrees to 15 January, provided you pay the half-month of rent and service charge for the second half of January in addition to the normal payments at signing. Regarding your dog, I am afraid the owner has declined; the no-pets rule is firm because of the damage to the wooden floors in the past. If that is a problem, I have another apartment with a similar rent, which accepts small pets. I can send you the details."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much would the Coles pay at signing if they move in on 15 January?",
+        "category": "detail",
+        "choices": [
+          "3,540 euros",
+          "4,160 euros",
+          "2,300 euros",
+          "4,810 euros"
+        ],
+        "answerIndex": 1,
+        "explanation": "Deposit: 2 x 1,150 = 2,300. First month: 1,150 + 90 = 1,240. Half of January: 575 + 45 = 620. Total: 2,300 + 1,240 + 620 = 4,160 euros."
+      },
+      {
+        "prompt": "Why has the owner refused to allow the dog?",
+        "category": "detail",
+        "choices": [
+          "The building is already full of other animals",
+          "The garden is shared with the neighbours",
+          "The lease is shorter than a year",
+          "Pets have damaged the floors in the past"
+        ],
+        "answerIndex": 3,
+        "explanation": "Ms. Pike says the rule is firm 'because of the damage to the wooden floors in the past'."
+      },
+      {
+        "prompt": "What does Ms. Pike suggest the Coles do?",
+        "category": "inference",
+        "choices": [
+          "Wait until the owner changes the rule",
+          "Look at an apartment that allows pets",
+          "Sign a longer lease so as to keep the dog",
+          "Rent the apartment without telling the owner"
+        ],
+        "answerIndex": 1,
+        "explanation": "She offers to send details of another apartment with a similar rent that accepts small pets."
+      },
+      {
+        "prompt": "The word \"firm\" in the text message is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "flexible",
+          "recent",
+          "fixed",
+          "harsh"
+        ],
+        "answerIndex": 2,
+        "explanation": "A firm rule is one that cannot be changed or negotiated."
+      },
+      {
+        "prompt": "What is NOT true about the apartment on Weaver Street?",
+        "category": "not_true",
+        "choices": [
+          "Tenants are not allowed to smoke in the building",
+          "Heating and water are covered by the service charge",
+          "The service charge counts towards the deposit",
+          "The minimum length of the lease is a year"
+        ],
+        "answerIndex": 2,
+        "explanation": "The deposit is two months' rent, 'the service charge is excluded'. The other statements are all given in the listing."
+      }
+    ]
+  },
+  {
+    "id": "p7-394",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "PhotoForge 8",
+        "text": "PHOTOFORGE 8 | Professional photo editing, now with AI tools\n\nPrice: 79 euros, one-time purchase. Existing PhotoForge 7 owners can upgrade for 39 euros. Prefer to pay as you go? PhotoForge Plus is available by subscription at 6 euros a month and includes cloud storage and all future updates.\n\nSystem requirements: Windows 10 (64-bit) or newer, or macOS 12 or newer; 8 GB of memory (16 GB recommended); 2 GB of free disk space. The AI features, such as automatic background removal and sky replacement, require a graphics card with at least 4 GB of dedicated memory.\n\nSupport is available by chat from Monday to Friday between 8:00 and 18:00 (Central European Time), and all customers receive free technical help during the first 90 days after purchase. A 14-day free trial is available. Purchases are refundable within 30 days if the software has not been activated on more than one device."
+      },
+      {
+        "type": "online_chat",
+        "title": "PhotoForge support chat",
+        "text": "Customer (Mia): Hello. I own PhotoForge 7 and I am thinking of upgrading. My laptop runs Windows 10 with 8 GB of memory and a graphics card with 2 GB.\nSupport (Tom): Hello Mia. PhotoForge 8 will run on your system, since it meets the minimum requirements. However, the AI features need 4 GB of graphics memory, so they would not be available to you.\nCustomer (Mia): That is a shame, because those are the main reason I wanted to upgrade. Would the subscription be a better choice?\nSupport (Tom): The subscription has the same hardware needs, so it would not change that. It also costs more over time: after a few months it would be more expensive than the upgrade.\nCustomer (Mia): I see. Can I try it first?\nSupport (Tom): Yes, there is a 14-day trial, and you can then decide. If you do buy it and later change your mind, you can request a refund within 30 days, as long as you have installed it on one computer only.\nCustomer (Mia): That is helpful. I only have the one laptop, so I should be able to do that."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why will Mia be unable to use the AI features?",
+        "category": "detail",
+        "choices": [
+          "Her version of Windows is too old",
+          "Her graphics memory is too small",
+          "She has too little free disk space",
+          "She has only a trial licence"
+        ],
+        "answerIndex": 1,
+        "explanation": "The AI features require 4 GB of dedicated graphics memory; Mia's card has 2 GB."
+      },
+      {
+        "prompt": "After how many months would the subscription cost more than the upgrade price?",
+        "category": "detail",
+        "choices": [
+          "After 5 months",
+          "After 14 months",
+          "After 13 months",
+          "After 7 months"
+        ],
+        "answerIndex": 3,
+        "explanation": "The upgrade costs 39 euros; at 6 euros a month the subscription reaches 42 euros after seven months (36 after six)."
+      },
+      {
+        "prompt": "What can be inferred about Mia's likely next step?",
+        "category": "inference",
+        "choices": [
+          "She will immediately buy the full version",
+          "She will probably try the software first",
+          "She will cancel her existing PhotoForge 7 licence",
+          "She will ask for a refund of her upgrade"
+        ],
+        "answerIndex": 1,
+        "explanation": "After being told she can try the software for 14 days, she is left to decide afterwards; she asks 'Can I try it first?'."
+      },
+      {
+        "prompt": "What is the main purpose of the chat?",
+        "category": "main_idea",
+        "choices": [
+          "To help a customer decide on an upgrade",
+          "To report a fault in the new software",
+          "To arrange a refund for a recent purchase",
+          "To explain how to install the update"
+        ],
+        "answerIndex": 0,
+        "explanation": "Mia explains her computer's specifications and asks whether upgrading or subscribing would suit her."
+      },
+      {
+        "prompt": "The word \"dedicated\" in the advertisement is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "extremely expensive to buy",
+          "kept for the graphics card",
+          "recently and greatly improved",
+          "loyal to one brand of cards"
+        ],
+        "answerIndex": 1,
+        "explanation": "Dedicated graphics memory is memory used only by the graphics card rather than shared with the rest of the system."
+      }
+    ]
+  }
+]

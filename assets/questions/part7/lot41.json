@@ -1,0 +1,479 @@
+[
+  {
+    "id": "p7-395",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Maritime Gallery Opens at Harlow Museum",
+        "text": "Harlow Museum will open its long-awaited Maritime Gallery on 4 March, following a two-year renovation of the building's east wing. The centrepiece of the new gallery is a full-size reconstruction of a fourteenth-century cargo ship, assembled from timbers recovered from the harbour during the construction of a new pier. Visitors will be able to walk through the hull and handle replicas of the tools used by the shipwrights.\n\nThe museum is especially keen to attract school parties. Admission for school groups is 8 euros per student. Teachers and other accompanying adults pay 12 euros each, although one adult is admitted free for every ten students. A guided tour, which lasts 45 minutes, can be added for a flat fee of 45 euros per group, and a hands-on workshop for 3 euros per student. Groups that book at least 30 days in advance receive a 10 percent reduction on admission charges only; tours and workshops are not discounted.\n\nDirector Elena Marsh said that the gallery would be \"a place where history can be touched, not just observed\"."
+      },
+      {
+        "type": "email",
+        "title": "Booking for a school visit",
+        "text": "To: Harlow Museum, Group Bookings\nFrom: Peter Anand, Fernhill Secondary School\nSubject: Booking for a school visit\n\nDear Sir or Madam,\n\nI would like to book a visit to the new Maritime Gallery for 25 March. We shall be bringing 38 students from Year 9, accompanied by five adults. We would very much like a guided tour, but the budget does not extend to a workshop. I am writing on 20 February and hope that this gives us enough notice to qualify for any reduction for early booking.\n\nYours faithfully,\nPeter Anand"
+      },
+      {
+        "type": "form",
+        "title": "Booking confirmation",
+        "text": "HARLOW MUSEUM | BOOKING CONFIRMATION\n\nGroup: Fernhill Secondary School\nDate of visit: 25 March, 10:30\nStudents: 38\nAccompanying adults: 5\nGuided tour: yes (45 minutes)\nWorkshop: no\nBooking received: 20 February\nPayment due: seven days before the visit\n\nPlease bring this confirmation with you on the day of the visit."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much will Fernhill Secondary School pay in total?",
+        "category": "detail",
+        "choices": [
+          "340.20 euros",
+          "373.00 euros",
+          "335.70 euros",
+          "295.20 euros"
+        ],
+        "answerIndex": 0,
+        "explanation": "38 students x 8 = 304. Five adults, of whom three enter free (one per ten students), so two pay 12 = 24. Admission: 328, less 10 percent (booking more than 30 days ahead: 20 February to 25 March) = 295.20. Add the 45-euro tour, which is not discounted: 340.20."
+      },
+      {
+        "prompt": "Why does the school qualify for the early-booking reduction?",
+        "category": "inference",
+        "choices": [
+          "The school has more than 30 students in the group",
+          "It was booked over 30 days before the visit",
+          "The booking includes a guided tour",
+          "The visit takes place in the first month after opening"
+        ],
+        "answerIndex": 1,
+        "explanation": "The booking was made on 20 February for a visit on 25 March, which is 33 days later."
+      },
+      {
+        "prompt": "What is NOT true about the Maritime Gallery?",
+        "category": "not_true",
+        "choices": [
+          "The ship is built from timbers found in the harbour",
+          "The reduction applies to tours as well as admission",
+          "Visitors may handle copies of shipwrights' tools",
+          "The gallery was created after a lengthy renovation"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article says that the 10 percent reduction applies to 'admission charges only'. The other statements are in the first paragraph."
+      },
+      {
+        "prompt": "The word \"keen\" in the article is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "reluctant",
+          "eager",
+          "able",
+          "entitled"
+        ],
+        "answerIndex": 1,
+        "explanation": "If the museum is 'especially keen to attract school parties', it is eager to do so."
+      },
+      {
+        "prompt": "What can be inferred about Mr. Anand's group?",
+        "category": "inference",
+        "choices": [
+          "It has been refused a place at the workshop",
+          "It will pay for the tour on the day of the visit",
+          "It is smaller than most school groups",
+          "It has skipped the costlier optional activity"
+        ],
+        "answerIndex": 3,
+        "explanation": "The group wants a tour but not a workshop because 'the budget does not extend to' it, and the form shows the tour but no workshop; payment is due before the visit."
+      }
+    ]
+  },
+  {
+    "id": "p7-396",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Python for Data Analysis",
+        "text": "DATA SKILLS ACADEMY | Python for Data Analysis\n\nAn eight-week online course for beginners. No prior programming experience is required, although familiarity with spreadsheets is recommended. Plan for about five hours of study a week, with a weekly live question-and-answer session with a mentor.\n\nFee: 59 euros per month, billed monthly. Most learners finish in two months. You may cancel at any time, and no further charges will apply.\n\nCertificate: learners who complete all eight modules and the final project may request a certificate of completion for an additional fee of 25 euros.\n\nSupport: learners receive e-mail help within one working day, and a private community forum is open at all hours.\n\nRefunds: if you are not satisfied, you may request a refund within 14 days of your first payment, provided that you have completed less than a quarter of the course content.\n\nCourse modules: spreadsheets and data cleaning; functions and loops; working with tables; visualisation; statistics basics; case studies; final project."
+      },
+      {
+        "type": "review",
+        "title": "Not for true beginners",
+        "text": "Two stars out of five\n\nI signed up three weeks ago, lured by the promise that no programming experience was needed. The first module, on spreadsheets, was easy, but the second module, on functions and loops, assumed that I already knew the basics of coding. I spent nearer twelve hours a week than five, and the live sessions were mostly attended by people who had clearly programmed before. When I asked for a refund on the twentieth day, I was told that the period for requests had passed, even though I had completed barely one module in a half. I am cancelling, but I have already paid 59 euros for the first month and I expect to be charged for the second. On the positive side, the mentor who ran the weekly session was patient and generous with her time, and the downloadable notes are excellent. The content is well made, but the course should be honest about its level."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why was the reviewer refused a refund?",
+        "category": "inference",
+        "choices": [
+          "The request came after the 14-day period",
+          "The reviewer had finished more than a quarter of the course",
+          "The reviewer had not paid the monthly fee",
+          "The reviewer had already requested a certificate"
+        ],
+        "answerIndex": 0,
+        "explanation": "The refund must be requested within 14 days of the first payment; the reviewer asked on the twentieth day."
+      },
+      {
+        "prompt": "What is the reviewer's main criticism of the course?",
+        "category": "main_idea",
+        "choices": [
+          "The mentors answered questions too slowly",
+          "The materials were poorly produced and confusing",
+          "It claims to suit a wider audience than it does",
+          "The fees were higher than those of other courses"
+        ],
+        "answerIndex": 2,
+        "explanation": "The reviewer says the second module assumed coding knowledge and that the course 'should be honest about its level'; the content itself is praised."
+      },
+      {
+        "prompt": "How much would a learner pay to complete the course in two months and obtain the certificate?",
+        "category": "detail",
+        "choices": [
+          "118 euros",
+          "84 euros",
+          "143 euros",
+          "59 euros"
+        ],
+        "answerIndex": 2,
+        "explanation": "Two months at 59 euros = 118 euros, plus the 25-euro certificate fee = 143 euros."
+      },
+      {
+        "prompt": "The word \"lured\" in the review is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "forced into it",
+          "well trained",
+          "gently warned",
+          "attracted"
+        ],
+        "answerIndex": 3,
+        "explanation": "To be 'lured by the promise' is to be drawn in by it."
+      },
+      {
+        "prompt": "What is NOT true about the course according to the web page?",
+        "category": "not_true",
+        "choices": [
+          "It is delivered entirely over the internet",
+          "Learners must stay enrolled for two months",
+          "A certificate is available for an extra fee",
+          "Students are advised to know how to use spreadsheets"
+        ],
+        "answerIndex": 1,
+        "explanation": "The page says that learners 'may cancel at any time' with no further charges. The other statements are supported by the page."
+      }
+    ]
+  },
+  {
+    "id": "p7-397",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Metroline Line 4: Engineering Works",
+        "text": "METROLINE LINE 4: ENGINEERING WORKS\n\nOn Saturday 8 March and Saturday 15 March, no trains will run between Parkside and Eastfield after 20:00. Replacement buses will leave from the Parkside bus stop at 10, 30 and 50 minutes past every hour. The bus journey takes 50 minutes, compared with 25 minutes by train. Tickets remain valid on replacement buses. Passengers who need step-free access can request an accessible bus by calling the helpline at least two hours before travel.\n\nAs an alternative, passengers may take Line 2 from Parkside to Central and change there to Line 6, which will continue to run to Eastfield. This route takes about 65 minutes, including the change at Central. We apologise for any inconvenience and thank passengers for their patience while we upgrade the signalling system."
+      },
+      {
+        "type": "email",
+        "title": "Concert on Saturday 8 March",
+        "text": "To: Tessa Morgan\nFrom: Carlos Mendes\nSubject: Concert on Saturday 8 March\n\nHi Tessa,\n\nI have bought two tickets for the concert at Parkside Hall on Saturday 8 March. The programme begins at 19:30 and, according to the website, finishes at 22:20. As we live in Eastfield, I had planned to go home by train, but I have just seen the notice about the engineering works. Would you like to go anyway? I would hate to waste the tickets, but I do not want us to be stranded late at night. Let me know what you think.\n\nCarlos"
+      },
+      {
+        "type": "text_message",
+        "title": "Tessa Morgan to Carlos Mendes",
+        "text": "Tessa Morgan: Hi Carlos, I read the notice. I still want to go. From the hall it takes 15 minutes to walk to the bus stop and 10 minutes to the Parkside station. If the concert ends at 22:20 and we leave straight away, we could catch the replacement bus, which would get us home before midnight. Please check that the last bus is not before then. I would rather take the bus than pay for a taxi, which would cost about 60 euros.\nCarlos Mendes: Great idea about the bus. I will check."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of Mr. Mendes's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To complain to Metroline about the works",
+          "To cancel the concert tickets he has bought",
+          "To request help with buying tickets online",
+          "To ask a friend if they should still go"
+        ],
+        "answerIndex": 3,
+        "explanation": "He has seen the notice about the works and asks Ms. Morgan whether she would still like to go to the concert."
+      },
+      {
+        "prompt": "At what time would Mr. Mendes and Ms. Morgan reach Eastfield on the replacement bus?",
+        "category": "detail",
+        "choices": [
+          "At 23:40",
+          "At 23:20",
+          "At 23:10",
+          "At 00:00"
+        ],
+        "answerIndex": 0,
+        "explanation": "The concert ends at 22:20; the walk to the stop takes 15 minutes (22:35), so they catch the 22:50 bus; the journey takes 50 minutes, bringing them to Eastfield at 23:40."
+      },
+      {
+        "prompt": "How much longer does the replacement bus take than the train?",
+        "category": "detail",
+        "choices": [
+          "15 minutes",
+          "25 minutes",
+          "40 minutes",
+          "50 minutes"
+        ],
+        "answerIndex": 1,
+        "explanation": "The bus takes 50 minutes compared with 25 minutes by train, a difference of 25 minutes."
+      },
+      {
+        "prompt": "What can be inferred about Ms. Morgan's attitude to the journey home?",
+        "category": "inference",
+        "choices": [
+          "She will leave the concert before it ends",
+          "She is unaware of the alternative route via Line 2",
+          "She will accept a slower trip to save money",
+          "She intends to take a taxi to Eastfield"
+        ],
+        "answerIndex": 2,
+        "explanation": "She proposes the replacement bus, which is slower than the train, and says she would rather take it than pay about 60 euros for a taxi."
+      },
+      {
+        "prompt": "The word \"stranded\" in the e-mail is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "kept waiting at work",
+          "without a way home",
+          "lost in a crowd",
+          "charged too much"
+        ],
+        "answerIndex": 1,
+        "explanation": "Being 'stranded late at night' means being unable to get home."
+      }
+    ]
+  },
+  {
+    "id": "p7-398",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Four-Day Week Trial Reports Strong Results",
+        "text": "A six-month trial of a four-day working week involving 61 companies and about 2,900 employees has ended with 56 of the companies choosing to continue the arrangement, researchers announced on Tuesday. Participating firms, which ranged from a software developer to a fish-and-chip shop, kept pay unchanged while reducing weekly working time to around 32 hours.\n\nOn average, revenue rose by 1.4 percent during the trial, sick days fell by around two-thirds, and the number of staff resigning dropped by more than half. Managers reported that employees were more focused, and several firms said that they had cut meetings in order to protect productivity.\n\nThe results were not uniformly positive. Companies in customer service and retail found it harder to maintain continuous coverage and had to introduce rotas under which staff took different days off. Some employees reported that the compressed week left them more tired on the days that they worked. The lead researcher, Professor Ingrid Vale, cautioned that the participants had volunteered and might not represent the wider economy."
+      },
+      {
+        "type": "memo",
+        "title": "Four-day week pilot",
+        "text": "To: All employees\nFrom: Chief Executive, Altamira Services\nSubject: Four-day week pilot\n\nFollowing recent research into shorter working weeks, we will begin a six-month pilot on 5 May. Office employees will work from Monday to Thursday, for 32 hours a week, on full pay. Helpline staff will work a rota so that the line stays open from 8:00 to 18:00, Monday to Friday, with each person taking one weekday off. Managers will measure results against our existing productivity targets. If targets are missed by more than 5 percent in two consecutive months, the pilot will be paused and reviewed. We will report the outcome to all staff in November. Employees who would prefer to keep a five-day pattern, for example because of childcare arrangements, may discuss alternatives with their manager. Part-time staff will have their hours reduced in proportion only if they request it."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What do the results of the trial suggest?",
+        "category": "main_idea",
+        "choices": [
+          "Employees are unable to work effectively on four days",
+          "Only technology firms can run a shorter week successfully",
+          "Most participants returned to a five-day week",
+          "Shorter weeks did not harm output and benefited staff"
+        ],
+        "answerIndex": 3,
+        "explanation": "Revenue rose, sick days fell, resignations dropped, and 56 of the 61 firms continued."
+      },
+      {
+        "prompt": "Why does the article mention retail and customer service?",
+        "category": "purpose",
+        "choices": [
+          "To prove that sales rose in every sector",
+          "To explain why research costs are high",
+          "To show a problem facing some businesses",
+          "To name companies that left the trial"
+        ],
+        "answerIndex": 2,
+        "explanation": "These sectors found it harder to maintain continuous coverage and had to introduce rotas, a limit on the benefits."
+      },
+      {
+        "prompt": "In what way does Altamira's helpline arrangement reflect the article?",
+        "category": "inference",
+        "choices": [
+          "It uses a rota like some service firms do",
+          "It forces employees to work longer hours per day",
+          "It will close the helpline for one day a week",
+          "It avoids the need to measure productivity"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article says that customer-service firms introduced rotas under which staff took different days off; Altamira's helpline staff each take one weekday off while the line stays open."
+      },
+      {
+        "prompt": "The word \"cautioned\" in the article is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "agreed",
+          "predicted",
+          "insisted",
+          "warned"
+        ],
+        "answerIndex": 3,
+        "explanation": "The professor warned that the participants might not represent the wider economy."
+      },
+      {
+        "prompt": "When would Altamira's pilot be paused?",
+        "category": "detail",
+        "choices": [
+          "If more than five employees resign within one month",
+          "If targets are missed by 5 percent in one month",
+          "If targets are missed twice by over 5 percent",
+          "If revenue falls in each of six consecutive months"
+        ],
+        "answerIndex": 2,
+        "explanation": "The memo says the pilot will be paused if targets are 'missed by more than 5 percent in two consecutive months'."
+      }
+    ]
+  },
+  {
+    "id": "p7-399",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Webinar: Cyber Resilience for Small Firms",
+        "text": "WEBINAR | Cyber Resilience for Small Firms\n\nThursday 13 March, 14:00 to 15:30 Central European Time (CET)\n\nPresented by Dr. Lucia Ferrante, security consultant. Learn how to protect customer data, respond to phishing attacks and prepare a recovery plan, using examples from real incidents in small businesses.\n\nFee: 30 euros per participant. Teams of three or more from the same company pay 20 euros each. Registration closes at 18:00 CET on Tuesday 11 March, and fees are not refundable after that time.\n\nAll participants receive the slides and a recording within 48 hours. A joining link will be sent by e-mail on the day of the event. Please join at least 15 minutes before the start. A certificate of attendance is issued to every participant who stays for the whole session."
+      },
+      {
+        "type": "form",
+        "title": "Registration",
+        "text": "REGISTRATION | Cyber Resilience for Small Firms\n\nParticipant 1: Hamad Al-Rashid, Gulf Logistics, Dubai\nParticipant 2: Noor Haddad, Gulf Logistics, Dubai\nParticipant 3: Yusuf Karim, Gulf Logistics, Dubai\nPayment method: Bank transfer\nPreferred language of slides: English\nSubmitted: Monday 10 March\n\nNote: Dubai time (Gulf Standard Time) is three hours ahead of Central European Time."
+      },
+      {
+        "type": "email",
+        "title": "Your registration is confirmed",
+        "text": "To: Hamad Al-Rashid\nFrom: Webinar Team\nSubject: Your registration is confirmed\n\nDear Mr. Al-Rashid,\n\nThank you for registering your team of three for our webinar. We have received your transfer. Please note that, because the event takes place in Central European Time, you will need to take into account the time difference when planning your day. The joining link will be sent at 08:00 Central European Time on 13 March. Should anyone in your team be unable to attend, you are welcome to nominate a replacement from your company until the start of the event; we can then send them the link.\n\nPlease add our address to your contacts so that the link is not sent to your spam folder. We look forward to seeing you.\nThe Webinar Team"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much will Gulf Logistics pay in total?",
+        "category": "detail",
+        "choices": [
+          "90 euros",
+          "60 euros",
+          "30 euros",
+          "20 euros"
+        ],
+        "answerIndex": 1,
+        "explanation": "The three participants are from the same company, so each pays 20 euros: 3 x 20 = 60 euros."
+      },
+      {
+        "prompt": "At what time, in Dubai, should the team join the webinar at the latest?",
+        "category": "detail",
+        "choices": [
+          "13:45",
+          "14:00",
+          "17:00",
+          "16:45"
+        ],
+        "answerIndex": 3,
+        "explanation": "The webinar starts at 14:00 CET, which is 17:00 in Dubai (three hours ahead). Participants should join at least 15 minutes before, so by 16:45."
+      },
+      {
+        "prompt": "Why does the e-mail refer to the time difference?",
+        "category": "inference",
+        "choices": [
+          "The registration closed earlier than expected",
+          "The event is scheduled according to another time zone",
+          "The participants live in a different country from the speaker",
+          "The recording will be sent after 48 hours"
+        ],
+        "answerIndex": 1,
+        "explanation": "The webinar times are given in Central European Time, whereas the team is in Dubai."
+      },
+      {
+        "prompt": "What is NOT true about the webinar?",
+        "category": "not_true",
+        "choices": [
+          "Participants will be sent a copy of the recording",
+          "A reduced fee is offered to teams of three",
+          "Registration stays open until the event begins",
+          "The speaker will use examples from real cases"
+        ],
+        "answerIndex": 2,
+        "explanation": "Registration closes on Tuesday 11 March at 18:00 CET. The other statements are in the web page."
+      },
+      {
+        "prompt": "What does the e-mail allow the company to do?",
+        "category": "inference",
+        "choices": [
+          "Postpone the event to a more convenient date",
+          "Ask for a full refund once the event is over",
+          "Send a colleague in an absent member's place",
+          "Receive the slides several days in advance"
+        ],
+        "answerIndex": 2,
+        "explanation": "The e-mail says the company may 'nominate a replacement' until the start of the event."
+      }
+    ]
+  },
+  {
+    "id": "p7-400",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Call for Papers: Urban Futures Conference",
+        "text": "URBAN FUTURES CONFERENCE | Call for Papers\n\nThe fifth Urban Futures Conference will be held from 2 to 4 October in Gdansk. We invite researchers and practitioners to submit proposals on the following themes: transport and mobility, housing affordability, urban green space, and the governance of smart cities.\n\nSubmission guidelines: Abstracts must not exceed 250 words and must be submitted online by 15 April. Authors will be notified of the outcome by 30 May. Accepted authors must register by 15 July; the registration fee is 280 euros for academics and 420 euros for other participants, with a 25 percent reduction for those registering before 1 June.\n\nAccommodation: a block of rooms has been reserved at the Hotel Baltica at 95 euros per night; the offer is valid until 31 July. The conference dinner on 3 October is included in the registration fee, and a field trip to the harbour redevelopment area is planned for the afternoon of 4 October at no extra cost.\n\nPresentations are 20 minutes long, followed by 10 minutes for questions. Each author may submit two proposals at most. Papers presented at the conference will be considered for publication in a special issue of the Journal of Urban Studies."
+      },
+      {
+        "type": "email",
+        "title": "Submission query",
+        "text": "To: conference@urbanfutures.example\nFrom: Dr. Samuel Teague\nSubject: Submission query\n\nDear organisers,\n\nI am a researcher at a university and would like to submit an abstract on cycling infrastructure in mid-sized cities. I have two questions. First, my abstract currently runs to 310 words; may I submit it as it stands, together with a longer supporting document? Second, I shall be travelling in the second half of April and might miss the deadline by a few days. Could you tell me whether an extension is possible? I should also like to confirm what I would pay if my proposal were accepted and I registered in May.\n\nBest wishes,\nSamuel Teague"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Which theme would best suit Dr. Teague's proposal?",
+        "category": "inference",
+        "choices": [
+          "Housing affordability",
+          "Transport and mobility",
+          "Urban green space",
+          "The governance of smart cities"
+        ],
+        "answerIndex": 1,
+        "explanation": "Cycling infrastructure in cities concerns how people move around, which falls under transport and mobility."
+      },
+      {
+        "prompt": "What is likely to prevent Dr. Teague from submitting his abstract as it stands?",
+        "category": "inference",
+        "choices": [
+          "It is not on one of the stated themes",
+          "It was written by only one author",
+          "It has already been published",
+          "It is longer than the permitted limit"
+        ],
+        "answerIndex": 3,
+        "explanation": "The abstract is 310 words, whereas the guidelines set a maximum of 250 words."
+      },
+      {
+        "prompt": "How much would Dr. Teague pay if his proposal were accepted and he registered in May?",
+        "category": "detail",
+        "choices": [
+          "280 euros",
+          "210 euros",
+          "315 euros",
+          "420 euros"
+        ],
+        "answerIndex": 1,
+        "explanation": "As an academic, he would pay 280 euros; registering before 1 June gives a 25 percent reduction: 280 x 0.75 = 210 euros."
+      },
+      {
+        "prompt": "What is the main purpose of Dr. Teague's e-mail?",
+        "category": "purpose",
+        "choices": [
+          "To clarify rules and costs before applying",
+          "To withdraw a paper from the programme",
+          "To complain about the date of the conference",
+          "To propose a new theme for the event"
+        ],
+        "answerIndex": 0,
+        "explanation": "He asks about the abstract length, a possible extension and the fee he would pay."
+      },
+      {
+        "prompt": "The word \"extension\" in the e-mail is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "further explanation",
+          "additional time",
+          "a larger room",
+          "an enlarged abstract"
+        ],
+        "answerIndex": 1,
+        "explanation": "An extension of a deadline is extra time to submit."
+      }
+    ]
+  }
+]

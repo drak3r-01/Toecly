@@ -25,3 +25,11 @@
 - Single-document texts under 150 words and multiple-document sets under 300 words.
 - Questions whose answer is a word-for-word copy of a sentence in the text.
 - The validation (`dart run tool/validate_questions.dart`) must stay green.
+
+## Multi-document pass (lots 37 to 43)
+- Audit: only 4 of 124 sets had several documents, although the mock exam draws 5 multi-document sets (2 with two documents, 3 with three). Not-true (17), vocabulary-in-context (6) and sentence-insertion (2) questions were also rare.
+- Added 36 multi-document sets (lots 37 to 42, ids p7-371 to p7-406): 18 with two documents and 18 with three. Each has exactly 5 questions, 300 to 400 words in total, at least one inference question, at most 2 detail questions, and cross-references between documents (calculations over several documents, conditions in one document applied to a case in another, time zones, discounts, deadlines).
+- Added 6 single-document sets (lot 43, ids p7-407 to p7-412) with 4 sentence-insertion questions, plus not-true and vocabulary items.
+- The bank now holds 166 sets (40 multi-document) and 702 questions.
+- Checked: no explanation refers to the position of a choice (choices are shuffled at draw time); the correct answer is the only longest choice in about 9% of the new questions; answer positions are balanced.
+- Next: keep adding multi-document sets with different document combinations, and have each new set solved blind by a second reader before merging.

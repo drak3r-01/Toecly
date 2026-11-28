@@ -1,0 +1,479 @@
+[
+  {
+    "id": "p7-377",
+    "documents": [
+      {
+        "type": "schedule",
+        "title": "Pacific Retail Summit: Day 2",
+        "text": "PACIFIC RETAIL SUMMIT\nDay 2, Thursday 18 September\n\n9:00 Keynote: The Future of Store Design (Hall A)\n10:30 Break\n11:00 Workshops, choose one: W1 Pricing Psychology (Room 2); W2 Managing Seasonal Staff (Room 3); W3 Sustainable Packaging (Room 6, second floor, moved from Room 4 owing to a scheduling conflict)\n12:30 Lunch: included in the Full Pass only; Day Pass holders may buy a voucher at the registration desk for 18 dollars\n14:00 Panel: Online versus In-Store (Hall A)\n15:30 Supplier Fair on the Exhibition Floor: Day Pass holders are admitted from 15:30; Full Pass holders from 9:00\n17:30 Closing remarks\n\nPasses: Day Pass 95 dollars; Full Pass 150 dollars."
+      },
+      {
+        "type": "email",
+        "title": "Questions about my pass",
+        "text": "To: Summit Registration\nFrom: Omar Haddad\nSubject: Questions about my pass\n\nDear organisers,\n\nI hold a Day Pass for Thursday 18 September. My train arrives at 10:40, so I will miss the keynote, but I plan to attend the workshop on managing seasonal staff, then lunch, the panel and the Supplier Fair. Could you confirm whether lunch is included in my pass, and whether the fair could open to me before 15:30? I must leave by 16:30 and would like to spend a good while with the exhibitors, since several of them supply my company.\n\nKind regards,\nOmar Haddad"
+      },
+      {
+        "type": "email",
+        "title": "Re: Questions about my pass",
+        "text": "To: Omar Haddad\nFrom: Julia Brandt, Summit Registration\nSubject: Re: Questions about my pass\n\nDear Mr. Haddad,\n\nThank you for your message. Lunch is not included in the Day Pass, but you can buy a voucher at the registration desk. As for the fair, Day Pass access begins at 15:30, which would leave you only an hour before your departure. The alternative is to upgrade to a Full Pass by paying the difference in price at the desk. That would include lunch and allow you to enter the fair as soon as you arrive, including during the lunch break.\n\nPlease let me know if you would like us to prepare the upgrade.\n\nBest wishes,\nJulia Brandt"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What did Mr. Haddad want to find out?",
+        "category": "purpose",
+        "choices": [
+          "What his pass entitled him to",
+          "Where the workshops would be held",
+          "Whether the keynote could be recorded",
+          "How much the Full Pass cost in total"
+        ],
+        "answerIndex": 0,
+        "explanation": "He asks whether lunch is included and whether the fair could open to him earlier than 15:30, which concerns the benefits of his Day Pass."
+      },
+      {
+        "prompt": "How much more would an upgrade cost Mr. Haddad than buying a lunch voucher?",
+        "category": "detail",
+        "choices": [
+          "55 dollars",
+          "37 dollars",
+          "18 dollars",
+          "73 dollars"
+        ],
+        "answerIndex": 1,
+        "explanation": "The upgrade costs 150 - 95 = 55 dollars; the voucher costs 18. The difference is 55 - 18 = 37 dollars."
+      },
+      {
+        "prompt": "Why might Mr. Haddad prefer to upgrade?",
+        "category": "inference",
+        "choices": [
+          "He could attend the keynote that he is going to miss",
+          "He could spend far more time with the exhibitors",
+          "He could choose a different workshop from W2",
+          "He could remain at the summit after 17:30"
+        ],
+        "answerIndex": 1,
+        "explanation": "With a Full Pass he could enter the fair on arrival, including at lunch, instead of having only the hour from 15:30 until he leaves at 16:30."
+      },
+      {
+        "prompt": "The word \"conflict\" in the schedule is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "dispute",
+          "clash",
+          "delay",
+          "payment"
+        ],
+        "answerIndex": 1,
+        "explanation": "A 'scheduling conflict' is two events that cannot take place at the same time or in the same room."
+      },
+      {
+        "prompt": "Where will the workshop that Mr. Haddad intends to attend be held?",
+        "category": "detail",
+        "choices": [
+          "In Room 2",
+          "In Room 4",
+          "In Room 6",
+          "In Room 3"
+        ],
+        "answerIndex": 3,
+        "explanation": "He plans to attend the workshop on managing seasonal staff, which the schedule lists as W2, in Room 3."
+      }
+    ]
+  },
+  {
+    "id": "p7-378",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Roof repairs at Linden Court",
+        "text": "LINDEN COURT: NOTICE TO RESIDENTS\n\nRoof repair works will take place from Monday 6 October to Friday 24 October, between 8:00 and 17:00 on weekdays. Scaffolding will be erected on the south side of the building, and the balconies of all south-facing flats will be unavailable throughout the works. Residents may notice noise, dust and occasional interruptions to the water supply, for which we apologise.\n\nCompensation: tenants who work from home during the day may apply for a reduction of 5 percent of the monthly rent for each full week (Monday to Sunday) in which they are present in the building during the works. Claims must be made in writing to the management office within 14 days of the end of the works. Tenants who are away for a full week are not eligible for that week.\n\nResidents are asked to keep south-facing windows closed during working hours and to clear their balconies before 3 October. Parcels delivered during the works will be held at the management office, which is open from 10:00 to 16:00 on weekdays."
+      },
+      {
+        "type": "letter",
+        "title": "Claim for a rent reduction",
+        "text": "Flat 3S, Linden Court\n28 October\n\nDear Management,\n\nI am writing to claim the reduction announced in your notice regarding the roof repairs. I am a freelance translator and work from my flat every weekday. The scaffolding outside my window, together with the constant hammering, made it very difficult to concentrate, and I was obliged to take several calls in the stairwell. I raised the matter informally with the site foreman on 9 October; he was courteous but unable to reduce the noise.\n\nIn fairness, I should say that I was away on holiday from Monday 13 October to Sunday 19 October, so I am not claiming for that week. My monthly rent is 960 euros. I would be grateful if the reduction could be deducted from my December payment.\n\nYours faithfully,\nAdaeze Okonkwo"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the letter?",
+        "category": "purpose",
+        "choices": [
+          "To claim a rent reduction for the building works",
+          "To protest against the length of the building works",
+          "To ask for repairs to a balcony in her flat",
+          "To announce that she is leaving the building"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ms. Okonkwo begins by saying she is claiming 'the reduction announced in your notice'."
+      },
+      {
+        "prompt": "How much rent reduction should Ms. Okonkwo receive?",
+        "category": "detail",
+        "choices": [
+          "144 euros",
+          "48 euros",
+          "96 euros",
+          "288 euros"
+        ],
+        "answerIndex": 2,
+        "explanation": "The works lasted three full weeks (6-10, 13-17 and 20-24 October). She was away for the second, so two weeks qualify: 2 x 5 percent of 960 = 96 euros."
+      },
+      {
+        "prompt": "Why does Ms. Okonkwo mention her holiday?",
+        "category": "inference",
+        "choices": [
+          "To justify the lateness of her claim",
+          "To explain why she missed the notice",
+          "To avoid claiming for a week she was away",
+          "To ask for a different date for her payment"
+        ],
+        "answerIndex": 2,
+        "explanation": "The notice excludes tenants who are away for a full week, and she says 'I am not claiming for that week'."
+      },
+      {
+        "prompt": "The word \"obliged\" in the letter is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "thankful",
+          "entitled",
+          "encouraged",
+          "forced"
+        ],
+        "answerIndex": 3,
+        "explanation": "'I was obliged to take several calls in the stairwell' means she had no alternative."
+      },
+      {
+        "prompt": "What is NOT stated in the notice?",
+        "category": "not_true",
+        "choices": [
+          "Balconies on the south side cannot be used",
+          "The works will also take place at weekends",
+          "The water supply may be interrupted at times",
+          "Claims must be submitted within a set period"
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice gives working hours only 'on weekdays'. The other three points are all stated."
+      }
+    ]
+  },
+  {
+    "id": "p7-379",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Calder & Finch Unveils Flagship Plans",
+        "text": "Calder & Finch, the home furnishings retailer, announced on Monday that it will open a three-storey flagship store in the Harbour Quarter on 1 June, replacing its ageing Eastgate branch, which will close on 31 May. The new store, covering 4,200 square metres, will include a cafe, a design studio offering free consultations, and a repair workshop for furniture bought at any of the chain's stores.\n\nChief executive Louisa Brandt said the company will employ 140 people at the flagship, up from 95 at Eastgate. \"Our priority is to offer Eastgate employees a place at the new store before we advertise externally,\" she said. Analysts have welcomed the move, though some question whether the Harbour Quarter, which has little parking, will attract the families who made Eastgate profitable. The company says it will subsidise public transport passes for all staff for the first year."
+      },
+      {
+        "type": "memo",
+        "title": "Transfer to the Harbour Quarter store",
+        "text": "To: Eastgate staff\nFrom: Human Resources\nSubject: Transfer to the Harbour Quarter store\n\nEastgate employees may apply to transfer by 30 March. Offers will be made in order of length of service. Staff who transfer keep their current salary and receive a location premium of 6 percent of monthly salary for twelve months. Staff who are not offered a position, or who decline one, will receive severance of one week's pay for each year of service, up to a maximum of ten weeks. Workshop positions require a furniture-repair qualification."
+      },
+      {
+        "type": "email",
+        "title": "My options",
+        "text": "To: Human Resources\nFrom: Marta Gil, Sales Floor, Eastgate\nSubject: My options\n\nDear colleagues,\n\nI have worked at Eastgate for twelve years, earning 2,600 euros a month, or 600 euros a week. I have read the memo and am still undecided, mainly because the journey to the Harbour Quarter would take me an hour each way. I would like to know exactly what I would receive if I decided not to transfer, and whether the transport pass mentioned in the press would apply to me. I do not hold a repair qualification, so the workshop is not an option.\n\nThank you,\nMarta Gil"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "A decision to close a branch because of falling sales",
+          "The creation of a repair service for furniture",
+          "A change in the management of a family business",
+          "A retailer's plan to swap a store for a bigger one"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article reports that Calder & Finch will open a new flagship in the Harbour Quarter and close the old Eastgate branch."
+      },
+      {
+        "prompt": "How much severance would Ms. Gil receive if she decided not to transfer?",
+        "category": "detail",
+        "choices": [
+          "6,000 euros",
+          "7,200 euros",
+          "2,600 euros",
+          "600 euros"
+        ],
+        "answerIndex": 0,
+        "explanation": "Twelve years of service would give twelve weeks, but the maximum is ten weeks: 10 x 600 = 6,000 euros."
+      },
+      {
+        "prompt": "What can be inferred about Eastgate employees who wish to transfer?",
+        "category": "inference",
+        "choices": [
+          "Few of them will be able to leave the company",
+          "Most of them could probably be offered a position",
+          "All of them must hold a repair qualification",
+          "They must wait for outside applicants to be hired"
+        ],
+        "answerIndex": 1,
+        "explanation": "The new store will employ 140 people against 95 at Eastgate, and Eastgate staff are offered places before external recruitment, so there should be room for most."
+      },
+      {
+        "prompt": "The word \"subsidise\" in the article is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "gradually withdraw",
+          "carefully inspect",
+          "partly pay for",
+          "fully replace"
+        ],
+        "answerIndex": 2,
+        "explanation": "To subsidise a transport pass is to help pay for it."
+      },
+      {
+        "prompt": "How much extra pay would Ms. Gil receive in the first year if she transferred?",
+        "category": "detail",
+        "choices": [
+          "156 euros",
+          "1,872 euros",
+          "936 euros",
+          "3,744 euros"
+        ],
+        "answerIndex": 1,
+        "explanation": "The premium is 6 percent of 2,600 = 156 euros per month, for twelve months: 156 x 12 = 1,872 euros."
+      }
+    ]
+  },
+  {
+    "id": "p7-380",
+    "documents": [
+      {
+        "type": "web_page",
+        "title": "Brewmaster Pro 200",
+        "text": "BREWMASTER PRO 200 | Bean-to-cup coffee machine | 249 euros\n\nGrinds, tamps and brews in under a minute. Built-in milk frother, 1.8-litre water tank and programmable settings for up to four users.\n\nCare: for best results, descale the machine every three months using our approved descaling solution (sold separately, 12 euros).\n\nDelivery and returns: orders ship within two to three working days. You may return the machine for a full refund within 30 days of delivery, provided it is in its original packaging.\n\nWarranty: two years against manufacturing defects. The warranty does not cover damage caused by lack of maintenance as described in the user manual, nor accidental damage.\n\nSpecifications: power 1,450 watts; dimensions 28 x 36 x 43 cm; weight 9 kg; available in black, silver or copper. Customers who register their machine within 14 days of delivery receive a free pack of coffee beans. Spare parts, including water tanks and drip trays, are available for ten years after purchase."
+      },
+      {
+        "type": "review",
+        "title": "Great coffee, disappointing after-sales",
+        "text": "Two stars out of five\n\nFor the first month, I had no complaints. The coffee was excellent, the machine was quiet, and the frother was easy to clean. Then, five weeks after delivery, water began to leak from the base every time I made a cup. I contacted customer service, who replied that the problem was almost certainly limescale and that, because I had not descaled the machine, the fault was not covered. I live in an area with very soft water and was never told that descaling was necessary so soon. I tried to send the machine back, but I was informed that the period for returns had passed. Admittedly, the machine looks elegant on the kitchen counter, and the programmable settings are genuinely useful for my family of four. Nevertheless, I cannot recommend a product when the company is so quick to blame its customers."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the main purpose of the review?",
+        "category": "purpose",
+        "choices": [
+          "To compare two rival coffee machines in detail",
+          "To explain how to descale a machine properly",
+          "To ask for a replacement for a damaged part",
+          "To warn buyers about how a defect was handled"
+        ],
+        "answerIndex": 3,
+        "explanation": "The reviewer praises the coffee but mainly describes how customer service handled the leak and says she cannot recommend the product."
+      },
+      {
+        "prompt": "Why can the reviewer no longer return the machine for a refund?",
+        "category": "inference",
+        "choices": [
+          "The machine was not in its original packaging",
+          "The warranty does not cover a leak at the base",
+          "The 30 days since delivery have already passed",
+          "The company refuses refunds on machines that leak"
+        ],
+        "answerIndex": 2,
+        "explanation": "She says the leak started five weeks after delivery; the web page allows returns only within 30 days of delivery."
+      },
+      {
+        "prompt": "Why did customer service decline to repair the machine under warranty?",
+        "category": "inference",
+        "choices": [
+          "They blamed the fault on a lack of maintenance",
+          "They considered the fault to be accidental damage",
+          "They claimed the machine was not bought in the shop",
+          "They said the machine was used by too many people"
+        ],
+        "answerIndex": 0,
+        "explanation": "The warranty excludes damage caused by lack of maintenance, and customer service said the leak was probably limescale because the machine had not been descaled."
+      },
+      {
+        "prompt": "What is NOT true about the Brewmaster Pro 200 according to the web page?",
+        "category": "not_true",
+        "choices": [
+          "It can store settings for several people",
+          "It comes with a two-year manufacturer's warranty",
+          "It needs descaling about four times a year",
+          "It must be returned in its box after two years"
+        ],
+        "answerIndex": 3,
+        "explanation": "The original packaging is required only for returns within 30 days. Four users, a two-year warranty, and descaling every three months (about four times a year) are all stated."
+      },
+      {
+        "prompt": "The word \"disappointing\" in the review title is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "quite surprising",
+          "far too expensive",
+          "unsatisfactory",
+          "only half finished"
+        ],
+        "answerIndex": 2,
+        "explanation": "Disappointing after-sales service is service that fails to meet expectations."
+      }
+    ]
+  },
+  {
+    "id": "p7-381",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Meeting room hire at Corbin Library",
+        "text": "CORBIN LIBRARY: MEETING ROOMS\n\nRoom 1 (up to 6 people): 25 euros per hour\nRoom 2 (up to 12 people): 40 euros per hour\nRoom 3 (up to 20 people): 65 euros per hour\n\nLibrary members receive a 20 percent discount on all rates. A refundable deposit of 50 euros is payable at the time of booking and returned after the event if the room is left tidy. Bookings are limited to two hours, although members may request a third hour from the duty librarian at the same hourly rate. Cancellations must be made at least 24 hours before the booking; otherwise the deposit is kept. Rooms are available from 9:00 to 20:00 on weekdays. Tea and coffee can be ordered from the cafe at 2 euros per person."
+      },
+      {
+        "type": "email",
+        "title": "Room for a workshop",
+        "text": "To: Corbin Library\nFrom: Beatriz Santos\nSubject: Room for a workshop\n\nDear Sir or Madam,\n\nI am planning a free workshop on household budgeting for local residents and would like to book a room on Wednesday 5 November from 10:00 to 13:00. I expect around fourteen participants. The workshop is free of charge, so we have no budget for extras. I am a library member (card number 4471). Could you let me know which room I should reserve and what the total cost would be?\n\nBest regards,\nBeatriz Santos"
+      },
+      {
+        "type": "online_chat",
+        "title": "Library chat, 29 October",
+        "text": "Beatriz Santos: Hello, I e-mailed yesterday about a workshop room. I would like to confirm my booking.\nLibrary assistant: Hello Ms. Santos. Given your group of fourteen, Room 2 would be too small, so Room 3 is the one you need. Three hours exceeds the standard limit, but the duty librarian has approved the third hour as you are a member.\nBeatriz Santos: Wonderful. How much do I pay today?\nLibrary assistant: The hire charge plus the deposit, which we return if the room is left tidy. You can pay at the desk or by card over the phone."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Why does Ms. Santos need Room 3?",
+        "category": "detail",
+        "choices": [
+          "She needs a room for more than two hours",
+          "Her group is larger than Room 2 can hold",
+          "She wants the room available at the weekend",
+          "Room 2 is reserved by another group"
+        ],
+        "answerIndex": 1,
+        "explanation": "She expects fourteen participants; Room 2 takes up to 12, whereas Room 3 takes up to 20."
+      },
+      {
+        "prompt": "How much must Ms. Santos pay on the day of booking?",
+        "category": "detail",
+        "choices": [
+          "156 euros",
+          "245 euros",
+          "195 euros",
+          "206 euros"
+        ],
+        "answerIndex": 3,
+        "explanation": "Three hours at 65 euros = 195 euros, less the 20 percent member discount = 156 euros. Adding the 50-euro deposit gives 206 euros."
+      },
+      {
+        "prompt": "What is implied about the 50-euro deposit?",
+        "category": "inference",
+        "choices": [
+          "It forms part of the hourly rate paid by members",
+          "It is meant to make users look after the room",
+          "It is kept by the library whenever a room is booked",
+          "It is payable only by those who are not members"
+        ],
+        "answerIndex": 1,
+        "explanation": "The deposit is returned 'if the room is left tidy', so its purpose is to encourage careful use; the hire charge of 156 euros is not refundable."
+      },
+      {
+        "prompt": "What is suggested about the third hour of Ms. Santos's booking?",
+        "category": "inference",
+        "choices": [
+          "It will be charged at a higher rate than the others",
+          "It requires her to cancel 24 hours in advance",
+          "It was allowed because she belongs to the library",
+          "It is part of the standard two-hour booking"
+        ],
+        "answerIndex": 2,
+        "explanation": "The notice says members may request a third hour from the duty librarian, and the assistant says it was approved 'as you are a member'."
+      },
+      {
+        "prompt": "What is NOT true about the booking rules?",
+        "category": "not_true",
+        "choices": [
+          "Rooms can be booked on weekday mornings",
+          "Non-members are not eligible for the discount",
+          "The deposit is returned for any cancellation",
+          "The deposit is refundable if the room is left tidy"
+        ],
+        "answerIndex": 2,
+        "explanation": "Cancellations must be made at least 24 hours in advance, so cancelling the day before could still be too late, and the deposit would then be kept."
+      }
+    ]
+  },
+  {
+    "id": "p7-382",
+    "documents": [
+      {
+        "type": "memo",
+        "title": "Mandatory data-protection training",
+        "text": "To: All employees\nFrom: Compliance Office\nSubject: Mandatory data-protection training\n\nAll employees must complete the online data-protection module by 15 December. The module takes approximately 90 minutes and can be completed in several sessions. Managers must also complete the leadership supplement, which takes an additional 45 minutes and covers how to supervise colleagues who handle sensitive information. Employees who are on leave on 15 December must complete the training within ten days of their return. Anyone who has not finished by the relevant deadline will have their access to the customer database suspended until the training is complete. Questions about the module should be sent to the Compliance Office.\n\nThe training covers the handling of personal data, secure storage, the reporting of breaches within 24 hours, and the rules on sharing information with partners. A certificate is generated on completion, which is also recorded in the employee's personnel file, and employees should keep a copy for their records. Team managers will receive a weekly list showing which members of their teams have not yet started."
+      },
+      {
+        "type": "email",
+        "title": "Training deadline",
+        "text": "To: Compliance Office\nFrom: Karim Aziz, Customer Operations Manager\nSubject: Training deadline\n\nDear colleagues,\n\nI have read the memo about the data-protection training. I will be on leave from 8 December and will return on Monday 5 January. I would prefer not to complete the module during my holiday, and since I supervise a team of eleven agents, I would also like to confirm that the leadership supplement is required in my case. Two of my agents, Lena and Paul, will be on parental leave until February, and I wonder whether the same ten-day rule applies to them or whether they will be given more time. Finally, could you confirm that my access to the customer database will not be suspended while I am away?\n\nThank you in advance,\nKarim Aziz"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What does Mr. Aziz want the Compliance Office to confirm?",
+        "category": "purpose",
+        "choices": [
+          "Whether the module can be done in several sessions",
+          "How the deadline and its consequences apply to him",
+          "Whether his team may postpone the training",
+          "Whether his leave has been approved"
+        ],
+        "answerIndex": 1,
+        "explanation": "He asks about the leadership supplement, the deadline given his leave, and whether his access will be suspended."
+      },
+      {
+        "prompt": "How long will Mr. Aziz need to spend on training in total?",
+        "category": "detail",
+        "choices": [
+          "1 hour and 30 minutes",
+          "1 hour and 45 minutes",
+          "2 hours and 45 minutes",
+          "2 hours and 15 minutes"
+        ],
+        "answerIndex": 3,
+        "explanation": "As a manager he must do both the 90-minute module and the 45-minute supplement: 135 minutes."
+      },
+      {
+        "prompt": "By what date must Mr. Aziz complete the training?",
+        "category": "detail",
+        "choices": [
+          "15 December",
+          "15 January",
+          "5 January",
+          "25 December"
+        ],
+        "answerIndex": 1,
+        "explanation": "He will be on leave on 15 December and returns on 5 January; the memo allows ten days from return, which is 15 January."
+      },
+      {
+        "prompt": "What can be inferred about Mr. Aziz's access to the database?",
+        "category": "inference",
+        "choices": [
+          "It should stay active until his later deadline",
+          "It will be suspended on the day his leave begins",
+          "It will be restored only after a manager approves",
+          "It was already suspended because of his holiday"
+        ],
+        "answerIndex": 0,
+        "explanation": "Suspension applies only to those who have not finished 'by the relevant deadline'; his deadline is 15 January, so his access should remain until then."
+      },
+      {
+        "prompt": "The word \"supplement\" in the memo is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "summary",
+          "addition",
+          "replacement",
+          "warning"
+        ],
+        "answerIndex": 1,
+        "explanation": "The leadership supplement is an extra part that managers do in addition to the main module."
+      }
+    ]
+  }
+]
