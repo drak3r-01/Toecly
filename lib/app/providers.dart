@@ -15,6 +15,9 @@ import '../data/storage/missed_questions_repository.dart';
 import '../data/storage/part_stats_repository.dart';
 import '../data/storage/quiz_progress_repository.dart';
 import '../data/storage/seen_questions_repository.dart';
+import '../data/storage/word_progress_repository.dart';
+import '../data/words/word_asset_loader.dart';
+import '../data/words/word_card.dart';
 import '../data/storage/session_history_repository.dart';
 
 /// Overridden in `main()` once the store is open (and with an in-memory store in tests).
@@ -126,3 +129,10 @@ final resumedQuizProvider =
   final saved = ref.read(quizProgressProvider).load();
   return saved == null ? null : ref.read(exerciseRepositoryProvider).restoreQuiz(saved);
 });
+
+/// The bundled word cards (loaded once, replaced in tests).
+final wordCardsProvider = FutureProvider<List<WordCard>>((ref) => loadBundledWords());
+
+final wordProgressProvider = Provider(
+  (ref) => WordProgressRepository(ref.watch(localStoreProvider)),
+);

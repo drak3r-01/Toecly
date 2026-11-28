@@ -37,6 +37,7 @@ flutter:
     - assets/questions/part5/
     - assets/questions/part6/
     - assets/questions/part7/
+    - assets/words/
     - assets/brand/
 
   # Variable fonts (SIL OFL 1.1, licenses next to the files). Weight, width and

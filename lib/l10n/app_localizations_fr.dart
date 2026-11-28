@@ -509,4 +509,40 @@ class AppLocalizationsFr extends AppLocalizations {
   String weakSpotName(int part, String category) {
     return 'Partie $part · $category';
   }
+
+  @override
+  String get wordsTitle => 'Cartes de mots';
+
+  @override
+  String get wordsDescription =>
+      'Apprends le vocabulaire professionnel essentiel du TOEIC.';
+
+  @override
+  String wordsProgress(int known, int total) {
+    return '$known / $total mots connus';
+  }
+
+  @override
+  String get wordsTapToFlip => 'Touche la carte pour voir le sens';
+
+  @override
+  String get wordsAgain => 'À revoir';
+
+  @override
+  String get wordsKnown => 'Je le sais';
+
+  @override
+  String get wordsExample => 'Exemple';
+
+  @override
+  String get wordsFrench => 'En français';
+
+  @override
+  String get wordsDone => 'Paquet terminé ! Tu connais tous les mots.';
+
+  @override
+  String get wordsRestart => 'Recommencer';
+
+  @override
+  String get wordsEmpty => 'Aucune carte de mots disponible.';
 }

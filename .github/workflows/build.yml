@@ -25,6 +25,7 @@ jobs:
           cache: true
       - run: flutter pub get
       - run: dart run tool/validate_questions.dart
+      - run: dart run tool/validate_words.dart
       - run: flutter analyze
       - run: flutter test
       # Release signing key, from GitHub secrets. A final release (no "-" in the tag) must never be
@@ -86,6 +87,7 @@ jobs:
           cache: true
       - run: flutter pub get
       - run: dart run tool/validate_questions.dart
+      - run: dart run tool/validate_words.dart
       - name: Build Windows app
         shell: pwsh
         env:

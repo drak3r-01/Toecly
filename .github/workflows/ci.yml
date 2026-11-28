@@ -22,5 +22,7 @@ jobs:
       - run: flutter pub get
       - name: Validate question lots
         run: dart run tool/validate_questions.dart
+      - name: Validate word cards
+        run: dart run tool/validate_words.dart
       - run: flutter analyze
       - run: flutter test

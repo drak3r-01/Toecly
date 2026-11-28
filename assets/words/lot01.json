@@ -1,0 +1,402 @@
+[
+  {
+    "id": "w-001",
+    "word": "allocate",
+    "partOfSpeech": "verb",
+    "definition": "to distribute money, time or resources for a particular purpose",
+    "example": "The board decided to allocate more funds to research.",
+    "fr": "allouer, attribuer"
+  },
+  {
+    "id": "w-002",
+    "word": "incur",
+    "partOfSpeech": "verb",
+    "definition": "to become responsible for a cost or penalty as a result of your own actions",
+    "example": "Late payment will incur an additional fee.",
+    "fr": "encourir, subir (un coût)"
+  },
+  {
+    "id": "w-003",
+    "word": "reimburse",
+    "partOfSpeech": "verb",
+    "definition": "to pay back money that someone has spent or lost",
+    "example": "The company will reimburse all travel expenses within two weeks.",
+    "fr": "rembourser"
+  },
+  {
+    "id": "w-004",
+    "word": "stipulate",
+    "partOfSpeech": "verb",
+    "definition": "to state clearly that something is required, usually in an agreement",
+    "example": "The contract stipulates that delivery must take place within thirty days.",
+    "fr": "stipuler"
+  },
+  {
+    "id": "w-005",
+    "word": "mitigate",
+    "partOfSpeech": "verb",
+    "definition": "to make something less severe, harmful or painful",
+    "example": "New safety measures should mitigate the risk of accidents.",
+    "fr": "atténuer"
+  },
+  {
+    "id": "w-006",
+    "word": "streamline",
+    "partOfSpeech": "verb",
+    "definition": "to make a system or process simpler and more efficient",
+    "example": "We streamlined the approval process to save time.",
+    "fr": "rationaliser"
+  },
+  {
+    "id": "w-007",
+    "word": "scrutinize",
+    "partOfSpeech": "verb",
+    "definition": "to examine something very carefully and in detail",
+    "example": "Auditors scrutinize every transaction before signing off the accounts.",
+    "fr": "examiner minutieusement"
+  },
+  {
+    "id": "w-008",
+    "word": "defer",
+    "partOfSpeech": "verb",
+    "definition": "to delay something until a later time",
+    "example": "The committee deferred its decision until next quarter.",
+    "fr": "reporter, différer"
+  },
+  {
+    "id": "w-009",
+    "word": "comply",
+    "partOfSpeech": "verb",
+    "definition": "to act in accordance with a rule, order or request (comply with)",
+    "example": "All suppliers must comply with the new safety regulations.",
+    "fr": "se conformer à"
+  },
+  {
+    "id": "w-010",
+    "word": "expedite",
+    "partOfSpeech": "verb",
+    "definition": "to make a process happen more quickly",
+    "example": "We can expedite the shipment for an extra charge.",
+    "fr": "accélérer, expédier rapidement"
+  },
+  {
+    "id": "w-011",
+    "word": "liability",
+    "partOfSpeech": "noun",
+    "definition": "legal responsibility for something; also a debt owed by a company",
+    "example": "The firm accepted no liability for the damage.",
+    "fr": "responsabilité (juridique), passif"
+  },
+  {
+    "id": "w-012",
+    "word": "turnover",
+    "partOfSpeech": "noun",
+    "definition": "the total sales of a business in a period; also the rate at which employees leave",
+    "example": "Annual turnover rose by twelve percent.",
+    "fr": "chiffre d'affaires, rotation du personnel"
+  },
+  {
+    "id": "w-013",
+    "word": "incentive",
+    "partOfSpeech": "noun",
+    "definition": "something that encourages a person to act in a particular way",
+    "example": "Bonuses are an incentive for staff to meet their targets.",
+    "fr": "incitation, prime"
+  },
+  {
+    "id": "w-014",
+    "word": "surplus",
+    "partOfSpeech": "noun",
+    "definition": "an amount left over when more than needed has been produced or earned",
+    "example": "The department reported a surplus of two million dollars.",
+    "fr": "excédent"
+  },
+  {
+    "id": "w-015",
+    "word": "shortfall",
+    "partOfSpeech": "noun",
+    "definition": "the amount by which something is less than what is needed",
+    "example": "A shortfall in revenue forced the company to cut its budget.",
+    "fr": "manque, déficit"
+  },
+  {
+    "id": "w-016",
+    "word": "premises",
+    "partOfSpeech": "noun",
+    "definition": "the land and buildings used by a business",
+    "example": "Smoking is not permitted on the premises.",
+    "fr": "locaux"
+  },
+  {
+    "id": "w-017",
+    "word": "invoice",
+    "partOfSpeech": "noun",
+    "definition": "a document listing goods or services supplied and the amount to be paid",
+    "example": "Please settle the invoice within thirty days.",
+    "fr": "facture"
+  },
+  {
+    "id": "w-018",
+    "word": "warranty",
+    "partOfSpeech": "noun",
+    "definition": "a written promise by a company to repair or replace a faulty product",
+    "example": "The laptop comes with a two-year warranty.",
+    "fr": "garantie"
+  },
+  {
+    "id": "w-019",
+    "word": "itinerary",
+    "partOfSpeech": "noun",
+    "definition": "a detailed plan of a journey, with places and times",
+    "example": "Our itinerary includes stops in Lyon and Geneva.",
+    "fr": "itinéraire, programme de voyage"
+  },
+  {
+    "id": "w-020",
+    "word": "backlog",
+    "partOfSpeech": "noun",
+    "definition": "work that has not been done yet and keeps accumulating",
+    "example": "Staff worked overtime to clear the backlog of orders.",
+    "fr": "arriéré, retard accumulé"
+  },
+  {
+    "id": "w-021",
+    "word": "stakeholder",
+    "partOfSpeech": "noun",
+    "definition": "a person or group with an interest in the success of a business",
+    "example": "All stakeholders were consulted before the merger.",
+    "fr": "partie prenante"
+  },
+  {
+    "id": "w-022",
+    "word": "benchmark",
+    "partOfSpeech": "noun",
+    "definition": "a standard used to compare the quality or performance of something",
+    "example": "The report sets a benchmark for customer service.",
+    "fr": "référence, point de comparaison"
+  },
+  {
+    "id": "w-023",
+    "word": "revenue",
+    "partOfSpeech": "noun",
+    "definition": "the income a company receives from its activities",
+    "example": "Online sales generated most of our revenue last year.",
+    "fr": "recettes, revenus"
+  },
+  {
+    "id": "w-024",
+    "word": "compliance",
+    "partOfSpeech": "noun",
+    "definition": "the act of following a rule, law or standard",
+    "example": "The audit checks compliance with environmental law.",
+    "fr": "conformité"
+  },
+  {
+    "id": "w-025",
+    "word": "proficient",
+    "partOfSpeech": "adjective",
+    "definition": "having the skill and experience to do something well",
+    "example": "Candidates should be proficient in spreadsheet software.",
+    "fr": "compétent, doué"
+  },
+  {
+    "id": "w-026",
+    "word": "feasible",
+    "partOfSpeech": "adjective",
+    "definition": "possible to do and practical",
+    "example": "The engineers believe the plan is feasible within the budget.",
+    "fr": "réalisable"
+  },
+  {
+    "id": "w-027",
+    "word": "viable",
+    "partOfSpeech": "adjective",
+    "definition": "able to work or succeed, especially financially",
+    "example": "The project is no longer financially viable.",
+    "fr": "viable"
+  },
+  {
+    "id": "w-028",
+    "word": "pending",
+    "partOfSpeech": "adjective",
+    "definition": "waiting to be decided or settled",
+    "example": "The merger is pending regulatory approval.",
+    "fr": "en attente"
+  },
+  {
+    "id": "w-029",
+    "word": "mandatory",
+    "partOfSpeech": "adjective",
+    "definition": "required by a law or a rule",
+    "example": "Attendance at the safety briefing is mandatory.",
+    "fr": "obligatoire"
+  },
+  {
+    "id": "w-030",
+    "word": "tentative",
+    "partOfSpeech": "adjective",
+    "definition": "not certain or final; subject to change",
+    "example": "We made a tentative reservation for Friday.",
+    "fr": "provisoire"
+  },
+  {
+    "id": "w-031",
+    "word": "substantial",
+    "partOfSpeech": "adjective",
+    "definition": "large in amount, value or importance",
+    "example": "The firm made a substantial profit despite the slowdown.",
+    "fr": "considérable"
+  },
+  {
+    "id": "w-032",
+    "word": "redundant",
+    "partOfSpeech": "adjective",
+    "definition": "no longer needed; of a worker, dismissed because the job no longer exists",
+    "example": "Fifty employees were made redundant after the restructuring.",
+    "fr": "licencié (suppression de poste), superflu"
+  },
+  {
+    "id": "w-033",
+    "word": "reluctant",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling and hesitant to do something",
+    "example": "Investors were reluctant to commit more capital.",
+    "fr": "réticent"
+  },
+  {
+    "id": "w-034",
+    "word": "lucrative",
+    "partOfSpeech": "adjective",
+    "definition": "producing a lot of money",
+    "example": "She turned down a lucrative job offer to start her own firm.",
+    "fr": "lucratif"
+  },
+  {
+    "id": "w-035",
+    "word": "meticulous",
+    "partOfSpeech": "adjective",
+    "definition": "very careful and precise about details",
+    "example": "The accountant is meticulous about keeping records.",
+    "fr": "méticuleux"
+  },
+  {
+    "id": "w-036",
+    "word": "imminent",
+    "partOfSpeech": "adjective",
+    "definition": "about to happen very soon",
+    "example": "A decision on the takeover is imminent.",
+    "fr": "imminent"
+  },
+  {
+    "id": "w-037",
+    "word": "prior to",
+    "partOfSpeech": "preposition",
+    "definition": "before a particular time or event",
+    "example": "Please submit the form prior to the deadline.",
+    "fr": "avant, préalablement à"
+  },
+  {
+    "id": "w-038",
+    "word": "notwithstanding",
+    "partOfSpeech": "preposition",
+    "definition": "despite; in spite of",
+    "example": "Notwithstanding the delay, the project was completed on budget.",
+    "fr": "malgré, nonobstant"
+  },
+  {
+    "id": "w-039",
+    "word": "pursuant to",
+    "partOfSpeech": "preposition",
+    "definition": "in accordance with a rule, law or contract",
+    "example": "Pursuant to clause four, the deposit is refundable.",
+    "fr": "conformément à"
+  },
+  {
+    "id": "w-040",
+    "word": "whereas",
+    "partOfSpeech": "conjunction",
+    "definition": "used to compare two facts that are in contrast",
+    "example": "Sales rose in Asia, whereas they fell in Europe.",
+    "fr": "alors que"
+  },
+  {
+    "id": "w-041",
+    "word": "provided that",
+    "partOfSpeech": "conjunction",
+    "definition": "only if; on the condition that",
+    "example": "We will proceed provided that the funding is secured.",
+    "fr": "à condition que"
+  },
+  {
+    "id": "w-042",
+    "word": "nevertheless",
+    "partOfSpeech": "adverb",
+    "definition": "in spite of what has just been said",
+    "example": "Costs rose; nevertheless, we kept our prices stable.",
+    "fr": "néanmoins, malgré tout"
+  },
+  {
+    "id": "w-043",
+    "word": "consequently",
+    "partOfSpeech": "adverb",
+    "definition": "as a result of something",
+    "example": "The main supplier failed; consequently, production stopped.",
+    "fr": "par conséquent"
+  },
+  {
+    "id": "w-044",
+    "word": "thoroughly",
+    "partOfSpeech": "adverb",
+    "definition": "completely and with great attention to detail",
+    "example": "Inspect the equipment thoroughly before each use.",
+    "fr": "minutieusement, à fond"
+  },
+  {
+    "id": "w-045",
+    "word": "oversee",
+    "partOfSpeech": "verb",
+    "definition": "to watch and direct the work of others",
+    "example": "She oversees a team of twelve engineers.",
+    "fr": "superviser"
+  },
+  {
+    "id": "w-046",
+    "word": "delegate",
+    "partOfSpeech": "verb",
+    "definition": "to give part of your work or authority to someone else",
+    "example": "Good managers delegate routine tasks to their teams.",
+    "fr": "déléguer"
+  },
+  {
+    "id": "w-047",
+    "word": "forecast",
+    "partOfSpeech": "noun",
+    "definition": "a statement about what is expected to happen, based on available information",
+    "example": "The forecast predicts slower growth next year.",
+    "fr": "prévision"
+  },
+  {
+    "id": "w-048",
+    "word": "exempt",
+    "partOfSpeech": "adjective",
+    "definition": "not required to follow a rule or pay a charge",
+    "example": "Non-profit organizations are exempt from the tax.",
+    "fr": "exonéré, dispensé"
+  },
+  {
+    "id": "w-049",
+    "word": "outstanding",
+    "partOfSpeech": "adjective",
+    "definition": "of a payment or task, not yet paid or completed",
+    "example": "Please settle the outstanding balance by Friday.",
+    "fr": "impayé, en suspens"
+  },
+  {
+    "id": "w-050",
+    "word": "diversify",
+    "partOfSpeech": "verb",
+    "definition": "to expand into new products, markets or activities",
+    "example": "The company diversified into renewable energy.",
+    "fr": "diversifier"
+  }
+]
