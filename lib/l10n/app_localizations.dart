@@ -937,6 +937,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Resume your session ({done} / {total})'**
   String dashboardResumeSession(int done, int total);
+
+  /// No description provided for @weakSpotsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Weak spots'**
+  String get weakSpotsTitle;
+
+  /// No description provided for @weakSpotsHint.
+  ///
+  /// In en, this message translates to:
+  /// **'Your lowest success rates (5 answers or more). Tap one to train on it.'**
+  String get weakSpotsHint;
+
+  /// No description provided for @weakSpotName.
+  ///
+  /// In en, this message translates to:
+  /// **'Part {part} · {category}'**
+  String weakSpotName(int part, String category);
 }
 
 class _AppLocalizationsDelegate

@@ -303,5 +303,18 @@
         "type": "int"
       }
     }
+  },
+  "weakSpotsTitle": "Points faibles",
+  "weakSpotsHint": "Tes taux de réussite les plus bas (5 réponses ou plus). Touche-en un pour t'y entraîner.",
+  "weakSpotName": "Partie {part} · {category}",
+  "@weakSpotName": {
+    "placeholders": {
+      "part": {
+        "type": "int"
+      },
+      "category": {
+        "type": "String"
+      }
+    }
   }
 }

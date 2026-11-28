@@ -44,9 +44,16 @@ class ExerciseRepository {
     required Set<ToeicPart> parts,
     required int questionCount,
     Set<String> seen = const {},
+    QuestionCategory? category,
   }) async {
     final pool = _unseenFirst(
-      (await _all()).where((e) => parts.contains(e.part)).toList(),
+      (await _all())
+          .where(
+            (e) =>
+                parts.contains(e.part) &&
+                (category == null || e.questions.any((q) => q.category == category)),
+          )
+          .toList(),
       seen,
     );
     final drawn = <Exercise>[];
