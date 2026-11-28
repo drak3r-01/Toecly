@@ -1,221 +1,551 @@
 [
   {
-    "id": "p6-439",
-    "documentType": "advertisement",
-    "text": "Hartley & Moss Chartered Accountants\n\nRunning a growing business leaves little time for tax planning, yet [1] decisions taken early in a company's life can determine its liabilities for years to come. Hartley & Moss has advised owner-managed firms for more than three decades, and our partners combine technical expertise with a practical understanding of commercial pressures.\n\n[2] We do not offer generic packages; instead, each client is assigned a partner who becomes familiar with the business and anticipates problems before they arise. [3] you are preparing for a sale, a succession or a period of rapid expansion, we shall tailor our advice accordingly. Contact us before 31 March to arrange a complimentary review, [4] which we shall outline the savings that may be available to you.",
+    "id": "p6-485",
+    "documentType": "notice",
+    "text": "BUILDING MANAGEMENT NOTICE: Monthly Fire Alarm Test\n\nAll tenants are reminded that the fire alarm system will be tested on the first Monday of every month at 10 a.m. The test will last approximately ten minutes, during which the alarm will sound continuously. Tenants are not required to leave the building, [1] they should not assume that the alarm indicates a test unless an announcement is made to that effect.\n\nIf an alarm sounds at any other time, it must be treated as genuine, and everyone should proceed immediately to the nearest exit. [2] Lifts will be taken [3] service during an evacuation, so the stairwells should be used at all times. Anyone who needs assistance to leave the building should register with the front desk, so that arrangements can be [4] in advance.\n\nThe next test will take place on Monday 6 October. Further guidance is available in section 7 of the Tenant Handbook.",
     "questions": [
       {
         "blank": 1,
-        "category": "vocabulary",
+        "category": "connector",
         "choices": [
-          "seemingly",
-          "supposedly",
-          "arguably",
-          "apparently"
+          "so long as",
+          "inasmuch as",
+          "even though",
+          "in case"
         ],
-        "answerIndex": 0,
-        "explanation": "'Seemingly minor decisions' are decisions that appear minor but are not; the others suggest doubt about whether the decisions are made or minor in ways that do not fit."
+        "answerIndex": 2,
+        "explanation": "'Even though tenants are not required to leave, they should not assume ...' concedes a fact before a warning. 'Inasmuch as' and 'so long as' give a reason or a condition that makes no sense here, and 'in case' expresses a precaution."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Our approach is deliberately automated, which is why many of our clients have remained with us for more than twenty years.",
-          "Our approach is deliberately personal, which is why many of our clients have remained with us for more than twenty years.",
-          "Our approach was deliberately personal, which is why many of our clients have remained with us for more than twenty years.",
-          "Our fees are deliberately modest, which is why many of our clients have complained to us about more than twenty items."
+          "Tenants should not stop to collect personal belongings, and should wait at their desks for instructions from the front desk.",
+          "Tenants should not stop to collect personal belongings, and should report to the assembly point once the alarm has been silenced.",
+          "Tenants should not stop to collect personal belongings, and should close doors behind them without locking them.",
+          "Tenants should stop to collect personal belongings, and should lock doors behind them before leaving the floor."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence says 'We do not offer generic packages', contrasting with a personal approach; only the first option announces it. The others describe automation, use a past tense, or refer to fees and complaints."
+        "answerIndex": 2,
+        "explanation": "The previous sentence orders everyone to 'proceed immediately to the nearest exit', so only an instruction that keeps people moving fits: no stopping for belongings and closing doors without locking them. Stopping to collect items, waiting at desks for instructions, or reporting to the assembly point only once the alarm is silenced all contradict 'immediately'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "beyond",
+          "off",
+          "away from",
+          "out of"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Taken out of service' is the fixed expression meaning no longer operating; 'off', 'away from' and 'beyond' do not combine with 'service' in this way."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "given",
+          "held",
+          "taken",
+          "made"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Arrangements can be made' is the standard collocation; 'arrangements' are not 'taken', 'given' or 'held'."
+      }
+    ]
+  },
+  {
+    "id": "p6-486",
+    "documentType": "email",
+    "text": "To: Warehouse Managers\nFrom: Ludovica Ferrante, Supply Chain Director\nSubject: Peak-season staffing\n\nAs in previous years, demand will peak between mid-November and the end of December, and I should like to confirm the arrangements for temporary staff. [1] In response, agencies have been asked to supply workers who can start at short notice and who have completed the mandatory safety induction.\n\nManagers are [2] for estimating their requirements by shift and for submitting them to me by 30 September. [3] the cost of temporary labor has risen, the alternative of understaffing would be far more expensive, since late deliveries incur penalties under most of our contracts. [4] requests received after the deadline, we cannot guarantee that agencies will be able to supply the numbers required. A provisional budget of £210,000 has been allocated across the five sites and will be adjusted once the forecasts have been reviewed.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Last year, a shortage of storage space in mid-December delayed more than forty customer shipments.",
+          "In earlier years, a fall in customer orders in mid-December left many temporary staff without work.",
+          "Last year, a surplus of trained staff in mid-December raised labor costs well above the planned budget.",
+          "Last year, a shortage of trained staff in mid-December delayed more than forty customer shipments."
+        ],
+        "answerIndex": 3,
+        "explanation": "'In response' in the next sentence needs a problem that agencies supplying workers at short notice would solve, namely a staffing shortage. A surplus of staff, a lack of storage space and a drop in orders would not be answered by workers who can start immediately."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "responsive",
+          "respondent",
+          "responsibly",
+          "responsible"
+        ],
+        "answerIndex": 3,
+        "explanation": "Managers are 'responsible for' estimating requirements, the fixed adjective plus preposition. 'Responsive' means quick to react, 'respondent' is a noun, and 'responsibly' is an adverb that cannot follow 'are'."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
+          "Given that",
+          "Unless",
           "Although",
-          "Because",
-          "Whether",
-          "Unless"
+          "Now that"
         ],
         "answerIndex": 2,
-        "explanation": "'Whether you are preparing for a sale, a succession or a period of rapid expansion' introduces alternatives; the others cannot present options."
+        "explanation": "'Although the cost of temporary labor has risen' concedes a drawback before the main argument that understaffing would cost more. 'Unless' sets a condition, and 'given that' and 'now that' would present the rise in cost as the reason for the conclusion."
       },
       {
         "blank": 4,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "within",
-          "upon",
-          "beside",
-          "during"
+          "In lieu of",
+          "In the case of",
+          "In excess of",
+          "In pursuit of"
         ],
-        "answerIndex": 3,
-        "explanation": "'During which we shall outline' needs the relative 'which' with a preposition meaning in the course of; 'during' fits, whereas 'within', 'upon' and 'beside' do not match the time sense."
+        "answerIndex": 1,
+        "explanation": "'In the case of requests received after the deadline' introduces the specific situation to which the warning applies. 'In lieu of' means instead of, 'in pursuit of' means chasing, and 'in excess of' means more than."
       }
     ]
   },
   {
-    "id": "p6-440",
-    "documentType": "schedule",
-    "text": "Annual Conference of the Regional Planning Association\nProgram Notes for Delegates\n\nThe opening plenary will begin at 9.30 a.m. on Thursday, [1] registration will open at 8.30. Parallel sessions will follow at 11.00, and delegates are asked to indicate their choices on the form provided so that rooms of appropriate size can be allocated.\n\n[2] Sessions on housing and transport are expected to attract the largest audiences, and places will therefore be offered on a first-come basis. Lunch will be served between 1.00 and 2.00 p.m.; delegates with dietary requirements should [3] the organizers in advance. The conference dinner, [4] will take place at the Guildhall, requires a separate booking.",
+    "id": "p6-487",
+    "documentType": "review",
+    "text": "Hotel Review: The Alder House, Edinburgh\nRating: 4 out of 5 stars\n\nThe Alder House occupies a restored Georgian townhouse five minutes' walk from the castle. [1] Our room, which overlooked a quiet square, combined period features such as high ceilings and sash windows with a modern bathroom and an excellent bed.\n\nStaff were attentive without being intrusive, and breakfast, which uses produce from local suppliers, was consistently good. We also dined in the hotel restaurant on the second evening, and the seasonal menu was both imaginative and well presented. [2], prices are high: a double room costs almost double the city average, at £240 per night against roughly £125, and the lack of a lift may be [3] for guests with limited mobility. [4] these drawbacks, I would stay again without hesitation.\n\nStayed: March, two nights, as part of a leisure trip.",
     "questions": [
       {
         "blank": 1,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "whereas",
-          "therefore",
-          "moreover",
-          "hence"
+          "The conversion has been done with evident care, and the character of the original building has largely been preserved.",
+          "The conversion has been carried out with evident haste, and the character of the original building has largely been lost.",
+          "The conversion has been carried out with evident care, but the character of the original rooms has largely been lost.",
+          "The conversion will be carried out with evident care, and the character of the original building will largely be preserved."
         ],
         "answerIndex": 0,
-        "explanation": "'Whereas registration will open at 8.30' sets the earlier registration against the later plenary; the others do not express contrast."
+        "explanation": "The next sentence describes a room that keeps 'high ceilings and sash windows' alongside modern comforts, so the preceding sentence must say the original character was preserved. 'Haste' and a loss of character contradict those period features, and the future tense clashes with 'restored' and with a review of a past stay."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
+        "category": "connector",
         "choices": [
-          "Some sessions are likely to be canceled, so delegates are advised to submit their luggage as early as possible.",
-          "Some sessions are likely to be oversubscribed, so delegates are advised to submit their choices as early as possible.",
-          "All sessions are likely to be undersubscribed, so delegates are advised to submit their choices as late as possible.",
-          "Some sessions were oversubscribed, so delegates were advised to submit their choices as early as possible."
+          "Accordingly",
+          "Admittedly",
+          "Similarly",
+          "Subsequently"
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence says that sessions on housing and transport will attract the largest audiences and that places will be offered first-come, so the previous one must warn about oversubscription; the others contradict or are irrelevant."
+        "explanation": "'Admittedly' concedes a weakness after praise and prepares the negative point 'prices are high'. 'Similarly' adds a parallel point, 'subsequently' marks time order, and 'accordingly' signals a result, none of which fits a concession."
       },
       {
         "blank": 3,
         "category": "vocabulary",
         "choices": [
-          "notice",
-          "notion",
-          "notify",
-          "nominate"
+          "problematic",
+          "profitable",
+          "persistent",
+          "prosperous"
         ],
-        "answerIndex": 2,
-        "explanation": "Delegates should 'notify' the organizers, meaning inform them; 'notice' means observe, 'notion' is a noun, and 'nominate' means propose."
+        "answerIndex": 0,
+        "explanation": "The lack of a lift may be 'problematic' for guests with limited mobility, which is a drawback. 'Prosperous' and 'profitable' describe wealth and gain, and 'persistent' describes something that continues, so none of them fits the reviewer's complaint."
       },
       {
         "blank": 4,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "what",
-          "who",
-          "where",
-          "which"
+          "Despite",
+          "Besides",
+          "Following",
+          "Given"
         ],
-        "answerIndex": 3,
-        "explanation": "'The conference dinner, which will take place at the Guildhall' needs a non-defining relative pronoun referring to a thing."
+        "answerIndex": 0,
+        "explanation": "'Despite these drawbacks' concedes the faults and leads to the surprising conclusion 'I would stay again'. 'Besides' adds to them, 'given' would imply that the faults justify not returning, and 'following' only marks sequence."
       }
     ]
   },
   {
-    "id": "p6-441",
-    "documentType": "online_chat",
-    "text": "Isabel Moreno [10:02]: Have the auditors replied about the revised schedule?\nGareth Pugh [10:05]: They have. They can begin on the 14th, [1] they would need access to the accounts ledger by the preceding Friday.\nIsabel Moreno [10:06]: That is feasible. [2]\nGareth Pugh [10:08]: Agreed. I'll also ask whether they would [3] a joint session with the tax team on the first morning.\nIsabel Moreno [10:09]: Good idea. Please make sure they understand that the migration to the new system is still [4] to be completed by the 10th.",
+    "id": "p6-488",
+    "documentType": "letter",
+    "text": "Dear Professor Linden,\n\nOn behalf of the programme committee, I am delighted to invite you to give a plenary lecture at the International Symposium on Sustainable Materials, to be held in Lisbon from 8 to 10 September. [1] In particular, your recent paper on biodegradable composites generated considerable discussion among committee members, and we believe that it would be of great interest to delegates.\n\nThe symposium will cover the cost of your accommodation for three nights and will [2] your airfare up to a maximum of €800. We should be grateful if you could let us know by 15 April whether you are able to accept, [3] your name can be included in the preliminary program. If you wish to be [4] by a coauthor or a student, please inform us, and we shall endeavor to arrange a reduced registration fee. The lecture will last forty-five minutes, followed by fifteen minutes for questions.\n\nYours sincerely,\nBeatriz Calado",
     "questions": [
       {
         "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your research on sustainable materials has attracted considerable attention within the committee over the past two years.",
+          "Your research on sustainable materials has attracted considerable attention within the committee, though its relevance to delegates is unclear.",
+          "Our symposium on sustainable materials has attracted considerable attention within the sector over the past two years.",
+          "Your research on sustainable materials has attracted considerable criticism within the committee over the past two years."
+        ],
+        "answerIndex": 0,
+        "explanation": "'In particular, your recent paper' must narrow down a general positive statement about the professor's own research and the committee's interest. Mentioning 'criticism', doubting relevance to delegates, or talking about the symposium instead of the professor's research fails to lead into 'we believe that it would be of great interest to delegates'."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "reimburse",
+          "reinstate",
+          "reclaim",
+          "redeem"
+        ],
+        "answerIndex": 0,
+        "explanation": "The symposium will 'reimburse' the airfare, meaning repay the cost up to €800. 'Reinstate' and 'redeem' do not take an airfare as their object in this sense, and 'reclaim' would mean the professor recovers it rather than the symposium paying."
+      },
+      {
+        "blank": 3,
         "category": "connector",
         "choices": [
-          "provided that",
-          "as though",
+          "so that",
+          "in case",
           "even if",
           "whereas"
         ],
         "answerIndex": 0,
-        "explanation": "'Provided that' states the condition: they can begin on the 14th on condition of access by Friday; the others misstate the relation."
-      },
-      {
-        "blank": 2,
-        "category": "sentence_insertion",
-        "choices": [
-          "However, the migration of the ledger will have to be postponed after then, otherwise the data may be incomplete.",
-          "However, the migration of the ledger will have to be finished before then, otherwise the data may be incomplete.",
-          "Therefore, the migration of the ledger is finished, otherwise the auditors would have no data to examine.",
-          "However, the migration of the ledger has been finished since then, so the data may be incomplete."
-        ],
-        "answerIndex": 1,
-        "explanation": "The next message ('Agreed') accepts a condition about migration, so the previous message must set it: the ledger migration must be finished before the auditors need access. The others reverse the timing, use 'therefore' wrongly, or contradict the facts."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "accumulate",
-          "accompany",
-          "accommodate",
-          "acquaint"
-        ],
-        "answerIndex": 2,
-        "explanation": "A schedule can 'accommodate' a joint session, meaning make room for it; 'accumulate' means gather, 'accompany' means go with, and 'acquaint' means make familiar."
+        "explanation": "'So that your name can be included' gives the purpose of asking for a reply by 15 April. 'Even if', 'in case' and 'whereas' do not express purpose and would make the deadline illogical."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "scheduling",
-          "schedule",
-          "schedules",
-          "scheduled"
+          "accompanied",
+          "accompanying",
+          "accompany",
+          "accompanies"
         ],
-        "answerIndex": 3,
-        "explanation": "'Is still scheduled to be completed' needs the past participle after 'is'; the other forms do not fit."
+        "answerIndex": 0,
+        "explanation": "After 'to be' the passive requires a past participle: 'to be accompanied by a coauthor or a student'. 'Accompanying', 'accompany' and 'accompanies' cannot follow 'to be' in this passive."
       }
     ]
   },
   {
-    "id": "p6-442",
-    "documentType": "invoice",
-    "text": "Statement of Account – Harcourt Industrial Supplies\n\nCustomer: Brandt Engineering Ltd\nPeriod: 1 April to 30 June\n\nThe total below reflects all goods supplied during the period and credit notes issued up to 30 June. [1] Items returned after that date will be credited on the next statement. The balance is payable within thirty days of the statement date; amounts outstanding beyond that period will [2] interest at 2 percent per month.\n\nWe would draw your attention to the following. [3] the volume discount agreed in January, invoice 20871 has been issued at the standard rate, and a credit note will follow. Should you disagree with any entry, please notify us in writing [4] fourteen days of receipt.",
+    "id": "p6-489",
+    "documentType": "article",
+    "text": "Smaller Firms Embrace Four-Day Trials\n\nA growing number of small businesses are experimenting with a four-day working week, [1] fears that productivity will suffer. Among them is Calderwood Print, a firm of thirty employees in Leeds, which reduced its week to thirty-two hours last spring without a cut in pay. [2] Its managing director, Laura Voss, attributes the improvement to better morale, noting that output has held steady while absenteeism has fallen by a quarter. A pilot scheme covering sixty-one companies found similar patterns, with revenue broadly unchanged after six months.\n\nCritics, [3], doubt that the model can be applied across the economy. Roles that require constant availability, such as those in customer support, are difficult to cover without additional staff. Ms. Voss [4] that the model may not suit every sector, but says that the experiment has been worthwhile for her own company.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "thanks to",
+          "due to",
+          "despite",
+          "owing to"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Despite fears that productivity will suffer' expresses concession: firms are trying the scheme although they fear a loss. 'Owing to', 'due to' and 'thanks to' express cause, which would wrongly make the fears the reason for the trials."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The trial, which runs until September, will exceed the expectations of the company's management if output holds steady.",
+          "The trial, which runs until September, has so far greatly exceeded the expectations of the company's management.",
+          "The trial, which runs until September, has so far fallen short of the expectations of the company's management.",
+          "The trial, which runs until September, has so far cost more than the company's management had originally budgeted."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence refers to 'the improvement' and reports steady output and lower absenteeism, so the preceding sentence must announce favorable results. Results that 'fell short of expectations' and a trial that 'cost more' than budgeted describe no improvement, and a conditional 'will exceed ... if output holds steady' contradicts the report that output has already held steady."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "accordingly",
+          "consequently",
+          "likewise",
+          "however"
+        ],
+        "answerIndex": 3,
+        "explanation": "The critics' doubt contrasts with the encouraging results just described, and 'however' marks that contrast. 'Consequently', 'likewise' and 'accordingly' would present the doubt as a result or a similarity."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "acknowledges",
+          "denies",
+          "insists",
+          "pretends"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Acknowledges that the model may not suit every sector, but says ...' fits because the 'but' introduces what she maintains despite the concession. 'Denies' and 'insists' contradict the cautious 'may not suit', and 'pretends' implies insincerity."
+      }
+    ]
+  },
+  {
+    "id": "p6-490",
+    "documentType": "email",
+    "text": "To: Training Participants\nFrom: Cordelia Marsh, Learning Coordinator\nSubject: Postponement of the leadership workshop\n\nI regret to inform you that the leadership workshop scheduled for 12 and 13 May has had to be postponed, owing to the unexpected illness of the facilitator. The new dates are 9 and 10 June, and the venue will remain unchanged. [1] Those who are unable to attend on the revised dates should inform me by 20 May so that a place can be reserved for them in the next available session.\n\nIn the meantime, I would ask you to [2] the pre-workshop questionnaire, [3] the original deadline of 5 May has passed. Responses that have already been submitted will be retained, and no further action is required on your part. Travel and accommodation bookings made through the training office will be amended free of charge. [4] you have any questions, please do not hesitate to contact me.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Credit notes issued after 30 June are not included in this statement and will appear on the next one.",
-          "Credit notes issued before 30 June are not included in this statement and will be shown separately.",
-          "Credit notes issued after 30 June have been included in this statement, as the balance below shows.",
-          "Goods supplied after 30 June are not included in this statement and will be credited on the next one."
+          "All participants who attended the previous session were transferred automatically to the revised dates without reapplying.",
+          "All participants currently registered will be removed automatically from the revised dates unless they reapply in writing.",
+          "All participants currently registered must confirm in writing that they can attend the revised dates by 5 May.",
+          "All participants currently registered will be transferred automatically to the revised dates without having to reapply."
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence says 'Items returned after that date will be credited on the next statement', so 'that date' must be 30 June and the previous sentence must say what falls after it. The others contradict the first sentence (credit notes issued up to 30 June) or confuse goods and credits."
+        "answerIndex": 3,
+        "explanation": "The sentence that follows deals with 'those who are unable to attend', which presupposes that everyone else keeps a place, and a later sentence says 'no further action is required'. Automatic transfer 'without having to reapply' fits both. A duty to reapply or confirm contradicts 'no further action', and the past-tense statement about a previous session does not apply to this workshop."
       },
       {
         "blank": 2,
         "category": "vocabulary",
         "choices": [
-          "accrete",
-          "accrue",
-          "accede",
-          "accuse"
+          "comprise",
+          "compose",
+          "complete",
+          "compile"
         ],
-        "answerIndex": 1,
-        "explanation": "Overdue amounts 'accrue' interest, meaning it accumulates; 'accrete', 'accede' and 'accuse' do not fit."
+        "answerIndex": 2,
+        "explanation": "Participants are asked to 'complete the pre-workshop questionnaire', meaning fill it in. 'Compile' and 'compose' mean assemble or write, and 'comprise' means consist of, so none of them suits a form that already exists."
       },
       {
         "blank": 3,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "Pursuant to",
-          "Owing to",
-          "Contrary to",
-          "Thanks to"
+          "such that",
+          "even though",
+          "so that",
+          "as though"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Even though the original deadline of 5 May has passed' concedes that the date is gone yet the task is still requested. 'As though' makes a comparison, and 'so that' and 'such that' express purpose or result, neither of which fits."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Albeit",
+          "Insofar",
+          "Should",
+          "Whereas"
         ],
         "answerIndex": 2,
-        "explanation": "'Contrary to the volume discount agreed in January, invoice 20871 has been issued at the standard rate' shows the invoice departs from the agreement; 'pursuant to' would mean in accordance with it, and the others give causes that do not fit."
+        "explanation": "'Should you have any questions' is an inverted conditional meaning 'if you have any questions', the standard closing of a formal email. 'Albeit', 'insofar' and 'whereas' cannot open a conditional clause."
+      }
+    ]
+  },
+  {
+    "id": "p6-491",
+    "documentType": "web_page",
+    "text": "Greystone Apartments – Maintenance Requests\n\nResidents who wish to report a fault should do so through the online portal, which is monitored daily. Requests are classified as urgent, routine or cosmetic, and the target time for a response depends on the category: twenty-four hours for urgent faults, five working days for routine faults, and thirty days for cosmetic repairs. [1]\n\nWhere a fault is [2] by a resident, for example through misuse or negligence, the cost of repair may be charged to the tenant. Access to the apartment will normally be arranged in advance [3] in an emergency, when staff may enter without notice. Repairs are carried out between 9 a.m. and 5 p.m., [4] a different time has been agreed. For emergencies outside office hours, residents should telephone the 24-hour line on 0161 555 0142 rather than use the portal.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "A resident who has not received a response within these periods may escalate the matter to the property manager.",
+          "A resident who has not received a response within these periods will be charged for the repair by the property manager.",
+          "A property manager who has not received a request within these periods may escalate the matter to the resident.",
+          "A resident who had not received a response within those periods could escalate the matter to the property manager."
+        ],
+        "answerIndex": 0,
+        "explanation": "'These periods' refers to the target response times, so the sentence must say what a resident can do when a deadline is missed: escalate to the property manager. A past-tense version does not describe the current procedure, reversing the roles makes the manager the complainant, and charging a resident for a late response contradicts the rule that charges apply to faults the resident caused."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "concealed",
+          "corrected",
+          "caused",
+          "contested"
+        ],
+        "answerIndex": 2,
+        "explanation": "A fault 'caused by a resident, for example through misuse or negligence' is one the resident brought about, which justifies charging the repair; 'concealed', 'contested' and 'corrected' do not fit 'through misuse or negligence'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "albeit",
+          "besides",
+          "whereas",
+          "except"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Except in an emergency' states the one exception to advance arrangement of access; 'besides' means in addition to, 'whereas' contrasts two clauses and 'albeit' concedes, and neither can be followed by 'in an emergency' here."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "whenever",
+          "whilst",
+          "provided",
+          "unless"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Unless a different time has been agreed' states the condition under which the 9 a.m. to 5 p.m. rule does not apply; 'whilst', 'whenever' and 'provided' would either contrast or make the standard hours dependent on a different time being agreed."
+      }
+    ]
+  },
+  {
+    "id": "p6-492",
+    "documentType": "memo",
+    "text": "To: Finance Staff\nFrom: Arvid Nilsson, Financial Controller\nSubject: Year-end closing procedures\n\nThe financial year will close on 31 December, and the following procedures apply to all departments. All invoices received by 15 December must be approved and entered into the system by 22 December. [1] Invoices that arrive after 15 December will be recorded as accruals, which will be reversed in January once the actual amounts are confirmed.\n\nDepartments are asked to [2] their outstanding commitments by 18 December, so that the accruals can be estimated with reasonable accuracy. [3] a department fails to do so, the controller's office will make its own estimate, which may differ significantly from the final figure. The external auditors will arrive on 12 January, and they will expect all supporting documents to be [4] by that date.\n\nExpense claims for the current year must reach the finance office by 20 December; claims received later will be charged to next year's budget.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "This left one week for queries to be resolved before the ledgers were locked at the close of business on 29 December.",
+          "This leaves one week for queries to be resolved before the ledgers are locked at the close of business on 19 December.",
+          "This leaves one week for queries to be resolved before the ledgers are locked at the close of business on 29 December.",
+          "This leaves one week for queries to be resolved before the ledgers are locked at the close of business on 5 January."
+        ],
+        "answerIndex": 2,
+        "explanation": "Invoices must be approved by 22 December, so a lock date of 29 December really does leave 'one week'. A lock on 5 January would leave two weeks, a lock on 19 December would fall before the approval deadline, and 'left' and 'were locked' use the past tense for a future procedure."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "conform",
+          "confide",
+          "confirm",
+          "confine"
+        ],
+        "answerIndex": 2,
+        "explanation": "Departments must 'confirm' (verify) their outstanding commitments so that the accruals can be estimated. 'Confide' means to share secrets, 'confine' means to restrict, and 'conform' means to comply."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Wherein",
+          "Whereby",
+          "Where",
+          "Whereas"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Where a department fails to do so' introduces the specific case in which the controller makes an estimate. 'Whereas' would contrast two facts, and 'wherein' and 'whereby' cannot open a conditional case."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "during",
-          "by",
-          "since",
-          "within"
+          "availing",
+          "available",
+          "availed",
+          "avail"
+        ],
+        "answerIndex": 1,
+        "explanation": "'To be available by that date' needs the adjective 'available'. 'Availed', 'availing' and 'avail' are verb forms that do not give a meaningful passive or complement after 'be'."
+      }
+    ]
+  },
+  {
+    "id": "p6-493",
+    "documentType": "notice",
+    "text": "NOTICE TO TENANTS\n\nThe building management will replace the main water supply pipes on the second and third floors between 3 and 7 March. [1] The latter option, which involves a short interruption on each floor in turn, was chosen because it keeps the rest of the building fully operational.\n\nWater will be suspended on each floor between 9 a.m. and 1 p.m. on the day of the work, and tenants are asked to [2] any items stored beneath sinks so that the contractors can gain access. [3] the work extend beyond 7 March, the management has arranged a temporary supply from the ground-floor kitchen. Any damage caused by the contractors will be repaired at no cost to tenants, [4] it is reported to the office within seven days. Questions may be addressed to the building manager, Ms. Delgado, on extension 214.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Two schedules were considered: replacing all of the pipes simultaneously, or proceeding floor by floor.",
+          "The pipes will be replaced floor by floor; the alternative would have been to replace them all simultaneously.",
+          "Two schedules were considered: replacing all of the pipes simultaneously, or closing the building for a week.",
+          "Two schedules were considered: proceeding floor by floor, or replacing all of the pipes simultaneously."
+        ],
+        "answerIndex": 0,
+        "explanation": "'The latter option' refers to the second of two alternatives, and it must be the work done floor by floor 'in turn'. Only the sentence ending with 'or proceeding floor by floor' fits; the reordered version and the 'alternative' version make the latter option the simultaneous replacement, and closing the building would not match the short interruption on each floor."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "clarify",
+          "claim",
+          "clean",
+          "clear"
         ],
         "answerIndex": 3,
-        "explanation": "'Notify us in writing within fourteen days of receipt' gives a time limit measured from receipt; 'by' would need a date, and the others do not fit."
+        "explanation": "Tenants are asked to 'clear' items from beneath sinks so that the contractors can gain access. 'Clean', 'clarify' and 'claim' do not achieve that purpose."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Should",
+          "Had",
+          "Whether",
+          "Unless"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Should the work extend beyond 7 March' is an inverted conditional meaning 'if the work extends', and the base form 'extend' matches it. 'Had' would require a past participle, 'whether' needs an alternative and 'unless' reverses the logic of a back-up arrangement."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "provided that",
+          "provision that",
+          "provide that",
+          "provided on"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Provided that it is reported' means on condition that it is reported, and it is a fixed conjunction. 'Provided on', 'provide that' and 'provision that' are not valid conjunctions in this position."
+      }
+    ]
+  },
+  {
+    "id": "p6-494",
+    "documentType": "article",
+    "text": "Retail analysts expect consumer spending to remain subdued through the first half of next year. [1] The former is expected to ease gradually as supply chains recover, whereas the latter is likely to persist until central banks begin to reduce interest rates. A survey of 1,200 shoppers by Calloway Research found that 41 percent intend to cut discretionary spending.\n\nRetailers are therefore expected to [2] a cautious approach to stocking and promotions. Large chains are likely to cope reasonably well, [3] smaller independent stores will struggle to absorb higher costs without raising prices. Online retailers, which now account for nearly a third of sales, are expected to fare slightly better. Analysts advise investors not to read too much [4] a single quarter's figures, since seasonal patterns can distort short-term trends and mask the underlying direction of demand.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Two pressures are widely cited: a sharp increase in the cost of borrowing and elevated input costs.",
+          "Several pressures are widely cited, including elevated input costs, weak wage growth and the cost of borrowing.",
+          "Two pressures are widely cited: elevated input costs and a sharp increase in the cost of borrowing.",
+          "Two pressures are widely cited: weak wage growth and a sharp increase in the cost of borrowing."
+        ],
+        "answerIndex": 2,
+        "explanation": "'The former' must be the pressure that eases as supply chains recover (input costs) and 'the latter' the one lasting until rates fall (borrowing), so the sentence must list exactly two items in that order. Listing borrowing first reverses them, 'weak wage growth' would not ease with supply chains, and a list of three items cannot be split into former and latter."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "abandon",
+          "resist",
+          "replace",
+          "adopt"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Adopt a cautious approach' follows from subdued spending, as the word 'therefore' signals. 'Abandon', 'resist' and 'replace' would mean retailers move away from caution, which contradicts the forecast."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "wherein",
+          "whereby",
+          "whenever"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whereas' contrasts large chains that cope well with smaller stores that will struggle. 'Whereby' and 'wherein' are relative adverbs, and 'whenever' expresses time rather than contrast."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "over",
+          "into",
+          "upon",
+          "onto"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Read too much into' is the fixed idiom for over-interpreting something, here 'a single quarter's figures'. 'Onto', 'upon' and 'over' do not combine with 'read too much' in this sense."
       }
     ]
   }

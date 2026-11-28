@@ -1,166 +1,551 @@
 [
   {
-    "id": "p6-449",
+    "id": "p6-606",
     "documentType": "memo",
-    "text": "To: Programme Managers\nFrom: Lucian Moreau, Quality Assurance\nSubject: Supplier audit findings\n\nThe audit of our three principal component suppliers was completed last week. Two met every requirement; the third, Delvaux Metals, fell short in several respects. [1] In particular, its records of batch testing were incomplete, which makes it impossible to trace defective parts to their origin.\n\nDelvaux has been given sixty days to submit a corrective action plan. [2] we receive no satisfactory response, orders will be transferred to an alternative supplier. In the meantime, programme managers should [3] incoming deliveries from Delvaux with particular care and report any anomaly at once. Please note that the audit report is confidential and must not be [4] outside the company.",
+    "text": "To: All Sales Agents\nFrom: Clara Benetti, Director of Compliance\nSubject: Property condition disclosure from 1 April\n\nEffective 1 April, agents must obtain a signed condition disclosure statement from every seller before a property is advertised. The requirement follows three disputes last year in which buyers alleged that known defects had not been disclosed. Where a seller declines to complete the statement, the listing may not proceed [1] the written approval of the Compliance Director.\n\nTo verify each statement, the agency will commission an independent survey of every property. [2] The fee will be billed to the seller but deducted from the sale proceeds at completion. Should the survey reveal a discrepancy, the seller will be invited to amend the statement; [3] failure to do so, the listing will be withdrawn.\n\nA briefing on the new procedure will be held on 20 March at 10 a.m. [4] Anyone who misses it must arrange a recorded session with the Compliance Office before listing any property.",
     "questions": [
       {
         "blank": 1,
-        "category": "sentence_insertion",
+        "category": "grammar",
         "choices": [
-          "The deficiencies identified are serious enough to put at risk the certification on which our own products depend.",
-          "The deficiencies identified are minor enough to be remedied without any change to the supplier's own procedures.",
-          "The deficiencies identified were serious enough to have put at risk the certification held by the other two suppliers.",
-          "The strengths identified are significant enough to support the certification on which our own products depend."
+          "although",
+          "without",
+          "despite",
+          "unless"
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence begins 'In particular', which narrows down a general statement of serious shortcomings; the first option gives that statement. The others minimize the problems, attribute the risk to other suppliers, or describe strengths."
+        "answerIndex": 1,
+        "explanation": "'Without the written approval' is a preposition followed by a noun phrase, and it means 'unless the Director has approved'. 'Unless' and 'although' need a clause, and 'despite' reverses the meaning."
       },
       {
         "blank": 2,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "Whereas",
-          "Should",
-          "Albeit",
-          "Insofar"
+          "Surveys will be arranged by the Compliance Office for a fixed fee of £280, payable by the agent.",
+          "Surveys will be arranged by the Compliance Office, and results will be available within five working days.",
+          "Surveys will be arranged by the Compliance Office for a fixed fee of £280 per property inspected.",
+          "Surveys will be arranged by the Compliance Office, which has appointed three firms of chartered surveyors."
         ],
-        "answerIndex": 1,
-        "explanation": "'Should we receive no satisfactory response' is an inverted conditional meaning 'if we receive'; 'whereas', 'albeit' and 'insofar' cannot introduce this condition."
+        "answerIndex": 2,
+        "explanation": "'The fee' needs an antecedent, so the sentence must mention a fee, and the fee must be one that 'will be billed to the seller'. Without a fee, the sentences about results or appointed firms leave 'The fee' unexplained, and a fee 'payable by the agent' contradicts billing the seller."
       },
       {
         "blank": 3,
-        "category": "vocabulary",
+        "category": "connector",
         "choices": [
-          "inspire",
-          "insert",
-          "inspect",
-          "insure"
+          "in favour of",
+          "in the event of",
+          "in view of",
+          "in lieu of"
         ],
-        "answerIndex": 2,
-        "explanation": "Managers should 'inspect' deliveries with care; 'inspire', 'insert' and 'insure' do not fit."
+        "answerIndex": 1,
+        "explanation": "'In the event of failure to do so' states the circumstance in which the listing is withdrawn. 'In lieu of' means 'instead of', 'in favour of' means 'supporting' and 'in view of' means 'given', so none gives a consequence of failure."
       },
       {
         "blank": 4,
-        "category": "vocabulary",
+        "category": "sentence_insertion",
         "choices": [
-          "disposed",
-          "displaced",
-          "dispensed",
-          "disclosed"
+          "Attendance is voluntary for every agent who handles residential listings, and no register will be taken.",
+          "Attendance last year was compulsory for every agent who handled residential listings, and a register was taken.",
+          "The briefing will not be recorded for any agent who handles residential listings, and no register will be taken.",
+          "Attendance is compulsory for every agent who handles residential listings, and a register will be taken."
         ],
         "answerIndex": 3,
-        "explanation": "A confidential report must not be 'disclosed' (revealed) outside the company; 'disposed', 'displaced' and 'dispensed' do not fit."
+        "explanation": "'Anyone who misses it must arrange a recorded session' only makes sense if attendance is compulsory now. 'Voluntary' attendance removes the obligation, 'will not be recorded' conflicts with the 'recorded session', and 'last year' refers to the wrong time."
       }
     ]
   },
   {
-    "id": "p6-450",
-    "documentType": "advertisement",
-    "text": "Lakeshore Conference Centre\n\nChoosing a venue for a corporate event involves more than counting seats. At Lakeshore, we recognize that the success of a meeting depends on [1] details that delegates seldom notice but always feel: natural light, reliable connectivity, and rooms in which people can hear one another without effort.\n\n[2] Our nine rooms, which accommodate between ten and four hundred guests, can be reconfigured overnight, and our in-house team handles every aspect of catering and equipment. [3] it is a board retreat or an international congress, a single coordinator will oversee your event from the first inquiry to the final invoice. Enquiries received [4] 15 May qualify for a ten percent reduction on autumn bookings.",
+    "id": "p6-607",
+    "documentType": "job_ad",
+    "text": "Learning Experience Designer – Northbridge Training Academy\n\nNorthbridge Training Academy, a provider of vocational courses for the logistics and engineering sectors, is seeking a Learning Experience Designer to join its Manchester team on a permanent basis. The successful candidate will [1] the redesign of our flagship apprenticeship programmes, converting classroom-based content into blended formats that combine online modules with workshop practice.\n\nApplicants must have at least four years' experience of developing accredited courses and a working knowledge of learning management systems. Experience of authoring tools such as Articulate would be [2] advantageous. [3] This requirement may be waived for candidates who can demonstrate eight years of relevant professional experience.\n\nWe offer a competitive salary, 28 days' annual leave and a personal development budget of £1,500. Applications, [4] a CV and a short portfolio of previous work, should be submitted through our careers page by 15 January.",
     "questions": [
       {
         "blank": 1,
         "category": "vocabulary",
         "choices": [
-          "subtle",
-          "suitable",
-          "sizeable",
-          "solitary"
+          "overrule",
+          "oversee",
+          "overtake",
+          "overlook"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Oversee the redesign' means to supervise it, which fits a senior design role. 'Overlook' means to ignore, 'overrule' means to cancel a decision and 'overtake' means to pass, so none suits 'the redesign of our flagship programmes'."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "deeply",
+          "strongly",
+          "thoroughly",
+          "highly"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Highly advantageous' is the standard collocation. 'Thoroughly', 'strongly' and 'deeply' are not used to intensify this adjective."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "Degrees in education and instructional design have become increasingly common among applicants in recent years.",
+          "A degree in education, instructional design or a related discipline is also essential for this position.",
+          "Several members of the current team hold degrees in education, instructional design or a related field.",
+          "A degree in education, instructional design or a related discipline is not necessary for this position."
+        ],
+        "answerIndex": 1,
+        "explanation": "'This requirement may be waived' needs a requirement just before it, and only the statement that a degree is 'essential' provides one. The sentences about degrees being 'common' or held by the current team state no requirement, and 'not necessary' leaves nothing to waive."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "inclusion",
+          "included",
+          "including",
+          "includes"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Applications, including a CV and a short portfolio' is a participle phrase that adds detail to the noun. 'Included' and 'includes' do not fit before a noun phrase without a subject, and 'inclusion' is a noun."
+      }
+    ]
+  },
+  {
+    "id": "p6-608",
+    "documentType": "review",
+    "text": "Review: Taurex FL-500 Fibre Laser Cutter\nReviewed by Imre Kovacs, Production Manager, Danbury Metalworks\n\nWe installed the Taurex FL-500 in our fabrication hall in March, replacing a plasma cutter that [1] in service for eleven years. In daily use it cuts 12-millimetre steel at nearly three times the speed of its predecessor, while energy consumption per part has fallen by almost a third.\n\nThe machine is not without drawbacks. Its software interface is cluttered, and several operators needed a fortnight to feel confident with it. [2] The supplier has promised an update in the autumn that should correct both shortcomings.\n\n[3] the cutting speed is impressive, the greater benefit has been the edge quality, which has eliminated most of the finishing we previously carried out by hand. I would recommend the FL-500 without hesitation to any workshop [4] volumes justify the investment.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "had been",
+          "has been",
+          "is being",
+          "would have been"
         ],
         "answerIndex": 0,
-        "explanation": "'Subtle details' are small, delicate things that delegates seldom notice; the other adjectives do not match 'seldom notice but always feel'."
+        "explanation": "The plasma cutter's eleven years of service ended before the March installation, so the past perfect 'had been' is needed. 'Has been' and 'is being' imply it is still in service, and 'would have been' is a hypothetical form."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "Flexibility of this kind is easy to find in any venue, and it is one of the reasons clients leave us.",
-          "Flexibility of this kind is difficult to find in a single venue, and it is one of the reasons clients return to us.",
-          "Rigidity of this kind is difficult to find in a single venue, and it is one of the reasons clients return to us.",
-          "Flexibility of this kind is difficult to afford in a single venue, and it is one of the reasons clients complain."
+          "The extraction system also removes fumes from the hall more effectively than we had originally expected.",
+          "The supplier's engineers also provided additional training free of charge during the first month of use.",
+          "The touchscreen also responds slowly when operators are wearing the protective gloves the hall requires.",
+          "The service contract also costs nearly twice as much as the one we held for our previous cutter."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence describes rooms that can be reconfigured overnight, which is flexibility; only the first option leads into it coherently. The others contradict the advertisement or describe rigidity."
+        "answerIndex": 2,
+        "explanation": "'Both shortcomings' needs a second flaw that a software update could correct, which is the slow touchscreen. The service contract cost is a flaw that software cannot fix, and the extraction system and free training are positive points, not shortcomings."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
+          "Provided that",
+          "Since",
           "Although",
-          "Because",
-          "Whether",
           "Unless"
         ],
         "answerIndex": 2,
-        "explanation": "'Whether it is a board retreat or an international congress' presents two alternatives; the others cannot present options."
+        "explanation": "'Although the cutting speed is impressive, the greater benefit...' concedes one strength before naming a bigger one. 'Provided that' and 'Unless' state conditions, and 'Since' would give a reason that does not follow."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "during",
-          "within",
-          "until",
-          "before"
+          "its",
+          "whose",
+          "who",
+          "whom"
         ],
-        "answerIndex": 3,
-        "explanation": "'Enquiries received before 15 May' gives the deadline for the reduction; 'during' and 'within' do not fit a fixed date and 'until' would suggest continuing up to it."
+        "answerIndex": 1,
+        "explanation": "'Any workshop whose volumes justify the investment' needs a possessive relative to link 'workshop' and 'volumes'. 'Whom' and 'who' cannot show possession, and 'its' cannot introduce a relative clause."
       }
     ]
   },
   {
-    "id": "p6-451",
-    "documentType": "letter",
-    "text": "Dear Dr. Fontaine,\n\nI am writing to confirm the arrangements for your forthcoming lecture at the Institute on 21 November. We should be [1] if you could arrive by 5 p.m., so that the technical team may test the equipment and brief you on the layout of the auditorium.\n\n[2] The lecture is scheduled to begin at 6.30 p.m. and to last approximately fifty minutes, followed by questions from the audience. [3] your fee, we shall pay it by bank transfer within fourteen days of the event, together with any travel costs that you have [4].\n\nYours sincerely,\nRenata Illes\nProgramme Coordinator",
+    "id": "p6-611",
+    "documentType": "advertisement",
+    "text": "HALDEN & PRYCE TRADE PROGRAMME\n\nFurnishing a hotel, a clinic or a co-working space requires far more than choosing attractive pieces. [1] That is why Halden & Pryce has introduced a programme for professional buyers, offering volume pricing, priority dispatch slots and a named account manager who [2] every order from placement to delivery.\n\nMembers receive a discount of up to 22 percent on all purchases [3] their annual spend exceeds £10,000. Orders can be placed online at any hour, and every member is entitled to a complimentary planning consultation at one of our six regional showrooms, where a design adviser will prepare a costed layout for each project.\n\nEnrolment is free of charge but is subject [4] verification of your business registration. Apply before 31 January, and your first consultation will be arranged within a week.",
     "questions": [
       {
         "blank": 1,
-        "category": "grammar",
+        "category": "sentence_insertion",
         "choices": [
-          "grateful",
-          "gracious",
-          "grateful for",
-          "graceful"
+          "Many individual shoppers, however, prefer to compare prices before committing to any purchase.",
+          "Budgets, deadlines and durability must be weighed together, often across several sites at once.",
+          "Many of our private customers tell us they enjoy visiting the showrooms with their families.",
+          "Our flagship showroom has been redesigned so that private customers can browse at their leisure."
         ],
-        "answerIndex": 0,
-        "explanation": "'We should be grateful if you could' is the polite formula; 'gracious' describes manner and 'graceful' describes movement."
+        "answerIndex": 1,
+        "explanation": "'That is why' needs a preceding sentence that states the difficulty faced by professional buyers, and 'Budgets, deadlines and durability must be weighed together, often across several sites' does so. The sentences about private customers, showroom redesign or individual shoppers describe a different audience and could not justify a programme 'for professional buyers'."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
+        "category": "grammar",
         "choices": [
-          "The audience is expected to exclude around two hundred students and members of the public, none of whom have read your latest book.",
-          "The audience is expected to include around two hundred students and members of the public, most of whom have read your latest book.",
-          "The audience was expected to include around two hundred students, most of whom would read your latest book.",
-          "The lecture is expected to include around two hundred students and members of the public, most of whom have read your latest book."
+          "overseeing",
+          "oversees",
+          "have overseen",
+          "oversee"
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence gives the timing of the lecture, so the previous one introduces the audience; only the first is coherent and well formed. The others contradict themselves, use mismatched tenses, or confuse lecture and audience."
+        "explanation": "The relative pronoun 'who' refers to the singular 'a named account manager', so the third-person singular 'oversees' is required. 'oversee' and 'have overseen' do not agree with a singular subject, and 'overseeing' leaves the clause without a finite verb."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "As of",
-          "As far",
-          "As for",
-          "As if"
+          "whereas",
+          "even if",
+          "unless",
+          "provided that"
         ],
-        "answerIndex": 2,
-        "explanation": "'As for your fee' introduces a new topic, meaning regarding; 'as of' refers to a date and 'as if' compares."
+        "answerIndex": 3,
+        "explanation": "The discount is conditional on spending: 'provided that their annual spend exceeds £10,000'. 'unless' reverses the condition, 'whereas' implies a contrast that does not exist, and 'even if' would make the discount independent of spend."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "inferred",
-          "induced",
-          "injured",
-          "incurred"
+          "with",
+          "upon",
+          "to",
+          "under"
+        ],
+        "answerIndex": 2,
+        "explanation": "'subject to' is the fixed expression meaning 'dependent on'. 'subject upon', 'subject with' and 'subject under' are not used in this sense."
+      }
+    ]
+  },
+  {
+    "id": "p6-612",
+    "documentType": "email",
+    "text": "To: All People Managers\nFrom: Henrietta Cole, Head of Talent and Reward\nSubject: Transition to quarterly performance conversations\n\nFollowing a pilot involving 140 employees in three divisions, the executive committee has approved the replacement of the annual appraisal with quarterly performance conversations, effective 1 April. The pilot revealed that employees found a single year-end meeting stressful and of limited practical use. [1], managers reported that completing the paperwork consumed up to six hours per appraisal.\n\nUnder the new arrangement, each conversation should last no more than forty-five minutes. [2] This allows managers to focus on current priorities instead of reconstructing the previous twelve months. Pay reviews will continue to take place in December, [3] they will now rely [4] the notes recorded throughout the year rather than on a single score.\n\nTraining sessions for managers begin on 3 March. Please register through the learning portal by 20 February.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "Consequently",
+          "Alternatively",
+          "Nevertheless",
+          "Furthermore"
         ],
         "answerIndex": 3,
-        "explanation": "Travel costs are 'incurred' when a person has to pay them; 'inferred' means deduced, 'induced' means caused, and 'injured' means harmed."
+        "explanation": "The sentence adds a second finding of the pilot, so the additive 'Furthermore' fits. 'Nevertheless' and 'Alternatively' signal contrast or choice, and 'Consequently' wrongly presents the managers' complaint as a result of the employees' view."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Conversations that overrun the allotted time will be rescheduled and counted as a missed quarter.",
+          "Ratings from earlier years will remain on file and be reviewed again at every conversation.",
+          "Discussion will concentrate only on progress against the goals set in the preceding three months.",
+          "Employees who prefer a written review may request one in place of the meeting itself."
+        ],
+        "answerIndex": 2,
+        "explanation": "'This allows managers to focus on current priorities instead of reconstructing the previous twelve months' requires a preceding statement that limits discussion to recent goals, which 'only on progress against the goals set in the preceding three months' does. Reviewing 'ratings from earlier years' contradicts the idea of not reconstructing the past, and the other two sentences give no reason for managers to focus on current priorities."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "although",
+          "once",
+          "unless",
+          "so that"
+        ],
+        "answerIndex": 0,
+        "explanation": "'although' links the continuation of December pay reviews with the change in how they are informed. 'unless', 'once' and 'so that' produce illogical relationships with 'they will now rely on the notes'."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "from",
+          "on",
+          "with",
+          "to"
+        ],
+        "answerIndex": 1,
+        "explanation": "'rely on' is the fixed collocation, and 'rather than on a single score' confirms the preposition. 'rely to', 'rely from' and 'rely with' do not exist."
+      }
+    ]
+  },
+  {
+    "id": "p6-613",
+    "documentType": "notice",
+    "text": "CALDER ROWE HOLDINGS\nCONFIDENTIAL REPORTING LINE – NEW PROVIDER FROM 1 MARCH\n\nIn accordance with the new whistleblower protection legislation, the company has appointed an independent firm, Ethos Assurance, to operate its confidential reporting line for all employees and contractors. [1] Such matters may include suspected fraud, bribery, breaches of competition law or serious risks to health and safety.\n\nCallers [2] to remain anonymous will not be asked to give their name, and no attempt will be made to trace the origin of a call. Every report is logged and acknowledged within seven days. The Compliance Committee normally investigates each report itself; [3], where one of its members is named, the matter passes to the external auditors.\n\nAnyone found to have victimised a colleague for [4] a concern in good faith will face disciplinary action. The line is open around the clock on 0800 555 0147.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Ethos Assurance has operated comparable services for several regional banks and public bodies for a decade.",
+          "Employees with a grievance about pay or rota changes should instead raise it with their line manager.",
+          "The previous internal mailbox was closed in January after a review found it had received few reports.",
+          "The line should be used whenever an employee suspects serious wrongdoing, even without conclusive proof."
+        ],
+        "answerIndex": 3,
+        "explanation": "'Such matters' needs an antecedent describing the kind of concern the line is for, and 'suspects serious wrongdoing' leads naturally to 'fraud, bribery, breaches of competition law'. Personal grievances, the old mailbox and the provider's track record offer no category that fraud and bribery could be examples of."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "wishing",
+          "to wish",
+          "wished",
+          "wish"
+        ],
+        "answerIndex": 0,
+        "explanation": "A present participle is needed to reduce the relative clause: 'Callers wishing to remain anonymous'. 'wished' and 'to wish' do not fit the structure, and 'wish' would leave 'Callers' with two verbs and no link."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "meanwhile",
+          "similarly",
+          "accordingly",
+          "however"
+        ],
+        "answerIndex": 3,
+        "explanation": "The committee 'normally' investigates itself, and the exception 'where one of its members is named' needs a contrast marker: 'however'. 'similarly', 'accordingly' and 'meanwhile' do not express an exception."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "raised",
+          "raise",
+          "to raise",
+          "raising"
+        ],
+        "answerIndex": 3,
+        "explanation": "After the preposition 'for' a gerund is required: 'for raising a concern in good faith'. The infinitive, past participle and base form cannot follow 'for' here."
+      }
+    ]
+  },
+  {
+    "id": "p6-614",
+    "documentType": "online_chat",
+    "text": "Ines Cardoso [09:12]: Morning, Rafael. Has the consultant sent the final energy report for the Leeds warehouse?\nRafael Dunne [09:15]: It arrived last night. The headline is that rooftop solar is viable, [1] the roof would need reinforcing before any panels go on.\nInes Cardoso [09:17]: Do we have a figure for that?\nRafael Dunne [09:19]: About £85,000. [2] Even so, the payback period still comes out at just under six years.\nInes Cardoso [09:21]: That is better than I expected. What about the heat pumps?\nRafael Dunne [09:24]: The consultant recommends [3] the installation until the grid operator confirms our connection capacity.\nInes Cardoso [09:26]: [4] I will ask Naomi to chase it today, since the board meets on 12 December.\nRafael Dunne [09:27]: Please do. I will draft a short summary for the directors in the meantime.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "so that",
+          "although",
+          "unless",
+          "since"
+        ],
+        "answerIndex": 1,
+        "explanation": "'although' introduces the drawback that qualifies the good news: solar is viable although the roof needs work. 'since' and 'so that' give illogical reasons, and 'unless' would make viability depend on a failure of the roof."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Our insurer has asked for all structural work to be finished before the winter storms arrive.",
+          "That is considerably less than the sum we had already set aside for the panels themselves.",
+          "The consultant thinks the reinforcement could be completed over a single weekend in spring.",
+          "That raises the total budget to roughly £495,000, which is well above the original estimate."
+        ],
+        "answerIndex": 3,
+        "explanation": "'Even so, the payback period still comes out at just under six years' only makes sense after a concession about a higher cost, and 'above our original estimate' supplies it. A smaller sum, a weekend schedule or an insurer's request create no obstacle that 'Even so' could answer."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "postponing",
+          "postpone",
+          "to postpone",
+          "postponed"
+        ],
+        "answerIndex": 0,
+        "explanation": "'recommend' is followed by a gerund when it has no 'that' clause: 'recommends postponing the installation'. The infinitive, base form and past participle are not possible after it here."
+      },
+      {
+        "blank": 4,
+        "category": "sentence_insertion",
+        "choices": [
+          "In that case, the real constraint is the budget, which the board has already agreed in full.",
+          "In that case, the real constraint is the planning permit, which was issued last month.",
+          "In that case, the real constraint is the grid operator's confirmation, still outstanding.",
+          "In that case, the real constraint is the roof reinforcement, which was approved last week."
+        ],
+        "answerIndex": 2,
+        "explanation": "The next line says 'I will ask Naomi to chase it today', so the previous sentence must name something still pending, and only 'the grid operator's confirmation, which is still outstanding' matches the earlier remark about waiting for that confirmation. The reinforcement, the budget and the permit are described as already settled, so there would be nothing to chase."
+      }
+    ]
+  },
+  {
+    "id": "p6-615",
+    "documentType": "letter",
+    "text": "Dear Exhibitor,\n\nThank you for confirming your participation in the Atlantic Maritime Technology Expo, which will take place from 9 to 11 June at the Porto Convention Centre. I am writing to inform you of a change to the layout of the exhibition. [1] Your stand, previously allocated in Hall B, has therefore been moved to position C14 in the new Hall C, [2] nine square metres more than your original allocation.\n\nBuild-up will be permitted on 7 and 8 June between 8 a.m. and 6 p.m. Exhibitors wishing to bring heavy machinery must notify the organizers by 15 April, [3] a loading bay cannot be guaranteed.\n\nWe sincerely regret the inconvenience. [4] Please confirm by 30 March that this arrangement is acceptable to you, and I shall be pleased to send your revised floor plan by return.\n\nYours sincerely,\nMateus Ferreira\nExhibitor Relations Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Several exhibitors have asked for larger stands in Hall B, which the organizers are unable to offer.",
+          "The roof of Hall B has been inspected and will remain available to exhibitors in the usual way.",
+          "Hall B was fully booked several months ago, and a waiting list is now open for further exhibitors.",
+          "Unforeseen structural work on the roof of Hall B means that it can no longer be used for the event."
+        ],
+        "answerIndex": 3,
+        "explanation": "'has therefore been moved' demands a cause for relocating the stand, and unforeseen structural work that makes Hall B unusable provides it. A waiting list, a clean inspection or requests for larger stands do not explain why an exhibitor must leave Hall B."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "offering",
+          "offers",
+          "offered",
+          "to offer"
+        ],
+        "answerIndex": 0,
+        "explanation": "A present participle phrase describes the new position: 'position C14 ..., offering nine square metres more'. 'offers' would create a comma splice, and 'offered' and 'to offer' do not express this relationship."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "in order that",
+          "failing which",
+          "provided that",
+          "even though"
+        ],
+        "answerIndex": 1,
+        "explanation": "'failing which' means 'if they do not', which links the notification deadline to the lack of a guaranteed loading bay. 'provided that', 'in order that' and 'even though' reverse or distort this logic."
+      },
+      {
+        "blank": 4,
+        "category": "sentence_insertion",
+        "choices": [
+          "In recognition of the delay, the balance of your stand fee will now fall due on 15 April.",
+          "Exhibitors who remain in Hall B will not be charged for any additional floor space they request.",
+          "In recognition of this, you will not be charged for the additional nine square metres of space.",
+          "To cover our costs, the additional area will be charged at the standard rate applied to all stands."
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'We sincerely regret the inconvenience', the writer offers compensation, and waiving the cost of the extra space ties in with the 'nine square metres more' mentioned earlier and with 'this arrangement' in the next sentence. Charging the standard rate is not compensation, Hall B is no longer available, and no delay has been mentioned."
+      }
+    ]
+  },
+  {
+    "id": "p6-616",
+    "documentType": "article",
+    "text": "Brands Shift Budgets From Celebrities to Niche Creators\n\nMarketing departments that once reserved their largest budgets for celebrity endorsements are now channelling funds towards creators with comparatively modest followings. A survey of 400 marketing directors by the Brandwise Institute found that 58 percent intend to raise spending on so-called micro-influencers next year, [1] only 19 percent plan to increase their celebrity budgets. [2] Audiences, it appears, place greater trust in people whose interests they share than in glamorous but remote public figures.\n\nThe trend is not without risk, however. Regulators in several European countries have [3] the rules governing sponsored posts, and agencies warn that brands neglecting them may suffer reputational damage as well as fines. In response, the Institute advises companies [4] written guidelines before signing any contract with a creator or an agency acting on a creator's behalf.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "provided that",
+          "unless",
+          "so that"
+        ],
+        "answerIndex": 0,
+        "explanation": "'whereas' contrasts the 58 percent raising micro-influencer budgets with the 19 percent raising celebrity budgets. 'unless', 'so that' and 'provided that' set up conditions or purposes that the two figures do not support."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The reason, analysts suggest, lies in the high fees that celebrities now demand for every single campaign.",
+          "The reason, analysts suggest, lies in the perceived authenticity and relatability of such creators.",
+          "Celebrities, by contrast, still generate the greatest immediate recognition for a product launch.",
+          "These results are unlikely to be repeated next year, since several large campaigns were postponed."
+        ],
+        "answerIndex": 1,
+        "explanation": "'Audiences, it appears, place greater trust in people whose interests they share' elaborates an explanation, and 'perceived authenticity' is what that trust illustrates. Celebrity fees concern cost rather than trust, a prediction of non-repetition has no link to the sentence, and celebrity recognition contradicts the explanation that follows."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "shortened",
+          "narrowed",
+          "lowered",
+          "tightened"
+        ],
+        "answerIndex": 3,
+        "explanation": "Rules are 'tightened' when regulators make them stricter, which matches the warning about fines. Rules are not normally 'narrowed', 'shortened' or 'lowered'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "draw up",
+          "to draw up",
+          "drawing up",
+          "to drawing up"
+        ],
+        "answerIndex": 1,
+        "explanation": "'advise' is followed by an object and an infinitive: 'advises companies to draw up'. The gerund and the base form do not follow 'advise companies', and 'to drawing up' is not a grammatical construction."
+      }
+    ]
+  },
+  {
+    "id": "p6-617",
+    "documentType": "form",
+    "text": "CITY OF HARROWGATE – TRANSPORT AND PARKING SERVICES\nApplication for a Residents' Parking Permit (Zone 4)\n\nSECTION 1 – ELIGIBILITY\nPermits are issued only to residents whose main home lies within the controlled zone. [1] Applicants who have moved within the past three months should therefore enclose a recent tenancy agreement or mortgage statement.\n\nSECTION 2 – DOCUMENTS REQUIRED\nPlease attach the vehicle registration document, proof of address dated within the last 90 days and, [2] the vehicle is company-owned, a letter from the employer authorising its use at your address. Applications [3] without these documents will be returned unprocessed.\n\nSECTION 3 – FEES AND DECLARATION\nThe annual fee is £60 for a first vehicle and £120 for a second. [4] Applicants who qualify for the reduction must enclose evidence of their entitlement.\nI declare that the information given on this form is accurate.\n\nFull name: ____________________   Signature: ____________________   Date: ____________",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Visitors to the zone may buy daily vouchers from any authorised retailer displaying the council logo.",
+          "Council tax records are updated only quarterly, so recent arrivals may not yet appear on them.",
+          "Council tax bills are issued each April, and residents may pay in instalments over ten months.",
+          "Council tax records are checked automatically, so no further evidence is normally required."
+        ],
+        "answerIndex": 1,
+        "explanation": "'should therefore enclose a recent tenancy agreement' needs a reason why extra evidence is needed, and records that are 'updated only quarterly' give it. Automatic checks would make evidence unnecessary, and visitor vouchers and billing dates do not justify the request."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "unless",
+          "where",
+          "whether"
+        ],
+        "answerIndex": 2,
+        "explanation": "'where the vehicle is company-owned' introduces the condition under which the employer's letter is needed. 'unless' reverses the logic, 'whereas' expresses contrast, and 'whether' cannot introduce a condition without an alternative."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "submitted",
+          "submission",
+          "submit",
+          "submitting"
+        ],
+        "answerIndex": 0,
+        "explanation": "A past participle reduces the relative clause: 'Applications submitted without these documents'. 'submitting' would suggest the applications act, 'submit' lacks a subject agreement, and 'submission' is a noun."
+      },
+      {
+        "blank": 4,
+        "category": "sentence_insertion",
+        "choices": [
+          "A fifty percent reduction applies to holders of a blue badge and to residents in receipt of pension credit.",
+          "Permits are not transferable between vehicles, except where a car has been written off in an accident.",
+          "Visitors' vouchers cost £1.50 per day and can be purchased in books of ten from the council offices.",
+          "A surcharge applies to vehicles exceeding two and a half tonnes in laden weight in all residential streets."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence refers to 'the reduction', so the preceding sentence must introduce one, and only the fifty percent reduction does so. A surcharge, transfer rules and visitor vouchers leave 'the reduction' without a referent."
       }
     ]
   }

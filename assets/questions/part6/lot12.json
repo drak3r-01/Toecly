@@ -1,166 +1,551 @@
 [
   {
-    "id": "p6-443",
-    "documentType": "letter",
-    "text": "Dear Ms. Karlsson,\n\nI am delighted to confirm that the Board of Trustees has approved your nomination as a member of the Advisory Council of the Linden Arts Foundation. The Council meets four times a year, and members are expected to attend at least three meetings annually. [1] Your term will run for three years, after which you will be eligible for reappointment for a second term.\n\nAlthough the position is unremunerated, the Foundation will [2] reasonable travel expenses on production of receipts. [3] a member is unable to attend a meeting, apologies should be sent to the secretary at least forty-eight hours beforehand. Members are also asked to declare any interest that might [4] with their duties.\n\nYours sincerely,\nOlivier Bastien\nChair of Trustees",
+    "id": "p6-495",
+    "documentType": "email",
+    "text": "To: All IT staff\nFrom: Dominika Reyes, Head of Infrastructure\nSubject: Server migration update\n\nI am writing to update you on the server migration. [1] As a result, the migration scheduled for 12 April cannot proceed as planned. Nobody had anticipated this setback. [2], the team has already identified an interim arrangement that will keep the existing systems stable until the new servers arrive on 26 April.\n\nThe migration will now be [3] until the week of 3 May, and the change freeze will be extended accordingly. Staff are asked to [4] from scheduling any maintenance on the old servers during this period, as the interim arrangement leaves little margin for unplanned downtime. Any urgent request should be sent to the infrastructure helpdesk, which will assess it each morning at 9 a.m. and reply within four working hours.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "Your experience in the museum sector will be particularly valuable as the Foundation reviews its acquisitions policy.",
-          "Your experience in the museum sector will be particularly valued by the staff who reviewed your acquisitions application.",
-          "Your experience in the museum sector would be particularly valuable if the Foundation had reviewed its policy last year.",
-          "Your absence from the museum sector will be particularly regretted as the Foundation reviews its acquisitions policy."
+          "Fortunately, the supplier has informed us that the delivery of the new servers will be brought forward by three weeks.",
+          "The supplier has confirmed that the delivery of the new servers will take place on 5 April, as originally agreed.",
+          "Unfortunately, the supplier has informed us that the delivery of the new servers will be delayed by three whole weeks.",
+          "Unfortunately, the supplier has informed us that the invoice for the new servers will be revised by three percent."
+        ],
+        "answerIndex": 2,
+        "explanation": "'As a result, the migration ... cannot proceed' needs a cause, and a three-week delay in delivery explains it, matching the new arrival date of 26 April. Earlier delivery or delivery on the original date would not prevent the migration, and a revised invoice has no effect on its timing."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Nevertheless",
+          "Consequently",
+          "Accordingly",
+          "Likewise"
         ],
         "answerIndex": 0,
-        "explanation": "The next sentence sets out the length of the term, so the previous sentence should explain the invitation positively; only the first does so coherently. The others refer to an application, use a hypothetical past, or regret an absence."
+        "explanation": "The email moves from a setback to a solution, so a contrast marker is needed: 'Nevertheless'. 'Consequently' and 'accordingly' signal a result, and 'likewise' signals similarity."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "prolonged",
+          "promoted",
+          "preceded",
+          "postponed"
+        ],
+        "answerIndex": 3,
+        "explanation": "A migration is 'postponed until' a later date. 'Prolonged' means made longer, 'promoted' means advanced in rank or publicized, and 'preceded' means came before."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "refrain",
+          "prohibit",
+          "prevent",
+          "avoid"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Refrain from scheduling' is the standard structure when followed by 'from'. 'Avoid' takes no preposition here, and 'prevent' and 'prohibit' require an object before 'from'."
+      }
+    ]
+  },
+  {
+    "id": "p6-496",
+    "documentType": "letter",
+    "text": "Dear Ms Okafor,\n\nThank you for submitting a proposal for the Harbour Logistics Forum. The selection committee received more than 300 submissions this year. [1] This is a considerable achievement, and we would like to congratulate you on it.\n\nYou are invited to present on 14 June in a 45-minute slot, which will be followed by fifteen minutes of questions. Speakers are expected to [2] their slides by 1 June so that interpreters can prepare. We regret that we are unable to cover travel costs; [3], accommodation for two nights will be provided free of charge. Please note that all sessions will be recorded and made available to delegates after the event. If you are unable to attend, we would be [4] if you could inform us before 20 May.\n\nYours sincerely,\nHelen Marsh\nProgramme Director",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Only forty of these arrived before the original deadline, so the call for papers was extended.",
+          "Only forty of these were rejected at the first stage of a rigorous two-stage blind review.",
+          "Nearly all of these were accepted for the main programme following a rigorous two-stage blind review.",
+          "Only forty of these were accepted for the main programme following a rigorous two-stage blind review."
+        ],
+        "answerIndex": 3,
+        "explanation": "'This is a considerable achievement' only makes sense if the proposal survived a tough selection among 300 submissions, as 'Only forty of these were accepted' says. If only forty were rejected, or nearly all were accepted, or only forty arrived on time, being included would be no achievement."
       },
       {
         "blank": 2,
         "category": "vocabulary",
         "choices": [
-          "reinforce",
-          "reimburse",
-          "reinstate",
-          "reiterate"
+          "submit",
+          "subscribe",
+          "subsidize",
+          "subordinate"
         ],
-        "answerIndex": 1,
-        "explanation": "A foundation 'reimburses' expenses, meaning repays them; 'reinforce', 'reinstate' and 'reiterate' do not take 'expenses' sensibly."
+        "answerIndex": 0,
+        "explanation": "Speakers are expected to 'submit' their slides by a deadline, meaning hand them in. 'Subscribe', 'subsidize' and 'subordinate' cannot take slides as an object in any sense relevant here."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "Notwithstanding that",
-          "Inasmuch as",
-          "In the event that",
-          "Albeit"
+          "consequently",
+          "however",
+          "accordingly",
+          "likewise"
+        ],
+        "answerIndex": 1,
+        "explanation": "The second clause offsets the first, since no travel costs are covered but accommodation is free, so 'however' is needed. 'Consequently' and 'accordingly' would present the accommodation as a result of the refusal, and 'likewise' would suggest a similar point."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "gratifying",
+          "gratefully",
+          "grateful",
+          "gratitude"
         ],
         "answerIndex": 2,
-        "explanation": "'In the event that a member is unable to attend' introduces a possible situation; 'inasmuch as' would give a reason, and the others express concession."
+        "explanation": "'We would be grateful if you could' is the standard polite request and needs the adjective after 'be'. 'Gratefully' is an adverb, 'gratitude' is a noun and 'gratifying' describes a pleasing event, not the writer's attitude."
+      }
+    ]
+  },
+  {
+    "id": "p6-497",
+    "documentType": "job_ad",
+    "text": "Brightwell Engineering is seeking a project coordinator for its Rotterdam office. [1] In this capacity, you will be responsible for budgets, schedules and the quality of delivery across a portfolio of infrastructure projects valued at over €40 million.\n\nApplicants should demonstrate [2] experience of managing multimillion-euro budgets, together with at least five years in a similar role. Fluency in Dutch is an advantage, and applicants will be considered on the strength of their record rather than their qualifications alone. [3] applicants hold a valid work permit, relocation support will be offered, covering travel and temporary housing for up to three months. The salary ranges from €62,000 to €70,000, depending on experience. Please submit your application by 30 June, [4] your CV and a covering letter that explains why you are suited to the role. Interviews will take place in Rotterdam during the week of 14 July.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "You will report directly to the operations director and lead a team of six planners and site engineers.",
+          "Applicants will meet the operations director and a team of six planners and site engineers at interview.",
+          "Our current coordinator will report directly to the operations director until the handover is complete.",
+          "The office employs six planners and site engineers, who report directly to the operations director."
+        ],
+        "answerIndex": 0,
+        "explanation": "'In this capacity, you will be responsible' needs a preceding sentence that places the reader in a role: reporting to the operations director and leading a team. Describing the existing planners, the outgoing coordinator or the interview panel gives someone else's capacity or a selection step, not the role the reader would hold."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "considerate",
+          "considering",
+          "considered",
+          "considerable"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Considerable experience' means a large amount of experience, which suits the demand for managing multimillion-euro budgets; 'considerate' means thoughtful, and 'considering' and 'considered' cannot modify 'experience' here."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "As though",
+          "Even if",
+          "Rather than",
+          "Provided that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Provided that applicants hold a valid work permit' makes the permit a condition of the relocation support. 'Even if' would make the permit irrelevant, 'as though' introduces a comparison and 'rather than' contrasts two alternatives."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "inclusive",
+          "included",
+          "include",
+          "including"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Including your CV and a covering letter' is a present participle introducing what the application must contain; 'included', 'include' and 'inclusive' are not grammatical in this position."
+      }
+    ]
+  },
+  {
+    "id": "p6-498",
+    "documentType": "memo",
+    "text": "To: All employees\nFrom: Human Resources\nSubject: Remote working policy\n\nFollowing consultation with department heads, the company is introducing a formal remote working policy from 1 February. Under it, eligible roles may be performed from home for up to three days a week, provided that employees attend the office on the remaining two days. [1] Such requests will be considered in the order in which they are received, and a decision will be communicated within five working days.\n\nManagers are expected to [2] requests fairly, taking into account the nature of the role and the needs of the team. [3] a request is declined, the manager must explain the reasons in writing and discuss alternative arrangements. Employees who work remotely will be [4] to the same performance standards as colleagues based in the office, and their objectives will be reviewed every quarter.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Line managers have received training on how to stay in contact with colleagues who work remotely.",
+          "Employees wishing to work from home must submit a request to their line manager through the HR portal.",
+          "Employees working from home will be reimbursed for the cost of a suitable desk and an ergonomic chair.",
+          "The new policy replaces informal guidelines that were circulated to all departments last September."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence begins 'Such requests', which needs an antecedent; only the sentence telling employees to submit a request to their manager provides one. Reimbursement for furniture, the replacement of earlier guidelines and manager training mention no requests."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "access",
+          "assert",
+          "assess",
+          "assume"
+        ],
+        "answerIndex": 2,
+        "explanation": "Managers 'assess' requests, meaning evaluate them, 'taking into account the nature of the role'. 'Access' means to reach or retrieve, 'assert' means to state forcefully, and 'assume' means to take for granted."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "On account of",
+          "In spite of",
+          "In the event that",
+          "In view of"
+        ],
+        "answerIndex": 2,
+        "explanation": "'In the event that a request is declined' introduces a conditional clause containing its own verb. 'In spite of', 'in view of' and 'on account of' are prepositional phrases that must be followed by a noun phrase, not a clause."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "confront",
-          "confine",
-          "confess",
-          "conflict"
+          "held",
+          "left",
+          "taken",
+          "treated"
         ],
-        "answerIndex": 3,
-        "explanation": "An interest that might 'conflict with' duties is the fixed collocation; 'confront' takes no 'with', 'confine' means restrict, and 'confess' means admit."
+        "answerIndex": 0,
+        "explanation": "Employees are 'held to' the same standards, the collocation meaning required to meet them. 'Left to', 'taken to' and 'treated to' do not express accountability for performance standards."
       }
     ]
   },
   {
-    "id": "p6-444",
-    "documentType": "article",
-    "text": "Retailers Wrestle With the Cost of Returns\n\nOnline retailers are discovering that the convenience they offer customers has a price. Around a fifth of goods bought on the internet are returned, [1] the proportion in physical stores is closer to one in twenty. The expense of collecting, inspecting and restocking these items now weighs heavily on margins.\n\n[2] Several fashion chains have begun to charge customers for returns, a step that was unthinkable only two years ago. Others are experimenting with so-called returnless refunds, [3] shoppers are allowed to keep low-value items rather than send them back. Analysts caution that the strategy may prove [4] if it encourages customers to order more than they intend to keep.",
+    "id": "p6-499",
+    "documentType": "web_page",
+    "text": "Visiting the Hartley Gallery\n\nThe Hartley Gallery is open from Tuesday to Sunday, between 10 a.m. and 5 p.m. [1] For this reason, tickets must be booked online at least 24 hours in advance. Visitors who arrive without a booking will be admitted only if space [2].\n\nGroup visits are welcome; [3], they must be booked at least two weeks in advance, and the number of participants must not exceed fifteen. Large bags and umbrellas must be left in the cloakroom, and photography is permitted [4] flash is not used, since it can damage the older paintings.\n\nAdmission costs £12 for adults; children under twelve are admitted free when accompanied by an adult. The gallery is a ten-minute walk from Hartley Central station, and an accessible entrance is located on Mill Lane. Audio guides are available in English, French and German for an additional charge of £3.",
     "questions": [
       {
         "blank": 1,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "whereas",
-          "because",
-          "unless",
-          "so"
+          "Sixty volunteers are needed at any one time to supervise the galleries, in line with current staffing guidelines.",
+          "The galleries could hold several hundred visitors at any one time, in line with current fire regulations.",
+          "The galleries are expected to hold up to sixty visitors at any one time once the extension opens next spring.",
+          "The galleries can safely hold only sixty visitors at any one time, in line with current fire regulations."
         ],
-        "answerIndex": 0,
-        "explanation": "'Whereas the proportion in physical stores is closer to one in twenty' contrasts online and store returns; the others do not express contrast."
+        "answerIndex": 3,
+        "explanation": "'For this reason' needs a present cause that justifies compulsory booking, namely a strict current limit on visitor numbers. A capacity that applies only after a future extension, a capacity of several hundred, and a need for volunteers do not explain why tickets must be booked in advance now."
       },
       {
         "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "is permitted",
+          "permitting",
+          "permits",
+          "permit"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Only if space permits' is a fixed expression in which 'space' is a singular subject and takes the third-person '-s'. The base form 'permit' does not agree, 'is permitted' changes the meaning, and 'permitting' is not a finite verb after 'if'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "meanwhile",
+          "therefore",
+          "similarly",
+          "however"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Group visits are welcome; however, they must be booked at least two weeks in advance' adds a restriction that qualifies the welcome. 'Therefore' and 'similarly' do not set up a restriction, and 'meanwhile' marks simultaneous events."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "even if",
+          "in case",
+          "provided that",
+          "as though"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Provided that flash is not used' states the condition under which photography is allowed. 'In case' means 'as a precaution', 'even if' makes the permission independent of flash, and 'as though' introduces a comparison, so none of them matches 'since it can damage the older paintings'."
+      }
+    ]
+  },
+  {
+    "id": "p6-500",
+    "documentType": "article",
+    "text": "Europe's Grid Struggles to Keep Pace with Renewables\n\nEurope's energy sector is undergoing a profound transformation. [1] This trend has been driven largely by falling installation costs, [2] grid capacity has not kept pace, which has led to the curtailment of wind farms on particularly windy days. In Germany alone, nearly six terawatt-hours of wind power were wasted last year. Regulators are now under pressure to [3] the approval process for new transmission lines, which currently takes up to ten years in some countries. Grid operators estimate that some 40,000 kilometers of lines must be built or upgraded by 2030.\n\nIndustry groups argue that unless investment in the grid increases substantially, the gains already achieved will be [4]. Governments, for their part, point out that public budgets are already stretched, and several have asked the European Commission to relax its spending rules.",
+    "questions": [
+      {
+        "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The financial pressure has encouraged companies to extend policies that, until recently, were treated as a competitive disadvantage.",
-          "The financial pressure has forced companies to reconsider policies that, until recently, were treated as a competitive advantage.",
-          "The financial pressure has forced customers to reconsider policies that, until recently, were treated as a company secret.",
-          "The financial pressure had forced companies to reconsider policies that, until recently, would have been treated as an advantage."
+          "Over the next decade, the share of electricity generated from wind and solar power is expected to double in most member states.",
+          "Over the past decade, the cost of installing wind and solar capacity has fallen by more than half in most member states.",
+          "Over the past decade, the share of electricity generated from wind and solar power has more than doubled in most member states.",
+          "Over the past decade, the share of electricity generated from wind and solar power has been capped at a fixed ceiling in most member states."
+        ],
+        "answerIndex": 2,
+        "explanation": "'This trend has been driven largely by falling installation costs' needs a past, ongoing growth in renewable generation as its antecedent, and the following 'wind farms' confirm it. A fall in installation costs would make the next clause circular, a fixed ceiling is not a trend, and a forecast for the 'next decade' does not match the present perfect 'has been driven'."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "thereby",
+          "since",
+          "although",
+          "hence"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Although grid capacity has not kept pace' concedes a shortfall despite the growth of renewables. 'Since' would make the lagging grid a reason for the growth, while 'hence' and 'thereby' cannot join two full clauses in this way."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "prolong",
+          "duplicate",
+          "reinforce",
+          "streamline"
+        ],
+        "answerIndex": 3,
+        "explanation": "Regulators under pressure over a ten-year approval time are asked to 'streamline' the process, meaning simplify and speed it up. 'Prolong' would make the delay worse, 'duplicate' would add redundant steps, and 'reinforce' does not suit an approval process."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "undermined",
+          "undermine",
+          "undermining",
+          "to undermine"
+        ],
+        "answerIndex": 0,
+        "explanation": "After 'will be' the passive requires a past participle: 'will be undermined'. The base form, the gerund and the infinitive cannot complete this passive."
+      }
+    ]
+  },
+  {
+    "id": "p6-501",
+    "documentType": "letter",
+    "text": "Dear Mr Lindqvist,\n\nThank you for your message of 14 November regarding the missing parcel, reference LK-48213. [1] Our findings confirm that the parcel was left with a neighbour without a signature, which is a breach of our delivery procedures. The tracking record shows the delivery being logged at 3:42 p.m. on 12 November, when no signature was captured.\n\nWe sincerely [2] the distress this has caused you. [3] the parcel has not been located, we have arranged for a replacement to be sent by express courier at no charge; it should reach you within two working days. The driver concerned will receive additional training, and we will [4] our procedures to ensure that this does not happen again. Should you wish to discuss the matter further, please call me on 0800 555 0199.\n\nYours sincerely,\nMaria Lopes\nCustomer Relations",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "We have reviewed the delivery records and spoken to the driver who handled your order.",
+          "Your order was packed on 3 November and dispatched by courier on the following morning.",
+          "We will review the delivery records and speak to the driver who handled your order.",
+          "We have now refunded the full cost of your order, including the delivery charge."
+        ],
+        "answerIndex": 0,
+        "explanation": "'Our findings confirm' presupposes an investigation that has already been carried out, which the sentence about reviewing records and speaking to the driver reports. The future 'will review' would leave no findings yet, and a refund or a packing and dispatch date describes no investigation."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "regret",
+          "disregard",
+          "dismiss",
+          "dispute"
+        ],
+        "answerIndex": 0,
+        "explanation": "'We sincerely regret the distress' is the natural way to express apology. 'Dismiss', 'dispute' and 'disregard' would deny or ignore the customer's distress, which contradicts the apologetic tone."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Provided that",
+          "Lest",
+          "Given that",
+          "Unless"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Given that the parcel has not been located' gives the reason for sending a replacement. 'Unless' and 'provided that' state conditions that contradict the fact, and 'lest' expresses a fear rather than a reason."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "tightening",
+          "tightened",
+          "tighten",
+          "tight"
+        ],
+        "answerIndex": 2,
+        "explanation": "After the modal 'will' the base verb 'tighten' is required. 'Tight' is an adjective, and 'tightened' and 'tightening' cannot follow a modal."
+      }
+    ]
+  },
+  {
+    "id": "p6-502",
+    "documentType": "advertisement",
+    "text": "Brookside Language Institute\n\nImprove your professional English this spring with our evening courses, designed for working adults. Classes meet twice a week from 6.30 p.m. to 8.30 p.m. at our Harbour Street campus, and the term lasts twelve weeks, with a maximum of twelve students per group. [1] Those who enrol before the end of January will receive a reduction of fifteen percent, which cannot be [2] with any other offer.\n\nOur courses cover business writing, presentation skills and negotiation. Fees are £480 for the full term, payable in two instalments, and course materials are included. [3] you are a newcomer to the language or an experienced speaker, a short placement test, [4] online at a time that suits you, will assign you to the most appropriate group. A free trial lesson can be arranged on request, and further details are available from our admissions office.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Registration for the autumn term opened on 3 September and closed on 28 September.",
+          "Registration for the spring term opens on 3 February and closes on 28 March.",
+          "Registration for the spring term opens on 3 January and closes on 28 February.",
+          "Registration for the spring term closed on 3 January and can no longer be extended."
+        ],
+        "answerIndex": 2,
+        "explanation": "'Those who enrol before the end of January' needs a registration period that includes January: 'opens on 3 January and closes on 28 February' provides it. A registration that closed on 3 January, one that opens in February, or one for the autumn term makes the January discount impossible or irrelevant."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "combined",
+          "compiled",
+          "comprised",
+          "composed"
+        ],
+        "answerIndex": 0,
+        "explanation": "A discount 'cannot be combined with any other offer', meaning used together with it. 'Compiled', 'composed' and 'comprised' do not take 'with' in this sense."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whatever",
+          "Whichever",
+          "Whether",
+          "Wherever"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Whether you are a newcomer ... or an experienced speaker' presents two alternatives that make no difference to the result. 'Whatever', 'whichever' and 'wherever' cannot introduce a clause built on 'or'."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "to complete",
+          "having completed",
+          "completed",
+          "completing"
+        ],
+        "answerIndex": 2,
+        "explanation": "'A short placement test, completed online at a time that suits you' needs a past participle with passive meaning, as the test is completed by the candidate. 'Completing' and 'having completed' would make the test the doer, and 'to complete' expresses purpose."
+      }
+    ]
+  },
+  {
+    "id": "p6-503",
+    "documentType": "letter",
+    "text": "Dear Mr and Mrs Osei,\n\nI am writing regarding the lease of your apartment at 14 Marlowe Street, which is due for renewal on 1 April. [1] Under this clause, the rent will rise by 3.4 percent from 1 April, from the present £1,250 to £1,292.50 per month, which corresponds to the official inflation figure published last month. A copy of the statement is enclosed.\n\nIt would be greatly [2] if you could sign and return the enclosed renewal form by 15 March. [3] you wish to terminate the lease, you must give the three months' written notice [4] in Clause 12. The revised rent will be collected by standing order on the first day of each month, and no action is needed on your part. If you have any queries, please do not hesitate to contact our office, and we shall be happy to arrange a visit to the property.\n\nYours sincerely,\nGareth Pryce\nProperty Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Clause 7 of the lease requires the landlord to keep the rent unchanged throughout the tenancy.",
+          "Clause 12 of the lease allows the landlord to adjust the rent each year in line with inflation.",
+          "Clause 7 of the lease obliges the tenant to pay for repairs to the exterior of the building.",
+          "Clause 7 of the lease allows the landlord to adjust the rent each year in line with inflation."
+        ],
+        "answerIndex": 3,
+        "explanation": "'Under this clause, the rent will rise' requires a clause that permits rent increases linked to inflation. A clause freezing the rent or covering repairs cannot justify the rise, and Clause 12 is identified later as the clause governing notice of termination."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "appreciating",
+          "appreciated",
+          "appreciative",
+          "appreciable"
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence reports chains starting to charge for returns, which reverses a previously generous policy; only the first option introduces that reversal. The others describe extension, shift the subject to customers, or use an unsuitable past perfect."
+        "explanation": "'It would be greatly appreciated if you could...' is the standard polite request and needs the past participle; 'appreciative' describes a person, 'appreciable' means noticeable, and 'appreciating' does not fit after 'would be greatly'."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whether",
+          "Since",
+          "Despite",
+          "Should"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Should you wish to terminate the lease' is an inverted conditional meaning 'if you wish'; 'whether', 'since' and 'despite' cannot introduce a conditional clause in this form."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "stipulating",
+          "to stipulate",
+          "stipulates",
+          "stipulated"
+        ],
+        "answerIndex": 3,
+        "explanation": "'The notice stipulated in Clause 12' needs a past participle used as a reduced relative clause meaning 'which is stipulated'; 'stipulating', 'stipulates' and 'to stipulate' cannot be followed by 'in Clause 12' in this way."
+      }
+    ]
+  },
+  {
+    "id": "p6-504",
+    "documentType": "article",
+    "text": "Harbour Bank to Acquire Delmar Insurance\n\nHarbour Bank has announced that it will acquire Delmar Insurance in a transaction that would create the largest financial services group in the region. [1] This timetable, [2], depends on regulatory approval, which has yet to be granted. Competition authorities are expected to [3] the proposal closely, since the merged group would control more than a third of the domestic market.\n\nExecutives have stated that they will cooperate fully with the review, and a spokesperson for Delmar said that policyholders would notice no change to their premiums before the end of next year. [4], the bank has pledged that jobs will be protected for at least two years after the merger.\n\nTrade unions representing Delmar staff have welcomed the pledge but have asked for it to be set out in writing, and a meeting with management is scheduled for 9 October.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The acquisition, valued at 2.4 billion euros, would be the largest ever proposed in the sector, analysts reported.",
+          "The acquisition, valued at 2.4 billion euros, is expected to be completed by the end of the third quarter of next year.",
+          "The acquisition, valued at 2.4 billion euros, was completed by the end of the third quarter this year, the bank said.",
+          "Analysts had expected the acquisition, valued at 2.4 billion euros, to be completed by the end of last year at the latest."
+        ],
+        "answerIndex": 1,
+        "explanation": "'This timetable' needs an antecedent giving a completion date, which only 'is expected to be completed by the end of the third quarter' supplies. The sentence reporting completion contradicts 'has yet to be granted', the 'largest ever proposed' sentence gives no timetable, and the analysts' expectation of completion 'by the end of last year' refers to a date already past."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "hence",
+          "accordingly",
+          "however"
+        ],
+        "answerIndex": 3,
+        "explanation": "'This timetable, however, depends on regulatory approval' contrasts the expected date with the pending condition. 'Therefore', 'hence' and 'accordingly' would present the approval as a consequence of the timetable."
       },
       {
         "blank": 3,
         "category": "grammar",
         "choices": [
-          "whereas",
-          "wherein",
-          "whereby",
-          "whereupon"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Whereby shoppers are allowed to keep low-value items' defines how the refund scheme works (by which); 'whereas' contrasts, 'wherein' means in which, and 'whereupon' means after which."
-      },
-      {
-        "blank": 4,
-        "category": "vocabulary",
-        "choices": [
-          "counterfeit",
-          "counterintuitive",
-          "counterbalanced",
-          "counterproductive"
-        ],
-        "answerIndex": 3,
-        "explanation": "A strategy that encourages over-ordering would be 'counterproductive', defeating its own purpose; the others do not fit."
-      }
-    ]
-  },
-  {
-    "id": "p6-445",
-    "documentType": "web_page",
-    "text": "Valmont Technical Institute – Admissions Requirements\n\nApplicants for the Higher Diploma in Mechanical Engineering must hold either a recognized upper-secondary qualification or equivalent professional experience. [1] Those who do not meet the standard entry criteria may nevertheless be considered, [2] they can demonstrate relevant achievement through a portfolio of work.\n\nAll applicants are required to submit two references, at least one of which should be from a [3] employer or teacher. [4] we receive a large number of applications each year, interviews are offered only to those whose submissions meet the published criteria.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "Proficiency in mathematics is regarded as essential, and a grade equivalent to a B is normally expected in that subject.",
-          "Proficiency in mathematics is regarded as optional, and a grade equivalent to a D is normally accepted in that subject.",
-          "Proficiency in literature is regarded as essential, and a grade equivalent to a B is normally expected in that subject.",
-          "Proficiency in mathematics was regarded as essential, and a grade equivalent to a B had normally been expected."
-        ],
-        "answerIndex": 0,
-        "explanation": "The following sentence refers to those who 'do not meet the standard entry criteria', so the previous one must state a criterion; the first does. The others make mathematics optional, name another subject, or use a past perfect."
-      },
-      {
-        "blank": 2,
-        "category": "connector",
-        "choices": [
-          "as though",
-          "provided that",
-          "even if",
-          "so that"
+          "scrutinised",
+          "scrutinise",
+          "scrutiny",
+          "scrutinising"
         ],
         "answerIndex": 1,
-        "explanation": "'Provided that they can demonstrate relevant achievement' sets the condition for considering them; the others do not."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "forward",
-          "formal",
-          "former",
-          "formidable"
-        ],
-        "answerIndex": 2,
-        "explanation": "A 'former employer' is a previous one; 'forward', 'formal' and 'formidable' do not fit."
+        "explanation": "After 'are expected to', the base form 'scrutinise' is required. 'Scrutiny' is a noun, and the participle forms do not follow 'to' in this construction."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "Unless",
-          "Whereas",
-          "Albeit",
-          "Because"
+          "Nevertheless",
+          "Instead",
+          "Furthermore",
+          "Otherwise"
         ],
-        "answerIndex": 3,
-        "explanation": "'Because we receive a large number of applications' gives the reason for restricting interviews; the others do not fit."
+        "answerIndex": 2,
+        "explanation": "The sentence adds a further commitment to the promise of full cooperation, so 'Furthermore' fits. 'Otherwise' and 'instead' imply an alternative, and 'nevertheless' implies a contrast that is absent."
       }
     ]
   }

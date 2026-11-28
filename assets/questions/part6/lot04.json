@@ -1,75 +1,130 @@
 [
   {
-    "id": "p6-416",
-    "documentType": "article",
-    "text": "Meridian Textiles Returns to Profit After Restructuring\n\nMeridian Textiles reported a pre-tax profit of €12.4 million for the first half, [1] a loss of €8 million in the same period last year. [2] The turnaround follows the closure of two loss-making plants and a renegotiation of supply contracts, measures that chief executive Ilse Kramer described as painful but unavoidable.\n\nAnalysts caution, [3], that the improvement may prove temporary. Cotton prices have begun to rise again, and the company has yet to find a way to [4] the effect of a ten percent increase in labor costs.",
+    "id": "p6-415",
+    "documentType": "memo",
+    "text": "To: Senior Managers\nFrom: Philippa Greaves, Director of Human Resources\nDate: 4 November\nSubject: Revised relocation policy\n\nThe company's relocation policy has been revised in the light of last year's experience, when several transfers were delayed by disputes over costs. The new policy takes effect on 1 January and applies to all internal transfers requiring a move of more than eighty kilometers, [1] of grade.\n\n[2] Employees will receive a lump sum covering removal and temporary accommodation, rather than reimbursement of individual receipts. The sum will be £4,500 for single employees and £7,200 for those relocating with dependants. [3] a transferred employee leaves the company within two years of the move, a proportion of the lump sum must be repaid. Managers are asked to [4] their teams about these terms before any transfer is discussed. Queries may be directed to my office.",
     "questions": [
       {
         "blank": 1,
-        "category": "connector",
+        "category": "grammar",
         "choices": [
-          "compared with",
-          "compared on",
-          "compared in",
-          "compared at"
+          "irrespective",
+          "apart",
+          "aside",
+          "notwithstanding"
         ],
         "answerIndex": 0,
-        "explanation": "'Compared with' is the fixed expression for setting one result against another; 'on', 'in' and 'at' cannot follow 'compared' in this sense."
+        "explanation": "'Irrespective of grade' is the fixed expression meaning without regard to grade. 'Notwithstanding', 'apart' and 'aside' do not combine with 'of' in this sense."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The result marks a striking decline for a company that analysts had praised barely eighteen months ago.",
-          "The result marks a striking reversal for a company that analysts had written off barely eighteen months ago.",
-          "The result falls short of expectations for a company that analysts had forecast to double sales within eighteen months.",
-          "The result was announced by a company that analysts had written off long before the closure of its two plants."
+          "The principal aim is to remove any scope for dispute over which departments are eligible and how many transfers may be approved.",
+          "The principal aim is to raise the level of reimbursement, which previously fell short of actual costs in most cases.",
+          "The principal aim is to remove any scope for dispute over which expenses are eligible and how much may be claimed.",
+          "The principal aim is to tighten the scrutiny of receipts, which previously went unchecked in several departments."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence begins 'The turnaround follows', so the previous one must describe a reversal from loss to profit; the others describe a decline, a disappointment, or a timeline that clashes with 'follows the closure'."
+        "answerIndex": 2,
+        "explanation": "The memo opens with 'disputes over costs', and the next sentence replaces 'reimbursement of individual receipts' with a lump sum, which ends arguments about eligible expenses. Tightening the scrutiny of receipts contradicts the abolition of receipts, raising reimbursement does not suit a fixed sum, and disputes over departments or transfer numbers have nothing to do with expenses."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "therefore",
-          "moreover",
-          "however",
-          "similarly"
+          "Where",
+          "Wherein",
+          "Whereby",
+          "Whereas"
         ],
-        "answerIndex": 2,
-        "explanation": "The sentence contrasts good results with a warning; 'however' marks that contrast, whereas 'therefore', 'moreover' and 'similarly' do not."
+        "answerIndex": 0,
+        "explanation": "'Where a transferred employee leaves the company' introduces the specific case in which repayment applies, equivalent to 'if'. 'Whereas' expresses contrast, 'wherein' means 'in which' and 'whereby' means 'by which', so none of them can open a conditional clause."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "offend",
-          "offer",
-          "offload",
-          "offset"
+          "debrief",
+          "abrogate",
+          "abridge",
+          "brief"
         ],
         "answerIndex": 3,
-        "explanation": "The company must 'offset' (counterbalance) the effect of rising labor costs; 'offend' means insult, 'offer' means propose, and 'offload' means unload."
+        "explanation": "To 'brief' a team about terms is to inform them in advance, which matches 'before any transfer is discussed'. 'Debrief' means to question people after an event, 'abrogate' means to cancel a law, and 'abridge' means to shorten a text."
+      }
+    ]
+  },
+  {
+    "id": "p6-416",
+    "documentType": "article",
+    "text": "Meridian Textiles Returns to Profit After Restructuring\n\nMeridian Textiles reported a pre-tax profit of €12.4 million for the first half, [1] a loss of €8 million in the same period last year. [2] The turnaround follows the closure of two loss-making plants and a renegotiation of supply contracts, measures that chief executive Ilse Kramer described as painful but unavoidable. Revenue edged up by only three percent to €310 million in the six months to June, which indicates that cost savings, rather than stronger sales, account for most of the improvement.\n\nAnalysts caution, [3], that the improvement may prove temporary. Cotton prices have begun to rise again, and the company has yet to find a way of [4] the effect of a ten percent increase in labor costs. Ms. Kramer said that the board would review dividend payments in January, once full-year figures are available.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "owing to",
+          "in exchange for",
+          "regardless of",
+          "compared with"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Compared with' sets this year's profit against last year's loss. 'Regardless of', 'owing to' and 'in exchange for' cannot link a profit to a loss in the same period of the previous year."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The result marks a striking reversal for a company that analysts had written off barely eighteen months ago.",
+          "The result falls short of expectations for a company that analysts had forecast to double sales within eighteen months.",
+          "The result marks a striking decline for a company that analysts had praised barely eighteen months ago.",
+          "The result confirms a steady upward trend for a company that analysts had consistently praised since the year 2020."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'The turnaround follows', so the preceding sentence must describe a swing from loss to profit, which is what 'a striking reversal' for a company analysts 'had written off' does. A 'decline', a result that 'falls short', and a 'steady upward trend' all fail to match a company that lost money a year earlier."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "likewise",
+          "nonetheless",
+          "accordingly",
+          "consequently"
+        ],
+        "answerIndex": 1,
+        "explanation": "Good results are followed by a warning that they may not last, so the concessive 'nonetheless' fits. 'Accordingly' and 'consequently' would make the warning a result of the profit, and 'likewise' would imply a parallel."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "offset",
+          "offsetting",
+          "to offset",
+          "being offset"
+        ],
+        "answerIndex": 1,
+        "explanation": "'A way of' must be followed by a gerund: 'a way of offsetting the effect'. 'Of offset' and 'of to offset' are ungrammatical, and 'being offset' would need a different subject and an object that does not follow."
       }
     ]
   },
   {
     "id": "p6-417",
     "documentType": "email",
-    "text": "Subject: Interruption to your service on 3 and 4 March\n\nDear Ms. Ferreira,\n\nI am writing to apologize for the interruption to your account that began on the evening of 3 March and [1] until the following afternoon. [2] That fault has since been corrected, and the update has been withdrawn pending a full review.\n\nI understand that the outage disrupted your quarter-end reporting, [3] we have credited your account with the equivalent of two months' fees. We have also commissioned an independent review, the findings of which will be shared with you [4] they become available.",
+    "text": "Subject: Interruption to your service on 3 and 4 March\n\nDear Ms. Ferreira,\n\nI am writing to apologize for the interruption to your account that began at 6:40 p.m. on 3 March and [1] until 2:15 p.m. the following day, a total of nearly twenty hours. [2] That fault has since been corrected, and the update has been withdrawn pending a full review.\n\nI understand that the outage disrupted your quarter-end reporting; [3], we have credited your account with the equivalent of two months' fees, which will appear on your next statement. We have also commissioned an independent review by Brannock Consulting, the findings of which will be shared with you [4] they become available. In the meantime, you may reach me directly on 0800 555 0142 should you need further assistance.\n\nYours sincerely,\nHelena Voigt\nHead of Client Services",
     "questions": [
       {
         "blank": 1,
         "category": "vocabulary",
         "choices": [
           "persisted",
-          "persevered",
           "persuaded",
+          "persevered",
           "perpetuated"
         ],
         "answerIndex": 0,
-        "explanation": "An interruption 'persisted' (continued) until the afternoon; 'persevered' describes a person's determination, 'persuaded' means convinced, and 'perpetuated' means made to continue by someone."
+        "explanation": "An interruption that 'persisted until 2:15 p.m.' simply continued. 'Persevered' describes a person's determination, 'persuaded' means convinced, and 'perpetuated' needs an agent who deliberately keeps something going."
       },
       {
         "blank": 2,
@@ -77,145 +132,420 @@
         "choices": [
           "The cause has been traced to a scheduled update to our authentication system, which was installed with sufficient testing.",
           "The cause has been traced to a faulty update to our authentication system, which was installed without sufficient testing.",
-          "The cause has been traced to a fault in your own network, which was installed without sufficient testing by our staff.",
-          "The cause has been explained to our customers, who were informed of the update in advance of the installation."
+          "The cause has been explained to all affected customers, who were informed of the update well before its installation.",
+          "The cause has been traced to a weakness in your own network, which was configured without sufficient testing by our staff."
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence says 'That fault has since been corrected, and the update has been withdrawn', so the previous one must identify a fault in the update; only the first does. The others describe a flawless update, blame the customer's network, or mention no fault."
+        "explanation": "The next sentence says 'That fault has since been corrected, and the update has been withdrawn', so the preceding sentence must name a fault located in the update. A scheduled update installed 'with sufficient testing' contains no fault, a weakness in the customer's network leaves 'the update' without a referent, and a sentence about informing customers mentions no fault at all."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "but nevertheless",
-          "although",
-          "and as a result",
-          "whereas"
+          "alternatively",
+          "conversely",
+          "accordingly",
+          "nevertheless"
         ],
         "answerIndex": 2,
-        "explanation": "The credit is a consequence of the disruption, expressed by 'as a result'; the other options express contrast, which does not fit an apology."
+        "explanation": "The credit is a consequence of the disruption just acknowledged, which 'accordingly' expresses. 'Nevertheless', 'conversely' and 'alternatively' signal contrast or another option, which does not fit an apology followed by compensation."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "even if",
-          "whereas",
-          "unless",
+          "as far as",
+          "as well as",
+          "as much as",
           "as soon as"
         ],
         "answerIndex": 3,
-        "explanation": "'As soon as they become available' gives the timing of sharing the findings; 'even if', 'whereas' and 'unless' distort that meaning."
+        "explanation": "'As soon as they become available' gives the timing of the disclosure of the findings. 'As far as', 'as well as' and 'as much as' cannot introduce a clause of time."
       }
     ]
   },
   {
     "id": "p6-418",
     "documentType": "memo",
-    "text": "To: Warehouse and Logistics Managers\nFrom: Teodor Maric, Health and Safety Officer\nSubject: Mandatory use of protective equipment\n\nFollowing the incident in Bay 4 last month, the safety committee has concluded that existing rules on protective equipment were applied inconsistently. [1] With effect from Monday, all personnel entering the loading area, [2] of their role, must wear high-visibility clothing and approved footwear.\n\nSupervisors will be held [3] for ensuring compliance within their shifts. [4] a worker is found without the required equipment, he or she will be asked to leave the area until the omission has been corrected. Repeated failures will be dealt with under the disciplinary procedure.",
+    "text": "To: Warehouse and Logistics Managers\nFrom: Teodor Maric, Health and Safety Officer\nSubject: Mandatory use of protective equipment\n\nFollowing the incident in Bay 4 on 14 September, the safety committee has concluded that existing rules on protective equipment were applied inconsistently. [1] With effect from Monday 20 October, all personnel entering the loading area, [2] of their role, must wear high-visibility clothing and approved footwear.\n\nEquipment will be issued free of charge by the stores office between 6 a.m. and 8 a.m. on weekdays, and damaged items must be replaced within two working days. Supervisors will be held [3] for ensuring compliance within their shifts. [4] a worker is found without the required equipment, he or she will be asked to leave the area until the omission has been corrected. Repeated failures will be dealt with under the disciplinary procedure. Visitors and contractors will be briefed at the main gate before they are admitted.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The committee therefore considers that a single, unambiguous standard is preferable to local arrangements that vary by team.",
-          "The committee therefore considers that a single, unambiguous standard is unnecessary given local arrangements that vary by team.",
           "The committee therefore considers that local standards are preferable to a single rule that varies by team.",
+          "The committee therefore considers that a single, unambiguous standard is unnecessary given local arrangements that vary by team.",
+          "The committee therefore considers that a single, unambiguous standard is preferable to local arrangements that vary by team.",
           "The committee has therefore concluded that arrangements that vary by team will remain in force until the next incident."
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence imposes one rule for 'all personnel', so the previous sentence must favor a single standard. The others call it unnecessary, prefer local rules, or keep the variation."
+        "answerIndex": 2,
+        "explanation": "The next sentence imposes one rule on 'all personnel', so the gap must favor a single standard; 'a single, unambiguous standard is preferable' does so. Calling a single standard 'unnecessary', preferring 'local standards', or keeping the arrangements 'in force until the next incident' all contradict the uniform rule that follows."
       },
       {
         "blank": 2,
         "category": "grammar",
         "choices": [
+          "aside",
           "notwithstanding",
-          "irrespective",
           "apart",
-          "aside"
+          "irrespective"
         ],
-        "answerIndex": 1,
-        "explanation": "'Irrespective of their role' is the fixed expression meaning without regard to; 'notwithstanding', 'apart' and 'aside' are not followed by 'of' in this sense."
+        "answerIndex": 3,
+        "explanation": "'Irrespective of their role' is the fixed expression meaning without regard to their role. 'Notwithstanding', 'apart' and 'aside' either take no 'of' or change the meaning when followed by it."
       },
       {
         "blank": 3,
         "category": "vocabulary",
         "choices": [
+          "accountable",
           "accountant",
           "accounted",
-          "accountable",
           "accounting"
         ],
-        "answerIndex": 2,
-        "explanation": "'Held accountable for' means made responsible for; the other forms are not adjectives that follow 'held'."
+        "answerIndex": 0,
+        "explanation": "'Held accountable for ensuring compliance' means made responsible for it. 'Accountant' is a noun, and 'accounted' and 'accounting' cannot follow 'held' with this meaning."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "Whereas",
-          "Wherein",
           "Whereby",
-          "Where"
+          "Where",
+          "Whereas",
+          "Wherein"
         ],
-        "answerIndex": 3,
-        "explanation": "'Where a worker is found without the required equipment' introduces the specific case; 'whereas' contrasts, 'wherein' means in which, and 'whereby' means by which."
+        "answerIndex": 1,
+        "explanation": "'Where a worker is found without the required equipment' introduces the specific case that triggers the sanction. 'Whereas' expresses contrast, 'wherein' means in which and 'whereby' means by which, none of which fits a conditional clause."
       }
     ]
   },
   {
     "id": "p6-419",
     "documentType": "letter",
-    "text": "Dear Dr. Okonkwo,\n\nI am pleased to offer you the position of Senior Research Fellow in the Department of Environmental Engineering, commencing on 1 September. The appointment is for a fixed term of three years, [1] to review after the second year.\n\n[2] Your salary will be £58,400 per annum, payable monthly in arrears, and you will be entitled to thirty days' annual leave in addition to public holidays. Should you accept this offer, you will be required to [3] the enclosed contract and return it by 15 July. [4] we have not received it by that date, we reserve the right to withdraw the offer.\n\nYours sincerely,\nProfessor Anneliese Vogt\nHead of Department",
+    "text": "Dear Dr. Okonkwo,\n\nI am pleased to offer you the position of Senior Research Fellow in the Department of Environmental Engineering, commencing on 1 September. The appointment is for a fixed term of three years, [1] to review after the second year. Your duties will include supervising two doctoral students and leading the water-quality project, which the Harcourt Trust has funded with a grant of £240,000.\n\n[2] Your salary will be £58,400 per annum, payable monthly in arrears, and you will be entitled to thirty days' annual leave in addition to public holidays. Should you accept this offer, you will be required to [3] the enclosed contract and return it by 15 July. [4] we not have received it by that date, we reserve the right to withdraw the offer.\n\nAn office has been reserved for you in the Aldwych Building, and Ms. Ruth Calder in Human Resources will contact you shortly about your induction.\n\nYours sincerely,\nProfessor Anneliese Vogt\nHead of Department",
     "questions": [
       {
         "blank": 1,
         "category": "grammar",
         "choices": [
+          "subjective",
           "subject",
           "subjected",
-          "subjecting",
-          "subjective"
+          "subjecting"
         ],
-        "answerIndex": 0,
-        "explanation": "'Subject to review' is the fixed expression meaning dependent on review; the other forms do not fit after the comma."
+        "answerIndex": 1,
+        "explanation": "'Subject to review' is the fixed expression meaning dependent on a later review; 'subjected', 'subjecting' and 'subjective' cannot follow the comma in this construction."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The terms of the appointment are set out in full in the attached contract, of which the following are the principal exceptions.",
-          "The terms of the appointment are set out in full in the attached contract, of which the following are the principal provisions.",
-          "The terms of the appointment will be agreed in full after the attached contract, of which the following are the principal provisions.",
-          "The terms of the previous appointment are set out in full in the attached contract, of which the following were the main provisions."
+          "The principal duties of the appointment are summarized below and set out in full in the enclosed contract.",
+          "The principal terms of the appointment remain open to negotiation and are not yet set out in the enclosed contract.",
+          "The principal terms of the appointment are summarized below and are set out in full in the enclosed contract.",
+          "The principal terms of the appointment were summarized above and are set out in full in the enclosed contract."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentences list salary and leave, which are principal provisions; only the first option introduces them correctly. The others speak of exceptions, postpone the agreement, or refer to a previous appointment."
+        "answerIndex": 2,
+        "explanation": "The following sentences list salary and leave, which are terms rather than duties, and they are stated as fixed ('Your salary will be £58,400'), so they cannot be 'open to negotiation'. 'Were summarized above' is wrong because nothing earlier summarizes salary or leave, and the duties have already been described."
       },
       {
         "blank": 3,
         "category": "vocabulary",
         "choices": [
+          "counterfeit",
           "countermand",
-          "counteract",
           "countersign",
-          "counterfeit"
+          "counteract"
         ],
         "answerIndex": 2,
-        "explanation": "A contract is 'countersigned' after it has been signed by the other party; 'countermand' means revoke, 'counteract' means neutralize, and 'counterfeit' means forge."
+        "explanation": "A contract that has already been signed by the university is 'countersigned' by the appointee; 'countermand' means revoke, 'counteract' means neutralize and 'counterfeit' means forge."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
           "Unless",
-          "Whereas",
-          "Inasmuch as",
-          "In the event that"
+          "Were",
+          "Had",
+          "Should"
         ],
         "answerIndex": 3,
-        "explanation": "'In the event that we have not received it' introduces a possible situation; 'unless' would create a double negative with 'not', 'whereas' contrasts, and 'inasmuch as' means because."
+        "explanation": "'Should we not have received it' is an inverted conditional meaning 'if we have not received it'. 'Had we not received it' refers to an unreal past, 'were we not have' is ungrammatical, and 'unless' cannot be combined with 'not' without a double negative."
+      }
+    ]
+  },
+  {
+    "id": "p6-420",
+    "documentType": "web_page",
+    "text": "Harlow & Voss LLP – Privacy Notice for Clients\n\nWe collect personal data only to the extent that it is necessary for the provision of our legal services and for compliance with our professional obligations. [1] Data supplied in the course of an engagement is stored on servers located within the European Economic Area and is retained for a period of seven years after the matter has closed.\n\nWe do not disclose personal data to third parties, [2] where disclosure is required by law or has been authorized by the client in writing. Clients are entitled to request access to the data we hold about them, and to ask that inaccurate information be [3]. Requests of this kind will be answered within thirty days, [4] that period may be extended where a request is particularly complex.\n\nQueries concerning this notice should be addressed to our Data Protection Officer, Imogen Tait, at privacy@harlowvoss.example. Clients who remain dissatisfied with our response may lodge a complaint with the national supervisory authority.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The firm does not use such data for marketing purposes and does not share it with any affiliated business.",
+          "The firm uses such data for marketing purposes and shares it only with affiliated businesses that hold a licence.",
+          "The firm does not use such data for archiving purposes and does not store it in any affiliated business.",
+          "The firm did not use such data for marketing purposes, but now shares it with every affiliated business."
+        ],
+        "answerIndex": 0,
+        "explanation": "The notice says data is collected 'only to the extent' necessary and, in the next paragraph, that it is not disclosed to third parties; only the sentence denying marketing use and sharing is consistent with both. The sentence admitting marketing use contradicts them, the one denying archiving conflicts with the seven-year retention period, and the one saying the firm 'now shares' data contradicts the non-disclosure policy."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "whether",
+          "whereas",
+          "although",
+          "except"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Except where disclosure is required by law' introduces the only exceptions to the ban on disclosure. 'Whereas' and 'although' express contrast or concession rather than an exception, and 'whether' needs an alternative."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "rectification",
+          "rectifying",
+          "rectified",
+          "rectify"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'ask that inaccurate information be', the passive needs the past participle 'rectified' (corrected). 'Rectify' and 'rectifying' do not complete the passive, and 'rectification' is a noun."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "insofar",
+          "although",
+          "lest",
+          "provided"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Although that period may be extended' concedes an exception to the thirty-day promise. 'Lest' introduces a feared outcome, 'provided' would make the extension a condition of the answer, and 'insofar' cannot stand alone without 'as'."
+      }
+    ]
+  },
+  {
+    "id": "p6-421",
+    "documentType": "notice",
+    "text": "CITY OF EASTMOOR – NOTICE OF TEMPORARY ROAD CLOSURE\n\nIn order to allow the replacement of a main sewer, Quay Street will be closed to all traffic between its junctions with Mill Lane and Orchard Road from 6 a.m. on Monday 14 April until 6 p.m. on Friday 25 April. [1] Access for pedestrians will be maintained at all times, and businesses within the closed section will remain open.\n\nDiversion routes will be signposted. Motorists [2] to reach the town center from the north are advised to use the ring road, which is expected to [3] a substantial increase in traffic. Deliveries to affected premises may be made through the rear service lane [4] the vehicle weighs no more than 7.5 tonnes.\n\nEnquiries should be addressed to the Highways Office on 0161 555 0142, and progress updates will be posted on the council website every Friday.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "There will be no exceptions, and emergency vehicles will be escorted through the works area by site staff.",
+          "The only exception was emergency vehicles, which were escorted through the works area by site staff last year.",
+          "The only exception will be pedestrians, who will be escorted through the works area by site staff at all times.",
+          "The only exception will be emergency vehicles, which will be escorted through the works area by site staff."
+        ],
+        "answerIndex": 3,
+        "explanation": "Because the road is 'closed to all traffic', a sentence naming a single exception for emergency vehicles in the future tense fits. 'There will be no exceptions' contradicts itself, the past-tense version refers to last year rather than the April closure, and escorting pedestrians clashes with the following promise that their access 'will be maintained at all times'."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "wishes",
+          "wish",
+          "wished",
+          "wishing"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Motorists wishing to reach the town center' uses a present participle as a reduced relative clause, equivalent to 'who wish'. 'Wished' would be passive or past, and 'wish' and 'wishes' leave the noun phrase without a main verb structure."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "explore",
+          "experience",
+          "expend",
+          "expect"
+        ],
+        "answerIndex": 1,
+        "explanation": "A road 'experiences' an increase in traffic, so 'expected to experience a substantial increase' is the natural collocation. 'Expect', 'expend' and 'explore' do not take 'an increase in traffic' as a sensible object."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "so that",
+          "provided that",
+          "in case",
+          "even though"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Provided that the vehicle weighs no more than 7.5 tonnes' sets the condition on which deliveries are allowed. 'So that' expresses purpose, 'even though' introduces a contrast and 'in case' states a precaution, none of which suits a weight limit."
+      }
+    ]
+  },
+  {
+    "id": "p6-422",
+    "documentType": "email",
+    "text": "Subject: Draft proposal for the Aldgate redevelopment\n\nDear Mr. Whitlow,\n\nPlease find attached our draft proposal for the redevelopment of the Aldgate site. We have prepared it in the light of your comments at last week's meeting, and we have [1] a number of the concerns that you raised regarding access and parking. Section 3 now provides for a second entrance on Fenwick Road, and the car park has been enlarged to 140 spaces.\n\n[2] These savings assume that the existing warehouse can be retained, which would reduce demolition costs by roughly a fifth. This assumption has yet to be confirmed by the structural engineer, [3] the figures should be treated as provisional. I should be grateful if you would let me have your comments by Friday, [4] we can incorporate them in the version that goes to the planning committee.\n\nYours sincerely,\nEleanor Marsh\nSenior Project Manager, Calder & Rowe Associates",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "dismissed",
+          "overlooked",
+          "deferred",
+          "addressed"
+        ],
+        "answerIndex": 3,
+        "explanation": "The proposal was prepared 'in the light of your comments', so the concerns were 'addressed', meaning dealt with. 'Overlooked' and 'dismissed' contradict that, and 'deferred' would mean the concerns were postponed rather than answered in the new section 3."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The revised layout also achieves significant savings against our earlier estimate, mainly through a phased construction programme.",
+          "Our own fee for the project also reflects savings against our earlier quotation, mainly through a phased invoicing schedule.",
+          "The revised layout also incurs significant extra costs against our earlier estimate, mainly through a phased construction programme.",
+          "The revised layout also improves safety across the site against our earlier design, mainly through a wider access road."
+        ],
+        "answerIndex": 0,
+        "explanation": "'These savings' in the next sentence needs a plural antecedent that mentions savings on the project, and only the sentence about the revised layout achieving 'significant savings' supplies it. 'Extra costs' and 'improves safety' contain no savings, and savings on 'our own fee' cannot depend on lower demolition costs."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "although",
+          "whereas",
+          "and therefore",
+          "even if"
+        ],
+        "answerIndex": 2,
+        "explanation": "The unconfirmed assumption is the reason the figures are provisional, so 'and therefore' draws the consequence. 'Whereas', 'although' and 'even if' would set the two ideas against each other, which makes no sense here."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "provided that",
+          "so that",
+          "in case",
+          "unless"
+        ],
+        "answerIndex": 1,
+        "explanation": "'So that we can incorporate them' gives the purpose of the Friday deadline. 'Provided that' and 'unless' would make the deadline a condition, and 'in case' would suggest a precaution rather than an aim."
+      }
+    ]
+  },
+  {
+    "id": "p6-423",
+    "documentType": "advertisement",
+    "text": "The Wexford Institute of Management – Executive Diploma in Strategy\n\nDesigned for senior professionals who wish to broaden their strategic perspective, the Executive Diploma in Strategy is delivered over nine months in a flexible format that [1] full-time employment. Sessions take place on alternate Fridays and Saturdays, and the next intake begins on 6 October. Teaching is shared between academics and practitioners who currently hold senior positions in industry.\n\n[2] Participants work in small groups on live commercial problems submitted by partner companies, and the results are presented to the companies' directors at the end of the program. The course is demanding; [3], graduates consistently report that it was the most valuable investment of their careers. Applications received [4] 30 June will be considered for a bursary covering up to a third of the fee of 14,500 euros.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "supersedes",
+          "accommodates",
+          "precludes",
+          "disrupts"
+        ],
+        "answerIndex": 1,
+        "explanation": "A 'flexible format' designed for senior professionals 'accommodates' full-time employment, meaning it makes room for it. 'Disrupts' and 'precludes' contradict the idea of flexibility, and 'supersedes' would mean replacing work, which makes no sense."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The curriculum places particular emphasis on written examinations rather than on applying theory to real situations.",
+          "The curriculum places particular emphasis on applying theory to real situations rather than on studying it in the abstract.",
+          "The curriculum places particular emphasis on studying theory in the abstract rather than on applying it to real situations.",
+          "Until last year, the curriculum placed particular emphasis on applying theory to real situations rather than on studying it."
+        ],
+        "answerIndex": 1,
+        "explanation": "The following sentence describes groups working on 'live commercial problems', which is exactly the practical application of theory, so only the sentence stressing application over abstraction prepares it. The sentences that stress abstraction or written examinations contradict it, and the one beginning 'Until last year' describes a past curriculum while the advertisement speaks of the present."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "accordingly",
+          "nevertheless",
+          "incidentally",
+          "similarly"
+        ],
+        "answerIndex": 1,
+        "explanation": "The previous sentence states a drawback ('demanding') and this one a positive result, so a contrast marker is needed: 'nevertheless'. 'Accordingly' implies a consequence, 'similarly' a parallel, and 'incidentally' an aside."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "during",
+          "since",
+          "by",
+          "at"
+        ],
+        "answerIndex": 2,
+        "explanation": "'By 30 June' sets a deadline for applications. 'At' and 'during' cannot be used with a single date in this way, and 'since' refers to a point in the past rather than a cut-off."
+      }
+    ]
+  },
+  {
+    "id": "p6-424",
+    "documentType": "memo",
+    "text": "To: Department Heads\nFrom: Rafaela Quintero, Chief Financial Officer\nSubject: Capital expenditure requests for the coming year\n\nThe finance committee will begin reviewing capital expenditure requests for the next financial year on 2 October. To enable a fair comparison between projects, all requests must be submitted on the revised template, which requires a payback estimate and a statement of the risks involved. [1] The deadline for submission is 18 September, two weeks before the committee convenes.\n\nRequests [2] £250,000 will be referred to a second-stage review by the board. Departments should bear in mind that the total available budget is expected to be roughly 15 percent lower than this year's. [3], projects that cannot demonstrate a clear return within three years are unlikely to be approved. Submissions that arrive after the deadline will not be [4] under any circumstances. Questions about the template should be addressed to Kofi Mensah in Group Finance.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Incomplete or inconsistent submissions will be reviewed by the originating department and will then be scheduled for approval.",
+          "Incomplete or inconsistent submissions will be returned to the originating department and will not be scheduled for review.",
+          "Incomplete or inconsistent submissions were returned to the originating department before the review was scheduled.",
+          "Complete and consistent submissions will be returned to the originating department and will not be scheduled for review."
+        ],
+        "answerIndex": 1,
+        "explanation": "After the requirement to use the revised template, the logical next step is the consequence of not complying: 'Incomplete or inconsistent submissions will be returned'. Letting the department review its own submission defeats a 'fair comparison', penalising 'Complete and consistent' submissions is illogical, and the past tense does not suit a procedure that has not yet begun."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "exceed",
+          "exceeds",
+          "exceeded",
+          "exceeding"
+        ],
+        "answerIndex": 3,
+        "explanation": "A reduced relative construction needs a present participle: 'Requests exceeding £250,000'. 'Exceeded' would be a past participle with an object, and 'exceed' and 'exceeds' cannot follow the noun without a relative pronoun."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Alternatively",
+          "Likewise",
+          "Consequently",
+          "Nevertheless"
+        ],
+        "answerIndex": 2,
+        "explanation": "A budget about 15 percent lower leads logically to a strict approval rule, which 'Consequently' expresses. 'Nevertheless' and 'Alternatively' contradict that logic, and 'Likewise' would introduce a parallel point rather than a result."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "enacted",
+          "entailed",
+          "entrusted",
+          "entertained"
+        ],
+        "answerIndex": 3,
+        "explanation": "A late submission 'will not be entertained' means it will not be considered. 'Entailed' means involved, 'entrusted' means given responsibility for, and 'enacted' means passed into law, so none can describe the board's handling of a late request."
       }
     ]
   }

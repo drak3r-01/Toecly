@@ -1,166 +1,551 @@
 [
   {
-    "id": "p6-452",
-    "documentType": "article",
-    "text": "Shipbuilders Look to Hydrogen\n\nThe world's largest shipbuilders are racing to develop vessels powered by hydrogen, which emits no carbon dioxide when burned. Progress has, [1], been slower than the industry predicted, largely because hydrogen must be stored at very low temperatures and occupies far more space than conventional fuel.\n\n[2] Engineers at Sorensen Marine believe they have found a partial solution. Their design places the fuel tanks in the hull rather than on deck, thereby [3] cargo capacity by only five percent. The company's chief engineer concedes that the technology will not be commercially viable [4] a global network of refueling ports exists.",
+    "id": "p6-618",
+    "documentType": "text_message",
+    "text": "Dr. Mei Tanaka [16:41]: Quick update on the coating trial for the Rotterdam client. Batch 7 completed its 500-hour humidity cycle an hour ago.\nDr. Louis Okoye [16:43]: Good timing. Any sign of delamination or cracking?\nDr. Mei Tanaka [16:45]: None at the edges, [1] there is slight clouding on two of the twelve samples. [2]\nDr. Louis Okoye [16:47]: Then we should not move to pilot production yet. Did the supplier change the resin?\nDr. Mei Tanaka [16:50]: Not officially, but their latest data sheet lists a different curing agent. I suspect that explains the sudden [3] in the results.\nDr. Louis Okoye [16:52]: Agreed. [4] I will ask Procurement to request the formulation in writing before Friday.\nDr. Mei Tanaka [16:53]: Please do. I will rerun the two clouded samples with the original resin in the meantime.",
     "questions": [
       {
         "blank": 1,
         "category": "connector",
         "choices": [
-          "however",
-          "therefore",
-          "moreover",
-          "similarly"
+          "once",
+          "although",
+          "unless",
+          "since"
         ],
-        "answerIndex": 0,
-        "explanation": "The sentence contrasts the race to develop hydrogen vessels with slow progress; 'however' marks the contrast."
+        "answerIndex": 1,
+        "explanation": "'although' introduces a concession: no delamination at the edges, although some clouding appeared. 'unless', 'since' and 'once' create conditions, causes or time relations that the sentence does not express."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The storage problem has proved the least stubborn obstacle, and it has absorbed a disproportionate share of research budgets.",
-          "The storage problem has proved the most stubborn obstacle, and it has absorbed a disproportionate share of research budgets.",
-          "The storage problem has proved the most stubborn obstacle, and it has been solved by a disproportionate share of vessels.",
-          "The fuel problem will prove the most stubborn obstacle, and it absorbed a disproportionate share of research budgets."
+          "Neither Batch 5 nor Batch 6 showed anything similar, so this looks like a genuinely new pattern.",
+          "Batches 5 and 6 showed the same clouding, which the client had already approved in writing.",
+          "The clouding is purely cosmetic and falls well within the tolerance set by the client's team.",
+          "The remaining ten samples were returned to the humidity chamber for a further two hundred hours."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence says engineers 'believe they have found a partial solution', so the previous one should present a problem; the first does. The others call it the least stubborn, say it was solved, or mismatch tenses."
+        "answerIndex": 0,
+        "explanation": "Louis answers 'Then we should not move to pilot production yet. Did the supplier change the resin?', which only follows if the clouding is a new and worrying pattern, as 'Neither Batch 5 nor Batch 6 showed anything similar' states. Approved or cosmetic clouding would not stop production, and extra chamber hours say nothing about a change in the resin."
       },
       {
         "blank": 3,
         "category": "grammar",
         "choices": [
-          "reduced",
-          "reduce",
-          "reducing",
-          "reduction"
+          "deteriorating",
+          "deterioration",
+          "deteriorated",
+          "deteriorate"
         ],
-        "answerIndex": 2,
-        "explanation": "'Thereby reducing cargo capacity' is a participle phrase giving the result of the design; the other forms are not possible after 'thereby'."
+        "answerIndex": 1,
+        "explanation": "After 'the sudden' a noun is required: 'the sudden deterioration in the results'. The verb forms and the participle cannot be followed by 'in the results' in this way."
       },
       {
         "blank": 4,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "unless",
-          "whereas",
-          "although",
-          "until"
+          "The supplier has confirmed that the resin was changed, and a revised specification is attached.",
+          "Verbal assurances from the supplier will not satisfy the client's quality audit of materials.",
+          "A written record of the formulation is already held in the shared project folder on the server.",
+          "Written confirmation would not be accepted by the client, who prefers independent testing."
         ],
-        "answerIndex": 3,
-        "explanation": "The technology will not be viable 'until' a network exists; 'unless' would need a different structure, and the others do not fit."
+        "answerIndex": 1,
+        "explanation": "The next sentence asks Procurement to get the formulation 'in writing', which is justified by the statement that verbal assurances will not satisfy an audit. If the record already exists, the change is confirmed, or writing is not accepted, requesting it would be pointless."
       }
     ]
   },
   {
-    "id": "p6-453",
-    "documentType": "web_page",
-    "text": "Whitby Regional Hospital – Information for Visitors\n\nVisiting is permitted between 2 p.m. and 8 p.m. on general wards, [1] visiting hours in the intensive care unit are set by the nurse in charge. Visitors are asked to limit themselves to two per patient at any one time.\n\n[2] Children under twelve may visit only with the agreement of the ward sister, and anyone who has experienced symptoms of infection within the previous forty-eight hours should [3] from visiting. Flowers are not permitted on any ward, [4] they pose a risk of infection to patients with weakened immune systems.",
+    "id": "p6-621",
+    "documentType": "memo",
+    "text": "To: Claims Handlers, Commercial Property Division\nFrom: Henrik Dalgaard, Head of Claims Governance\nSubject: Revised settlement authority limits\n\nEffective 1 February, individual handlers will be authorised to settle claims of up to £25,000 without referral, [1] they were previously limited to £15,000. Claims above that figure must be countersigned by a team leader, and those exceeding £100,000 require the approval of the Large Loss Committee.\n\nThe change follows an internal review, which found that nearly a third of settlements had been delayed by referrals that proved to be unnecessary. [2]\n\nHandlers are reminded that the new limit applies only to claims for which liability [3] by the insurer and the policy confirmed as in force on the date of loss. Where fraud is suspected, the claim must be escalated irrespective of its value. [4], decisions taken within the new limit will remain subject to audit: quarterly sampling will verify compliance, and any handler whose files show repeated errors will have their authority suspended pending retraining.",
     "questions": [
       {
         "blank": 1,
         "category": "connector",
         "choices": [
+          "insofar as",
           "whereas",
-          "therefore",
-          "moreover",
-          "hence"
+          "unless",
+          "provided that"
         ],
-        "answerIndex": 0,
-        "explanation": "'Whereas visiting hours in the intensive care unit are set by the nurse' contrasts the general rule with the unit's rule."
+        "answerIndex": 1,
+        "explanation": "'Whereas' contrasts the new £25,000 authority with the previous £15,000 limit. 'Provided that' and 'unless' set conditions, and 'insofar as' restricts extent, none of which makes sense for a before-and-after comparison."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "These restrictions are intended to protect visitors who are especially resistant to infection and to allow staff to work without supervision.",
-          "These restrictions are intended to protect patients who are especially vulnerable to infection and to allow staff to work without obstruction.",
-          "These restrictions are intended to protect staff who are especially vulnerable to injury and to allow patients to work without obstruction.",
-          "These permissions are intended to protect patients who are especially vulnerable to infection and to allow families to visit without limit."
+          "The higher limit should therefore be reviewed after twelve months, once the audit team has reported its findings.",
+          "The higher limit should therefore shorten settlement times on routine claims without weakening financial control.",
+          "The previous limit should therefore shorten settlement times on routine claims without weakening financial control.",
+          "Team leaders had therefore been countersigning nearly a third of all settlements before the review began."
         ],
         "answerIndex": 1,
-        "explanation": "The following sentences set conditions for children, symptoms and flowers, which are restrictions; the first option introduces them. The others reverse the aim or use 'permissions'."
+        "explanation": "'Therefore' needs a consequence of the unnecessary referrals, and only the higher limit shortening settlement times follows from that finding. 'Be reviewed after twelve months' is not a result of the delays, 'had been countersigning ... before the review began' is a past fact rather than a consequence, and 'the previous limit' is the arrangement being replaced, so it cannot improve matters."
       },
       {
         "blank": 3,
-        "category": "vocabulary",
+        "category": "grammar",
         "choices": [
-          "retreat",
-          "retain",
-          "refrain",
-          "refuse"
+          "is accepting",
+          "having accepted",
+          "has accepted",
+          "has been accepted"
         ],
-        "answerIndex": 2,
-        "explanation": "'Refrain from visiting' is the fixed expression meaning not visit; 'retreat', 'retain' and 'refuse' do not take 'from visiting' this way."
+        "answerIndex": 3,
+        "explanation": "Liability is accepted by the insurer, so the passive 'has been accepted' agrees with 'by the insurer' and is parallel to 'the policy confirmed'. 'Has accepted' and 'is accepting' are active and would need an object, and 'having accepted' is not a finite verb."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "although",
-          "unless",
-          "whereas",
-          "as"
+          "Alternatively",
+          "Nonetheless",
+          "Conversely",
+          "Incidentally"
         ],
-        "answerIndex": 3,
-        "explanation": "'As they pose a risk of infection' gives the reason for the ban on flowers; the others do not give reasons."
+        "answerIndex": 1,
+        "explanation": "'Nonetheless' signals that, despite handlers' greater autonomy, decisions remain subject to audit. 'Alternatively' offers another option, 'incidentally' introduces an aside and 'conversely' reverses a point, none of which links to the preceding sentence on fraud escalation."
       }
     ]
   },
   {
-    "id": "p6-454",
+    "id": "p6-622",
     "documentType": "email",
-    "text": "To: Participants in the Graduate Programme\nFrom: Seraphina Quill, Talent Development\nSubject: Rotation placements\n\nI am pleased to confirm your second placement, which begins on 1 June. Each of you will spend six months in a department that differs from your first, [1] that you gain a broad understanding of the business before specializing.\n\n[2] The allocation was made on the basis of your stated preferences and the needs of the departments, and it is not open to negotiation. [3] you have concerns about the arrangements, please raise them with your mentor in the first instance. You will be expected to [4] a short report on your experience at the end of the placement.",
+    "text": "To: Tenants' Liaison Group, Marlow Quay Business Park\nFrom: Ottilie Brennan, Facilities Manager\nSubject: Programme for the renovation of Block C\n\nDear colleagues,\n\nFollowing a competitive tender, Callender & Roake Construction has been appointed to renovate the façade of Block C. Scaffolding will be erected from Monday 6 April, and the works are expected to last fourteen weeks, [1] adverse weather.\n\nTo limit disruption, noisy work such as drilling will be confined to the hours between 8 a.m. and 4 p.m. The main entrance on Quay Street will, however, be closed from 20 April for six weeks. [2] Please inform your visitors of this arrangement in advance, as directional signage will not be installed until the week of 13 April.\n\nAny tenant [3] sensitive equipment, such as servers or laboratory instruments, should notify me by 27 March so that vibration monitors can be fitted. [4] the monitors can only be installed before the scaffolding goes up, late requests cannot be accommodated.\n\nKind regards,\nOttilie Brennan",
     "questions": [
       {
         "blank": 1,
-        "category": "connector",
+        "category": "vocabulary",
         "choices": [
-          "so that",
-          "provided",
-          "in case",
-          "lest"
+          "regarding",
+          "following",
+          "pending",
+          "barring"
         ],
-        "answerIndex": 0,
-        "explanation": "'So that you gain a broad understanding' gives the purpose of rotating departments; 'provided' needs 'that', 'in case' suggests a precaution, and 'lest' requires a negative idea."
+        "answerIndex": 3,
+        "explanation": "'Barring adverse weather' means 'unless the weather is bad', which fits an estimate of fourteen weeks. 'Regarding' would only introduce a topic, 'pending' means 'until a decision is reached' and 'following' would imply the bad weather had already occurred."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "I recognize that every placement will coincide with the preference that you expressed in your application.",
-          "I recognize that not every placement will coincide with the preference you expressed in your application.",
-          "I recognized that not every placement would coincide with the preference that you had expressed.",
-          "We recognize that not every candidate will coincide with the preference that the departments expressed."
+          "Once the closure ends, visitors and deliveries must use the north entrance, which will be staffed from 7.30 a.m.",
+          "During this closure, visitors and deliveries must use the main entrance, which will be staffed from 7.30 a.m.",
+          "Throughout the works, tenants and their staff may continue to use the main entrance, which will be staffed from 7.30 a.m.",
+          "During this closure, visitors and deliveries must use the north entrance, which will be staffed from 7.30 a.m."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence explains how the allocation was made and that it is not negotiable, so the previous one should acknowledge that some placements may disappoint; only the first does. The others deny it, use past tenses, or confuse candidates and preferences."
+        "answerIndex": 3,
+        "explanation": "The next sentence asks tenants to tell visitors about 'this arrangement', so the blank must set out an alternative route during the closure of the Quay Street entrance. 'Once the closure ends' puts the arrangement after the closure, and 'the main entrance' in either of the other sentences contradicts the statement that it 'will be closed from 20 April'."
       },
       {
         "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "to operate",
+          "operates",
+          "operated",
+          "operating"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Any tenant operating sensitive equipment' is a reduced relative clause with an active participle. 'Operated' is passive, 'operates' would need 'who', and 'to operate' does not follow a noun in this structure."
+      },
+      {
+        "blank": 4,
         "category": "connector",
         "choices": [
+          "Given that",
           "Whereas",
-          "Albeit",
-          "Should",
-          "Insofar"
+          "Provided that",
+          "Even though"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Given that' introduces the reason why late requests cannot be accommodated: the monitors must be fitted before the scaffolding goes up. 'Provided that' states a condition, 'even though' a concession and 'whereas' a contrast, none of which matches the cause-and-effect link."
+      }
+    ]
+  },
+  {
+    "id": "p6-623",
+    "documentType": "web_page",
+    "text": "Kestrel Mobile Business – International Roaming Policy\nLast updated 3 September\n\nBusiness tariff subscribers may use their data allowance in all Zone A countries at no additional charge, [1] a fair usage limit of 25 GB per month. A text message will be sent when you have used 80 percent of this allowance. [2] To avoid unexpected charges, we recommend activating the Spend Cap in your online account, which suspends roaming data as soon as your chosen budget has been reached.\n\nRoaming in Zone B countries is [3] a flat daily charge of £6, irrespective of the volume of data used. Pre-paid customers, [4] allowances are not tied to a monthly billing cycle, may add a Roaming Day Pass at any time through the Kestrel app.\n\nCustomers travelling outside Zones A and B should contact Business Support before departure, since coverage and tariffs there vary considerably between networks. Calls to the support line from abroad are free of charge.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "due to",
+          "up to",
+          "owing to",
+          "prior to"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Up to a fair usage limit of 25 GB' sets the ceiling of the free allowance. 'Owing to' and 'due to' express cause, and 'prior to' expresses time, so none of them can introduce a quantity limit."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Data used within this threshold is not blocked but billed at £0.012 per megabyte.",
+          "Data used beyond this threshold is not blocked but billed at £0.012 per megabyte.",
+          "Data used beyond this threshold was billed at £0.012 per megabyte until the policy was revised.",
+          "Data used beyond this threshold is blocked automatically until the next billing cycle begins."
+        ],
+        "answerIndex": 1,
+        "explanation": "The following sentence recommends the Spend Cap 'to avoid unexpected charges', so the blank must say that usage above the limit is billed. 'Within this threshold' contradicts 'no additional charge', 'blocked automatically' would leave no charges to avoid, and the past tense 'was billed ... until the policy was revised' says the charges no longer apply."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "free of",
+          "exempt from",
+          "ineligible for",
+          "subject to"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Roaming ... is subject to a flat daily charge of £6' means the charge applies, which agrees with 'irrespective of the volume of data used'. 'Exempt from' and 'free of' say no charge applies, and 'ineligible for' makes no sense with a charge."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "whom",
+          "that",
+          "which",
+          "whose"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Whose allowances' expresses possession by 'Pre-paid customers' in a non-defining relative clause. 'Whom' and 'which' cannot be followed directly by a noun in this way, and 'that' cannot be used after a comma."
+      }
+    ]
+  },
+  {
+    "id": "p6-624",
+    "documentType": "letter",
+    "text": "Greenfield Valley Growers' Cooperative\n14 Orchard Lane, Fenwick\n\n3 November\n\nMr. Anselm Verhoeven\nPurchasing Director, Brasserie Lorient Group\n\nDear Mr. Verhoeven,\n\nI am writing to inform you of an adjustment to the prices of our winter vegetable range, which will take effect on 1 December. A prolonged dry spell in August reduced yields of root vegetables by almost a fifth. [1], the cost of irrigation rose sharply as growers struggled to protect later crops.\n\nWe have absorbed a substantial part of these increases ourselves in recognition of your long-standing custom. [2] The enclosed price list, [3] by a summary of the revised terms, sets out the new rates for each product.\n\nWe trust that the adjustment will not [4] the strong working relationship we have built over eleven seasons, and I would be glad to discuss any aspect of it at your convenience.\n\nYours sincerely,\nMargarethe Lindqvist\nSales Director",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "Nonetheless",
+          "In addition",
+          "Otherwise",
+          "Instead"
+        ],
+        "answerIndex": 1,
+        "explanation": "'In addition' adds a second, concurrent pressure on costs: irrigation rose as well as yields falling. 'Nonetheless' signals concession, 'otherwise' introduces a hypothetical alternative and 'instead' presents a substitution, none of which fits two cumulative problems."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Consequently, the average rise across the range was limited to 4.5 percent, well below the 9 percent we proposed last winter.",
+          "Consequently, the average rise across the range will be 9 percent, well above the 4.5 percent that costs alone would justify.",
+          "Consequently, suppliers elsewhere in the region will limit the average rise to 4.5 percent, well below the 9 percent costs would justify.",
+          "Consequently, the average rise across the range will be limited to 4.5 percent, well below the 9 percent that costs alone would justify."
+        ],
+        "answerIndex": 3,
+        "explanation": "Because the cooperative has 'absorbed a substantial part of these increases', the average rise is held below what costs alone would justify. A 9 percent rise contradicts the absorption, the past tense 'was limited' clashes with the price change that 'will take effect on 1 December', and 'suppliers elsewhere' are not the writer's cooperative."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "accompanies",
+          "accompany",
+          "accompanied",
+          "accompanying"
         ],
         "answerIndex": 2,
-        "explanation": "'Should you have concerns' is an inverted conditional meaning 'if you have concerns'; the others cannot introduce it."
+        "explanation": "'Accompanied by a summary' is a passive participle phrase modifying 'price list'. 'Accompanying by' is not possible, and 'accompany' and 'accompanies' are finite verbs that would leave the sentence without a proper structure."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "submerge",
-          "submit to",
-          "subtract",
-          "submit"
+          "undermine",
+          "forfeit",
+          "exhaust",
+          "overturn"
+        ],
+        "answerIndex": 0,
+        "explanation": "To 'undermine' a relationship is to weaken it gradually, which is the risk the writer hopes to rule out. 'Overturn' applies to decisions, 'exhaust' to resources and 'forfeit' to rights or privileges, so none collocates with 'working relationship'."
+      }
+    ]
+  },
+  {
+    "id": "p6-625",
+    "documentType": "notice",
+    "text": "CALDERBRIDGE METRO – SERVICE ALTERATION NOTICE\nLine 4 closure: Saturday 14 to Sunday 22 March\n\nTo allow for the replacement of signalling equipment, Line 4 will be closed [1] Harbour Road and Eastgate stations from the first service on Saturday 14 March until the last service on Sunday 22 March. Trains will continue to run on the remainder of the line, although frequencies will be reduced to every twelve minutes.\n\nReplacement buses (route R4) will call at every station on the closed section. [2] Customers with limited mobility who require step-free access should therefore telephone the assistance line at least 24 hours before travelling, so that suitable vehicles can be allocated.\n\nSeason ticket holders affected by the closure will not be [3] to a refund, as replacement services are provided free of charge. Journey times are likely to be longer than usual. [4], passengers heading to the airport are advised to leave at least thirty minutes earlier than planned.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "throughout",
+          "among",
+          "across",
+          "between"
         ],
         "answerIndex": 3,
-        "explanation": "Participants must 'submit' a report; 'submerge' means put under water, 'subtract' means take away, and 'submit to' means yield."
+        "explanation": "'Between Harbour Road and Eastgate stations' names the two end points of the closed section. 'Among' is used for three or more items, and 'throughout' and 'across' do not combine with two named points."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Please note that only half of these vehicles will be fitted with wheelchair ramps on this route.",
+          "Please note that all of these vehicles will be fitted with wheelchair ramps on this particular route.",
+          "Please note that only half of these vehicles were fitted with ramps during earlier closures.",
+          "Please note that only half of the trains will be fitted with wheelchair ramps on this route."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says customers 'should therefore telephone' so that 'suitable vehicles can be allocated', which makes sense only if some replacement buses lack ramps. 'All of these vehicles' removes the need to call, 'the trains' are not the replacement buses, and the past tense about 'previous closures' gives no reason for this closure's advice."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "permitted",
+          "qualified",
+          "entitled",
+          "eligible"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Entitled to a refund' is the fixed collocation with 'to'. 'Eligible' takes 'for', and 'qualified' and 'permitted' do not take 'to a refund' in this sense."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Otherwise",
+          "In particular",
+          "In contrast",
+          "Alternatively"
+        ],
+        "answerIndex": 1,
+        "explanation": "'In particular' singles out airport passengers as the group most affected by 'longer than usual' journey times. 'In contrast' and 'alternatively' do not match the sentence, and 'otherwise' would mean 'if not', which has no condition to refer to."
+      }
+    ]
+  },
+  {
+    "id": "p6-626",
+    "documentType": "schedule",
+    "text": "NORTHBROOK CHILDREN'S TRUST\nAnnual Gala Dinner – Volunteer Schedule and Briefing Notes\nSaturday 18 October, Grand Hall, Linwood Hotel\n\n5.00 p.m. Volunteer briefing\n6.30 p.m. Doors open; drinks reception\n7.30 p.m. Dinner and keynote address\n9.00 p.m. Live auction\n11.00 p.m. Close\n\nVolunteers are asked to report to the hotel by 5.00 p.m., [1] the events manager will assign stations and issue name badges. Registration staff must, however, be in place by 4.30 p.m. so that the guest list can be checked against the seating plan. Doors open at 6.30 p.m., and guests will be received with drinks in the foyer. [2] Once dinner is served at 7.30 p.m., the registration team is released and should take the reserved seats at the rear tables.\n\nVolunteers [3] to wear the black Northbrook polo shirt, which will be supplied at the briefing, and to keep mobile telephones switched off during the speeches. Light refreshments will be available in the staff room throughout the evening. Thank you for giving your time; [4] your support, the Trust could not provide the 340 places in holiday clubs that it funds each summer.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "when",
+          "while",
+          "unless"
+        ],
+        "answerIndex": 1,
+        "explanation": "'When' refers back to the time given, 5.00 p.m., at which stations are assigned. 'While' and 'whereas' would signal simultaneity or contrast with the arrival time, and 'unless' states an exception that makes no sense here."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Registration staff remained at the desk until every seat had been checked in, since late arrivals were common.",
+          "Registration staff will remain at the desk until every seat has been checked in, since late arrivals are common.",
+          "Registration staff will remain at the desk until the auction closes at 11.00 p.m., since late arrivals are common.",
+          "Catering staff will remain at the desk until every seat has been checked in, since late arrivals are common."
+        ],
+        "answerIndex": 1,
+        "explanation": "The following sentence says that once dinner is served the registration team 'is released', so the blank must describe the desk duty that ends then. Staying until 'the auction closes at 11.00 p.m.' contradicts that release, the past tense does not suit a schedule for a future event, and 'catering staff' are not the registration team."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "will require",
+          "are requiring",
+          "have required",
+          "are required"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Are required to wear' is the passive pattern 'be required to + infinitive'. The active forms 'are requiring', 'will require' and 'have required' would need an object and cannot take 'to wear' with volunteers as the subject."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "regardless of",
+          "apart from",
+          "despite",
+          "without"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Without your support, the Trust could not provide ...' introduces the hypothetical absence of help. 'Despite' and 'regardless of' suggest the support makes no difference, and 'apart from' means 'except for', which does not fit the conditional meaning."
+      }
+    ]
+  },
+  {
+    "id": "p6-627",
+    "documentType": "invoice",
+    "text": "KORVEN PHARMACEUTICALS LTD\nInvoice KP-30417 | Date: 28 February | Terms: 30 days net\nCustomer: Ashgrove Hospital Pharmacy\n\nAmoxicillin 500 mg capsules (pack of 100): 40 x £18.50 = £740.00\nInsulin glargine pens (5 x 3 ml): 24 x £42.00 = £1,008.00\nCold-chain delivery surcharge: £65.00\nTOTAL DUE: £1,813.00\n\nPlease find above the invoice for the consignment dispatched on 24 February and delivered to the goods-in bay at your Ashgrove site on 26 February, where the signed receipt is held on file. Payment is due in full within thirty days of the invoice date shown above. A discount of 2 percent will be applied [1] payment is received within ten days.\n\nThe insulin pens were shipped under temperature-controlled conditions, which accounts for the surcharge shown. [2] Any reading outside the range of 2 to 8 degrees Celsius must be reported within 48 hours, so that a replacement can be dispatched without charge. Batch numbers are printed on each carton to enable [3] in the event of a recall.\n\nQueries must be raised within fourteen days of receipt; failure [4] will be taken as acceptance of the invoice.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "even if",
+          "in case",
+          "whereas",
+          "provided that"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Provided that' makes the 2 percent discount conditional on payment within ten days. 'Even if' ignores the condition, 'in case' means 'as a precaution', and 'whereas' contrasts two facts instead of setting a condition."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "On dispatch, our staff inspected the data logger enclosed in each carton and recorded the reading in our goods-out book.",
+          "On receipt, please inspect the labels enclosed in each carton and record the expiry date in your goods-in book.",
+          "On receipt, please inspect the data logger enclosed in each carton and record the reading in your goods-in book.",
+          "On receipt, please discard the data logger enclosed in each carton and record the batch number in your goods-in book."
+        ],
+        "answerIndex": 2,
+        "explanation": "'Any reading outside the range ... must be reported' needs a reading to have been mentioned, and it is the customer who must report. Only checking the data logger on receipt provides that reading; discarding the logger or checking labels gives no reading, and the dispatch-side check in the past tense is done by the supplier, not the customer."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "traceability",
+          "reliability",
+          "visibility",
+          "accountability"
+        ],
+        "answerIndex": 0,
+        "explanation": "Printed batch numbers allow a consignment to be tracked in a recall, which is 'traceability'. 'Accountability' concerns responsibility, 'visibility' concerns what can be seen, and 'reliability' concerns dependability, so none relates to recalls."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "of doing so",
+          "to do so",
+          "to do it",
+          "doing so"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Failure to do so' is the standard noun-plus-infinitive pattern, with 'so' standing for 'raise queries'. 'Failure doing so' and 'failure of doing so' are ungrammatical, and 'to do it' is not the idiomatic substitute for the clause."
+      }
+    ]
+  },
+  {
+    "id": "p6-628",
+    "documentType": "article",
+    "text": "Tessmer and Norvik Agree €3.1 Billion Merger\n\nTessmer Packaging and Norvik Containers announced on Tuesday that they have agreed to combine in an all-share merger valued at €3.1 billion, creating the continent's second-largest supplier of food-grade packaging. The boards of both companies have unanimously recommended the transaction, [1] it remains conditional on approval from competition authorities in four jurisdictions.\n\nAnalysts expect regulators to concentrate on the market for beverage cartons, where the two companies' operations overlap most. [2] Together they would account for roughly 38 percent of European sales in that segment, compared with less than 22 percent for either company alone.\n\nExecutives said that integration costs would be recouped [3] three years, with annual savings of €140 million [4] from procurement and logistics. Shares in Tessmer rose 7 percent in early trading, while Norvik's closed slightly lower. A shareholder vote is scheduled for June.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "whereas",
+          "although",
+          "inasmuch as",
+          "unless"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Although' concedes that the boards back the deal while approval is still pending. 'Unless' and 'inasmuch as' do not fit the contrast, and 'whereas' contrasts two different subjects instead of conceding a point about the same transaction."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "That overlap is the main reason why a full investigation, rather than a routine review, is considered unlikely.",
+          "That overlap is the main reason why a full investigation, rather than a routine review, is considered likely.",
+          "That overlap is the main reason why a routine review, rather than a full investigation, is considered likely.",
+          "That overlap will disappear once Tessmer sells its plants in Spain and Poland, according to both companies."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence gives a combined 38 percent share against less than 22 percent each, which supports the expectation of a full investigation. 'Unlikely' and 'a routine review' contradict that evidence, and the sale of plants is not mentioned anywhere in the text."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "during",
+          "throughout",
+          "within",
+          "upon"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Recouped within three years' sets a deadline by which costs are recovered. 'During' and 'throughout' describe a continuous period and do not take a duration, and 'upon' is not used with a time span."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "to project",
+          "projects",
+          "projecting",
+          "projected"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Savings of €140 million projected from procurement and logistics' uses a passive past participle as a reduced relative clause. 'Projecting' and 'to project' would make the savings the agent, and 'projects' is a finite verb that cannot follow the noun in this structure."
+      }
+    ]
+  },
+  {
+    "id": "p6-631",
+    "documentType": "letter",
+    "text": "Tarnbridge Energy – Customer Care\n12 February\n\nDear Ms. Varga,\n\nThank you for your letter of 28 January concerning the repeated errors on your quarterly bills. I apologize sincerely for the inconvenience. The error was not of your making: our investigation [1] that a faulty meter reading was carried forward across three consecutive billing cycles. Your account has been corrected, and a credit of £86.40 will appear on your next statement. [2] From 1 March, every household customer will be assigned a named adviser, who will take charge of any query from start to finish. You will no longer need [3] your situation to a different agent each time you call.\n\nYour adviser, Mr. Tomas Eriksen, can be reached on 0113 555 0142 between 8 a.m. and 6 p.m. We hope this resolves the matter; [4], you remain entitled to refer your complaint to the Energy Ombudsman free of charge.\n\nYours sincerely,\nHelen Marwood\nHead of Customer Care",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "to establish",
+          "establishing",
+          "has established",
+          "having established"
+        ],
+        "answerIndex": 2,
+        "explanation": "The clause after the colon needs a finite verb with 'our investigation' as subject: 'has established that a faulty meter reading was carried forward'. 'Having established', 'to establish' and 'establishing' are non-finite and leave the sentence without a main verb."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Your credit will be applied to the statement issued on 28 January, which you have already received.",
+          "We recognize, however, that correcting one account does not address the weakness in our service.",
+          "This change was announced to all customers in the leaflet enclosed with your January bill.",
+          "We recognize, however, that a similar error affected your account in each of the last three years."
+        ],
+        "answerIndex": 1,
+        "explanation": "The sentence leading into 'From 1 March, every household customer will be assigned a named adviser' must present a service-wide weakness. 'Your credit will be applied to the statement issued on 28 January' contradicts 'your next statement'; 'This change' has no antecedent; and 'in each of the last three years' contradicts 'three consecutive billing cycles'."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "explained",
+          "explain",
+          "to explain",
+          "explaining"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Need' takes a to-infinitive when it expresses obligation: 'You will no longer need to explain your situation'. 'Explaining' would require a passive meaning ('need explaining') and could not take 'your situation' as its object, and 'explain' or 'explained' cannot follow 'need' here."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "nevertheless",
+          "meanwhile",
+          "likewise",
+          "consequently"
+        ],
+        "answerIndex": 0,
+        "explanation": "'We hope this resolves the matter; nevertheless, you remain entitled to refer your complaint' sets a safeguard against the hope just expressed. 'Consequently' implies the right is a result of the resolution, 'likewise' adds a parallel point and 'meanwhile' marks simultaneous time, none of which fits."
       }
     ]
   }

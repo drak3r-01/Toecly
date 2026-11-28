@@ -1,166 +1,551 @@
 [
   {
-    "id": "p6-455",
-    "documentType": "job_ad",
-    "text": "Senior Compliance Officer – Aldermoor Financial Group\n\nAldermoor Financial Group, a regional provider of savings and mortgage products, seeks a Senior Compliance Officer to ensure that its activities conform to the requirements of the financial regulator. [1] The post reports to the General Counsel and involves regular dealings with external auditors.\n\nThe successful candidate will have a professional qualification in law or accountancy and at least six years' experience in a regulated financial institution. Experience of [2] a team is essential, as the officer will manage three analysts. [3] the group operates only in this country, familiarity with European regulation would be an advantage, [4] it is considering expansion abroad.",
+    "id": "p6-632",
+    "documentType": "memo",
+    "text": "To: Production Line Supervisors\nFrom: Noelle Achterberg, Quality Manager\nCc: Health and Safety Office\nDate: 9 October\nSubject: Calibration of torque wrenches\n\nAn internal check last month revealed that eleven of the 140 torque wrenches in use at the Dortmund plant had [1] beyond the permitted tolerance of ±3 percent. [2] no defective assemblies have been traced to these tools, the margin was narrower than we consider acceptable. [3] Accordingly, with effect from 1 November, every wrench will be tested every 500 hours of use rather than annually, and any tool that fails will be withdrawn at once.\n\nSupervisors are asked to keep a log recording the date, the operator and the result of each test. Tools lacking a current green tag must not be used [4] any circumstances. Spot checks will be carried out by my team without prior notice, and the results will be reported to the plant director each quarter.",
     "questions": [
       {
         "blank": 1,
-        "category": "sentence_insertion",
+        "category": "grammar",
         "choices": [
-          "The role demands both technical rigour and the judgement to advise senior managers when commercial aims conflict with regulatory duty.",
-          "The role demands neither technical rigour nor the judgement to advise junior managers when commercial aims coincide with regulatory duty.",
-          "The role demanded both technical rigour and the judgement to advise senior managers when commercial aims conflicted.",
-          "The regulator demands both technical rigour and the judgement of senior managers when commercial aims conflict with advice."
+          "to drift",
+          "drifted",
+          "drifts",
+          "drifting"
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence says the post reports to the General Counsel and deals with auditors, so the previous one should state the demands of the role; only the first does coherently. The others negate the demands, use past tenses, or confuse the regulator and the officer."
+        "answerIndex": 1,
+        "explanation": "After the auxiliary 'had', the past participle is required: 'had drifted beyond the permitted tolerance'. 'Drifting', 'drifts' and 'to drift' cannot complete the past perfect."
       },
       {
         "blank": 2,
-        "category": "grammar",
-        "choices": [
-          "led",
-          "leading",
-          "lead",
-          "leader"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Experience of leading a team' needs a gerund after the preposition 'of'."
-      },
-      {
-        "blank": 3,
         "category": "connector",
         "choices": [
-          "Because",
           "Unless",
-          "Although",
-          "Whenever"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Although the group operates only in this country' concedes a limit before the advantage; the others do not fit."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "unless",
-          "whereas",
-          "albeit",
-          "since"
+          "Despite",
+          "Since",
+          "Although"
         ],
         "answerIndex": 3,
-        "explanation": "'Since it is considering expansion abroad' gives the reason for the advantage; 'unless' and 'whereas' do not, and 'albeit' introduces a concession."
-      }
-    ]
-  },
-  {
-    "id": "p6-456",
-    "documentType": "notice",
-    "text": "TENANTS' NOTICE – REPLACEMENT OF PASSENGER LIFTS\n\nThe managing agent wishes to inform residents that both passenger lifts in Calder House will be replaced between 5 May and 27 June. [1] During this period, one lift will remain in service at all times except for brief interruptions of up to thirty minutes while safety tests are carried out.\n\nResidents on the upper floors who find the stairs difficult are invited to [2] the building office, so that alternative arrangements can be made for deliveries and, [3] necessary, for the transport of medical equipment. The managing agent regrets any inconvenience and will [4] a progress report on the notice board each Friday.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "The existing lifts are more than thirty years old and can no longer be maintained to current safety standards.",
-          "The new lifts are more than thirty years old and can no longer be installed to current safety standards.",
-          "The existing lifts were more than thirty years old and could no longer be maintained until current safety standards were applied.",
-          "The existing stairs are more than thirty years old and can no longer be climbed to current safety standards."
-        ],
-        "answerIndex": 0,
-        "explanation": "The next sentence says 'During this period, one lift will remain in service', so the previous one should explain why the lifts are replaced; only the first does coherently. The others mention new lifts, use a past tense, or refer to stairs."
-      },
-      {
-        "blank": 2,
-        "category": "vocabulary",
-        "choices": [
-          "contract",
-          "contact",
-          "contrast",
-          "contend"
-        ],
-        "answerIndex": 1,
-        "explanation": "Residents are invited to 'contact' the office; 'contract', 'contrast' and 'contend' do not take 'the building office' this way."
+        "explanation": "'Although no defective assemblies have been traced..., the margin was narrower than we consider acceptable' expresses concession. 'Despite' cannot introduce a full clause, 'Unless' reverses the logic and 'Since' would present the absence of defects as the reason for the narrow margin."
       },
       {
         "blank": 3,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "which",
-          "whom",
-          "where",
-          "whose"
+          "It was concluded that the affected wrenches would be replaced before the end of last month.",
+          "These findings will be shared with the wrench supplier once its own review has closed.",
+          "We have therefore concluded that the permitted tolerance of ±3 percent is simply too strict.",
+          "We have therefore concluded that the current annual testing interval is simply too long."
         ],
-        "answerIndex": 2,
-        "explanation": "'Where necessary' is the fixed elliptical expression meaning if it is necessary."
+        "answerIndex": 3,
+        "explanation": "The next sentence begins 'Accordingly' and changes the testing frequency 'rather than annually', so the preceding sentence must conclude that the annual interval is inadequate. A conclusion about the 'tolerance' or about replacing the wrenches does not lead to a new testing frequency, and sharing 'findings' with a supplier gives 'Accordingly' nothing to follow from."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "displace",
-          "dispose",
-          "dispute",
-          "display"
+          "beneath",
+          "throughout",
+          "under",
+          "within"
         ],
-        "answerIndex": 3,
-        "explanation": "The agent will 'display' a progress report on the notice board; the other verbs do not fit."
+        "answerIndex": 2,
+        "explanation": "'Under no/any circumstances' is the fixed expression meaning 'in no case'. 'Within', 'beneath' and 'throughout' do not form an idiom with 'circumstances'."
       }
     ]
   },
   {
-    "id": "p6-457",
-    "documentType": "letter",
-    "text": "Dear Mr. Okafor,\n\nThank you for your letter of 9 October regarding the delay in processing your application for planning permission. I am sorry to learn that you have waited more than twelve weeks for a decision. The statutory period for householder applications is eight weeks, [1] in your case the delay was caused by a backlog that followed the departure of two senior officers.\n\n[2] Your application has now been assigned to an experienced case officer, who will visit the site on 24 October. A decision will be issued [3] fourteen days of that visit, unless further information is required. In the meantime, we will [4] your application fee, as a gesture of goodwill.\n\nYours sincerely,\nHannah Weiss\nPlanning Manager",
+    "id": "p6-633",
+    "documentType": "advertisement",
+    "text": "HALDEN & BROOKE LEARNING\nNEGOTIATING FROM STRENGTH\nA two-day workshop for senior sales professionals\n\nMost negotiators lose value not at the table but before they reach it. [1] In this intensive workshop, led by former chief procurement officer Annika Rothe, participants learn how to rank their priorities, map the counterpart's likely concessions and set walk-away limits well in [2]. Each session is built around live role-play, recorded and analyzed with the group, [3] than around lectures.\n\nThe workshop will take place in Frankfurt on 17 and 18 March and is limited to sixteen places. The fee of €1,450 is payable in full at registration; [4], those who register before 31 January will receive a 15 percent reduction. The fee includes materials, lunches and a six-month follow-up call with your coach. To reserve a place, visit www.haldenbrooke.example/negotiate.",
     "questions": [
       {
         "blank": 1,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "but",
-          "so",
-          "for",
-          "nor"
+          "These dealmakers, in turn, rarely attend workshops that focus on preparation alone.",
+          "Persuasion, not preparation, is what separates the best dealmakers from the rest.",
+          "Preparation, not persuasion, was what separated the best dealmakers in our last course.",
+          "Preparation, not persuasion, is what separates the best dealmakers from the rest."
         ],
-        "answerIndex": 0,
-        "explanation": "The sentence contrasts the statutory period with the actual delay."
+        "answerIndex": 3,
+        "explanation": "The opening claim is that value is lost 'before they reach' the table, and the following sentence describes preparation skills. 'Preparation, not persuasion' fits; the reversed version contradicts both, 'in our last course' gives an unrelated past reference, and 'These dealmakers' has no antecedent."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
+        "category": "vocabulary",
         "choices": [
-          "I accept that this is an acceptable standard of service, and I have taken steps to prevent recurrence.",
-          "I accept that this is not an acceptable standard of service, and I have taken steps to prevent recurrence.",
-          "I accepted that this was not an acceptable standard of service, and I took steps to prevent recurrence.",
-          "I accept that your application is not an acceptable standard, and I have taken steps to prevent its approval."
+          "anticipation",
+          "expectation",
+          "preparation",
+          "advance"
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence reports action on the application, so the previous one should acknowledge the failure and promise improvement; only the first does coherently. The others deny the failing, use past tenses, or confuse the application and the service."
+        "answerIndex": 3,
+        "explanation": "'Well in advance' is the fixed phrase meaning 'long before'. 'Anticipation', 'preparation' and 'expectation' do not combine with 'well in' to express timing."
       },
       {
         "blank": 3,
         "category": "grammar",
         "choices": [
-          "during",
-          "until",
-          "within",
-          "since"
+          "other",
+          "better",
+          "rather",
+          "sooner"
         ],
         "answerIndex": 2,
-        "explanation": "'Within fourteen days of that visit' gives a time limit after an event; the others do not fit."
+        "explanation": "'Built around live role-play ... rather than around lectures' contrasts two bases for the sessions. 'Other than', 'better than' and 'sooner than' do not fit after 'built around ..., ___ than around lectures'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "similarly",
+          "therefore",
+          "otherwise",
+          "however"
+        ],
+        "answerIndex": 3,
+        "explanation": "'The fee ... is payable in full at registration; however, those who register before 31 January will receive a 15 percent reduction' sets an exception against the rule. 'Therefore', 'similarly' and 'otherwise' express result, comparison or alternative condition, none of which matches."
+      }
+    ]
+  },
+  {
+    "id": "p6-634",
+    "documentType": "email",
+    "text": "To: Steering Committee\nFrom: Rafael Okonkwo, Project Manager\nSubject: Clearwater Pumping Station – revised critical path\n\nDear colleagues,\n\nI am writing to inform you that the manufacturer [1] delivery of the main pump assembly, originally due on 12 May, until 30 June. Consequently, the commissioning phase cannot start on 2 June as planned. [2] I have therefore asked the contractor to bring forward the electrical cabling, which does not depend on the pumps, so that no crews [3] idle in the interim.\n\nAs matters stand, the revised handover date of 25 July is still achievable, [4] the manufacturer meets its new commitment. Any further slippage would put the contractual completion date of 31 August at risk and would trigger the penalty clause in section 9. I will circulate a full risk register on Friday and propose a short call to review it.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "has been postponed",
+          "having postponed",
+          "to postpone",
+          "has postponed"
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence needs an active finite verb followed by the object 'delivery of the main pump assembly': 'the manufacturer has postponed delivery'. 'Has been postponed' is passive and cannot take an object, and 'having postponed' and 'to postpone' are non-finite."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Left unaltered, the sequence would leave the site crews without productive work for nearly four weeks.",
+          "The electrical cabling has already been completed, leaving the site crews without work for nearly four weeks.",
+          "Once the pumps arrive, the site crews will need nearly four weeks to complete the installation work.",
+          "The manufacturer has offered to ship the remaining components by air, which would save nearly four weeks."
+        ],
+        "answerIndex": 0,
+        "explanation": "'I have therefore asked the contractor to bring forward the electrical cabling ... so that no crews are left idle' needs a stated problem of idle crews. A completed cabling job contradicts 'bring forward', and an air-freight offer would remove the need for the request, which makes 'therefore' illogical. The installation sentence gives no cause for the request."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "are left",
+          "leave",
+          "being left",
+          "have left"
+        ],
+        "answerIndex": 0,
+        "explanation": "'So that no crews are left idle' is a passive clause meaning 'so that crews are not left without work'. 'Leave' and 'have left' would make 'crews' the doers of an action with no object, and 'being left' is not finite."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "provided that",
+          "now that",
+          "even if",
+          "in case"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Is still achievable, provided that the manufacturer meets its new commitment' states a condition. 'Even if' ignores the condition, 'now that' presents the commitment as already met, and 'in case' would mean as a precaution."
+      }
+    ]
+  },
+  {
+    "id": "p6-635",
+    "documentType": "article",
+    "text": "Rotterdam Film Archive Opens Restored Collection to the Public\n\nAfter eight years of painstaking work, the Rotterdam Film Archive has made more than 2,400 restored silent films available online. The project, funded jointly by the city council and a private foundation, [1] the largest preservation effort of its kind in the Netherlands. Many of the reels had been stored in damp conditions since the 1950s, and some were so brittle that they had to be unwound by hand.\n\nCurator Margit Haverkamp said that the biggest [2] was not so much technical as financial. Specialist laboratories charge up to €60 per metre of film, and costs doubled in the final two years of the project. [3] [4], she insists that the investment was justified: 'These films record daily life in the port city as no written source can.'\n\nThe collection can be browsed free of charge, although high-resolution downloads for commercial use require a licence.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "is considered",
+          "considering",
+          "has considered",
+          "being considered"
+        ],
+        "answerIndex": 0,
+        "explanation": "The main clause needs a passive finite verb: 'The project ... is considered the largest preservation effort'. 'Has considered' makes the project the thinker, while 'considering' and 'being considered' leave the sentence without a main verb."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "challenge",
+          "benefit",
+          "advantage",
+          "achievement"
+        ],
+        "answerIndex": 0,
+        "explanation": "'The biggest challenge was not so much technical as financial' matches the next sentence about rising laboratory costs. 'Achievement', 'advantage' and 'benefit' are positive and do not fit a problem 'not so much technical as financial'."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "Costs had already doubled before the project began, forcing the archive to postpone it until next year.",
+          "The overspend forced the archive to postpone the restoration of some 300 reels until next year.",
+          "The savings allowed the archive to restore a further 300 reels well ahead of schedule.",
+          "The overspend was therefore welcomed by the council, which had expected the project to cost far more."
+        ],
+        "answerIndex": 1,
+        "explanation": "'Nevertheless, she insists that the investment was justified' needs a negative consequence of the doubled costs to contrast with. 'The savings' contradicts 'costs doubled', 'before the project began' contradicts 'in the final two years', and a welcome from the council gives nothing to contrast with."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Meanwhile",
+          "Nevertheless",
+          "Likewise",
+          "Accordingly"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Nevertheless, she insists that the investment was justified' contrasts her view with the difficulties just described. 'Accordingly' would present her view as a result, 'Meanwhile' marks time and 'Likewise' adds a similar point."
+      }
+    ]
+  },
+  {
+    "id": "p6-636",
+    "documentType": "notice",
+    "text": "UNIVERSITY OF HARTLEIGH – OFFICE OF THE REGISTRAR\nNOTICE TO FINAL-YEAR STUDENTS\nSummer Graduation Ceremony: Registration and Eligibility\n\nThe summer graduation ceremony will be held in the Great Hall on Friday, 11 July. [1] Students who expect to complete their degree requirements by 30 June must register through the student portal [2] 16 May. Late applications cannot be accepted, as seating is limited.\n\nEligibility will be confirmed by the Examinations Office only after the final results [3] ratified by the Academic Board on 4 July. Students whose results are still pending on that date will be [4] to the winter ceremony instead.\n\nGraduates may collect their gowns from the Student Services desk between 7 and 10 July, on presentation of a valid student card. Guests' tickets are issued on a first-come, first-served basis, and each graduate may request a maximum of three.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Attendance is open only to students who have registered in advance.",
+          "Attendance is open only to students who finished their degrees last year.",
+          "Attendance was open only to students who had registered in advance.",
+          "Attendance is open to all students and registration is not required."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says students 'must register through the student portal', so the previous one must introduce a registration condition. 'Registration is not required' contradicts it, the past tense 'was open' does not fit a forthcoming ceremony, and 'completed ... last year' conflicts with students who 'expect to complete' their requirements by 30 June."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "at",
+          "during",
+          "since",
+          "by"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Must register ... by 16 May' sets a deadline. 'During' and 'since' do not express a deadline, and 'at 16 May' is not idiomatic."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "have been",
+          "would be",
+          "had been",
+          "were"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Will be confirmed ... only after the final results have been ratified' uses the present perfect for an action completed before a future event. 'Had been', 'were' and 'would be' belong to past or conditional contexts."
       },
       {
         "blank": 4,
         "category": "vocabulary",
         "choices": [
-          "refine",
-          "refute",
-          "reform",
-          "refund"
+          "transferred",
+          "transcribed",
+          "transposed",
+          "translated"
+        ],
+        "answerIndex": 0,
+        "explanation": "Students with pending results will be 'transferred to the winter ceremony', that is, moved to another date. 'Transcribed', 'transposed' and 'translated' cannot take a person as object in this sense, and none of them combines with 'to the winter ceremony'."
+      }
+    ]
+  },
+  {
+    "id": "p6-637",
+    "documentType": "review",
+    "text": "Road Test: The Veltrano E-40 Electric Estate\n\nVeltrano's first electric estate arrives with ambitious claims: a 520-kilometre range, 640 litres of luggage space and a starting price under €48,000. After a fortnight behind the wheel, I can confirm that two of the three claims [1] hold up. In mixed driving, the E-40 managed around 470 kilometres on a full charge, [2] the claimed 520 would require mild weather and a gentle right foot. [3] Rear-seat passengers will appreciate the generous legroom, and the boot swallowed two large suitcases and a pushchair with ease.\n\nThe weak point is the infotainment system. Menus are slow to respond, and the voice control frequently fails [4] simple commands. Veltrano has promised a software update in March; until then, the otherwise excellent cabin is let down by its screen. Verdict: a very capable family car, though its price rises sharply once the most desirable options are added.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "barely",
+          "scarcely",
+          "hardly",
+          "largely"
         ],
         "answerIndex": 3,
-        "explanation": "The council will 'refund' the application fee, meaning repay it; the others do not take 'fee' as an object sensibly."
+        "explanation": "'Two of the three claims largely hold up' means mostly, which matches the positive details that follow. 'Hardly', 'barely' and 'scarcely' mean almost not at all and contradict 'two of the three'."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "hence",
+          "besides",
+          "otherwise",
+          "whereas"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Managed around 470 kilometres..., whereas the claimed 520 would require mild weather' contrasts the real figure with the claimed one. 'Hence' implies result, 'besides' adds a point and 'otherwise' means 'if not'."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cabin and the luggage space, by contrast, fall well short of the manufacturer's description.",
+          "The price and the standard equipment, by contrast, live up to the manufacturer's description.",
+          "The cabin and the luggage space, by contrast, both live up to the manufacturer's stated description.",
+          "The cabin and the luggage space, by contrast, will live up to the manufacturer's description after the update."
+        ],
+        "answerIndex": 2,
+        "explanation": "The review says two claims hold up and then praises 'generous legroom' and the boot. 'Fall well short' contradicts that praise, 'The price and the standard equipment' contradicts the verdict that the price 'rises sharply', and the 'will ... once the update arrives' version treats tested features as future and links them to a software fix."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "recognizing",
+          "recognized",
+          "to recognize",
+          "recognize"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Fails' is followed by a to-infinitive: 'fails to recognize simple commands'. 'Recognizing', 'recognized' and 'recognize' cannot follow 'fails' directly."
+      }
+    ]
+  },
+  {
+    "id": "p6-638",
+    "documentType": "web_page",
+    "text": "Kessler & Rowe Advisory – How We Work\n\nEvery engagement begins with a diagnostic phase of three to four weeks, during which our consultants interview senior managers, analyze operating data and [1] the main obstacles to growth. At the end of this phase, you will receive a written report with a clear recommendation on whether to proceed. [2] The diagnostic is charged separately; [3], its fee is credited in full against the project fee should you decide to continue.\n\nIf you choose to continue, a team of two to six consultants is assigned to your project. Each team is led by a partner who remains personally [4] for the quality of the results from the first interview to the final presentation. Fees are agreed in advance on a fixed basis; no additional charges are made unless the scope of work is changed at your written request. Clients who prefer to retain full control may opt for an advisory-only arrangement, under which our consultants coach your own staff without being present on site.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "identified",
+          "to identify",
+          "identifying",
+          "identify"
+        ],
+        "answerIndex": 3,
+        "explanation": "The verbs 'interview ..., analyze ... and identify' form a parallel list after 'our consultants', so the base form is required. 'Identifying', 'to identify' and 'identified' break the parallel structure."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "You are under no obligation to proceed on the basis of our recommendation.",
+          "You were under no obligation to proceed on the basis of our recommendation.",
+          "We are under no obligation to proceed on the basis of your instructions.",
+          "You must proceed on the basis of our recommendation once the report is accepted."
+        ],
+        "answerIndex": 0,
+        "explanation": "The report gives 'a clear recommendation on whether to proceed', and a later sentence says 'should you decide to continue', so the client keeps the freedom to decline. 'You must proceed' contradicts this, the past tense 'were' does not describe a current offer, and 'We are under no obligation' reverses the addressee."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "therefore",
+          "besides",
+          "however",
+          "likewise"
+        ],
+        "answerIndex": 2,
+        "explanation": "'The diagnostic is charged separately; however, its fee is credited in full' contrasts the separate charge with the credit. 'Therefore', 'likewise' and 'besides' do not express this contrast."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "applicable",
+          "accountable",
+          "reliable",
+          "comparable"
+        ],
+        "answerIndex": 1,
+        "explanation": "A partner who 'remains personally accountable for the quality of the results' is answerable for them. 'Applicable', 'comparable' and 'reliable' do not combine with 'for the quality of the results' in this sense."
+      }
+    ]
+  },
+  {
+    "id": "p6-641",
+    "documentType": "email",
+    "text": "To: Editorial Staff\nFrom: Marguerite Duval, Managing Editor\nSubject: Transition of the Harbinger Review to a digital-first model\n\nAs you know, the board has approved a plan to publish the Harbinger Review digitally first from 2 March. [1] Print copies will continue to appear quarterly, but they will contain only the longer features; shorter news items will be published exclusively online. Writers should therefore submit their drafts to the web desk, which will be responsible [2] scheduling and quality checks.\n\n[3] the transition is intended to broaden our readership, no reduction in the editorial team is planned. Training sessions on the new content management system will be held on 10 and 11 February. Attendance is mandatory for all section editors, whereas freelance contributors are [4] to reserve a place through the web desk.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Readers who object to the change should write to the circulation department before the end of January.",
+          "The change responds to the steady decline in print subscriptions recorded in each of the past three years.",
+          "The change was introduced last year and has already improved the review's online subscription figures.",
+          "The change will end print publication entirely, and subscribers will be offered refunds for unused issues."
+        ],
+        "answerIndex": 1,
+        "explanation": "The email announces a move that starts 'from 2 March' and explains the reason, which is the drop in print subscriptions; 'Print copies will continue' then follows naturally. 'was introduced last year' contradicts the future date, 'will end print publication entirely' contradicts 'Print copies will continue', and the sentence addressed to 'Readers' is out of place in a message to editorial staff."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "with",
+          "for",
+          "about",
+          "of"
+        ],
+        "answerIndex": 1,
+        "explanation": "The adjective 'responsible' takes the preposition 'for' ('responsible for scheduling'); 'of', 'with' and 'about' do not form this fixed pattern."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Although",
+          "Despite",
+          "Unless",
+          "Until"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Although' introduces a concession followed by a full clause: the transition aims to broaden readership, yet no cuts are planned. 'Despite' cannot be followed by a clause, and 'Unless' and 'Until' give a conditional or time meaning that makes no sense here."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "required",
+          "invited",
+          "compelled",
+          "obliged"
+        ],
+        "answerIndex": 1,
+        "explanation": "'whereas' sets freelancers against section editors, for whom attendance is 'mandatory'; only 'invited' expresses a free choice. 'obliged', 'required' and 'compelled' all imply a duty and would repeat the idea of the editors' obligation instead of contrasting with it."
+      }
+    ]
+  },
+  {
+    "id": "p6-642",
+    "documentType": "notice",
+    "text": "NOTICE TO GUESTS\nMarlowe Bay Resort – Refurbishment of the Pool Terrace\n\nPlease be advised that the pool terrace, which adjoins the east wing, will be closed from 6 January until 28 February while it [1] a comprehensive refurbishment. During this period, guests may use the indoor pool on the lower level, which currently [2] at 8 p.m. but will remain open until 10 p.m. for the duration of the works.\n\nWork will take place between 8 a.m. and 5 p.m. on weekdays only. [3] Guests who find this disruptive may request a room in the west wing, subject to availability; [4], no reduction in room rates will apply.\n\nWe apologize for any inconvenience and thank you for your understanding.\n\nThe Management",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "endures",
+          "undertakes",
+          "undergoes",
+          "performs"
+        ],
+        "answerIndex": 2,
+        "explanation": "'undergo a refurbishment' is the fixed collocation for something that is being renovated. 'undertakes' and 'performs' need a human agent, and 'endures' does not collocate with 'refurbishment'."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "is closing",
+          "will close",
+          "has closed",
+          "closes"
+        ],
+        "answerIndex": 3,
+        "explanation": "'currently' and the contrast with 'will remain open until 10 p.m.' call for the simple present, a regular habit: the pool 'closes' at 8 p.m. 'will close' and 'has closed' do not fit a current routine, and 'is closing' suggests an action happening right now."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "Noise from the works will be heard mainly in the west wing, where the contractor's equipment is stored.",
+          "Despite this limit, some noise from the works may still be audible in the east wing during those hours.",
+          "Weekend work will also be carried out in the east wing if the contractor falls behind schedule.",
+          "A temporary wall will be installed along the terrace in order to eliminate all noise from the east wing."
+        ],
+        "answerIndex": 1,
+        "explanation": "The next sentence, 'Guests who find this disruptive', needs a mention of noise near the east wing, which the correct sentence provides after 'weekdays only'. 'heard mainly in the west wing' would make the suggested move to that wing pointless, 'Weekend work' contradicts 'weekdays only', and a wall that 'eliminate[s] all noise' leaves nothing disruptive."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "meanwhile",
+          "likewise",
+          "accordingly",
+          "however"
+        ],
+        "answerIndex": 3,
+        "explanation": "The sentence contrasts the offer of a quieter room with the refusal to cut the price, so 'however' is the logical link. 'accordingly' and 'likewise' suggest a consequence or a parallel, and 'meanwhile' is a time marker."
+      }
+    ]
+  },
+  {
+    "id": "p6-643",
+    "documentType": "letter",
+    "text": "Dear Ms. Varga,\n\nThank you for your interest in the Corporate Wellbeing Programme offered by Halden Wellness Partners. Following our meeting on 9 October, I am pleased to outline the services we propose for your 240 employees at the Brno facility.\n\nThe programme comprises quarterly health screenings, a confidential counselling line and weekly on-site fitness classes. [1] Participation in any of these services would be entirely voluntary, and individual results would be shared only with the employee concerned. [2] the screenings would be conducted by our own nurses, you would be [3] for providing a private room on each occasion.\n\nThe annual fee is €38,000, payable in two instalments. Should you wish to proceed, please return the enclosed agreement by 15 November so that the first screenings can [4] before the end of the year.\n\nYours sincerely,\nDr. Laszlo Berenyi\nDirector, Halden Wellness Partners",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Each service must be completed by every employee before the end of the year to qualify for the programme.",
+          "Each service will be delivered by volunteers from your own staff who have completed a short first-aid course.",
+          "Each service has been delivered to your employees since January by our regional team in Prague.",
+          "All services would be delivered by qualified professionals licensed to practice in the Czech Republic."
+        ],
+        "answerIndex": 3,
+        "explanation": "The letter is a proposal ('we propose'), so a statement about the quality of future delivery fits and leads into 'any of these services'. 'has been delivered ... since January' wrongly presents the offer as already running, 'must be completed by every employee' contradicts 'entirely voluntary', and 'volunteers from your own staff' contradicts 'conducted by our own nurses'."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Whereas",
+          "Until",
+          "Whenever",
+          "Unless"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Whereas' contrasts the two parties' roles: the provider's nurses conduct the screenings, while the client supplies a room. 'Unless', 'Whenever' and 'Until' express a condition or a time, which does not fit this contrast."
+      },
+      {
+        "blank": 3,
+        "category": "grammar",
+        "choices": [
+          "responsible",
+          "respectable",
+          "responsibly",
+          "responsive"
+        ],
+        "answerIndex": 0,
+        "explanation": "After 'you would be' an adjective is needed, and 'responsible for providing' is the fixed pattern. 'responsive' and 'respectable' have other meanings and do not take 'for providing', and 'responsibly' is an adverb."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "schedule",
+          "be scheduling",
+          "be scheduled",
+          "have scheduled"
+        ],
+        "answerIndex": 2,
+        "explanation": "'the first screenings' are scheduled by someone else, so the passive infinitive 'can be scheduled' is required. 'can schedule' gives the screenings an active role they cannot have, and 'be scheduling' and 'have scheduled' are not passive."
       }
     ]
   }

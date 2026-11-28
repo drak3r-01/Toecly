@@ -1,221 +1,551 @@
 [
   {
-    "id": "p6-420",
-    "documentType": "web_page",
-    "text": "Harlow & Voss LLP – Privacy Notice for Clients\n\nWe collect personal data only to the extent that it is necessary for the provision of our legal services and for compliance with our professional obligations. [1] Data supplied in the course of an engagement is stored on servers located within the European Economic Area and is retained for a period of seven years after the matter has closed.\n\nWe do not disclose personal data to third parties, [2] where disclosure is required by law or has been authorized by the client in writing. Clients are entitled to request access to the data we hold about them, and to ask that inaccurate information be [3]. Requests of this kind will be answered within thirty days, [4] that period may be extended where a request is particularly complex.",
+    "id": "p6-425",
+    "documentType": "article",
+    "text": "Cities Experiment With Congestion Charging for Delivery Vans\n\nSeveral European cities are considering levies on delivery vans entering their central districts, a measure that planners say could reduce traffic by up to a tenth. The proposal reflects a [1] growth in online shopping, which has put thousands of additional vehicles on streets that were designed for far fewer. According to the Verhoeven Institute, van journeys in the average city centre have risen by nearly 40 percent since 2019.\n\n[2] Logistics firms have objected that the charge would be passed on to consumers. [3], the transport authority in Antwerp maintains that a modest levy of €4 per entry is preferable to the alternative of banning vans from certain streets altogether. Early results from a pilot suggest that operators respond to charges by consolidating deliveries, [4] reducing the number of journeys without raising prices. A full evaluation is due in March.",
     "questions": [
       {
         "blank": 1,
-        "category": "sentence_insertion",
+        "category": "vocabulary",
         "choices": [
-          "The firm does not use such data for marketing purposes and does not share it with any affiliated business.",
-          "The firm uses such data for marketing purposes and shares it only with affiliated businesses that hold a license.",
-          "The firm does not use such data for archiving purposes and does not store it in any affiliated business.",
-          "The firm did not use such data for marketing purposes, but now shares it with every affiliated business."
+          "steady",
+          "sedate",
+          "stationary",
+          "static"
         ],
         "answerIndex": 0,
-        "explanation": "The notice says data is collected 'only to the extent ... necessary' and, in the next paragraph, not disclosed to third parties; only the first option is consistent with both. The others admit marketing or sharing, discuss archiving, or use a tense that contradicts the present policy."
+        "explanation": "A 'steady growth' is continuous and regular, which fits a rise of nearly 40 percent over several years; 'stationary' and 'static' mean not changing, and 'sedate' means calm and slow."
       },
       {
         "blank": 2,
-        "category": "connector",
+        "category": "sentence_insertion",
         "choices": [
-          "unless",
-          "except",
-          "whereas",
-          "although"
+          "The idea provoked debate before being dropped, with trade associations and environmental groups reaching opposite conclusions.",
+          "The idea has won broad approval, with trade associations and environmental groups reaching the same conclusion.",
+          "The idea has provoked little debate, with trade associations and environmental groups reaching opposite conclusions.",
+          "The idea has provoked considerable debate, with trade associations and environmental groups reaching opposite conclusions."
         ],
-        "answerIndex": 1,
-        "explanation": "'Except where disclosure is required by law' introduces the exception to the rule; 'unless' would need a clause with a verb in the same position ('unless disclosure is required'), and 'whereas' and 'although' do not state exceptions."
+        "answerIndex": 3,
+        "explanation": "The following sentence reports an objection from logistics firms and the authority in Antwerp still 'maintains' its proposal, so the idea is live and contested: 'has provoked considerable debate'. 'Broad approval' and 'little debate' leave the objection unexplained, and 'before being dropped' contradicts the authority's continued defence of the levy."
       },
       {
         "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Furthermore",
+          "Nevertheless",
+          "Similarly",
+          "Accordingly"
+        ],
+        "answerIndex": 1,
+        "explanation": "The authority's support for a levy runs against the firms' objection, so a contrast marker is needed: 'nevertheless'. 'Accordingly' presents it as a consequence, 'similarly' as a parallel and 'furthermore' as an additional argument for the firms' position."
+      },
+      {
+        "blank": 4,
         "category": "grammar",
         "choices": [
-          "rectifying",
-          "rectify",
-          "rectified",
-          "rectification"
-        ],
-        "answerIndex": 2,
-        "explanation": "After 'be', the passive requires the past participle 'rectified' (corrected)."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "because",
-          "unless",
-          "whenever",
-          "although"
+          "wherein",
+          "whereby",
+          "whereas",
+          "thereby"
         ],
         "answerIndex": 3,
-        "explanation": "'Although that period may be extended' concedes an exception to the thirty-day promise; the others do not fit the logic."
+        "explanation": "'Thereby reducing the number of journeys' is a participle phrase giving the result of consolidating deliveries. 'Whereby', 'wherein' and 'whereas' introduce full clauses, so they cannot precede 'reducing'."
       }
     ]
   },
   {
-    "id": "p6-421",
-    "documentType": "notice",
-    "text": "CITY OF EASTMOOR – NOTICE OF TEMPORARY ROAD CLOSURE\n\nIn order to allow the replacement of a main sewer, Quay Street will be closed to all traffic between its junctions with Mill Lane and Orchard Road from 6 a.m. on Monday 14 April until 6 p.m. on Friday 25 April. [1] Access for pedestrians will be maintained at all times, and businesses within the closed section will remain open.\n\nDiversion routes will be signposted. Motorists [2] to reach the town center from the north are advised to use the ring road, which is expected to carry [3] more traffic than usual. Deliveries to affected premises may be made through the rear service lane, [4] vehicles exceeding 7.5 tonnes will not be permitted to use it.",
+    "id": "p6-426",
+    "documentType": "letter",
+    "text": "Dear Councillor Marsh,\n\nThank you for your letter of 6 June regarding the proposed closure of the Ashby Road recycling center. I should like to assure you that no final decision has been taken. The closure is [1] to the outcome of a public consultation that will run until 31 July, with open meetings at the town hall on 12 and 24 July.\n\n[2] The center's operating costs have risen by almost 40 percent over five years, whereas the quantity of material deposited has fallen by a quarter. [3] these figures, the council would be failing in its duty if it did not examine alternatives, among them reduced opening hours and a shared facility with the neighboring authority. Residents' views will be [4] before any recommendation is put to the full council in September.\n\nI have enclosed a summary of the consultation arrangements and would be pleased to brief your ward colleagues in person.\n\nYours sincerely,\nPatrick Lowe\nHead of Waste Services",
     "questions": [
       {
         "blank": 1,
-        "category": "sentence_insertion",
-        "choices": [
-          "Emergency vehicles will be able to pass through the works area, but only at reduced speed and under supervision.",
-          "Emergency vehicles will be unable to pass through the works area, and no access will be provided under any supervision.",
-          "Heavy vehicles will be able to pass through the works area, but only at reduced speed and under supervision.",
-          "Emergency vehicles were able to pass through the works area, but only at reduced speed and without supervision."
-        ],
-        "answerIndex": 0,
-        "explanation": "The next sentence says 'Access for pedestrians will be maintained', so the previous one should address another category of access; the first option allows emergency vehicles. The others contradict the closure for 'all traffic', admit heavy vehicles, or use a past tense."
-      },
-      {
-        "blank": 2,
         "category": "grammar",
         "choices": [
-          "wished",
-          "wishing",
-          "wish",
-          "wishes"
-        ],
-        "answerIndex": 1,
-        "explanation": "'Motorists wishing to reach' uses a present participle as a reduced relative clause ('who wish'); the other forms are ungrammatical here."
-      },
-      {
-        "blank": 3,
-        "category": "vocabulary",
-        "choices": [
-          "considerate",
-          "considered",
-          "considerably",
-          "consideration"
+          "subjecting",
+          "subjected",
+          "subject",
+          "subjective"
         ],
         "answerIndex": 2,
-        "explanation": "'Considerably more traffic' is the adverb modifying the comparative 'more'; the other forms are not adverbs."
-      },
-      {
-        "blank": 4,
-        "category": "connector",
-        "choices": [
-          "because",
-          "provided",
-          "unless",
-          "although"
-        ],
-        "answerIndex": 3,
-        "explanation": "'Although vehicles exceeding 7.5 tonnes will not be permitted' concedes a limit to the permission; 'provided' needs 'that', and 'because' and 'unless' invert the logic."
-      }
-    ]
-  },
-  {
-    "id": "p6-422",
-    "documentType": "email",
-    "text": "Subject: Draft proposal for the Aldgate redevelopment\n\nDear Mr. Whitlow,\n\nPlease find attached our draft proposal for the redevelopment of the Aldgate site. We have prepared it in the light of your comments at last week's meeting, and we have [1] a number of the concerns that you raised regarding access and parking.\n\n[2] The proposal assumes that the existing warehouse can be retained, which would reduce demolition costs by roughly a fifth. This assumption has yet to be confirmed by the structural engineer, [3] the figures should be treated as provisional. I should be grateful if you would let me have your comments by Friday, [4] we can incorporate them in the version that goes to the planning committee.",
-    "questions": [
-      {
-        "blank": 1,
-        "category": "vocabulary",
-        "choices": [
-          "addressed",
-          "adjourned",
-          "adjusted",
-          "admitted"
-        ],
-        "answerIndex": 0,
-        "explanation": "One 'addresses' concerns by dealing with them; 'adjourned' means postponed, 'adjusted' means modified, and 'admitted' means confessed."
+        "explanation": "'Subject to the outcome' is the fixed adjectival expression meaning dependent on it. 'Subjected' and 'subjecting' are verb forms that do not fit after 'is', and 'subjective' means personal rather than conditional."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The most significant change concerns the schedule, which now reflects a more cautious estimate of the benefit of the project.",
-          "The most significant change concerns the budget, which now reflects a more cautious estimate of the cost of the project.",
-          "The most significant change concerns the access road, which now reflects a more cautious estimate of the cost of the project.",
-          "The least significant change concerns the budget, which now reflects a more cautious estimate of the cost of the project."
+          "The proposal stems mainly from financial pressures that the council cannot reasonably afford to ignore.",
+          "The decision stems mainly from financial pressures that the council could no longer reasonably ignore.",
+          "The proposal stems mainly from complaints by nearby residents that the council has yet to investigate.",
+          "The proposal stems mainly from new national legislation that the council is now legally bound to apply."
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence discusses the cost saving from retaining the warehouse, so the previous one should introduce the budget; only the first does. The others turn to the schedule, the access road, or the least significant change, none of which leads to cost figures."
+        "answerIndex": 0,
+        "explanation": "The following sentence supplies figures on costs and deposits, so the previous sentence must present the proposal as driven by financial pressure. Complaints and national legislation do not match those figures, and a 'decision' that 'stemmed' from pressures contradicts the opening statement that no final decision has been taken."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "but",
-          "whereas",
-          "and so",
-          "although"
+          "In lieu of",
+          "In pursuit of",
+          "In view of",
+          "In excess of"
         ],
         "answerIndex": 2,
-        "explanation": "'And so the figures should be treated as provisional' states the consequence of the unconfirmed assumption; the other options express contrast."
+        "explanation": "'In view of these figures' means considering them, which justifies examining alternatives. 'In lieu of' means instead of, 'in excess of' means more than, and 'in pursuit of' means chasing."
       },
       {
         "blank": 4,
-        "category": "connector",
+        "category": "vocabulary",
         "choices": [
-          "in order",
-          "provided",
-          "lest",
-          "so that"
+          "taken for granted",
+          "taken into account",
+          "taken advantage of",
+          "taken up with"
         ],
-        "answerIndex": 3,
-        "explanation": "'So that we can incorporate them' states the purpose of the deadline; 'in order' lacks 'that', 'provided' needs 'that', and 'lest' requires a negative idea."
+        "answerIndex": 1,
+        "explanation": "Views are 'taken into account' when they are considered before a decision is made. 'Taken advantage of' and 'taken for granted' have unrelated meanings, and 'taken up with' does not fit a passive construction followed by 'before'."
       }
     ]
   },
   {
-    "id": "p6-423",
-    "documentType": "advertisement",
-    "text": "The Wexford Institute of Management – Executive Diploma in Strategy\n\nDesigned for senior professionals who wish to broaden their strategic perspective, the Executive Diploma in Strategy is delivered over nine months in a flexible format that [1] full-time employment. Teaching is shared between academics and practitioners who currently hold senior positions in industry.\n\n[2] Participants work in small groups on live commercial problems submitted by partner companies, and the results are presented to the companies' directors at the end of the program. [3] the course is demanding, graduates consistently report that it was the most valuable investment of their careers. Applications received [4] 30 June will be considered for a bursary covering up to a third of the fee.",
+    "id": "p6-427",
+    "documentType": "job_ad",
+    "text": "Operations Analyst – Fenwick Freight Solutions\n\nFenwick Freight Solutions, a family-owned haulier with depots in six countries, is expanding its analytics team. We are looking for an Operations Analyst who will [1] raw shipment data into clear recommendations for depot managers. The post is based at our Rotterdam headquarters, with occasional visits to depots elsewhere in Europe.\n\n[2] You will work alongside experienced planners, and you will be encouraged to challenge established practice where the evidence supports a different approach. The post suits a candidate with a quantitative degree and at least two years' experience of logistics or a related field. [3] prior knowledge of our routing software is not required, applicants must be [4] with advanced spreadsheet functions and at least one query language.\n\nThe salary range is €48,000 to €55,000, depending on experience. Applications close on 15 March; interviews will be held during the first week of April.",
     "questions": [
       {
         "blank": 1,
         "category": "vocabulary",
         "choices": [
-          "accommodates",
-          "accumulates",
-          "accomplishes",
-          "acknowledges"
+          "transmit",
+          "translate",
+          "transpose",
+          "transcribe"
         ],
-        "answerIndex": 0,
-        "explanation": "A format that 'accommodates' full-time employment makes room for it; 'accumulates', 'accomplishes' and 'acknowledges' do not take that object sensibly."
+        "answerIndex": 1,
+        "explanation": "Analysts 'translate' raw data into clear recommendations, meaning they convert it into a more useful form. 'Transcribe' means to copy in writing, 'transpose' means to swap the order, and 'transmit' means to send, and none of them is followed naturally by 'into recommendations'."
       },
       {
         "blank": 2,
         "category": "sentence_insertion",
         "choices": [
-          "The curriculum places particular emphasis on studying theory in the abstract rather than on applying it to real situations.",
-          "The curriculum places particular emphasis on applying theory to real situations rather than on studying it in the abstract.",
-          "The curriculum places particular emphasis on applying theory to real situations rather than on teaching it to practitioners.",
-          "The previous curriculum placed particular emphasis on applying theory to real situations rather than on studying it."
+          "The role offered an unusually direct route from analysis to action, since managers acted on most recommendations within a week.",
+          "The role offers an unusually direct route from analysis to action, since managers act on most recommendations within a week.",
+          "The role offers an unusually direct route from analysis to action, although managers rarely act on recommendations.",
+          "The role offers an unusually indirect route from analysis to action, since managers act on most recommendations within a year."
         ],
         "answerIndex": 1,
-        "explanation": "The next sentence describes work on live commercial problems, which is the application of theory; only the first sentence prepares it. The others invert the emphasis, add an irrelevant contrast, or describe a previous curriculum."
+        "explanation": "The next sentence invites the analyst to 'challenge established practice', which presupposes real influence, so the role must offer a direct route to action that managers actually follow. An 'indirect route' is a negative selling point in an advertisement, 'rarely act' undermines the influence promised, and the past tense 'offered' does not suit a vacancy open now."
       },
       {
         "blank": 3,
         "category": "connector",
         "choices": [
-          "Because",
           "Unless",
-          "Although",
-          "Whenever"
+          "Provided",
+          "While",
+          "Since"
         ],
         "answerIndex": 2,
-        "explanation": "'Although the course is demanding' concedes a drawback before the positive claim; the others do not express concession."
+        "explanation": "'While prior knowledge of our routing software is not required' concedes a limit before the stronger demand that follows. 'Since' gives a false reason, 'unless' reverses the logic, and 'provided' needs 'that' and expresses a condition."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "profound",
+          "prolific",
+          "proficient",
+          "prominent"
+        ],
+        "answerIndex": 2,
+        "explanation": "Applicants must be 'proficient with' spreadsheet functions, meaning skilled in using them. 'Prolific' means highly productive, 'profound' means deep, and 'prominent' means well known, so none of them describes skill."
+      }
+    ]
+  },
+  {
+    "id": "p6-428",
+    "documentType": "web_page",
+    "text": "Aldwych Concert Hall – Ticket Exchange and Refund Policy\n\nTickets may be exchanged for another performance of the same program up to forty-eight hours before the start, [1] a fee of £5 per ticket. Exchanges depend on availability, and no refund will be made where the replacement performance carries a lower price. Requests may be made online or at the box office, which is open from 10 a.m. to 6 p.m., Monday to Saturday.\n\n[2] By contrast, where a performance is canceled by the hall, ticket holders will be offered a full refund or a credit valid for twelve months. The hall cannot, [3], accept responsibility for travel or accommodation costs incurred by patrons. Patrons who are unable to attend because of illness may request a credit, [4] they supply a medical certificate within seven days of the performance.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "in spite of",
+          "subject to",
+          "subjected to",
+          "regardless of"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Subject to a fee of £5' means 'on condition that a fee is paid'. 'Subjected to' suggests suffering something unpleasant and is not used for a ticket, while 'regardless of' and 'in spite of' contradict the idea of a fee being charged."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The hall reserved the right to substitute artists or alter programs, in which case no exchange or refund was offered.",
+          "The hall reserves the right to substitute artists or alter programs, in which case no exchange or refund will be offered.",
+          "The hall reserves the right to substitute artists or alter programs, in which case patrons will be offered a full refund.",
+          "The hall reserves the right to substitute artists or alter programs, in which case an exchange or refund will be offered."
+        ],
+        "answerIndex": 1,
+        "explanation": "'By contrast' signals that the cancellation rule differs from the one just stated, which is true only if the preceding sentence says that no refund is given for a substitution. The sentences offering an exchange, a refund or a full refund would not contrast with the cancellation rule, and the past tenses do not suit a standing policy."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "consequently",
+          "accordingly",
+          "similarly",
+          "nevertheless"
+        ],
+        "answerIndex": 3,
+        "explanation": "The hall promises refunds but 'cannot, nevertheless, accept responsibility' for travel costs, a concession that limits the promise. 'Accordingly' and 'consequently' would treat the refusal as a result of the refund, and 'similarly' has no parallel statement to build on."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "on condition that",
+          "even though",
+          "on account of",
+          "as though"
+        ],
+        "answerIndex": 0,
+        "explanation": "'On condition that they supply a medical certificate' sets the requirement for receiving a credit. 'Even though' and 'as though' reverse or distort the logic, and 'on account of' cannot introduce a clause with a verb."
+      }
+    ]
+  },
+  {
+    "id": "p6-429",
+    "documentType": "email",
+    "text": "Subject: Revised timetable for the audit\n\nDear Mr. Hallström,\n\nFurther to your request, I have revised the timetable for the interim audit of your Gothenburg subsidiary. [1] your finance team has scheduled a system migration for the preceding weekend, fieldwork will now begin on 9 October, a week later than originally planned, and our team of four will be on site until 27 October.\n\n[2] The delay will not affect the date of the final report, as we propose to run the testing of controls and the review of inventory counts in parallel. The draft will therefore reach you on 10 November, as agreed. I should be grateful if you could confirm by Wednesday that the migration is on schedule, [3] we can book the necessary staff. Should the date change again, we would [4] the right to adjust our fee accordingly.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "Given that",
+          "Provided that",
+          "Even though",
+          "Owing to"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Given that your finance team has scheduled a migration' gives the reason for the later start. 'Owing to' cannot introduce a clause, while 'provided that' and 'even though' express a condition or a concession that makes no sense with the revised dates."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "I appreciated that this arrangement was not ideal, but it minimized disruption to your own finance staff.",
+          "I appreciate that this arrangement is not ideal, but it should minimize disruption to your own finance staff.",
+          "I appreciate that this arrangement is not ideal, but it should minimize disruption to our own audit staff.",
+          "I appreciate that this arrangement is not ideal, and it should therefore minimize disruption to your own finance staff."
+        ],
+        "answerIndex": 1,
+        "explanation": "The paragraph is about the client's finance team and its migration, and the proposal is still to be agreed, so the sentence must reassure that team in the present tense. 'Our own audit staff' reassures the wrong party, 'appreciated ... minimized' treats the plan as already carried out, and 'and ... therefore' wrongly presents the lack of ideal conditions as the cause of the reduced disruption."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as though",
+          "so long as",
+          "in order that",
+          "even though"
+        ],
+        "answerIndex": 2,
+        "explanation": "'In order that we can book the necessary staff' states the purpose of the confirmation requested. 'So long as' and 'even though' express condition and concession, and 'as though' introduces a comparison."
       },
       {
         "blank": 4,
         "category": "grammar",
         "choices": [
-          "during",
-          "within",
-          "since",
-          "before"
+          "reserve",
+          "reserved",
+          "reserving",
+          "reserves"
+        ],
+        "answerIndex": 0,
+        "explanation": "After the modal 'would' the base form is required, giving 'we would reserve the right'. 'Reserved', 'reserving' and 'reserves' cannot follow a modal verb."
+      }
+    ]
+  },
+  {
+    "id": "p6-430",
+    "documentType": "article",
+    "text": "Coffee Cooperative Seeks Premium Market\n\nA cooperative of smallholder growers in the Ethiopian highlands has signed a three-year contract to supply a European roaster with 400 tonnes of washed arabica beans a year. The agreement guarantees a price roughly 30 percent above the prevailing market rate, [1] growers have in the past been vulnerable to sudden falls in world prices.\n\n[2] Farmers have, however, been asked to meet strict standards for sorting and drying, which are inspected by independent auditors twice a season. The cooperative's manager, Selam Tadesse, concedes that the requirements are demanding. [3], she says, the premium will more than cover the extra labor, and the first shipment is due to leave Djibouti in November. If the harvest falls short, the roaster is under no [4] to buy the full quantity, a clause that some members regard as unfair.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "moreover",
+          "whereby",
+          "whereas",
+          "therefore"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Whereas growers have in the past been vulnerable' contrasts the new guaranteed price with the growers' earlier position. 'Therefore' and 'moreover' do not express contrast, and 'whereby' would need to mean 'by which', which does not fit."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The arrangement offers a degree of security that few producers in the region have previously enjoyed.",
+          "The arrangement offered a degree of security that few producers in the region could previously enjoy.",
+          "The arrangement offers a degree of risk that few producers in the region have previously avoided.",
+          "The arrangement offers a degree of security that most producers in the region have always enjoyed."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence says 'Farmers have, however, been asked', which only makes sense after a benefit has been stated. 'A degree of security that few producers ... have previously enjoyed' is that benefit, consistent with the growers' past vulnerability. Describing 'risk', claiming that 'most producers' have 'always' had security, or using the past tense 'offered' breaks the logic or the time frame."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Similarly",
+          "Otherwise",
+          "Consequently",
+          "Nevertheless"
         ],
         "answerIndex": 3,
-        "explanation": "'Applications received before 30 June' gives the deadline for the bursary; 'during' and 'within' do not fit a fixed date and 'since' needs a past reference."
+        "explanation": "Having conceded that the requirements are demanding, the manager nonetheless says the premium will cover the extra labor, which calls for the concessive 'Nevertheless'. 'Consequently' and 'similarly' do not express contrast, and 'otherwise' would suggest an alternative outcome."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "obliged",
+          "obligation",
+          "obliging",
+          "obligatory"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Under no obligation to buy' needs the noun after 'no'. 'Obligatory' and 'obliging' are adjectives and 'obliged' is a participle, so none of them can follow 'under no'."
+      }
+    ]
+  },
+  {
+    "id": "p6-431",
+    "documentType": "letter",
+    "text": "Dear Ms. Delacroix,\n\nI am writing in connection with the invoice dated 12 March for the installation of the new ventilation system at your Lyon office. When our engineers inspected the work last week, they found that the ducting in the east wing does not [1] with the specification agreed in the contract. The ducts are narrower than specified, and three fire dampers have been fitted in the wrong positions. A full report is enclosed.\n\n[2] We have therefore instructed the installer to remedy the defects at no additional cost to you. The corrective work should take about ten days, starting on 8 April. In the meantime, we ask that you [3] payment of the final installment, which falls due on 30 April. [4] satisfactory completion of the work, we shall release the balance in full.\n\nYours sincerely,\nBenedict Aldous\nProject Manager",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "conform",
+          "confront",
+          "confirm",
+          "confine"
+        ],
+        "answerIndex": 0,
+        "explanation": "Work 'conforms with' a specification, meaning it matches it; 'confirm' means verify, 'confine' means restrict and 'confront' means face."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "The specification is legally binding, and no deviation of this size has been found anywhere in the east wing.",
+          "The specification is merely indicative, and a deviation of this size can be treated as a minor variation.",
+          "The specification is legally binding, but a deviation of this size can be treated as a minor variation.",
+          "The specification is legally binding, and a deviation of this size cannot be treated as a minor variation."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence begins 'We have therefore instructed the installer to remedy the defects', so the preceding sentence must present the deviation as serious. Calling the specification indicative or the deviation minor gives no reason to demand repairs, and denying any deviation contradicts the engineers' findings in the east wing."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "suppress",
+          "surrender",
+          "suspend",
+          "supplant"
+        ],
+        "answerIndex": 2,
+        "explanation": "The client is asked to 'suspend' payment, that is, stop it temporarily; 'supplant' means replace, 'suppress' means hold back by force and 'surrender' means give up for good."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Upon",
+          "Despite",
+          "Notwithstanding",
+          "Pending"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Upon satisfactory completion' marks the moment at which the balance will be released. 'Pending' would mean the balance is held while the work is awaited, and 'despite' and 'notwithstanding' would mean the balance is released even without satisfactory completion."
+      }
+    ]
+  },
+  {
+    "id": "p6-432",
+    "documentType": "notice",
+    "text": "IMPORTANT INFORMATION FOR ACCOUNT HOLDERS\nNorthgate Building Society\n\nFrom 1 January, the interest rate payable on Flexi-Saver accounts will be reduced from 2.9 percent to 2.4 percent. [1] Customers who hold balances above £50,000 will, however, continue to receive the existing rate until the end of the financial year.\n\nWe recognize that this change will be [2] to savers who rely on interest as a source of income. Customers need take no action: [3] you give notice otherwise, your account will remain open on the revised terms. Those who would prefer to move their funds elsewhere may do so without penalty [4] they give written notice before 31 December. Further details are available at any branch or on our helpline, which is staffed from 8 a.m. to 6 p.m. on weekdays. A full schedule of the revised rates is displayed in every branch window.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The change follows a reduction in the base rate set by the central bank, which has narrowed the margin on our lending.",
+          "The change follows an increase in the base rate set by the central bank, which has widened the margin on our lending.",
+          "The change follows a decision by rival societies to raise their savings rates, which has widened the gap in our pricing.",
+          "The change follows the launch of a new savings account, which will pay the existing rate to every one of our customers."
+        ],
+        "answerIndex": 0,
+        "explanation": "The next sentence begins 'Customers who hold balances above £50,000 will, however, continue', so the preceding one must explain a general reduction; only a fall in the base rate that narrows lending margins gives a coherent cause. A rise in the base rate or rival societies raising their rates would not justify a cut, and a new account paying 'the existing rate to every one of our customers' would make the exception for large balances pointless."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "unwarranted",
+          "unwieldy",
+          "unwelcome",
+          "unwitting"
+        ],
+        "answerIndex": 2,
+        "explanation": "A rate cut will be 'unwelcome to savers' who depend on interest. 'Unwarranted' and 'unwieldy' do not take 'to savers' in this sense, and 'unwitting' describes people who act without knowing."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Because",
+          "Whereas",
+          "Although"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Unless you give notice otherwise' states the default: with no notice, the account stays open on the revised terms. 'Whereas', 'because' and 'although' would contrast or justify instead of setting an exception."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "although",
+          "provided",
+          "whereas",
+          "lest"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Provided they give written notice before 31 December' sets the condition for penalty-free withdrawal. 'Whereas' and 'although' would contrast, and 'lest' expresses fear of a consequence."
+      }
+    ]
+  },
+  {
+    "id": "p6-433",
+    "documentType": "email",
+    "text": "To: Research and Development Staff\nFrom: Dr. Anneke Visser, Director of Innovation\nSubject: Patent filing procedure\n\nFollowing recent enquiries about intellectual property, I should like to set out the procedure that applies whenever a staff member believes that a new invention has been made. The first step is to submit an invention disclosure form to the legal department, [1] before any details are discussed with outside parties.\n\n[2] A premature public disclosure, whether in a publication or at a conference, may render the invention unpatentable. Once the form has been received, the legal team will [3] a search of existing patents and will advise whether an application is worthwhile, normally within three weeks. Employees are reminded that inventions made in the course of their employment belong to the company. [4], any royalties payable to the inventor are governed by a separate scheme, details of which are available from Human Resources.\n\nAnneke Visser",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "preference",
+          "preferably",
+          "preferred",
+          "preferable"
+        ],
+        "answerIndex": 1,
+        "explanation": "An adverb is needed to modify the time clause 'before any details are discussed': 'preferably before' means ideally before. The adjective, participle and noun cannot modify a clause in this way."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Disclosure forms matter a great deal in this process, because the legal team can reject them through inattention.",
+          "Rewards matter a great deal in this process, because inventors can be motivated through generous royalties.",
+          "Costs matter a great deal in this process, because the fee for a patent can be recovered through licensing.",
+          "Timing matters a great deal in this process, because the right to a patent can be lost through carelessness."
+        ],
+        "answerIndex": 3,
+        "explanation": "The next sentence warns that a 'premature public disclosure' may make the invention 'unpatentable', which illustrates how the right to a patent can be lost through bad timing. Cost recovery, rejected forms and royalty rewards are not what that warning is about."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "conclude",
+          "construct",
+          "conduct",
+          "condense"
+        ],
+        "answerIndex": 2,
+        "explanation": "A legal team 'conducts a search of existing patents', meaning it carries one out. 'Construct' means build, 'conclude' means finish and 'condense' means shorten, so none collocates with 'search'."
+      },
+      {
+        "blank": 4,
+        "category": "connector",
+        "choices": [
+          "Otherwise",
+          "Nevertheless",
+          "Accordingly",
+          "Similarly"
+        ],
+        "answerIndex": 1,
+        "explanation": "Ownership by the company is followed by a point that softens it, since the inventor may still receive royalties: 'Nevertheless, any royalties ... are governed by a separate scheme'. 'Accordingly', 'Similarly' and 'Otherwise' express consequence, likeness or alternative, which do not fit this relationship."
+      }
+    ]
+  },
+  {
+    "id": "p6-434",
+    "documentType": "web_page",
+    "text": "Pennine Mutual Insurance – Making a Claim\n\nIf you need to make a claim, please contact us as soon as reasonably possible. [1] Delay may prejudice your claim, particularly where evidence has to be gathered at the scene of an incident, and we are entitled to reduce a settlement if late notification has affected our ability to investigate.\n\nOn receiving your claim, we will assign a case handler who will be your single point of contact. Where the loss exceeds £10,000, an independent assessor, [2] fees we will bear in full, will be appointed. We aim to settle straightforward claims within ten working days; [3], complex cases may take considerably longer. A £250 excess applies to each claim, and approved payments are made by bank transfer. You should not authorize repairs [4] our written approval, except where emergency work is needed to prevent further damage.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "In most cases, this means informing the police within forty-eight hours of becoming aware of the loss or damage.",
+          "In most cases, this means informing us only after an assessor has fully inspected the loss or damage in question.",
+          "In most cases, this means informing us within forty-eight hours of becoming aware of the loss or damage.",
+          "In most cases, this means informing us once the loss or damage has been repaired at your own expense."
+        ],
+        "answerIndex": 2,
+        "explanation": "'This' picks up 'contact us as soon as reasonably possible', and the sentence that follows warns that 'late notification' harms the claim. Notifying 'us' within forty-eight hours fits; 'informing the police' changes the addressee, while informing us 'only after' an inspection or 'once ... repaired' is the opposite of prompt contact and clashes with the ban on unapproved repairs."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "whom",
+          "which",
+          "whose",
+          "who"
+        ],
+        "answerIndex": 2,
+        "explanation": "The relative adjective 'whose' links 'an independent assessor' to 'fees' and expresses possession: the assessor's fees. 'Who', 'which' and 'whom' cannot be followed directly by a noun in this way."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "accordingly",
+          "therefore",
+          "likewise",
+          "by contrast"
+        ],
+        "answerIndex": 3,
+        "explanation": "Straightforward claims are settled in ten working days, whereas complex cases take longer, so 'by contrast' marks the opposition. 'Therefore', 'accordingly' and 'likewise' signal result or similarity, not contrast."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "without",
+          "following",
+          "regarding",
+          "despite"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Not authorize repairs without our written approval' states the condition for repairs. 'Despite' and 'following' would permit repairs after approval, and 'regarding' makes no sense before 'approval'; the clause about emergency work confirms that approval is normally required."
       }
     ]
   }

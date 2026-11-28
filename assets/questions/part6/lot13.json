@@ -1,166 +1,551 @@
 [
   {
-    "id": "p6-446",
-    "documentType": "email",
-    "text": "To: Regional Sales Directors\nFrom: Octavia Brandt, Head of Customer Strategy\nSubject: Key account review\n\nThe annual review of our twenty largest accounts has now been completed, and the findings are attached. In summary, nine accounts have increased their spending, six have remained [1], and five have reduced it, in three cases because of consolidation within the customer's own industry.\n\n[2] Retention, rather than acquisition, will therefore be our priority in the coming year. Directors are asked to prepare a recovery plan for each account that has declined, [3] the specific reasons given by the customer. These plans should be submitted by 20 January, [4] the strategy meeting on 3 February can consider them in full.",
+    "id": "p6-505",
+    "documentType": "memo",
+    "text": "To: Warehouse staff\nFrom: Safety Committee\nSubject: New safety measures\n\nFollowing a review of last year's incident reports, the Safety Committee has decided to strengthen safety procedures in the warehouse and loading bays, where most of the reported incidents occurred. [1] These measures will take effect on 1 June, and every employee will be required to attend a short training session beforehand.\n\nSupervisors will [2] compliance on a daily basis and will record any breaches on form SC-7. [3] a breach is repeated, disciplinary action may follow. [4], the committee wishes to stress that the aim is prevention, not punishment. Each supervisor will receive a briefing pack by 15 May, and the committee will review the first month's figures at its meeting on 10 July. Questions should be sent to Gareth Osei, Safety Officer, on extension 3318.",
     "questions": [
       {
         "blank": 1,
-        "category": "vocabulary",
+        "category": "sentence_insertion",
         "choices": [
-          "static",
-          "stationary",
-          "steadfast",
-          "stagnant"
+          "Several accidents occurred in the warehouse last year, most of them involving forklifts and unmarked walkways.",
+          "The committee also considered three measures for the warehouse, but each was rejected as too costly or impractical.",
+          "Three measures will be introduced in the warehouse: mandatory helmets, marked walkways and a forklift speed limit.",
+          "Three measures were introduced in the warehouse last year: mandatory helmets, marked walkways and a forklift speed limit."
         ],
-        "answerIndex": 0,
-        "explanation": "Spending that has 'remained static' has stayed at the same level; 'stationary' describes objects that are not moving, 'steadfast' means loyal, and 'stagnant' implies decline."
+        "answerIndex": 2,
+        "explanation": "'These measures will take effect on 1 June' needs a preceding sentence that lists measures yet to be introduced. Measures already introduced last year contradict that timing, a description of accidents gives 'these measures' nothing to refer to, and rejected measures cannot be taking effect."
       },
       {
         "blank": 2,
-        "category": "sentence_insertion",
+        "category": "vocabulary",
         "choices": [
-          "The pattern suggests that our greatest opportunity lies not in keeping existing customers but in winning new ones.",
-          "The pattern suggests that our greatest exposure lies not in winning new customers but in losing existing ones.",
-          "The pattern suggests that our greatest exposure lies not in losing existing customers but in winning new ones.",
-          "The pattern suggested that our greatest exposure had lain in losing customers that were acquired last year."
+          "monitor",
+          "moderate",
+          "mandate",
+          "mediate"
         ],
-        "answerIndex": 1,
-        "explanation": "The next sentence states that retention rather than acquisition will be the priority, so the previous one must say the main risk is losing customers. The others reverse the priority or use a past perfect."
+        "answerIndex": 0,
+        "explanation": "Supervisors 'monitor compliance', meaning they check it regularly, and then record breaches. 'Mandate' means to order, 'mediate' means to settle a dispute and 'moderate' means to reduce, none of which supervisors do to compliance."
       },
       {
         "blank": 3,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "taking on",
-          "taking over",
-          "taking into account",
-          "taking after"
+          "Whereby",
+          "Wherein",
+          "Where",
+          "Whereas"
         ],
         "answerIndex": 2,
-        "explanation": "Plans should be prepared 'taking into account' the reasons given, meaning considering them; the others have different meanings."
+        "explanation": "'Where a breach is repeated' introduces a specific condition, equivalent to 'in cases where'. 'Whereas' expresses contrast, and 'whereby' and 'wherein' are relative words that cannot open a conditional clause."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "provided",
-          "in case",
-          "lest",
-          "so that"
+          "Accordingly",
+          "Nevertheless",
+          "Alternatively",
+          "Similarly"
         ],
-        "answerIndex": 3,
-        "explanation": "'So that the strategy meeting can consider them' states the purpose of the deadline; 'provided' needs 'that', 'in case' suggests a precaution, and 'lest' requires a negative idea."
+        "answerIndex": 1,
+        "explanation": "After the warning about disciplinary action, 'Nevertheless' introduces the reassurance that the aim is prevention. 'Accordingly', 'Similarly' and 'Alternatively' mark consequence, likeness or an option, none of which fits that reversal."
       }
     ]
   },
   {
-    "id": "p6-447",
-    "documentType": "notice",
-    "text": "NOTICE OF ANNUAL ELECTION\nThe Greenfield Allotment Society\n\nNominations are invited for the three vacancies on the management committee, which will be filled at the annual general meeting on 18 September. [1] Candidates must be paid-up members of at least twelve months' standing and must be proposed and seconded by two other members.\n\nNomination forms are available from the secretary and must be returned [2] 4 September. Any member who is unable to attend the meeting may appoint a proxy, [3] the proxy's authority must be notified in writing before the start of proceedings. Should the number of nominations not exceed the number of vacancies, those nominated will be declared elected [4] a vote.",
+    "id": "p6-506",
+    "documentType": "review",
+    "text": "Review: Meridian Conference Centre – rating 3 out of 5\n\nWe hired the Meridian Conference Centre for a two-day sales meeting involving 120 delegates at a cost of £4,800 per day. The event ran from 9 a.m. to 5 p.m. on 12 and 13 March, with a buffet lunch included in the price. [1] Nevertheless, the catering fell short of our expectations, with long queues at lunchtime and a limited choice for vegetarians. Only two serving points were open, although the dining area could easily have accommodated four.\n\nStaff were [2] to complaints and replaced several dishes promptly, [3] this did not fully compensate for the delays. We would recommend the venue [4] the organisers improve the catering arrangements before the next season. Several of our delegates have already asked us to choose a different venue for next year's conference.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The committee is responsible for the allocation of plots, the maintenance of shared facilities and the control of the society's finances.",
-          "The committee is responsible for the allocation of members, the maintenance of private facilities and the control of the neighbors' finances.",
-          "The committee was responsible for the allocation of plots, the maintenance of shared facilities and the control of the society's finances.",
-          "The committee is elected by the allocation of plots, the maintenance of shared facilities and the control of members."
+          "The main hall was cramped, poorly ventilated and awkwardly located a long way from the nearest railway station.",
+          "The audiovisual equipment failed twice on the first morning, and no technician was available to repair it promptly.",
+          "The main hall was spacious, well equipped and conveniently located a few minutes from the nearest railway station.",
+          "The booking process was slow and confusing, and several of our emails went unanswered for more than two weeks."
         ],
-        "answerIndex": 0,
-        "explanation": "The next sentence sets conditions for candidates, so the previous one should describe the role; only the first describes it coherently. The others use incorrect objects, a past tense, or confuse election and responsibility."
+        "answerIndex": 2,
+        "explanation": "'Nevertheless, the catering fell short' signals a contrast, so the preceding sentence must be a positive judgment; only the description of a spacious, well-equipped, convenient hall is positive. The cramped hall, the slow booking and the equipment failures are further complaints, and the reviewer later recommends the venue, which they would hardly do after such a list."
       },
       {
         "blank": 2,
-        "category": "grammar",
+        "category": "vocabulary",
         "choices": [
-          "at",
-          "by",
-          "on",
+          "indifferent",
+          "vulnerable",
+          "receptive",
+          "susceptible"
+        ],
+        "answerIndex": 2,
+        "explanation": "Staff who 'replaced several dishes promptly' were 'receptive to complaints', meaning open to them. 'Indifferent' contradicts that, while 'susceptible' and 'vulnerable' describe exposure to harm, not willingness to listen."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "as",
+          "although",
+          "unless",
           "until"
         ],
         "answerIndex": 1,
-        "explanation": "A deadline for returning forms is 'by 4 September'; 'until' would mean continuing up to that date."
-      },
-      {
-        "blank": 3,
-        "category": "connector",
-        "choices": [
-          "as though",
-          "whereas",
-          "provided that",
-          "albeit"
-        ],
-        "answerIndex": 2,
-        "explanation": "'Provided that' states the condition: a proxy may be appointed provided that their authority is notified; the others distort the logic."
+        "explanation": "'Although' concedes that staff acted promptly while the delays still were not fully made up for. 'As' would make the prompt replacement the reason for the failure to compensate, and 'unless' and 'until' make no sense after 'promptly'."
       },
       {
         "blank": 4,
-        "category": "grammar",
+        "category": "connector",
         "choices": [
-          "within",
-          "through",
-          "beyond",
-          "without"
+          "even though",
+          "in case",
+          "on condition that",
+          "now that"
         ],
-        "answerIndex": 3,
-        "explanation": "'Declared elected without a vote' means no ballot is needed because nominations do not exceed vacancies; the others do not fit."
+        "answerIndex": 2,
+        "explanation": "'On condition that the organisers improve the catering' makes the recommendation depend on a future change. 'In case' suggests a precaution, 'even though' a concession, and 'now that' presupposes the improvement has already happened."
       }
     ]
   },
   {
-    "id": "p6-448",
-    "documentType": "review",
-    "text": "Review: Corporate Governance in Practice by Jonas Lindqvist\n\nLindqvist's new book is billed as a practical guide for non-executive directors, and for much of its length it lives up to that promise. [1] Its early chapters set out, in clear and unpretentious prose, the duties that directors owe to shareholders and the means by which those duties can be enforced.\n\nThe middle section is less successful. Case studies are presented [2] sufficient analysis, and the reader is left to draw conclusions that the author has not [3]. The final chapters, [4], recover much of the lost ground, offering a persuasive account of how boards can resist pressure from dominant executives.",
+    "id": "p6-507",
+    "documentType": "email",
+    "text": "To: Department heads\nFrom: Priya Menon, Training Coordinator\nSubject: Compliance workshops\n\nThe compliance workshops that were announced last month have now been scheduled. [1] Both sessions will run from 9 a.m. to noon in the main conference room, and attendance is compulsory for all staff who handle customer data. Each session can accommodate thirty participants, so places will be allocated in the order in which registrations are received through the training portal. Registrations that exceed that number will be placed on a waiting list. Please do not send duplicate requests.\n\nPlease make sure that your team members [2] their places by 30 April. [3] staff are unable to attend on either date, they should contact me so that an alternative can be arranged. A certificate will be issued to each participant, [4] must be retained for audit purposes.",
     "questions": [
       {
         "blank": 1,
         "category": "sentence_insertion",
         "choices": [
-          "The strongest sections are those in which the author draws on his own experience of sitting on the boards of listed companies.",
-          "The weakest sections are those in which the author draws on his own experience of sitting on the boards of private companies.",
-          "The strongest sections are those in which the author draws on the experience of the companies that appoint directors.",
-          "The strongest sections were those in which the author drew on his experience of sitting on the boards of listed companies."
+          "The first workshop, on data protection, will take place on 9 May, and the second, on cybersecurity, on 16 May.",
+          "The first workshop, on data protection, will take place on 9 May, and a follow-up will be arranged for later in the year.",
+          "The first workshop, on data protection, took place on 9 May, and the second, on cybersecurity, was held on 16 May.",
+          "A single workshop, on data protection and cybersecurity, will take place on 9 May for all department heads."
         ],
         "answerIndex": 0,
-        "explanation": "The next sentence begins 'Its early chapters set out, in clear and unpretentious prose', which praises the book; only the first option introduces praise. The others describe weak sections, shift the source of experience, or use a past tense."
+        "explanation": "'Both sessions' and later 'either date' require two workshops with two dates to have been given, as the sentence naming 9 May and 16 May does. The past tense contradicts 'have now been scheduled', a vague follow-up gives no second date, and a single workshop is incompatible with 'both sessions'."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "assure",
+          "reassure",
+          "secure",
+          "insure"
+        ],
+        "answerIndex": 2,
+        "explanation": "One 'secures' a place, meaning obtains it. 'Assure' and 'reassure' take a person as object, and 'insure' relates to insurance."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whereupon",
+          "Whereas",
+          "Whereby",
+          "Where"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Where staff are unable to attend' introduces a specific case, meaning 'in cases where'. 'Whereas' expresses contrast, 'whereby' defines a method, and 'whereupon' means immediately after which."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "which",
+          "whose",
+          "whom",
+          "who"
+        ],
+        "answerIndex": 0,
+        "explanation": "The non-defining relative pronoun 'which' refers back to the certificate and is the subject of 'must be retained'. 'Who' and 'whom' refer to people, and 'whose' expresses possession."
+      }
+    ]
+  },
+  {
+    "id": "p6-508",
+    "documentType": "letter",
+    "text": "Dear Mr Haddad,\n\nThank you for your letter of 3 September regarding the proposed revision of unit prices, which would raise our current rates by eleven percent. We understand that raw material costs have risen significantly. [1] This offer remains valid until 31 October, after which we will approach alternative suppliers.\n\nWe would be pleased to discuss the proposal in person at your earliest [2]. Our purchasing director, Elena Ruiz, will be in Rotterdam from 12 to 16 October and could visit your plant. Please let us know which dates suit you. [3] your company has been a reliable partner for many years, we cannot accept an increase of this magnitude without a corresponding commitment. We trust that a mutually [4] solution can be found before the current contract, reference SC-2291, expires on 31 December.\n\nYours sincerely,\nMartin Brandt\nHead of Procurement",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "We were prepared to accept an increase of four percent, provided that you committed to a three-year supply agreement.",
+          "We are not prepared to accept an increase of four percent, even if you commit to a three-year supply agreement.",
+          "You are prepared to accept a decrease of four percent, provided that we commit to a three-year supply agreement.",
+          "We are prepared to accept an increase of four percent, provided that you commit to a three-year supply agreement."
+        ],
+        "answerIndex": 3,
+        "explanation": "'This offer remains valid until 31 October' needs an offer made by the writer just before it, and the later demand for 'a corresponding commitment' matches a smaller increase tied to a long-term agreement. A refusal makes no offer, the past tense suggests the offer has lapsed, and a proposal that the supplier accepts a decrease reverses the parties."
+      },
+      {
+        "blank": 2,
+        "category": "vocabulary",
+        "choices": [
+          "convenience",
+          "accessibility",
+          "availability",
+          "suitability"
+        ],
+        "answerIndex": 0,
+        "explanation": "'At your earliest convenience' is the fixed formula for asking when it suits the other party. 'Availability', 'suitability' and 'accessibility' do not combine with 'earliest' in this expression."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "Whenever",
+          "Although",
+          "Unless",
+          "Given that"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Although' concedes the long partnership while still refusing the increase. 'Given that' would present the partnership as a reason for refusing, and 'unless' and 'whenever' do not suit a statement of fact."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "beneficial",
+          "benefiting",
+          "beneficially",
+          "benefit"
+        ],
+        "answerIndex": 0,
+        "explanation": "An adjective is needed before 'solution', and 'mutually beneficial solution' is the standard collocation. The noun or verb 'benefit', the participle 'benefiting' and the adverb 'beneficially' cannot modify a noun in this way."
+      }
+    ]
+  },
+  {
+    "id": "p6-509",
+    "documentType": "article",
+    "text": "Urban planners have long debated how best to reduce traffic in city centres. [1] Such figures, however, do not reveal who bears the cost of these schemes. A study by the Norrby Transport Forum found that households earning under €25,000 a year spend, on average, twice as large a share of their income on the charges as those earning over €60,000. Low-income households, which are [2] to live in outer districts and depend on cars, often pay proportionally more than wealthier residents.\n\nCritics therefore argue that revenue from the charges should be [3] to improving public transport in those areas. [4] the benefits are shared fairly, they warn, public support for such schemes is likely to erode. Officials counter that the first priority must be reducing congestion and that redistribution can be addressed at a later stage.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "Cities that have introduced congestion charges generally report a significant drop in traffic and in air pollution.",
+          "Cities that have introduced congestion charges generally report a drop in traffic of between ten and twenty percent.",
+          "Cities that have introduced congestion charges generally report an increase in traffic of between ten and twenty percent.",
+          "Cycling lanes and bus networks generally cost cities between ten and twenty percent of their transport budgets."
+        ],
+        "answerIndex": 1,
+        "explanation": "'Such figures' needs numbers to have been given, and 'these schemes' and 'the charges' need congestion charging to have been introduced. A sentence without figures leaves 'such figures' unexplained, a reported rise in traffic would make the schemes pointless, and the one about cycling lanes and bus networks never mentions charges."
       },
       {
         "blank": 2,
         "category": "grammar",
         "choices": [
-          "with",
-          "without",
-          "despite",
-          "following"
+          "prone",
+          "certain",
+          "likely",
+          "probable"
         ],
-        "answerIndex": 1,
-        "explanation": "'Without sufficient analysis' matches the criticism that readers are left to draw their own conclusions; the others suggest the opposite."
+        "answerIndex": 2,
+        "explanation": "'Are likely to live in outer districts' is the correct structure; 'probable' cannot take a to-infinitive with a personal subject, 'prone' is followed by a noun or '-ing', and 'certain' overstates what 'often pay' implies."
       },
       {
         "blank": 3,
-        "category": "vocabulary",
+        "category": "grammar",
         "choices": [
-          "subsidized",
-          "subordinated",
-          "substantiated",
-          "substituted"
+          "allocation",
+          "allocating",
+          "allocated",
+          "allocate"
         ],
         "answerIndex": 2,
-        "explanation": "The author has not 'substantiated' (supported with evidence) the conclusions; the others do not fit."
+        "explanation": "After 'should be' the past participle is needed to form the passive, giving 'should be allocated to improving public transport'; the other forms cannot follow 'be' here."
       },
       {
         "blank": 4,
         "category": "connector",
         "choices": [
-          "in short",
-          "for example",
-          "as a result",
-          "by contrast"
+          "Whereas",
+          "Once",
+          "Although",
+          "Unless"
         ],
         "answerIndex": 3,
-        "explanation": "The final chapters recover ground after a weak middle, a contrast marked by 'by contrast'; the others do not mark that relation."
+        "explanation": "'Unless the benefits are shared fairly' states the condition under which public support will erode. 'Although' and 'whereas' would contrast two facts, and 'once' would claim that support erodes after the benefits are shared."
+      }
+    ]
+  },
+  {
+    "id": "p6-601",
+    "documentType": "email",
+    "text": "To: All Budget Holders\nFrom: Henrik Dahl, Head of Accounts Payable\nSubject: Early-payment discount programme\n\nBeginning 1 February, Arvento Group will allow selected suppliers to be paid within ten days of invoice approval [1] a discount of 1.5 percent. [2] Those that decline will simply continue to be paid on the standard sixty-day terms.\n\n[3] improving our cash position by approximately €400,000 per quarter, the programme should strengthen relationships with smaller suppliers that depend on prompt payment. Budget holders will play a decisive role, since the ten-day period starts only when approval is recorded in the system. Any invoice [4] unapproved after five working days will be escalated automatically to the relevant department director.\n\nTraining sessions on the revised approval screen will be held on 12 and 14 January, and a short guide is available on the intranet.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "vocabulary",
+        "choices": [
+          "in exchange for",
+          "in lieu of",
+          "on account of",
+          "in respect of"
+        ],
+        "answerIndex": 0,
+        "explanation": "'In exchange for' expresses the trade-off: earlier payment for the supplier, a discount of 1.5 percent for Arvento. 'In lieu of' means 'instead of', 'on account of' means 'because of' and 'in respect of' means 'concerning', so none of them states a trade."
+      },
+      {
+        "blank": 2,
+        "category": "sentence_insertion",
+        "choices": [
+          "Participation is voluntary, and each eligible supplier will receive a written invitation by the end of this month.",
+          "The discount will be applied automatically, and each eligible supplier will see it on the remittance advice.",
+          "The programme replaces the former early-settlement scheme, which each eligible supplier joined during the previous year.",
+          "Participation is mandatory, and each eligible supplier will be required to sign the revised terms this month."
+        ],
+        "answerIndex": 0,
+        "explanation": "Only the statement that 'Participation is voluntary' gives 'Those that decline' something to refer back to. 'Participation is mandatory' and a discount 'applied automatically' leave no room to decline, and a 'former early-settlement scheme' introduces no choice at all."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "In addition to",
+          "Owing to",
+          "Regardless of",
+          "In place of"
+        ],
+        "answerIndex": 0,
+        "explanation": "'In addition to improving our cash position' adds a second benefit, strengthened supplier relationships. 'In place of' and 'Regardless of' contradict the sense, and 'Owing to' would make the cash gain the cause of the relationship benefit."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "remaining",
+          "remains",
+          "to remain",
+          "remained"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Any invoice remaining unapproved' is a participle clause that modifies 'invoice' and leaves 'will be escalated' as the only finite verb. 'Remains' and 'remained' would add a second finite verb, and 'to remain' does not fit the structure."
+      }
+    ]
+  },
+  {
+    "id": "p6-602",
+    "documentType": "letter",
+    "text": "Dear Ms. Voss,\n\nI am writing to inform you that your consignment of forty pallets of industrial fasteners, routed via Rotterdam and originally due at your Gdansk warehouse on 9 March, will now arrive on 14 March. [1] That is just over three times the usual proportion of one in ten, and the resulting backlog has held our vessel at Rotterdam for four days.\n\nTo prevent further delay, we have arranged a revised routing. The consignment [2] to a feeder vessel on Friday and delivered by road thereafter, [3] customs authorities release it without further inspection. Should you wish to reschedule your own receiving staff, please let us know by Wednesday.\n\n[4] the circumstances, we will waive the storage charges that would otherwise apply at our depot, and we will credit your account accordingly. We apologize sincerely for the inconvenience.\n\nYours sincerely,\nMarek Zielinski\nCustomer Operations Manager, Calderon Freight",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "The cause is a surge in customs inspections at Hamburg, where roughly one container in three is now being opened.",
+          "The cause is a surge in customs inspections at Rotterdam, where roughly one container in three is now being opened.",
+          "The cause is a surge in customs inspections at Rotterdam, where roughly one container in two is now being opened.",
+          "The cause is a shortage of customs inspectors at Rotterdam, where roughly one container in five is now being opened."
+        ],
+        "answerIndex": 1,
+        "explanation": "One container in three against the usual one in ten is 'just over three times the usual proportion', and Rotterdam is where the vessel was held. 'One in two' and 'one in five' give the wrong multiple, and 'Hamburg' contradicts 'held our vessel at Rotterdam'."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "has been transferring",
+          "will be transferred",
+          "will transfer",
+          "would have transferred"
+        ],
+        "answerIndex": 1,
+        "explanation": "'The consignment' is the thing moved, so the passive 'will be transferred' is required, in parallel with 'delivered by road'. The active forms 'will transfer', 'has been transferring' and 'would have transferred' make the consignment the agent."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "unless",
+          "although",
+          "provided that",
+          "whereas"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Provided that customs authorities release it' states the condition on which road delivery depends. 'Unless', 'whereas' and 'although' would reverse the condition or set up a contrast the context does not support."
+      },
+      {
+        "blank": 4,
+        "category": "vocabulary",
+        "choices": [
+          "In favour of",
+          "In view of",
+          "In spite of",
+          "In charge of"
+        ],
+        "answerIndex": 1,
+        "explanation": "'In view of the circumstances' means 'given the situation' and justifies the waiver of charges. 'In spite of', 'In charge of' and 'In favour of' cannot introduce a reason for the goodwill gesture."
+      }
+    ]
+  },
+  {
+    "id": "p6-603",
+    "documentType": "article",
+    "text": "Missed Appointments Cost Health Services Millions\n\nOutpatient clinics across the Westmark region lose an estimated 1.9 million appointment slots every year to patients who fail to attend, according to the Westmark Health Authority. [1] an estimated €85 per slot in unused staff time and equipment, the total burden exceeds €160 million annually.\n\nTo address the problem, eleven clinics have introduced a text-message reminder system linked to their patient records. Patients are notified forty-eight hours before the appointment and can confirm, cancel or rebook with a single reply. [2] the system has been in operation for only six months, early results are encouraging, with no-show rates falling from 14 percent to 9 percent.\n\nAdministrators caution, however, that reminders alone will not solve the problem. [3] For that reason, the authority will require every clinic [4] the stated reason for each cancellation from April, so that recurring patterns can be identified. A full evaluation is due in September.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "grammar",
+        "choices": [
+          "In",
+          "On",
+          "At",
+          "By"
+        ],
+        "answerIndex": 2,
+        "explanation": "'At an estimated €85 per slot' expresses a unit cost, as in 'at a price of'. 'By', 'On' and 'In' cannot introduce a rate in this way."
+      },
+      {
+        "blank": 2,
+        "category": "connector",
+        "choices": [
+          "Once",
+          "Although",
+          "Unless",
+          "Given that"
+        ],
+        "answerIndex": 1,
+        "explanation": "'Although' concedes that six months is short while stressing that the results are already encouraging. 'Given that' would present the short period as the reason for the good results, 'Unless' sets an impossible condition, and 'Once' makes the clause a time marker that contradicts 'has been in operation'."
+      },
+      {
+        "blank": 3,
+        "category": "sentence_insertion",
+        "choices": [
+          "Other regions that adopted similar systems report that reminders reduced missed slots by more than half.",
+          "Most missed slots are attributed to forgetfulness, which the new reminder system has now largely eliminated.",
+          "Several clinics now charge patients a fee for each slot that is missed without sufficient prior notice.",
+          "Many missed slots are attributed not to forgetfulness but to transport problems and waits for referrals."
+        ],
+        "answerIndex": 3,
+        "explanation": "'For that reason' needs a cause explaining why the authority wants cancellation reasons recorded: reminders cannot address transport difficulties or long waits. The sentences about forgetfulness being 'largely eliminated' or reminders halving missed slots contradict 'reminders alone will not solve the problem', and a fee gives no reason to record reasons."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "having recorded",
+          "recording",
+          "to record",
+          "that records"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Require' takes an object followed by a to-infinitive: 'require every clinic to record'. 'Recording', 'having recorded' and 'that records' do not fit that pattern."
+      }
+    ]
+  },
+  {
+    "id": "p6-604",
+    "documentType": "notice",
+    "text": "NOTICE TO GUESTS\nThe Marlowe Grand Hotel, Lisbon\n\n[1] During this period, the Terrace Restaurant will be closed, and breakfast will be served in the Garden Lounge on the ground floor between 6.30 a.m. and 10.30 a.m. Guests who prefer to dine in their rooms may use the room-service menu, and orders for breakfast must be submitted [2] 9 p.m. on the previous evening using the card by the telephone. The hotel bar and the rooftop pool will operate as usual, and luggage storage remains available at the front desk.\n\nGuests with dietary requirements are advised to inform the front desk on arrival, [3] the Garden Lounge buffet offers only a limited choice of gluten-free and vegan dishes. Once the works [4], the Terrace Restaurant will reopen with a revised seasonal menu. We apologize for any inconvenience and thank you for your understanding.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "sentence_insertion",
+        "choices": [
+          "In March last year, the hotel carried out essential refurbishment of the Terrace Restaurant and its adjoining kitchen.",
+          "At the end of March, the hotel will inspect the Terrace Restaurant and its adjoining kitchen for hygiene compliance.",
+          "From 3 to 21 March, the hotel will carry out major refurbishment of the Terrace Restaurant and its adjoining kitchen.",
+          "From 3 to 21 March, the hotel will reopen the Terrace Restaurant following refurbishment of its adjoining kitchen."
+        ],
+        "answerIndex": 2,
+        "explanation": "'During this period, the Terrace Restaurant will be closed' needs a future period of works to be defined just before it, here 'From 3 to 21 March' with refurbishment. 'Will reopen' contradicts the closure, 'last year' is the wrong time, and 'At the end of March' names a moment, not a period."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "by",
+          "since",
+          "during",
+          "until"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Must be submitted by 9 p.m.' sets a deadline. 'Until' and 'during' describe a continuing period, which does not combine with 'must be submitted', and 'since' refers to a starting point in the past."
+      },
+      {
+        "blank": 3,
+        "category": "connector",
+        "choices": [
+          "even if",
+          "as long as",
+          "given that",
+          "so that"
+        ],
+        "answerIndex": 2,
+        "explanation": "'Given that' supplies the reason for informing the front desk: the buffet 'offers only a limited choice'. 'Even if', 'as long as' and 'so that' express concession, condition and purpose, none of which fits."
+      },
+      {
+        "blank": 4,
+        "category": "grammar",
+        "choices": [
+          "are completing",
+          "will be completed",
+          "are completed",
+          "being completed"
+        ],
+        "answerIndex": 2,
+        "explanation": "After 'once', a future event is expressed with the present passive: 'Once the works are completed'. 'Will be completed' is not used in a time clause, 'are completing' makes the works the agent, and 'being completed' has no finite verb."
+      }
+    ]
+  },
+  {
+    "id": "p6-605",
+    "documentType": "web_page",
+    "text": "Kestrel Cloud – API Versioning and Deprecation Policy\n\nKestrel Cloud releases a new major version of its public API approximately every eighteen months. Each version remains fully supported for at least twenty-four months after its successor is released, and customers are notified twelve months before a version is retired. [1] security patches continue to be issued throughout the support period, new features are added only to the latest version.\n\nDevelopers [2] to migrate to the latest version are advised to consult the migration guide before updating their production environments. A sandbox, in which existing integrations can be tested against the new version at no charge, is available from the developer console. Requests to extend support beyond the standard period are [3] on a case-by-case basis. [4] Integrations that still call a retired version will receive an error response from that date onward.",
+    "questions": [
+      {
+        "blank": 1,
+        "category": "connector",
+        "choices": [
+          "Unless",
+          "Once",
+          "Provided that",
+          "Whereas"
+        ],
+        "answerIndex": 3,
+        "explanation": "'Whereas' sets up the contrast between security patches, issued throughout, and new features, reserved for the latest version. 'Provided that', 'Unless' and 'Once' would make the first clause a condition or a time point, which makes no sense here."
+      },
+      {
+        "blank": 2,
+        "category": "grammar",
+        "choices": [
+          "wishing",
+          "to wish",
+          "wished",
+          "wishes"
+        ],
+        "answerIndex": 0,
+        "explanation": "'Developers wishing to migrate' is a participle phrase equivalent to 'who wish' and modifies 'Developers'. 'Wished', 'wishes' and 'to wish' do not fit before 'to migrate' and before the verb 'are advised'."
+      },
+      {
+        "blank": 3,
+        "category": "vocabulary",
+        "choices": [
+          "believed",
+          "considered",
+          "supposed",
+          "regarded"
+        ],
+        "answerIndex": 1,
+        "explanation": "Requests are 'considered on a case-by-case basis', meaning examined and decided one at a time. 'Regarded', 'believed' and 'supposed' describe opinions and cannot take this complement."
+      },
+      {
+        "blank": 4,
+        "category": "sentence_insertion",
+        "choices": [
+          "The support period guaranteed under this policy is final unless an extension has been confirmed in writing.",
+          "The release date announced for the successor version is final unless any delay has been confirmed in writing.",
+          "The retirement date announced in the notification is final unless an extension has been confirmed in writing.",
+          "The notification date shown in the developer console is final unless an error has been confirmed in writing."
+        ],
+        "answerIndex": 2,
+        "explanation": "'From that date onward' needs a date at which a retired version stops working, which is the retirement date, and 'extension' echoes the previous sentence. The release date of the successor and the notification date do not retire a version, and 'support period' is a duration, not a date."
       }
     ]
   }
