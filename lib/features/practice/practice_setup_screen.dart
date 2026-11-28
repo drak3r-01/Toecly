@@ -8,6 +8,7 @@ import '../../core/widgets/fade_slide_in.dart';
 import '../../core/toeic_part.dart';
 import '../../data/quiz/quiz_request.dart';
 import '../../l10n/app_localizations.dart';
+import '../words/word_cards_screen.dart';
 import 'part_choice_card.dart';
 import 'question_count_picker.dart';
 
@@ -49,6 +50,16 @@ class _PracticeSetupScreenState extends ConsumerState<PracticeSetupScreen> {
                     Text(l10n.navPractice, style: theme.textTheme.headlineSmall),
                     const SizedBox(height: 4),
                     Text(l10n.practiceDescription),
+                    const SizedBox(height: 16),
+                    Card(
+                      child: ListTile(
+                        leading: Icon(Icons.style_rounded, color: theme.colorScheme.primary),
+                        title: Text(l10n.wordsTitle),
+                        subtitle: Text(l10n.wordsDescription),
+                        trailing: const Icon(Icons.chevron_right),
+                        onTap: () => context.push(WordCardsScreen.path),
+                      ),
+                    ),
                     const SizedBox(height: 24),
                     Text(l10n.practicePartsLabel, style: theme.textTheme.titleMedium),
                     const SizedBox(height: 12),

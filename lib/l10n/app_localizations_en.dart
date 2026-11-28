@@ -506,4 +506,39 @@ class AppLocalizationsEn extends AppLocalizations {
   String weakSpotName(int part, String category) {
     return 'Part $part · $category';
   }
+
+  @override
+  String get wordsTitle => 'Word cards';
+
+  @override
+  String get wordsDescription => 'Learn essential TOEIC business vocabulary.';
+
+  @override
+  String wordsProgress(int known, int total) {
+    return '$known / $total words known';
+  }
+
+  @override
+  String get wordsTapToFlip => 'Tap the card to see the meaning';
+
+  @override
+  String get wordsAgain => 'Again';
+
+  @override
+  String get wordsKnown => 'I know it';
+
+  @override
+  String get wordsExample => 'Example';
+
+  @override
+  String get wordsFrench => 'In French';
+
+  @override
+  String get wordsDone => 'Deck complete! You know every word.';
+
+  @override
+  String get wordsRestart => 'Start over';
+
+  @override
+  String get wordsEmpty => 'No word cards available.';
 }

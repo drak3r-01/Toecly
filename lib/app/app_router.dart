@@ -9,6 +9,7 @@ import '../features/practice/practice_setup_screen.dart';
 import '../features/quiz/quiz_screen.dart';
 import '../features/review/review_screen.dart';
 import '../features/settings/settings_screen.dart';
+import '../features/words/word_cards_screen.dart';
 import 'navigation/app_destination.dart';
 import 'navigation/page_transitions.dart';
 import 'navigation/responsive_shell.dart';
@@ -22,6 +23,11 @@ GoRouter createAppRouter() {
   return GoRouter(
     initialLocation: AppDestination.dashboard.path,
     routes: [
+      GoRoute(
+        path: WordCardsScreen.path,
+        pageBuilder: (context, state) =>
+            expandPage(state: state, child: const WordCardsScreen()),
+      ),
       GoRoute(
         path: '/quiz',
         pageBuilder: (context, state) => expandPage(

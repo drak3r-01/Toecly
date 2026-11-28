@@ -955,6 +955,72 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Part {part} · {category}'**
   String weakSpotName(int part, String category);
+
+  /// No description provided for @wordsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Word cards'**
+  String get wordsTitle;
+
+  /// No description provided for @wordsDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Learn essential TOEIC business vocabulary.'**
+  String get wordsDescription;
+
+  /// No description provided for @wordsProgress.
+  ///
+  /// In en, this message translates to:
+  /// **'{known} / {total} words known'**
+  String wordsProgress(int known, int total);
+
+  /// No description provided for @wordsTapToFlip.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap the card to see the meaning'**
+  String get wordsTapToFlip;
+
+  /// No description provided for @wordsAgain.
+  ///
+  /// In en, this message translates to:
+  /// **'Again'**
+  String get wordsAgain;
+
+  /// No description provided for @wordsKnown.
+  ///
+  /// In en, this message translates to:
+  /// **'I know it'**
+  String get wordsKnown;
+
+  /// No description provided for @wordsExample.
+  ///
+  /// In en, this message translates to:
+  /// **'Example'**
+  String get wordsExample;
+
+  /// No description provided for @wordsFrench.
+  ///
+  /// In en, this message translates to:
+  /// **'In French'**
+  String get wordsFrench;
+
+  /// No description provided for @wordsDone.
+  ///
+  /// In en, this message translates to:
+  /// **'Deck complete! You know every word.'**
+  String get wordsDone;
+
+  /// No description provided for @wordsRestart.
+  ///
+  /// In en, this message translates to:
+  /// **'Start over'**
+  String get wordsRestart;
+
+  /// No description provided for @wordsEmpty.
+  ///
+  /// In en, this message translates to:
+  /// **'No word cards available.'**
+  String get wordsEmpty;
 }
 
 class _AppLocalizationsDelegate

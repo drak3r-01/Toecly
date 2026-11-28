@@ -316,5 +316,26 @@
         "type": "String"
       }
     }
-  }
+  },
+  "wordsTitle": "Cartes de mots",
+  "wordsDescription": "Apprends le vocabulaire professionnel essentiel du TOEIC.",
+  "wordsProgress": "{known} / {total} mots connus",
+  "@wordsProgress": {
+    "placeholders": {
+      "known": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "wordsTapToFlip": "Touche la carte pour voir le sens",
+  "wordsAgain": "À revoir",
+  "wordsKnown": "Je le sais",
+  "wordsExample": "Exemple",
+  "wordsFrench": "En français",
+  "wordsDone": "Paquet terminé ! Tu connais tous les mots.",
+  "wordsRestart": "Recommencer",
+  "wordsEmpty": "Aucune carte de mots disponible."
 }

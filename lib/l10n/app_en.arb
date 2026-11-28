@@ -316,5 +316,26 @@
         "type": "String"
       }
     }
-  }
+  },
+  "wordsTitle": "Word cards",
+  "wordsDescription": "Learn essential TOEIC business vocabulary.",
+  "wordsProgress": "{known} / {total} words known",
+  "@wordsProgress": {
+    "placeholders": {
+      "known": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "wordsTapToFlip": "Tap the card to see the meaning",
+  "wordsAgain": "Again",
+  "wordsKnown": "I know it",
+  "wordsExample": "Example",
+  "wordsFrench": "In French",
+  "wordsDone": "Deck complete! You know every word.",
+  "wordsRestart": "Start over",
+  "wordsEmpty": "No word cards available."
 }

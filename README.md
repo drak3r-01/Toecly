@@ -34,10 +34,14 @@ Elle fonctionne **entièrement hors ligne** : aucun compte, aucun appel réseau,
 | 🏋️ **Entraînement** | Parties 5, 6 et 7 au choix, nombre de questions libre, **correction immédiate** après chaque réponse. |
 | ⏱️ **Examen blanc** | Format officiel : **100 questions en 75 minutes**, correction **à la fin**. |
 | 🔁 **Révision** | Les questions ratées sont conservées (jusqu'à 500) pour les retravailler. |
+| 🎯 **Objectif quotidien** | Nombre de questions par jour au choix, anneau de progression et **série de jours** sur l'accueil. |
+| ⏸️ **Reprise de session** | Une session interrompue (retour Android, application fermée) se reprend là où tu t'es arrêté. |
+| 🧭 **Points faibles** | Les catégories où ton taux de réussite est le plus bas, avec un entraînement ciblé en un clic. |
+| 🃏 **Cartes de mots** | Vocabulaire professionnel du TOEIC en flashcards (50 mots pour l'instant). |
 | 📊 **Score estimé** | Approximation par paliers à partir de ton taux de réussite : score Reading /495, aussi présenté ×2 sur /990. |
 | 🔀 **Réponses mélangées** | L'ordre des choix change à chaque tirage : impossible de retenir « la réponse B ». |
 | 🌍 **Interface FR / EN** | Langue du système par défaut, réglable à la main. Explications des questions en anglais. |
-| 🎨 **Thèmes clair et sombre** | Palette chaude, dégradés pastel, écran de démarrage animé. |
+| 🎨 **Thèmes clair et sombre** | Palette chaude, dégradés pastel, barre de navigation flottante, animations, taille du texte réglable. |
 | 📴 **100 % hors ligne** | Questions embarquées dans l'application, progression stockée localement. |
 
 ## 📚 Banque de questions
@@ -133,6 +137,10 @@ partie 6, 10 exercices simples et 5 multiples de partie 7 (100 questions, 75 min
 
 Pour une nouvelle partie (ex. listening), créer le dossier `assets/questions/partN/` et l'ajouter à `assets:` dans `pubspec.yaml`
 (Flutter ne lit pas les sous-dossiers récursivement).
+
+### Cartes de mots
+
+Même principe dans `assets/words/` : un fichier `.json` par lot, format décrit dans [assets/words/README.md](assets/words/README.md), vérifié par `dart run tool/validate_words.dart`.
 
 ## 🔐 Signer l'APK (une seule fois)
 
