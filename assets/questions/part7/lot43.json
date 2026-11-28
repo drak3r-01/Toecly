@@ -1,0 +1,338 @@
+[
+  {
+    "id": "p7-407",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Rowan Bakeries to Drop Plastic Wrapping",
+        "text": "Rowan Bakeries, founded in 1987 by the Collins family and now employing about 420 people, has announced that it will stop selling plastic-wrapped bread in all 48 of its shops by the end of June. [A] The company, which sells roughly 90,000 loaves a week, will switch to paper bags and encourage customers to bring their own containers. [B] Chief executive Maya Collins said the decision followed a survey in which 71 percent of customers said they would accept a small price increase for greener packaging. Paper bags cost the firm about three times as much as plastic, and bread wrapped in paper stays fresh for a shorter time. [C] To limit waste, the bakeries will bake smaller batches in the afternoon and give unsold bread to a local food bank. Critics, however, argue that paper production has its own environmental cost and that the change will make little difference unless the large supermarkets follow. [D] Ms. Collins accepted the point but said that someone had to go first."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"The change may therefore leave more loaves unsold at the end of each day.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence follows the remark that paper-wrapped bread goes stale sooner and introduces the measures 'to limit waste', so it belongs at [C]."
+      },
+      {
+        "prompt": "What is the article mainly about?",
+        "category": "main_idea",
+        "choices": [
+          "A bakery chain's move to greener packaging",
+          "A rise in the price of bread in local shops",
+          "A campaign against supermarkets selling bread",
+          "A new method of baking bread in small batches"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article reports on Rowan Bakeries replacing plastic wrapping with paper and the reasons and reactions."
+      },
+      {
+        "prompt": "What can be inferred about Rowan Bakeries' decision?",
+        "category": "inference",
+        "choices": [
+          "It was forced on the company by new laws",
+          "It will raise the company's costs",
+          "It was opposed by most of its customers",
+          "It will reduce the number of its shops"
+        ],
+        "answerIndex": 1,
+        "explanation": "Paper bags cost about three times as much as plastic, and the survey implies customers may accept a small price increase."
+      },
+      {
+        "prompt": "What is NOT stated about the critics?",
+        "category": "not_true",
+        "choices": [
+          "They think the change will have limited effect",
+          "They say customers will stop buying the bread",
+          "They mention the cost of making paper",
+          "They want large supermarkets to follow"
+        ],
+        "answerIndex": 1,
+        "explanation": "The critics' points are that paper has an environmental cost and that supermarkets must follow; nothing is said about customers abandoning the bread."
+      }
+    ]
+  },
+  {
+    "id": "p7-408",
+    "documents": [
+      {
+        "type": "email",
+        "title": "Lift maintenance in Block C",
+        "text": "To: All residents of Block C\nFrom: Alicia Berg, Facilities Manager\nSubject: Lift maintenance in Block C\n\nDear residents,\n\n[A] The lifts in Block C will be out of service from 9 to 11 April while the control systems are replaced. [B] During this period, deliveries to the upper floors will be handled by the concierge, who will carry parcels up by hand. [C] Residents with limited mobility should contact me before 4 April, so that we can arrange temporary accommodation in Block A for those three days. [D] We know that the work is inconvenient, but the present lifts have broken down four times this year, and the new system should put an end to the problem.\n\nPlease remember to remove bicycles and other items from the lift lobbies on each floor before 9 April, so that the engineers have clear access. Updates will be posted on the notice board in the main entrance hall.\n\nThank you for your patience.\n\nAlicia Berg"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"Anyone expecting a large item of furniture should ask for it to be delivered on another date, since the concierge cannot carry heavy loads.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "The sentence refers to the concierge and to deliveries, so it must follow the sentence that introduces the concierge's role: [C]."
+      },
+      {
+        "prompt": "Why is Ms. Berg writing to the residents?",
+        "category": "purpose",
+        "choices": [
+          "To announce that the lifts will be removed",
+          "To warn them of a temporary loss of the lifts",
+          "To ask for contributions towards new equipment",
+          "To report a fault that has just been repaired"
+        ],
+        "answerIndex": 1,
+        "explanation": "She announces that the lifts will be out of service from 9 to 11 April and describes arrangements."
+      },
+      {
+        "prompt": "What can be inferred about the present lifts?",
+        "category": "inference",
+        "choices": [
+          "They were installed within the past year",
+          "They are too small for furniture deliveries",
+          "They cannot be used by people with limited mobility",
+          "They have been unreliable for some time"
+        ],
+        "answerIndex": 3,
+        "explanation": "They have 'broken down four times this year', which is why the control systems are being replaced."
+      },
+      {
+        "prompt": "The word \"temporary\" in the e-mail is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "short-term",
+          "inexpensive",
+          "shared",
+          "unofficial"
+        ],
+        "answerIndex": 0,
+        "explanation": "Temporary accommodation for three days is accommodation for a limited period only."
+      }
+    ]
+  },
+  {
+    "id": "p7-409",
+    "documents": [
+      {
+        "type": "review",
+        "title": "Light and comfortable, but short on pockets",
+        "text": "I bought the Trailmate 45 for a ten-day trek in the Pyrenees and used it every day of the trip. The pack is light, at 1.3 kilograms, and the adjustable back panel allowed me to fit it exactly to my torso, which spared me the shoulder pain that I had suffered with my previous bag. The rain cover, which is included, kept everything dry through two days of heavy storms. Where the pack disappoints is in its organisation: there is only one main compartment, and the single side pocket will not hold a standard water bottle unless it is slim. By the sixth day, one of the zips had begun to stick, although it never failed completely. At 140 euros it is not cheap, but it costs less than comparable models from better-known brands, and I would buy it again. I would, however, advise anyone carrying a laptop or camera equipment to look elsewhere, since there is no padded pocket."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the reviewer's overall opinion of the backpack?",
+        "category": "main_idea",
+        "choices": [
+          "Strongly negative, despite its low weight",
+          "Neutral, because it was used only briefly",
+          "Favourable, with a few reservations",
+          "Enthusiastic, with no faults to report"
+        ],
+        "answerIndex": 2,
+        "explanation": "The reviewer praises comfort, weight and the rain cover, lists some shortcomings, and says he would buy it again."
+      },
+      {
+        "prompt": "Who would probably be advised NOT to buy this backpack?",
+        "category": "inference",
+        "choices": [
+          "A walker who often suffers from shoulder pain",
+          "A hiker who wants a light pack",
+          "Someone carrying fragile electronic devices",
+          "A customer with a fairly limited budget"
+        ],
+        "answerIndex": 2,
+        "explanation": "The reviewer says that people carrying a laptop or camera equipment should look elsewhere because there is no padded pocket."
+      },
+      {
+        "prompt": "What is NOT mentioned as a weakness of the backpack?",
+        "category": "not_true",
+        "choices": [
+          "The side pocket is rather too narrow",
+          "One zip started to stick by day six",
+          "There is only one main compartment",
+          "The price is above rivals' prices"
+        ],
+        "answerIndex": 3,
+        "explanation": "The review says it is cheaper than comparable models from better-known brands. The other three points are complaints."
+      },
+      {
+        "prompt": "The word \"spared\" in the review is closest in meaning to",
+        "category": "vocabulary_in_context",
+        "choices": [
+          "offered",
+          "saved",
+          "forgiven",
+          "punished"
+        ],
+        "answerIndex": 1,
+        "explanation": "The pack 'spared me the shoulder pain', meaning it saved the reviewer from it."
+      }
+    ]
+  },
+  {
+    "id": "p7-410",
+    "documents": [
+      {
+        "type": "notice",
+        "title": "Careers Fair at Kendal College",
+        "text": "CAREERS FAIR AT KENDAL COLLEGE\nThursday 6 November, 10:00 to 16:00, Main Hall\n\nMore than sixty employers from engineering, healthcare, finance and hospitality will be present. Students and alumni of the college may attend free of charge; other visitors pay 5 euros at the door. Visitors who register online beforehand avoid the queue at the entrance and receive a free CV review at the Careers Desk, which is otherwise charged at 10 euros.\n\nProgramme: 10:30, talk, \"Writing a CV that works\" (Room 2); 12:00, panel, \"Starting a career in healthcare\" (Main Hall); 14:00, workshop, \"Interview techniques\" (limited to thirty places; sign up at the fair).\n\nPlease bring several printed copies of your CV. Printing is available at the library at 10 cents per page. Refreshments are available at the college cafe throughout the day. Visitors are advised to arrive early, since the busiest period is usually between 11:00 and 13:00. There is no parking at the college, but a free shuttle bus runs from Kendal station every 15 minutes."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much would a visitor from another college pay in total for the fair and a CV review, if she registers online?",
+        "category": "detail",
+        "choices": [
+          "15 euros",
+          "10 euros",
+          "Nothing",
+          "5 euros"
+        ],
+        "answerIndex": 3,
+        "explanation": "Other visitors pay 5 euros at the door, and registering online brings a free CV review, so the total is 5 euros."
+      },
+      {
+        "prompt": "What is suggested about the interview workshop?",
+        "category": "inference",
+        "choices": [
+          "Not everyone who wants to attend will be able to",
+          "It will be held only for graduates of the college",
+          "It must be paid for in advance by registered visitors",
+          "It is the main event of the fair"
+        ],
+        "answerIndex": 0,
+        "explanation": "It is limited to thirty places, and places are allocated by signing up at the fair."
+      },
+      {
+        "prompt": "What is NOT stated in the notice?",
+        "category": "not_true",
+        "choices": [
+          "Printed CVs should be brought to the fair",
+          "Visitors can park near the Main Hall",
+          "A shuttle bus serves the railway station",
+          "The fair will last for six hours"
+        ],
+        "answerIndex": 1,
+        "explanation": "The notice says there is no parking at the college. The fair runs from 10:00 to 16:00, six hours."
+      }
+    ]
+  },
+  {
+    "id": "p7-411",
+    "documents": [
+      {
+        "type": "article",
+        "title": "Tidal Power Pilot Completes First Year",
+        "text": "A pilot tidal power station in the Kessling Strait has produced electricity continuously for twelve months, its operators reported this week. The strait, which separates the mainland from Orsay Island, has some of the strongest tidal currents in the region, with water moving at up to four metres per second. [A] The five turbines, anchored to the seabed, generated enough power for about 3,200 homes, which was 12 percent more than forecast. [B] Engineers had feared that marine growth would clog the blades, but a special coating has so far kept them clean. [C] Fishermen's groups were initially opposed to the project, arguing that it would disturb fish. Monitoring cameras, however, have recorded no change in fish numbers near the turbines. [D] The company now hopes to build a farm of fifty turbines, which would require approval from the regional government and an investment of around 180 million euros. Environmental groups have welcomed the results but are calling for a further year of monitoring before any expansion is approved."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "In which position marked [A], [B], [C] or [D] does the following sentence best belong? \"This was a particular relief, since cleaning would have required divers and frequent shutdowns.\"",
+        "category": "sentence_insertion",
+        "choices": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "answerIndex": 2,
+        "explanation": "'This' refers to the coating that keeps the blades clean, so the sentence belongs right after that statement, at [C]."
+      },
+      {
+        "prompt": "What is the main idea of the article?",
+        "category": "main_idea",
+        "choices": [
+          "Fishermen have succeeded in stopping a power project",
+          "A tidal power station has failed because of marine growth",
+          "A tidal trial has met its goals and may grow",
+          "The regional government has approved fifty new turbines"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article reports a successful first year, then the company's hopes of expansion."
+      },
+      {
+        "prompt": "What can be inferred about the proposed farm of fifty turbines?",
+        "category": "inference",
+        "choices": [
+          "It will be built in a different strait",
+          "It still lacks permission to go ahead",
+          "It will be operated by the fishermen's groups",
+          "It will use a different coating on the blades"
+        ],
+        "answerIndex": 1,
+        "explanation": "It would require approval from the regional government, and environmental groups want another year of monitoring before expansion is approved."
+      },
+      {
+        "prompt": "What is NOT true according to the article?",
+        "category": "not_true",
+        "choices": [
+          "The station produced more power than predicted",
+          "The turbines have remained free of marine growth",
+          "Environmental groups have welcomed the results",
+          "Fish numbers have fallen near the turbines"
+        ],
+        "answerIndex": 3,
+        "explanation": "Monitoring cameras 'have recorded no change in fish numbers'."
+      }
+    ]
+  },
+  {
+    "id": "p7-412",
+    "documents": [
+      {
+        "type": "advertisement",
+        "title": "Evening Pottery at Clayworks Studio",
+        "text": "CLAYWORKS STUDIO | Evening pottery for beginners\n\nThe studio's owner, Dana Whitlock, has been teaching ceramics for more than fifteen years. Spend eight Tuesday evenings, from 18:30 to 20:30, learning to shape, decorate and glaze your own pottery. No experience is necessary, and classes are limited to ten students so that everyone receives personal attention.\n\nThe course fee of 160 euros includes all clay, glazes and the firing of up to six pieces. Additional pieces can be fired for 5 euros each. Aprons are provided, but students should wear clothing that they do not mind getting dirty.\n\nFinished pieces are fired after the last class and will be ready for collection two weeks later. Pieces not collected within three months will be donated to local schools.\n\nCancel at least seven days before the course begins for a full refund. Gift vouchers are available at the studio or on our website and are valid for twelve months. Book early: the last two courses were full a month before they started."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "How much would a student pay who makes nine pieces to be fired?",
+        "category": "detail",
+        "choices": [
+          "160 euros",
+          "205 euros",
+          "175 euros",
+          "195 euros"
+        ],
+        "answerIndex": 2,
+        "explanation": "The fee covers six pieces; the three additional pieces cost 3 x 5 = 15 euros, so the total is 175 euros."
+      },
+      {
+        "prompt": "What can be inferred about the studio's courses?",
+        "category": "inference",
+        "choices": [
+          "They are popular with local residents",
+          "They are suitable only for experienced potters",
+          "They are cheaper than the courses of other studios",
+          "They are held on several evenings each week"
+        ],
+        "answerIndex": 0,
+        "explanation": "The last two courses were full a month before they started, which suggests strong demand."
+      },
+      {
+        "prompt": "What happens to pieces that are not collected?",
+        "category": "detail",
+        "choices": [
+          "They are sold at the studio's shop",
+          "They are kept for a year",
+          "They are destroyed after two weeks",
+          "They go to local schools"
+        ],
+        "answerIndex": 3,
+        "explanation": "The advertisement says that pieces not collected within three months will be donated to local schools."
+      }
+    ]
+  }
+]
