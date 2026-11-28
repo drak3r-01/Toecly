@@ -432,4 +432,19 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get hapticsHint => 'A light vibration when you answer a question.';
+
+  @override
+  String get textSizeLabel => 'Text size';
+
+  @override
+  String get textSizeSmall => 'Small';
+
+  @override
+  String get textSizeNormal => 'Normal';
+
+  @override
+  String get textSizeLarge => 'Large';
+
+  @override
+  String get textSizeHuge => 'Huge';
 }

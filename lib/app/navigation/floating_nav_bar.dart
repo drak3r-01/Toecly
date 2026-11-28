@@ -21,62 +21,67 @@ class FloatingNavBar extends StatelessWidget {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     const destinations = AppDestination.values;
 
-    return SafeArea(
-      child: Padding(
-        padding: const EdgeInsets.fromLTRB(16, 4, 16, 12),
-        child: Container(
-          height: _height,
-          padding: const EdgeInsets.all(_inset),
-          decoration: BoxDecoration(
-            color: scheme.surfaceContainerLow,
-            borderRadius: BorderRadius.circular(_height),
-            border: Border.all(color: scheme.primary.withValues(alpha: isDark ? 0.2 : 0.14)),
-            boxShadow: [
-              BoxShadow(
-                color: scheme.primary.withValues(alpha: isDark ? 0.14 : 0.22),
-                blurRadius: 28,
-                offset: const Offset(0, 10),
-              ),
-            ],
-          ),
-          child: LayoutBuilder(
-            builder: (context, constraints) {
-              final slot = constraints.maxWidth / destinations.length;
-              return Stack(
-                children: [
-                  AnimatedPositioned(
-                    duration: const Duration(milliseconds: 450),
-                    curve: Curves.easeOutBack,
-                    left: slot * selectedIndex,
-                    width: slot,
-                    top: 0,
-                    bottom: 0,
-                    child: DecoratedBox(
-                      decoration: BoxDecoration(
-                        borderRadius: BorderRadius.circular(_height),
-                        gradient: LinearGradient(
-                          colors: [scheme.primaryContainer, scheme.primary.withValues(alpha: 0.55)],
+    return MediaQuery.withNoTextScaling(
+      child: SafeArea(
+        child: Padding(
+          padding: const EdgeInsets.fromLTRB(16, 4, 16, 12),
+          child: Container(
+            height: _height,
+            padding: const EdgeInsets.all(_inset),
+            decoration: BoxDecoration(
+              color: scheme.surfaceContainerLow,
+              borderRadius: BorderRadius.circular(_height),
+              border: Border.all(color: scheme.primary.withValues(alpha: isDark ? 0.2 : 0.14)),
+              boxShadow: [
+                BoxShadow(
+                  color: scheme.primary.withValues(alpha: isDark ? 0.14 : 0.22),
+                  blurRadius: 28,
+                  offset: const Offset(0, 10),
+                ),
+              ],
+            ),
+            child: LayoutBuilder(
+              builder: (context, constraints) {
+                final slot = constraints.maxWidth / destinations.length;
+                return Stack(
+                  children: [
+                    AnimatedPositioned(
+                      duration: const Duration(milliseconds: 450),
+                      curve: Curves.easeOutBack,
+                      left: slot * selectedIndex,
+                      width: slot,
+                      top: 0,
+                      bottom: 0,
+                      child: DecoratedBox(
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(_height),
+                          gradient: LinearGradient(
+                            colors: [
+                              scheme.primaryContainer,
+                              scheme.primary.withValues(alpha: 0.55),
+                            ],
+                          ),
                         ),
                       ),
                     ),
-                  ),
-                  Row(
-                    children: [
-                      for (final (i, d) in destinations.indexed)
-                        Expanded(
-                          child: _NavItem(
-                            icon: d.icon,
-                            selectedIcon: d.selectedIcon,
-                            label: d.label(l10n),
-                            selected: i == selectedIndex,
-                            onTap: () => onSelected(i),
+                    Row(
+                      children: [
+                        for (final (i, d) in destinations.indexed)
+                          Expanded(
+                            child: _NavItem(
+                              icon: d.icon,
+                              selectedIcon: d.selectedIcon,
+                              label: d.label(l10n),
+                              selected: i == selectedIndex,
+                              onTap: () => onSelected(i),
+                            ),
                           ),
-                        ),
-                    ],
-                  ),
-                ],
-              );
-            },
+                      ],
+                    ),
+                  ],
+                );
+              },
+            ),
           ),
         ),
       ),

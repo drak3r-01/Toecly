@@ -260,5 +260,10 @@
   "summaryOk": "Getting there. Replay your misses to lock them in.",
   "summaryKeep": "Every mistake is a lesson. Review them and try again.",
   "hapticsLabel": "Vibrations",
-  "hapticsHint": "A light vibration when you answer a question."
+  "hapticsHint": "A light vibration when you answer a question.",
+  "textSizeLabel": "Text size",
+  "textSizeSmall": "Small",
+  "textSizeNormal": "Normal",
+  "textSizeLarge": "Large",
+  "textSizeHuge": "Huge"
 }

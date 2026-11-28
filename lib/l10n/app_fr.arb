@@ -260,5 +260,10 @@
   "summaryOk": "Tu y es presque. Rejoue tes erreurs pour les fixer.",
   "summaryKeep": "Chaque erreur est une leçon. Révise-les et réessaie.",
   "hapticsLabel": "Vibrations",
-  "hapticsHint": "Une légère vibration quand tu réponds à une question."
+  "hapticsHint": "Une légère vibration quand tu réponds à une question.",
+  "textSizeLabel": "Taille du texte",
+  "textSizeSmall": "Petit",
+  "textSizeNormal": "Normal",
+  "textSizeLarge": "Grand",
+  "textSizeHuge": "Très grand"
 }

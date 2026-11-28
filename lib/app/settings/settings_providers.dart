@@ -52,3 +52,30 @@ class HapticsNotifier extends Notifier<bool> {
 }
 
 final hapticsProvider = NotifierProvider<HapticsNotifier, bool>(HapticsNotifier.new);
+
+/// Reading text size, applied on top of the system font scale.
+enum TextSize {
+  small(0.9),
+  normal(1),
+  large(1.15),
+  huge(1.3);
+
+  const TextSize(this.factor);
+
+  final double factor;
+}
+
+class TextSizeNotifier extends Notifier<TextSize> {
+  static const _key = 'text_size';
+
+  @override
+  TextSize build() =>
+      TextSize.values.asNameMap()[ref.read(localStoreProvider).read(_key)] ?? TextSize.normal;
+
+  Future<void> set(TextSize size) {
+    state = size;
+    return ref.read(localStoreProvider).write(_key, size.name);
+  }
+}
+
+final textSizeProvider = NotifierProvider<TextSizeNotifier, TextSize>(TextSizeNotifier.new);
