@@ -28,6 +28,7 @@ class DashboardScreen extends ConsumerWidget {
     final stats = ref.watch(partStatsProvider);
     final sessions = ref.watch(sessionHistoryProvider).loadAll().length;
     final last = ref.watch(lastPracticeProvider).load();
+    final unfinished = ref.watch(quizProgressProvider).load();
     final l10n = AppLocalizations.of(context);
     final theme = Theme.of(context);
     final readingParts = ToeicPart.readingParts;
@@ -46,14 +47,11 @@ class DashboardScreen extends ConsumerWidget {
           padding: const EdgeInsets.all(24),
           children: [
             FadeSlideIn(
-              child: Text(
-                switch (clock.now().hour) {
-                  < 5 || >= 18 => l10n.greetingEvening,
-                  < 12 => l10n.greetingMorning,
-                  _ => l10n.greetingAfternoon,
-                },
-                style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary),
-              ),
+              child: Text(switch (clock.now().hour) {
+                < 5 || >= 18 => l10n.greetingEvening,
+                < 12 => l10n.greetingMorning,
+                _ => l10n.greetingAfternoon,
+              }, style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary)),
             ),
             FadeSlideIn(
               delay: const Duration(milliseconds: 40),
@@ -65,20 +63,28 @@ class DashboardScreen extends ConsumerWidget {
               child: _ScoreHero(range: range, answered: answered, sessions: sessions),
             ),
             const SizedBox(height: 16),
-            FadeSlideIn(
-              delay: const Duration(milliseconds: 120),
-              child: const _DailyGoalCard(),
-            ),
+            FadeSlideIn(delay: const Duration(milliseconds: 120), child: const _DailyGoalCard()),
             const SizedBox(height: 16),
             FadeSlideIn(
               delay: const Duration(milliseconds: 160),
-              child: FilledButton.icon(
-                onPressed: () => last == null
-                    ? context.go(AppDestination.practice.path)
-                    : context.push(last.location),
-                icon: const Icon(Icons.play_arrow),
-                label: Text(l10n.resumePractice),
-              ),
+              child: unfinished == null
+                  ? FilledButton.icon(
+                      onPressed: () => last == null
+                          ? context.go(AppDestination.practice.path)
+                          : context.push(last.location),
+                      icon: const Icon(Icons.play_arrow),
+                      label: Text(l10n.resumePractice),
+                    )
+                  : FilledButton.icon(
+                      onPressed: () => context.push('${unfinished.location}&resume=1'),
+                      icon: const Icon(Icons.play_circle_outline),
+                      label: Text(
+                        l10n.dashboardResumeSession(
+                          unfinished.answeredCount,
+                          unfinished.totalQuestions,
+                        ),
+                      ),
+                    ),
             ),
             const SizedBox(height: 16),
             for (final (i, part) in readingParts.indexed)
@@ -238,10 +244,7 @@ class _ScoreHero extends StatelessWidget {
           style: theme.textTheme.headlineSmall,
         ),
         const SizedBox(height: 4),
-        Text(
-          l10n.estimatedScoreDisclaimer,
-          style: theme.textTheme.bodySmall,
-        ),
+        Text(l10n.estimatedScoreDisclaimer, style: theme.textTheme.bodySmall),
         const SizedBox(height: 16),
         Wrap(
           spacing: 8,
@@ -301,10 +304,7 @@ class _HeroChip extends StatelessWidget {
             Icon(icon, size: 18, color: Theme.of(context).colorScheme.primary),
             const SizedBox(width: 6),
             Flexible(
-              child: Text(
-                label,
-                style: const TextStyle(fontWeight: FontWeight.w600),
-              ),
+              child: Text(label, style: const TextStyle(fontWeight: FontWeight.w600)),
             ),
           ],
         ),

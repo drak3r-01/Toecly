@@ -91,15 +91,21 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
 
 /// A review session on the missed questions.
 class ReviewSessionScreen extends ConsumerWidget {
-  const ReviewSessionScreen({super.key, required this.questionCount});
+  const ReviewSessionScreen({super.key, required this.questionCount, this.resume = false});
 
   final int questionCount;
+  final bool resume;
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) => QuizSessionScreen(
-    draw: ref.watch(reviewDrawProvider(questionCount)),
-    mode: SessionMode.review,
-    leaveTo: AppDestination.review,
-    leaveLabel: AppLocalizations.of(context).quizBackToReview,
-  );
+  Widget build(BuildContext context, WidgetRef ref) {
+    final source = resumeOrDraw(ref, resume, () => ref.watch(reviewDrawProvider(questionCount)));
+    return QuizSessionScreen(
+      draw: source.draw,
+      initial: source.initial,
+      location: '${ReviewScreen.sessionPath}?count=$questionCount',
+      mode: SessionMode.review,
+      leaveTo: AppDestination.review,
+      leaveLabel: AppLocalizations.of(context).quizBackToReview,
+    );
+  }
 }

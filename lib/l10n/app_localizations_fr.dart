@@ -476,4 +476,25 @@ class AppLocalizationsFr extends AppLocalizations {
     );
     return '$_temp0';
   }
+
+  @override
+  String get quizLeaveTitle => 'Quitter cette session ?';
+
+  @override
+  String get quizLeaveMessage =>
+      'Tes réponses sont déjà enregistrées. Tu peux reprendre là où tu t\'es arrêté depuis l\'accueil.';
+
+  @override
+  String get quizLeaveStay => 'Continuer';
+
+  @override
+  String get quizLeaveSave => 'Quitter, reprendre plus tard';
+
+  @override
+  String get quizLeaveDiscard => 'Abandonner';
+
+  @override
+  String dashboardResumeSession(int done, int total) {
+    return 'Reprendre ta session ($done / $total)';
+  }
 }

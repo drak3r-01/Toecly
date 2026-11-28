@@ -157,6 +157,7 @@ Future<void> _confirmReset(BuildContext context, WidgetRef ref) async {
   await ref.read(lastPracticeProvider).clear();
   await ref.read(seenQuestionsProvider).clear();
   await ref.read(examProgressProvider).clear();
+  await ref.read(quizProgressProvider).clear();
   await ref.read(dailyProgressProvider).clear();
   ref.read(dataRevisionProvider.notifier).bump(); // theme and language are kept
 }

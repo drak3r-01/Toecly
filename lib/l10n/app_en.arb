@@ -287,5 +287,21 @@
         "type": "int"
       }
     }
+  },
+  "quizLeaveTitle": "Leave this session?",
+  "quizLeaveMessage": "Your answers are already saved. You can pick up where you stopped from the home screen.",
+  "quizLeaveStay": "Keep going",
+  "quizLeaveSave": "Leave, resume later",
+  "quizLeaveDiscard": "Quit for good",
+  "dashboardResumeSession": "Resume your session ({done} / {total})",
+  "@dashboardResumeSession": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
   }
 }

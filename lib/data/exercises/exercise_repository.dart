@@ -2,6 +2,8 @@ import 'dart:math';
 
 import '../../core/toeic_part.dart';
 import '../quiz/exam_snapshot.dart';
+import '../quiz/quiz_snapshot.dart';
+import '../quiz/quiz_session.dart';
 import 'mock_exam_blueprint.dart';
 import 'models.dart';
 
@@ -83,6 +85,11 @@ class ExerciseRepository {
   /// Rebuilds a saved exam, or null if the bank changed too much to reproduce it.
   Future<List<Exercise>?> restoreExam(ExamSnapshot snapshot) async =>
       snapshot.restore(await _all());
+
+  /// Rebuilds a saved practice/review session, or null if it cannot be reproduced.
+  Future<({List<Exercise> exercises, QuizSession session})?> restoreQuiz(
+    QuizSnapshot snapshot,
+  ) async => snapshot.restore(await _all());
 
   /// Finds the exercises owning the given question ids (review mode).
   /// Unknown ids are ignored; each exercise appears once.

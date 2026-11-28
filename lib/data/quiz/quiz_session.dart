@@ -6,6 +6,17 @@ import '../exercises/models.dart';
 class QuizSession {
   QuizSession(List<Exercise> exercises) : exercises = List.unmodifiable(exercises);
 
+  /// A session picked up where it stopped.
+  factory QuizSession.restore(
+    List<Exercise> exercises, {
+    required Map<String, int> answers,
+    required int exerciseIndex,
+    required int questionIndex,
+  }) => QuizSession(exercises)
+    .._answers.addAll(answers)
+    .._exerciseIndex = exerciseIndex
+    .._questionIndex = questionIndex;
+
   final List<Exercise> exercises;
   final Map<String, int> _answers = {};
   int _exerciseIndex = 0;
@@ -16,6 +27,8 @@ class QuizSession {
 
   Exercise get exercise => exercises[_exerciseIndex];
   int get questionIndex => _questionIndex;
+  int get exerciseIndex => _exerciseIndex;
+  Map<String, int> get answers => Map.unmodifiable(_answers);
   Question get question => exercise.questions[_questionIndex];
 
   int get totalQuestions => exercises.fold(0, (sum, e) => sum + e.questions.length);

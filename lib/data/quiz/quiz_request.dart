@@ -4,7 +4,7 @@ import '../../core/toeic_part.dart';
 /// Encoded in the `/quiz` URL so a session can be opened from any screen.
 class QuizRequest {
   QuizRequest({required Iterable<ToeicPart> parts, required this.questionCount})
-      : parts = (parts.toList()..sort((a, b) => a.number.compareTo(b.number)));
+    : parts = (parts.toList()..sort((a, b) => a.number.compareTo(b.number)));
 
   final List<ToeicPart> parts;
   final int questionCount;
@@ -27,8 +27,7 @@ class QuizRequest {
     );
   }
 
-  String get location =>
-      '/quiz?parts=${parts.map((p) => p.number).join(',')}&count=$questionCount';
+  String get location => '/quiz?parts=${parts.map((p) => p.number).join(',')}&count=$questionCount';
 
   @override
   bool operator ==(Object other) =>
