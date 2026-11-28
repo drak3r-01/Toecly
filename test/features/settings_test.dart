@@ -19,19 +19,23 @@ Future<InMemoryStore> _seededSettings(WidgetTester tester) async {
   final store = InMemoryStore();
   await PartStatsRepository(store).recordAnswer(ToeicPart.part5, isCorrect: false);
   await MissedQuestionsRepository(store).markMissed('q1');
-  await SessionHistoryRepository(store).add(SessionRecord(
-    mode: SessionMode.practice,
-    finishedAt: DateTime.utc(2026),
-    parts: {ToeicPart.part5},
-    totalQuestions: 1,
-    correctAnswers: 0,
-    durationSeconds: 5,
-  ));
+  await SessionHistoryRepository(store).add(
+    SessionRecord(
+      mode: SessionMode.practice,
+      finishedAt: DateTime.utc(2026),
+      parts: {ToeicPart.part5},
+      totalQuestions: 1,
+      correctAnswers: 0,
+      durationSeconds: 5,
+    ),
+  );
   await store.write('theme_mode', 'dark');
-  await tester.pumpWidget(ProviderScope(
-    overrides: [localStoreProvider.overrideWithValue(store)],
-    child: const ToeclyApp(),
-  ));
+  await tester.pumpWidget(
+    ProviderScope(
+      overrides: [localStoreProvider.overrideWithValue(store)],
+      child: const ToeclyApp(),
+    ),
+  );
   await tester.pumpAndSettle();
   await tester.tap(find.text('Settings').last);
   await tester.pumpAndSettle();
@@ -64,5 +68,12 @@ void main() {
     await tester.tap(find.text('Home').last);
     await tester.pumpAndSettle();
     expect(find.text('Questions answered: 0'), findsOneWidget);
+  });
+
+  testWidgets('vibrations can be switched off and the choice is stored', (tester) async {
+    final store = await _seededSettings(tester);
+    await tester.tap(find.byType(Switch));
+    await tester.pumpAndSettle();
+    expect(store.read('haptics'), 'off');
   });
 }

@@ -404,4 +404,32 @@ class AppLocalizationsEn extends AppLocalizations {
   @override
   String get questionBankHint =>
       'Loaded on this device, counted when the app starts.';
+
+  @override
+  String get greetingMorning => 'Good morning';
+
+  @override
+  String get greetingAfternoon => 'Good afternoon';
+
+  @override
+  String get greetingEvening => 'Good evening';
+
+  @override
+  String get summaryGreat => 'Outstanding. That is a real C1 performance.';
+
+  @override
+  String get summaryGood => 'Solid work. Keep that rhythm going.';
+
+  @override
+  String get summaryOk => 'Getting there. Replay your misses to lock them in.';
+
+  @override
+  String get summaryKeep =>
+      'Every mistake is a lesson. Review them and try again.';
+
+  @override
+  String get hapticsLabel => 'Vibrations';
+
+  @override
+  String get hapticsHint => 'A light vibration when you answer a question.';
 }

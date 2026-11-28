@@ -251,5 +251,14 @@
     }
   },
   "questionBankTitle": "Banque de questions",
-  "questionBankHint": "Chargée sur cet appareil, comptée au démarrage de l'application."
+  "questionBankHint": "Chargée sur cet appareil, comptée au démarrage de l'application.",
+  "greetingMorning": "Bonjour",
+  "greetingAfternoon": "Bon après-midi",
+  "greetingEvening": "Bonsoir",
+  "summaryGreat": "Remarquable. C'est une vraie performance de niveau C1.",
+  "summaryGood": "Du bon travail. Garde ce rythme.",
+  "summaryOk": "Tu y es presque. Rejoue tes erreurs pour les fixer.",
+  "summaryKeep": "Chaque erreur est une leçon. Révise-les et réessaie.",
+  "hapticsLabel": "Vibrations",
+  "hapticsHint": "Une légère vibration quand tu réponds à une question."
 }

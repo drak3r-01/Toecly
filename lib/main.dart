@@ -10,6 +10,6 @@ Future<void> main() async {
   final store = await SharedPreferencesStore.open();
   runApp(ProviderScope(
     overrides: [localStoreProvider.overrideWithValue(store)],
-    child: const ToeclyApp(showSplash: true),
+    child: const ToeclyApp(showSplash: true, animateBackground: true),
   ));
 }

@@ -24,7 +24,7 @@ GoRouter createAppRouter() {
     routes: [
       GoRoute(
         path: '/quiz',
-        pageBuilder: (context, state) => fadeSlidePage(
+        pageBuilder: (context, state) => expandPage(
           state: state,
           child: QuizScreen(
             request: QuizRequest.fromQuery(state.uri.queryParameters),
@@ -33,7 +33,7 @@ GoRouter createAppRouter() {
       ),
       GoRoute(
         path: ReviewScreen.sessionPath,
-        pageBuilder: (context, state) => fadeSlidePage(
+        pageBuilder: (context, state) => expandPage(
           state: state,
           child: ReviewSessionScreen(
             questionCount: int.tryParse(state.uri.queryParameters['count'] ?? '') ?? 10,
@@ -42,7 +42,7 @@ GoRouter createAppRouter() {
       ),
       GoRoute(
         path: ExamScreen.path,
-        pageBuilder: (context, state) => fadeSlidePage(
+        pageBuilder: (context, state) => expandPage(
           state: state,
           child: ExamScreen(resume: state.uri.queryParameters['resume'] == '1'),
         ),

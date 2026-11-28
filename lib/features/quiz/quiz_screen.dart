@@ -6,6 +6,7 @@ import '../../app/navigation/app_destination.dart';
 import '../../app/providers.dart';
 import '../../core/widgets/animated_progress_bar.dart';
 import '../../core/widgets/brand_hero_card.dart';
+import '../../core/widgets/confetti_burst.dart';
 import '../../core/widgets/score_gauge.dart';
 import '../../data/exercises/models.dart';
 import '../../data/quiz/quiz_request.dart';
@@ -22,11 +23,11 @@ class QuizScreen extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) => QuizSessionScreen(
-        draw: ref.watch(quizDrawProvider(request)),
-        mode: SessionMode.practice,
-        leaveTo: AppDestination.practice,
-        leaveLabel: AppLocalizations.of(context).quizBackToPractice,
-      );
+    draw: ref.watch(quizDrawProvider(request)),
+    mode: SessionMode.practice,
+    leaveTo: AppDestination.practice,
+    leaveLabel: AppLocalizations.of(context).quizBackToPractice,
+  );
 }
 
 /// Runs a session with immediate correction on drawn exercises, recording
@@ -72,21 +73,23 @@ class QuizSessionScreen extends ConsumerWidget {
                   exercises: exercises,
                   onLeave: leave,
                   leaveLabel: leaveLabel,
-                  onAnswered: (exercise, question, isCorrect) =>
-                      ref.read(answerRecorderProvider).recordAnswer(
-                            exercise,
-                            question,
-                            isCorrect: isCorrect,
-                            masterOnCorrect: mode == SessionMode.review,
-                          ),
-                  onFinished: (session, duration) =>
-                      ref.read(answerRecorderProvider).recordSession(
-                            mode: mode,
-                            exercises: session.exercises,
-                            totalQuestions: session.totalQuestions,
-                            correctAnswers: session.correctCount,
-                            duration: duration,
-                          ),
+                  onAnswered: (exercise, question, isCorrect) => ref
+                      .read(answerRecorderProvider)
+                      .recordAnswer(
+                        exercise,
+                        question,
+                        isCorrect: isCorrect,
+                        masterOnCorrect: mode == SessionMode.review,
+                      ),
+                  onFinished: (session, duration) => ref
+                      .read(answerRecorderProvider)
+                      .recordSession(
+                        mode: mode,
+                        exercises: session.exercises,
+                        totalQuestions: session.totalQuestions,
+                        correctAnswers: session.correctCount,
+                        duration: duration,
+                      ),
                 ),
         ),
       ),
@@ -154,35 +157,43 @@ class _QuizViewState extends State<QuizView> {
     }
 
     final total = session.totalQuestions;
-    return Column(children: [
-      Padding(
-        padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
-        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          Text(l10n.quizQuestionCounter(session.answeredCount + 1, total)),
-          const SizedBox(height: 6),
-          AnimatedProgressBar(value: session.answeredCount / total, height: 8),
-        ]),
-      ),
-      Expanded(
-        child: ExercisePage(
-          exercise: session.exercise,
-          questionIndex: session.questionIndex,
-          answers: {for (final q in session.exercise.questions) if (session.answerFor(q) != null) q.id: session.answerFor(q)!},
-          revealed: session.isCurrentAnswered,
-          onSelect: _select,
-        ),
-      ),
-      Padding(
-        padding: const EdgeInsets.all(16),
-        child: SizedBox(
-          width: double.infinity,
-          child: FilledButton(
-            onPressed: session.isCurrentAnswered ? _advance : null,
-            child: Text(session.isLastQuestion ? l10n.quizFinish : l10n.quizNext),
+    return Column(
+      children: [
+        Padding(
+          padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(l10n.quizQuestionCounter(session.answeredCount + 1, total)),
+              const SizedBox(height: 6),
+              AnimatedProgressBar(value: session.answeredCount / total, height: 8),
+            ],
           ),
         ),
-      ),
-    ]);
+        Expanded(
+          child: ExercisePage(
+            exercise: session.exercise,
+            questionIndex: session.questionIndex,
+            answers: {
+              for (final q in session.exercise.questions)
+                if (session.answerFor(q) != null) q.id: session.answerFor(q)!,
+            },
+            revealed: session.isCurrentAnswered,
+            onSelect: _select,
+          ),
+        ),
+        Padding(
+          padding: const EdgeInsets.all(16),
+          child: SizedBox(
+            width: double.infinity,
+            child: FilledButton(
+              onPressed: session.isCurrentAnswered ? _advance : null,
+              child: Text(session.isLastQuestion ? l10n.quizFinish : l10n.quizNext),
+            ),
+          ),
+        ),
+      ],
+    );
   }
 }
 
@@ -198,34 +209,57 @@ class _Summary extends StatelessWidget {
     final theme = Theme.of(context);
     final l10n = AppLocalizations.of(context);
     final total = session.totalQuestions;
+    final rate = session.correctCount / total;
     return Center(
       child: ConstrainedBox(
         constraints: const BoxConstraints(maxWidth: 480),
         child: Padding(
           padding: const EdgeInsets.all(24),
-          child: Column(mainAxisSize: MainAxisSize.min, children: [
-            Text(l10n.quizSummaryTitle, style: theme.textTheme.headlineSmall),
-            const SizedBox(height: 16),
-            BrandHeroCard(
-              child: Column(children: [
-                ScoreGauge(
-                  value: session.correctCount / total,
-                  size: 140,
-                  child: Text(
-                    '${(session.correctCount * 100 / total).round()}%',
-                    style: theme.textTheme.headlineMedium,
-                  ),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Text(l10n.quizSummaryTitle, style: theme.textTheme.headlineSmall),
+              const SizedBox(height: 16),
+              BrandHeroCard(
+                child: Stack(
+                  alignment: Alignment.topCenter,
+                  children: [
+                    if (rate >= 0.7) const Positioned.fill(child: ConfettiBurst(spread: 150)),
+                    Column(
+                      children: [
+                        ScoreGauge(
+                          value: session.correctCount / total,
+                          size: 140,
+                          child: Text(
+                            '${(session.correctCount * 100 / total).round()}%',
+                            style: theme.textTheme.headlineMedium,
+                          ),
+                        ),
+                        const SizedBox(height: 16),
+                        Text(
+                          l10n.quizSummaryScore(session.correctCount, total),
+                          style: theme.textTheme.displaySmall,
+                        ),
+                        const SizedBox(height: 8),
+                        Text(
+                          switch (rate) {
+                            >= 0.9 => l10n.summaryGreat,
+                            >= 0.7 => l10n.summaryGood,
+                            >= 0.5 => l10n.summaryOk,
+                            _ => l10n.summaryKeep,
+                          },
+                          textAlign: TextAlign.center,
+                          style: theme.textTheme.bodyLarge,
+                        ),
+                      ],
+                    ),
+                  ],
                 ),
-                const SizedBox(height: 16),
-                Text(
-                  l10n.quizSummaryScore(session.correctCount, total),
-                  style: theme.textTheme.displaySmall,
-                ),
-              ]),
-            ),
-            const SizedBox(height: 32),
-            FilledButton(onPressed: onLeave, child: Text(leaveLabel)),
-          ]),
+              ),
+              const SizedBox(height: 32),
+              FilledButton(onPressed: onLeave, child: Text(leaveLabel)),
+            ],
+          ),
         ),
       ),
     );

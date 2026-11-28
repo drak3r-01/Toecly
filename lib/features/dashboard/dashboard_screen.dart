@@ -1,3 +1,4 @@
+import 'package:clock/clock.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:material_ui/material_ui.dart';
@@ -45,6 +46,17 @@ class DashboardScreen extends ConsumerWidget {
           padding: const EdgeInsets.all(24),
           children: [
             FadeSlideIn(
+              child: Text(
+                switch (clock.now().hour) {
+                  < 5 || >= 18 => l10n.greetingEvening,
+                  < 12 => l10n.greetingMorning,
+                  _ => l10n.greetingAfternoon,
+                },
+                style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary),
+              ),
+            ),
+            FadeSlideIn(
+              delay: const Duration(milliseconds: 40),
               child: Text(l10n.estimatedScoreTitle, style: theme.textTheme.headlineMedium),
             ),
             const SizedBox(height: 16),

@@ -1,6 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
+import 'package:toecly/app/navigation/floating_nav_bar.dart';
 import 'package:toecly/app/providers.dart';
 import 'package:toecly/app/toecly_app.dart';
 import 'package:toecly/core/toeic_part.dart';
@@ -31,14 +32,14 @@ void main() {
 
   testWidgets('phone: bottom navigation bar', (tester) async {
     await pumpApp(tester);
-    expect(find.byType(NavigationBar), findsOneWidget);
+    expect(find.byType(FloatingNavBar), findsOneWidget);
     expect(find.byType(NavigationRail), findsNothing);
   });
 
   testWidgets('PC: side navigation rail', (tester) async {
     await pumpApp(tester, size: const Size(1200, 800));
     expect(find.byType(NavigationRail), findsOneWidget);
-    expect(find.byType(NavigationBar), findsNothing);
+    expect(find.byType(FloatingNavBar), findsNothing);
   });
 
   testWidgets('follows the system language (French)', (tester) async {

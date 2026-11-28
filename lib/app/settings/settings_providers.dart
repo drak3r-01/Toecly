@@ -3,6 +3,7 @@ import 'dart:ui';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:material_ui/material_ui.dart' show ThemeMode;
 
+import '../../core/haptics.dart';
 import '../providers.dart';
 
 class ThemeModeNotifier extends Notifier<ThemeMode> {
@@ -37,3 +38,17 @@ class LocaleNotifier extends Notifier<Locale?> {
 
 final themeModeProvider = NotifierProvider<ThemeModeNotifier, ThemeMode>(ThemeModeNotifier.new);
 final localeProvider = NotifierProvider<LocaleNotifier, Locale?>(LocaleNotifier.new);
+
+class HapticsNotifier extends Notifier<bool> {
+  static const _key = 'haptics';
+
+  @override
+  bool build() => Haptics.enabled = ref.read(localStoreProvider).read(_key) != 'off';
+
+  Future<void> set(bool enabled) {
+    state = Haptics.enabled = enabled;
+    return ref.read(localStoreProvider).write(_key, enabled ? 'on' : 'off');
+  }
+}
+
+final hapticsProvider = NotifierProvider<HapticsNotifier, bool>(HapticsNotifier.new);
